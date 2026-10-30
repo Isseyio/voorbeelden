@@ -1,0 +1,48 @@
+{
+  "merk": "Chocolatemakers",
+  "domein": "chocolatemakers.com",
+  "lead_id": "2026-10-30-chocolatemakers.com",
+  "accent": "#00977F",
+  "kop": "Een zeilschip, zes herkomsten en een reep van €3,99, vijf keer in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "ai_sfeer": false,
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Er belt een zeilschip",
+      "waarom": "Een speelse binnenkomer voor de reep uit de Dominicaanse Republiek, die per zeilschip Tres Hombres naar Amsterdam komt."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Zes herkomsten",
+      "waarom": "Elke herkomst met één feit van jullie eigen site laat zien dat er achter elke reep een verhaal zit."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Melk of puur",
+      "waarom": "Drie smaken uit dezelfde herkomst naast elkaar maken het kiezen makkelijk en nodigen uit om meer dan één reep te pakken."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Vanaf €3,99",
+      "waarom": "Een duidelijke prijs met de gratis verzending vanaf €35 eronder, over jullie eigen foto van een cacaoboom."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Niet zomaar een reep",
+      "waarom": "De 85% uit Sierra Leone met drie korte bewijzen: biologische cacao, gemaakt in Amsterdam en B Corp."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Van cacaoboom tot reep in Amsterdam.",
+    "kop": "Een nieuwsbrief die voelt als Chocolatemakers.",
+    "tekst": "Een nieuwsbrief rond jullie herkomstverhaal, met de reep uit de Dominicaanse Republiek uitgelegd en de branderij in Amsterdam als afsluiting.",
+    "punten": [
+      "Het verhaal van boon tot reep",
+      "De 75% met cacao nibs uitgelegd",
+      "Alle repen €3,99, gratis verzending vanaf €35"
+    ]
+  },
+  "gemaakt": "2026-10-30"
+}

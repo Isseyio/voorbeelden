@@ -1,0 +1,48 @@
+{
+  "merk": "SOPHIA MAE",
+  "domein": "sophia-mae.com",
+  "lead_id": "2026-10-30-sophia-mae.com",
+  "accent": "#A8763E",
+  "kop": "Elf geuren, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "ai_sfeer": true,
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Zonlicht en witte bloemen",
+      "waarom": "De kop vertelt de geur van Modern Myth in beelden, met jullie eigen sfeerfoto's tussen de woorden."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "De noten van Written in Sand",
+      "waarom": "Kokosmelk, vanille, sandelhout en jasmijn laten zien wat je ruikt, nog voordat iemand het flesje heeft geopend."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Alle geuren op een rij",
+      "waarom": "Vier flesjes in hun eigen kleur laten zien hoeveel keuze er is, met een zoekvraag die past bij hoe mensen een geur kiezen."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Eerst ruiken, vanaf €5",
+      "waarom": "Een geur koop je liever niet blind; de sample van €5 haalt die drempel weg."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Geen trends, maar routines",
+      "waarom": "Jullie eigen zin uit het merkverhaal, uitgewerkt als dagschema met een geur voor overdag, het weekend en de avond."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welke geur past bij jouw dag?",
+    "kop": "Een nieuwsbrief die voelt als SOPHIA MAE.",
+    "tekst": "Een geurgids voor nieuwe inschrijvers: vier eaux de parfum met hun noten en prijs, en samples als makkelijke eerste stap.",
+    "punten": [
+      "Vier geuren met noten en prijs",
+      "Samples vanaf €5 als eerste stap",
+      "Rustig, in jullie eigen zand- en crèmetinten"
+    ]
+  },
+  "gemaakt": "2026-10-30"
+}

@@ -1,0 +1,48 @@
+{
+  "merk": "Koeka",
+  "domein": "koeka.com",
+  "lead_id": "2026-10-30-koeka.com",
+  "accent": "#7A2C33",
+  "kop": "Whisper Waves, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "ai_sfeer": false,
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Woorden en foto's",
+      "waarom": "Jullie eigen sfeerfoto's tussen de woorden laten in één blik zien waar de swaddle van 100% katoen voor is."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Wat zit erin",
+      "waarom": "De stof doet het werk: dubbellaagse mousseline, zachter na elke was en Oeko-Tex Standard 100, zoals op de productpagina staat."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Eén lijn",
+      "waarom": "Slaapzak, swaddle, slabber en speendoekje in dezelfde streep, met de echte prijzen erbij, nodigen uit om meer dan één ding te kiezen."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Stapel in de hand",
+      "waarom": "Jullie eigen foto met de service eronder: gratis verzending vanaf €49,99, op werkdagen voor 20:00 besteld dezelfde dag weg en 30 dagen retour."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Een zachte dag",
+      "waarom": "Een dagritme van slabber tot slaapzak laat zien hoe de producten uit Whisper Waves samen een dag vullen."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Zacht voor kleine mensen, sinds 1998.",
+    "kop": "Een nieuwsbrief die voelt als Koeka.",
+    "tekst": "Een rustige nieuwsbrief rond jullie verhaal en de lijn Whisper Waves, met jullie eigen foto's en de ledikantdeken als hoofdproduct.",
+    "punten": [
+      "Het verhaal van Margareth en Jeannette sinds 1998",
+      "De ledikantdeken met de stof uitgelegd",
+      "Afsluiting met de swaddle 2-pack"
+    ]
+  },
+  "gemaakt": "2026-10-30"
+}
