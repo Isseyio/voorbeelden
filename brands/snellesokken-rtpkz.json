@@ -1,0 +1,24 @@
+{
+  "merk": "Snelle Sokken",
+  "domein": "snellesokken.nl",
+  "lead_id": "2026-10-30-snellesokken.nl",
+  "accent": "#04ADEF",
+  "kop": "Een frietje op je fietssok, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {"bestand": "ad1.png", "titel": "Het borduurdetail", "waarom": "Laat van dichtbij zien wat de sok bijzonder maakt: het 3D-borduur, plus wat hij kost."},
+    {"bestand": "ad2.png", "titel": "Fiets of loop je?", "waarom": "Eén sok voor twee doelgroepen, met jullie eigen fiets- en hardloopfoto's naast elkaar."},
+    {"bestand": "ad3.png", "titel": "Kies jouw print", "waarom": "Koffie, friet of banaan: laat mensen meteen hun favoriet kiezen."},
+    {"bestand": "ad4.png", "titel": "Je zondagsrit belt", "waarom": "Een knipoog die precies bij wielrenners past en stopt met scrollen."},
+    {"bestand": "ad5.png", "titel": "Gratis paar bij €40", "waarom": "Jullie bestaande actie groot in beeld, met een sterke rijfoto."}
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "En nu naar buiten. Gaan met die banaan.",
+    "kop": "Een nieuwsbrief die voelt als Snelle Sokken.",
+    "tekst": "Met jullie blauw, jullie toon en het verhaal van Hendrikus en IJsbrand, plus een productuitleg en een knop per print.",
+    "punten": ["Jullie eigen verhaal als binnenkomer", "De sok uitgelegd met labels", "Gratis verzending en gratis paar bovenaan"]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-30"
+}
