@@ -1,0 +1,19 @@
+{
+  "merk": "Merknaam",
+  "domein": "merk.nl",
+  "lead_id": "2026-10-30-merk.nl",
+  "accent": "#111111",
+  "kop": "Korte, merkeigen kop (optioneel; anders: 'Zo kunnen de advertenties van <merk> eruitzien.')",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {"bestand": "ad1.png", "titel": "Korte titel", "waarom": "Eén zin: waarom deze invalshoek werkt."}
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Onderwerpregel van de voorbeeldmail",
+    "kop": "Een nieuwsbrief die voelt als <merk>.",
+    "tekst": "Eén of twee zinnen over de opbouw.",
+    "punten": ["Max. 3 korte punten"]
+  },
+  "gemaakt": "2026-10-30"
+}

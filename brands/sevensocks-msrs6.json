@@ -1,0 +1,23 @@
+{
+  "merk": "SevenSocks",
+  "domein": "sevensocks.nl",
+  "lead_id": "2026-10-30-sevensocks.nl",
+  "accent": "#221B70",
+  "kop": "Zeven paar sokken, vijf manieren om ze te laten zien.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {"bestand": "ad1.png", "titel": "Zeven paar, elke dag", "waarom": "Het concept in één beeld: voor elke dag van de week een kleur."},
+    {"bestand": "ad2.png", "titel": "Jullie eigen zin, groot", "waarom": "Grote letters met de sokken tussen de woorden. Valt op in een drukke feed."},
+    {"bestand": "ad3.png", "titel": "Prijs per paar", "waarom": "€44 voor zeven paar is nog geen €6,29 per paar. Dat rekent niemand zelf uit."},
+    {"bestand": "ad4.png", "titel": "Onder je pak én je jeans", "waarom": "Eén doos voor kantoor en weekend, met jullie eigen fotoshoot."},
+    {"bestand": "ad5.png", "titel": "Maandag belt", "waarom": "Een knipoog: je sokken liggen al klaar, je hoeft er niet meer over na te denken."}
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welke kleur past bij jouw week?",
+    "kop": "Een nieuwsbrief die voelt als SevenSocks.",
+    "tekst": "Met jullie lettertypes, kleuren en knoppen. Opgebouwd rond de vraag welke doos bij iemand past, met een knop per doos.",
+    "punten": ["Elke doos met prijs en directe knop naar de shop", "Gratis bezorging door de brievenbus bovenaan", "Werkt op mobiel en in elke mailbox"]
+  },
+  "gemaakt": "2026-10-30"
+}
