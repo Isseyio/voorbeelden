@@ -1,0 +1,50 @@
+{
+  "slug": "madeoutof-xcscn",
+  "merk": "MADE out of",
+  "domein": "madeoutof.com",
+  "lead_id": "2026-10-30-madeoutof.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3E4A36",
+  "kop": "Laptophoezen en tassen van oude wol, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "131:3",
+      "titel": "Waar MARO van is gemaakt",
+      "waarom": "Gerecycled wolvilt, appelleer en jullie eigen atelier Makers Lokaal zijn het verhaal; deze opbouw laat ze één voor één zien naast de laptophoes."
+    },
+    {
+      "node": "132:2",
+      "titel": "De duurzame werkplek",
+      "waarom": "Eén groot woord en een zoekbalk sluiten aan bij waar mensen naar zoeken, met laptophoes, notitieboek en tas samen in beeld."
+    },
+    {
+      "node": "132:18",
+      "titel": "Twee kleuren naast elkaar",
+      "waarom": "MARO bestaat in vijf kleuren en drie maten; twee kleuren naast elkaar maken de keuze makkelijk."
+    },
+    {
+      "node": "132:41",
+      "titel": "Een cadeau met impact",
+      "waarom": "Jullie eigen aankondigingsbalk noemt cadeaus met impact; prijs en logo boven een sterke modelfoto van ANNE maken dat concreet."
+    },
+    {
+      "node": "132:52",
+      "titel": "Het notitieboek belt",
+      "waarom": "Een speelse inkomende oproep voor LOOP LUX, het notitieboek van gerecycled leer waarin je pagina's wisselt of toevoegt."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "133:2",
+    "onderwerp": "Van oude wol naar je nieuwe laptophoes",
+    "kop": "Een nieuwsbrief die voelt als MADE out of.",
+    "tekst": "Een merkverhaal-mail rond Makers Lokaal en jullie materialen, met MARO uitgelicht en ANNE als afsluiter.",
+    "punten": [
+      "Merkverhaal over Makers Lokaal en de makers",
+      "MARO met de materialen per onderdeel",
+      "Afsluiting met handtas ANNE"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-30"
+}
