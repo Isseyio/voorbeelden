@@ -1,0 +1,50 @@
+{
+  "slug": "komoni-4mteb",
+  "merk": "KOMONI Amsterdam",
+  "domein": "komoni.amsterdam",
+  "lead_id": "2026-10-30-komoni.amsterdam",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#445644",
+  "kop": "Een kaart die blijft staan, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "136:4",
+      "titel": "Waar het notitieboek van is",
+      "waarom": "Restanthout, de Sterrennacht, gerecycled papier en navulbaar: vier redenen naast elkaar laten zien waarom dit meer is dan een gewoon notitieboek."
+    },
+    {
+      "node": "136:26",
+      "titel": "Vanaf €6,95",
+      "waarom": "Jullie zetten zelf 'unieke cadeaus vanaf €6,95' voorop; groot in beeld met een echte sfeerfoto maakt het een makkelijke impulsaankoop."
+    },
+    {
+      "node": "136:35",
+      "titel": "Zo komt hij aan, zo blijft hij staan",
+      "waarom": "Twee foto's naast elkaar laten in één oogopslag zien wat een pop-up kaart van hout anders maakt dan een gewone kaart."
+    },
+    {
+      "node": "136:55",
+      "titel": "Ruimte voor je eigen woorden",
+      "waarom": "De achterkant met jullie eigen foto van een hand die schrijft, zodat duidelijk is dat het gewoon een kaart is om te versturen."
+    },
+    {
+      "node": "136:76",
+      "titel": "Oma belt over je kaart",
+      "waarom": "Een speelse invalshoek op het idee 'de kaart die je bewaart': de kaart staat na de verjaardag nog op de kast."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "138:2",
+    "onderwerp": "Welkom bij KOMONI",
+    "kop": "Een nieuwsbrief die voelt als KOMONI.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, in jullie groen en crème, met de pop-up kaarten voorop en de notitieboeken als tweede stap.",
+    "punten": [
+      "Pop-up kaarten vanaf €6,95 als eerste kennismaking",
+      "Drie redenen waarom je de kaart bewaart",
+      "Notitieboeken met de 10% korting bij twee of meer"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-30"
+}
