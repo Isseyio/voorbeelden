@@ -159,6 +159,7 @@ def build(slug: str):
         for d, t, s in WEEK
     )
 
+    ai_line = "Sfeerbeelden zijn deels met AI gemaakt; de producten zijn jullie eigen productfoto's. " if data.get("ai_sfeer") else ""
     photo = (ROOT / "assets" / "issey.jpg").exists()
     avatar = (
         '<img class="me-photo" src="../assets/issey.jpg" width="96" height="96" alt="Issey Kooijmans">'
@@ -268,7 +269,7 @@ def build(slug: str):
 
 <footer class="foot">
   <div class="wrap">
-    <p>Deze voorbeelden zijn gemaakt door Digital Essence, niet door of in opdracht van {esc(brand)}. Foto's, namen en productinformatie zijn van {esc(brand)} ({esc(data.get('domein', ''))}) en alleen gebruikt om te laten zien wat er kan. Liever dat deze pagina verdwijnt? Mail <a href="mailto:{CONTACT['email']}">{CONTACT['email']}</a>, dan haal ik hem dezelfde dag offline.</p>
+    <p>Deze voorbeelden zijn gemaakt door Digital Essence, niet door of in opdracht van {esc(brand)}. Foto's, namen en productinformatie zijn van {esc(brand)} ({esc(data.get('domein', ''))}) en alleen gebruikt om te laten zien wat er kan. {ai_line}Liever dat deze pagina verdwijnt? Mail <a href="mailto:{CONTACT['email']}">{CONTACT['email']}</a>, dan haal ik hem dezelfde dag offline.</p>
   </div>
 </footer>
 

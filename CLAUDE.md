@@ -6,9 +6,10 @@ Gehost via GitHub Pages op voorbeelden.digitalessence.io (CNAME bij Hostnet → 
 ## Nieuwe pagina toevoegen (productierun)
 1. Slug = `<merk-kort>-<5 willekeurige tekens>` (a-z, 2-9, geen 0/1/i/l/o), bv. `sevensocks-msrs6`. Niet te raden; nooit een lijst van merken publiceren.
 2. Exporteer uit Figma (download_assets, png, scale 2) de ads en de nieuwsbrief naar `<slug>/src/ad1.png … adN.png` en `<slug>/src/mail.png`. `src/` wordt niet gecommit.
-3. Schrijf `brands/<slug>.json` (zie `brands/_voorbeeld.json`): accent = primaire merkkleur, per ad een titel + één zin waarom.
+3. Schrijf `brands/<slug>.json` (zie `brands/_voorbeeld.json`): accent = primaire merkkleur, per ad een titel + één zin waarom; `ai_sfeer: true` als er AI-sfeerbeelden in zitten (zet een regel in de footer).
 4. `python3 tools/build.py <slug>` → `<slug>/index.html`, `<slug>/img/*.webp`, `og.jpg`.
-5. Commit + push naar `main`. Link: `https://voorbeelden.digitalessence.io/<slug>/` → in de Sheet (kolom Deelbestand) en achter de zwarte knop "Bekijk de voorbeelden" in de mail.
+5. Controleer de pagina (bv. Playwright-screenshot op iPhone-formaat via `python3 -m http.server`).
+6. `git fetch origin main && git rebase origin/main`, commit + push naar `main`. Link: `https://voorbeelden.digitalessence.io/<slug>/` → in de Sheet (kolom Deelbestand) en achter de zwarte knop "Bekijk de voorbeelden" in de mail.
 
 ## Regels
 - Pagina's zijn noindex en robots.txt blokkeert alles; de root toont geen merken.
