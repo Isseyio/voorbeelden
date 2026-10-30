@@ -66,7 +66,7 @@ h2{font-size:clamp(28px,4.4vw,44px);max-width:20ch}
   overflow-x:auto;scroll-snap-type:x mandatory;scroll-padding:0 var(--gut);scrollbar-width:none;max-width:1120px}
 .ads::-webkit-scrollbar{display:none}
 .ad{scroll-snap-align:start}
-.ad-btn{all:unset;display:block;cursor:zoom-in;border-radius:var(--r);overflow:hidden;box-shadow:var(--shadow);background:var(--bg2);
+.ad-btn{all:unset;box-sizing:border-box;display:block;width:100%;cursor:zoom-in;border-radius:var(--r);overflow:hidden;box-shadow:var(--shadow);background:var(--bg2);
   aspect-ratio:9/16;transition:transform .25s cubic-bezier(.2,.8,.2,1)}
 .ad-btn img{width:100%;height:100%;object-fit:cover}
 .ad-btn:hover{transform:translateY(-4px)}

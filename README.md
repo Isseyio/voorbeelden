@@ -3,7 +3,11 @@
 Per merk één statische voorbeeldpagina voor de cold outreach van Digital Essence (Issey Kooijmans).
 Gehost via GitHub Pages op voorbeelden.digitalessence.io (CNAME bij Hostnet → isseyio.github.io).
 
-## Nieuwe pagina toevoegen (productierun)
+## Wie publiceert
+- Normaal publiceert de Outreach-app (Google Apps Script, v5+) de pagina's zelf: de productierun zet in de Leads-tab kolom "Pagina-data" (JSON met slug, teksten en Figma-nodes) en "Pagina-status" = "Wacht op publicatie"; de app haalt elke 5 minuten de beelden uit Figma (jpg) en zet ze met de GitHub-API in deze repo. Productieruns kunnen zelf niet pushen.
+- Handmatig (een sessie met push-rechten) kan ook, met het build-script hieronder.
+
+## Nieuwe pagina handmatig toevoegen
 1. Slug = `<merk-kort>-<5 willekeurige tekens>` (a-z, 2-9, geen 0/1/i/l/o), bv. `sevensocks-msrs6`. Niet te raden; nooit een lijst van merken publiceren.
 2. Exporteer uit Figma (download_assets, png, scale 2) de ads en de nieuwsbrief naar `<slug>/src/ad1.png … adN.png` en `<slug>/src/mail.png`. `src/` wordt niet gecommit.
 3. Schrijf `brands/<slug>.json` (zie `brands/_voorbeeld.json`): accent = primaire merkkleur, per ad een titel + één zin waarom; `ai_sfeer: true` als er AI-sfeerbeelden in zitten (zet een regel in de footer).
