@@ -1,0 +1,48 @@
+{
+  "merk": "Sock My Feet",
+  "domein": "sockmyfeet.com",
+  "lead_id": "2026-10-30-sockmyfeet.com",
+  "accent": "#3F9DBF",
+  "kop": "Saaie sokken zijn verleden tijd, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Elke dag andere sokken",
+      "waarom": "Een weekstrip met vijf 3-packs laat in één beeld zien hoeveel prints er zijn, met de prijs van €14,95 erbij."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Koop deze sokken niet",
+      "waarom": "Een kop met een knipoog past bij jullie eigen toon en zet de Van Gogh-sokken groot in beeld, met drie punten van de productpagina."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Zo zit de 3-pack in elkaar",
+      "waarom": "Laat zien wat je krijgt: één geprinte sok en twee bijpassende effen sokken, met het materiaal van elk paar."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Drie paar voor €14,95",
+      "waarom": "De prijs per 3-pack bovenaan, met een van jullie campagnefoto's eronder, zodat het aanbod meteen duidelijk is."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Kunst",
+      "waarom": "Van Gogh, Mondriaan en Da Vinci naast elkaar: een herkenbare collectie die goed werkt als cadeau."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Saaie sokken zijn verleden tijd",
+    "kop": "Een nieuwsbrief die voelt als Sock My Feet.",
+    "tekst": "Een vrolijke mail met een van jullie campagnefoto's bovenaan en vier populaire 3-packs om meteen te bestellen.",
+    "punten": [
+      "Campagnefoto als opening",
+      "Vier 3-packs met prijs en knop",
+      "Afsluiting met alle prints"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-30"
+}

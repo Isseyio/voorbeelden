@@ -1,0 +1,48 @@
+{
+  "merk": "Josephine & Co",
+  "domein": "josephineco.com",
+  "lead_id": "2026-10-30-josephineco.com",
+  "accent": "#1E2740",
+  "kop": "Een argyle-vest en een bergmeer, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Geef kleur",
+      "waarom": "Jullie eigen motto 'Give color to the days ahead' als grote kop, met foto's uit de herfst- en wintercampagne tussen de woorden."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "€10 voor nieuwe inschrijvers",
+      "waarom": "De €10 korting op de eerste bestelling via de nieuwsbrief staat al op de site; groot in beeld boven jullie campagnefoto trekt nieuwe inschrijvers."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Eén vest, twee kleuren",
+      "waarom": "De Chad Cardigan bestaat in Navy en Brown voor €129,90 in XS t/m XXL; twee studiofoto’s naast elkaar laten de keuze meteen zien."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Details van dichtbij",
+      "waarom": "Jullie detailfoto van de Chad Cardigan met labels bij de ronde hals, de knoopsluiting en het argyle-patroon op de voorkant."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Truienweer belt",
+      "waarom": "Een speels belscherm rond de Alfonso Sweater in Moss Green en Fuchsia (€119,90), passend bij de rubriek Sweater Season op de site."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Geef kleur aan de dagen die komen",
+    "kop": "Een nieuwsbrief die voelt als Josephine & Co.",
+    "tekst": "Een seizoensmail die opent met jullie campagnefoto in de bergen, daarna het familieverhaal en de Chad Cardigan van dichtbij.",
+    "punten": [
+      "Het familieverhaal van Harold, Nicky en Pelle",
+      "De Chad Cardigan met vier labels",
+      "Afsluiting met de Alfonso Sweater in navy"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-30"
+}

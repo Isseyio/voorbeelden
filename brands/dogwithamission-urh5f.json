@@ -1,0 +1,48 @@
+{
+  "merk": "Dog with a Mission",
+  "domein": "dogwithamission.com",
+  "lead_id": "2026-10-30-dogwithamission.com",
+  "accent": "#FF0A74",
+  "kop": "Een halsband vol karakter, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Drie riemen, één woord",
+      "waarom": "Apple Pie, Indigo en Lagoon naast elkaar laten in één beeld zien dat er een kleur bij elke hond past, met de echte prijs van €44,95."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Waar Zula van gemaakt is",
+      "waarom": "Vacht, leer, jacquardband, kwastje en brons van dichtbij maken zichtbaar waarom een handgemaakte halsband meer kost dan een gewone."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "De wandeling belt",
+      "waarom": "Een speels beeld van een inkomend gesprek valt op tussen gewone productfoto's en zet de Lagoon riem centraal."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Zelfde hond, ander karakter",
+      "waarom": "Dezelfde dalmatiër met Gypsy en Urban Joplin laat in één oogopslag zien hoeveel een halsband aan een hond verandert."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Gratis verzending vanaf €50",
+      "waarom": "Jullie eigen verzenddrempel en verzending op dezelfde werkdag geven een concrete reden om nu te bestellen."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Halsbanden die opvallen, met de hand gemaakt.",
+    "kop": "Een nieuwsbrief die voelt als Dog with a Mission.",
+    "tekst": "Een mail die het verhaal van Kim en Eugenie vertelt, Zula van dichtbij laat zien en eindigt met een complete set om te shoppen.",
+    "punten": [
+      "Jullie eigen verhaal sinds 2014",
+      "Zula met vier details uitgelicht",
+      "Afsluiter met de Zula set"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-30"
+}

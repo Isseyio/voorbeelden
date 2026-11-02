@@ -1,0 +1,48 @@
+{
+  "merk": "Sproet & Sprout",
+  "domein": "sproet-sprout.com",
+  "lead_id": "2026-10-31-sproet-sprout.com",
+  "accent": "#134fc6",
+  "kop": "Pancake Boss, croissant en frietjes terug uit het archief, vijf keer in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Het archief is terug",
+      "waarom": "De Iconic Comeback is een sterk verhaal op zich: bekende prints die terugkomen, met jullie eigen campagnefoto's in de kop."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "10% welkomstcadeau",
+      "waarom": "Jullie geven al 10% bij inschrijving, dus een advertentie die daarop stuurt bouwt direct een eigen mailinglijst op."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Welke wordt het?",
+      "waarom": "Twee varianten naast elkaar laten ouders kiezen in plaats van twijfelen, met prijs en maten er meteen bij."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "De boss belt",
+      "waarom": "Een speelse vorm die past bij de humor in jullie prints en opvalt tussen gewone productfoto's."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Gemaakt met",
+      "waarom": "Biologisch katoen, handgetekende prints en vaste gecertificeerde makers staan op jullie site; hier zie je het in één oogopslag."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Oude favorieten, terug uit ons archief",
+    "kop": "Een nieuwsbrief die voelt als Sproet & Sprout.",
+    "tekst": "Een mail rond de Iconic Comeback: een grote campagnefoto, vier favorieten op een rij en daarna het verhaal achter de kleding.",
+    "punten": [
+      "Vier sweatshirts met prijs en knop",
+      "Made to last met jullie eigen makersverhaal",
+      "Footer met jullie eigen kanalen"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-31"
+}

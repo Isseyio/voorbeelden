@@ -1,0 +1,48 @@
+{
+  "merk": "Join the Pipe",
+  "domein": "join-the-pipe.org",
+  "lead_id": "2026-10-30-join-the-pipe.org",
+  "accent": "#1C3478",
+  "kop": "Een fles voor kraanwater, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Eén fles, elke dag",
+      "waarom": "De Holland Bottle Delft Blue van €9,95 groot in beeld, met drie dingen die jullie zelf noemen: suikerriet, BPA-vrij en gemaakt in Nederland."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Kraanwater belt",
+      "waarom": "Een speels beeld van een inkomend gesprek valt op tussen gewone productfoto's en zet de Amsterdam Bottle van €7,95 in het midden."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Kraanwater, groot",
+      "waarom": "Eén groot woord met de Nairobi-flessen, de zwarte Amsterdam Bottle en de negen kleuren ring laat in één keer zien hoe breed de lijn is."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Jouw stad vanaf €7,95",
+      "waarom": "Jullie foto van de Barcelona-fles boven de stad maakt het idee van een stadsfles meteen duidelijk, met de echte prijs van een city bottle erboven."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Een fles erbij",
+      "waarom": "Jullie eigen belofte dat er voor elke fles via de website een fles naar schoolkinderen in Afrika gaat, verteld met jullie eigen projectfoto's."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij de kraanwaterdrinkers",
+    "kop": "Een nieuwsbrief die voelt als Join the Pipe.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers die begint bij de fles, uitlegt waar hij van gemaakt is en eindigt bij de stadsflessen en jullie foundation.",
+    "punten": [
+      "Welkom met de Amsterdam Bottle",
+      "Drie kenmerken: suikerriet, vaatwasser, gemaakt in Nederland",
+      "Stadsflessen vanaf €7,95 en een fles erbij voor schoolkinderen"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-31"
+}

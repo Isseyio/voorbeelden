@@ -1,0 +1,48 @@
+{
+  "merk": "SooBluu",
+  "domein": "soobluu.com",
+  "lead_id": "2026-10-30-soobluu.com",
+  "accent": "#0085CA",
+  "kop": "Een reishanddoek van petflessen, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Zand glijdt eraf",
+      "waarom": "Een detailfoto van de Lotus met twee korte uitleggen laat zien wat microvezel van petflessen doet: snel droog en geen zand."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Flow of Lamu",
+      "waarom": "Twee prints naast elkaar op het strand laten kiezen, met prijs, maat en verzending in één blik."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Drie prints",
+      "waarom": "Flow, Lamu en Lotus als packshot naast elkaar tonen hoeveel keus er is bij één prijs van €32,95."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Je reis belt",
+      "waarom": "Een speels belscherm met de Flow valt op tussen gewone advertenties en past bij een vrolijk merk."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Gratis verzending",
+      "waarom": "Jullie gratis verzending vanaf €50 groot bovenaan, met een echte strandfoto eronder."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Licht in je tas. Snel weer droog.",
+    "kop": "Een nieuwsbrief die voelt als SooBluu.",
+    "tekst": "Een strandfoto met de Flow bovenaan, daarna het verhaal van Petra en Martine en de Lotus met uitleg per onderdeel.",
+    "punten": [
+      "Merkverhaal van ZusenZomer naar SooBluu",
+      "Lotus met vier korte labels",
+      "Afsluiter met Flow, Lamu en Lotus voor €32,95"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-30"
+}

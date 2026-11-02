@@ -1,0 +1,48 @@
+{
+  "merk": "ANNA + NINA",
+  "domein": "anna-nina.nl",
+  "lead_id": "2026-10-30-anna-nina.nl",
+  "accent": "#171717",
+  "kop": "Kikkers, kevers en zeemeerminnen, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Eén kever",
+      "waarom": "De Bugging You Studs groot in beeld met drie korte kenmerken: emaille, zirkonia en verguld messing."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Een staart die beweegt",
+      "waarom": "Een close-up van de Mermaid Studs aan het oor, met uitleg bij het detail dat ze bijzonder maakt."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Oorbellen",
+      "waarom": "Eén groot woord en vier studs naast elkaar laten in één blik zien hoeveel keus er is."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "De kikker belt",
+      "waarom": "Een speels belscherm met de Enchanted Froggies past bij jullie vrolijke toon en valt op in de feed."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "10% bij inschrijving",
+      "waarom": "Jullie eigen welkomstkorting groot bovenaan, met een modelfoto van de Mermaid Charm eronder."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Een wolkje aan je oor.",
+    "kop": "Een nieuwsbrief die voelt als ANNA + NINA.",
+    "tekst": "Een modelfoto met de Head in the Clouds bovenaan, daarna het verhaal van Anna en Nina en de oorbel met uitleg per onderdeel.",
+    "punten": [
+      "Merkverhaal sinds 2012 uit Amsterdam",
+      "Head in the Clouds met vier korte labels",
+      "Afsluiter met de Mermaid Bracelet"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-30"
+}

@@ -1,0 +1,48 @@
+{
+  "merk": "Seepje",
+  "domein": "seepje.com",
+  "lead_id": "2026-10-30-seepje.com",
+  "accent": "#0052CE",
+  "kop": "Zeep zonder troep, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Zonder troep",
+      "waarom": "Jullie eigen belofte groot in beeld, met vier wasmiddelen naast elkaar en de losse fles vanaf €10,99, laat in één oogopslag zien wat er niet in zit."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Gewoon een frisse was",
+      "waarom": "Jullie foto met twee handen tussen de bloemen zet het Knisperfris Duo van €18,03 centraal, met drie dingen die er niet in zitten."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Je was belt even",
+      "waarom": "Een speels beeld van een inkomend gesprek valt op tussen gewone productfoto's en zet de losse fles Knisperfris van €12,99 in het midden."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Eerst de fles, dan navullen",
+      "waarom": "Fles en navulling naast elkaar met hun echte prijs maken het navulsysteem duidelijk, met tot 90% minder plastic als reden."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Schoon is pas écht schoon",
+      "waarom": "Een zin uit jullie eigen missie met foto's van de handzeep en van Melvin en Jasper in Nepal, en het 4x Handzeep startpakket van €14,36 eronder."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Zeep zonder troep. Sinds 2013 wassen we anders.",
+    "kop": "Een nieuwsbrief die voelt als Seepje.",
+    "tekst": "Een mail die begint bij het verhaal van Melvin en Jasper in Nepal, de handzeep Lavendel van dichtbij laat zien en eindigt met vier geuren om te shoppen.",
+    "punten": [
+      "Jullie eigen verhaal sinds 2013",
+      "Handzeep Lavendel met vier details uitgelicht",
+      "Afsluiter met het 4x Handzeep startpakket"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-30"
+}

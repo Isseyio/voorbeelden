@@ -1,0 +1,48 @@
+{
+  "merk": "LOFTY MANNER",
+  "domein": "loftymanner.com",
+  "lead_id": "2026-10-30-loftymanner.com",
+  "accent": "#5C1F26",
+  "kop": "Knits, kant en elke maand iets nieuws, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Welkomstkorting groot in beeld",
+      "waarom": "De 10% voor nieuwe aanmeldingen staat nu vooral onderaan de site; hier is het de eerste boodschap, met jullie monogram over een echte campagnefoto."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Elke maand nieuw",
+      "waarom": "Jullie brengen elke maand een collectie uit in kleine oplages, ontworpen in Amsterdam; dat ritme is zelf een reden om vaker te komen kijken."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Eén trui, drie kleuren",
+      "waarom": "Jumper Kira bestaat in Mint Melange, Burgundy en Light Grey Melange; twee kleuren naast elkaar laten meteen zien dat er keuze is."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Kant op een blazer",
+      "waarom": "De kant-details van Blazer Kae zijn het verschil met een gewone blazer, dus de advertentie wijst ze één voor één aan."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Je winterlook belt",
+      "waarom": "Een speels concept rond de trui met sjaal voor koude dagen, in de donkere burgundy van de collectie."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Koude dagen vragen om zachte knits",
+    "kop": "Een nieuwsbrief die voelt als LOFTY MANNER.",
+    "tekst": "Een rustige mail in jullie beige en burgundy, met een sfeerfoto bovenaan en daarna vier stuks uit de nieuwe collectie met prijs en knop.",
+    "punten": [
+      "Vier producten die samen een outfit vormen",
+      "Jullie 4,8 en de 250 boutiques als vertrouwen",
+      "Gratis verzenden vanaf €85 in de balk bovenin"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-30"
+}
