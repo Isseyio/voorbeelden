@@ -1,0 +1,48 @@
+{
+  "merk": "Brabo Hockey",
+  "domein": "brabohockey.com",
+  "lead_id": "2026-11-01-brabohockey.com",
+  "accent": "#D42C2B",
+  "kop": "Een hockeymerk sinds 1968, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Koop deze stick niet",
+      "waarom": "Een omgekeerde kop trekt de aandacht, en de drie vinkjes noemen wat de Elite Hyper echt heeft: 100% X-Fusion Carbon, de X-Bow en de Hyper Torsion Box."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Keeper sinds 1968",
+      "waarom": "Brabo begon met keeperbescherming, dus de F-Xtreme Legguards in rood en wit vertellen meteen waar het merk vandaan komt."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Vaak als eerste",
+      "waarom": "De mijlpalen van jullie eigen over-ons-pagina, zoals carbon in een hockeystick in 1982, geven vertrouwen zonder dat het reclame voelt."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Gratis verzending vanaf €80",
+      "waarom": "Het aanbod uit jullie aankondigingsbalk, groot bovenaan, met een echte keeperfoto eronder."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Het nieuwe seizoen belt",
+      "waarom": "Een speelse belscherm-vorm die opvalt in de feed en precies inspeelt op het begin van het seizoen."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Nieuw seizoen. Nieuwe stick.",
+    "kop": "Een nieuwsbrief die voelt als Brabo Hockey.",
+    "tekst": "Een hero met jullie studiofoto, daaronder het verhaal van Boxtel in 1968 en de Elite Hyper met de onderdelen uitgelegd.",
+    "punten": [
+      "Het merkverhaal van jullie eigen site",
+      "Stick met grip, schacht en bow uitgelegd",
+      "Afsluiting met het hele assortiment"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-01"
+}

@@ -1,0 +1,48 @@
+{
+  "merk": "Baje Studio",
+  "domein": "bajestudio.com",
+  "lead_id": "2026-11-02-bajestudio.com",
+  "accent": "#53453C",
+  "kop": "Teddy, faux fur en warme bruintinten, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Word lid van de club",
+      "waarom": "De 10% korting voor nieuwe inschrijvers staat al op jullie site; hier wordt die het verhaal, met jullie logo groot over een portret uit de wintershoot."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Teddy voor buiten",
+      "waarom": "Een typografische kop met kleine fotovensters laat in één beeld zien waar de jurk Bowe van fluffy teddystof voor bedoeld is."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Rokje en gilet als set",
+      "waarom": "Cez en Loue zijn van dezelfde fluffy faux fur en worden op de site al samen gestyled; twee foto's naast elkaar verkopen de look in plaats van één stuk."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Waar Cez van gemaakt is",
+      "waarom": "De stof, de elastische ribboord en de wijde fit uit de productomschrijving, elk met een detailfoto, beantwoorden de vragen die ouders vóór het afrekenen hebben."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "De winter belt",
+      "waarom": "Een speels concept met een inkomende oproep valt op tussen gewone productads en zet het gilet Loue groot in beeld."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "The Cozy Edit: zachte stoffen, warme tinten",
+    "kop": "Een nieuwsbrief die voelt als Baje Studio.",
+    "tekst": "Opgebouwd rond de wintercollectie: een hero met de jurk Bowe, jullie verhaal uit het atelier, het gilet Loue met de kenmerken uitgelicht en een afsluiting met de complete look.",
+    "punten": [
+      "Jullie eigen foto's en logo, in de warme bruintinten van de site",
+      "Merkverhaal: ontworpen mét kinderen",
+      "Gilet Loue met vier kenmerken uit de productomschrijving"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

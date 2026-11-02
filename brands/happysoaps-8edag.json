@@ -1,0 +1,48 @@
+{
+  "merk": "HappySoaps",
+  "domein": "happysoaps.com",
+  "lead_id": "2026-11-02-happysoaps.com",
+  "accent": "#2E7B71",
+  "kop": "Een shampoo bar in een doosje, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "De hele lijn",
+      "waarom": "Laat in één beeld zien dat er voor elk haartype een eigen bar is, met de kleurige doosjes als blikvanger."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Wat erin zit",
+      "waarom": "Aloë vera, quinoa, olijfolie en sheaboter staan op de productpagina; met jullie eigen ingrediëntfoto erbij wordt dat meteen tastbaar."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Elke dag dezelfde bar",
+      "waarom": "Gemiddeld minstens 90 wasbeurten per bar is een sterk en concreet argument voor wie twijfelt over de overstap van een fles."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Bundelkorting",
+      "waarom": "De korting tot 30% bij 7 bars bestaat al in de shop; als advertentie maakt het een groter mandje aantrekkelijk."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Inkomende oproep",
+      "waarom": "Een speels beeld dat stopt met scrollen, met 0% water en gratis verzending vanaf €25 als nuchtere onderregel."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij HappySoaps",
+    "kop": "Een nieuwsbrief die voelt als HappySoaps.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de Aloë You Vera Much als ontvangst, drie dingen waar jullie voor staan en een zachte eerste stap met de bundelkorting.",
+    "punten": [
+      "Opgebouwd met jullie eigen productfoto's",
+      "Feiten uit jullie eigen site",
+      "Past bij de aanmelding die nu al op de site staat"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

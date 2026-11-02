@@ -1,0 +1,48 @@
+{
+  "merk": "Oro Jewels",
+  "domein": "oro-jewels.com",
+  "lead_id": "2026-10-31-oro-jewels.com",
+  "accent": "#1A1A1A",
+  "kop": "Gouden sieraden van drie zussen, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Ringen in detail",
+      "waarom": "Jullie eigen handfoto met de Mini Balloon Ring, met kaders die het 14k goud en de prijs direct laten zien."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Goud of diamant",
+      "waarom": "De Classic Chubby Hoops en de Signature Diamanten Hoops naast elkaar, zodat je in een oogopslag kiest."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Jouw letter",
+      "waarom": "Persoonlijk maken werkt goed bij sieraden; de Initiaal Ketting is er van A tot Z in 14k goud."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Gratis verzending",
+      "waarom": "Zet jullie gratis verzending vanaf €150 en het ophalen in Amsterdam voorop, met een close-up van de oorbellen."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Je zus belt",
+      "waarom": "Een speelse knipoog naar de zussen achter het merk, met de Classic Chubby Hoops in beeld."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Gemaakt om te dragen, en door te geven",
+    "kop": "Een nieuwsbrief die voelt als Oro Jewels.",
+    "tekst": "Opgebouwd rond het verhaal van Anne-Fleur, Myrthe en Lotte, met daarna de diamanten hoops en de ringen.",
+    "punten": [
+      "Het verhaal van de zussen met jullie eigen foto",
+      "De Signature Diamanten Hoops met vier kenmerken uit de productinfo",
+      "Afsluiting met ringen om te stapelen"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

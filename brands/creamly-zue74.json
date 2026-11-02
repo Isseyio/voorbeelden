@@ -1,0 +1,48 @@
+{
+  "merk": "CREAMLY.",
+  "domein": "creamly.nl",
+  "lead_id": "2026-10-31-creamly.nl",
+  "accent": "#352E26",
+  "kop": "Drie crèmes, één huidquiz en een merk dat zegt: je huid heeft minder nodig.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Eén crème, drie taken",
+      "waarom": "De hand met The Cream for Skin Vitality en drie werkzame stoffen van de productpagina (peptiden, ceramiden, niacinamide) maken in één beeld duidelijk wat de crème doet."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Koop geen tien potjes",
+      "waarom": "Jullie eigen boodschap, dat je huid minder nodig heeft, als grote kop die het scrollen stopt, met drie feiten van de over-onspagina eronder."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Welke huid heb jij?",
+      "waarom": "De drie versies van The Cream naast elkaar met één regel per huidtype, en de huidquiz als volgende stap voor wie twijfelt."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Wat klanten zeggen",
+      "waarom": "Echte reviews van de productpagina en de 5,0 uit 293 Google-reviews geven vertrouwen aan wie CREAMLY. nog niet kent."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Ochtend en avond",
+      "waarom": "Een routinekaart laat zien hoe weinig stappen het kost: reinigen en twee erwtjes crème, één of twee keer per dag, zoals jullie het zelf adviseren."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Je huid heeft minder nodig",
+    "kop": "Een nieuwsbrief die voelt als CREAMLY.",
+    "tekst": "Een mail met jullie verhaal: Alena die in 2017 begon, wat er in The Cream zit en een afsluiting die naar de huidquiz leidt.",
+    "punten": [
+      "Jullie eigen foto's en verpakkingen",
+      "Verhaal van Alena van de over-onspagina",
+      "De drie versies en de huidquiz als afsluiter"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-01"
+}

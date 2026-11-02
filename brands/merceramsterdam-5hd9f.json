@@ -1,0 +1,48 @@
+{
+  "merk": "Mercer Amsterdam",
+  "domein": "themercerbrand.com",
+  "lead_id": "2026-11-02-themercerbrand.com",
+  "accent": "#4A2E1F",
+  "kop": "Eén sneakersilhouet, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Alle kleuren van de Re-Run",
+      "waarom": "De Re-Run Pine bestaat in meerdere kleuren, dus één groot woord met drie paren laat in één beeld zien hoeveel keuze er is."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Koop deze sneaker niet",
+      "waarom": "Een omgekeerde kop maakt nieuwsgierig en zet daarna de feiten van jullie site neer: GRS- en PETA-keurmerken en eigen ontwerp sinds 2013."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Je volgende paar belt",
+      "waarom": "Een speels beeld van een inkomend gesprek valt op in de feed en houdt de Drive Suede met prijs en verzendregel in het midden."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Rood of antraciet",
+      "waarom": "Twee kleuren naast elkaar laat de kijker meteen kiezen, met de prijs van €169 en jullie retour- en verzendregel eronder."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Gratis verzending vanaf €180",
+      "waarom": "Jullie drempel voor gratis verzending ligt net boven de prijs van één paar, dus dit beeld geeft een reden om iets extra's te bestellen."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij The Mercer.",
+    "kop": "Een nieuwsbrief die voelt als Mercer Amsterdam.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, met het verhaal achter het merk, waar jullie op letten en een uitnodiging voor het Clubhouse.",
+    "punten": [
+      "Opgebouwd in jullie bruin en crème",
+      "Feiten uit jullie eigen over-ons-pagina",
+      "Sluit af met het Clubhouse in Amsterdam"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

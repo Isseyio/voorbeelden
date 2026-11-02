@@ -1,0 +1,48 @@
+{
+  "merk": "Friedhats",
+  "domein": "friedhats.com",
+  "lead_id": "2026-10-31-friedhats.com",
+  "accent": "#111111",
+  "kop": "Vijf keer Friedhats in beeld, met jullie eigen potten en labels.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "De Kenya belt",
+      "waarom": "Een herkenbaar telefoonscherm stopt het scrollen, en de smaaknoten van de Kenya Rung'eto Kiangoi staan er meteen onder."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Vers gebrand",
+      "waarom": "Eén groot woord en drie potten naast elkaar laten in een oogopslag zien wat jullie zijn: een micro roastery in Amsterdam die op smaak inkoopt."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Wat zit erin",
+      "waarom": "Koffieliefhebbers willen weten waar een koffie vandaan komt; smaak, herkomst, verwerking en boeren staan hier in vier regels, zoals op jullie productpagina."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Jij kiest hoe vaak",
+      "waarom": "Jullie abonnement werkt precies zo: de klant kiest het ritme, jullie kiezen de koffie. Dat past goed in een weekstrip."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Koop deze koffie niet",
+      "waarom": "Een knipoog past bij jullie toon, en de aardbei, framboos en Fruittella van de Efrén Echeverri maken nieuwsgierig."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Fijn dat je er bent. Dit drinken we nu.",
+    "kop": "Een nieuwsbrief die voelt als Friedhats.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: eerst wat er nu gebrand wordt, dan het verhaal van de branderij, twee koffies uitgelicht en het abonnement.",
+    "punten": [
+      "Jullie eigen potten en mascotte",
+      "Smaaknoten en herkomst van de site",
+      "Abonnement als vaste afsluiter"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-31"
+}

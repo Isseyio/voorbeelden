@@ -1,0 +1,48 @@
+{
+  "merk": "Blaze Sports",
+  "domein": "blaze-sports.com",
+  "lead_id": "2026-10-31-blaze-sports.com",
+  "accent": "#FF5A1F",
+  "kop": "Vijf advertenties voor het skiseizoen, met jullie eigen brillen en foto's.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Zonder opslag",
+      "waarom": "De prijs en jullie belofte, premium zicht zonder de opslag van een winkel, staan bovenaan over een echte foto met de Firestorm."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Bewolkt of zon",
+      "waarom": "Twee foto's naast elkaar laten zien waarom je lenzen wisselt: categorie 2 voor bewolkt, categorie 4 voor felle zon."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Klik. Klaar.",
+      "waarom": "Het magnetische lenssysteem is jullie grootste verschil met clips en schroeven, dus dat krijgt hier de hele advertentie."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Zo zien skiërs het",
+      "waarom": "Echte reviews van jullie productpagina en de 4,5 op Trustpilot geven vertrouwen aan wie Blaze nog niet kent."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Het skiseizoen belt",
+      "waarom": "Een knipoog met een telefoonscherm stopt het scrollen, precies op het moment dat mensen hun wintersport plannen."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Skibrillen voor elk weertype",
+    "kop": "Een nieuwsbrief die voelt als Blaze Sports.",
+    "tekst": "Een mail met jullie verhaal: twee broers die zelf skiën, de bril met labels bij elk onderdeel en een afsluiting over de losse lenzen.",
+    "punten": [
+      "Jullie eigen foto's van de piste",
+      "Verhaal van de over-ons-pagina",
+      "Lenzen per weertype als afsluiter"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-31"
+}

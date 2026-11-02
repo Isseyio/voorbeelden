@@ -1,0 +1,48 @@
+{
+  "merk": "The Matcha Society",
+  "domein": "the-matcha-society.com",
+  "lead_id": "2026-10-31-the-matcha-society.com",
+  "accent": "#111A25",
+  "kop": "Een dagelijkse kom matcha, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Koop deze matcha niet",
+      "waarom": "Een kop die het omgekeerde zegt valt op in de feed en noemt meteen de eerste oogst, de steenmaling en Kagoshima."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Elke dag een ritueel",
+      "waarom": "Jullie eigen gedachte over matcha als dagelijks ritueel, met de foto's van kom, garde en mensen tussen de woorden."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Elke dag matcha",
+      "waarom": "Laat zien dat matcha bij elke dag hoort, en noemt dat jullie binnen 3 werkdagen verzenden."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Alles voor thuis",
+      "waarom": "Het blik van 30 gram, de zak van 50 gram en de garde naast elkaar, met de echte prijzen."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "De Starter Giftbox",
+      "waarom": "Legt uit wat er in de Wavy giftbox zit, zodat duidelijk is waarom die €140 kost."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Elke reis begint met een ervaring",
+    "kop": "Een nieuwsbrief die voelt als The Matcha Society.",
+    "tekst": "Opgebouwd rond jullie eigen zin over de ervaring en het verhaal van Asrin, met daarna de matcha en de chawan.",
+    "punten": [
+      "Het verhaal van de eerste winkel in Maastricht",
+      "De matcha met vier kenmerken uit jullie productinfo",
+      "Afsluiting met de handgemaakte chawan"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-01"
+}

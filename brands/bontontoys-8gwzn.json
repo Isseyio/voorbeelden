@@ -1,0 +1,48 @@
+{
+  "merk": "Bon Ton Toys",
+  "domein": "bontontoys.com",
+  "lead_id": "2026-11-01-bontontoys.com",
+  "accent": "#1E442F",
+  "kop": "Knuffels sinds 1933, vijf keer in beeld voor de cadeaumaanden.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "10% welkomstkorting",
+      "waarom": "Jullie bestaande aanbod, 10% korting bij inschrijving voor de nieuwsbrief, groot bovenaan boven een eigen foto met Bobo Bear."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Zacht en ECO",
+      "waarom": "Loulou, Herman en Sally naast elkaar met prijs, en in één zin waar de ECO-lijn van gemaakt is."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Bobo belt je op",
+      "waarom": "Een knipoog met een telefoonscherm stopt het scrollen en zet één knuffel helemaal centraal."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Sinds 1933",
+      "waarom": "Een grote typografische kop met jullie eigen foto's ertussen vertelt in één beeld hoe lang jullie al knuffels maken."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Klaar om te geven",
+      "waarom": "Freddy en Stacy in hun giftbox, met gratis verzending vanaf € 50 en levering in 1 à 2 werkdagen: precies wat cadeaukopers willen weten."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Knuffels die lang meegaan",
+    "kop": "Een nieuwsbrief die voelt als Bon Ton Toys.",
+    "tekst": "Een mail met jullie verhaal: sinds 1933, B Corp en gerecycled polyester, Bobo Bear met labels en een afsluiting over de giftboxen.",
+    "punten": [
+      "Jullie eigen foto's en kleuren",
+      "Verhaal van de over-onspagina",
+      "Giftboxen als afsluiter"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-01"
+}
