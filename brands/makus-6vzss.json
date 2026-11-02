@@ -1,0 +1,48 @@
+{
+  "merk": "MAKUS",
+  "domein": "makuskitchen.com",
+  "lead_id": "2026-11-02-makuskitchen.com",
+  "accent": "#8A5A4E",
+  "kop": "Een kookplaat met afzuiging in kleur, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Afzuiging in de plaat",
+      "waarom": "Laat in één beeld zien wat de Makus Moon anders maakt: de afzuiging zit in de kookplaat, met de functies als korte labels eromheen."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Welke kleur past?",
+      "waarom": "Zet Makus Moon en Terra Pink naast elkaar, zodat kijkers meteen aan hun eigen keuken denken."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Details van dichtbij",
+      "waarom": "Een rustige keukenfoto met twee labels over de bediening en de kleur, plus het klantcijfer 9.6 van jullie site."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Zo kies je jouw Makus",
+      "waarom": "Leidt van afzuiging en samples naar Made in Germany en 5 jaar garantie, handig voor een aankoop waar mensen even over nadenken."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Je keuken belt",
+      "waarom": "Een speels beeld dat opvalt in de feed, met prijs en garantie er direct onder."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij Makus",
+    "kop": "Een nieuwsbrief die voelt als Makus.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers op het gratis magazine, met jullie eigen foto's en kleuren.",
+    "punten": [
+      "Welkom met het magazine als eerste beeld",
+      "Ontworpen in Nederland, gemaakt in Duitsland, 5 jaar garantie",
+      "Uitnodiging voor de showroom en een sample"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

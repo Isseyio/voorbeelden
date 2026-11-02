@@ -1,0 +1,48 @@
+{
+  "merk": "Sockeloen",
+  "domein": "sockeloen.com",
+  "lead_id": "2026-11-01-sockeloen.com",
+  "accent": "#A3803F",
+  "kop": "Een aerosok uit het peloton, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Aero in één woord",
+      "waarom": "Eén groot woord en drie packshots laten meteen zien waar de sok voor is, met de windtunneltest met TU Eindhoven als bewijs."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Tot in de teen",
+      "waarom": "De labels wijzen de anti-slip laag, de geweven bovenkant en de versterkte hiel en teen aan, precies de punten die jullie op de productpagina noemen."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Een nieuw PR belt",
+      "waarom": "Een speels belscherm valt op tussen gewone posts en koppelt de sok aan wat elke renner wil: sneller zijn."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "3 + 1 gratis",
+      "waarom": "Jullie bestaande actie op de Aero Cycling Socks staat groot bovenaan, met jullie eigen beeld van de sokken in actie."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Kies je kleur",
+      "waarom": "White-Logo en AllWhite naast elkaar maakt de keuze makkelijk, met prijs en maten er direct onder."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Geboren in het peloton",
+    "kop": "Een nieuwsbrief die voelt als Sockeloen.",
+    "tekst": "Het verhaal van de oprichter uit het Rabobank Continental Team, gevolgd door de 540 met zijn details en de nieuwe wintercollectie.",
+    "punten": [
+      "Merkverhaal uit jullie eigen about-pagina",
+      "De 540 met vier kenmerken aangewezen",
+      "Afsluiting met de overschoenen voor de winter"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

@@ -1,0 +1,48 @@
+{
+  "merk": "Blush Jewels",
+  "domein": "blush-jewels.com",
+  "lead_id": "2026-11-02-blush-jewels.com",
+  "accent": "#B98B73",
+  "kop": "Twintig jaar echt goud uit Amsterdam, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Het detail van dichtbij",
+      "waarom": "Een close-up van de ring met de emerald-geslepen lab grown diamant laat in één beeld zien wat je koopt: de steen, het 14 karaat goud en dat je de maat gratis ruilt."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Kieskeurig over goud",
+      "waarom": "Jullie eigen modelfoto met een rustige serif-kop vertelt waar Blush voor staat, met de feiten van de site eromheen: 14 karaat goud, sinds 2006, 2 jaar garantie en 30 dagen retour."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Koop deze ring niet",
+      "waarom": "Een kop die mensen laat stoppen met scrollen, met de ronde lab grown diamant van 0,20 ct als antwoord eronder."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Rond of ovaal",
+      "waarom": "Twee ringen naast elkaar maken de keuze makkelijk en laten zien dat er meer vormen in de collectie zitten."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Twintig jaar Blush",
+      "waarom": "Jullie jubileumjaar en de Anniversary Collection geven een echte aanleiding om nu te adverteren, met jullie eigen campagnefoto."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij Blush",
+    "kop": "Een nieuwsbrief die voelt als Blush.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: eerst het product, dan in drie punten waarom Blush, en een rustige tweede stap naar een eerste aankoop.",
+    "punten": [
+      "Jullie eigen foto's en kleuren",
+      "Gratis verzending en retour direct in beeld",
+      "Een makkelijke eerste stap met een ketting"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

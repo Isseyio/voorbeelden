@@ -1,0 +1,48 @@
+{
+  "merk": "Wakuli",
+  "domein": "wakuli.com",
+  "lead_id": "2026-11-02-wakuli.com",
+  "accent": "#0062FF",
+  "kop": "Goede koffie, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Goed voor jou en de boer",
+      "waarom": "Jullie verhaal in één kop: rechtstreeks gekocht bij 13 boerengroepen en vers gebrand net boven Amsterdam, met jullie eigen foto's tussen de woorden."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Drie smaken naast elkaar",
+      "waarom": "De drie kleurrijke zakken laten in één beeld zien dat er een smaak is voor elke ochtend, vanaf €9,30 per 225 gram."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Elke week vers",
+      "waarom": "Het abonnement als ritme: elke week tot elke acht weken, met 5% korting en gratis verzending en altijd binnen 7 dagen na het branden verstuurd."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "5% met een abonnement",
+      "waarom": "Een echt voordeel van de site groot in beeld, boven een foto die laat zien hoe jullie koffie voelt."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Je ochtend belt",
+      "waarom": "Een speelse knipoog naar de tekst op jullie zak, met de Original House Blend als beller."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij Wakuli.",
+    "kop": "Een nieuwsbrief die voelt als Wakuli.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: jullie zak in de hero, in drie stappen hoe jullie werken en daarna een zachte stap naar het abonnement.",
+    "punten": [
+      "Direct van de boer, vers gebrand, op jouw ritme",
+      "Abonnementsvoordeel van de site als afsluiter",
+      "Jullie eigen foto's en kleuren"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

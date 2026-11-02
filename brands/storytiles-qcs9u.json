@@ -1,0 +1,48 @@
+{
+  "merk": "StoryTiles",
+  "domein": "storytiles.com",
+  "lead_id": "2026-11-01-storytiles.com",
+  "accent": "#2557B4",
+  "kop": "Een tegeltje met een verhaal, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Jullie eigen datum",
+      "waarom": "De foto met de tegel in handen laat meteen zien dat het een persoonlijk cadeau is, met de kenmerken eronder."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Namen in het hart",
+      "waarom": "De close-up maakt de personalisatie concreet: namen boven en onder het hart, de datum er middenin."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Een cadeau voor elk moment",
+      "waarom": "Eén groot woord en drie tegels uit de nieuwe collectie, zodat je in één blik ziet waar je ze voor geeft."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Drie keer gebakken",
+      "waarom": "Het ambacht achter de tegel, van klei in kaders tot de oven, met jullie eigen foto's uit de tegelbakkerij."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Je hartenjager belt",
+      "waarom": "Een speels idee dat opvalt in de feed en de Hartenjager als trouwcadeau neerzet."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Zeg het met een tegeltje.",
+    "kop": "Een nieuwsbrief die voelt als StoryTiles.",
+    "tekst": "In jullie oranje en Delfts blauw, met het verhaal van Marga en de doos tegels van haar oma, en de Hartenjager als voorbeeld van een persoonlijke tegel.",
+    "punten": [
+      "Merkverhaal uit jullie eigen over-ons-pagina",
+      "Personalisatie uitgelegd met vier korte labels",
+      "Afsluiting met ophangen, cadeauverpakking en prijs"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-01"
+}

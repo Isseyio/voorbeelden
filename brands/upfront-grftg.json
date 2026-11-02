@@ -1,0 +1,48 @@
+{
+  "merk": "Upfront",
+  "domein": "upfront.nl",
+  "lead_id": "2026-11-02-upfront.nl",
+  "accent": "#111111",
+  "kop": "Alles op de voorkant, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Lees de achterkant niet",
+      "waarom": "Een omgekeerde kop die jullie belofte laat zien: de ingrediënten staan op de voorkant, zonder onzin claims, en vandaag besteld is vandaag verzonden."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Eiwit, zonder onzin",
+      "waarom": "Eén groot statement met vier producten naast elkaar, zodat in één beeld duidelijk is wat jullie maken en hoe eerlijk de verpakking is."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Elke ochtend Eiwit Oats",
+      "waarom": "Een weekstrip maakt van jullie oats een vast ontbijtritme, met de snelle verzending als duidelijke reden om nu te bestellen."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Krachtsport of duursport",
+      "waarom": "Twee doelen naast elkaar, net als jullie collecties, zodat iedere sporter meteen ziet waar hij moet kijken."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Je eiwit belt even",
+      "waarom": "Een speelse knipoog met de Whey Milkshake in de hoofdrol en jullie eigen belofte: 22 gram eiwit met de textuur van een milkshake."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij Upfront. Alles staat op de voorkant.",
+    "kop": "Een nieuwsbrief die voelt als Upfront.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: jullie producten in de opening, in drie stappen hoe jullie werken en daarna een zachte stap naar het ontbijt met Eiwit Oats.",
+    "punten": [
+      "Jullie filosofie: alles op de voorkant",
+      "Drie redenen in één oogopslag",
+      "Jullie eigen productfoto's en zwart-witte stijl"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

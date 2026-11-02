@@ -1,0 +1,48 @@
+{
+  "merk": "More Natural",
+  "domein": "morenatural.nl",
+  "lead_id": "2026-11-01-morenatural.nl",
+  "accent": "#D6D1CB",
+  "kop": "Eén ingrediënt per flesje, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Eén ingrediënt",
+      "waarom": "Jullie arganolie bevat alleen Argania Spinosa Kernel Oil, zonder parfum of siliconen, en dat zie je hier in één oogopslag."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Druppel voor druppel",
+      "waarom": "De close-up van de pipet laat de olie zelf zien, met de herkomst uit Marokko en de prijs erbij."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Welke olie past bij jou",
+      "waarom": "Twee oliën naast elkaar helpen iemand kiezen, en de oliewijzer op jullie site maakt de volgende stap makkelijk."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Hair boost",
+      "waarom": "De combinatie van arganolie en avocado-olie is 10% voordeliger, en een concrete prijs trekt de aandacht in de feed."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Je hele dag",
+      "waarom": "Eén flesje voor gezicht, haar en nagelriemen, precies zoals jullie het gebruik op de productpagina uitleggen."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Terug naar de basis. Meer heb je niet nodig.",
+    "kop": "Een nieuwsbrief die voelt als More Natural.",
+    "tekst": "Rustig opgebouwd in jullie warme grijstinten, met het verhaal van Manisha en Vincent en de arganolie in de hoofdrol.",
+    "punten": [
+      "Merkverhaal uit jullie eigen over-ons-pagina",
+      "Arganolie met vier korte productlabels",
+      "Afsluiting met gebruik en prijs"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-01"
+}

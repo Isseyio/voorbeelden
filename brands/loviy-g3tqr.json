@@ -1,0 +1,48 @@
+{
+  "merk": "LOVÍY",
+  "domein": "loviy.nl",
+  "lead_id": "2026-11-02-loviy.nl",
+  "accent": "#C028B9",
+  "kop": "Zijden boeketten die blijven, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Een boeket dat blijft",
+      "waarom": "Eén grote kop met jullie eigen foto's tussen de woorden vertelt meteen waar het om draait: zijde die jarenlang mooi blijft en nooit water nodig heeft."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Het alternatief voor verse bloemen",
+      "waarom": "Jullie eigen zin als zoekbalk, met Colourful Love en Romantic Dreams in verschillende maten naast elkaar, laat zien hoe breed het aanbod is."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "€120 in plaats van €160",
+      "waarom": "De korting die nu op Colourful Love middel staat, groot boven de sfeerfoto van precies dat boeket, inclusief vaas."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Kleurrijk of romantisch",
+      "waarom": "Twee boeketten naast elkaar maken kiezen makkelijk, met vanaf €80 en geen water nodig als duidelijke afsluiter."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Je boeket belt even",
+      "waarom": "Een speelse knipoog met jullie productfoto op de roze achtergrond: het boeket belt om te zeggen dat het nooit water nodig heeft."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Bloemen die blijven. Ook zonder water.",
+    "kop": "Een nieuwsbrief die voelt als LOVÍY.",
+    "tekst": "Een mail met jullie verhaal: de sfeerfoto als opening, daarna hoe Carmen en Danny begonnen en Colourful Love middel uitgelicht met de belangrijkste details.",
+    "punten": [
+      "Jullie eigen verhaal sinds 2019",
+      "Product met hoogte, vaas en verzorging uitgelegd",
+      "Jullie eigen foto's, kleuren en lettertype"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

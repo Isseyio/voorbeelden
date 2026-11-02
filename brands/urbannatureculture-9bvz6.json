@@ -1,0 +1,48 @@
+{
+  "merk": "Urban Nature Culture",
+  "domein": "urbannatureculture.com",
+  "lead_id": "2026-11-02-urbannatureculture.com",
+  "accent": "#7F7E82",
+  "kop": "Een vaas uit Portugal en kopjes met een gouden oor, vijf keer Urban Nature Culture in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Eén vaas, drie kenmerken",
+      "waarom": "De Vase Salix groot in beeld met drie dingen die op jullie productpagina staan: glanzend nectarine, Ø 43 × 28 cm en handgemaakt in Portugal."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Vazen in één woord",
+      "waarom": "Eén groot woord en een zoekbalk zoals mensen zelf zoeken, met drie vazen naast elkaar zodat je meteen kunt vergelijken op vorm en prijs."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Oatmeal of carrot",
+      "waarom": "Dezelfde Good Morning cappuccinokop in twee kleuren naast elkaar laat kiezen, met jullie 4.8 uit 231 reviews als geruststelling."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Een kopje per moment",
+      "waarom": "Espresso, koffie en thee als dagritme met schakelaars, zodat de verschillende maten van de Good Morning collectie vanzelf logisch worden."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "De tafel belt",
+      "waarom": "Een speels belscherm rond de Serving bowl Moon van €49,99, met het gemarmerde patroon als blikvanger."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Warme kleuren voor binnen",
+    "kop": "Een nieuwsbrief die voelt als Urban Nature Culture.",
+    "tekst": "Een assortimentsmail met jullie Fall Winter 26-woonkamer als opening en vier stuks onder elkaar, elk met een korte regel, prijs en knop.",
+    "punten": [
+      "Vaas, kopje, schaal en kan met prijs",
+      "4.8 uit 231 reviews als geruststelling",
+      "Footer met jullie eigen socials"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

@@ -1,0 +1,48 @@
+{
+  "merk": "LouLou Essentiels",
+  "domein": "loulouessentiels.nl",
+  "lead_id": "2026-11-02-loulouessentiels.nl",
+  "accent": "#54644F",
+  "kop": "Leren tassen uit eigen atelier, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Prijs bij het model",
+      "waarom": "Jullie eigen modelfoto met de CELINE, met de prijs en de gratis verzending vanaf €49,95 direct bovenaan."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "De CELINE van binnen",
+      "waarom": "Grain leer, het laptopvak van 15,6 inch en de roze voering laten zien waarom deze werktas €229,95 kost."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Twee keer de ELO",
+      "waarom": "Milk Chocolat en Python Blue Orient naast elkaar, zodat je in één beeld kiest welke bij je past."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Een werkdag lang",
+      "waarom": "Een dag in drie momenten maakt de vakken van de CELINE concreet: laptop, pasjes met RFID, lange band."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Koop deze tas niet",
+      "waarom": "Een knipoog die blijft hangen, met de ZOË als crossbody en de prijs van €129,95 erbij."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Met de hand gemaakt, al sinds 2010",
+    "kop": "Een nieuwsbrief die voelt als LouLou Essentiels.",
+    "tekst": "Opgebouwd rond jullie verhaal: de Smart Little Bag uit 2010, het atelier op zonne-energie en de CELINE in zes kleuren.",
+    "punten": [
+      "Sfeerfoto van de VERA als opening",
+      "CELINE met vier details uitgelicht",
+      "Afsluiting met de zes kleuren en jullie modelfoto"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}
