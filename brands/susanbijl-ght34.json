@@ -1,0 +1,48 @@
+{
+  "merk": "Susan Bijl",
+  "domein": "susanbijl.nl",
+  "lead_id": "2026-11-02-susanbijl.nl",
+  "accent": "#FE44B3",
+  "kop": "Eén tas in 48 kleuren, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "48 kleuren",
+      "waarom": "De kleuren zijn het sterkste wat jullie hebben, dus de advertentie laat er meteen drie naast elkaar zien met één grote kop."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Meer dan 20 kilo",
+      "waarom": "Gerecycled ripstop nylon, Bluesign en meer dan 20 kilo draagkracht zijn feiten van jullie productpagina die je in één oogopslag leest."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "10% bij inschrijving",
+      "waarom": "Jullie geven al 10% korting bij inschrijving voor de nieuwsbrief, en deze advertentie zet die korting met een modelfoto voorop."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Small, Medium of Large",
+      "waarom": "Drie maten van €29,90 tot €39,90 naast elkaar maakt het kiezen makkelijk en laat meteen de prijs zien."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Je tas belt",
+      "waarom": "Een speels idee in de vorm van een inkomend gesprek, dat opvalt tussen gewone productadvertenties."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Sinds 2000 de tas die blijft",
+    "kop": "Een nieuwsbrief die voelt als Susan Bijl.",
+    "tekst": "De mail vertelt het verhaal van het eerste ontwerp uit 2000 en het vliegernylon, laat de tas zien met vier kenmerken en sluit af met de winkels in Rotterdam.",
+    "punten": [
+      "Merkverhaal uit jullie eigen Over ons-pagina",
+      "Vier kenmerken direct bij de tas",
+      "Afsluiting met de twee winkels in Rotterdam"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

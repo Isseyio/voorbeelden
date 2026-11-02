@@ -1,0 +1,48 @@
+{
+  "merk": "Het Koekemannetje",
+  "domein": "hetkoekemannetje.nl",
+  "lead_id": "2026-11-02-hetkoekemannetje.nl",
+  "accent": "#F79379",
+  "kop": "Een vers koekje in een roze trommel, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Kies je eigen mix",
+      "waarom": "Jullie trommel stel je zelf samen, dus de smaken met elk hun eigen foto maken meteen duidelijk wat je kunt kiezen."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Koop deze trommel niet",
+      "waarom": "Een knipoog valt op tussen gewone productadvertenties, en de trommel zelf is herkenbaar genoeg om het verhaal te dragen."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Vers uit de oven belt",
+      "waarom": "Jullie bakken de hele dag vers in de winkel; een speels belscherm maakt van dat feit een moment."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Melk of brownie",
+      "waarom": "Twee smaken naast elkaar met de echte prijzen van 5, 10 en 12 koekjes geeft direct een reden om te kiezen."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Elke dag vers",
+      "waarom": "Vers deeg elke ochtend, geen kunstmatige toevoegingen en een plasticvrije trommel: dat verhaal staat op jullie eigen site."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Vers uit de oven, elke dag opnieuw",
+    "kop": "Een nieuwsbrief die voelt als Het Koekemannetje.",
+    "tekst": "Een hero met jullie bakkers in de winkel, het verhaal van David, Alain en het reuzenrad, en de trommel met uitleg per onderdeel.",
+    "punten": [
+      "Merkverhaal uit jullie eigen Ons verhaal",
+      "Trommel met labels per smaak",
+      "Afsluiting rond cadeau geven"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

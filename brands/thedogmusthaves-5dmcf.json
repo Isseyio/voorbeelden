@@ -1,0 +1,48 @@
+{
+  "merk": "The Dog Musthaves",
+  "domein": "thedogmusthaves.com",
+  "lead_id": "2026-11-02-thedogmusthaves.com",
+  "accent": "#652348",
+  "kop": "Een halsband met naampenning, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Welke kleur past?",
+      "waarom": "Two Tone en Cheetah naast elkaar, met jullie eigen hondenfoto's, helpen twijfelaars kiezen en laten echt leer en gratis gravure meteen zien."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Gemaakt met",
+      "waarom": "Leer, messing gesp, naampenning en de roze binnenkant uitgelicht, zodat de prijs van €34,95 vanzelf logisch voelt."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Alles matcht",
+      "waarom": "Halsband, lijn en beloningstasje in hetzelfde cheetah-leer als set, wat de bestelling vanzelf groter maakt."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Wandelen in stijl belt",
+      "waarom": "Een speels beeld dat opvalt in de feed, met de zandkleurige halsband en gouden penning als held."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "De prijs vooraan",
+      "waarom": "Eén duidelijke prijs inclusief gegraveerde naampenning, boven een van jullie eigen portretten."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij The Dog Musthaves",
+    "kop": "Een nieuwsbrief die voelt als The Dog Musthaves.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% korting die jullie al beloven, wat jullie halsbanden bijzonder maakt en de naampenning als eerste stap.",
+    "punten": [
+      "Opent met jullie 10% welkomstkorting",
+      "Echt leer, gratis gravure en eigen studio in drie blokken",
+      "Naampenning als volgende stap, met jullie eigen foto"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

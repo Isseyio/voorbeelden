@@ -1,0 +1,48 @@
+{
+  "merk": "BOOM.",
+  "domein": "boombrush.com",
+  "lead_id": "2026-11-02-boombrush.com",
+  "accent": "#216C34",
+  "kop": "Een tandenborstel die 360 dagen meegaat, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Eén borstel, drie redenen",
+      "waarom": "De drie dingen die jullie zelf noemen, 360 dagen batterij, de BASS-techniek en levenslange garantie, staan in één oogopslag naast een echte poetsfoto."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Poetsritme met Repeat",
+      "waarom": "Repeat stuurt elke 24 weken 3 nieuwe borsteltjes voor 18,-, en als dagritme met schakelaars voelt dat abonnement meteen vanzelfsprekend."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "The Wave in drie kleuren",
+      "waarom": "Eén groot woord en de drie kleuren naast elkaar laten in een paar seconden zien wat de Wave is en wat hij kost."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Een frisse mond belt",
+      "waarom": "Een speels belscherm past bij jullie toon en stopt de duim tijdens het scrollen, met de witte Wave als hoofdrol."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "60 dagen proberen",
+      "waarom": "De 60 dagen proefperiode haalt de drempel weg bij een borstel van 129,-, en jullie eigen campagnefoto doet de rest."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij BOOM.",
+    "kop": "Een nieuwsbrief die voelt als BOOM.",
+    "tekst": "Een welkomstmail voor nieuwe aanmeldingen: jullie groen en roze, de borstelfamilie bovenaan en Repeat als tweede blok.",
+    "punten": [
+      "Welkom met de hele borstelfamilie",
+      "Batterij, garantie en proefperiode in drie iconen",
+      "Repeat uitgelegd met jullie eigen foto"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

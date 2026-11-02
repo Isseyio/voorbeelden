@@ -1,0 +1,48 @@
+{
+  "merk": "Kings Of Indigo",
+  "domein": "kingsofindigo.com",
+  "lead_id": "2026-11-02-kingsofindigo.com",
+  "accent": "#183161",
+  "kop": "Een jeans die lang meegaat, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Gemaakt om lang mee te gaan",
+      "waarom": "Een grote typografische kop met jullie eigen sfeerfoto's in de letters zet de belofte van een lang leven meteen neer, met LEILA in Suse Dry als bewijs."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Tot in het kleinste detail",
+      "waarom": "De detailfoto met korte uitleg laat zien wat je online niet voelt: biologisch katoen, de rits en het label met QR-code waarmee je de jeans van vezel tot eindproduct volgt."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Biologisch of gerecycled",
+      "waarom": "Twee washes van LEILA naast elkaar, Suse Dry in biologisch katoen en Holo Black Used in gerecycled katoen, helpen twijfelaars kiezen in plaats van afhaken."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "3 jaar gratis reparaties",
+      "waarom": "Jullie gratis reparatieservice is een sterk en concreet argument bij een jeans van €140 en krijgt hier de hoofdrol, met het logo groot over een echte merkfoto."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Je jeans belt",
+      "waarom": "Een speelse inkomende-oproep-advertentie die opvalt tussen gewone modeposts en de reparatiebelofte op een luchtige manier vertelt."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Gemaakt om lang te dragen.",
+    "kop": "Een nieuwsbrief die voelt als Kings Of Indigo.",
+    "tekst": "Een rustige merkmail die jullie verhaal sinds 2012 vertelt, LEILA uitlegt met korte labels en afsluit met de gratis reparaties.",
+    "punten": [
+      "Hero met jullie eigen modelfoto en een kop in twee gewichten",
+      "LEILA met labels: high rise, rits, barrel leg, biologisch katoen",
+      "Afsluiting over 3 jaar gratis reparaties en verzending vanaf €100"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

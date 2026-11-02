@@ -1,0 +1,48 @@
+{
+  "merk": "The Gift Label",
+  "domein": "thegiftlabel.com",
+  "lead_id": "2026-11-02-thegiftlabel.com",
+  "accent": "#D81B7A",
+  "kop": "Lieve boodschappen op de fles, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Lots of Love in handen",
+      "waarom": "Jullie eigen foto met de body wash in handen, met wat er op het etiket staat: vegan, gemaakt in Nederland en een fles van gerecycled plastic."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Elke dag een boodschap",
+      "waarom": "De shower foam is er met verschillende teksten, dus een weekstrip laat zien dat er voor elke dag en elke ontvanger een passende fles is."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Lots of Love als lijn",
+      "waarom": "Shower foam, hand & body wash en giftbox dragen dezelfde tekst, dus één groot woord maakt er een herkenbare cadeaulijn van."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Even niks hoeven belt",
+      "waarom": "Een speels beeld van een inkomend gesprek valt op in de feed en zet de giftbox It's Spa Time met prijs in het midden."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Cadeautjes vanaf €5,99",
+      "waarom": "Met de geurzakjes vanaf €5,99 en gratis verzending vanaf €50 is er een duidelijke instap voor kleine cadeaus richting de feestdagen."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Iets liefs voor iedereen op je lijstje",
+    "kop": "Een nieuwsbrief die voelt als The Gift Label.",
+    "tekst": "Een cadeaumail met vier producten onder de €20, elk met zijn eigen tekst, en een afsluiting over vegan en gemaakt in Nederland.",
+    "punten": [
+      "Jullie roze, geel en fuchsia",
+      "Vier echte producten met prijs",
+      "Klaar voor Sinterklaas en kerst"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

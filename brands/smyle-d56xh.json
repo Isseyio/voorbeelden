@@ -1,0 +1,48 @@
+{
+  "merk": "Smyle",
+  "domein": "wesmyle.com",
+  "lead_id": "2026-11-02-wesmyle.com",
+  "accent": "#182D4D",
+  "kop": "Poetsen zonder plastic tube, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Ruim 100.000 voorgangers",
+      "waarom": "Jullie eigen bewijs in zwevende kaartjes rond de tandenborstel: 4,6 uit 5, 1500+ tandartsen, 60 dagen risicovrij en de review van Mat."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "De actie vooraan",
+      "waarom": "De tijdelijke actie van jullie site, 15% korting plus 50% op de tweede tandenborstel, groot boven jullie eigen modelfoto."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Kies je kleur",
+      "waarom": "De zes kleuren van de Sonische Elektrische Tandenborstel naast elkaar, zodat iemand meteen zijn favoriet ziet."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Een dag met Smyle",
+      "waarom": "Een routinekaart die laat zien hoe de tabs en de Travel Tin in een gewone dag passen, met de prijs vanaf €6,29."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Koop geen tandpasta",
+      "waarom": "Een omgekeerde kop met een knipoog die past bij jullie toon, met drie korte redenen voor de Freshmint tabs."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij Smyle",
+    "kop": "Een nieuwsbrief die voelt als Smyle.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers in jullie blauw en roze, met waarom Smyle en een eerste stap naar de tabs.",
+    "punten": [
+      "Welkomstmail voor nieuwe inschrijvers",
+      "Effectief, sexy duurzaam en geen onzin",
+      "Eigen foto's en echte cijfers van de site"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

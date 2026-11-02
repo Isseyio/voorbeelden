@@ -1,0 +1,48 @@
+{
+  "merk": "Ydence",
+  "domein": "ydence.com",
+  "lead_id": "2026-11-02-ydence.com",
+  "accent": "#633440",
+  "kop": "Een faux fur coat en een krijtstreep set, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Prijs en logo groot",
+      "waarom": "Coat Chrissy kost €99,95 en die prijs staat bovenaan, met jullie logo groot over de lookbookfoto in de lift."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Set of los",
+      "waarom": "Blazer Ilonka en Pants Cosa horen bij elkaar volgens jullie eigen productteksten, en deze advertentie laat zien dat ze ook los werken."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Twee kleuren naast elkaar",
+      "waarom": "Coat Chrissy is er in Plum en Brown, en twee packshots naast elkaar maken de keuze meteen duidelijk."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "De details benoemd",
+      "waarom": "Hoge kraag, faux fur en drukknopen komen uit de productpagina en wijzen elk naar het juiste stuk van de coat."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Matching sets",
+      "waarom": "Sets zijn een eigen onderdeel van jullie shop, dus het woord krijgt hier de hoofdrol, met de blazer, pantalon en het hele silhouet."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij Ydence. Je €5 staat klaar.",
+    "kop": "Een nieuwsbrief die voelt als Ydence.",
+    "tekst": "Een welkomstmail rond de €5 kortingsbon die jullie al aanbieden bij inschrijving, gevolgd door het merkverhaal en de sets van deze winter.",
+    "punten": [
+      "De €5 kortingsbon vanaf €40 bovenaan",
+      "Merkverhaal: sinds 2010 uit Amsterdam",
+      "Blazer, pantalon en coat met prijs en knop"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}
