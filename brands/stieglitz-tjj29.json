@@ -1,0 +1,48 @@
+{
+  "merk": "Stieglitz",
+  "domein": "stieglitz.nl",
+  "lead_id": "2026-10-30-stieglitz.nl",
+  "accent": "#EB2200",
+  "kop": "Een zeshoekige zonnebril, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Zes hoeken",
+      "waarom": "Jullie eigen foto met de Ula Red op het gezicht, met de kenmerken van de site als pillen eromheen: zeshoekige lens, UV400 en hernieuwbaar acetaat."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Koop deze zonnebril niet",
+      "waarom": "Een omgekeerde kop maakt nieuwsgierig en brengt de Ula naar de winter, met drie echte punten: UV400, hernieuwbaar acetaat en gratis ruilen binnen 30 dagen."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Rood of zwart",
+      "waarom": "De Ula bestaat in Red en Black voor €79; twee packshots naast elkaar maken de keuze makkelijk."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "De details",
+      "waarom": "Labels bij de zeshoekige lens van 53 × 50 mm, de bredere aanzet met schuine hoeken en de pootjes van 145 mm, allemaal uit de productinformatie."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "10% voor inschrijvers",
+      "waarom": "De 10% korting op de eerste aankoop voor nieuwsbriefinschrijvers staat al op de site; groot boven de Long Leg-campagnefoto trekt nieuwe inschrijvers."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Zes hoeken, één montuur",
+    "kop": "Een nieuwsbrief die voelt als Stieglitz.",
+    "tekst": "Een productmail rond de Ula: eerst jullie foto met de bril op, daarna de kenmerken rond het product en tot slot de AW26-collectie.",
+    "punten": [
+      "Rode rand en strakke knoppen in jullie eigen stijl",
+      "De Ula met vier kenmerken en de roze hoes",
+      "Doorklik naar AW26 Gran Paradiso"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-30"
+}

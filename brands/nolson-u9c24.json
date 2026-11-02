@@ -1,0 +1,48 @@
+{
+  "merk": "NØLSON",
+  "domein": "nolson.nl",
+  "lead_id": "2026-10-30-nolson.nl",
+  "accent": "#1B2333",
+  "kop": "Tijdloze shirts uit Amsterdam, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "De 3-pack als aanbod",
+      "waarom": "De 3-pack Business Shirts kost €191,88 in plaats van €239,85, en dat voordeel van 20% staat hier meteen bovenaan."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Beyond the City",
+      "waarom": "Jullie eigen campagnezin 'Made for colder days. Designed for every moment.' wordt de kop, met de herfstfoto's ertussen."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Wit of donkerblauw",
+      "waarom": "Twee kleuren van hetzelfde Business Shirt naast elkaar maken de keuze makkelijk, met prijs en stof eronder."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Koudere dagen bellen",
+      "waarom": "Een speelse belscherm-opzet die opvalt tussen gewone posts, met het overshirt van 100% voorgewassen katoen."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Overhemden, gezocht",
+      "waarom": "Eén groot woord en een zoekbalk sluiten aan op hoe mannen zoeken, met de drie kleuren van de 3-pack ernaast."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Beyond the City. Herfst/Winter '26",
+    "kop": "Een nieuwsbrief die voelt als NØLSON.",
+    "tekst": "De mail opent met de herfstcampagne, vertelt kort het verhaal van het merk sinds 2016 en laat het overshirt van dichtbij zien.",
+    "punten": [
+      "Campagnefoto als opening",
+      "Overshirt met vier labels",
+      "Business Shirt en 3-pack als afsluiting"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-30"
+}

@@ -1,0 +1,48 @@
+{
+  "merk": "Snoozebaby",
+  "domein": "snoozebaby.com",
+  "lead_id": "2026-10-30-snoozebaby.com",
+  "accent": "#CC6707",
+  "kop": "Een knuffeldoekje met labeltjes, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Wat je krijgt",
+      "waarom": "De hydrofiele doek in één beeld uitgelegd: 100% biologisch katoen, 80 × 80 cm, 90 gram en wasbaar op 30°, zoals op de productpagina staat."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Kraamcadeau",
+      "waarom": "Eén groot woord en drie producten met hun echte prijs laten in één blik zien wat je bij jullie als kraamcadeau kunt kiezen."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Van dichtbij",
+      "waarom": "Jullie eigen detailfoto met labels voor de speenlus, katoen en fleece en de 7 labeltjes, met het verhaal van Sweet Dreaming uit 2004."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Een zachte dag",
+      "waarom": "Een dagritme van boeren tot knuffelen laat zien hoe de hydrofiele doek, de wikkeldeken en het knuffeldoekje samen een dag vullen."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Tijd voor een knuffel",
+      "waarom": "Een speels belscherm met het knuffeldoekje in de hoofdrol valt op tussen de gewone posts en blijft bij."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Zacht voor kleine handjes, al sinds 2005.",
+    "kop": "Een nieuwsbrief die voelt als Snoozebaby.",
+    "tekst": "Een rustige nieuwsbrief rond jullie eigen verhaal en het knuffeldoekje Sweet Dreaming, met jullie eigen foto's en de hydrofiele doek als afsluiter.",
+    "punten": [
+      "Het verhaal van het eerste labeltje uit 2004",
+      "Het knuffeldoekje met de details uitgelegd",
+      "Afsluiting met de hydrofiele doek van biologisch katoen"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-30"
+}

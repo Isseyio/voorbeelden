@@ -1,0 +1,48 @@
+{
+  "merk": "Donder",
+  "domein": "donder.com",
+  "lead_id": "2026-10-30-donder.com",
+  "accent": "#B7CBE9",
+  "kop": "Een dikke tee met een wolkje, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Elf kleuren",
+      "waarom": "De Heavy Tee Essential is er in elf kleuren voor €29,95, dus de keuze zelf is al een reden om te klikken."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Eén tee, drie redenen",
+      "waarom": "290 GSM, 4-way stretch en versterkte naden laten in één beeld zien hoe stevig deze tee is."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Vanaf €29,95",
+      "waarom": "Een duidelijke prijs boven een echte foto uit jullie eigen shoot maakt de stap naar de winkel klein."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Kleine details",
+      "waarom": "Het geborduurde wolkje, de geribbelde kraag en de zware stof zijn op jullie detailfoto goed te zien, en de 4,9 uit 845 reviews geeft vertrouwen."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Het speelplein belt",
+      "waarom": "Een speels idee dat past bij een merk met een wolkje als mascotte, en dat opvalt tussen gewone kledingadvertenties."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom in de Donder-wolk",
+    "kop": "Een nieuwsbrief die voelt als Donder.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, opgebouwd met jullie eigen foto's, jullie service-beloftes en de Heavy Tee als eerste aanrader.",
+    "punten": [
+      "Welkom met een echte foto uit jullie shoot",
+      "Morgen in huis, 30 dagen retour en jullie garanties in één oogopslag",
+      "De Heavy Tee als makkelijke eerste aankoop"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-30"
+}

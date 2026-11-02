@@ -1,0 +1,48 @@
+{
+  "merk": "Safecourt Kitchen",
+  "domein": "safecourtkitchen.com",
+  "lead_id": "2026-10-30-safecourtkitchen.com",
+  "accent": "#3CAF54",
+  "kop": "Koken zonder PFAS, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Koop deze pannen niet",
+      "waarom": "Een omgekeerde kop met een knipoog laat mensen even stoppen, en drie feiten van jullie site maken direct duidelijk waarom de 7-delige set van €219,95 anders is."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Bespaar €115",
+      "waarom": "Jullie huidige prijs van €219,95 in plaats van €334,95 staat groot bovenaan, met jullie eigen foto van een vader en dochter in de keuken eronder."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Gemaakt met",
+      "waarom": "Vier onderdelen van de pan met een eigen foto, van de keramische laag tot het koelblijvende handvat, beantwoorden de vraag waar de pan van gemaakt is."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Eén set voor de hele dag",
+      "waarom": "Een dagplanning van ontbijt tot afwas laat zien hoe vaak je de set gebruikt, met de koekenpan uit jullie eigen productfoto ernaast."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Alleen keramiek",
+      "waarom": "Jullie eigen zin 'wat je verhit, raakt alleen keramiek' wordt een typografische advertentie met foto's van jullie pannen tussen de woorden."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Veilig koken begint in je keuken",
+    "kop": "Een nieuwsbrief die voelt als Safecourt.",
+    "tekst": "Een mail die begint in de keuken, het verhaal van de twee oprichters vertelt, de 7-delige set onderdeel voor onderdeel laat zien en eindigt met een gerecht.",
+    "punten": [
+      "Jullie verhaal als passieproject van twee vrienden",
+      "De vier pannen uit de set met hun maten",
+      "Afsluiter met de pastafoto en de huidige prijs"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-31"
+}

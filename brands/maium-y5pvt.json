@@ -1,0 +1,48 @@
+{
+  "merk": "MAIUM",
+  "domein": "maium.nl",
+  "lead_id": "2026-10-30-maium.nl",
+  "accent": "#52513D",
+  "kop": "Een regenjas die ook een poncho is, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Van dichtbij",
+      "waarom": "Jullie eigen detailfoto met labels voor de capuchon, de hoge kraag en de gesealde naden laat zien waarom de Original met een waterkolom van 10.000 mm droog blijft."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Kies je kleur",
+      "waarom": "Eén groot woord en vier van de zeven kleuren naast elkaar maken in één blik duidelijk dat er voor iedereen een Original is, voor €179."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Gemaakt voor fietsen",
+      "waarom": "Een typografische kop met kleine foto's ertussen vertelt jullie verhaal van fietsen door de regen, met de Original op de fiets als hoofdbeeld."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Jas of poncho",
+      "waarom": "Twee foto's naast elkaar laten zien wat de MAIUM-ritsen aan de zijkant doen: dezelfde jas, los en als poncho op de fiets."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Een bui belt",
+      "waarom": "Een speels belscherm met de Original in de hoofdrol valt op tussen de gewone posts en past bij een merk dat met de regen leeft."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Droog op de fiets, ook als het hoost.",
+    "kop": "Een nieuwsbrief die voelt als MAIUM.",
+    "tekst": "Een rustige nieuwsbrief rond jullie eigen campagnebeeld en het verhaal van de twee vrienden die fietsten door de regen, met de Original van dichtbij als middenstuk.",
+    "punten": [
+      "Het verhaal achter de naam MAIUM",
+      "De Original met vier details uitgelegd",
+      "Afsluiting met de poncho-functie op de fiets"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-30"
+}

@@ -1,0 +1,48 @@
+{
+  "merk": "Dutchies",
+  "domein": "dutchies.com",
+  "lead_id": "2026-10-30-dutchies.com",
+  "accent": "#6B1F2C",
+  "kop": "Een hoesje aan een koord, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Eén set, drie onderdelen",
+      "waarom": "De Classic set van €74 bestaat uit een hoesje van echt leer, een strap van 80 tot 130 cm en een pasjeshouder, en dat laten de drie pillen in één oogopslag zien."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Persoonlijke keuze",
+      "waarom": "Jullie eigen foto met drie hoesjes in de hand laat zien dat er veel te kiezen is, met slangen- en croco-print."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "22 kleuren",
+      "waarom": "De Classic set is er in 22 kleuren en prints; vijf echte packshots naast elkaar maken dat zichtbaar."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Bewijs op de foto",
+      "waarom": "Echte cijfers van de site, zoals 10.000+ positieve reviews en 4,9 uit 320 reviews voor de Classic set, zweven over jullie eigen campagnefoto."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Grijp het leven",
+      "waarom": "Jullie motto 'Grab life with both hands' wordt een speels belscherm, met de Classic set in het midden."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom in Dutchies' World",
+    "kop": "Een nieuwsbrief die voelt als Dutchies.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: eerst het merk en de collectie, dan drie redenen om te kiezen en een set om mee te beginnen.",
+    "punten": [
+      "Opent met jullie eigen campagnefoto",
+      "Echt leer, pasjeshouder en Doing good",
+      "Classic set als eerste stap"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-30"
+}

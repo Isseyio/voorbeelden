@@ -1,0 +1,48 @@
+{
+  "merk": "Eve Curls",
+  "domein": "evecurls.com",
+  "lead_id": "2026-10-30-evecurls.com",
+  "accent": "#F2C94C",
+  "kop": "Gele tubes, trotse krullen, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Curly and proud",
+      "waarom": "Jullie eigen motto als grote kop, met vier producten uit de routine die elk €16,99 kosten."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "De routine in vier stappen",
+      "waarom": "Wassen, voeden, stylen en opfrissen laten zien welk product wanneer helpt, wat de stap naar meerdere producten klein maakt."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Voor en na",
+      "waarom": "De voor- en na-foto's van jullie eigen site, met de Curl Quiz als laagdrempelige volgende stap."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Eén crème",
+      "waarom": "De Curl Defining Cream met drie dingen die jullie zelf noemen: zonder sulfaten, zonder parabenen en cruelty free."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Koop 4, krijg 4 gratis",
+      "waarom": "Jullie lopende bundelactie in één oogopslag, met de foto van het hele assortiment."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij Eve Curls",
+    "kop": "Een nieuwsbrief die voelt als Eve Curls.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, met het assortiment, waar jullie producten voor staan en het verhaal van Ewa, Timothy en Lukas.",
+    "punten": [
+      "De Curl Quiz als eerste stap",
+      "Zonder sulfaten, cruelty free en morgen in huis",
+      "Het familieverhaal met jullie eigen foto"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-30"
+}

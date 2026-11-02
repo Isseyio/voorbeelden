@@ -1,0 +1,48 @@
+{
+  "merk": "Zusss",
+  "domein": "zusss.nl",
+  "lead_id": "2026-10-30-zusss.nl",
+  "accent": "#3A2A24",
+  "kop": "Warme stuks met een verrassend detail, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Nieuw seizoen",
+      "waarom": "Een grote kop met kleine fotovensters laat in één beeld zien dat de nieuwe najaarscollectie warm en draagbaar is."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "10% via de nieuwsbrief",
+      "waarom": "De 10% korting bij inschrijving krijgt zo een eigen advertentie, die nieuwe inschrijvers voor de nieuwsbrief kan opleveren."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Kies je favoriet",
+      "waarom": "Twee nieuwe najaarsstuks naast elkaar met hun prijs, zodat iemand meteen kan kiezen in plaats van verder te scrollen."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Een warme knuffel belt",
+      "waarom": "De kruik warm hug als inkomend gesprek is een speels idee dat opvalt in een feed vol kledingfoto's."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Voor jou",
+      "waarom": "Cadeaus met een lieve boodschap vanaf €4,50, handig voor de weken richting de feestdagen."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Nieuw seizoen, nieuwe favorieten",
+    "kop": "Een nieuwsbrief die voelt als Zusss.",
+    "tekst": "Opgebouwd rond de sfeerfoto van jullie homepage, met het verhaal van Sietske en Femke en een cadeautip uit de collectie.",
+    "punten": [
+      "Merkverhaal uit jullie eigen over-pagina",
+      "Giftset met labels bij elk onderdeel",
+      "Afsluiting met de lange bubblecoat"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-30"
+}
