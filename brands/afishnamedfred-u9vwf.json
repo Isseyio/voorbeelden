@@ -1,0 +1,48 @@
+{
+  "merk": "A Fish Named Fred",
+  "domein": "afishnamedfred.com",
+  "lead_id": "2026-11-02-afishnamedfred.com",
+  "accent": "#E84B0E",
+  "kop": "Een fleece in Tokyo en een baseballjack dat belt, vijf keer Fred in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Prijs met een reuzen-Fred",
+      "waarom": "De fleecejack van €149,95 in jullie eigen Tokyo-foto, met 30 dagen retour en gratis ruilen als geruststelling onderaan."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Sand of navy",
+      "waarom": "Twee kleuren van dezelfde fleecejack naast elkaar laten kiezen werkt goed als je één product in meerdere varianten hebt."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Fun en functioneel",
+      "waarom": "Jullie eigen woorden 'fun en functioneel' als grote kop, met modelfoto's in de letters en de fleece als uitgeknipt product."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Fred belt",
+      "waarom": "Een speels belscherm rond 'I'm a good catch' uit jullie logo, met het baseballjack uit de Tokyo Trip in de hoofdrol."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Details die je voelt",
+      "waarom": "Borstzak, rits en stof (90% polyester, 10% acryl) uitgelicht, zodat wie twijfelt meteen ziet wat hij krijgt."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Jassen voor koude dagen, the Fred way.",
+    "kop": "Een nieuwsbrief die voelt als A Fish Named Fred.",
+    "tekst": "Een assortimentsmail met jullie Tokyo-foto als opening en vier jassen onder elkaar, elk met een korte regel, prijs en knop.",
+    "punten": [
+      "Vier jassen uit de nieuwe collectie met prijs",
+      "4.8 van klanten en 30 dagen retour als geruststelling",
+      "Footer met Fred Club en jullie eigen socials"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

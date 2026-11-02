@@ -1,0 +1,48 @@
+{
+  "merk": "Nixnut",
+  "domein": "nixnut.nl",
+  "lead_id": "2026-11-02-nixnut.nl",
+  "accent": "#1D2A23",
+  "kop": "Little & laidback, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Little & laidback",
+      "waarom": "Jullie eigen tagline als grote kop, met de gekleurde AW26-foto's ertussen en de Cib sweater als product."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Moss of cherry",
+      "waarom": "De Check jacket in beide ruiten naast elkaar helpt kiezen, met prijs en kenmerken uit de productpagina."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Van dichtbij",
+      "waarom": "Een detailfoto met labels laat zien wat je online mist: de ruit, de voering en de steekzakjes."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Waar het van gemaakt is",
+      "waarom": "Organic katoen, familiebedrijven in Portugal en het leren labeltje, met een zin uit jullie eigen verhaal."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "10% op de eerste bestelling",
+      "waarom": "Het nieuwsbriefaanbod dat al op de site staat, krijgt de hoofdrol boven een AW26-foto."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Warm de winter in, little & laidback",
+    "kop": "Een nieuwsbrief die voelt als Nixnut.",
+    "tekst": "Opgebouwd rond een AW26-foto, met het verhaal van Otti en Renée en de Logo sweater en Check jacket als producten.",
+    "punten": [
+      "Hero met de nieuwe Kids-collectie",
+      "Vier productdetails met labels",
+      "Afsluiting met de Check jacket in twee ruiten"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

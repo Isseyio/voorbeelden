@@ -1,0 +1,48 @@
+{
+  "merk": "BARTS Amsterdam",
+  "domein": "barts.eu",
+  "lead_id": "2026-11-02-barts.eu",
+  "accent": "#1D1D1B",
+  "kop": "Een muts in zes kleuren, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Zacht en warm",
+      "waarom": "De Aatos Beanie in vier kleuren naast elkaar, met de echte kenmerken van de site: zacht, rekbaar, een lage omslag van 4,5 cm en gerecycled polyester."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Word lid van de club",
+      "waarom": "Het welkomstaanbod van 10% dat al op barts.eu staat, groot in beeld met jullie logo en een modelfoto, zodat het meer inschrijvingen kan opleveren."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Winter in stijl",
+      "waarom": "Jullie eigen lifestylefoto's van volwassenen en kinderen in de kop, passend bij 'Winter in Style' en de collectie voor het hele gezin."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Inkomend gesprek",
+      "waarom": "Een speels concept dat opvalt tussen gewone productposts, met de Aatos in rose en de prijs van €24,99."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Rose of dark brown",
+      "waarom": "Twee kleuren van dezelfde muts op een model naast elkaar, zodat iemand meteen een favoriet kiest."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Winter in stijl, voor het hele gezin",
+    "kop": "Een nieuwsbrief die voelt als BARTS Amsterdam.",
+    "tekst": "Een wintermail met jullie eigen sfeerfoto's, het verhaal van Saint-Tropez tot de Amsterdamse Houthaven, en de Aatos Beanie uitgelicht met zijn echte kenmerken.",
+    "punten": [
+      "Opent met jullie faux fur sfeerfoto",
+      "Merkverhaal uit 'Our story'",
+      "Aatos Beanie met vier kenmerken en zes kleuren"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

@@ -1,0 +1,48 @@
+{
+  "merk": "Goldea Health",
+  "domein": "goldea-health.com",
+  "lead_id": "2026-11-02-goldea-health.com",
+  "accent": "#126E69",
+  "kop": "Vijf vormen magnesium in één capsule, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Eén capsule",
+      "waarom": "De hand met één groene capsule laat in één beeld zien wat Power 5 is: vijf vormen magnesium, plantaardig en zonder vulstoffen."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Vijf vormen uitgelegd",
+      "waarom": "Jullie samenstelling per dagdosering is al sterk, hier krijgt elke vorm een eigen regel met de hoeveelheid erbij."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Twee per dag",
+      "waarom": "Twee capsules per dag en 60 in een doosje maakt het ritme duidelijk, met de prijs per dag als rustig rekensommetje."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Puur",
+      "waarom": "Eén groot woord met jullie eigen 'weet wat je slikt' en drie packshots zet het hele assortiment neer als schoon en plantaardig."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Je magnesium belt",
+      "waarom": "Een speels telefoonscherm in jullie donkergroen, voor een advertentie die opvalt tussen de gewone productfoto's."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij Goldea Health",
+    "kop": "Een nieuwsbrief die voelt als Goldea Health.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, opgebouwd uit jullie groen, goud en Inter, met de bestsellers bovenaan en Power 5 als vaste basis.",
+    "punten": [
+      "Welkom met de bestsellers in beeld",
+      "Drie redenen in jullie eigen woorden",
+      "Power 5 met jullie eigen foto"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

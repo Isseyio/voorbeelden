@@ -1,0 +1,48 @@
+{
+  "merk": "Ted Louise",
+  "domein": "tedlouise.com",
+  "lead_id": "2026-11-02-tedlouise.com",
+  "accent": "#840016",
+  "kop": "Een werktas die na vijven gewoon je handtas is, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Je vrije avond belt",
+      "waarom": "Een speelse inkomende oproep die in één beeld laat zien dat de laptophoes eruit kan en de Nikki Royal dan gewoon een handtas is."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Slim ingedeeld",
+      "waarom": "De binnenkant met waterfleshouder en telefoonvak is waar jullie tas zich onderscheidt, dus die zetten we met callouts vooraan."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Twee manieren",
+      "waarom": "Met en zonder laptophoes naast elkaar maakt meteen duidelijk dat je één tas hebt voor kantoor en daarna, als handtas, schoudertas of crossbody."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Koop deze tas niet",
+      "waarom": "Een omgekeerde kop valt op in de feed en eindigt bij drie concrete vakken: sleutelhaakje, telefoonvak en een laptop tot 15,6 inch."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Waar hij van gemaakt is",
+      "waarom": "Zeology-leer, suède zijkanten, nikkel- en loodvrij beslag en de voering laten zien waarom de Nikki Royal lang meegaat."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Elegant van buiten, slim georganiseerd van binnen",
+    "kop": "Een nieuwsbrief die voelt als Ted Louise.",
+    "tekst": "Opgebouwd rond het verhaal van Liz, die als fashion buyer in een vliegtuig besloot zelf een tas met overal een vaste plek te ontwerpen, met daarna de Nikki Royal van dichtbij.",
+    "punten": [
+      "Merkverhaal uit jullie eigen over-ons-pagina",
+      "De Nikki Royal met labels bij handvatten, band, suède en leer",
+      "Afsluiting over werktas en handtas, met jullie eigen foto's"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

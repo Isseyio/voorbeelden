@@ -1,0 +1,48 @@
+{
+  "merk": "Aemster",
+  "domein": "aemster.com",
+  "lead_id": "2026-11-02-aemster.com",
+  "accent": "#2E241D",
+  "kop": "Geur laat zich niet zien, dus vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Eigen parfumeurs",
+      "waarom": "Zet jullie eigen geuren centraal met de foto van de druppelaar en de vier geurfamilies van de site."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Je woonkamer belt",
+      "waarom": "Een speels beeld dat opvalt in de feed, met de Haevn Move bundel en de echte prijs van €69."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Kelp Forest uitgelegd",
+      "waarom": "Laat de top-, hart- en basisnoten zien, zodat iemand een geur kan kiezen die hij nog niet geroken heeft."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Bespaar op de bundel",
+      "waarom": "Maakt de korting van €84,95 naar €69 meteen duidelijk, met gratis verzending binnen Europa eronder."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Welke diffuser past",
+      "waarom": "Zet de Haevn Move (tot 25 m²) en de Haevn (10 tot 150 m²) naast elkaar, zodat de keuze makkelijker wordt."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij Aemster",
+    "kop": "Een nieuwsbrief die voelt als Aemster.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, met jullie Haevn, drie redenen om te kiezen en de samples met terugbetaalcode.",
+    "punten": [
+      "Welkom met de Haevn Gold in beeld",
+      "Eigen parfumeurs, koude lucht, gratis verzending",
+      "Samples met code voor je volgende bestelling"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

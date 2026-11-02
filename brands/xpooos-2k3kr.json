@@ -1,0 +1,48 @@
+{
+  "merk": "XPOOOS",
+  "domein": "xpooos.com",
+  "lead_id": "2026-11-02-xpooos.com",
+  "accent": "#E8418C",
+  "kop": "David met een selfie op je sok, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Sokken die iets zeggen",
+      "waarom": "Jullie eigen zin 'dit ben ik' als kop, met de modelfoto's in de tekst en de Michelangelo-sok ernaast."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Kleur op je voet",
+      "waarom": "Eén groot woord en een zoekbalk zetten de footies neer als eigen lijn, met de prijs van €8,95 erbij."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Gratis vanaf €35",
+      "waarom": "De echte verzendbelofte uit jullie aankondigingsbalk bovenaan, het logo groot over de gele modelfoto."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Dames en heren",
+      "waarom": "Twee modelfoto's naast elkaar laten in één beeld zien dat er voor allebei een print is."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Michelangelo belt",
+      "waarom": "Een speelse belscherm-grap rond de David-selfie die al in het ontwerp van de sok zit."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Kerst begint bij je voeten.",
+    "kop": "Een nieuwsbrief die voelt als XPOOOS.",
+    "tekst": "Een assortimentsmail rond de kerstcollectie: jullie kerstfoto bovenaan, vier favorieten met prijs en knop, en de reviewscore als afsluiter.",
+    "punten": [
+      "Kerstfoto van jullie eigen site als opening",
+      "Vier sokken met elk een korte regel en prijs",
+      "Score van 4,87 uit 191 reviews"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}
