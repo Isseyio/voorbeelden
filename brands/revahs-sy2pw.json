@@ -1,0 +1,48 @@
+{
+  "merk": "Revahs",
+  "domein": "revahs.nl",
+  "lead_id": "2026-11-01-revahs.nl",
+  "accent": "#1D4E6B",
+  "kop": "Een strakke tondeuse uit Sneek, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Het weekend belt",
+      "waarom": "Een speels belscherm valt op in de feed en koppelt de Clipper Two Pro aan een herkenbaar moment: strak de deur uit."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "In de hand",
+      "waarom": "Jullie eigen foto van de tondeuse in de hand, met de kenmerken die jullie zelf noemen als korte labels ernaast."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Wat er in de doos zit",
+      "waarom": "Keramische messen, instelhendel, oplaadstation en travel bag elk met een eigen foto, zodat de prijs meteen logisch voelt."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Een strakke look",
+      "waarom": "De drie momenten van jullie homepage als routinekaart, met de accuduur als reden dat het past in elke dag."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "30 dagen proberen",
+      "waarom": "Jullie belofte van 30 dagen geld terug staat groot bovenaan en haalt de twijfel bij een aankoop van ruim honderd euro weg."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij Revahs",
+    "kop": "Een nieuwsbrief die voelt als Revahs.",
+    "tekst": "Een welkomstmail die direct de gids met de 5 gouden regels aflevert, daarna de drie beloftes en de Clipper Two Pro.",
+    "punten": [
+      "Levert de gids die jullie bij inschrijving beloven",
+      "Garantie, accuduur en retour in één oogopslag",
+      "Eindigt met jullie meest complete tondeuse"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

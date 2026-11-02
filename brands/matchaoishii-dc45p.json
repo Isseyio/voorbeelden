@@ -1,0 +1,48 @@
+{
+  "merk": "Matcha Oishii",
+  "domein": "matchaoishii.com",
+  "lead_id": "2026-11-01-matchaoishii.com",
+  "accent": "#78B43C",
+  "kop": "Matcha uit Uji, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Van Uji naar je kopje",
+      "waarom": "De hand met het blik tussen de theevelden vertelt in één beeld waar de matcha vandaan komt, met eerste oogst, schaduwteelt en steenmaling als bewijs."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Drinken of mixen?",
+      "waarom": "Ceremonial en Classic naast elkaar met prijs en gebruik helpt nieuwe klanten meteen de juiste matcha te kiezen."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Elke dag matcha",
+      "waarom": "Een dagritme met ceremonial in de ochtend, een latte in de middag en bakken op zondag laat zien hoe vaak je matcha gebruikt, en dus opnieuw bestelt."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Theeceremonie thuis",
+      "waarom": "De ceremonieset met alles wat erin zit en de prijs werkt goed richting de feestdagen als cadeau."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Koop deze matcha niet",
+      "waarom": "Een omgekeerde kop valt op in de tijdlijn en zet daarna de smaak van de Classic Grade centraal, zoals jullie die zelf beschrijven."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij de Communi-tea",
+    "kop": "Een nieuwsbrief die voelt als Matcha Oishii.",
+    "tekst": "Een welkomstmail voor wie zich aanmeldt via de Communi-tea: eerst de boerderij in Uji, dan drie redenen om bij jullie te kopen en tot slot de ceremonieset.",
+    "punten": [
+      "Opent met jullie eigen foto van het blik in de hand",
+      "Drie redenen uit jullie eigen site",
+      "Sluit af met de ceremonieset van €88,88"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-01"
+}

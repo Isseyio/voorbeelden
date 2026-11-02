@@ -1,0 +1,48 @@
+{
+  "merk": "Blooming Good",
+  "domein": "bloominggood.nl",
+  "lead_id": "2026-11-01-bloominggood.nl",
+  "accent": "#1D3E32",
+  "kop": "Eén herfstboeket, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Blaadje voor blaadje",
+      "waarom": "Jullie eigen close-up van Good FW.27 laat zien hoe levensecht de zijden bloemen zijn, met korte labels erbij."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Eén boeket, vier vazen",
+      "waarom": "Jullie vier productfoto's van hetzelfde boeket naast elkaar maken de vaaskeuze meteen zichtbaar."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Bespaar €30",
+      "waarom": "De echte Premium Deal (€139 in plaats van €169) bovenaan, over jullie sfeerfoto in de blauwe kamer."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Geen water nodig",
+      "waarom": "Een knipoog naar het grootste verschil met verse bloemen, met het boeket in de amberkleurige vaas."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Re-bloom",
+      "waarom": "Jullie Re-bloom-service in drie stappen: oude boeket gratis terug, 25% korting op een nieuw."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "De nieuwe standaard in kunstbloemen",
+    "kop": "Een nieuwsbrief die voelt als Blooming Good.",
+    "tekst": "Opgebouwd rond jullie eigen foto's: het verhaal van Job en Dane, Good FW.27 van dichtbij en Re-bloom als afsluiter.",
+    "punten": [
+      "Het verhaal achter Blooming Good",
+      "Good FW.27 met labels",
+      "Re-bloom in het kort"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

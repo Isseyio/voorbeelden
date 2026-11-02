@@ -1,0 +1,48 @@
+{
+  "merk": "Casa Botanica",
+  "domein": "casa-botanica.com",
+  "lead_id": "2026-11-01-casa-botanica.com",
+  "accent": "#33A862",
+  "kop": "Zeldzame kamerplanten uit eigen kwekerij, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Van onze kwekerij",
+      "waarom": "Angela tussen de planten in de kas laat meteen zien dat jullie zelf kweken, met de feiten van de over-ons-pagina: sinds 2019, 1.500 m² en 250+ soorten."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Tip van Angela",
+      "waarom": "De verzorgingstip van de Geogenanthus Brazil als routinekaart haalt twijfel weg bij kopers die bang zijn dat een zeldzame plant het thuis niet redt."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Monster of Monstera?",
+      "waarom": "Twee wit gemarmerde soorten naast elkaar met prijs laten mensen kiezen in plaats van twijfelen."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Zeldzaam",
+      "waarom": "Eén groot woord en een zoekbalk sluiten aan op waar plantenliefhebbers op zoeken, met drie soorten en prijzen uit het assortiment eronder."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Inkomende oproep",
+      "waarom": "Een speelse belscherm-opzet valt op tussen gewone plantenposts en zet de Syngonium Strawberry Princess vol in beeld."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij Casa Botanica",
+    "kop": "Een nieuwsbrief die voelt als Casa Botanica.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: eerst de kwekerij en wat ze kunnen verwachten, daarna de 10% die jullie al bij de aanmelding beloven.",
+    "punten": [
+      "Opent met een close-up van jullie eigen blad",
+      "Drie redenen om bij jullie te kopen, van de eigen site",
+      "Sluit af met de 10% en Angela in de kas"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-01"
+}
