@@ -1,0 +1,48 @@
+{
+  "merk": "Pretty Curly Girl",
+  "domein": "prettycurlygirl.com",
+  "lead_id": "2026-10-31-prettycurlygirl.com",
+  "accent": "#232F44",
+  "kop": "Drie stappen voor krullen, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "De hele routine",
+      "waarom": "Shampoo, leave-in en gel naast elkaar laten in één beeld zien dat de routine bij elkaar hoort, met de feiten van jullie site: 98% natuurlijk, vegan en CGM approved."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Wasdag in drie stappen",
+      "waarom": "Jullie routine is wassen, verzorgen en stylen; als stappenkaart snapt iemand in een paar seconden welk product wanneer."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Van pluis naar krul",
+      "waarom": "De voor-en-nafoto staat al op jullie productpagina en maakt het resultaat meteen zichtbaar."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Gratis verzending vanaf €50",
+      "waarom": "De verzenddrempel voor NL en BE uit jullie aankondigingsbalk, groot in beeld met een van jullie eigen modelfoto's."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Koop deze gel niet",
+      "waarom": "Een speelse omgekeerde kop rond de Magical Flaxseed Gel, met de belofte van jullie site dat krullen tot drie dagen in vorm blijven."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Krullen verzorgen zonder gedoe",
+    "kop": "Een nieuwsbrief die voelt als Pretty Curly Girl.",
+    "tekst": "Opgebouwd rond het verhaal van Hanan en de drie stappen van jullie routine, in jullie eigen kleuren en met jullie eigen foto's.",
+    "punten": [
+      "Merkverhaal uit Rotterdam, sinds 2019",
+      "Magical Flaxseed Gel met de belangrijkste ingrediënten",
+      "Afsluiting met de hele wasdagroutine en prijzen"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-31"
+}

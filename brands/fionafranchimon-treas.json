@@ -1,0 +1,48 @@
+{
+  "merk": "Fiona Franchimon",
+  "domein": "fionafranchimon.com",
+  "lead_id": "2026-10-31-fionafranchimon.com",
+  "accent": "#B08A52",
+  "kop": "De Nº1 Hairpin, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Matcha Green",
+      "waarom": "De nieuwe kleur van 2026 in één groot woord, met jullie eigen matchafoto's erbij."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Wat hem anders maakt",
+      "waarom": "Sterkere grip, geen schade, 3,5 miljoen verkocht en de salon in Zeist: vier punten van jullie eigen site in één beeld."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Original of Petite",
+      "waarom": "Twee maten naast elkaar, met prijs, zodat iemand meteen ziet welke past."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Gratis Tail Comb",
+      "waarom": "Jullie echte actie (een Nº1 Tail Comb t.w.v. €29,50 vanaf €70) groot bovenaan, met de Amsterdam-foto eronder."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "3,5 miljoen spelden",
+      "waarom": "Het verkoopcijfer van jullie site als kop, met foto's tussen de woorden en alle kleuren eronder."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Matcha Green, de kleur van 2026.",
+    "kop": "Een nieuwsbrief die voelt als Fiona Franchimon.",
+    "tekst": "Rond de nieuwe Matcha Green, met het verhaal van de salon in Zeist, uitleg bij de speld en alle kleuren, met jullie eigen foto's.",
+    "punten": [
+      "Nieuwe kleur als opening",
+      "Verhaal van Fiona en de salon",
+      "Afsluiting met alle kleuren"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-31"
+}

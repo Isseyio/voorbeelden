@@ -1,0 +1,48 @@
+{
+  "merk": "Tinne+Mia",
+  "domein": "tinne-mia.nl",
+  "lead_id": "2026-10-31-tinne-mia.nl",
+  "accent": "#6B2A2B",
+  "kop": "Eén tas in 27 kleuren, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Eén groot woord",
+      "waarom": "Feel Good als reuzenkop met het etui en vier kleuren eromheen laat in één beeld zien wat de tas bijzonder maakt: hij vouwt op in zijn eigen etui."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Twee kleuren naast elkaar",
+      "waarom": "Jullie modelfoto's in adobe en forever blue naast elkaar helpen kiezen uit de 27 kleuren van de Feel Good Bag."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Elke dag een andere kleur",
+      "waarom": "Een weekstrip met vijf kleuren maakt de prijs van €36,95 per tas concreet en nodigt uit om er meer dan één te nemen."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Koop deze tas niet",
+      "waarom": "Een omgekeerde kop valt op in de feed en de drie punten eronder komen zo van jullie productpagina: veganistisch leer, waterdicht, schouder of crossbody."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "De prijs vooraan",
+      "waarom": "Tas en etui voor €36,95 is een duidelijke boodschap, met jullie eigen campagnefoto in new maroon eronder."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Eén tas, 27 kleuren.",
+    "kop": "Een nieuwsbrief die voelt als Tinne+Mia.",
+    "tekst": "Een assortimentsmail met de Feel Good Bag als opening, vier favorieten uit de webshop met prijs en knop, en het verhaal van Karien en Marjan sinds 2012.",
+    "punten": [
+      "Campagnefoto in new maroon als opening",
+      "Vier tassen van €36,95 tot €79,95",
+      "Afsluiting met het verhaal sinds 2012"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-31"
+}

@@ -1,0 +1,48 @@
+{
+  "merk": "Stoov",
+  "domein": "stoov.com",
+  "lead_id": "2026-10-31-stoov.com",
+  "accent": "#7F000C",
+  "kop": "Een warm kussen op de bank, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "30 dagen proberen",
+      "waarom": "Jullie proefperiode met geld-terug-garantie groot bovenaan, met het logo over een echte bankfoto."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Lekker warm",
+      "waarom": "Eén groot woord en drie producten naast elkaar laten zien dat Stoov meer is dan één kussen."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Drie standen",
+      "waarom": "De drie warmtestanden van 35 tot 58°C als schakelaars, zodat je meteen ziet hoe makkelijk het werkt."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Waar je maar zit",
+      "waarom": "Draadloos en op te laden via USB-C, dus foto's van de bank, de keukentafel en de yogamat tussen de woorden."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Warmte belt je op",
+      "waarom": "Een speels beeld als inkomend gesprek, dat opvalt tussen gewone advertenties in de feed."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Kom maar op, winter.",
+    "kop": "Een nieuwsbrief die voelt als Stoov.",
+    "tekst": "Een wintermail met jullie eigen sfeerfoto, het verhaal achter Stoov, uitleg bij de Ploov en alle kleuren.",
+    "punten": [
+      "Winterse opening met jullie eigen foto",
+      "Wat zit erin: infrarood, standen, USB-C, wasbare hoes",
+      "Afsluiting met de acht kleuren"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-31"
+}

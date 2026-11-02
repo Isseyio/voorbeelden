@@ -1,0 +1,48 @@
+{
+  "merk": "Tables by TIM",
+  "domein": "tablesbytim.nl",
+  "lead_id": "2026-10-31-tablesbytim.nl",
+  "accent": "#55302A",
+  "kop": "Een eettafel die je zelf samenstelt, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Jouw tafel, jouw vorm",
+      "waarom": "Laat in één oogopslag zien dat je vorm en kleur zelf kiest, met meer dan 25.000 samenstellingen en Nederlandse productie."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Kies je eigen blad",
+      "waarom": "Vier bladen naast elkaar maken de keuze uit meer dan 10.000 kleuren tastbaar en leiden naar de gratis samplebox."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Van kleurstaal tot tafel",
+      "waarom": "Een tafel van vanaf €1.875 vraagt bedenktijd; de vier stappen tot bezorging en montage halen de onzekerheid weg."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Jimmy vanaf €1.875",
+      "waarom": "Een duidelijke vanafprijs met de lengte van 180 tot 300 cm en gratis bezorging maakt de stap naar samenstellen kleiner."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Precies wat we zochten",
+      "waarom": "Reacties van klanten van jullie eigen productpagina geven vertrouwen bij een aankoop die je niet elke dag doet."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Een tafel die echt van jou is",
+    "kop": "Een nieuwsbrief die voelt als Tables by TIM.",
+    "tekst": "Rustig opgebouwd met jullie eigen foto's: eerst het verhaal achter made to order, dan Jimmy met zijn maten, en tot slot de samplebox als volgende stap.",
+    "punten": [
+      "Merkverhaal uit jullie over-ons-pagina",
+      "Jimmy met vier kenmerken in beeld",
+      "Afsluiter die naar gratis kleurstalen leidt"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-31"
+}

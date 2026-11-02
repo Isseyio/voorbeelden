@@ -1,0 +1,48 @@
+{
+  "merk": "ZusenZomer",
+  "domein": "zusenzomer.com",
+  "lead_id": "2026-10-31-zusenzomer.com",
+  "accent": "#075365",
+  "kop": "Een badjas van hamamdoeken, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Badjas en hamamdoek",
+      "waarom": "Jullie zetten mix & match zelf op de homepage; twee foto's naast elkaar laten in één oogopslag zien hoe ESLA en een hamamdoek samengaan."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Waar ESLA van gemaakt is",
+      "waarom": "Katoen van hamamdoeken, fairtrade familiebedrijven, Oeko-Tex en kleine oplages zijn precies de redenen om voor ZusenZomer te kiezen, dus die staan hier vooraan."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "ESLA voor €99,95",
+      "waarom": "Eén duidelijke prijs met een grote productnaam over jullie eigen sfeerfoto maakt de stap naar de productpagina klein."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Strand of sauna belt",
+      "waarom": "Een speelse inkomende oproep valt op in de feed en past bij een poncho die jullie zelf voor strand, sauna en surfen aanbieden."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Vier kleuren naast elkaar",
+      "waarom": "Blauw, petrol, bordeaux en zwart naast elkaar helpen kiezen, met de zoekterm waarmee mensen zo'n badjas zoeken."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Gemaakt van hamamdoeken",
+    "kop": "Een nieuwsbrief die voelt als ZusenZomer.",
+    "tekst": "Opgebouwd met jullie eigen foto's: eerst het verhaal van de twee zussen sinds 2010, dan ESLA met de details uitgelicht, en tot slot mix & match met een hamamdoek.",
+    "punten": [
+      "Merkverhaal uit jullie over-ons-pagina",
+      "ESLA met vier kenmerken in beeld",
+      "Afsluiter die naar de hamamdoeken leidt"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-31"
+}

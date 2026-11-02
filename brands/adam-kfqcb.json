@@ -1,0 +1,48 @@
+{
+  "merk": "A-dam",
+  "domein": "a-dam.com",
+  "lead_id": "2026-10-31-a-dam.com",
+  "accent": "#0000C4",
+  "kop": "Boxershorts met een eigenwijze print, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Kies je print",
+      "waarom": "Eén groot woord, een zoekbalk en drie ACE boxershorts naast elkaar laten in één beeld zien hoeveel prints er zijn, met de prijs vanaf €23,99 erbij."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Waar hij van gemaakt is",
+      "waarom": "De ACE heeft concrete kenmerken zoals de zachte tailleband, het label op de voorkant en stof zonder kriebel, en die lezen rustig als lijst met close-ups naast het product."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Eigenzinnig uit Amsterdam",
+      "waarom": "Een grote kop met jullie eigen campagnefoto's tussen de woorden brengt het karakter van A-dam over, met twee prints als blikvanger."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Het abonnement vooraan",
+      "waarom": "Op de site staat dat je met een abonnement 20% bespaart en elke 4 maanden nieuwe boxers krijgt; een advertentie die met die 20% opent, valt op in een drukke feed."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Een speels idee",
+      "waarom": "Een inkomend gesprek van De Ontbijtclub is een herkenbaar beeld dat even laat stoppen met scrollen, met de Breakfast Trio in het midden."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Ondergoed uit Amsterdam. Een tikje eigenzinnig.",
+    "kop": "Een nieuwsbrief die voelt als A-dam.",
+    "tekst": "Een mail met jullie eigen campagnefoto bovenaan, het verhaal van de vier oprichters en de ACE boxershort met zijn kenmerken uitgelicht.",
+    "punten": [
+      "Eigen campagnefoto als opening",
+      "ACE Zwart Trouts met vier kenmerken bij het juiste onderdeel",
+      "Afsluiting met het abonnement en 20% voordeel"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-31"
+}

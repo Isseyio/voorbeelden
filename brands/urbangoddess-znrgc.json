@@ -1,0 +1,48 @@
+{
+  "merk": "Urban Goddess",
+  "domein": "urban-goddess.com",
+  "lead_id": "2026-10-31-urban-goddess.com",
+  "accent": "#3E4A47",
+  "kop": "Yogakleding van biologisch katoen, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Op de mat en daarna",
+      "waarom": "Een grote typografische kop met jullie eigen yogafoto's tussen de woorden laat in één beeld zien dat de Gaia voor de mat en voor de rest van de dag is."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Waar hij van gemaakt is",
+      "waarom": "De Gaia heeft veel concrete kenmerken, zoals 92% biologisch katoen, de hoge taille en 90 cm binnenbeen, en die werken goed als rustige lijst naast het product."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Eén legging, zes kleuren",
+      "waarom": "De Gaia is er in zes kleuren; twee naast elkaar laten zien maakt kiezen makkelijker dan één losse productfoto."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "De prijs vooraan",
+      "waarom": "Op de site staat de Gaia in Berry voor €64 in plaats van €80; een advertentie die met die prijs opent, valt op in een drukke feed."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Een speels idee",
+      "waarom": "Een inkomend gesprek op je scherm is een herkenbaar beeld dat even laat stoppen met scrollen, met de legging in het midden."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Zacht op de mat. En de rest van de dag.",
+    "kop": "Een nieuwsbrief die voelt als Urban Goddess.",
+    "tekst": "Een mail met jullie eigen sfeerfoto bovenaan, het verhaal van Urban Goddess sinds 2013 en de Gaia legging met zijn kenmerken uitgelicht.",
+    "punten": [
+      "Sfeerfoto van de shoot aan zee als opening",
+      "Gaia met vier kenmerken bij het juiste onderdeel",
+      "Afsluiting met de zes kleuren en de prijs"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-31"
+}

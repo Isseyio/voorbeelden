@@ -1,0 +1,48 @@
+{
+  "merk": "Ateljé",
+  "domein": "shopatelje.com",
+  "lead_id": "2026-10-31-shopatelje.com",
+  "accent": "#8E2C42",
+  "kop": "Een hoesje en een strap die je zelf combineert, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Hoesje plus strap",
+      "waarom": "Drie kenmerken van de Velvet pink set in één beeld: gerecycled plastic, stenen kralen en zilveren clips die aan de ringen klikken."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Maak er een set van",
+      "waarom": "Laat zien dat je hoesje en strap los kiest en combineert, met de echte prijzen van €25,99 en €34,99."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Straps",
+      "waarom": "Vier straps naast elkaar maken het aanbod in kralen, parels en stenen in één keer duidelijk."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "10% bij inschrijving",
+      "waarom": "Zet jullie bestaande nieuwsbriefkorting groot in beeld, met een foto uit de FW26-shoot."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Je nieuwe set belt",
+      "waarom": "Een speels belscherm dat past bij een product dat letterlijk om je telefoon zit."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij Ateljé",
+    "kop": "Een nieuwsbrief die voelt als Ateljé.",
+    "tekst": "Een welkomstmail die de 10% opvolgt: eerst de korting, dan in drie stappen hoe je een set maakt, en het verhaal van Yara.",
+    "punten": [
+      "Welkom met de 10% uit jullie inschrijving",
+      "Zo maak je je set in drie stappen",
+      "Populaire sets met echte prijzen"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-31"
+}

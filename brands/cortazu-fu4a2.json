@@ -1,0 +1,48 @@
+{
+  "merk": "Cortazu",
+  "domein": "cortazu.com",
+  "lead_id": "2026-10-31-cortazu.com",
+  "accent": "#1C2B1E",
+  "kop": "Een skijas uit Amsterdam, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Alles rond de jas",
+      "waarom": "De Nunatak op het model met acht echte kenmerken eromheen, van 50.000 mm waterkolom tot Recco®."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Gemaakt met",
+      "waarom": "Vier details uit jullie eigen productfoto's, met de 100 m² vergroening en de garantie als afsluiter."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "3 jaar garantie",
+      "waarom": "Jullie garantie met reparatieservice als aanbod bovenaan, met het logo groot over een sterke skifoto."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Poeder of natte sneeuw",
+      "waarom": "Het weer als kop met jullie eigen foto's tussen de woorden, en de waterdichtheid als bewijs eronder."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Een poederdag belt",
+      "waarom": "Een speels beeld als inkomend gesprek, dat opvalt tussen gewone advertenties in de feed."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Jouw winter, jouw manier.",
+    "kop": "Een nieuwsbrief die voelt als Cortazu.",
+    "tekst": "Een wintermail met jullie eigen skifoto, het verhaal vanuit Amsterdam, uitleg bij de Nunatak en een uitnodiging voor de winkel.",
+    "punten": [
+      "Winterse opening met jullie eigen foto",
+      "De Nunatak met vier kenmerken uitgelegd",
+      "Afsluiting met de flagship store"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-31"
+}
