@@ -1,0 +1,48 @@
+{
+  "merk": "COSLI",
+  "domein": "cosli.nl",
+  "lead_id": "2026-11-01-cosli.nl",
+  "accent": "#797556",
+  "kop": "Kleding van deadstock stof, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Koop geen nieuwe broek",
+      "waarom": "Een omgekeerde kop valt op in de feed en eindigt bij wat COSLI zegt: kleding die bedoeld is om lang mee te gaan, van deadstock satijn uit Italië."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Linnen uit België",
+      "waarom": "Laat in één beeld zien waar de JASMIN van gemaakt is: deadstock linnen uit België, knopen van bioresin en genaaid in Nederland."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Duurzaam kan ook verfijnd",
+      "waarom": "Jullie eigen missie als kop, met de sfeerfoto's ertussen, zodat iemand in een paar seconden snapt waar COSLI voor staat."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "€10 voor de community",
+      "waarom": "Gebruikt het aanbod dat al op de site staat, €10 korting en gratis verzending, om nieuwe bezoekers op de lijst te krijgen."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Off white of heavenly blue",
+      "waarom": "Een simpele keuzevraag tussen de twee JUNE blouses nodigt uit om te reageren en laat beide kleuren naast elkaar zien."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Mooi blijven dragen.",
+    "kop": "Een nieuwsbrief die voelt als COSLI.",
+    "tekst": "Opgebouwd met jullie eigen foto's: eerst het verhaal van Corina, dan de JASMIN in detail en tot slot de look met de JUNE blouse.",
+    "punten": [
+      "Merkverhaal uit jullie eigen over-pagina",
+      "Vier productdetails met labels",
+      "Knoppen en lettertypen in COSLI-stijl"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-01"
+}

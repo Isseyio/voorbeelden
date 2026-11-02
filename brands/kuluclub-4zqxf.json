@@ -1,0 +1,48 @@
+{
+  "merk": "Kulu Club",
+  "domein": "kulu-club.com",
+  "lead_id": "2026-11-01-kulu-club.com",
+  "accent": "#7A1424",
+  "kop": "Ruffles, scallops en een naam die eet betekent, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Ruffle placemats",
+      "waarom": "Eén groot woord en drie kleurcombinaties naast elkaar laten in één oogopslag zien hoe breed de ronde ruffle placemats zijn, met de prijs van €27,95 per set erbij."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Waar de servetten van zijn",
+      "waarom": "De nieuwe scallop servetten krijgen een lijstje met wat erin zit: 55% linnen, de geborduurde rand en vijf kleuren, plus OEKO-TEX."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Je etentje belt",
+      "waarom": "Een speels inkomend gesprek past bij een merk dat om dinner parties draait en zet het cherry/roze ruffle tafelkleed groot in beeld."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Bespaar op de bundel",
+      "waarom": "De bundel met tafelkleed en placemats kost €164,75 in plaats van €183,80; dat voordeel staat bovenaan, met jullie logo groot over een eigen sfeerfoto."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Kulu betekent eet",
+      "waarom": "Het verhaal achter de naam, met foto's in de kop, maakt van de merknaam meteen de boodschap, met de wavy placemat als product."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Er gaat niets boven dinner parties hosten",
+    "kop": "Een nieuwsbrief die voelt als Kulu Club.",
+    "tekst": "Opgebouwd rond de nieuwe collectie: een hero met jullie zonnige tafelfoto, daaronder het verhaal van Hajar en Naouar en een placemat met uitleg per onderdeel.",
+    "punten": [
+      "Jullie eigen zin als kop",
+      "Merkverhaal over de naam kulu",
+      "Afsluiting met bundels en prijzen"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-01"
+}

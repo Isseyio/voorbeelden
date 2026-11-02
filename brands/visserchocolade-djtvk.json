@@ -1,0 +1,48 @@
+{
+  "merk": "Visser Chocolade",
+  "domein": "visserchocolade.nl",
+  "lead_id": "2026-11-01-visserchocolade.nl",
+  "accent": "#BADCC1",
+  "kop": "Vijf repen, een doos bonbons en een chef, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Vijf nieuwe repen",
+      "waarom": "De hele herfstlijn in één beeld, met de zin die jullie zelf gebruiken: drie keer melk, twee keer puur."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Waar de reep van gemaakt is",
+      "waarom": "Cacao uit Tanzania, 27% pinda en handwerk in Schimmert: wat op jullie site staat, laat zien waarom een reep €13,95 kost."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Melk of puur",
+      "waarom": "Twee repen naast elkaar maken de keuze makkelijk en laten zien hoe verschillend de splash per smaak is."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Bonbons die aanbellen",
+      "waarom": "Een speels belscherm rond de Picasso doos van tien, net op tijd voor het cadeauseizoen."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Deel deze reep niet",
+      "waarom": "Een knipoog naar jullie eigen regel 'om te delen, of gewoon niet te hoeven delen', met de Caramel Sea Salt erbij."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Breek een stuk af en proef het verschil",
+    "kop": "Een nieuwsbrief die voelt als Visser Chocolade.",
+    "tekst": "Opgebouwd rond de nieuwe Chocolate Bars en het verhaal van chef Frank Visser, met een afsluiting over zelf je bonbondoos samenstellen.",
+    "punten": [
+      "De herfstrepen bovenaan",
+      "Het verhaal van de chef uit Schimmert",
+      "Kies je doos, kies je bonbons"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-01"
+}

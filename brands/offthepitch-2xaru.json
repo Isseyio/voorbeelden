@@ -1,0 +1,48 @@
+{
+  "merk": "Off The Pitch",
+  "domein": "off-the-pitch.com",
+  "lead_id": "2026-11-02-off-the-pitch.com",
+  "accent": "#1C2335",
+  "kop": "Van het veld naar de straat, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Van het veld naar de straat",
+      "waarom": "Een grote typografische kop met jullie FW26-campagnebeelden ertussen vertelt in één beeld waar het merk sinds 2016 voor staat."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Ivan Scuba in één woord",
+      "waarom": "Eén groot productwoord en een zoekbalk maken de set herkenbaar, met de echte specificaties: 95% polyester, 5% spandex en zig-zag taping."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Gratis sokken t.w.v. €15",
+      "waarom": "De actie die nu al op de productpagina staat, krijgt hier de hoofdrol boven een modelfoto van de Ivan Scuba set."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Navy of espresso",
+      "waarom": "Beide kleuren naast elkaar helpen kiezen, met prijs en drie kenmerken in een balk in jullie donkerblauw."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "De crewneck belt",
+      "waarom": "Een speels belscherm laat de Vas Crewneck opvallen tussen gewone productposts in de feed."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Van het veld naar de straat",
+    "kop": "Een nieuwsbrief die voelt als Off The Pitch.",
+    "tekst": "Opgebouwd rond jullie FW26-campagnebeeld, met het merkverhaal van de about-pagina en de Ivan Scuba set als hoofdproduct.",
+    "punten": [
+      "Hero met de groene FW26-achtergrond",
+      "Vier productdetails met labels",
+      "Afsluiting met de set en de sokkenactie"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}
