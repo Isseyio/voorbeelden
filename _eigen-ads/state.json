@@ -6,10 +6,12 @@
  "campaign_name": "DE | Leads | Instant Form | NL | Niche-ads (EM/MA/AU)",
  "daily_budget_eur": 20,
  "adset_id": null,
- "lead_gen_form_id": null,
- "leadgen_tos_accepted": false,
+ "lead_gen_form_id": "1459890672758264",
+ "leadgen_tos_accepted": true,
  "figma_file_key": "o0quqGHg7GDxCZva57AMrO",
  "hosting_base": "https://voorbeelden.digitalessence.io/ma-k7w3q/",
  "laatste_ronde": 1,
- "ads": []
+ "ads": [],
+ "privacy_url": "https://voorbeelden.digitalessence.io/privacy/",
+ "blokkade": "Meta-koppeling mist pages_manage_ads voor pagina 768381293027557: adset/ads aanmaken via API faalt tot Issey de connector opnieuw koppelt met die pagina."
 }
