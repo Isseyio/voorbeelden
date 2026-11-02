@@ -1,0 +1,48 @@
+{
+  "merk": "Bocca Coffee",
+  "domein": "bocca.nl",
+  "lead_id": "2026-10-30-bocca.nl",
+  "accent": "#004131",
+  "kop": "Soulmate, vier bonen en een koffiedag, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Er belt een Soulmate",
+      "waarom": "Een speelse binnenkomer voor jullie bestseller, met de smaak uit jullie eigen omschrijving: pure chocolade, geroosterde noten en zoet."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Vier herkomsten",
+      "waarom": "Per boon één feit van de productpagina, van Fazenda Bagagem tot de 42 kleine boeren in Caranavi, laat zien wat er achter elke zak zit."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Espresso of filter",
+      "waarom": "Vier zakken naast elkaar met de vraag die veel kopers zich stellen, terwijl alle vier voor allebei werken."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Vanaf €10,50",
+      "waarom": "Een duidelijke prijs over jullie eigen foto, met het abonnementsvoordeel en de verzending voor 11:00 eronder."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Een koffiedag",
+      "waarom": "Jullie eigen zetrecepten als dagritme maken Soulmate concreet: 19 gram in 26 seconden, of 15 gram op 250 gram water."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Sinds 2001 de eerste specialty branderij.",
+    "kop": "Een nieuwsbrief die voelt als Bocca.",
+    "tekst": "Een nieuwsbrief rond jullie verhaal sinds 2001, met Soulmate uitgelicht en het koffieabonnement als afsluiter, opgebouwd met jullie eigen foto's.",
+    "punten": [
+      "Het merkverhaal van de over-ons-pagina",
+      "Soulmate met herkomst, verwerking en zetrecept",
+      "Abonnement met tot 5% korting als vaste afsluiter"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-30"
+}
