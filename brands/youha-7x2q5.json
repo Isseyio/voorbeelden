@@ -1,0 +1,48 @@
+{
+  "merk": "Youha",
+  "domein": "youha.nl",
+  "lead_id": "2026-11-01-youha.nl",
+  "accent": "#8D455C",
+  "kop": "Handsfree kolven, een babyfoon die belt en een rocker in twee kleuren.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Eén kolf, drie kenmerken",
+      "waarom": "De Evera in één beeld met de drie dingen die op jullie productpagina staan: handsfree, de My Youha-app en tien zuigniveaus."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Kolven in je dag",
+      "waarom": "Een routinekaart laat zien hoe een handsfree kolf past op momenten dat je toch al bezig bent, zonder extra uitleg."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "De babykamer belt",
+      "waarom": "Een inkomende-oproep-scherm is een speelse manier om de tweewegcommunicatie van de Babyfoon Care Pro te laten zien."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Wit of zwart",
+      "waarom": "De Baby Rocker naast elkaar in beide kleuren, met de prijs uit de huidige actie, maakt kiezen makkelijk."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Mama en baby",
+      "waarom": "Het bredere assortiment in één advertentie, met jullie eigen belofte: vóór 22.00 uur besteld, morgen in huis."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij Youha",
+    "kop": "Een nieuwsbrief die voelt als Youha.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, opgebouwd met jullie eigen foto's, kleuren en beloftes.",
+    "punten": [
+      "Welkom met de missie van jullie eigen site",
+      "Drie zekerheden: morgen in huis, 50.000+ moeders, Nederlandse service",
+      "De Evera uitgelicht, met de code YOUHA10"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-01"
+}

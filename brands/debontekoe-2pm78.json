@@ -1,0 +1,48 @@
+{
+  "merk": "De Bonte Koe",
+  "domein": "debontekoe.nl",
+  "lead_id": "2026-10-31-debontekoe.nl",
+  "accent": "#7F513A",
+  "kop": "Gevulde Koetjes en een Künefe-reep, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Met de hand, in Schiedam",
+      "waarom": "Jullie zes chocolatiers maken alles met de hand sinds 1992; dat verhaal staat hier in de kop, met jullie eigen foto's ertussen."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Wat erin zit",
+      "waarom": "Biologische cacao, bourbonvanille en visgelatine in plaats van varkensgelatine: vier feiten van jullie productpagina die meteen vragen beantwoorden."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Marshmallow of pandan",
+      "waarom": "De nieuwe pandanvariant naast de klassieker laat in één beeld zien dat er iets nieuws is."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Deluxe Künefe",
+      "waarom": "De Künefe-reep is een bestseller; één groot woord en de prijs van €14,95 maken het product direct herkenbaar."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Er belt een koetje",
+      "waarom": "Een speels beeld dat opvalt in de feed en past bij een merk met een koe in de naam."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Handgemaakt in Schiedam, sinds 1992.",
+    "kop": "Een nieuwsbrief die voelt als De Bonte Koe.",
+    "tekst": "Het verhaal van de jeneverstokerij en de bonte koeien, wat er in een Gevuld Koetje zit en de nieuwe pandanvariant, met jullie eigen foto's.",
+    "punten": [
+      "Merkverhaal uit jullie eigen geschiedenis",
+      "Uitleg van het product met labels",
+      "Afsluiting met de nieuwe Pandan Koetjes"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-31"
+}

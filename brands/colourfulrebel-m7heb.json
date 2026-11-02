@@ -1,0 +1,48 @@
+{
+  "merk": "Colourful Rebel",
+  "domein": "colourfulrebel.com",
+  "lead_id": "2026-11-02-colourfulrebel.com",
+  "accent": "#4A3426",
+  "kop": "Een blazer met een eagle op de rug en zachte knits, vijf keer Colourful Rebel in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "20% op alle basics",
+      "waarom": "Jullie eigen actie op de basics groot in beeld boven de basics-campagnefoto, met gratis verzending vanaf €150 als extra zetje."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Voorkant en achterkant",
+      "waarom": "De Jolly Eagle Blazer is netjes van voren en heeft de eagle-print op de rug; voor en achter naast elkaar laat dat in één blik zien, met de 5.0 uit 211 reviews erbij."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Details van de Linsey",
+      "waarom": "Polokraag met knoopjes, het geborduurde logo en de fluffy knit met 4% wol uitgelicht op jullie eigen close-up, zodat je de trui bijna voelt."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "De longsleeve belt",
+      "waarom": "Een speels belscherm rond de Livy Stripe Longsleeve van €49,95, die in vier kleuren te krijgen is."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Where the light lingers",
+      "waarom": "Jullie eigen campagneregel als grote kop met de campagnefoto's in de letters, voor de tweede drop met 70+ nieuwe styles."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Where the light lingers: vier favorieten voor nu",
+    "kop": "Een nieuwsbrief die voelt als Colourful Rebel.",
+    "tekst": "Een assortimentsmail met de Fall 26-campagnefoto als opening en vier stuks onder elkaar, elk met een korte regel, prijs en knop.",
+    "punten": [
+      "Blazer, knit, longsleeve en een basic met prijs",
+      "De 100.000+ vrouwen van jullie reviewpagina als geruststelling",
+      "Footer met jullie eigen socials: Instagram, TikTok en Facebook"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

@@ -1,0 +1,48 @@
+{
+  "merk": "Smashed Lemon",
+  "domein": "smashed-lemon.com",
+  "lead_id": "2026-11-01-smashed-lemon.com",
+  "accent": "#4B2E22",
+  "kop": "Kant, stippen en een bomberjack dat belt, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Bloemenkant in detail",
+      "waarom": "Een close-up met labels laat zien wat je op een klein scherm mist: de geborduurde bloemen en de iets volumineuze mouwen van de kanten blouse."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Brown of off white",
+      "waarom": "De gebreide jurk met ajourpatroon bestaat in twee kleuren; een keuzevraag nodigt uit om te reageren en laat beide naast elkaar zien."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Eén print maakt je outfit",
+      "waarom": "Smashed Lemon staat bekend om eigen prints; de kop met fotocapsules zet de stippenrok, de streepblouse en de kant in één beeld."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "10% voor nieuwe lezers",
+      "waarom": "Gebruikt het aanbod dat al op de site staat, 10% korting bij aanmelding, om nieuwe bezoekers op de nieuwsbrief te krijgen."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Je feestlook belt",
+      "waarom": "Een speels inkomend-gesprek-beeld met het bronsgouden bomberjack valt op tussen gewone modeadvertenties, net voor de feestdagen."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Winter in zachte tinten",
+    "kop": "Een nieuwsbrief die voelt als Smashed Lemon.",
+    "tekst": "Opgebouwd met jullie eigen foto's: een sfeerbeeld uit de wintercollectie, vier favorieten met prijs en knop, en wat de pers over jullie schreef.",
+    "punten": [
+      "Vier producten met korte tekst en prijs",
+      "Bekend uit Linda, Libelle, Margriet en Vriendin",
+      "Verzendbelofte in de bovenbalk"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-01"
+}

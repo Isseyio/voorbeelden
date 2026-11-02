@@ -1,0 +1,48 @@
+{
+  "merk": "Wildride",
+  "domein": "wildridecarrier.com",
+  "lead_id": "2026-10-31-wildridecarrier.com",
+  "accent": "#6B4F3A",
+  "kop": "Een kind op je heup, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Vanaf €89",
+      "waarom": "De prijs bovenaan en jullie logo groot over een echte foto van een moeder met haar kind op de heup."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Gemaakt met",
+      "waarom": "De Sand Houndstooth met vier ronde detailfoto's: het katoen, de verstelbare band, hoe compact hij is en tot welke leeftijd."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Kinderwagen thuis",
+      "waarom": "Jullie eigen foto's op het vliegveld en het perron laten zien waar de drager het verschil maakt."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Op je heup",
+      "waarom": "Eén groot woord, een zoekbalk en drie prints naast elkaar, zodat je meteen ziet dat er keuze is."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Een dagje uit belt",
+      "waarom": "Een speels inkomend gesprek met de Wildride x MarieMarie, dat opvalt tussen gewone advertenties in de feed."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Meer buiten, minder gesjouw.",
+    "kop": "Een nieuwsbrief die voelt als Wildride.",
+    "tekst": "Een mail met jullie strandfoto, het idee achter Wildride en de kinderdrager van dichtbij.",
+    "punten": [
+      "Opening met jullie eigen sfeerfoto",
+      "De drager met labels: band, schuif, katoen, zitje",
+      "Afsluiting rond de prints, vanaf €89"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-31"
+}

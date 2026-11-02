@@ -1,0 +1,48 @@
+{
+  "merk": "Pockies",
+  "domein": "pockies.com",
+  "lead_id": "2026-10-31-pockies.com",
+  "accent": "#141414",
+  "kop": "Een boxershort met zakken, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Twee zakken",
+      "waarom": "Jullie foto met een hand in de zak laat meteen zien wat Pockies anders maakt, met de vier kenmerken van de productpagina eromheen."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Boxershorts",
+      "waarom": "Eén groot woord, een zoekbalk en drie prints naast elkaar maken in één blik duidelijk dat er veel keuze is."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "9,8 uit 10",
+      "waarom": "Jullie score uit 2.862 reviews bovenaan, met een paar voorbeeldreviews rond de Pink Doubles."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Voor de bank",
+      "waarom": "Grote woorden met jullie eigen sfeerfoto's ertussen laten zien dat Pockies meer is dan ondergoed."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Een zondag belt",
+      "waarom": "Een speels inkomend gesprek met de SOFTSERVE boxer, dat opvalt tussen gewone advertenties in de feed."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Hier voor de regenachtige dagen.",
+    "kop": "Een nieuwsbrief die voelt als Pockies.",
+    "tekst": "Een herfstmail met jullie eigen sfeerfoto's, het verhaal van Rob, Karel en Michiel en de Pink Doubles van dichtbij.",
+    "punten": [
+      "Opening rond de nieuwe FW26-collectie",
+      "De boxershort met labels: zakken, katoen, maten",
+      "Afsluiting rond Couch Couture"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-10-31"
+}

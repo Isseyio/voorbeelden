@@ -1,0 +1,48 @@
+{
+  "merk": "BitesWeLove",
+  "domein": "biteswelove.com",
+  "lead_id": "2026-11-02-biteswelove.com",
+  "accent": "#E50051",
+  "kop": "Je craving belt, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Je craving belt",
+      "waarom": "Een herkenbaar moment als inkomend gesprek, met jullie eigen foto van iemand die belt met een Chewy Oat Bar in de hand."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Eén reep, drie redenen",
+      "waarom": "De nieuwe Raspberry White Chocolate bar met de drie feiten van jullie productpagina: 14 gram eiwit, 13 gram vezels en vegan."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Drie smaken naast elkaar",
+      "waarom": "De Chewy Oat Bars in Coconut Brownie, Salted Caramel en Chocolate, zodat iemand meteen zijn smaak kiest."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Elke dag een andere smaak",
+      "waarom": "Een weekstrip die laat zien dat jullie snacks bij elke dag passen, met de gratis verzending vanaf €35 als duwtje."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Nieuw: Cookie Bars",
+      "waarom": "Een grote typografische kop voor de nieuwe Crunchy Protein Cookie Bars, met jullie eigen foto's in de tekst."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij BitesWeLove",
+    "kop": "Een nieuwsbrief die voelt als BitesWeLove.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, in jullie roze en paars, met de drie dingen waar jullie snacks voor staan en jullie verhaal sinds 2015.",
+    "punten": [
+      "Welkomstmail voor nieuwe inschrijvers",
+      "De drie snackprincipes in één oogopslag",
+      "Eigen productfoto's en verhaal"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

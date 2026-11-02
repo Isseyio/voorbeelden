@@ -1,0 +1,48 @@
+{
+  "merk": "Kinfill",
+  "domein": "kinfill.com",
+  "lead_id": "2026-11-01-kinfill.com",
+  "accent": "#1D1D1B",
+  "kop": "Een flesje concentraat en een Ever Bottle, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Van 12 ml naar 500 ml",
+      "waarom": "Jullie eigen foto van het concentraat dat in de Ever Bottle loopt, met de echte kenmerken van de Glas & Spiegel reiniger eromheen."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Badkamer en keuken",
+      "waarom": "Twee eigen foto's naast elkaar laten in een oogopslag zien dat je in elke ruimte met dezelfde aanpak schoonmaakt."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Vul na op jouw moment",
+      "waarom": "De weekstrip maakt het Refill Plan concreet: elke 8, 10 of 12 weken nieuwe refills, voor €9,60 in plaats van €12,00."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Je fles belt even",
+      "waarom": "Een speels belscherm rond de Ever Bottle, met eerlijke uitleg over 12 ml concentraat en kraanwater."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Koop geen nieuwe fles",
+      "waarom": "Een knipoog die precies zegt waar kinfill om draait: navullen in plaats van vervangen."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Ontworpen om na te vullen, niet te vervangen",
+    "kop": "Een nieuwsbrief die voelt als Kinfill.",
+    "tekst": "Opgebouwd rond jullie eigen foto's: het verhaal achter kinfill, hoe concentraat en Ever Bottle samenwerken, en het Refill Plan als afsluiter.",
+    "punten": [
+      "Waarom kinfill begon",
+      "Zo werkt het, in drie stappen",
+      "Het Refill Plan met de HAY-beker"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-01"
+}

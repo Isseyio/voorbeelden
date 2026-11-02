@@ -1,0 +1,48 @@
+{
+  "merk": "BOSKA",
+  "domein": "boska.com",
+  "lead_id": "2026-11-01-boska.com",
+  "accent": "#35363A",
+  "kop": "Kaasschaaf, messen en fondue, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Plakjes die niet plakken",
+      "waarom": "Jullie eigen foto van de Kaasschaaf Monaco+ in de hand, met vier echte kenmerken eromheen: diamantpatroon, BSF™, vaatwasser en levenslange garantie."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Eén woord: KAAS",
+      "waarom": "Messenset, plank en schaaf samen in één beeld, als idee voor de kaasplank van het weekend."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Elke dag kaas",
+      "waarom": "Een kaasschaaf gebruik je elke dag; de weekstrip en de 10 miljoen verkochte schaven maken dat zichtbaar."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Fondue-avond belt",
+      "waarom": "Een speels belscherm over jullie fondue-foto, met de echte gegevens van de Elektrische Fondueset Party."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Geen souvenir",
+      "waarom": "Een knipoog bij de Delfts blauwe kaasschaaf: het ziet eruit als een cadeau, maar is gemaakt om elke dag te gebruiken."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Iedereen aan tafel, de kaas in het midden",
+    "kop": "Een nieuwsbrief die voelt als BOSKA.",
+    "tekst": "Opgebouwd rond jullie tafelfoto, het verhaal sinds 1896 in Bodegraven, de Kaasmessenset Monaco+ en een afsluiting met de fondueset.",
+    "punten": [
+      "Het verhaal van vier generaties Bos",
+      "De messenset met echte kenmerken",
+      "Fondue als afsluiter"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-01"
+}

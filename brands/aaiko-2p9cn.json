@@ -1,0 +1,48 @@
+{
+  "merk": "AAIKO",
+  "domein": "aaiko.com",
+  "lead_id": "2026-11-02-aaiko.com",
+  "accent": "#7B4A27",
+  "kop": "Een blazer, een trui en een look, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Getailleerd en zacht",
+      "waarom": "Een grote typografische kop met jullie eigen beelden tussen de woorden, rond de Kayla blazer met diepe V-hals, dubbele knoopsluiting en elastiek in de rug."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "€10 op je eerste bestelling",
+      "waarom": "Jullie bieden al €10 korting bij inschrijving voor de nieuwsbrief; deze advertentie zet dat aanbod groot boven een straatfoto uit jullie eigen campagne."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Alor in drie kleuren",
+      "waarom": "De Alor sweater uit de Girls-lijn in grijs, wit en rood naast elkaar, met de ballonmouwen en de prijs van €89,95 direct in beeld."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "De details van dichtbij",
+      "waarom": "Een detailfoto van de Kayla blazer met labels bij de knoopsluiting en de klepzakken, zodat je de afwerking ziet zonder de winkel in te gaan."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Overdag en 's avonds",
+      "waarom": "Twee eigen foto's naast elkaar laten zien hoe dezelfde blazer werkt voor kantoor en voor een avond, met de Lynn pantalon en Eef top als set."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "De Fall/Winter '26 collectie staat online.",
+    "kop": "Een nieuwsbrief die voelt als AAIKO.",
+    "tekst": "Opgebouwd rond jullie eigen campagnefoto's, met het verhaal achter de naam en de Kayla blazer met labels bij elk detail.",
+    "punten": [
+      "Het verhaal achter de naam AAIKO",
+      "De Kayla blazer met vier details uitgelicht",
+      "Een complete look met blazer, pantalon en top"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}
