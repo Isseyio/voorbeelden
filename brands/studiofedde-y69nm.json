@@ -1,0 +1,48 @@
+{
+  "merk": "Studio Fedde",
+  "domein": "studiofedde.com",
+  "lead_id": "2026-11-02-studiofedde.com",
+  "accent": "#3D3D2B",
+  "kop": "Premium fronten voor IKEA-kasten, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Sample in de hand",
+      "waarom": "Sluit aan op jullie eigen route: bestel een sample en bekijk de kleur thuis, met de materialen als korte labels."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Walnoot of eiken",
+      "waarom": "Twee eigen interieurfoto's naast elkaar laten zien hoe verschillend dezelfde IKEA-kast kan worden."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Premium fronten",
+      "waarom": "Een grote typografische kop met een zoekbalk sluit aan op hoe mensen zoeken: fronten voor IKEA METOD."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Gemaakt met",
+      "waarom": "Legt in vier regels uit waar een METOD-deur van gemaakt is: walnoot, eiken, zijdematte lak en 2 cm dik."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "10 jaar garantie",
+      "waarom": "Zet jullie sterkste belofte groot bovenaan, boven een rustige keukenfoto uit de studio."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij Studio Fedde",
+    "kop": "Een nieuwsbrief die voelt als Studio Fedde.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers op tips en inspiratie, met jullie eigen foto's, kleuren en strakke knoppen.",
+    "punten": [
+      "10 jaar garantie, gratis bezorging en handgemaakt in één oogopslag",
+      "Een sample bestellen als volgende stap",
+      "Uitnodiging voor de studio's in vijf steden"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

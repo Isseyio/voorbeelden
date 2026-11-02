@@ -1,0 +1,48 @@
+{
+  "merk": "Oolaboo",
+  "domein": "oolabooshop.com",
+  "lead_id": "2026-11-02-oolabooshop.com",
+  "accent": "#85863F",
+  "kop": "Plantaardige haarverzorging in olijfgroen, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Eén shampoo",
+      "waarom": "Hydra Bloom met drie echte ingrediënten uit jullie formule laat in één oogopslag zien waar de shampoo voor staat."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "100% vegan",
+      "waarom": "Vegan en vrij van sulfaten en siliconen zijn precies de woorden waar mensen op zoeken, en de prijs van de Dutch Beauty Awards maakt het geloofwaardig."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Wassen, verzorgen, stylen",
+      "waarom": "Een routine in drie stappen verkoopt meerdere producten tegelijk en past bij hoe mensen hun haar verzorgen."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Dorstig of beschadigd",
+      "waarom": "Twee shampoos naast elkaar helpen iemand meteen kiezen, met de echte prijs en inhoud erbij."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Föhnen zonder zorgen",
+      "waarom": "Jullie eigen sfeerfoto met de feiten van de primer, zoals hittebescherming tot 220°C, als korte callouts."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Zacht haar, puur plantaardig",
+    "kop": "Een nieuwsbrief die voelt als Oolaboo.",
+    "tekst": "Een hero met jullie eigen sfeerfoto, het verhaal van Richard en Jeroen, en Hydra Bloom met uitleg van dop tot formule.",
+    "punten": [
+      "Merkverhaal uit jullie Over ons-pagina",
+      "Product met labels per onderdeel",
+      "Afsluiting rond de Guardian Angel primer"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

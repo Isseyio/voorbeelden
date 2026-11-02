@@ -1,0 +1,48 @@
+{
+  "merk": "King Louie",
+  "domein": "kinglouie.com",
+  "lead_id": "2026-11-02-kinglouie.com",
+  "accent": "#7A2335",
+  "kop": "Eigen prints sinds de Noordermarkt, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Vintage met een eigen print",
+      "waarom": "Het verhaal van Ann en George op de Noordermarkt in één kop, met jullie eigen sfeerfoto's tussen de woorden."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Jurken",
+      "waarom": "Eén groot woord en een zoekbalk zetten drie jurken met eigen print naast elkaar, met prijs."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Gratis vanaf €49,95",
+      "waarom": "De echte verzend- en retourbelofte uit jullie aankondigingsbalk bovenaan, met het logo groot erboven."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Voor en achter",
+      "waarom": "In jullie eigen foto's valt de achterkant van de Noor Jacket op, twee foto's naast elkaar laten voor en achter in één beeld zien."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Nia Coat van dichtbij",
+      "waarom": "Een close-up van de ruit met labels voor kraag en stof, met de echte samenstelling uit de productpagina."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij King Louie",
+    "kop": "Een nieuwsbrief die voelt als King Louie.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, met jullie eigen verhaal en foto's van de wintercollectie.",
+    "punten": [
+      "Welkom met een sfeerfoto in een kaart in jullie bordeauxrood",
+      "Drie redenen: eigen prints, de Noordermarkt en gratis retour",
+      "Verwijzing naar de winkels voor wie liever past"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

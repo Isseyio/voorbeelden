@@ -1,0 +1,48 @@
+{
+  "merk": "Mascolori",
+  "domein": "mascolori.nl",
+  "lead_id": "2026-11-02-mascolori.nl",
+  "accent": "#23358F",
+  "kop": "Drie nieuwe bloemenschoenen, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Groen of blauw",
+      "waarom": "Zet Botanica en Winter Bloom naast elkaar met de prijs van €249, zodat iemand meteen een favoriet kiest."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "More is more",
+      "waarom": "Jullie eigen motto als grote kop, met handwerk en drie producten eronder: past bij het lef van het merk."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Maak je outfit compleet",
+      "waarom": "Laat zien dat schoen en riem hetzelfde motief hebben, zodat de riem van €79 vanzelf meegaat."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "€15 op je eerste bestelling",
+      "waarom": "Zet jullie bestaande welkomstkorting groot in beeld, zodat ad-bezoekers zich inschrijven in plaats van weg te klikken."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Elke dag een ander paar",
+      "waarom": "Een weekstrip met vijf ontwerpen die laat zien hoe breed de collectie is, met Winter Bloom uitgelicht."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Voor de kunstenaar in jou.",
+    "kop": "Een nieuwsbrief die voelt als Mascolori.",
+    "tekst": "Een mail met jullie nieuwe ontwerpen op een rij, jullie winkel in Rotterdam en de Google-score van 4.9.",
+    "punten": [
+      "Botanica, Midnight Hibiscus en Winter Bloom met prijs",
+      "De bijpassende riem als vierde product",
+      "Jullie winkel aan de Nieuwe Binnenweg als afsluiter"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

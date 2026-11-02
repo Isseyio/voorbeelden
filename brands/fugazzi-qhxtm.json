@@ -1,0 +1,48 @@
+{
+  "merk": "Fugazzi",
+  "domein": "fugazzifragrances.com",
+  "lead_id": "2026-11-02-fugazzifragrances.com",
+  "accent": "#F57427",
+  "kop": "Eén flesje Vanilla Haze, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Gemaakt met",
+      "waarom": "Laat de noten uit jullie eigen productpagina zien, van mandarijn en kokosmelk tot crème brûlée, zodat iemand de geur al bijna ruikt."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Zoet, romig en het blijft",
+      "waarom": "Zet de hoge sillage, het gourmand-amberprofiel en jullie 4,8 uit 5 van 1700+ klanten rond jullie eigen foto met vanillestokjes."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Drie formaten",
+      "waarom": "Toont de 100 ml, 50 ml en het reisflesje naast elkaar met prijs, zodat het kiezen van een formaat makkelijk wordt."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Probeer voor €8",
+      "waarom": "Het proefflesje van 2 ml voor €8 haalt de drempel weg om online een parfum van €95 te kopen."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Je nieuwe geur belt",
+      "waarom": "Een speels beeld dat opvalt in de feed en past bij jullie toon: gedurfd en niet op safe."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Vanilla Haze. De geur voor wie zich niet inhoudt.",
+    "kop": "Een nieuwsbrief die voelt als Fugazzi.",
+    "tekst": "Opgebouwd rond jullie eigen verhaal sinds 2018 in Amsterdam, met Vanilla Haze uitgelicht en jullie eigen foto's.",
+    "punten": [
+      "Merkverhaal uit jullie pagina About us",
+      "Topnoten, hartnoten en basisnoten bij het flesje",
+      "Alle formaten met prijs in het slotblok"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

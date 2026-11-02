@@ -1,0 +1,48 @@
+{
+  "merk": "Walra",
+  "domein": "walra.nl",
+  "lead_id": "2026-11-02-walra.nl",
+  "accent": "#4E5B6B",
+  "kop": "Een dekbedovertrek met twee kanten, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Waar het van gemaakt is",
+      "waarom": "Katoensatijn, de omkeerbare streep, de lintjes binnenin en 300 draaddichtheid staan als rustig lijstje naast jullie eigen detailfoto's."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Zachtheid maakt het leven mooier",
+      "waarom": "Jullie eigen motto als grote kop, met sfeerfoto's tussen de woorden en het dekbedovertrek eronder."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Nooit meer verschoven",
+      "waarom": "De lintjes aan de binnenkant lossen een herkenbaar ergernisje op, en jullie eigen foto laat precies zien hoe."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Breed of fijn",
+      "waarom": "Eén dekbedovertrek met twee streepbreedtes is een simpel verhaal dat je in een paar seconden snapt."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Vanaf €99,95",
+      "waarom": "Prijs en merknaam groot boven een echte sfeerfoto, met de Kiyoh-score van 9,2 als steun eronder."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Zachtheid maakt het leven mooier",
+    "kop": "Een nieuwsbrief die voelt als Walra.",
+    "tekst": "Een rustige mail met jullie verhaal sinds 1873, de Signature Elegant Stripes met uitleg per onderdeel en een afsluiter in jullie leisteenblauw.",
+    "punten": [
+      "Merkverhaal uit de tijd van de uitzetkoffer",
+      "Productbeeld met vier labels",
+      "Kussenslopen en dekbedovertrek samen in één blok"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

@@ -1,0 +1,48 @@
+{
+  "merk": "Keecie",
+  "domein": "keecie.com",
+  "lead_id": "2026-11-02-keecie.com",
+  "accent": "#4A2A33",
+  "kop": "Een tekening aan de binnenkant, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "De tekening binnenin",
+      "waarom": "De zeefdruk in de klep zie je pas als je de tas opent, en deze close-up van de Secret Garden laat juist dat moment zien."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Zo is hij gemaakt",
+      "waarom": "Italiaans leer, zeefdruk, een familieatelier in Polen en een begin in De Pijp: vier feiten van jullie eigen site die laten zien waar de prijs vandaan komt."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Dezelfde tas, jouw kleur",
+      "waarom": "De Family Tree in aubergine en cement naast elkaar, met de maten en de MacBook die erin past, zodat iemand meteen een kleur kiest."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Koop deze tas niet",
+      "waarom": "Een omgekeerde kop valt op in de feed en eindigt bij iets wat jullie zelf zeggen: het leer wordt mooier met de jaren."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "€10 voor je eerste bestelling",
+      "waarom": "Jullie geven al €10 korting bij inschrijving voor de nieuwsbrief; deze advertentie zet dat aanbod groot neer met jullie eigen modelfoto."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Welkom bij Keecie",
+    "kop": "Een nieuwsbrief die voelt als Keecie.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: eerst het verhaal en de zeefdruk, daarna de €10 die klaarstaat voor de eerste bestelling.",
+    "punten": [
+      "Jullie eigen foto's en kleuren",
+      "Drie feiten over hoe de tassen gemaakt worden",
+      "Eén duidelijke stap naar de eerste bestelling"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

@@ -1,0 +1,48 @@
+{
+  "merk": "Walljar",
+  "domein": "walljar.com",
+  "lead_id": "2026-11-02-walljar.com",
+  "accent": "#191919",
+  "kop": "Posters voor elke muur, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "De keukenmuur",
+      "waarom": "Drie bestsellers naast elkaar laten zien hoe breed het aanbod is, met de instapprijs van €7,99 als poster erbij."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Eén poster, vier lijsten",
+      "waarom": "Jullie eigen lijstfoto's maken de keuze tussen zwart eiken en walnoot meteen zichtbaar, met het massief Nederlandse hout als reden om voor een lijst te gaan."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "10% bij twee of meer",
+      "waarom": "De korting uit jullie aankondigingsbalk krijgt hier een eigen advertentie, zodat mensen direct een tweede poster erbij pakken."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "De lege muur belt",
+      "waarom": "Een speels belscherm met Funky Leopard valt op tussen gewone productadvertenties en blijft hangen."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Kies je materiaal",
+      "waarom": "Eén stadskaart als poster, canvas of acrylglas met de vanaf-prijzen, zodat het verschil in één oogopslag duidelijk is."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Een kale muur? Daar hebben we iets voor.",
+    "kop": "Een nieuwsbrief die voelt als Walljar.",
+    "tekst": "Een rustige mail met een interieurfoto bovenaan en daaronder vier bestsellers, elk met een korte regel en een knop. Daarna de andere materialen en een footer met jullie eigen kanalen.",
+    "punten": [
+      "Vier bestsellers met prijs en eigen knop",
+      "De 10%-actie in de bovenbalk",
+      "Canvas, acrylglas en lijsten als vervolgstap"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

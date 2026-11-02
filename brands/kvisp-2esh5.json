@@ -1,0 +1,48 @@
+{
+  "merk": "Kvisp",
+  "domein": "kvisp.com",
+  "lead_id": "2026-11-02-kvisp.com",
+  "accent": "#6A7E5B",
+  "kop": "Je hond mee op de fiets, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Neem je hond overal mee",
+      "waarom": "Jullie eigen fiets- en hondenfoto's tussen de woorden laten in één blik zien waar het zitje voor is, ook op de e-bike."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Gray of Green?",
+      "waarom": "Midnight Gray en Forest Green naast elkaar helpen kiezen, met het harnas en de geschiktheid voor fiets en e-bike erbij."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Tot in elk detail",
+      "waarom": "De veiligheidsriemen, de inlay met staartpatroon en het doorzichtige pootbord uitgelicht, met de iF Design Award als bewijs."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Wat rijders zeggen",
+      "waarom": "Jullie 4,7 uit 963 reviews als kern, met voorbeeldreviews rond een van jullie eigen foto's."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "€20 voor nieuwe inschrijvers",
+      "waarom": "Jullie bestaande nieuwsbriefkorting op zitje plus Comfort Seat Liner als reden om je in te schrijven, met het logo groot in beeld."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Neem je hond overal mee",
+    "kop": "Een nieuwsbrief die voelt als Kvisp.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: het zitje met jullie eigen foto, de belangrijkste details rond het product en de €20-korting als afsluiter.",
+    "punten": [
+      "Opent met jullie foto en de iF Design Award",
+      "Harnas, pootbord en fiets of e-bike rond het zitje",
+      "€20-korting op zitje + Comfort Seat Liner als volgende stap"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}

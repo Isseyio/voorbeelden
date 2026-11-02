@@ -1,0 +1,48 @@
+{
+  "merk": "SOPHIOR",
+  "domein": "sophior.nl",
+  "lead_id": "2026-11-02-sophior.nl",
+  "accent": "#0D2B23",
+  "kop": "Een walnoten snijplank, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "bestand": "ad1.png",
+      "titel": "Gemaakt met",
+      "waarom": "Laat in één beeld zien waar de plank van gemaakt is: FSC-walnoot, kopshout, olie met bijenwas en twee bruikbare kanten."
+    },
+    {
+      "bestand": "ad2.png",
+      "titel": "Koop deze plank niet",
+      "waarom": "Een kop die mensen laat stoppen met scrollen, met daaronder het echte voordeel van kopshout: je mes blijft langer scherp."
+    },
+    {
+      "bestand": "ad3.png",
+      "titel": "Drie maten",
+      "waarom": "Zet de 35×25, 42×30 en 45×35 met hun prijs naast elkaar, zodat iemand meteen de juiste maat kiest."
+    },
+    {
+      "bestand": "ad4.png",
+      "titel": "Vanaf €69, morgen in huis",
+      "waarom": "Combineert de instapprijs met jullie levering voor 23:59 en gratis verzending vanaf €59, op jullie eigen keukenfoto."
+    },
+    {
+      "bestand": "ad5.png",
+      "titel": "Onderhoud in drie stappen",
+      "waarom": "Maakt van onderhoud een korte routine en brengt de minerale olie van €12,50 als logische tweede aankoop in beeld."
+    }
+  ],
+  "nieuwsbrief": {
+    "bestand": "mail.png",
+    "onderwerp": "Koken begint bij het juiste materiaal",
+    "kop": "Een nieuwsbrief die voelt als SOPHIOR.",
+    "tekst": "Opgebouwd rond jullie eigen verhaal over materiaal, met de walnoot snijplank uitgelicht en jullie keukenfoto's.",
+    "punten": [
+      "Merkverhaal uit jullie eigen pagina Ons verhaal",
+      "Snijplank met vier kenmerken uitgelegd",
+      "Afsluiter over snijden en serveren, vanaf €69"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}
