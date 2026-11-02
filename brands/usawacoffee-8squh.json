@@ -1,0 +1,18 @@
+{
+  "merk": "Usawa Coffee",
+  "domein": "usawa.coffee",
+  "lead_id": "2026-11-02-usawa.coffee",
+  "accent": "#D2591A",
+  "kop": "Koffie met een boodschap, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {"bestand": "ad1.png", "titel": "Het verhaal in één zin", "waarom": "Jullie directe inkoop bij de boer en het inclusieve packteam in Veghel worden de kop, met jullie eigen foto's in de tekst."},
+    {"bestand": "ad2.png", "titel": "Vers gebrand", "waarom": "Het proefpakket van 3, 5 of 8 zakken als makkelijke eerste bestelling, met de prijs erbij."},
+    {"bestand": "ad3.png", "titel": "Elke ochtend vers", "waarom": "Jullie smaken naast elkaar als weekritme, met gratis verzending vanaf €35 als duwtje."},
+    {"bestand": "ad4.png", "titel": "Vol of fris", "waarom": "Bonengang en Tanzania naast elkaar helpen twijfelaars kiezen, met het proefpakket als vangnet."},
+    {"bestand": "ad5.png", "titel": "Veghel belt", "waarom": "Een speels beeld dat opvalt in de feed en vertelt dat de koffie gebrand wordt in de week van bestellen."}
+  ],
+  "nieuwsbrief": {"bestand": "mail.png", "onderwerp": "Usawa betekent gelijkheid", "kop": "Een nieuwsbrief die voelt als Usawa Coffee.", "tekst": "Opgebouwd rond jullie verhaal: wat Usawa betekent, de branderij in Veghel en één koffie uitgelicht, met het proefpakket als afsluiter.", "punten": ["Merkverhaal uit jullie impactpagina", "Tanzania uitgelicht met smaaknotes en herkomst", "Proefpakket als volgende stap"]},
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}
