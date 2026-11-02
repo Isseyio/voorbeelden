@@ -1,0 +1,432 @@
+[
+ {
+  "cluster": "Fashion & accessoires",
+  "subniche": "Dameskleding / boutique-labels",
+  "producten": "Jurken, blouses, broeken, knitwear, kimono's; eigen labels en kleine founder-run boutiques met een niche (boho, lange maten/tall).",
+  "aov": "",
+  "klant": "Vrouwen 30-55, stijlbewust, kopen op pasvorm/stijl, terugkerend per seizoen.",
+  "hook_idee": "Verkoop jij elk seizoen een nieuwe collectie maar mail je je vaste klanten pas als het sale is? Lees dit.",
+  "niche_key": "dameskleding",
+  "status": "ronde 1"
+ },
+ {
+  "cluster": "Fashion & accessoires",
+  "subniche": "Streetwear",
+  "producten": "Hoodies, T-shirts, crewnecks, caps, outerwear; drop-gedreven, grafische prints, soms surf/skate-invloed.",
+  "aov": "Indicatie €70-€150 (hoodie €80-€120)",
+  "klant": "Mannen en vrouwen van 16-35, community-gedreven, gevoelig voor drops/schaarste, Instagram/TikTok.",
+  "hook_idee": "Als jouw drops binnen een week uitverkocht moeten zijn en je nog steeds alleen op Instagram leunt, lees dit.",
+  "niche_key": "streetwear",
+  "status": "ronde 1"
+ },
+ {
+  "cluster": "Fashion & accessoires",
+  "subniche": "Menswear / basics",
+  "producten": "Overshirts, knitwear, denim, T-shirts, ondergoed/loungewear, ook tweedehands merkkleding.",
+  "aov": "",
+  "klant": "Mannen 25-45 die 'kwaliteit voor een eerlijke prijs' zoeken, rationele kopers en herhaalaankopen van basics.",
+  "hook_idee": "Verkoop jij basics die mannen elk jaar opnieuw kopen, maar komt die herhaalaankoop niet vanzelf? Lees dit.",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Fashion & accessoires",
+  "subniche": "Sieraden (goud/zilver/handgemaakt)",
+  "producten": "Oorbellen, ringen, kettingen en armbanden: verguld messing of stainless steel (instap) tot 14k goud met diamant (fine).",
+  "aov": "Instap €30-€60; fine jewellery €150-€500+ (AVJ: €49-€1.198)",
+  "klant": "Vrouwen 20-45; zelfkoop plus cadeau (Moederdag, Valentijn, Kerst); stacking-gedrag geeft herhaalaankopen.",
+  "hook_idee": "Als jouw sieradenmerk meer dan €5.000 per maand aan ads uitgeeft en minder dan 25% van je omzet uit e-mail haalt, lees dit.",
+  "niche_key": "sieraden",
+  "status": "ronde 1"
+ },
+ {
+  "cluster": "Fashion & accessoires",
+  "subniche": "Tassen & lederwaren",
+  "producten": "Handtassen, shoppers, crossbody's, riemen, portemonnees; van mid-range leer tot designer (made in Italy/Portugal/NL).",
+  "aov": "",
+  "klant": "Vrouwen (en mannen voor riemen) 28-55, kopen op vakmanschap en design, lange beslistijd.",
+  "hook_idee": "Verkoop jij tassen boven de €200 en koopt je klant pas na drie bezoeken? Zonder e-mail ben je die klant na bezoek één al kwijt.",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Fashion & accessoires",
+  "subniche": "Schoenen / sneakers",
+  "producten": "Vegan/duurzame sneakers (kurk, druivenleer, gerecycled), sneakerverzorging en accessoires.",
+  "aov": "Sneakers €130-€220; verzorging/accessoires €15-€40",
+  "klant": "Mannen en vrouwen 25-45, duurzaamheidsbewust of sneakerliefhebber; herhaalaankoop laag bij schoenen, hoog bij care-producten.",
+  "hook_idee": "Als jouw sneakermerk elke klant opnieuw moet kopen via Meta, terwijl je care-producten en nieuwe colorways kunt mailen, lees dit.",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Fashion & accessoires",
+  "subniche": "Badmode & lingerie",
+  "producten": "Bikini's, badpakken, mix & match-tops/broekjes, vaak van gerecycled nylon (Econyl); strandaccessoires.",
+  "aov": "Indicatie €60-€130 (set top + broekje)",
+  "klant": "Vrouwen 20-45; sterk seizoensgebonden (piek mrt-jul), pasvormgevoelig.",
+  "hook_idee": "Als je badmodemerk 70% van de omzet in vier maanden draait, bouw je je lijst nu, niet in april. Lees dit.",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Fashion & accessoires",
+  "subniche": "Sokken & accessoires",
+  "producten": "Design- en duurzame sokken, giftboxes, matching ondergoed.",
+  "aov": "Indicatie €20-€45 (multipacks/giftboxes)",
+  "klant": "Breed: cadeaukopers en sokkenliefhebbers 20-50; lage AOV, dus winst zit in herhaling en bundels.",
+  "hook_idee": "Bij een order van €30 verdien je niets aan de eerste aankoop. Als jouw sokkenmerk geen herhaalaankopen via e-mail draait, lees dit.",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Fashion & accessoires",
+  "subniche": "Kinderkleding",
+  "producten": "Baby- en kinderkleding (0-12 jaar) van biologisch katoen, tijdloze prints, gender-neutraal, deels handgemaakt.",
+  "aov": "Indicatie €50-€100 (losse items €20-€60)",
+  "klant": "Moeders 28-40 met bewuste aankoop; kind groeit uit maten, dus voorspelbare herhaalaankopen.",
+  "hook_idee": "Jouw klant komt elk half jaar terug omdat haar kind een maat groeit. Mail jij haar al op dat moment, of doet je retailer dat?",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Fashion & accessoires",
+  "subniche": "Bruids / occasion",
+  "producten": "Trouwjurken op maat of uit eigen collectie, couture, bespoke; verkoop via pasafspraak in atelier (geen klassieke webshop).",
+  "aov": "Indicatie €1.500-€5.000+ per jurk",
+  "klant": "Bruiden 25-40, beslistraject van 6-12 maanden, oriënteren via Instagram/Pinterest en vergelijken ateliers.",
+  "hook_idee": "Als jouw atelier afhankelijk is van bruiden die 'zelf wel bellen', mis je de helft. Zo vul je je pasagenda met Meta en e-mail.",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Beauty & verzorging",
+  "subniche": "Skincare (clean/natuurlijk)",
+  "producten": "Gezichtsreinigers, serums, crèmes, kleimaskers, handcrème; natuurlijke of vegan formules, vaak met een ingrediëntverhaal (groente, klei)",
+  "aov": "Indicatie €30-€70 (producten €15-€45, routines/bundels hoger)",
+  "klant": "Vrouwen 22-45, bewust bezig met ingrediënten, gevoelige huid, beïnvloed door Instagram en TikTok",
+  "hook_idee": "Kopen jouw skincare-klanten maar één keer? Met de juiste e-mailflows komt je navulmoment vanzelf.",
+  "niche_key": "skincare",
+  "status": "ronde 1"
+ },
+ {
+  "cluster": "Beauty & verzorging",
+  "subniche": "Skincare voor huidproblemen (acne, rosacea)",
+  "producten": "Reinigers, azelaïnezuur/BHA-serums, pimple patches, supplementen 'acne van binnenuit', routines per huidtype",
+  "aov": "Indicatie €35-€80 (routines en abonnementen)",
+  "klant": "Tieners en volwassenen (ook mannen) met acne of roodheid, vaak al veel geprobeerd, wantrouwig maar zeer gemotiveerd",
+  "hook_idee": "Je klant stopt na 3 weken, terwijl je acne-routine na 6 weken pas werkt. Wij bouwen de flow die haar erdoorheen helpt.",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Beauty & verzorging",
+  "subniche": "Haarverzorging krullen (curly girl)",
+  "producten": "CG-proof shampoo, conditioner, leave-in, gel, mousse, diffusers, microvezel-handdoeken, starterkits",
+  "aov": "Indicatie €40-€70 (gratis verzending vanaf €49-€50 bij de onderzochte shops)",
+  "klant": "Vrouwen 18-40 met golvend of krullend haar (2A-4C), community-gedreven, veel 'trial & error'",
+  "hook_idee": "Weet jouw bezoeker welk krultype ze heeft? Een quiz plus flow maakt van twijfelaars terugkerende krulklanten.",
+  "niche_key": "haarverzorging",
+  "status": "ronde 1"
+ },
+ {
+  "cluster": "Beauty & verzorging",
+  "subniche": "Haaraccessoires",
+  "producten": "Scrunchies, klemmen, haarbanden, strikken, limited drops en collecties",
+  "aov": "Indicatie €25-€50 (los item €15-€30, bijv. oversized scrunchie €29,95)",
+  "klant": "Vrouwen 18-35, trend- en drop-gevoelig, impulsaankopen via Instagram",
+  "hook_idee": "Verkoop je drops vooral via Instagram? Met een early-access-lijst verkoop je je volgende drop uit voordat de ads live gaan.",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Beauty & verzorging",
+  "subniche": "Make-up",
+  "producten": "Oogschaduw(paletten), minerale make-up, foundation, lipbalm, starter sets, workshops",
+  "aov": "Indicatie €35-€60 (gratis verzending vanaf €50 bij L'OYÉ)",
+  "klant": "Vrouwen 20-50; make-up-liefhebbers (kleurcollecties) of 'easy routine' zoekers (foundation 35+)",
+  "hook_idee": "Twijfelt je bezoeker over haar kleur en klikt ze weg? Wij zetten die twijfel om in een bestelling.",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Beauty & verzorging",
+  "subniche": "Nagels / gellak / BIAB",
+  "producten": "Gellak, BIAB, dip powder, rubber base, UV/LED-lampen, starter sets, nail art",
+  "aov": "Indicatie €40-€90 (starterset €69,95-€139,95, navulkleuren €10-€15)",
+  "klant": "Vrouwen 20-45 die salonresultaat thuis willen; daarnaast nagelstylistes (B2B)",
+  "hook_idee": "Je klant koopt één starterset en daarna nooit meer een kleur? Wij maken van je starterset een abonnement op nieuwe kleuren.",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Beauty & verzorging",
+  "subniche": "Zeep & bodycare (handgemaakt)",
+  "producten": "Handgemaakte zeep, shampoobars, body bars, tallow-crèmes, scrubs, cadeausets",
+  "aov": "Indicatie €20-€40 (zeep €6-€12 per stuk, sets en pakketten hoger)",
+  "klant": "Vrouwen 30-60, duurzaam en natuurlijk ingesteld, cadeaukopers, plasticvrij",
+  "hook_idee": "Is jouw zeep in 6 weken op, terwijl je klant nooit een herinnering krijgt? Dat is omzet die nu blijft liggen.",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Beauty & verzorging",
+  "subniche": "Parfum & geuren",
+  "producten": "Niche eau de parfum, samples/discovery sets, geurkaarsen, parfumgerelateerde body care",
+  "aov": "Indicatie €60-€180 (samples €5-€15 als instap)",
+  "klant": "Geurliefhebbers 25-55, cadeaukopers, nichecommunity (Fragrantica en Parfumo)",
+  "hook_idee": "Verstuur je samples maar volgt er nooit een full size? Een slimme sample-naar-fles-flow lost dat op.",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Beauty & verzorging",
+  "subniche": "Grooming voor mannen",
+  "producten": "Baardolie, baardbalsem, styling, scheerproducten, skincare voor mannen, cadeausets",
+  "aov": "Indicatie €35-€60",
+  "klant": "Mannen 25-50, vaak eerste kennismaking via een cadeau (partner koopt), daarna zelf herhalen",
+  "hook_idee": "Is je baardolie een cadeau dat nooit wordt nabesteld? Wij zorgen dat de baardman zelf terugkomt.",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Beauty & verzorging",
+  "subniche": "Tanden / oral care",
+  "producten": "Tandpastatabletten, whitening-kits en strips, 5-in-1 tandenborstels, elektrische borstels, abonnementen",
+  "aov": "Indicatie €25-€60 (tabletten €5-€9 per zakje, abonnementskorting 10%)",
+  "klant": "25-45, cosmetisch gedreven (witte tanden) of duurzaam (plasticvrij)",
+  "hook_idee": "Draai je honderden ads maar haal je nog geen e-mail op? Dan betaal je elke klant twee keer.",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Beauty & verzorging",
+  "subniche": "Lichaamsverzorging / cellulite & body tools",
+  "producten": "Droogborstels, cupping, anti-cellulite leggings, gua sha, bodyscrubs, olie",
+  "aov": "Indicatie €30-€70",
+  "klant": "Vrouwen 25-55 met een 'zichtbaar resultaat'-wens, gevoelig voor before/after-content",
+  "hook_idee": "Lijkt jouw body-merk in de feed op elke dropshipper? Wij laten zien waarom jij echt bent, en dat verkoopt.",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Supplementen, food & drank",
+  "subniche": "Supplementen algemeen (vitaminen/mineralen)",
+  "producten": "Multivitaminen, vitamine D3/K2, magnesium, omega-3/visolie/algenolie, calcium, B-complex, kruidenformules; vaak eigen label in capsule-/tabletvorm",
+  "aov": "Losse producten €19-€47; AOV ca. €40-€60 (gratis verzending vanaf ca. €40); volumekortingen (2/4 stuks)",
+  "klant": "",
+  "hook_idee": "Je klant slikt 60 capsules in 2 maanden. Krijgt ze op dag 50 een mail van jou?",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Supplementen, food & drank",
+  "subniche": "Collageen & beauty-supplementen",
+  "producten": "Collageenpoeder (gesmaakt/neutraal), collageen-latte/'collaccino', beauty blends met hyaluron/vitamine C, mini-tabletten, navulverpakkingen",
+  "aov": "",
+  "klant": "Vrouwen 30-55 (beauty) en sporters (gewrichten/herstel); sterk beïnvloed door influencers en drogisterij (Etos)",
+  "hook_idee": "Je collageenklant koopt één pot. Wat doe jij om de tweede te verkopen?",
+  "niche_key": "supplementen",
+  "status": "ronde 1"
+ },
+ {
+  "cluster": "Supplementen, food & drank",
+  "subniche": "Sportvoeding & eiwit",
+  "producten": "Whey/vegan proteïne, clear whey, creatine, pre-workout, elektrolyten, eiwitrepen, kant-en-klare fitmaaltijden",
+  "aov": "",
+  "klant": "Sportschoolgangers 18-40 (overwegend man, groeiend vrouwelijk segment), prijsbewust en vergelijkt met Myprotein, Body&Fit en XXL Nutrition",
+  "hook_idee": "Je whey is na 30 dagen op. Bestelt je klant dan bij jou of bij Myprotein?",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Supplementen, food & drank",
+  "subniche": "Vrouwengezondheid (cyclus, menopauze)",
+  "producten": "Cyclus- en PMS-formules, (peri)menopauze-supplementen (hop, maca), hormoonbalans-bundels, eiwit+collageen voor vrouwen, boxen en boeken",
+  "aov": "",
+  "klant": "Vrouwen 35-60 met cyclus- of overgangsklachten, community-gedreven (Instagram, experts, magazine), hoge betrokkenheid en hoge LTV-potentie",
+  "hook_idee": "Je ads trekken vrouwen binnen. Maar wie houdt ze vast na bestelling één?",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Supplementen, food & drank",
+  "subniche": "Slaap & stress (magnesium, ashwagandha)",
+  "producten": "Slaapformules (melisse, magnesium bisglycinaat, melatonine-vrij), ashwagandha KSM-66, relax-complexen, magnesium-gummies",
+  "aov": "€20-€40 per product; AOV ca. €30-€50; zelden een eigen abonnement",
+  "klant": "Werkende 25-55 met stress of slaapproblemen; impulsaankoop via social (TikTok-hype ashwagandha); twijfelt over werking",
+  "hook_idee": "Je klant bestelt om 23:40 je slaapformule. Hoor je daarna ooit nog iets van haar?",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Supplementen, food & drank",
+  "subniche": "Darmgezondheid & probiotica",
+  "producten": "Probiotica-capsules, darmflora-thuistests met voedingsadvies, bone broth (poeder/capsules), vezels",
+  "aov": "",
+  "klant": "Mensen 30-60 met buikklachten (opgeblazen gevoel, prikkelbare darm) of biohackers; veel onderzoek vooraf, gevoelig voor educatie",
+  "hook_idee": "Je darmtest is verkocht. Wat krijgt je klant daarna van je te horen?",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Supplementen, food & drank",
+  "subniche": "Functionele dranken, matcha, koffie & thee",
+  "producten": "Ceremonial/culinary matcha, matcha-starterssets (chasen, chawan), hojicha, lattes, functionele koffie (bv. met collageen)",
+  "aov": "Matcha €13-€40 per blik; sets en bundels €60-€130; AOV ca. €35-€70; abonnementen nog zeldzaam",
+  "klant": "Vrouwen en mannen 20-40, urban, Instagram/TikTok-gedreven matcha-hype; ook horeca (B2B)",
+  "hook_idee": "Je klant drinkt elke ochtend matcha. Waarom koopt ze die niet elke maand bij jou?",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Supplementen, food & drank",
+  "subniche": "Gezonde snacks & chocolade",
+  "producten": "Suikerarme snacks en pannenkoekmix, bean-to-bar/fairtrade chocolade, bonbons, rauwe chocolade met noten en bessen, cadeaupakketten",
+  "aov": "Losse repen/snacks €2-€9; cadeauboxen €20-€60+; AOV sterk seizoensgebonden (Sinterklaas, Kerst, Pasen, Diwali)",
+  "klant": "Gezinnen en ouders (gezonde snacks), cadeaukopers en bewuste genieters (chocolade); veel B2B-relatiegeschenken",
+  "hook_idee": "Je verkoopt in december als een gek. Wat verkoop je in februari?",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Supplementen, food & drank",
+  "subniche": "Specerijen, sauzen & delicatessen",
+  "producten": "Ambachtelijke hot sauces, sambals, chutneys, chili-hazelnootspread, kruidenmixen",
+  "aov": "Flessen €8-€12; AOV ca. €20-€35; geen abonnementen",
+  "klant": "Foodies en 'chilihead'-community; festivals (Shit Hot Fest), cadeaukopers",
+  "hook_idee": "Je saus is weer uitverkocht. Heb jij de e-mail van iedereen die erop wacht?",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Supplementen, food & drank",
+  "subniche": "Huisdierenvoeding & -supplementen",
+  "producten": "Natuurlijke hondensnacks (gedroogd vlees, kauwsnacks), vers/BARF-vlees, brokken, hondensupplementen (gewrichten, vacht, jeuk, gebit)",
+  "aov": "Snacks €2-€15; voer en supplementen €20-€50; AOV ca. €35-€60; abonnement logisch maar zelden zichtbaar",
+  "klant": "Hondeneigenaren 25-65 die hun hond als gezinslid zien; loyaal en herhaalgevoelig",
+  "hook_idee": "Elke hond eet elke dag. Waarom bestelt jouw klant dan maar één keer?",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Home, lifestyle, kids, huisdieren & sport",
+  "subniche": "Kaarsen & huisgeuren",
+  "producten": "Soja-, koolzaad- en kokoswaskaarsen, geurkaarsen in glas of beton (Jesmonite), refills, diffusers, cadeausets",
+  "aov": "Indicatie €25–55 (losse kaars €15–35, sets €40–70)",
+  "klant": "Vrouwen van 25–45, cadeaukopers, interieurliefhebbers; sterk seizoensgebonden (Q4, Moederdag)",
+  "hook_idee": "Je kaars brandt 40 uur. Daarna koopt je klant er een bij de Action. Tenzij jij eerst mailt.",
+  "niche_key": "kaarsen",
+  "status": "ronde 1"
+ },
+ {
+  "cluster": "Home, lifestyle, kids, huisdieren & sport",
+  "subniche": "Interieur, decoratie & keramiek",
+  "producten": "Handgemaakt steengoed (borden, mokken, vazen), keramische kunstobjecten, kleine series",
+  "aov": "Indicatie €40–120 (mok €25–40, vaas/set €60–150)",
+  "klant": "Interieurbewuste vrouwen van 28–55 met hoger inkomen; kopen op 'uniek/handgemaakt'",
+  "hook_idee": "Je nieuwe collectie is in 3 uur uitverkocht, maar alleen bij je volgers. Wat als 5.000 nieuwe mensen erop zaten te wachten?",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Home, lifestyle, kids, huisdieren & sport",
+  "subniche": "Kunst, posters & prints",
+  "producten": "Interieurposters, stadsposters en architectuurprints, seizoensposters (kerst), kunst op tegels, lijsten",
+  "aov": "Indicatie €30–80 (poster €15–40, met lijst of in bundel hoger)",
+  "klant": "Huurders en jonge huiseigenaren van 22–40, cadeaukopers, lokale trots (stadsposters)",
+  "hook_idee": "Verkoop je posters van €25 met €18 CAC? Dan verdien je pas bij de tweede bestelling. Wij zorgen dat die komt.",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Home, lifestyle, kids, huisdieren & sport",
+  "subniche": "Beddengoed, slaap & textiel",
+  "producten": "Linnen en katoenen dekbedovertrekken, lakens, plaids, handdoeken, dekbedden",
+  "aov": "Indicatie €90–250 (linnen overtrek €120–250)",
+  "klant": "Vrouwen van 30–60, huiseigenaren, 'investeren in slaap'; lange overweging, gevoelig voor stof en kwaliteit",
+  "hook_idee": "Iemand bekijkt jouw linnen dekbedovertrek van €189 drie keer. En koopt hem dan bij een ander. Zo stop je dat.",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Home, lifestyle, kids, huisdieren & sport",
+  "subniche": "Keuken & tafel",
+  "producten": "Kruidenpotjes/-rekken, (vaatwasserbestendige) houten planken, glaswerk, serveergoed",
+  "aov": "Indicatie €35–90",
+  "klant": "Kookliefhebbers en cadeaukopers van 25–55; sterk cadeau-gedreven in Q4",
+  "hook_idee": "Je product wordt elk jaar 1x als kerstcadeau gekocht. Wij maken er een merk van waar mensen elk jaar weer voor terugkomen.",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Home, lifestyle, kids, huisdieren & sport",
+  "subniche": "Baby- & kinderproducten",
+  "producten": "Babydoeken (mousseline), babykleding, kraamcadeaus, kindervloerkleden, prints, groeimeters",
+  "aov": "Indicatie €35–80 (kraamcadeau €30–60)",
+  "klant": "Aanstaande en jonge ouders (25–38), plus kraamcadeau-kopers (vrienden, grootouders)",
+  "hook_idee": "Je klant is over 18 maanden geen babyklant meer. Haal jij in die tijd 3 bestellingen binnen, of 1?",
+  "niche_key": "baby",
+  "status": "ronde 1"
+ },
+ {
+  "cluster": "Home, lifestyle, kids, huisdieren & sport",
+  "subniche": "Speelgoed (Montessori/houten)",
+  "producten": "Montessori-speelgoed, leertorens, speelbanken, bedhuisjes, houten speelgoed",
+  "aov": "Indicatie €60–250 (leertoren/meubel €150–300)",
+  "klant": "Bewuste ouders (28–40) en grootouders; lange overweging bij meubelachtige producten",
+  "hook_idee": "Ouders kijken 3 weken naar een leertoren voor ze kopen. Wie mailt ze in die 3 weken? Jij of je concurrent?",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Home, lifestyle, kids, huisdieren & sport",
+  "subniche": "Huisdierenaccessoires",
+  "producten": "Halsbanden, lijnen, tuigen (leer/kralen), hondenmanden (PFAS-vrij), autogordels, accessoires",
+  "aov": "Indicatie €30–90 (mand €60–150)",
+  "klant": "Hondenbezitters van 25–55 die hun hond als gezinslid zien; impuls plus herhaling",
+  "hook_idee": "Hondenbaasjes kopen gemiddeld 4x per jaar iets voor hun hond. Hoeveel keer kopen ze bij jou?",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Home, lifestyle, kids, huisdieren & sport",
+  "subniche": "Sport, fitness, yoga & padel-gear",
+  "producten": "Kurken yogamatten, zitballen, padel-overgrips, padelaccessoires",
+  "aov": "Indicatie €30–90",
+  "klant": "Actieve 25–45-jarigen; padelspelers (snelgroeiende niche in NL), yoga-beoefenaars",
+  "hook_idee": "Padelgrips slijten elke 3 weken. Jouw klant weet dat, maar krijgt geen mail van jou. Zonde.",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Home, lifestyle, kids, huisdieren & sport",
+  "subniche": "Outdoor, reizen & tassen",
+  "producten": "Packing cubes, reistassen, duffels, padel-backpacks, waterdichte rugzakken",
+  "aov": "Indicatie €40–120",
+  "klant": "Reizigers van 25–45, citytrippers, sportieve forenzen; pieken in voorjaar en zomer en met Black Friday",
+  "hook_idee": "Draait je tassenmerk alleen nog op '50% korting'? Dan heb je geen merk meer, maar een uitverkoop.",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Home, lifestyle, kids, huisdieren & sport",
+  "subniche": "Cadeaus & gepersonaliseerde producten",
+  "producten": "Tegeltjes met tekst, naam- en datumproducten, geborduurde kraamcadeaus, naamslingers, gepersonaliseerde sleutelhangers en kerstballen",
+  "aov": "Indicatie €20–50",
+  "klant": "Cadeaukopers (vooral vrouwen van 25–55) rond geboorte, Moederdag, Vaderdag en kerst",
+  "hook_idee": "Je klant kocht in maart een tegeltje voor Moederdag. Weet jij al wanneer haar zus jarig is? Je e-mail wel.",
+  "niche_key": null,
+  "status": "open"
+ },
+ {
+  "cluster": "Home, lifestyle, kids, huisdieren & sport",
+  "subniche": "Planten, bloemen & droogbloemen",
+  "producten": "Droogbloemenboeketten, veldboeketten, longlife-rozen in stolp, brievenbusbloemen",
+  "aov": "Indicatie €30–60",
+  "klant": "Vrouwen van 25–50; cadeau- en interieurkopers met pieken rond Valentijn, Moederdag en kerst",
+  "hook_idee": "Valentijn en Moederdag zijn 40% van je omzet. Begin je over 3 maanden met adverteren, of heb je dan al een lijst?",
+  "niche_key": null,
+  "status": "open"
+ }
+]

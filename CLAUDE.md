@@ -21,3 +21,7 @@ Gehost via GitHub Pages op voorbeelden.digitalessence.io (CNAME bij Hostnet → 
 - Productfoto's echt en onveranderd; de week-sectie noemt geen vast aantal ads.
 - Merk vraagt om verwijdering → map `<slug>/` en `brands/<slug>.json` verwijderen en pushen, dezelfde dag.
 - Foto van Issey: zet `assets/issey.jpg` (vierkant, ≥192px) en bouw opnieuw; anders monogram.
+
+## Eigen Meta-ads van Digital Essence (los van de prospectpagina's)
+- Tooling, huisstijl en de wekelijkse runbook staan in `_eigen-ads/RUNBOOK.md`; beelden in `ma-k7w3q/` (alleen die map is via robots.txt ophaalbaar, voor Meta).
+- In deze publieke repo nooit merknamen van prospects zetten in `_eigen-ads/`.
