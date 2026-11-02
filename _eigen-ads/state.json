@@ -5,13 +5,111 @@
  "campaign_id": "120258639570700779",
  "campaign_name": "DE | Leads | Instant Form | NL | Niche-ads (EM/MA/AU)",
  "daily_budget_eur": 20,
- "adset_id": null,
+ "adset_id": "120258640102890779",
  "lead_gen_form_id": "1459890672758264",
  "leadgen_tos_accepted": true,
  "figma_file_key": "o0quqGHg7GDxCZva57AMrO",
  "hosting_base": "https://voorbeelden.digitalessence.io/ma-k7w3q/",
  "laatste_ronde": 1,
- "ads": [],
+ "ads": [
+  {
+   "naam": "DE-R1-sieraden-EM",
+   "ad_id": "120258640105840779",
+   "image_hash": "a73d6979381b052f3b5bd7bbf26a2575",
+   "ronde": 1,
+   "status": "aangemaakt (pauze)"
+  },
+  {
+   "naam": "DE-R1-sieraden-MA",
+   "ad_id": "120258640107820779",
+   "image_hash": "c4141b1e111d7745586d5301b7b83865",
+   "ronde": 1,
+   "status": "aangemaakt (pauze)"
+  },
+  {
+   "naam": "DE-R1-sieraden-AU",
+   "ad_id": "120258640108140779",
+   "image_hash": "7c6ee7bff5a61839250616e6e1076744",
+   "ronde": 1,
+   "status": "aangemaakt (pauze)"
+  },
+  {
+   "naam": "DE-R1-streetwear-EM",
+   "ad_id": "120258640108700779",
+   "image_hash": "41e4cb9d9da2e127bd68417e02bf41b4",
+   "ronde": 1,
+   "status": "aangemaakt (pauze)"
+  },
+  {
+   "naam": "DE-R1-streetwear-MA",
+   "ad_id": "120258640108950779",
+   "image_hash": "078f2408dd72dd2c79278a18c9d63270",
+   "ronde": 1,
+   "status": "aangemaakt (pauze)"
+  },
+  {
+   "naam": "DE-R1-streetwear-AU",
+   "ad_id": "120258640109180779",
+   "image_hash": "fa37fa66f3a6d60815002d9b24163f25",
+   "ronde": 1,
+   "status": "aangemaakt (pauze)"
+  },
+  {
+   "naam": "DE-R1-skincare-EM",
+   "ad_id": "120258640109740779",
+   "image_hash": "955a10af934cb3801413b3ba75b11bdf",
+   "ronde": 1,
+   "status": "aangemaakt (pauze)"
+  },
+  {
+   "naam": "DE-R1-skincare-MA",
+   "ad_id": "120258640116400779",
+   "image_hash": "c4cdfc8f87306f90e162827fae90552b",
+   "ronde": 1,
+   "status": "aangemaakt (pauze)"
+  },
+  {
+   "naam": "DE-R1-skincare-AU",
+   "ad_id": "120258640113380779",
+   "image_hash": "2d1cdb9cb875a55e19b0bfb7a3f711f3",
+   "ronde": 1,
+   "status": "aangemaakt (pauze)"
+  },
+  {
+   "naam": "DE-R1-supplementen-EM",
+   "ad_id": "120258640113650779",
+   "image_hash": "87fae43d15c797abff5850113f035464",
+   "ronde": 1,
+   "status": "aangemaakt (pauze)"
+  },
+  {
+   "naam": "DE-R1-supplementen-MA",
+   "ad_id": "120258640114040779",
+   "image_hash": "4f2dbdf846e55db325cce1e275556ce3",
+   "ronde": 1,
+   "status": "aangemaakt (pauze)"
+  },
+  {
+   "naam": "DE-R1-supplementen-AU",
+   "ad_id": "120258640114230779",
+   "image_hash": "a87ea65a3a0edb4be0338e6e3fcad5e7",
+   "ronde": 1,
+   "status": "aangemaakt (pauze)"
+  }
+ ],
  "privacy_url": "https://voorbeelden.digitalessence.io/privacy/",
- "blokkade": "Meta-koppeling mist pages_manage_ads voor pagina 768381293027557: adset/ads aanmaken via API faalt tot Issey de connector opnieuw koppelt met die pagina."
+ "reserve_beelden_r1": {
+  "dameskleding-EM": "6f58f0e43da471cd60fca55b798b5336",
+  "dameskleding-MA": "04d260d5e56aa509556febf719011484",
+  "dameskleding-AU": "feb0ee9e2cac5e8ef7682f6b5705b5c8",
+  "haarverzorging-EM": "de641bc194906b9c70122c2ad6bede08",
+  "haarverzorging-MA": "0ba5aa3d706b05f43e0095ddb7453647",
+  "haarverzorging-AU": "e075bc6bf3e2927b1ee5a7c37664e037",
+  "kaarsen-EM": "d963311ded97f645281309a8f5201c6c",
+  "kaarsen-MA": "b53d5d7e74e525a24b5d927115f14afd",
+  "kaarsen-AU": "58d71772e45c2edca866bbc80962f638",
+  "baby-EM": "aaa060d60e53adcdb69c7dd007243101",
+  "baby-MA": "e9941da2ea968c81566fa0cb7b93edb0",
+  "baby-AU": "8c7fb0356ef5217b36acbfce22cc4632"
+ }
 }
