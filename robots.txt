@@ -1,7 +1,3 @@
-User-agent: facebookexternalhit
-User-agent: Facebot
-Allow: /ma-k7w3q/
-Disallow: /
-
 User-agent: *
+Allow: /ma-k7w3q/
 Disallow: /
