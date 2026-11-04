@@ -1,0 +1,50 @@
+{
+  "slug": "lemonpoppytea-6d9y3",
+  "merk": "Lemon Poppy Tea",
+  "domein": "lemonpoppytea.com",
+  "lead_id": "2026-11-04-lemonpoppytea.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2F6E66",
+  "kop": "Wilde bergthee uit Albanië, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "597:3",
+      "titel": "Drie ingrediënten, één blend",
+      "waarom": "De Soul Blend is nieuw en bestaat uit drie dingen: bergthee, hibiscus en Marokkaanse roos; die zie je hier meteen, met de echte zak erbij."
+    },
+    {
+      "node": "597:25",
+      "titel": "Zeven avonden",
+      "waarom": "Jullie hebben zeven blends van €15,95; een week met elke avond een andere maakt het assortiment in één beeld duidelijk."
+    },
+    {
+      "node": "597:71",
+      "titel": "De vrouw achter de thee",
+      "waarom": "Het verhaal van Edvina en de Albanese bergen staat op jullie homepage en geeft de thee een gezicht."
+    },
+    {
+      "node": "600:2",
+      "titel": "Wat kost een kop?",
+      "waarom": "Een zakje Golden CALM van 25 gram is goed voor tot 30 koppen; als kassabon laat je zien dat dat ongeveer €0,53 per kop is."
+    },
+    {
+      "node": "600:53",
+      "titel": "Cadeau voor december",
+      "waarom": "De Harmony Set is een doos met wilde marjolein, rozenbottel, kaneel en hibiscus; met jullie eigen kerstfoto past hij precies in de cadeaumaand."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "602:2",
+    "onderwerp": "Vier blends voor lange avonden",
+    "kop": "Een nieuwsbrief die voelt als Lemon Poppy Tea.",
+    "tekst": "Een cadeaugids voor november: vier blends met hun ingrediënten, het verhaal van Edvina en de Harmony Set als cadeau.",
+    "punten": [
+      "Vier blends met ingrediënten en prijs",
+      "Het verhaal achter de thee",
+      "De Harmony Set als cadeautip"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-04"
+}
