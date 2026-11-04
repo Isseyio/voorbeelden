@@ -1,0 +1,50 @@
+{
+  "slug": "maxwoof-jfzhq",
+  "merk": "Max & Woof",
+  "domein": "max-woof.nl",
+  "lead_id": "2026-11-04-max-woof.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3E2E63",
+  "kop": "Jullie prints, sets en maten in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "641:3",
+      "titel": "Moo! Holy Cow",
+      "waarom": "De paarse koeienprint en jullie eigen 'Moo!' uit de productomschrijving maken de set in één oogopslag herkenbaar, met de prijs van nu erbij."
+    },
+    {
+      "node": "641:20",
+      "titel": "Zo zit de set in elkaar",
+      "waarom": "Laat zien wat je krijgt: een verstelbaar tuigje met mesh en neopreen, een riem van 150 cm en een poepzakhouder, zoals op de productpagina staat."
+    },
+    {
+      "node": "641:42",
+      "titel": "Bailey belt",
+      "waarom": "Een speels idee met Bailey van jullie eigen foto's en de Orange Swirl set, dat opvalt tussen gewone productfoto's."
+    },
+    {
+      "node": "641:56",
+      "titel": "Welke maat?",
+      "waarom": "Jullie foto's laten per hond zien welke maat het tuigje is; dat neemt twijfel over de maat weg voordat iemand bestelt."
+    },
+    {
+      "node": "641:75",
+      "titel": "Een nieuwe print per kwartaal",
+      "waarom": "Zes prints naast elkaar laten zien dat er sinds 2021 elk kwartaal een nieuwe collectie bijkomt."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "642:2",
+    "onderwerp": "Welkom bij Max & Woof",
+    "kop": "Een nieuwsbrief die voelt als Max & Woof.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% korting die jullie bij de aanmelding al noemen, het verhaal van de kwartaalcollecties, drie sets en jullie klantscore.",
+    "punten": [
+      "Welkomstmail die direct na de aanmelding uit kan gaan",
+      "Drie sets met prijs en een eigen knop",
+      "De 9,0 van jullie klanten als afsluiting"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-04"
+}
