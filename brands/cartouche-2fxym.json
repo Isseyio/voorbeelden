@@ -1,0 +1,50 @@
+{
+  "slug": "cartouche-2fxym",
+  "merk": "Cartouche Fashion",
+  "domein": "cartouchefashion.com",
+  "lead_id": "2026-11-04-cartouchefashion.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#59613F",
+  "kop": "Cartouche by Suus, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "664:2",
+      "titel": "Gekozen door Suus",
+      "waarom": "Jullie eigen label is ontworpen door Suus en alleen bij Cartouche te koop, dus haar naam staat groot in beeld met haar eigen foto's."
+    },
+    {
+      "node": "664:21",
+      "titel": "Live op maandag en woensdag",
+      "waarom": "De liveshows op Instagram zijn vast ritme bij jullie, en deze advertentie nodigt nieuwe mensen uit om mee te kijken."
+    },
+    {
+      "node": "664:39",
+      "titel": "Shop the look",
+      "waarom": "Sweater Caro en Broek Lucie samen komen op €104,90, net boven de grens voor gratis versturen vanaf €100."
+    },
+    {
+      "node": "664:64",
+      "titel": "Jassen by Suus",
+      "waarom": "Vier eigen jassen van €49,95 tot €69,95 in één beeld, op het moment dat iedereen een jas zoekt."
+    },
+    {
+      "node": "664:85",
+      "titel": "Ophalen in de winkel",
+      "waarom": "Met winkels in Alphen aan den Rijn, Bodegraven en Woerden kun je online bestellen en in de winkel ophalen of terugbrengen."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "665:2",
+    "onderwerp": "Kleding voor elke dag, door Suus",
+    "kop": "Een nieuwsbrief die voelt als Cartouche.",
+    "tekst": "Een nieuwsbrief over jullie eigen label, met Jas Carmen uitgelegd in vier labels en een uitnodiging voor de liveshow.",
+    "punten": [
+      "Opent met Cartouche by Suus en het idee erachter",
+      "Jas Carmen met vier labels en de prijs",
+      "Sluit af met de liveshows op maandag en woensdag"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-04"
+}
