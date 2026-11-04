@@ -1,0 +1,50 @@
+{
+  "slug": "donsje-yaacq",
+  "merk": "Donsje",
+  "domein": "donsje.com",
+  "lead_id": "2026-11-02-donsje.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#635143",
+  "kop": "Een beer, een koala en een eenhoorn, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "583:2",
+      "titel": "Waar hij van gemaakt is",
+      "waarom": "De Wadudu Special is van leer, met een voering van schapenwol en een rubberen zool, handgemaakt en Fairtrade; dat laat je hier in één beeld zien."
+    },
+    {
+      "node": "583:25",
+      "titel": "Beer of koala",
+      "waarom": "De Thuru bestaat als beer en als koala, en ouders kiezen graag zelf; twee foto's naast elkaar maken die keuze makkelijk."
+    },
+    {
+      "node": "585:2",
+      "titel": "De prijs vooraan",
+      "waarom": "Eén duidelijke prijs van €139 en gratis verzending boven €100 nemen een twijfel weg voordat iemand doorklikt."
+    },
+    {
+      "node": "585:12",
+      "titel": "Koop deze laars niet",
+      "waarom": "Een kop die even verrast, met daaronder het echte punt: een laars waar een kind makkelijk zelf in stapt."
+    },
+    {
+      "node": "585:34",
+      "titel": "Er belt een beer",
+      "waarom": "Het berengezicht op de Thuru leent zich voor een speels beeld dat opvalt tussen gewone advertenties."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "586:2",
+    "onderwerp": "Welkom bij Donsje",
+    "kop": "Een nieuwsbrief die voelt als Donsje.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, in jullie bruin en beige, met het verhaal achter het handwerk en de kans op een cadeau.",
+    "punten": [
+      "Welkom met de Thuru als blikvanger",
+      "Handwerk, leer en wol en de Shining Star-school in drie regels",
+      "De vier flagshipstores als afsluiting"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}
