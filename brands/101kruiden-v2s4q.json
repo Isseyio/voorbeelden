@@ -1,0 +1,50 @@
+{
+  "slug": "101kruiden-v2s4q",
+  "merk": "101kruiden",
+  "domein": "101kruiden.com",
+  "lead_id": "2026-11-04-101kruiden.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#35795F",
+  "kop": "Een weekmenu van kruidenmixen en een gembershot in drie stappen.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "622:3",
+      "titel": "Elke avond een andere mix",
+      "waarom": "Zes van jullie kruidenmixen als weekmenu, vanaf €1,49, met de Tajine mix zonder zout uitgelicht."
+    },
+    {
+      "node": "622:47",
+      "titel": "Wat zit er in de shot",
+      "waarom": "De vier grootste ingrediënten van het Gember Kaneel Shot Poeder met hun percentages, zoals op jullie productpagina."
+    },
+    {
+      "node": "622:69",
+      "titel": "Van proeven tot voorraadpot",
+      "waarom": "De Tajine kruidenmix in 50 g, 500 g en 1 kg naast elkaar, zodat je meteen ziet wat elke maat kost."
+    },
+    {
+      "node": "622:89",
+      "titel": "Je eerste bestelling",
+      "waarom": "Jullie eigen welkomstcode WELKOM5 en de gratis verzending boven €30 boven een grote foto van de knoflook paprika."
+    },
+    {
+      "node": "622:101",
+      "titel": "POV: zelf je gembershot",
+      "waarom": "De bereiding van jullie productpagina in drie stappen, in de vorm van een social video-titel."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "624:2",
+    "onderwerp": "Tajine zonder zout, het zout bepaal je zelf",
+    "kop": "Een nieuwsbrief die voelt als 101kruiden.",
+    "tekst": "Een productmail rond de Tajine kruidenmix: hoe je hem gebruikt, bij welke gerechten, welke maat je kiest en drie andere mixen uit het assortiment.",
+    "punten": [
+      "Gebruik en gerechten van jullie productpagina",
+      "Drie maten met prijs",
+      "Drie andere kruidenmixen vanaf €1,49"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-04"
+}
