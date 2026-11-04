@@ -1,0 +1,50 @@
+{
+  "slug": "antskingdom-9jgeb",
+  "merk": "Ant's Kingdom",
+  "domein": "mierenboerderij.nl",
+  "lead_id": "2026-11-04-mierenboerderij.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B69F87",
+  "kop": "Een kolonie die belt en een startset uitgepakt, vijf keer mieren als huisdier.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "619:3",
+      "titel": "Je kolonie belt",
+      "waarom": "Een speels belscherm rond de Startset van €39,50, die volgens jullie site geschikt is voor alle soorten mieren."
+    },
+    {
+      "node": "619:15",
+      "titel": "Mieren zijn helden",
+      "waarom": "Jullie eigen missie als grote kop, met foto's van een kolonie in de letters en de startset eronder."
+    },
+    {
+      "node": "619:28",
+      "titel": "Twee manieren om te beginnen",
+      "waarom": "De Startset (€39,50) en de Acryl Startset (€64,50) naast elkaar, zodat wie zoekt op mieren als huisdier meteen kan kiezen."
+    },
+    {
+      "node": "619:47",
+      "titel": "Wat zit er in de set",
+      "waarom": "De vijf onderdelen uit jullie productbeschrijving op een rij, omdat kopers vooraf willen weten wat ze krijgen."
+    },
+    {
+      "node": "619:70",
+      "titel": "Drie vragen vooraf",
+      "waarom": "De vragen die een beginner heeft, beantwoord met wat jullie al bieden: een makkelijke start, alle mierensoorten en garantie op de koningin."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "620:2",
+    "onderwerp": "Welkom bij Mierenboerderij, zo begin je",
+    "kop": "Een nieuwsbrief die voelt als Ant's Kingdom.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de startset als opening, drie stappen om te beginnen en het team dat gratis advies geeft.",
+    "punten": [
+      "Zo begin je in drie stappen",
+      "Gratis advies, ook via WhatsApp",
+      "Levend-aankomstgarantie en 2 weken garantie op de koningin"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-04"
+}
