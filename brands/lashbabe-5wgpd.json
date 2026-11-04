@@ -1,0 +1,50 @@
+{
+  "slug": "lashbabe-5wgpd",
+  "merk": "LASHBABE",
+  "domein": "bylashbabe.com",
+  "lead_id": "2026-11-04-bylashbabe.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8C4A3C",
+  "kop": "De Aqua Lash Vitamins van LASHBABE, in vijf advertenties en een nieuwsbrief.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "633:3",
+      "titel": "Koop geen lijm meer",
+      "waarom": "De Aqua Starter Kit is pre-glued, HEMA-vrij en latexvrij en tot 4x te dragen; dat zijn drie redenen die je in één oogopslag ziet."
+    },
+    {
+      "node": "633:20",
+      "titel": "Tien dagen klaar",
+      "waarom": "Jullie noemen 10+ dagen per set en 80+ dagen per kit; een strip met dagen maakt die draagtijd meteen zichtbaar."
+    },
+    {
+      "node": "633:62",
+      "titel": "Gratis verzending vanaf €50",
+      "waarom": "Het aanbod uit jullie aankondigingsbalk (gratis verzending vanaf €50, 2 gratis mini-lashes vanaf €70) op jullie eigen close-up van stijl Medium."
+    },
+    {
+      "node": "633:73",
+      "titel": "Wie doet je wimpers?",
+      "waarom": "Op jullie verhaalpagina staan precies die vragen die klanten horen; dat werkt als advertentie omdat het herkenbaar is."
+    },
+    {
+      "node": "633:88",
+      "titel": "Salon of thuis",
+      "waarom": "De vergelijking met de salon staat al op jullie productpagina; als advertentie laat hij prijs, tijd en hergebruik naast elkaar zien."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "633:124",
+    "onderwerp": "Natural, Medium of Extra?",
+    "kop": "Een nieuwsbrief die voelt als LASHBABE.",
+    "tekst": "Een mail die helpt kiezen tussen de drie stijlen van de Aqua Lash Vitamins, met het verhaal van Cicely en wat er in de starter kit zit.",
+    "punten": [
+      "Natural en Medium naast elkaar op jullie eigen foto's",
+      "Wat er in de Aqua Starter Kit zit, met labels",
+      "Het verhaal achter LASHBABE in een paar zinnen"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-04"
+}
