@@ -1,0 +1,50 @@
+{
+  "slug": "moiizo-5pmey",
+  "merk": "MOIIZO",
+  "domein": "moiizo.com",
+  "lead_id": "2026-11-03-moiizo.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B8962E",
+  "kop": "Kaarsen in eigen keramiek, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "610:2",
+      "titel": "Drie geuren naast elkaar",
+      "waarom": "De N 2.0 bestaat in Zest of Delight, Woody blue en The next leaf, elk met drie eigen geurnoten; zo kiest iemand in één beeld zijn geur."
+    },
+    {
+      "node": "610:26",
+      "titel": "Zacht roze, veertig uur",
+      "waarom": "Jullie eigen foto met de hand bij de Zest of Delight N 1.0 laat de vorm zien, met de 40 uur brandtijd en de geurnoten erbij."
+    },
+    {
+      "node": "610:49",
+      "titel": "Een avond met The next leaf",
+      "waarom": "Met 20 uur brandtijd past de N 2.0 in een gewone avond; de routinekaart maakt dat moment concreet."
+    },
+    {
+      "node": "610:82",
+      "titel": "Welke maat?",
+      "waarom": "Mini, N 2.0 en N 2.2 verschillen in formaat, brandtijd en prijs; een maatgids zet die drie eerlijk naast elkaar."
+    },
+    {
+      "node": "610:114",
+      "titel": "De winterkaars",
+      "waarom": "Soul of the Season ruikt naar kaneel, vanille en citroen en past precies bij de donkere maanden en de feestdagen."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "611:2",
+    "onderwerp": "Licht dat ook overdag opvalt",
+    "kop": "Een nieuwsbrief die voelt als MOIIZO.",
+    "tekst": "Een merkverhaal met Pleun, Jos en Johannes, The next leaf N 2.0 uitgelicht met zijn kenmerken, en de drie maten voor lange herfstavonden.",
+    "punten": [
+      "Het verhaal achter MOIIZO",
+      "The next leaf N 2.0 met brandtijd, maat en prijs",
+      "Drie maten voor de herfst"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-04"
+}
