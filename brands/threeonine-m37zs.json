@@ -1,0 +1,50 @@
+{
+  "slug": "threeonine-m37zs",
+  "merk": "ThreeOnine",
+  "domein": "threeonine.nl",
+  "lead_id": "2026-11-04-threeonine.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C5AA56",
+  "kop": "Avenbre en Mystique, in vijf advertenties en een nieuwsbrief.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "615:3",
+      "titel": "Kies je geur niet online",
+      "waarom": "Een geur ruik je niet via een scherm, en de Discovery set van €17,50 met twee roomsprays en twee geursachets lost precies dat op."
+    },
+    {
+      "node": "615:19",
+      "titel": "Twee geuren naast elkaar",
+      "waarom": "Avenbre en Mystique naast elkaar met hun eigen geurnoten, zodat je in één blik ziet welke bij je past."
+    },
+    {
+      "node": "616:2",
+      "titel": "Ook onderweg",
+      "waarom": "De Mystique autoparfum van €24 met de losse navulling erbij laat zien dat je de geur ook in de auto hebt."
+    },
+    {
+      "node": "616:21",
+      "titel": "Een appje over geur",
+      "waarom": "Een herkenbaar gesprek over twijfelen tussen twee geuren, met de Discovery set als logisch antwoord."
+    },
+    {
+      "node": "616:36",
+      "titel": "Eén geur, drie plekken",
+      "waarom": "Geurstokjes, autoparfum en geursachet in één beeld laten zien hoeveel plekken één geur kan krijgen."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "617:2",
+    "onderwerp": "Avenbre of Mystique?",
+    "kop": "Een nieuwsbrief die voelt als ThreeOnine.",
+    "tekst": "Een mail die helpt kiezen: jullie eigen sfeerfoto als opening, het verhaal van Eveline, de twee geuren naast elkaar en de Discovery set als afsluiting.",
+    "punten": [
+      "Avenbre en Mystique vergeleken op geurnoten",
+      "Het verhaal achter de geuren in een paar zinnen",
+      "Discovery set van €17,50 als zachte eerste stap"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-04"
+}
