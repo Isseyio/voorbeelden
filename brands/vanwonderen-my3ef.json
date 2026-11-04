@@ -1,0 +1,50 @@
+{
+  "slug": "vanwonderen-my3ef",
+  "merk": "van Wonderen Stroopwafels",
+  "domein": "vanwonderen.co",
+  "lead_id": "2026-11-04-vanwonderen.co",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B8302A",
+  "kop": "Stroopwafels uit de Kalverstraat, klaar voor de feestdagen",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "644:3",
+      "titel": "Amsterdam mee naar huis",
+      "waarom": "Jullie kerstcadeaudozen staan al klaar op de site, en een duidelijke vanafprijs van €46,75 maakt een cadeau voor thuis makkelijk."
+    },
+    {
+      "node": "644:15",
+      "titel": "Welke kies je eerst?",
+      "waarom": "Met zeven toppings is kiezen de lol, dus deze advertentie laat mensen meteen een favoriet aanwijzen."
+    },
+    {
+      "node": "644:29",
+      "titel": "Sinds 1907",
+      "waarom": "Het verhaal van Kees van Wonderen, de boerderij in Bergen en de winkel in de Kalverstraat staat op jullie eigen History-pagina en geeft vertrouwen."
+    },
+    {
+      "node": "644:49",
+      "titel": "Met de hand belegd",
+      "waarom": "Jullie foto van de Original Topping Box met Fluffy Dream laat zien dat elke stroopwafel met de hand wordt belegd."
+    },
+    {
+      "node": "644:60",
+      "titel": "Vers naar je deur",
+      "waarom": "Vers, met de hand gemaakt en binnen 1 tot 4 werkdagen bezorgd: precies wat iemand wil weten voordat die online stroopwafels bestelt."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "647:2",
+    "onderwerp": "Your Christmas gifts, sorted",
+    "kop": "Een nieuwsbrief die voelt als van Wonderen.",
+    "tekst": "Een cadeaugids voor de feestdagen met jullie eigen foto's: van de toppingbox tot de grote kerstdoos, met het familieverhaal sinds 1907 erbij.",
+    "punten": [
+      "Het familieverhaal van Bergen tot de Kalverstraat",
+      "De Original Topping Box met vier kenmerken van de site",
+      "Drie cadeau-ideeën met echte prijzen"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-04"
+}
