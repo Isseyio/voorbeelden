@@ -1,0 +1,50 @@
+{
+  "slug": "yarinde-w9w3j",
+  "merk": "Yarinde",
+  "domein": "yarinde.nl",
+  "lead_id": "2026-11-05-yarinde.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#7A56F9",
+  "kop": "Borderpakketten per m², in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "680:3",
+      "titel": "Van lege grond tot border",
+      "waarom": "Twee eigen foto's van dezelfde tuin, op de plantdag en later, laten in één blik zien wat een borderpakket doet."
+    },
+    {
+      "node": "680:39",
+      "titel": "Wat zit er in 1 m²",
+      "waarom": "Een bon met de 8 planten van Borderpakket Michel en de prijs van €23,95 per m² maakt het aanbod concreet en makkelijk te vergelijken."
+    },
+    {
+      "node": "680:87",
+      "titel": "Het borderpakket",
+      "waarom": "Eén groot woord en jullie eigen zoekbalk zetten het kernproduct centraal, met drie thema's eronder."
+    },
+    {
+      "node": "681:2",
+      "titel": "Uw border door het jaar",
+      "waarom": "De bloei van juni tot oktober en het snoeien in maart en september laten zien dat er bij elk pakket uitleg en een snoeikalender hoort."
+    },
+    {
+      "node": "681:40",
+      "titel": "Uw nieuwe border belt",
+      "waarom": "Een speels inkomend gesprek sluit aan op 'Het najaar komt er aan' op de homepage en valt op tussen gewone tuinadvertenties."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "682:2",
+    "onderwerp": "Het najaar komt eraan: tijd voor een nieuwe border",
+    "kop": "Een nieuwsbrief die voelt als Yarinde.",
+    "tekst": "Een seizoensmail voor de nieuwsbrieflezers: het verhaal van Henk Jan en Jop, Borderpakket Michel met de vier planten uitgelicht, en de gratis beplantingsplan-tool als afsluiter.",
+    "punten": [
+      "Opgebouwd met jullie eigen tuinfoto's en de paarse huisstijl",
+      "Product met labels per plant, precies zoals op de productpagina",
+      "Afsluiting met de gratis beplantingsplan-tool"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
