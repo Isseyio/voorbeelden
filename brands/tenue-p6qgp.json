@@ -1,0 +1,50 @@
+{
+  "slug": "tenue-p6qgp",
+  "merk": "Tenue de Nîmes",
+  "domein": "tenuedenimes.com",
+  "lead_id": "2026-11-04-tenuedenimes.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B44D33",
+  "kop": "Het eigen label Tenue. in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "675:3",
+      "titel": "Gemaakt bij Verona",
+      "waarom": "De Noah Jeans Rockies met drie feiten van de productpagina: 14 oz denim, 100% biologisch katoen en jullie eigen jeansfabriek."
+    },
+    {
+      "node": "675:23",
+      "titel": "Eén jeans, twee manieren",
+      "waarom": "De Noah is unisex; dezelfde jeans op een vrouw en een man laat dat in één oogopslag zien."
+    },
+    {
+      "node": "675:40",
+      "titel": "Een week in Tenue.",
+      "waarom": "Zeven looks uit jullie eigen shoots laten zien dat het label een complete garderobe is, met één stuk uitgelicht."
+    },
+    {
+      "node": "676:2",
+      "titel": "Made to last",
+      "waarom": "De denimquote en de gedachte achter jullie winkel, koop minder en betaal iets meer voor kwaliteit, komen van jullie About-pagina."
+    },
+    {
+      "node": "676:12",
+      "titel": "Uit Portugal",
+      "waarom": "Vier stukken uit jullie jerseyfabriek in Portugal als rustig raster met prijzen, zoals jullie eigen packshots ze al laten zien."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "676:34",
+    "onderwerp": "Made to last: de Tenue. Noah Jeans",
+    "kop": "Een nieuwsbrief die voelt als Tenue de Nîmes.",
+    "tekst": "Een mail over één stuk uit het eigen label, met het verhaal van de winkel sinds 2008 en de drie winkels in Amsterdam.",
+    "punten": [
+      "Merkverhaal uit jullie About-pagina en collectietekst",
+      "Noah Jeans Rockies met vier kenmerken van de productpagina",
+      "Afsluiting met de drie winkels in Amsterdam"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
