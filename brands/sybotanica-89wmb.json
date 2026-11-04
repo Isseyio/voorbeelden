@@ -1,0 +1,50 @@
+{
+  "slug": "sybotanica-89wmb",
+  "merk": "Sybotanica",
+  "domein": "sybotanica.com",
+  "lead_id": "2026-11-04-sybotanica.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3E8E4E",
+  "kop": "Vijf manieren om te laten zien dat goede grond het verschil maakt.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "626:3",
+      "titel": "Grof genoeg om te ademen",
+      "waarom": "De grove structuur en de zes onderdelen van de Aroid Mix rond een hand vol echte grond, met de prijs van 5 liter."
+    },
+    {
+      "node": "626:26",
+      "titel": "Wat zit er in de mix",
+      "waarom": "De verhouding van kokoschips, perliet, wormenmest, schors en kokosvezel in delen, zoals op jullie productpagina staat."
+    },
+    {
+      "node": "626:59",
+      "titel": "Na het verpotten",
+      "waarom": "Een verzorgroutine met de watertip uit jullie FAQ en de ±180 dagen voeding, als schakelaars op een kaart."
+    },
+    {
+      "node": "626:83",
+      "titel": "Welke mix past bij jouw plant",
+      "waarom": "Vier van jullie mixen naast elkaar per plant, want met 15 mixen is kiezen de eerste vraag van een nieuwe klant."
+    },
+    {
+      "node": "626:106",
+      "titel": "Van stekjes naar 15 mixen",
+      "waarom": "Het begin met stekjes in 2020 en de 15 mixen van nu als handgeschreven notitie over jullie eigen foto."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "627:2",
+    "onderwerp": "Verpotten in vijf stappen",
+    "kop": "Een nieuwsbrief die voelt als Sybotanica.",
+    "tekst": "Een how-to mail: de vijf verpotstappen van jullie productpagina, wat er in de Aroid Mix zit en een doorstap naar de mix voor elke plant.",
+    "punten": [
+      "Vijf stappen uit jullie eigen uitleg",
+      "De Aroid Mix met vier onderdelen in beeld",
+      "Doorverwijzing naar 16 plantfamilies"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-04"
+}
