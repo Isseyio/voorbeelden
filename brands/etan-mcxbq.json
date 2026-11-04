@@ -1,0 +1,50 @@
+{
+  "slug": "etan-mcxbq",
+  "merk": "Etan Trampolines",
+  "domein": "etantrampolines.com",
+  "lead_id": "2026-11-04-etantrampolines.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#96C21F",
+  "kop": "Trampolines uit jullie eigen fabriek, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "671:3",
+      "titel": "Welke past in jouw tuin?",
+      "waarom": "Inground, flat of op poten is de eerste keuze die een koper maakt, en jullie keuzehulp beantwoordt precies die vraag."
+    },
+    {
+      "node": "671:28",
+      "titel": "Met de hand gemaakt",
+      "waarom": "Jullie eigen fabriek in Bosnië en Herzegovina met 60 mensen en Europese materialen is een concreet verhaal dat je in één beeld kunt laten zien."
+    },
+    {
+      "node": "672:2",
+      "titel": "Vanaf €799",
+      "waarom": "Een duidelijke prijs en de belofte dat je voor 13 uur besteld dezelfde dag verzonden krijgt, over jullie eigen foto van springende kinderen."
+    },
+    {
+      "node": "672:14",
+      "titel": "Grijs of groen",
+      "waarom": "De Premium Op Poten bestaat in twee kleuren; naast elkaar laten zien maakt de keuze makkelijk."
+    },
+    {
+      "node": "672:39",
+      "titel": "Zo zit hij in elkaar",
+      "waarom": "Het randkussen van 620 grams Duits PVC, de Permatron springmat en 15 jaar garantie op de veren laten zien wat je voor de prijs krijgt."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "673:2",
+    "onderwerp": "Kom proefspringen in Boxtel",
+    "kop": "Een nieuwsbrief die voelt als Etan Trampolines.",
+    "tekst": "Een mail die het verhaal van jullie eigen fabriek vertelt, één trampoline uitlicht en eindigt met de showroom in Boxtel.",
+    "punten": [
+      "Merkverhaal uit jullie over-ons-pagina: sinds 1988, eigen fabriek, alles in Europa",
+      "PremiumFlat Rond met vier kenmerken van de productpagina",
+      "Afsluiting met de showroom, montageservice en ingraafservice"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-04"
+}
