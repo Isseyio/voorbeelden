@@ -1,0 +1,50 @@
+{
+  "slug": "sjaalmetverhaal-47eb9",
+  "merk": "Sjaal met Verhaal",
+  "domein": "sjaalmetverhaal.nl",
+  "lead_id": "2026-11-01-sjaalmetverhaal.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#744F28",
+  "kop": "Vilten kersthangers uit Nepal, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "588:2",
+      "titel": "Elke hanger een verhaal",
+      "waarom": "De naam van het merk wordt de kop, met de pinguïn en de uil uit de Winter Wonderland collectie als beeld en handgemaakt in Nepal als onderregel."
+    },
+    {
+      "node": "589:2",
+      "titel": "Zo is hij gemaakt",
+      "waarom": "Vier close-ups van de Pinguïn op schaatsen laten het vilt, de sjaal en het borduurwerk zien, dingen die je op een kleine productfoto snel mist."
+    },
+    {
+      "node": "589:32",
+      "titel": "Winter Wonderland",
+      "waarom": "Eén groot woord en vier hangers uit dezelfde collectie, zodat je in één keer ziet dat ijsblauw, lichtgroen en wit bij elkaar horen."
+    },
+    {
+      "node": "589:59",
+      "titel": "Vanaf €6,95",
+      "waarom": "De laagste prijs uit de collectie bovenaan maakt duidelijk dat een hanger een klein cadeau is, met jullie eigen sfeerfoto eronder."
+    },
+    {
+      "node": "589:71",
+      "titel": "De kerstboom belt",
+      "waarom": "Een speelse belscherm-opzet waarin de IJsbeer met boek de beller is, opvallend tussen gewone kerstadvertenties."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "590:2",
+    "onderwerp": "Hangers met een eigen verhaal",
+    "kop": "Een nieuwsbrief die voelt als Sjaal met Verhaal.",
+    "tekst": "Een mail die de nieuwe Winter Wonderland collectie opent, daarna het verhaal van Inge en de vrouwen in Nepal vertelt en eindigt bij de krans voor de voordeur.",
+    "punten": [
+      "Het merkverhaal van de eigen site in een witte kaart",
+      "De Pinguïn op schaatsen met vier labels",
+      "Afsluiting met de Krans Mistletoe XL"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}
