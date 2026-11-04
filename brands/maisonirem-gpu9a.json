@@ -1,0 +1,50 @@
+{
+  "slug": "maisonirem-gpu9a",
+  "merk": "Maison Irem",
+  "domein": "maisonirem.com",
+  "lead_id": "2026-11-04-maisonirem.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A86B32",
+  "kop": "Kettingen om los te dragen of te stapelen.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "654:3",
+      "titel": "Nieuw: Moonwarm",
+      "waarom": "Een grote modelfoto met twee labels laat de Necklace Moonwarm van €300 van dichtbij zien, met een duidelijke NEW-badge."
+    },
+    {
+      "node": "654:20",
+      "titel": "Eén of allemaal",
+      "waarom": "Jullie eigen verhaal zegt dat de stukken los of allemaal tegelijk gedragen worden, dus drie modelfoto's laten precies dat zien."
+    },
+    {
+      "node": "654:37",
+      "titel": "Munten met een verhaal",
+      "waarom": "De munten komen volgens jullie about-pagina uit Irems Lycische roots, en dat verhaal maakt een hanger van €65 meer dan een sieraad."
+    },
+    {
+      "node": "654:47",
+      "titel": "15% bij inschrijven",
+      "waarom": "Jullie bieden al 15% korting voor nieuwsbriefinschrijvers, en een close-up met het logo maakt dat aanbod zichtbaar in de feed."
+    },
+    {
+      "node": "654:56",
+      "titel": "Cadeaus onder €100",
+      "waarom": "Met de bag charm van €30 tot armbanden en hangers van €90 heeft de collectie een duidelijke instap voor decembercadeaus."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "655:2",
+    "onderwerp": "Wear one, or stack them all",
+    "kop": "Een nieuwsbrief die voelt als Maison Irem.",
+    "tekst": "Een rustige mail met jullie modelfoto's, het verhaal van Irem sinds 2013 en één ketting in de hoofdrol.",
+    "punten": [
+      "Hero met de Necklace Baroque Novelle en een duidelijke knop",
+      "Necklace Cleo met vier korte labels",
+      "Afsluiting rond de Necklace Moonwarm, om te stapelen"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-04"
+}
