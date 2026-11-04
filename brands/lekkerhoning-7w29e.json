@@ -1,0 +1,50 @@
+{
+  "slug": "lekkerhoning-7w29e",
+  "merk": "Lekkerhoning.nl",
+  "domein": "lekkerhoning.nl",
+  "lead_id": "2026-11-04-lekkerhoning.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5A0000",
+  "kop": "Honing van imkers die jullie kennen, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "635:4",
+      "titel": "Geen anonieme fabriek",
+      "waarom": "Jullie zeggen zelf dat de honing niet uit een anonieme fabriek komt; die zin maakt het verschil met supermarkthoning direct duidelijk."
+    },
+    {
+      "node": "635:21",
+      "titel": "Van mild tot kruidig",
+      "waarom": "Met ruim 30 honingsoorten is kiezen lastig; een smaaklijn van acacia tot berghoning helpt een nieuwe klant op weg."
+    },
+    {
+      "node": "635:51",
+      "titel": "Van bloem tot pot",
+      "waarom": "Jullie eigen foto's van bloem, kast en raat laten zien waar de honing vandaan komt, iets wat een catalogusadvertentie niet vertelt."
+    },
+    {
+      "node": "635:74",
+      "titel": "Imker Deals",
+      "waarom": "De lopende actie tot 20% korting met een echte prijs (acacia 450 g €11,80 in plaats van €13,10) geeft een concrete reden om nu te bestellen."
+    },
+    {
+      "node": "635:86",
+      "titel": "Cadeau bij je bestelling",
+      "waarom": "De drempels die jullie al hebben (gratis bezorging vanaf €85, cadeau vanaf €100 en €200) passen goed bij de feestdagen en verhogen het orderbedrag."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "635:109",
+    "onderwerp": "Honing van imkers die we persoonlijk kennen",
+    "kop": "Een nieuwsbrief die voelt als Lekkerhoning.nl.",
+    "tekst": "Een merkverhaalmail over de imkers achter jullie honing, met de raathoning in de spotlight en het proefpakket als afsluiter.",
+    "punten": [
+      "Het verhaal van jullie imkers, met Kees erbij",
+      "Raathoning uitgelicht met smaak, herkomst en de twee maten",
+      "Het proefpakket van €19,50 als makkelijke eerste bestelling"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-04"
+}
