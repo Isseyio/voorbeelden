@@ -1,0 +1,50 @@
+{
+  "slug": "elinerosina-9k4ty",
+  "merk": "Eline Rosina",
+  "domein": "elinerosina.com",
+  "lead_id": "2026-11-02-elinerosina.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1A1A1A",
+  "kop": "Diamanten die lijken te zweven, vijf keer anders in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "579:3",
+      "titel": "Twee diamanten die zweven",
+      "waarom": "De kop vertelt in woorden en kleine foto's wat de Raya bijzonder maakt: twee druppeldiamanten die lijken te zweven."
+    },
+    {
+      "node": "579:21",
+      "titel": "Ear styling in één woord",
+      "waarom": "Eén groot woord en drie diamond piercings met prijs laten in een oogopslag zien dat je per piercing je eigen stack kiest."
+    },
+    {
+      "node": "579:44",
+      "titel": "Diamond Days, groot gebracht",
+      "waarom": "De actie van de site staat bovenaan in één getal, met jullie eigen modelfoto eronder."
+    },
+    {
+      "node": "579:53",
+      "titel": "Klein van maat, groot in detail",
+      "waarom": "Labels met lijntjes wijzen de diamanten, het gerecyclede goud en het nikkelvrije materiaal aan, allemaal uit de productpagina."
+    },
+    {
+      "node": "579:78",
+      "titel": "Je volgende piercing belt",
+      "waarom": "Een speels concept met een inkomende oproep, dat opvalt tussen gewone sieradenadvertenties."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "581:2",
+    "onderwerp": "Welkom bij Eline Rosina",
+    "kop": "Een nieuwsbrief die voelt als Eline Rosina.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, met jullie eigen foto's, het verhaal sinds 2015 en een duidelijke eerste stap naar de collectie.",
+    "punten": [
+      "Welkomstkaart met sfeerfoto",
+      "Drie redenen in iconen",
+      "Tweede kaart om je stack te beginnen"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-02"
+}
