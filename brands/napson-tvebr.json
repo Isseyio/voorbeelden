@@ -1,0 +1,50 @@
+{
+  "slug": "napson-tvebr",
+  "merk": "Napson",
+  "domein": "napson.nl",
+  "lead_id": "2026-11-04-napson.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4FA9D6",
+  "kop": "Het Nexum reiskussen, klaar voor de volgende reis.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "650:3",
+      "titel": "Blauw of beige",
+      "waarom": "Het Nexum reiskussen is er in twee kleuren voor dezelfde prijs, dus de keuze zelf wordt de vraag in de advertentie."
+    },
+    {
+      "node": "650:44",
+      "titel": "Koop dit niet",
+      "waarom": "Een omgekeerde kop valt op in de feed en de drie vinkjes laten meteen zien wat het kussen anders maakt: stoelriem, kinsluiting en reistas."
+    },
+    {
+      "node": "651:2",
+      "titel": "Jouw vlucht van morgen",
+      "waarom": "Een routinekaart laat in een paar seconden zien hoe je het kussen gebruikt, van instappen tot de landing."
+    },
+    {
+      "node": "651:43",
+      "titel": "Paklijst handbagage",
+      "waarom": "Een paklijst is herkenbaar voor iedereen die op reis gaat en laat zien dat de oordoppen en de waterdichte reistas er gewoon bij horen."
+    },
+    {
+      "node": "651:87",
+      "titel": "Past het?",
+      "waarom": "De maten van jullie eigen productfoto's (10 cm, 25 cm, 23 cm, stoel tot 42 cm) nemen twijfel weg voordat iemand op de productpagina komt."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "652:2",
+    "onderwerp": "Slaap alsof je thuis bent, waar je ook bent",
+    "kop": "Een nieuwsbrief die voelt als Napson.",
+    "tekst": "Een mail rond het Nexum reiskussen, met jullie eigen verhaal over reizen en comfort en de onderdelen van het kussen uitgelicht.",
+    "punten": [
+      "Opent met jullie eigen zin: slaap alsof je thuis bent",
+      "De vier onderdelen van het kussen met labels",
+      "Afsluiting met de reistas, 30 nachten proefslapen en morgen in huis"
+    ]
+  },
+  "ai_sfeer": true,
+  "gemaakt": "2026-11-04"
+}
