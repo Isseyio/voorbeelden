@@ -1,0 +1,50 @@
+{
+  "slug": "cofire-x3zuy",
+  "merk": "Co-Fire",
+  "domein": "co-fire.eu",
+  "lead_id": "2026-11-04-co-fire.eu",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C35127",
+  "kop": "Koken op vuur, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "667:3",
+      "titel": "Dit is geen barbecue",
+      "waarom": "Op één GrillRing kun je bakken, grillen en wokken, en het cortenstaal mag het hele jaar buiten blijven staan. Dat staat hier voorop."
+    },
+    {
+      "node": "667:24",
+      "titel": "Gemaakt van cortenstaal",
+      "waarom": "Een set vanaf €1.085 vraagt om uitleg, dus deze advertentie laat zien waar hij van gemaakt is: een grillring van 10 mm, een vuurschaal van 3 mm en de Cube PRO sokkel."
+    },
+    {
+      "node": "667:47",
+      "titel": "Drie manieren om te koken",
+      "waarom": "Met het grillopzetstuk en het wokopzetstuk op de ring doe je met één set meer dan grillen, en daarna is het gewoon een vuurschaal."
+    },
+    {
+      "node": "667:70",
+      "titel": "Welke maat past?",
+      "waarom": "Jullie sets lopen van 60 tot 120 cm, en deze advertentie helpt kiezen met drie maten en hun vanafprijs."
+    },
+    {
+      "node": "667:91",
+      "titel": "11.475 klanten",
+      "waarom": "Een echte review van jullie homepage en de 11.475 klanten van de productpagina geven vertrouwen bij een aankoop van meer dan duizend euro."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "668:2",
+    "onderwerp": "Koken op vuur, het hele jaar door",
+    "kop": "Een nieuwsbrief die voelt als Co-Fire.",
+    "tekst": "Een nieuwsbrief over buiten koken in de winter, met jullie merkverhaal en de GrillRing-Set PRO CUBE Ø 80 uitgelegd in vier labels.",
+    "punten": [
+      "Opent met een vuurschaal die het hele jaar buiten kan staan",
+      "De PRO CUBE Ø 80 met vier labels en de prijs",
+      "Sluit af met bakken, grillen en wokken op één ring"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-04"
+}
