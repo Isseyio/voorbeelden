@@ -1,0 +1,50 @@
+{
+  "slug": "myitalianbracelet-dzwsc",
+  "merk": "MyItalianBracelet",
+  "domein": "myitalianbracelet.com",
+  "lead_id": "2026-11-04-myitalianbracelet.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#382821",
+  "kop": "Armbanden die een verhaal vertellen, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "637:4",
+      "titel": "Bouw je eigen armband",
+      "waarom": "Laat in één beeld zien hoe het werkt: een starter bracelet van €16,99 plus charms vanaf €3,59, precies wat jullie 'Designed by you' belooft."
+    },
+    {
+      "node": "637:30",
+      "titel": "Het begon met een jubileum",
+      "waarom": "Het verhaal van Anna en Max staat op jullie eigen about-pagina en maakt van een sieraad een persoonlijk cadeau."
+    },
+    {
+      "node": "637:39",
+      "titel": "De November Drop",
+      "waarom": "De nieuwe charms van november met de 10% korting die nu op de site staat, met echte prijzen per charm."
+    },
+    {
+      "node": "637:71",
+      "titel": "Gedragen door de community",
+      "waarom": "Jullie eigen klantfoto's en de 4,6 op Trustpilot laten zien dat 10.000+ mensen hun armband al dragen."
+    },
+    {
+      "node": "637:90",
+      "titel": "Klaar om te geven",
+      "waarom": "Her Perfect Set (armband, 18 charms, tool en zakje voor €68 in plaats van €80) past bij het cadeauseizoen dat eraan komt."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "637:112",
+    "onderwerp": "Every charm tells a story",
+    "kop": "Een nieuwsbrief die voelt als MyItalianBracelet.",
+    "tekst": "Een bouwgids-mail in jullie eigen Engelse toon: het verhaal van Anna en Max, de gouden starter bracelet uitgelicht en de stappen om je armband te maken.",
+    "punten": [
+      "Het jubileumverhaal van Anna en Max als opening",
+      "De Gold starter bracelet met materiaal, maat en prijs",
+      "Hoe je je armband maakt, in drie stappen"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-04"
+}
