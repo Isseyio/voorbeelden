@@ -1,0 +1,50 @@
+{
+  "slug": "heybclub-pqy7d",
+  "merk": "HEYB CLUB",
+  "domein": "heybclub.com",
+  "lead_id": "2026-11-04-heybclub.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1A1A1A",
+  "kop": "FW26 van HEYB CLUB, in vijf advertenties en een nieuwsbrief.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "630:3",
+      "titel": "Begint casual, eindigt laat",
+      "waarom": "Jullie omschrijven FW26 als een collectie voor dagen die casual beginnen en laat eindigen; de Fallon Jogger en de Cobra Trousers laten dat naast elkaar zien."
+    },
+    {
+      "node": "630:19",
+      "titel": "Soft fluffy details",
+      "waarom": "De Tara Jacket uit jullie eigen campagnefoto, met de fluffy details en de beperkte oplage die jullie zelf noemen."
+    },
+    {
+      "node": "630:39",
+      "titel": "HEYB CLUB als magazine",
+      "waarom": "De FW26-campagne in een retro bioscoop en het Plasma Hotel is een verhaal dat past op een cover, met de Fabiene Blazer erop."
+    },
+    {
+      "node": "630:58",
+      "titel": "Eén set, twee stuks",
+      "waarom": "De Flo Blazer en Flo Shorts zijn samen een co-ord van €209,90, en daarmee kom je boven jullie grens voor gratis verzending van €120."
+    },
+    {
+      "node": "630:76",
+      "titel": "Zes tot acht maanden",
+      "waarom": "Jullie vertellen dat een collectie van ontwerp tot productie zes tot acht maanden kost en in beperkte aantallen verschijnt; dat maakt de prijs begrijpelijk."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "630:97",
+    "onderwerp": "FW26 is here. Time to shine.",
+    "kop": "Een nieuwsbrief die voelt als HEYB CLUB.",
+    "tekst": "Een mail voor de lancering van FW26: de campagnefoto bovenaan, het verhaal achter de shoot en vier nieuwe stukken om direct te shoppen.",
+    "punten": [
+      "Het verhaal van de shoot in het Plasma Hotel",
+      "Vier FW26-stukken met prijs en knop",
+      "Afsluiting die uitnodigt om lid te blijven van de HEYB CLUB"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-04"
+}
