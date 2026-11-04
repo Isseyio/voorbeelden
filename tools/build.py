@@ -183,8 +183,7 @@ def build(slug: str):
 <meta property="og:image:height" content="630">
 <meta property="og:url" content="{BASE_URL}/{slug}/">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="theme-color" content="#F5F5F7" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#F5F5F7">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400..700&display=swap" rel="stylesheet">
