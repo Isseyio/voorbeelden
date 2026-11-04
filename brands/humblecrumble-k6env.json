@@ -1,0 +1,50 @@
+{
+  "slug": "humblecrumble-k6env",
+  "merk": "Humble & Crumble",
+  "domein": "humbleandcrumble.com",
+  "lead_id": "2026-11-04-humbleandcrumble.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#F69489",
+  "kop": "Vers gebakken cookies, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "659:3",
+      "titel": "Wat zit erin",
+      "waarom": "De Lotus Speculoos Crush laat in één beeld zien wat erin zit: speculoosvulling, een Lotus koekje en witte chocolade, zoals in jullie productomschrijving."
+    },
+    {
+      "node": "659:21",
+      "titel": "Past door de brievenbus",
+      "waarom": "Het doosje met twee snaps past door de brievenbus, dus het werkt als cadeau voor december zonder dat de ontvanger thuis hoeft te zijn."
+    },
+    {
+      "node": "659:32",
+      "titel": "Jullie eigen reviews",
+      "waarom": "Vier reviews van jullie homepage rond de Not so slim shady, want woorden van klanten zeggen meer dan een eigen claim."
+    },
+    {
+      "node": "659:50",
+      "titel": "Pas gebakken",
+      "waarom": "Jullie bakken pas als iemand besteld heeft, en vier stappen laten zien waarom de cookies vers aankomen en twee weken goed blijven."
+    },
+    {
+      "node": "659:73",
+      "titel": "Cookie dough belt",
+      "waarom": "Een speelse inkomende oproep voor de cookie dough pistache van €7,95, zodat ook de cookie dough aandacht krijgt naast de cookies."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "662:2",
+    "onderwerp": "Pas gebakken, als jij bestelt",
+    "kop": "Een nieuwsbrief die voelt als Humble & Crumble.",
+    "tekst": "Een nieuwsbrief met jullie verhaal sinds 2018, de Brievenbus Snaps uitgelegd in vier labels en een uitnodiging om mee te stemmen op de nieuwe specials.",
+    "punten": [
+      "Opent met jullie belofte: pas bakken als er besteld is",
+      "Brievenbus Snaps uitgelegd in vier labels",
+      "Sluit af met meestemmen op de weekspecials"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-04"
+}
