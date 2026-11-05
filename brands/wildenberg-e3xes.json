@@ -1,0 +1,50 @@
+{
+  "slug": "wildenberg-e3xes",
+  "merk": "Wildenberg Wear",
+  "domein": "wildenbergwear.nl",
+  "lead_id": "2026-11-04-wildenbergwear.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#DCC297",
+  "kop": "Herenarmbanden uit Amsterdam, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "805:3",
+      "titel": "Drie stenen, één Noort",
+      "waarom": "Laat de Noort in Bronzite, Tijgeroog Agaat en Larvikiet naast elkaar zien, zodat de keuze voor een steen makkelijk wordt."
+    },
+    {
+      "node": "805:26",
+      "titel": "Mix & Match",
+      "waarom": "Jullie eigen polsfoto met de Caesar Amsterdam en een Noort, gekoppeld aan de 15% korting op de tweede armband."
+    },
+    {
+      "node": "805:44",
+      "titel": "Van de ontwerper",
+      "waarom": "Wesleys eigen verhaal over zijn smalle polsen legt uit waarom jullie armbanden in zeven maten bestaan."
+    },
+    {
+      "node": "805:55",
+      "titel": "Welke maat past jou?",
+      "waarom": "Neemt de grootste twijfel bij online armbanden kopen weg, met jullie maattabel van XS tot XL en de maatgarantie."
+    },
+    {
+      "node": "805:161",
+      "titel": "Geïnspireerd door helden",
+      "waarom": "Elke armband draagt de naam van iemand die zijn eigen weg koos; dat verhaal van jullie site maakt de collecties herkenbaar."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "806:2",
+    "onderwerp": "Gemaakt voor impact",
+    "kop": "Een nieuwsbrief die voelt als Wildenberg Wear.",
+    "tekst": "Een collectiemail met het verhaal achter het merk, de Caesar Amsterdam met zijn details, vier collecties om te ontdekken en jullie maatgarantie.",
+    "punten": [
+      "Merkverhaal van Den Bosch naar Amsterdam",
+      "De Caesar Amsterdam met labels voor touw, kruizen, sluiting en dikte",
+      "Vier collecties met prijs en een afsluiting over de maatgarantie"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
