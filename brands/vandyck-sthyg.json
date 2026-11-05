@@ -1,0 +1,50 @@
+{
+  "slug": "vandyck-sthyg",
+  "merk": "Vandyck",
+  "domein": "vandyckshop.nl",
+  "lead_id": "2026-11-05-vandyckshop.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2E3A52",
+  "kop": "Beddengoed en handdoeken van Vandyck, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "750:2",
+      "titel": "Kijk eens van dichtbij",
+      "waarom": "Het sierband en de butterfly stitch van Purity Linora zie je pas van dichtbij; callouts maken dat detail in één beeld duidelijk, met de prijs vanaf €99,95."
+    },
+    {
+      "node": "750:26",
+      "titel": "Gewassen katoen",
+      "waarom": "Washed Cotton in faded denim met drie dingen uit jullie eigen productpagina: 100% katoen, ademend en dubbel gestikt."
+    },
+    {
+      "node": "750:47",
+      "titel": "Sinds 1923",
+      "waarom": "Een magazinecover rond jullie verhaal: het pakhuis in Hilversum, veertig landen en het Predicaat Hofleverancier geven vertrouwen bij beddengoed van deze prijsklasse."
+    },
+    {
+      "node": "750:160",
+      "titel": "Dertien kleuren",
+      "waarom": "Prestige Lines is er in dertien kleuren; een kleurenkaart nodigt uit om te kiezen in plaats van alleen te kijken."
+    },
+    {
+      "node": "750:211",
+      "titel": "Niet storen",
+      "waarom": "Een knipoog naar het hotelgevoel dat jullie zelf noemen, met de belofte dat je op werkdagen vóór 16:00 besteld binnen 24 uur in huis hebt."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "750:227",
+    "onderwerp": "Welkom bij Vandyck",
+    "kop": "Een nieuwsbrief die voelt als Vandyck.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: het verhaal sinds 1923, Purity Alura met wat er precies in zit, en een uitnodiging voor de Experience Stores.",
+    "punten": [
+      "Het merkverhaal van Hilversum tot Amersfoort",
+      "Purity Alura met vier echte productdetails",
+      "Afsluiting met de Experience Stores en dealers"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
