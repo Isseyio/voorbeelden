@@ -1,0 +1,50 @@
+{
+  "slug": "feelou-h49nj",
+  "merk": "Feelou",
+  "domein": "feelou.co",
+  "lead_id": "2026-11-04-feelou.co",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#EE6B5E",
+  "kop": "Eén bh die meegroeit, in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "976:4",
+      "titel": "Eén bh, elke verandering",
+      "waarom": "Jullie eigen zin 'Eén bh. Voor elke verandering.' als grote kop, met foto's tussen de woorden en de belofte dat hij 10 cm en 2 tot 3 cupmaten meegroeit."
+    },
+    {
+      "node": "976:16",
+      "titel": "Groeit met je mee",
+      "waarom": "Handen bij de gepatenteerde sluiting laten in één beeld zien hoe de bh meegroeit, met de kenmerken van jullie productpagina."
+    },
+    {
+      "node": "976:35",
+      "titel": "4,8 uit 350+ reviews",
+      "waarom": "Echte scores en de review van Daniëlle van jullie site, op een buitenfoto waarin de bh gewoon gedragen wordt."
+    },
+    {
+      "node": "976:67",
+      "titel": "Een stapel of één bh",
+      "waarom": "Zet de stapel bh's waar Anne en Noor mee begonnen naast één bh die meegroeit, zonder beugels en ook om te voeden."
+    },
+    {
+      "node": "976:88",
+      "titel": "Welke past bij jou?",
+      "waarom": "Helpt kiezen tussen Regular (A tot D) en Big Cup (E tot G) met jullie eigen regel 'kies je maat van vóór je zwangerschap'."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "976:112",
+    "onderwerp": "Welkom bij Feelou",
+    "kop": "Een nieuwsbrief die voelt als Feelou.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: jullie verhaal van de keukentafel, hoe de bh werkt en Regular naast Big Cup.",
+    "punten": [
+      "Het verhaal van Anne en Noor uit Rotterdam",
+      "De bh Regular met vier kenmerken uitgelegd",
+      "Regular en Big Cup naast elkaar, plus Bundel & bespaar"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
