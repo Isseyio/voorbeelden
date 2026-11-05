@@ -1,0 +1,50 @@
+{
+  "slug": "rainkiss-ks4am",
+  "merk": "RAINKISS",
+  "domein": "rainkiss.com",
+  "lead_id": "2026-11-05-rainkiss.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#D9E26A",
+  "kop": "Regenkleding uit Amsterdam, in vijf advertenties en een nieuwsbrief.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "848:385",
+      "titel": "Tweede artikel 20% korting",
+      "waarom": "De actie uit jullie aankondigingsbalk staat bovenaan, met jullie eigen modelfoto en een groot logo eronder."
+    },
+    {
+      "node": "848:397",
+      "titel": "Eén woord: poncho",
+      "waarom": "Drie prints naast elkaar met de prijs, en de maat die iedereen wil weten: één maat voor 150 tot 193 cm."
+    },
+    {
+      "node": "848:417",
+      "titel": "Regen verwacht",
+      "waarom": "Een weer-app als haakje, met de Flora die 350 gram weegt en in zijn eigen voorzak van 32 x 30 cm vouwt."
+    },
+    {
+      "node": "849:4",
+      "titel": "Wegwerp of RAINKISS",
+      "waarom": "Jullie eigen verhaal als vergelijking: gerecycled polyester, 7000 mm waterdicht en PFAS-vrij tegenover een wegwerpponcho."
+    },
+    {
+      "node": "849:31",
+      "titel": "Alles voor een natte dag",
+      "waarom": "Poncho, sling bag, hondenponcho en anorak in één raster, zodat je laat zien dat er meer is dan alleen poncho's."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "849:53",
+    "onderwerp": "Regen in Amsterdam? Daar zijn we voor gemaakt.",
+    "kop": "Een nieuwsbrief die voelt als RAINKISS.",
+    "tekst": "Een collectiemail die begint bij jullie verhaal uit Amsterdam, daarna de Flora uitlegt en eindigt met meer producten voor een natte dag.",
+    "punten": [
+      "Merkverhaal uit jullie eigen over-ons-pagina",
+      "De Flora met vier kenmerken van de productpagina",
+      "Een korte productlijst met poncho, tas en hondenponcho"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
