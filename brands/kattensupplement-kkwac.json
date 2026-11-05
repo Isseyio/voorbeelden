@@ -1,0 +1,50 @@
+{
+  "slug": "kattensupplement-kkwac",
+  "merk": "Kattensupplement",
+  "domein": "kattensupplement.nl",
+  "lead_id": "2026-11-05-kattensupplement.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#F58633",
+  "kop": "Van 5.465 reviews tot een herbestelmail",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "948:3",
+      "titel": "Wat baasjes zeggen",
+      "waarom": "Echte reviews van Willeke en Shirley en de 5.465 reviews op de productpagina laten zien dat andere baasjes jullie al vertrouwen."
+    },
+    {
+      "node": "948:33",
+      "titel": "Eén chew per dag",
+      "waarom": "Een routinekaart met jullie eigen dosering laat zien hoe makkelijk ContrAllergy in het dagritme van een kat past."
+    },
+    {
+      "node": "948:61",
+      "titel": "Koop deze chews niet",
+      "waarom": "Een omgekeerde kop valt op in de feed en eindigt bij wat Feline Glow belooft: huid en vacht."
+    },
+    {
+      "node": "949:2",
+      "titel": "Een herkenbaar gesprek",
+      "waarom": "Stress na een verhuizing kennen veel baasjes; zo komt Calming Complex ter sprake zonder dat er korting nodig is."
+    },
+    {
+      "node": "949:28",
+      "titel": "Kies jouw resultaat",
+      "waarom": "Jullie homepage laat al kiezen per resultaat; zes tegels met de echte zakjes maken dat in één beeld duidelijk."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "949:53",
+    "onderwerp": "Bijna door je zakje heen?",
+    "kop": "Een nieuwsbrief die voelt als Kattensupplement.",
+    "tekst": "Een herbestelmail voor baasjes van wie het zakje bijna op is, met jullie eigen dosering, het verhaal van Dr. Kay en Triple A, en de bundel van drie zakjes.",
+    "punten": [
+      "Een zakje van 30 chews, uitgelegd met jullie dosering per gewicht",
+      "Het merkverhaal uit jullie over-ons-pagina",
+      "De bundel van drie zakjes als logische volgende stap"
+    ]
+  },
+  "ai_sfeer": true,
+  "gemaakt": "2026-11-05"
+}
