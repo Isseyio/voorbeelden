@@ -1,0 +1,50 @@
+{
+  "slug": "cottona-3trew",
+  "merk": "Cottona",
+  "domein": "cottona.com",
+  "lead_id": "2026-11-04-cottona.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#332D21",
+  "kop": "Tafellinnen op maat in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "913:3",
+      "titel": "Koop geen tafelkleed dat bijna past",
+      "waarom": "Jullie maken elk tafelkleed op maat, ook rond en ovaal; een omgekeerde kop maakt van dat maatwerk meteen de reden om te kijken."
+    },
+    {
+      "node": "913:151",
+      "titel": "Eén stof, vier stukken",
+      "waarom": "De Schotse Ruit Tartan bestaat als tafelkleed, tafelloper, servet en stofstaaltje van € 1,95; zo zie je in één beeld wat bij elkaar past."
+    },
+    {
+      "node": "913:301",
+      "titel": "Kan het ook ovaal?",
+      "waarom": "Een korte chat beantwoordt de twee vragen die mensen voor kerst hebben: past het op mijn tafel en is het op tijd, met jullie eigen antwoord van 2 werkdagen."
+    },
+    {
+      "node": "913:451",
+      "titel": "Een cadeau voor aan tafel",
+      "waarom": "De kerstcadeaupakketten voor twee en vier personen kosten € 79,95 en € 149,95; naast elkaar en met de geschenkdoos erbij is kiezen makkelijk."
+    },
+    {
+      "node": "913:596",
+      "titel": "Van weverij tot jouw tafel",
+      "waarom": "Europese weverijen, jullie eigen atelier in Nederland en verzending binnen twee dagen vertellen samen waarom Cottona anders is dan een kant-en-klaar kleed."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "914:2",
+    "onderwerp": "Welkom aan tafel",
+    "kop": "Een nieuwsbrief die voelt als Cottona.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: het verhaal sinds 2009, het tartan tafelkleed met wat maatwerk inhoudt, en de kerstbrochure als volgende stap.",
+    "punten": [
+      "Jullie eigen verhaal van Marc Beumers en Mieke Bos",
+      "Het tafelkleed met vier labels over maat, zoom en atelier",
+      "De kerstbrochure als afsluiting, met jullie eigen sfeerfoto"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
