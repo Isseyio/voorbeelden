@@ -1,0 +1,50 @@
+{
+  "slug": "culistack-abypc",
+  "merk": "CuliStack",
+  "domein": "culistack.com",
+  "lead_id": "2026-11-04-culistack.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Vijf advertenties voor een pannenset die in één lade past.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "886:3",
+      "titel": "Eén lade, alle pannen",
+      "waarom": "Jullie eigen voor-en-nafoto van de pannenlade laat in één blik zien wat 75% minder ruimte betekent."
+    },
+    {
+      "node": "886:16",
+      "titel": "Je pannenlade belt",
+      "waarom": "Een speels oproepscherm met de Pro Pannenset in het midden, zodat de advertentie opvalt tussen gewone productposts."
+    },
+    {
+      "node": "886:35",
+      "titel": "75% minder ruimte",
+      "waarom": "Het getal dat jullie zelf op de homepage gebruiken staat groot bovenaan, met de Essential set en losse pannen eronder."
+    },
+    {
+      "node": "886:50",
+      "titel": "Alles wat erin zit",
+      "waarom": "Een kassabon met de inhoud van de Pro Pannenset en de prijs van €269,95 tegenover de normale €412 maakt de waarde concreet."
+    },
+    {
+      "node": "886:117",
+      "titel": "Van een zolderkamer",
+      "waarom": "Olliver en Steven vertellen zelf hoe ze in 2021 begonnen en 100.000 sets verkochten, wat vertrouwen geeft aan nieuwe kopers."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "886:283",
+    "onderwerp": "Van een zolderkamer naar 100.000 keukens",
+    "kop": "Een nieuwsbrief die voelt als CuliStack.",
+    "tekst": "Een merkverhaalmail met jullie eigen ladefoto, het verhaal van Olliver en Steven en de Pro Pannenset uitgelicht met labels.",
+    "punten": [
+      "Merkverhaal met de iF Design Award 2026",
+      "Pro Pannenset met vier duidelijke labels",
+      "Van kookplaat tot oven als afsluiting"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
