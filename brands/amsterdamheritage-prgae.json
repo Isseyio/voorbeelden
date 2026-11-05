@@ -1,0 +1,50 @@
+{
+  "slug": "amsterdamheritage-prgae",
+  "merk": "Amsterdam Heritage",
+  "domein": "amsterdamheritage.eu",
+  "lead_id": "2026-11-05-amsterdamheritage.eu",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#094B7C",
+  "kop": "Riemen en tassen van Italiaans leer, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "769:4",
+      "titel": "Wat zit er in de Elle",
+      "waarom": "De Elle is handgemaakt in Nederland, op bestelling, met een nikkelvrije gesp uit Italië; vier rondjes maken die feiten in één beeld duidelijk."
+    },
+    {
+      "node": "769:32",
+      "titel": "Een echte klantreview",
+      "waarom": "Met 2.200+ geverifieerde reviews en een 4,9 hebben jullie sterk bewijs; één echte review van Caitlin O. laat zien hoe een riem opvalt."
+    },
+    {
+      "node": "769:46",
+      "titel": "Gemaakt op bestelling",
+      "waarom": "Veel stukken worden pas gemaakt na de bestelling en binnen 3 à 4 weken verzonden; drie stappen maken die wachttijd een reden om te kopen."
+    },
+    {
+      "node": "769:69",
+      "titel": "Inkomend gesprek: Marion",
+      "waarom": "Een speels belscherm met de Marion van cow hair (€185) valt op in de feed en laat het product groot zien."
+    },
+    {
+      "node": "769:82",
+      "titel": "Leer voor elke dag",
+      "waarom": "Jullie eigen herfstkop 'Your everyday leather' als typografische advertentie, met de Andela in vier kleuren."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "770:2",
+    "onderwerp": "Jouw leer voor elke dag, in herfststijlen",
+    "kop": "Een nieuwsbrief die voelt als Amsterdam Heritage.",
+    "tekst": "Een herfstmail met het verhaal van Frido van Mossel, vier nieuwe stukken met prijs, de Mitzi van dichtbij en een echte klantreview als afsluiting.",
+    "punten": [
+      "Merkverhaal uit jullie eigen about-pagina",
+      "Vier producten met prijs en knop",
+      "Afsluiting met een echte review"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
