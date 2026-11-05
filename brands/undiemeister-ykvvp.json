@@ -1,0 +1,50 @@
+{
+  "slug": "undiemeister-ykvvp",
+  "merk": "Undiemeister",
+  "domein": "undiemeister.com",
+  "lead_id": "2026-11-04-undiemeister.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#EA5444",
+  "kop": "Mellowood, multipacks en Black Friday in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "894:4",
+      "titel": "Eén woord: zacht",
+      "waarom": "Jullie belofte dat Mellowood 2 tot 3x langer meegaat staat als zoekvraag naast drie echte 9-packs, zodat stof en assortiment in één beeld zitten."
+    },
+    {
+      "node": "894:5",
+      "titel": "De staffel als bon",
+      "waarom": "Jullie eigen staffel van 24,99 naar 17,49 per stuk laat in één oogopslag zien wat de 9-pack per stuk scheelt."
+    },
+    {
+      "node": "894:6",
+      "titel": "Mellowood van dichtbij",
+      "waarom": "De macrofoto van jullie tailleband met de samenstelling en certificaten maakt een stofverhaal concreet in plaats van abstract."
+    },
+    {
+      "node": "894:7",
+      "titel": "Black Friday belt",
+      "waarom": "Een inkomende oproep valt op in de feed en brengt jullie echte actie, tot 50% korting op geselecteerde artikelen, op een speelse manier."
+    },
+    {
+      "node": "894:8",
+      "titel": "Waar het begon",
+      "waarom": "Jullie eigen ontstaansverhaal uit 2011 en de cijfers van de over-onspagina geven vertrouwen aan wie het merk nog niet kent."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "894:9",
+    "onderwerp": "Black Friday: tot 50% korting",
+    "kop": "Een nieuwsbrief die voelt als Undiemeister.",
+    "tekst": "Een Black Friday-mail met jullie echte actie, het verhaal achter Mellowood, de Kleurrijke Boxershorts uitgelicht en de longsleeves als afsluiter.",
+    "punten": [
+      "Opent met de actie en jullie eigen foto",
+      "Bestseller met de vier belangrijkste kenmerken",
+      "Drie redenen om nu te bestellen: multipacks, garantie en snelle verzending"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
