@@ -1,0 +1,50 @@
+{
+  "slug": "goldengrip-j2jjb",
+  "merk": "Golden Grip",
+  "domein": "goldengrip.com",
+  "lead_id": "2026-11-04-goldengrip.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C2A061",
+  "kop": "Van garage naar sterkere handen",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "901:6",
+      "titel": "Bespaar €30",
+      "waarom": "De Brachio Blaster staat nu op €129,97 in plaats van €159,97; een echte prijs bovenaan en jullie eigen actiefoto maken de advertentie direct duidelijk."
+    },
+    {
+      "node": "901:16",
+      "titel": "Zes weken",
+      "waarom": "Jullie hebben een 6-weken programma voor grotere, sterkere onderarmen; een weekstrip maakt dat doel concreet."
+    },
+    {
+      "node": "901:43",
+      "titel": "Begonnen in een garage",
+      "waarom": "Het verhaal van Job en Thijs, de garage en meer dan 30.000 geholpen atleten staat op jullie eigen About-pagina en werkt goed als vertrouwensadvertentie."
+    },
+    {
+      "node": "901:59",
+      "titel": "1529 reviews",
+      "waarom": "Met 1529 geverifieerde reviews op de site kunnen echte klantquotes het werk doen."
+    },
+    {
+      "node": "901:96",
+      "titel": "Je eigen grip-hoek",
+      "waarom": "Vier grotere stukken met echte prijzen laten zien wat je thuis kunt opbouwen, met gratis verzending boven €150."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "901:128",
+    "onderwerp": "Je gratis gids met 7 onderarmtips",
+    "kop": "Een nieuwsbrief die voelt als Golden Grip.",
+    "tekst": "Een welkomstmail rond jullie gratis gids: het verhaal van de garage, één product uitgelicht en het 6-weken programma als volgende stap.",
+    "punten": [
+      "Welkomstmail rond de gratis gids met 7 onderarmtips",
+      "Hammer Curl / Tricep Bar met vier labels",
+      "Afsluiting met het 6-weken programma"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
