@@ -1,0 +1,50 @@
+{
+  "slug": "noppies-ywqta",
+  "merk": "Noppies",
+  "domein": "noppies.com",
+  "lead_id": "2026-11-05-noppies.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#AB8C52",
+  "kop": "Vijf advertenties voor Noppies, van vluchtkoffer tot thermolegging.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "744:3",
+      "titel": "Monrovia in detail",
+      "waarom": "Het boxpak heeft details die op een gewone productfoto wegvallen: het klavertje vier, de binnenbeenknoopjes en biologisch katoen met GOTS-keurmerk."
+    },
+    {
+      "node": "744:35",
+      "titel": "Eén jurk, twee kleuren",
+      "waarom": "Amelie bestaat in Infinity en Fig; naast elkaar zie je in één oogopslag welke kleur bij je past."
+    },
+    {
+      "node": "744:57",
+      "titel": "De vluchtkoffer",
+      "waarom": "Aanstaande ouders zoeken een lijstje voor de eerste dagen; deze advertentie zet vier newbornitems met prijs op een rij."
+    },
+    {
+      "node": "744:92",
+      "titel": "Drie vragen over Oslo",
+      "waarom": "De antwoorden komen uit jullie eigen productpagina en nemen twijfel weg vóór de klik: warmte, de herstelperiode en meerdere zwangerschappen."
+    },
+    {
+      "node": "744:110",
+      "titel": "Koude voetjes belt",
+      "waarom": "Een speels format dat opvalt in de feed en de sokken van €12,95 laat zien als klein, makkelijk eerste product."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "744:220",
+    "onderwerp": "Welkom bij Noppies, 10% op je eerste bestelling",
+    "kop": "Een nieuwsbrief die voelt als Noppies.",
+    "tekst": "Een welkomstmail rond jullie bestaande code WELCOME10, met het verhaal sinds 1991, een uitgelicht product en een keuze per fase.",
+    "punten": [
+      "Opgebouwd rond de code WELCOME10 die al op de site staat",
+      "Merkverhaal uit jullie eigen pagina Ons verhaal",
+      "Per fase: newborn, zwangerschap en kleine eerste aankopen"
+    ]
+  },
+  "ai_sfeer": true,
+  "gemaakt": "2026-11-05"
+}
