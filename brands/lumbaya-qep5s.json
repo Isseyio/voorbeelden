@@ -1,0 +1,50 @@
+{
+  "slug": "lumbaya-qep5s",
+  "merk": "LUMBAYA",
+  "domein": "lumbaya.com",
+  "lead_id": "2026-11-04-lumbaya.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6B2226",
+  "kop": "Draagzakken en luiertassen, vijf keer anders verteld",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "848:453",
+      "titel": "Ouders over de luiertas",
+      "waarom": "De drie reviews op jullie bundelpagina zeggen allemaal iets over ruimte en de kinderwagen, dus die woorden doen hier het werk."
+    },
+    {
+      "node": "848:488",
+      "titel": "Van geboorte tot peuter",
+      "waarom": "Met 3,2 tot 16 kg en drie draagposities beantwoordt de draagzak meteen de vraag hoe lang je er iets aan hebt."
+    },
+    {
+      "node": "849:122",
+      "titel": "De bundel als bonnetje",
+      "waarom": "Het bonnetje laat zien wat er in de Baby Essentials Bundle zit en dat je €50 bespaart ten opzichte van €374."
+    },
+    {
+      "node": "849:159",
+      "titel": "Eén tas, drie plekken",
+      "waarom": "Kinderwagenhaken, hand- of crossbodytas en een ruime indeling met verschoningsmatje laten zien waarom het een luiertas is en geen gewone tas."
+    },
+    {
+      "node": "849:173",
+      "titel": "Waarom LUMBAYA bestaat",
+      "waarom": "Daphnes vraag naar een draagzak die comfortabel, stijlvol en betaalbaar is, staat op jullie over-ons-pagina en is een sterk begin van een advertentie."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "850:2",
+    "onderwerp": "Gemaakt met liefde, draag met trots",
+    "kop": "Een nieuwsbrief die voelt als LUMBAYA.",
+    "tekst": "Een merkverhaal-mail die het verhaal van Daphne en de naam LUMBAYA vertelt, met daarna de draagzak en de bundel.",
+    "punten": [
+      "Opent met de nieuwe naam: voorheen KIDDLY, nu LUMBAYA",
+      "Draagzak Mocha Rouge met vier kenmerken uit jullie productpagina",
+      "Afsluiting met de Baby Essentials Bundle voor €324"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
