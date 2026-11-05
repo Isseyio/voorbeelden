@@ -1,0 +1,50 @@
+{
+  "slug": "moalie-2s4z2",
+  "merk": "Moalie",
+  "domein": "moalie.nl",
+  "lead_id": "2026-11-04-moalie.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4A3F37",
+  "kop": "Advertenties over zachte merinowol, met de kennis van Daniëlle erin",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "874:72",
+      "titel": "Een briefje van Daniëlle",
+      "waarom": "Bijna 30 jaar neonatologie is jullie sterkste verhaal; een persoonlijk briefje met haar ontwerpvraag maakt dat voelbaar."
+    },
+    {
+      "node": "874:83",
+      "titel": "Eén deken, drie functies",
+      "waarom": "De Merino babydeken is omslagdoek, wiegdeken en inbakerdoek in één; drie echte foto's laten dat in één blik zien."
+    },
+    {
+      "node": "874:101",
+      "titel": "Waar het van gemaakt is",
+      "waarom": "Ouders willen weten wat er tegen de huid van hun baby zit: merinowol, cashmere en katoen, uitgelegd met jullie eigen woorden."
+    },
+    {
+      "node": "874:118",
+      "titel": "Welke snuggle past?",
+      "waarom": "Twee snuggles naast elkaar, Pointelle € 69 en merino-cashmere € 75, helpen bij het kiezen zonder lang zoeken."
+    },
+    {
+      "node": "874:139",
+      "titel": "Binnenkort jullie winkel",
+      "waarom": "De winkel op de Spuistraat opent eind november; een advertentie daarover brengt mensen uit Amsterdam naar binnen."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "874:156",
+    "onderwerp": "Zacht vanaf de eerste dag",
+    "kop": "Een nieuwsbrief die voelt als Moalie.",
+    "tekst": "Een nieuwsbrief met het verhaal van Daniëlle, de Merino babydeken Sand uitgelicht en de opening van de winkel in Amsterdam.",
+    "punten": [
+      "Het merkverhaal van jullie over-ons-pagina",
+      "De 3-in-1 deken met vier kenmerken",
+      "De winkelopening op de Spuistraat"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
