@@ -1,0 +1,50 @@
+{
+  "slug": "murale-xvbvf",
+  "merk": "Murale",
+  "domein": "murale.nl",
+  "lead_id": "2026-11-04-murale.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#282828",
+  "kop": "Kunst aan de muur, en elk seizoen een ander doek.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "788:128",
+      "titel": "Jouw interieur, jouw kunst",
+      "waarom": "Jullie eigen homepagezin 'Jouw interieur. Jouw kunst. Jouw moment.' wordt de advertentie, met vier echte werken uit de collectie erin."
+    },
+    {
+      "node": "788:150",
+      "titel": "Koop geen poster",
+      "waarom": "Een knipoog die meteen laat zien wat een Murale anders maakt: strak gespannen textieldoek, aluminium frame in vier kleuren en binnen 5 werkdagen gratis bezorgd."
+    },
+    {
+      "node": "788:169",
+      "titel": "Hou je frame, wissel je doek",
+      "waarom": "Het wisselsysteem is jullie eigen concept: één frame, en een nieuw doek zit er in enkele seconden in."
+    },
+    {
+      "node": "788:255",
+      "titel": "Welk formaat past?",
+      "waarom": "Formaat is bij wanddecoratie de grote twijfel; deze ad zet vier formaten van Sunlit Café Morning op schaal met de echte prijzen van €159 tot €539."
+    },
+    {
+      "node": "788:277",
+      "titel": "Last van galm?",
+      "waarom": "Akoestisch vilt is een optie die veel mensen niet kennen; de vraag en het antwoord komen van jullie eigen productpagina, met een echte klantreview."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "789:2",
+    "onderwerp": "Nieuw aan je muur, zonder nieuw frame",
+    "kop": "Een nieuwsbrief die voelt als Murale.",
+    "tekst": "Een collectiemail rond The Wanderer en drie andere werken, met het verhaal van Dennis en Tom en het wisselsysteem als afsluiter.",
+    "punten": [
+      "Merkverhaal van de over-ons-pagina: sinds 2020, twee vrienden",
+      "The Wanderer met vier kenmerken: doek, frame, wisselsysteem en akoestisch vilt",
+      "Drie werken uit de collectie, elk vanaf €159"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
