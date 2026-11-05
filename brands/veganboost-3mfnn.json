@@ -1,0 +1,50 @@
+{
+  "slug": "veganboost-3mfnn",
+  "merk": "Veganboost",
+  "domein": "veganboost.nl",
+  "lead_id": "2026-11-04-veganboost.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E8403A",
+  "kop": "Haarvitamines en bundels in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "916:3",
+      "titel": "Vier stoffen",
+      "waarom": "Jullie eigen samenstelling laat zien wat biotine, zink, vitamine C en jodium doen; met de toegelaten claims van jullie productpagina blijft het helder en correct."
+    },
+    {
+      "node": "916:23",
+      "titel": "Twee per dag",
+      "waarom": "Twee gummies per dag en één pot voor dertig dagen is een ritme dat iedereen meteen snapt, en het nodigt uit om drie tot zes maanden door te gaan."
+    },
+    {
+      "node": "916:62",
+      "titel": "De bon van een routine",
+      "waarom": "De Premium Pack kost €79,95 in plaats van €99,80 los; een kassabon maakt het voordeel en de inhoud van de bundel in één oogopslag duidelijk."
+    },
+    {
+      "node": "916:83",
+      "titel": "Eén plank, het hele gezin",
+      "waarom": "Het VB Family starterpack zet zes potten op een rij voor €139,95 in plaats van €179,70, een sterke propositie voor gezinnen."
+    },
+    {
+      "node": "916:95",
+      "titel": "Jouw droomhaar begint hier",
+      "waarom": "Jullie eigen homepagekop met jullie lifestylefoto's in de tekst, plus het bewijs van 100.000 klanten en 4.9 uit 6.228 reviews."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "916:135",
+    "onderwerp": "Welkom bij de VB Members",
+    "kop": "Een nieuwsbrief die voelt als Veganboost.",
+    "tekst": "Een welkomstmail voor nieuwe VB Members: de 10% voor de volgende bestelling, de eerste pot uitgelegd met labels en de bundels als volgende stap.",
+    "punten": [
+      "Welkom met de 10% voor members",
+      "De Hair Vitamins met vier labels",
+      "Reviews en bundels als afsluiting"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
