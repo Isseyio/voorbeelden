@@ -1,0 +1,50 @@
+{
+  "slug": "brandtlevie-snc8u",
+  "merk": "Brandt & Levie",
+  "domein": "brandtenlevie.nl",
+  "lead_id": "2026-11-02-brandtenlevie.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E5432F",
+  "kop": "Vijf ideeën met jullie soep, worst en pastasaus.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "981:2",
+      "titel": "Snert belt",
+      "waarom": "Jullie eigen tekst 'voor als alles in de soep loopt' staat al op het blik, en een inkomende oproep maakt van die grap meteen een advertentie."
+    },
+    {
+      "node": "981:19",
+      "titel": "Elke dag soep met ballen",
+      "waarom": "De Soep met Ballen Box maakten jullie samen met topchef Joris Bijdendijk, en een weekstrip maakt van soep een vast moment in de week."
+    },
+    {
+      "node": "981:53",
+      "titel": "Koop deze pastasaus niet",
+      "waarom": "Jullie eigen zin 'alsof je uren in de keuken hebt gestaan' werkt goed als omgekeerde kop, met de Pasta Tasting Box eronder."
+    },
+    {
+      "node": "981:78",
+      "titel": "Bon voor stamppotavond",
+      "waarom": "De Rookworst Box met acht rookworsten voor €44,95 past bij het stamppotseizoen, en een kassabon maakt de prijs meteen duidelijk."
+    },
+    {
+      "node": "981:145",
+      "titel": "Drie chefs met een missie",
+      "waarom": "Jullie verhaal van chefs die hun eerste worsten in de Amsterdamse horeca draaiden is persoonlijk, en het staat er in jullie eigen woorden."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "982:2",
+    "onderwerp": "Welkom bij de worstmakers",
+    "kop": "Een nieuwsbrief die voelt als Brandt & Levie.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, met de 10% korting die jullie beloven, jullie verhaal en een eerste product om mee te beginnen.",
+    "punten": [
+      "De 10% korting die jullie bij inschrijving beloven",
+      "Het verhaal van de Amsterdamse chefs, sinds 2011",
+      "De Paté & Rillettes Try-Out en de Stamppot Box uitgelicht"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
