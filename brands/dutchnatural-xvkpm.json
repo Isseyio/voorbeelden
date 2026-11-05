@@ -1,0 +1,50 @@
+{
+  "slug": "dutchnatural-xvkpm",
+  "merk": "Dutch Natural Healing",
+  "domein": "dutchnaturalhealing.com",
+  "lead_id": "2026-11-04-dutchnaturalhealing.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5C7168",
+  "kop": "Jullie eigen productie in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "997:18",
+      "titel": "Koop geen CBD-olie",
+      "waarom": "Een omgekeerde kop die nieuwsgierig maakt en daarna laat zien wat jullie onderscheidt: eigen ISO 22000:2018-productie, biologisch geteelde hennep uit Europa en sinds 2005."
+    },
+    {
+      "node": "997:58",
+      "titel": "Eén patch, 60 mg",
+      "waarom": "De Supreme patches van €49,95 met de drie getallen die al op de verpakking staan: 30 patches, 60 mg per patch, 1800 mg in totaal."
+    },
+    {
+      "node": "997:97",
+      "titel": "Inkomende oproep",
+      "waarom": "Een speels belscherm dat de gratis verzending vanaf €60 binnen de EU en UK onder de aandacht brengt, met de Premium Gold-olie als beller."
+    },
+    {
+      "node": "997:136",
+      "titel": "Van één kas naar 50 merken",
+      "waarom": "Jullie eigen verhaal als tijdlijn: de kas in 2003, sinds 2005 Dutch Natural Healing, het ISO-certificaat in 2020 en nu meer dan 50 merken."
+    },
+    {
+      "node": "997:177",
+      "titel": "Los of in een bundel?",
+      "waarom": "De CBD Calm Bundle kost €59,95 in plaats van €82,85 los, en dat verschil van €22,90 is de hele boodschap."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "997:213",
+    "onderwerp": "Van olie tot balsem",
+    "kop": "Een nieuwsbrief die voelt als Dutch Natural Healing.",
+    "tekst": "Een assortimentsmail met jullie eigen verhaal, de CBN-olie uitgelicht, vier producten met prijs en een blok over Dutch Natural Wholesale.",
+    "punten": [
+      "Verhaal met feiten van jullie About-pagina",
+      "Vier producten met prijs en knop",
+      "Afsluiting over white label en groothandel"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
