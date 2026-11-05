@@ -1,0 +1,50 @@
+{
+  "slug": "vacuvin-u6nq3",
+  "merk": "Vacu Vin",
+  "domein": "vacuvin.com",
+  "lead_id": "2026-11-05-vacuvin.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A8182D",
+  "kop": "Wijn bewaren, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "728:3",
+      "titel": "Tien dagen vers",
+      "waarom": "Jullie eigen belofte, tot wel 10 dagen vers, wordt hier een strip van tien dagen die je in één blik snapt."
+    },
+    {
+      "node": "728:36",
+      "titel": "Alles voor die halve fles",
+      "waarom": "De Loop set van €19,99 met pijlen naar wat erin zit: één pomp, vier stoppers, 98% gerecycled plastic en het Red Dot Label."
+    },
+    {
+      "node": "728:53",
+      "titel": "Vier cadeaus onder €20",
+      "waarom": "Richting december zoeken mensen kleine cadeaus; vier echte sets uit jullie shop met prijs en de gratis verzending vanaf €40."
+    },
+    {
+      "node": "728:76",
+      "titel": "Een appje over een halve fles",
+      "waarom": "Een herkenbaar gesprek over wijn van zaterdag laat zien waar de Wine Saver voor is, zonder dat het als reclame voelt."
+    },
+    {
+      "node": "728:92",
+      "titel": "Bubbels voor morgen",
+      "waarom": "Jullie eigen foto van de Champagne Stopper, met de Cooler Sleeve erbij voor €19,99, voor de feestdagen."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "730:2",
+    "onderwerp": "Welkom bij Vacu Vin",
+    "kop": "Een nieuwsbrief die voelt als Vacu Vin.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: het verhaal van de verjaardag in 1984, hoe de Loop werkt en een rustige afsluiting met de set van €19,99.",
+    "punten": [
+      "Het verhaal van de twee broers uit jullie eigen geschiedenispagina",
+      "De Loop uitgelegd met vier korte labels",
+      "Een duidelijke knop naar de set, met gratis verzending vanaf €40"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
