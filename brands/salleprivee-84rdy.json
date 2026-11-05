@@ -1,0 +1,50 @@
+{
+  "slug": "salleprivee-84rdy",
+  "merk": "Salle Privée",
+  "domein": "salle-privee.com",
+  "lead_id": "2026-11-03-salle-privee.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2FB37F",
+  "kop": "Vijf ideeën rond jullie geuren, van proefdoos tot volle fles.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "976:204",
+      "titel": "Begin met zeven geuren",
+      "waarom": "De Discover Box met zeven flesjes van 2 ml voor € 28 is een lage drempel voor een niche-geur die je online niet kunt ruiken."
+    },
+    {
+      "node": "976:222",
+      "titel": "Ai in noten",
+      "waarom": "Jullie productpagina geeft per laag de noten van Ai, en die maken een geur concreet zonder dat iemand hem heeft geroken."
+    },
+    {
+      "node": "976:252",
+      "titel": "Van proefje naar fles",
+      "waarom": "Drie stappen met jullie echte prijzen, van de Discover Box voor € 28 via 12 ml voor € 38 naar 100 ml voor € 220, en geuren kunnen niet retour."
+    },
+    {
+      "node": "976:310",
+      "titel": "Super 8 als cover",
+      "waarom": "Jullie eigen sfeerfoto van Super 8 als tijdschriftcover, met de noten als koppen, past bij een studio die design centraal zet."
+    },
+    {
+      "node": "976:323",
+      "titel": "Draag ze samen",
+      "waarom": "Patrick Munsters vindt dat je geuren over elkaar mag dragen; twee flessen naast elkaar maken dat idee direct zichtbaar."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "976:339",
+    "onderwerp": "Zeven geuren in één doos",
+    "kop": "Een nieuwsbrief die voelt als Salle Privée.",
+    "tekst": "Een nieuwsbrief rond de Discover Box, met het verhaal van de studio in Amsterdam, de box in vier punten en Super 8 als volgende stap.",
+    "punten": [
+      "Discover Box als instap, met de zeven geuren bij naam",
+      "Verhaal van Anna Hegeman en Patrick Munsters uit de about-pagina",
+      "Super 8 met zijn noten als afsluiting"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
