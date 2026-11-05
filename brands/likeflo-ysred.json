@@ -1,0 +1,50 @@
+{
+  "slug": "likeflo-ysred",
+  "merk": "Like Flo",
+  "domein": "likeflo.nl",
+  "lead_id": "2026-11-05-likeflo.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#11173B",
+  "kop": "Kinderkleding om zelf mee te combineren, in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "944:3",
+      "titel": "Bouw je eigen look",
+      "waarom": "Jullie 'Mix is the new match' als bouwpakket: de Eef top en de Diam gilet in Old pink, samen €52,48, met de look ernaast."
+    },
+    {
+      "node": "944:24",
+      "titel": "Ice blue van top tot broek",
+      "waarom": "Twee stukken in dezelfde kleur, de Danee sweater en de Fem broek van €34,99, met de verzendbelofte uit jullie aankondigingsbalk."
+    },
+    {
+      "node": "944:46",
+      "titel": "Winter '26 als tijdschrift",
+      "waarom": "Jullie eigen winterfoto met de Noe sjaal in Spikkel als cover, met #welikeflo van jullie site."
+    },
+    {
+      "node": "944:58",
+      "titel": "Vier stukken op een rij",
+      "waarom": "Vier stukken uit de collectie met hun prijs, bij jullie eigen zin over eindeloos combineren."
+    },
+    {
+      "node": "944:88",
+      "titel": "Zelf je outfit kiezen",
+      "waarom": "Jullie belofte 'zelf je kleding uitkiezen en outfits maken' vanuit het kind verteld, met de Danee sweater."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "945:2",
+    "onderwerp": "Welkom bij Like Flo",
+    "kop": "Een nieuwsbrief die voelt als Like Flo.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: jullie verhaal van de over-ons-pagina, de Diam gilet uitgelicht en een oproep om outfits te delen met #welikeflo.",
+    "punten": [
+      "Merkverhaal van jullie eigen over-ons-pagina",
+      "Eén product met kleur, soort en prijs",
+      "Afsluiting met #welikeflo en jullie Instagram"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
