@@ -1,0 +1,50 @@
+{
+  "slug": "kaddey-4yjtk",
+  "merk": "Kaddey",
+  "domein": "kaddey.com",
+  "lead_id": "2026-11-03-kaddey.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#FF4616",
+  "kop": "Vijf ideeën rond de Switch+, de E-Kit en jullie Black Friday.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "965:80",
+      "titel": "Je volgende ronde belt",
+      "waarom": "Een speels belscherm met de Switch+ als beller, met de echte Black Friday-prijs van €391 in plaats van €489."
+    },
+    {
+      "node": "965:98",
+      "titel": "Nu Switch+, later Switch-E",
+      "waarom": "Laat zien dat je met de E-Kit later elektrisch kunt gaan, want elke Switch+ 3W vanaf april '24 is er volgens jullie FAQ klaar voor."
+    },
+    {
+      "node": "965:122",
+      "titel": "Jouw kleuren",
+      "waarom": "Jullie eigen E-Kit-foto's in vier kleurcombinaties, met 3 framekleuren en 9 logokleuren, sturen naar de configurator."
+    },
+    {
+      "node": "966:2",
+      "titel": "POV: hij blijft hangen",
+      "waarom": "De Magnetic Towel van €29 aan een clubkop maakt in één beeld duidelijk wat het product doet."
+    },
+    {
+      "node": "966:21",
+      "titel": "Trolley en tas voor €686",
+      "waarom": "Een kassabon met jullie echte Black Friday-prijzen laat zien dat Switch+ en Switch Golf Bag samen €172 schelen en boven de gratis verzendgrens van €600 komen."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "967:2",
+    "onderwerp": "Black Friday: 20% op alles",
+    "kop": "Een nieuwsbrief die voelt als Kaddey.",
+    "tekst": "Een Black Friday-mail rond jullie actie van 20% zonder code, met het verhaal uit Amsterdam, de Switch+ in vier punten en de configurator als afsluiting.",
+    "punten": [
+      "Sluit aan op jullie lopende Black Friday tot en met 2 december",
+      "Switch+ uitgelegd in vier punten van jullie productpagina",
+      "Configurator en E-Kit als volgende stap"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
