@@ -1,0 +1,50 @@
+{
+  "slug": "appa-skby4",
+  "merk": "Appa & Tails",
+  "domein": "appatails.com",
+  "lead_id": "2026-11-04-appatails.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#154085",
+  "kop": "Halsbanden met naam en nummer, in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "907:4",
+      "titel": "Blije hondjes",
+      "waarom": "Jullie hebben 4,89 uit 415 reviews; een echte klantquote naast een foto van Appa buiten maakt dat zichtbaar in de feed."
+    },
+    {
+      "node": "907:30",
+      "titel": "Jullie eigen setje",
+      "waarom": "De Autumn Walks-set kost samen €29,95 in plaats van €44,90; pijlen naar de WoofID en de TagID laten in één beeld zien wat je krijgt."
+    },
+    {
+      "node": "907:44",
+      "titel": "Het hondenpaspoort",
+      "waarom": "Appa is jullie CEO; een paspoort van Appa vertelt op een speelse manier waar de WoofID voor is: naam en telefoonnummer, zodat je hond zijn weg terugvindt."
+    },
+    {
+      "node": "907:79",
+      "titel": "Vijf herfstlooks",
+      "waarom": "Pumpkin Pup, Honey Pup, Zoomies, Muddy Paws en Puppy Love naast elkaar maakt kiezen makkelijk, met de setprijs eronder."
+    },
+    {
+      "node": "907:98",
+      "titel": "Welke maat?",
+      "waarom": "Bij een halsband twijfelen mensen vooral over de maat; jullie eigen maattabel en de tip om 2 cm van de nekomtrek af te halen nemen dat weg."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "907:184",
+    "onderwerp": "Een briefje van Appa",
+    "kop": "Een nieuwsbrief die voelt als Appa & Tails.",
+    "tekst": "Appa vertelt als CEO over de herfstcollectie, met het verhaal uit jullie Over ons-pagina, de WoofID uitgelicht en de Autumn Walks-set als afsluiter.",
+    "punten": [
+      "Merkverhaal in de woorden van Appa",
+      "De WoofID met vier labels: telefoon, naam, hangertje en kwastje",
+      "Afsluiting met de Autumn Walks-set van €29,95"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
