@@ -1,0 +1,50 @@
+{
+  "slug": "sentir-x3wu8",
+  "merk": "Sentir Parfum",
+  "domein": "sentirparfum.com",
+  "lead_id": "2026-11-04-sentirparfum.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B08D57",
+  "kop": "Vijf advertenties rond Date Night en jullie geurensets.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "888:2",
+      "titel": "Koop dit parfum niet",
+      "waarom": "Een omgekeerde kop maakt nieuwsgierig, en de drie vinkjes noemen wat jullie site belooft: 30% Extrait, een eigen parfumerie in Nederland en thuis testen."
+    },
+    {
+      "node": "888:20",
+      "titel": "Elke dag een andere geur",
+      "waarom": "Laat zien waarom vier flesjes van 10 ml logisch zijn, met jullie eigen staffelprijs van €8,97 per stuk."
+    },
+    {
+      "node": "888:51",
+      "titel": "De vraag die je krijgt",
+      "waarom": "Een chatgesprek voelt als een tip van een vriendin en noemt geur en prijs zonder dat het als reclame leest."
+    },
+    {
+      "node": "888:75",
+      "titel": "Laag voor laag",
+      "waarom": "Parfumkopers kiezen op geurnoten; dit zet de top, het hart en de basis van Date Night overzichtelijk naast de fles."
+    },
+    {
+      "node": "888:98",
+      "titel": "Vijf geuren in één doos",
+      "waarom": "Richting de feestdagen zoeken mensen cadeaus, en de Herfstset voor €44,95 in plaats van €74,75 past daar precies bij."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "889:2",
+    "onderwerp": "Vier geuren voor de koude avonden",
+    "kop": "Een nieuwsbrief die voelt als Sentir Parfum.",
+    "tekst": "Een assortimentsmail voor de herfst: Date Night uitgelicht met zijn geurnoten, drie warme geuren ernaast en jullie Test & Beslis-belofte als afsluiting.",
+    "punten": [
+      "Opent met jullie eigen foto van de ontdekdoos",
+      "Het verhaal van Thomas en jullie parfumerie in Nederland",
+      "Staffelprijs en gratis retour als duidelijke reden om te bestellen"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
