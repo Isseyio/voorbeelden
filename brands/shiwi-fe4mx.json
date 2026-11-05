@@ -1,0 +1,50 @@
+{
+  "slug": "shiwi-fe4mx",
+  "merk": "Shiwi",
+  "domein": "shiwi.com",
+  "lead_id": "2026-11-05-shiwi.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#280F1B",
+  "kop": "Zwembroeken en caps van Shiwi, het hele jaar door in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "779:3",
+      "titel": "Effen of streep?",
+      "waarom": "De NICK QUICK DRY en de MAC broad stripe kosten allebei €39,99, dus de keuze gaat puur over stijl en dat maakt het een makkelijke eerste klik."
+    },
+    {
+      "node": "779:22",
+      "titel": "Van dichtbij",
+      "waarom": "Jullie detailfoto van de MAC laat streep, trekkoord en badge goed zien, en dat is precies wat online kopers willen checken."
+    },
+    {
+      "node": "779:48",
+      "titel": "POV: november",
+      "waarom": "Jullie site zegt zelf dat er altijd ergens zomer is, en zwembroeken het hele jaar door verkopen past bij mensen die nu een zonvakantie boeken."
+    },
+    {
+      "node": "780:2",
+      "titel": "Welke kleur wordt het?",
+      "waarom": "De garment dyed cap is er in één maat en meerdere kleuren voor €29,99, dus de enige vraag is welke kleur."
+    },
+    {
+      "node": "780:26",
+      "titel": "Een zomerbestelling",
+      "waarom": "Een bon met zwembroek en cap maakt de gratis verzending vanaf €50 en verzending dezelfde dag bij bestelling vóór 14.00 meteen concreet."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "781:2",
+    "onderwerp": "Welkom bij The Sunshine Brand",
+    "kop": "Een nieuwsbrief die voelt als Shiwi.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, opgebouwd met jullie eigen verhaal over zon als levensstijl en jullie eigen foto's.",
+    "punten": [
+      "Merkverhaal in jullie eigen woorden",
+      "De NICK QUICK DRY uitgelicht met de belangrijkste kenmerken",
+      "Afsluiting met polo en cap als complete look"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
