@@ -1,0 +1,50 @@
+{
+  "slug": "carparfum-smm5s",
+  "merk": "The Car Parfum",
+  "domein": "thecarparfum.com",
+  "lead_id": "2026-11-05-thecarparfum.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#22433F",
+  "kop": "Autoparfum met een verhaal, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "694:4",
+      "titel": "Stoer of zoet?",
+      "waarom": "Epic Million en Vanilla Dreams naast elkaar laten in één beeld zien dat er voor elke smaak een signature geur is."
+    },
+    {
+      "node": "694:27",
+      "titel": "Je auto belt",
+      "waarom": "Een inkomend gesprek valt op in de feed en knipoogt naar het verhaal van de roomspray waarmee jullie begonnen."
+    },
+    {
+      "node": "694:42",
+      "titel": "Welke geur past bij jou?",
+      "waarom": "Jullie hebben al een geurtest; een advertentie in quizvorm stuurt mensen daar direct naartoe."
+    },
+    {
+      "node": "694:63",
+      "titel": "Het begon bij een tankstation",
+      "waarom": "Het verhaal van JayJay uit jullie eigen Over ons, met zijn citaat, maakt van een autoparfum een merk met een gezicht."
+    },
+    {
+      "node": "694:74",
+      "titel": "Wat kost een frisse auto?",
+      "waarom": "Een kassabon rekent de 100 ml uit: €24,99 voor gemiddeld 500 sprays, zo'n 10 weken geur en €0,33 per dag."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "695:2",
+    "onderwerp": "Vier cadeaus voor autoliefhebbers",
+    "kop": "Een nieuwsbrief die voelt als The Car Parfum.",
+    "tekst": "Een cadeaumail met vier producten, van de cadeauset met alle zes geuren tot de geurkaart voor aan de spiegel, met jullie Trustpilot-score en Drive for Life.",
+    "punten": [
+      "Vier producten met prijs en een eigen knop",
+      "4.6/5 op Trustpilot en de geld-terug-belofte",
+      "Afsluiting met Drive for Life"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
