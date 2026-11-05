@@ -1,0 +1,50 @@
+{
+  "slug": "coj-8jsrp",
+  "merk": "COJ Denim",
+  "domein": "cojdenim.com",
+  "lead_id": "2026-11-04-cojdenim.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#343434",
+  "kop": "Denim die bij je dag past, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "927:3",
+      "titel": "Koop deze jeans niet",
+      "waarom": "Een kop die tegendraads begint en dan met de Lynn Mom Fit, 99% katoen en maat 24 tot 34 laat zien voor wie hij wel is."
+    },
+    {
+      "node": "927:24",
+      "titel": "Je jeans belt",
+      "waarom": "Een speelse belscherm-advertentie voor de Ray in Stay Black, met de echte prijs van €49,99 en het bereik van maat 27 tot 38."
+    },
+    {
+      "node": "927:42",
+      "titel": "Welke pasvorm past?",
+      "waarom": "Een pasvormwijzer met Ray, Felix, Lynn en Sophia en hun maten en lengtes, zodat twijfel over de maat vóór de klik al weg is."
+    },
+    {
+      "node": "929:2",
+      "titel": "Sinds 1986",
+      "waarom": "Jullie achtergrond als kledingproducent sinds 1986 en de start van C.O.J. Denim in 2015 laten in één beeld zien waar het merk vandaan komt."
+    },
+    {
+      "node": "929:20",
+      "titel": "Wat zit er in je jeans",
+      "waarom": "Labels op jullie eigen detailfoto: mid waist, 5 pocket, 99% katoen en mom fit, zodat de stof en pasvorm zonder te passen duidelijk zijn."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "930:3",
+    "onderwerp": "Welkom bij C.O.J. Denim, je 10% staat klaar",
+    "kop": "Een nieuwsbrief die voelt als COJ Denim.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers via de pop-up met 10% korting: eerst het verhaal sinds 1986, dan één pasvorm uitgelicht en tot slot de korting.",
+    "punten": [
+      "Sluit aan op de bestaande 10%-pop-up",
+      "Merkverhaal met feiten van de About-pagina",
+      "Lynn Mom Fit met vier labels over stof en pasvorm"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
