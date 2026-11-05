@@ -1,0 +1,50 @@
+{
+  "slug": "looplabb-zgyc4",
+  "merk": "Looplabb",
+  "domein": "looplabb.com",
+  "lead_id": "2026-11-05-looplabb.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E5338F",
+  "kop": "Vijf advertenties voor de vrolijke leesbrillen van Looplabb.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "848:76",
+      "titel": "Lezen, maar dan vrolijk",
+      "waarom": "Eén groot woord en vier kleuren van MAX laten meteen zien dat een leesbril bij jullie geen saaie noodoplossing is."
+    },
+    {
+      "node": "848:112",
+      "titel": "10% welkomstkorting",
+      "waarom": "Jullie geven al 10% korting op de eerste bestelling bij inschrijving; met jullie eigen modelfoto wordt dat de hele boodschap."
+    },
+    {
+      "node": "848:140",
+      "titel": "Je leesbril belt",
+      "waarom": "Een herkenbaar moment als inkomend gesprek, met MAX in Red Velvet voor €29,95 en gratis verzending vanaf €50."
+    },
+    {
+      "node": "848:172",
+      "titel": "Welke sterkte heb je nodig",
+      "waarom": "Jullie leestest en het advies om bij twijfel de laagste sterkte te kiezen nemen de grootste twijfel voor online kopen weg."
+    },
+    {
+      "node": "848:211",
+      "titel": "Wat zit er in de doos",
+      "waarom": "Jullie eigen foto van doosje, hoes en bril, met de krasbestendige coating, 2 jaar garantie en gratis verzending vanaf €50."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "848:269",
+    "onderwerp": "Welkom bij The Happy Readers",
+    "kop": "Een nieuwsbrief die voelt als Looplabb.",
+    "tekst": "Een welkomstmail voor wie zich inschrijft voor de 10% korting: het verhaal achter de monturen, de korting, MAX met vier kenmerken, de kleuren en hulp bij het kiezen van de sterkte.",
+    "punten": [
+      "De 10% welkomstkorting die jullie al aanbieden, in één blok",
+      "MAX in Red Velvet met vier kenmerken van jullie productpagina",
+      "Een afsluiting met jullie leestest voor wie twijfelt over de sterkte"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
