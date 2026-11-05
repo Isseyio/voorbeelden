@@ -1,0 +1,50 @@
+{
+  "slug": "sugarfam-zm6fg",
+  "merk": "SugarFam",
+  "domein": "sugarfam.nl",
+  "lead_id": "2026-11-04-sugarfam.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#CC2027",
+  "kop": "Omnipod Covers in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "916:244",
+      "titel": "One cover, every Omnipod",
+      "waarom": "Jullie Covers passen op Omnipod 5, DASH en GO en zijn vrij van PVC, BPA en latex; drie korte kenmerken naast de Jingle Bolus maken dat in één beeld duidelijk."
+    },
+    {
+      "node": "916:264",
+      "titel": "Elke dag een andere look",
+      "waarom": "Met meer dan 30 kleuren en prints wissel je zo van Cover; een weekstrip laat zien hoe makkelijk dat gaat, met de bundel vanaf € 14,95."
+    },
+    {
+      "node": "916:295",
+      "titel": "Blend in or stand out",
+      "waarom": "Jullie eigen zin over opvallen of juist niet past bij een muur van zestien Covers, met de 4,90 uit 1.745 reviews eronder."
+    },
+    {
+      "node": "916:448",
+      "titel": "Cover of sticker?",
+      "waarom": "Jullie site legt zelf uit dat een Cover langer meegaat dan een sticker of patch; een vergelijking zet dat voordeel naast de andere kenmerken."
+    },
+    {
+      "node": "916:488",
+      "titel": "Begonnen als schoolproject",
+      "waarom": "Het verhaal van jullie over-ons-pagina, dat een Omnipod niet iets is om te verstoppen, geeft het merk een gezicht."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "916:504",
+    "onderwerp": "Choose your own colors",
+    "kop": "Een nieuwsbrief die voelt als SugarFam.",
+    "tekst": "Een mail rond de bundel die je zelf samenstelt (nu € 14,95 in plaats van € 29,90), met jullie verhaal sinds 2018, de Jingle Bolus-print uitgelicht en meer dan 30 kleuren als afsluiting.",
+    "punten": [
+      "De bundelactie die nu op de site staat",
+      "Jullie eigen verhaal en wat de Covers kunnen",
+      "In het Engels, net als jullie site"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
