@@ -1,0 +1,50 @@
+{
+  "slug": "manmetbril-2dywh",
+  "merk": "Man Met Bril Koffie",
+  "domein": "manmetbrilkoffie.com",
+  "lead_id": "2026-11-05-manmetbrilkoffie.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E2649F",
+  "kop": "Koffie uit Rotterdam, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "756:3",
+      "titel": "Waar Bitta Farm vandaan komt",
+      "waarom": "Land, proces, variëteit en hoogte staan al op jullie productpagina; als rijtje naast de zak maken ze in één beeld duidelijk waarom Bitta Farm €15 kost."
+    },
+    {
+      "node": "756:31",
+      "titel": "Je ochtend belt",
+      "waarom": "Een speelse oproep-scène met de roze House Blend-zak, de smaaknoten uit jullie shop en de prijs vanaf €9,50, plus gratis verzending in NL vanaf €30."
+    },
+    {
+      "node": "756:48",
+      "titel": "We malen hem voor je",
+      "waarom": "Bij elke zak kun je kiezen voor hele bonen, espresso of filter; met jullie eigen recepten erbij weet je meteen wat je bestelt."
+    },
+    {
+      "node": "757:56",
+      "titel": "Gebrand in Rotterdam",
+      "waarom": "De branderij en cupping room in het koffiehotel zijn een verhaal dat andere webshops niet hebben, met de audiotour van €5 als concreet haakje."
+    },
+    {
+      "node": "757:69",
+      "titel": "Thuis, kantoor of horeca",
+      "waarom": "House Blend bestaat in 250 gram, 1 kilo en 3 kilo; zo spreek je thuisdrinkers, kantoren en horeca in één advertentie aan."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "757:100",
+    "onderwerp": "Welkom bij Man Met Bril Koffie",
+    "kop": "Een nieuwsbrief die voelt als Man Met Bril Koffie.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 20% op de eerste bestelling, jullie verhaal in Rotterdam, de House Blend met wat er precies in zit en drie koffies uit de shop.",
+    "punten": [
+      "De 20% korting die jullie al beloven bij inschrijving",
+      "House Blend met herkomst, smaak en formaten",
+      "Afsluiting met het koffiehotel en de Hofbogen"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
