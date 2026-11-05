@@ -1,0 +1,50 @@
+{
+  "slug": "moods-c75vw",
+  "merk": "Moods Gellac",
+  "domein": "moodsgellac.nl",
+  "lead_id": "2026-11-04-moodsgellac.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E07A6F",
+  "kop": "Gellak en nail wraps in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "903:2",
+      "titel": "Twee weken mooie nagels",
+      "waarom": "Volgens jullie site blijft de gellak tot 14 dagen mooi; een tijdlijn van veertien dagen laat dat in één oogopslag zien, met Stellar Shades als set."
+    },
+    {
+      "node": "903:41",
+      "titel": "Velvet Rouge van dichtbij",
+      "waarom": "Jullie eigen modelfoto laat het rood goed zien; korte labels vertellen meteen wat het is en wat het kost, precies op tijd voor de feestdagen."
+    },
+    {
+      "node": "903:63",
+      "titel": "Welke mood ben jij?",
+      "waarom": "Een keuzevraag past bij jullie naam en zet drie nail wraps naast elkaar: Velvet Rouge, Soft French en Soft Kiss."
+    },
+    {
+      "node": "904:2",
+      "titel": "Het bonnetje",
+      "waarom": "Peel Off Base staat nu op €14,95 in plaats van €30,00; een kassabon laat die korting en de voordelen van jullie productpagina rustig zien."
+    },
+    {
+      "node": "904:32",
+      "titel": "Kies 3, betaal er 2",
+      "waarom": "De 2+1-actie op alle kleurensets loopt nu; drie sets naast elkaar maken direct duidelijk wat je betaalt."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "905:3",
+    "onderwerp": "Welkom bij Moods Gellac",
+    "kop": "Een nieuwsbrief die voelt als Moods Gellac.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: het verhaal van Bol.com naar een eigen webshop, Stellar Shades met vier labels en de 2+1-actie op de kleurensets.",
+    "punten": [
+      "Merkverhaal uit jullie eigen over-ons-pagina",
+      "Stellar Shades met kenmerken van de productpagina",
+      "Afsluiting met de lopende 2+1-actie"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
