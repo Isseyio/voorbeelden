@@ -1,0 +1,50 @@
+{
+  "slug": "mastello-we743",
+  "merk": "Mastello",
+  "domein": "mastello.nl",
+  "lead_id": "2026-11-05-mastello.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#744F28",
+  "kop": "Vijf advertenties voor badkamers die je eerst wilt zien.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "952:3",
+      "titel": "Clam van dichtbij",
+      "waarom": "De geribbelde rand en het solid surface zie je het best van boven; de labels noemen alleen wat op de productpagina staat, met prijs en levertijd."
+    },
+    {
+      "node": "952:34",
+      "titel": "Het idee achter Mastello",
+      "waarom": "Een briefje met de woorden van Dennis Jansen van jullie merkpagina over het Breez bad: bij een merk dat alles zelf ontwerpt, verkoopt het verhaal van de broers mee."
+    },
+    {
+      "node": "952:53",
+      "titel": "Wat kost een badkamer",
+      "waarom": "De drie budgetten van jullie homepage (vanaf € 9.000, € 15.000 en € 20.000) beantwoorden de eerste vraag die mensen hebben en leiden naar gratis stijladvies."
+    },
+    {
+      "node": "952:74",
+      "titel": "Op naar de showroom",
+      "waarom": "Bij een aankoop van deze omvang wil je eerst kijken; adres, parkeren, bereikbaarheid en openingsdagen staan samen op één kaart."
+    },
+    {
+      "node": "952:92",
+      "titel": "Eerst een kleursample",
+      "waarom": "Een acryl kleursample van € 3 is een kleine eerste stap voor wie twijfelt over Dune."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "954:2",
+    "onderwerp": "Drie nieuwe RVS-lijnen in Coffee",
+    "kop": "Een nieuwsbrief die voelt als Mastello.",
+    "tekst": "Een nieuwsbrief over de nieuwe RVS collectie in Coffee (Fusion, O-Plus en Retro), met het verhaal van Mark en Dennis en een uitnodiging voor de showroom in Hilversum.",
+    "punten": [
+      "Opgebouwd rond één nieuwe collectie",
+      "Merkverhaal uit jullie eigen tijdlijn",
+      "Afsluiting met showroombezoek en gratis advies"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
