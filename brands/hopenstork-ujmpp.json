@@ -1,0 +1,50 @@
+{
+  "slug": "hopenstork-ujmpp",
+  "merk": "Hop & Stork",
+  "domein": "hopenstork.com",
+  "lead_id": "2026-11-05-hopenstork.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2B1B12",
+  "kop": "Vijf advertenties rond de chocoladeletters van Hop & Stork.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "845:3",
+      "titel": "Pistache of hazelnoot",
+      "waarom": "Twee letters S naast elkaar laten in één blik zien dat er puur en melk is, met pistache of hazelnoot, voor €14,95."
+    },
+    {
+      "node": "845:26",
+      "titel": "Koop deze letter niet",
+      "waarom": "Een kop die je even laat stoppen, en daaronder wat de letter anders maakt: ambachtelijk opgespoten en met de hand versierd."
+    },
+    {
+      "node": "845:50",
+      "titel": "Stel je eigen letter samen",
+      "waarom": "Letter, chocolade en topping zijn op jullie site echte keuzes, dus de advertentie laat ze als drie stappen zien, vanaf €12,95."
+    },
+    {
+      "node": "845:81",
+      "titel": "Het openbreekmoment",
+      "waarom": "Jullie eigen foto van de pistacheletter die wordt opengebroken laat de vulling zien, iets wat een packshot niet kan."
+    },
+    {
+      "node": "845:92",
+      "titel": "Voor in de schoen",
+      "waarom": "Voor 5 december: drie varianten met hun echte prijzen, plus de winkels in Den Haag voor wie hem liever ophaalt."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "846:2",
+    "onderwerp": "Welkom bij Hop & Stork",
+    "kop": "Een nieuwsbrief die voelt als Hop & Stork.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: het verhaal van de chocolade uit de kraan, de witte letter met zijn kenmerken en een uitnodiging voor de winkels en workshops in Den Haag.",
+    "punten": [
+      "Opgebouwd uit jullie eigen teksten over de winkels en de chocolatiers",
+      "De witte chocoladeletter met vier kenmerken van jullie productpagina",
+      "Een afsluiting met jullie twee adressen in Den Haag en de workshops"
+    ]
+  },
+  "ai_sfeer": true,
+  "gemaakt": "2026-11-05"
+}
