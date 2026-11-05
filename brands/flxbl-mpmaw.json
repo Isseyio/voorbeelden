@@ -1,0 +1,50 @@
+{
+  "slug": "flxbl-mpmaw",
+  "merk": "FLXBL Yoga",
+  "domein": "flxblyoga.com",
+  "lead_id": "2026-11-05-flxblyoga.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#7B1E2C",
+  "kop": "Een mat die meer grip geeft naarmate je meer zweet.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "691:4",
+      "titel": "Koop deze mat niet",
+      "waarom": "Een omgekeerde kop maakt nieuwsgierig en zet direct het grootste verschil neer: de microvezel bovenlaag geeft meer grip als je zweet."
+    },
+    {
+      "node": "691:35",
+      "titel": "Overal je eigen mat",
+      "waarom": "Jullie eigen foto's van strand, thuis en studio laten zien waar de opvouwbare mat van 1,4 kg mee naartoe gaat."
+    },
+    {
+      "node": "691:60",
+      "titel": "FLXBL of een gewone mat",
+      "waarom": "De vergelijking van jullie homepage als tabel: glad, losse handdoek, wasmachine, tas en blijven liggen in één oogopslag."
+    },
+    {
+      "node": "691:95",
+      "titel": "Nieuw: de Reformer Mat",
+      "waarom": "De Reformer Mat staat in drie kleuren in pre-order voor €49; een lanceringsadvertentie geeft die nieuwe lijn een eigen moment."
+    },
+    {
+      "node": "691:116",
+      "titel": "Meer zweet, meer grip",
+      "waarom": "Een close-up van de bovenlaag met de vier feiten die kopers willen weten: 183 × 61 cm, 1,5 mm, ± 1,4 kg en wasbaar op 30°C."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "692:2",
+    "onderwerp": "Acht kleuren, één mat die blijft liggen",
+    "kop": "Een nieuwsbrief die voelt als FLXBL Yoga.",
+    "tekst": "Een mail rond de acht kleuren, met de mat uitgelegd in vier labels, het verhaal van Ingrid en Kim, en een vergelijking tussen de Yoga Mat en de Reformer Mat.",
+    "punten": [
+      "De mat uitgelegd: microvezel bovenlaag, natuurrubber, 1,5 mm, wasbaar op 30°C",
+      "Yoga Mat of Reformer Mat naast elkaar, met formaat, dikte en prijs",
+      "Afsluiting met de Yoga Bag van katoenen canvas"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
