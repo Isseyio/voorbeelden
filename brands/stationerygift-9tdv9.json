@@ -1,0 +1,50 @@
+{
+  "slug": "stationerygift-9tdv9",
+  "merk": "Stationery & Gift",
+  "domein": "stationerygift.nl",
+  "lead_id": "2026-11-05-stationerygift.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B58A4C",
+  "kop": "Planners, papier en cadeautjes voor de feestdagen",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "750:291",
+      "titel": "Een week vooruit",
+      "waarom": "De Agenda 2027 met gouden hartjes in een weekstrip, zodat je meteen ziet waar je hem elke dag voor gebruikt."
+    },
+    {
+      "node": "750:322",
+      "titel": "Tien dagen aftellen",
+      "waarom": "De adventskalender heeft een vaste verzenddatum, een beperkte oplage en een waarde boven de €100: dat maakt een helder moment om nu te adverteren."
+    },
+    {
+      "node": "750:351",
+      "titel": "Een briefje van Amanda",
+      "waarom": "Het verhaal van de zolder in 2017 tot het pand nu staat op de over-ons-pagina en laat zien dat alles zelf ontworpen is."
+    },
+    {
+      "node": "750:363",
+      "titel": "Koop deze planner niet",
+      "waarom": "Een omgekeerde kop valt op in de feed en legt in één zin uit voor wie de familieplanner van €17,95 is."
+    },
+    {
+      "node": "750:380",
+      "titel": "Alles in één set",
+      "waarom": "De voordeelset van €36,95 komt boven de €35 waarvanaf jullie gratis verzenden, dus dat kun je er meteen bij zeggen."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "751:2",
+    "onderwerp": "Welkom bij Stationery & Gift",
+    "kop": "Een nieuwsbrief die voelt als Stationery & Gift.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Amanda is, de Agenda 2027 met zijn details en de adventskalender als afsluiter.",
+    "punten": [
+      "Het verhaal van zolder tot pand in Sneek",
+      "De Agenda 2027 met vier details uitgelicht",
+      "De adventskalender met verzenddatum en prijs"
+    ]
+  },
+  "ai_sfeer": true,
+  "gemaakt": "2026-11-05"
+}
