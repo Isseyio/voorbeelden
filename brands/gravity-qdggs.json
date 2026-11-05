@@ -1,0 +1,50 @@
+{
+  "slug": "gravity-qdggs",
+  "merk": "House of Gravity",
+  "domein": "houseofgravity.com",
+  "lead_id": "2026-11-04-houseofgravity.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4B2466",
+  "kop": "Activewear van de gym tot de stad, in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "918:108",
+      "titel": "Twee kleurverhalen",
+      "waarom": "Deep Plum Amethyst en The Contrast Series naast elkaar laten zien dat het dezelfde pasvorm is in een andere kleur, met jullie eigen labels Shape control, Squat proof en Light weight."
+    },
+    {
+      "node": "918:109",
+      "titel": "Eén woord: leggings",
+      "waarom": "Drie leggings met hun echte prijzen in één beeld, met de samenstelling 70% nylon en 30% spandex uit jullie productpagina."
+    },
+    {
+      "node": "918:110",
+      "titel": "The Deep Plum Edit",
+      "waarom": "Jullie nieuwe kleur is net live; de achterkant van de set met korte labels laat zien waar de pasvorm zit."
+    },
+    {
+      "node": "918:111",
+      "titel": "Van de gym naar overal",
+      "waarom": "Jullie eigen zin From the gym to everywhere else, uitgewerkt als één dag in dezelfde set met jullie campagnefoto's."
+    },
+    {
+      "node": "918:112",
+      "titel": "Lees het label",
+      "waarom": "Stof, wasvoorschrift en maatadvies staan op jullie productpagina; als waslabel leest dat snel en eerlijk."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "918:113",
+    "onderwerp": "The Deep Plum Edit is live",
+    "kop": "Een nieuwsbrief die voelt als House of Gravity.",
+    "tekst": "Een mail rond de nieuwe Deep Plum-kleur, met het verhaal van Maria-Rosa en The Contrast Series uit The Grand Sale eronder.",
+    "punten": [
+      "Nieuwe kleur als aanleiding",
+      "Merkverhaal uit jullie eigen about-pagina",
+      "Echte saleprijzen uit The Grand Sale"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
