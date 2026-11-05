@@ -1,0 +1,50 @@
+{
+  "slug": "molliebabs-fkyda",
+  "merk": "Mollie & Babs",
+  "domein": "molliebabs.nl",
+  "lead_id": "2026-11-04-molliebabs.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#CDB82B",
+  "kop": "Natuurlijke hondensnacks, elke week opnieuw in beeld",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "688:3",
+      "titel": "Gewoon goede bullepees",
+      "waarom": "Jullie bullepees met de feiten van de productpagina erbij: 100% rund, 5 stuks van 15 cm en ca. 165 gram."
+    },
+    {
+      "node": "688:29",
+      "titel": "Drie ingrediënten",
+      "waarom": "Bij de Bullecrunchies staat letterlijk 'verder helemaal niets' achter de ingrediënten, dat is een sterke belofte voor baasjes."
+    },
+    {
+      "node": "688:49",
+      "titel": "Een week kauwen",
+      "waarom": "Jullie assortiment is breed; een week met elke dag een andere snack laat dat in één beeld zien, met de echte prijzen."
+    },
+    {
+      "node": "688:92",
+      "titel": "Je eigen snackbox",
+      "waarom": "Vanaf 5 snacks krijg je voordeel en een verrassing; een kassabon met vijf snacks maakt dat concreet."
+    },
+    {
+      "node": "688:124",
+      "titel": "De winkel in Bergen",
+      "waarom": "Jullie winkel aan de Kleine Dorpsstraat is iets wat de meeste webshops niet hebben, dus dat verdient een eigen advertentie voor de regio."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "689:2",
+    "onderwerp": "Voor kieskeurige eters én echte kauwkampioenen",
+    "kop": "Een nieuwsbrief die voelt als Mollie & Babs.",
+    "tekst": "Een mail met jullie verhaal, de bullepees met uitleg en de snackbox als vaste afsluiter.",
+    "punten": [
+      "Het verhaal achter Mollie & Babs en de winkel in Bergen",
+      "Onze Bullepees met vier korte kenmerken",
+      "De snackbox met voordeel vanaf 5 snacks"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
