@@ -1,0 +1,50 @@
+{
+  "slug": "thegoodspice-vhxqh",
+  "merk": "The Good Spice",
+  "domein": "thegoodspice.nl",
+  "lead_id": "2026-11-04-thegoodspice.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#005561",
+  "kop": "Specerijen met een gezicht, in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "792:2",
+      "titel": "Herkomst per blik",
+      "waarom": "Op elk blik staan de streek en de partner, zoals Kandy in Sri Lanka en Peter Szabó in Hongarije; dat laat zien waarom single origin anders smaakt."
+    },
+    {
+      "node": "792:27",
+      "titel": "Reviews over de geur",
+      "waarom": "Jullie 4.77 uit 423 reviews gaan vaak over de geur bij het openen; echte klantzinnen maken dat geloofwaardig."
+    },
+    {
+      "node": "792:62",
+      "titel": "Kaneel van dichtbij",
+      "waarom": "Een close-up van Wild Ceylon kaneel met prijs en kenmerken laat het product spreken, zonder korting."
+    },
+    {
+      "node": "793:18",
+      "titel": "Gezicht achter de peper",
+      "waarom": "Jullie eigen foto van de peperboer en de zin dat boeren jullie gelijken zijn, maken eerlijke handel concreet."
+    },
+    {
+      "node": "793:32",
+      "titel": "Drie speculaasrecepten",
+      "waarom": "De recepten staan al op jullie blog en passen bij dit seizoen; zo wordt een advertentie een reden om te gaan koken."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "794:69",
+    "onderwerp": "Welkom bij de Spice Club",
+    "kop": "Een nieuwsbrief die voelt als The Good Spice.",
+    "tekst": "Een welkomstmail voor nieuwe Spice Club-leden met de 10% korting die jullie site belooft, het verhaal achter single origin en een eerste product om mee te beginnen.",
+    "punten": [
+      "10% welkomstkorting uit jullie eigen aanmelding",
+      "Merkverhaal en de drie beloftes van de homepage",
+      "Island Black Pepper met herkomst en prijs"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
