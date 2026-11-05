@@ -1,0 +1,50 @@
+{
+  "slug": "daringdutch-3jwam",
+  "merk": "Daring Dutch Designers",
+  "domein": "daringdutchdesigners.com",
+  "lead_id": "2026-11-05-daringdutchdesigners.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#BB7D3F",
+  "kop": "Jullie posters, vijf keer anders aan de muur",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "722:3",
+      "titel": "Eén ganzentrek, vijf kleuren",
+      "waarom": "The Geese Migration bestaat in sepia, taupe, blauw, mosterdgeel en petrol; naast elkaar kiest iemand meteen de kleur die bij de eigen muur past."
+    },
+    {
+      "node": "722:25",
+      "titel": "Van dichtbij",
+      "waarom": "Jullie detailfoto laat de linnen-look zien, met wat de site zelf noemt: 200 gram mat papier, inkt op waterbasis en pas gedrukt na de bestelling."
+    },
+    {
+      "node": "722:52",
+      "titel": "Welk formaat past?",
+      "waarom": "Vijf formaten met en zonder houten lijst en de echte prijzen in één overzicht, zodat de vraag over maat en prijs al beantwoord is."
+    },
+    {
+      "node": "722:84",
+      "titel": "Carlien en Roland",
+      "waarom": "Jullie verhaal, van de reis door Peru, Duitsland, Frankrijk en Nieuw-Zeeland tot de studio op wielen, maakt van een poster iets persoonlijks."
+    },
+    {
+      "node": "722:98",
+      "titel": "Je lege muur belt",
+      "waarom": "Een speels belscherm met de blauwe ganzentrek valt op tussen andere posts en sluit aan bij jullie eigen toon: 'Brighten my wall'."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "725:2",
+    "onderwerp": "De ganzentrek, nu in vijf kleuren",
+    "kop": "Een nieuwsbrief die voelt als Daring Dutch Designers.",
+    "tekst": "De bestseller in vijf kleuren, jullie eigen verhaal en hoe een poster gemaakt wordt, met de panorama van de Japanse Alpen als afsluiter.",
+    "punten": [
+      "De Geese Migration met vier details over papier, inkt en lijst",
+      "Het verhaal van Carlien en Roland in een korte kaart",
+      "Het panorama van het Akaishigebergte als tweede idee"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
