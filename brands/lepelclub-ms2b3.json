@@ -1,0 +1,50 @@
+{
+  "slug": "lepelclub-ms2b3",
+  "merk": "Lepelclub",
+  "domein": "lepelclub.com",
+  "lead_id": "2026-11-04-lepelclub.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#7E1F27",
+  "kop": "Tafelgoed met parels, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "838:3",
+      "titel": "Lepelclub als tijdschrift",
+      "waarom": "Jullie eigen foto met de Lip Spoons wordt een cover, met de 4,8 uit 133 reviews en de bladen waarin jullie stonden als coverregels."
+    },
+    {
+      "node": "838:15",
+      "titel": "Wat zit er in de set",
+      "waarom": "De Pearl Cake Knife & Server van €40 per onderdeel uitgelegd, met de gravering die jullie al aanbieden."
+    },
+    {
+      "node": "838:36",
+      "titel": "Een cadeau per gelegenheid",
+      "waarom": "De vier bundels met hun echte prijzen naast elkaar, zodat iemand die een cadeau zoekt meteen ziet wat bij het moment past."
+    },
+    {
+      "node": "839:7",
+      "titel": "De opener van dichtbij",
+      "waarom": "Jullie sfeerfoto van de Pearl Opener met korte labels, want de Pearl Collection is jullie bestseller."
+    },
+    {
+      "node": "839:30",
+      "titel": "Lepeltje of rietje",
+      "waarom": "Lip Spoons en Lip Straws kosten allebei €25 voor vier stuks; een keuzevraag maakt het makkelijk om er een te kiezen."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "840:2",
+    "onderwerp": "Cadeaus voor aan tafel",
+    "kop": "Een nieuwsbrief die voelt als Lepelclub.",
+    "tekst": "Een cadeaumail voor de feestdagen, met het verhaal van Jill, de Pearl Opener en de Housewarming Bundle.",
+    "punten": [
+      "Opent met jullie eigen foto en hoe Lepelclub begon",
+      "De Pearl Opener met korte labels",
+      "De Housewarming Bundle van €80 voor €65"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
