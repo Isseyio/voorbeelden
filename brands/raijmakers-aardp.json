@@ -1,0 +1,50 @@
+{
+  "slug": "raijmakers-aardp",
+  "merk": "Raijmakers Heetmakers",
+  "domein": "raijmakersheetmakers.com",
+  "lead_id": "2026-11-05-raijmakersheetmakers.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B5652A",
+  "kop": "Vier hot sauces en een hot honey, met de smaak voorop",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "972:3",
+      "titel": "Pit in één woord",
+      "waarom": "Eén groot woord en een zoekbalk met de titel die de Heat Enhancer won, met alle vier de flessen en hun pittigheid naast elkaar."
+    },
+    {
+      "node": "972:46",
+      "titel": "Elke dag een andere saus",
+      "waarom": "Laat per dag zien waar een saus bij past, met de gerechten die jullie zelf op de productpagina's noemen."
+    },
+    {
+      "node": "972:84",
+      "titel": "Hoe heet wil je het?",
+      "waarom": "De pittigheidsgraad van 2 tot 5 van jullie site als ladder, zodat iemand snel zijn saus kiest."
+    },
+    {
+      "node": "972:151",
+      "titel": "Beste Hot Sauce 2024",
+      "waarom": "De Heat Enhancer won Beste Hot Sauce van Nederland 2024 en de German Chili Award 2019; als tijdschriftcover springt dat eruit."
+    },
+    {
+      "node": "972:165",
+      "titel": "Drie manieren met Sweet Sting",
+      "waarom": "Pizza, gefrituurde kip en kaas komen uit jullie eigen omschrijving van de hot honey, met de echte prijs."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "972:186",
+    "onderwerp": "Een cadeau met pit",
+    "kop": "Een nieuwsbrief die voelt als Raijmakers Heetmakers.",
+    "tekst": "Een cadeaumail rond de Giftpack + Hot Honey, met jullie verhaal van twee broers en de vier sauzen los erbij.",
+    "punten": [
+      "De Giftpack + Hot Honey voor €45,00 als hoofdproduct",
+      "Jullie verhaal: sinds 2018, eerst smaak en dan de hitte",
+      "Alle vier de sauzen met pittigheid en prijs"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
