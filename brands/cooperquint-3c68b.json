@@ -1,0 +1,50 @@
+{
+  "slug": "cooperquint-3c68b",
+  "merk": "Cooper & Quint",
+  "domein": "cooperandquint.com",
+  "lead_id": "2026-11-05-cooperandquint.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#26392C",
+  "kop": "Hondenspullen uit Weesp, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "718:3",
+      "titel": "Waar The Rope Set van is",
+      "waarom": "De set laat in één beeld zien wat erin zit: robuust katoenen touw in zes kleuren, een halsband van Italiaans plantaardig gelooid leer en materialen van Europese bodem."
+    },
+    {
+      "node": "718:23",
+      "titel": "Speelgoed van leer",
+      "waarom": "Eén groot woord en drie dieren van €15 werken als snelle stopper in de feed en tonen dat er meer is dan tuigen en riemen."
+    },
+    {
+      "node": "719:2",
+      "titel": "Een tuig op maat",
+      "waarom": "Het bonnetje maakt de meetafspraak van ongeveer 30 minuten in de werkplaats in Weesp concreet: €25, daarna een Y-tuig op maat."
+    },
+    {
+      "node": "719:26",
+      "titel": "Kiezen uit zeven kleuren",
+      "waarom": "Een herkenbaar chatgesprek over welke kleur het wordt, rond de Leather Loop in zeven kleuren met een handvat van leer, gemaakt in Weesp."
+    },
+    {
+      "node": "719:46",
+      "titel": "Het puppy startpakket",
+      "waarom": "Halsband, riem en poepzakhouder samen voor €80 in plaats van €100 is een duidelijk aanbod voor nieuwe puppy-eigenaren."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "720:3",
+    "onderwerp": "Klaar voor elk avontuur",
+    "kop": "Een nieuwsbrief die voelt als Cooper & Quint.",
+    "tekst": "Een mail die het verhaal van Judith en Jacobien vertelt en daarna laat zien wat er in de werkplaats in Weesp wordt gemaakt.",
+    "punten": [
+      "Het verhaal van twee zussen en Pelle, de Friese Stabij",
+      "De Leather Loop uitgelegd met korte labels",
+      "De meetafspraak in Weesp als afsluiter"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
