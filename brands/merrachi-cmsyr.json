@@ -1,0 +1,50 @@
+{
+  "slug": "merrachi-cmsyr",
+  "merk": "Merrachi",
+  "domein": "merrachi.com",
+  "lead_id": "2026-11-03-merrachi.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1A1A1A",
+  "kop": "Jullie sjaals, tassen en winkels in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "994:3",
+      "titel": "Gratis verzending vanaf €100",
+      "waarom": "Het aanbod dat jullie al gebruiken, maar dan groot boven een modelfoto met het woordmerk eronder, zodat de sjaal en het merk meteen herkenbaar zijn."
+    },
+    {
+      "node": "994:13",
+      "titel": "Jouw stijl, jouw regels",
+      "waarom": "Een typografische advertentie die aansluit bij jullie eigen zin over vrouwen die het op hun eigen voorwaarden doen, met de Breathable Jersey Scarf van €39."
+    },
+    {
+      "node": "994:25",
+      "titel": "Twee tassen voor elke dag",
+      "waarom": "De City Girl Bag en de Coffee Cup Tote kosten allebei €24 en zijn een makkelijke extra naast een sjaal."
+    },
+    {
+      "node": "994:41",
+      "titel": "Welke kleur wordt het?",
+      "waarom": "Vier sjaals naast elkaar op jullie eigen flatshots, met kleurnaam en prijs, zodat kiezen de advertentie zelf wordt."
+    },
+    {
+      "node": "994:58",
+      "titel": "Kom langs",
+      "waarom": "Jullie hebben winkels aan het Koningsplein in Amsterdam en in Antwerpen, waar ook het MERRACHI Café zit. Dat is iets wat een webshop alleen niet kan laten zien."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "994:70",
+    "onderwerp": "Welkom bij MERRACHI",
+    "kop": "Een nieuwsbrief die voelt als Merrachi.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: het verhaal van Nada Merrachi sinds 2020, de Breathable Jersey Scarf uitgelicht en een uitnodiging voor de winkels in Amsterdam en Antwerpen.",
+    "punten": [
+      "Opgebouwd met jullie eigen foto's en woordmerk",
+      "Labels bij de sjaal met kleur, prijs en andere kleuren",
+      "Afsluiting met de winkels en het café"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
