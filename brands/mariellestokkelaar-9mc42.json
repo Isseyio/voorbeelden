@@ -1,0 +1,50 @@
+{
+  "slug": "mariellestokkelaar-9mc42",
+  "merk": "Marielle Stokkelaar",
+  "domein": "mariellestokkelaar.com",
+  "lead_id": "2026-11-04-mariellestokkelaar.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6B1E2B",
+  "kop": "Vijf ideeën rond jullie prints, capes en één maat.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "969:19",
+      "titel": "Pre-Black Friday",
+      "waarom": "Jullie eigen actie, 25% korting bij twee of meer stuks met code BLACK25, groot in beeld boven een close-up van de Cape Chiara."
+    },
+    {
+      "node": "969:33",
+      "titel": "Eén rok, twee kleuren",
+      "waarom": "De Skirt Fernanda Embroidery in Black en Dark Red naast elkaar, zodat de vraag niet meer is of je hem koopt maar welke kleur."
+    },
+    {
+      "node": "969:106",
+      "titel": "Ontworpen door Marielle",
+      "waarom": "Haar jaren bij Escada en Cerutti staan op jullie eigen Our Story-pagina en geven elk stuk een herkenbaar verhaal."
+    },
+    {
+      "node": "969:117",
+      "titel": "Eén maat",
+      "waarom": "One size, perfect fit uitgelegd met de maattabel van de Cape Coat Ornella: past EU 34 tot 42, met een lengte van 105 cm."
+    },
+    {
+      "node": "969:164",
+      "titel": "Zes eigen prints",
+      "waarom": "Zes prints naast elkaar maken jullie belofte dat je deze prints nergens anders ziet in één beeld zichtbaar."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "970:269",
+    "onderwerp": "Klaar voor je winterplannen",
+    "kop": "Een nieuwsbrief die voelt als Marielle Stokkelaar.",
+    "tekst": "Een wintermail met nieuwe stukken, het verhaal van Marielle en jullie actie voor twee of meer stuks.",
+    "punten": [
+      "Merkverhaal met feiten van jullie eigen Our Story-pagina",
+      "Cape Coat Ornella met de kenmerken van de productpagina",
+      "Dress Juliette in drie kleuren en een afsluiting met BLACK25"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
