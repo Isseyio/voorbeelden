@@ -1,0 +1,50 @@
+{
+  "slug": "zens-ub5pc",
+  "merk": "Zens",
+  "domein": "zens.tech",
+  "lead_id": "2026-11-05-zens.tech",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#171717",
+  "kop": "Vijf ideeën rond de Zens x Thule kits.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "876:3",
+      "titel": "Kit 1 of Kit 2",
+      "waarom": "Twee kits naast elkaar met prijs en inhoud maken de keuze tussen de oprolbare 65W-adapter en de Powerbank Pro 1 in één oogopslag duidelijk."
+    },
+    {
+      "node": "876:21",
+      "titel": "Eén kabel, drie apparaten",
+      "waarom": "Een korte vergelijking met losse laders laat zien wat Kit 4 oplost: één kabel, stekkers voor EU, UK en US en alles in de PowerShuttle."
+    },
+    {
+      "node": "876:44",
+      "titel": "Wat zit er in Kit 4",
+      "waarom": "Kit 4 kost €179,99; door de onderdelen één voor één te laten zien, wordt die prijs begrijpelijk."
+    },
+    {
+      "node": "876:62",
+      "titel": "Sinds 2011 uit Eindhoven",
+      "waarom": "Jullie eigen tijdlijn, van een van de eerste Qi-laders tot laders in de winkels van Apple, geeft vertrouwen zonder dat er een korting nodig is."
+    },
+    {
+      "node": "876:83",
+      "titel": "Laad alles onderweg",
+      "waarom": "Een grote typografische kop met jullie productfoto's tussen de woorden valt op in de feed en eindigt bij de collectie vanaf €79,99."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "877:2",
+    "onderwerp": "Vier kits voor onderweg",
+    "kop": "Een nieuwsbrief die voelt als Zens.",
+    "tekst": "Een assortimentsmail rond de vier Zens x Thule kits, in jullie eigen grijs en zwart, met het verhaal van Zens uit Eindhoven en een uitleg van wat er in Kit 4 zit.",
+    "punten": [
+      "De vier kits naast elkaar met prijs en inhoud",
+      "Kit 4 met labels bij elk onderdeel",
+      "Past bij de €5-aanmelding in jullie footer"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
