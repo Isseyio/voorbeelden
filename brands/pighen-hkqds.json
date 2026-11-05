@@ -1,0 +1,50 @@
+{
+  "slug": "pighen-hkqds",
+  "merk": "Pig & Hen",
+  "domein": "pighen.com",
+  "lead_id": "2026-11-05-pighen.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1C223C",
+  "kop": "Touwarmbanden uit Amsterdam-Noord, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "886:130",
+      "titel": "Om je pols",
+      "waarom": "Een echte polsfoto met drie korte feiten van de site: echt scheepstouw, handgemaakt in Amsterdam en sinds 2013."
+    },
+    {
+      "node": "886:145",
+      "titel": "Eén groot woord",
+      "waarom": "Eén woord en een zoekbalk maken meteen duidelijk waar Pig & Hen om draait, met drie armbanden als bewijs."
+    },
+    {
+      "node": "886:158",
+      "titel": "Van rol touw tot armband",
+      "waarom": "Het verhaal van jullie eigen blog in drie stappen: geweven in Portugal, afgewerkt in het atelier aan het IJ, om je pols."
+    },
+    {
+      "node": "886:178",
+      "titel": "Drie stuks in één set",
+      "waarom": "De set Lobster Larry, Navarch 6mm en Boxchain met de echte setprijs van €169,90 naast €219,85, zodat het voordeel in één blik zichtbaar is."
+    },
+    {
+      "node": "886:200",
+      "titel": "Black of navy",
+      "waarom": "Een keuzevraag zoals in een story: dezelfde set in twee kleuren nodigt uit om te reageren en te kiezen."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "886:219",
+    "onderwerp": "Welkom aan boord, hier is je €5",
+    "kop": "Een nieuwsbrief die voelt als Pig & Hen.",
+    "tekst": "Een welkomstmail rond de €5 coupon die jullie al bij de nieuwsbriefinschrijving beloven, met het verhaal van het atelier en een uitgelichte set.",
+    "punten": [
+      "Opent met de €5 welkomstcoupon van jullie eigen aanmelding",
+      "Het verhaal van Dominic Bakker, het touw uit Portugal en het atelier in Amsterdam-Noord",
+      "Een uitgelichte set met de echte setprijs"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
