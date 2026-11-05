@@ -1,0 +1,50 @@
+{
+  "slug": "fuente-852hn",
+  "merk": "Fuente",
+  "domein": "fuente.nl",
+  "lead_id": "2026-11-04-fuente.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4B423C",
+  "kop": "Haarverzorging uit 's-Hertogenbosch in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "919:3",
+      "titel": "Twee favorieten, gratis verzonden",
+      "waarom": "Shaping Gum en Powerful Hairspray komen samen op € 52,90, net boven jullie grens van € 50 voor gratis verzending; een kassabon maakt dat in één blik duidelijk."
+    },
+    {
+      "node": "919:115",
+      "titel": "Rust voor je hoofdhuid",
+      "waarom": "De Herbal Shampoo is volgens jullie productpagina toepasbaar bij een onrustige, vette en geïrriteerde hoofdhuid; munt, brandnetel en arnica uit de ingrediëntenlijst maken dat concreet."
+    },
+    {
+      "node": "919:396",
+      "titel": "Duurzaam sinds 1993",
+      "waarom": "Jullie waren het eerste professionele haarverzorgingsmerk met een refill bar en werken sinds 1993 vegan en organisch; dat verhaal kan alleen Fuente vertellen."
+    },
+    {
+      "node": "919:416",
+      "titel": "Drie sets naast elkaar",
+      "waarom": "De Protein, Moisture en Pure Set bevatten elk shampoo, conditioner en masker; naast elkaar met prijs is kiezen makkelijk."
+    },
+    {
+      "node": "919:441",
+      "titel": "Wat klanten het hoogst waarderen",
+      "waarom": "Shaping Gum (4,9 uit 62), Herbal Shampoo (4,9 uit 52) en twee producten met een 5,0 laten zien wat jullie klanten zelf al zeggen."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "920:2",
+    "onderwerp": "Dutch wellness, sinds 1993",
+    "kop": "Een nieuwsbrief die voelt als Fuente.",
+    "tekst": "Een merkverhaal-mail: duurzaam sinds 1993 en de eerste refill bar, de Herbal Shampoo met vier labels, en de sets als afsluiting.",
+    "punten": [
+      "Jullie eigen verhaal: vegan, organisch en gerecyclede verpakking",
+      "De Herbal Shampoo met munt, brandnetel en arnica",
+      "De Protein Set als volgende stap, met de andere sets erbij"
+    ]
+  },
+  "ai_sfeer": true,
+  "gemaakt": "2026-11-05"
+}
