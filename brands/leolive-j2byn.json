@@ -1,0 +1,50 @@
+{
+  "slug": "leolive-j2byn",
+  "merk": "Le Olive",
+  "domein": "le-olive.com",
+  "lead_id": "2026-11-04-le-olive.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B07A72",
+  "kop": "Vijf advertenties voor badjassen met een naam erop.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "893:121",
+      "titel": "Zacht geborduurd",
+      "waarom": "Een close-up van jullie eigen borduursel laat zien waar het om draait, met labels voor naam of initialen, voor- of achterkant en jullie eigen atelier."
+    },
+    {
+      "node": "893:146",
+      "titel": "Welke kleur wordt het?",
+      "waarom": "Rose Latte en Cappuccino naast elkaar maken de keuze makkelijk, met prijs, maten en verzending binnen 2 werkdagen eronder."
+    },
+    {
+      "node": "893:167",
+      "titel": "Je badjas weet hoe je heet",
+      "waarom": "Een speelse POV-kop bij jullie foto met een naam op de rug, zodat het borduursel meteen opvalt in de feed."
+    },
+    {
+      "node": "893:251",
+      "titel": "Alles met jouw naam",
+      "waarom": "Badjas, pantoffels, make-up pouch en knuffeldoekje met hun echte prijzen in één raster, handig voor wie een cadeau zoekt."
+    },
+    {
+      "node": "893:270",
+      "titel": "Waar komt jouw naam?",
+      "waarom": "Jullie eigen borduuropties met prijs (voorkant €9,95, achterkant €19,95, beide €29,90) maken het kiezen concreet."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "893:358",
+    "onderwerp": "Een cadeau met een naam erop",
+    "kop": "Een nieuwsbrief die voelt als Le Olive.",
+    "tekst": "Een cadeaumail voor de feestdagen: Badjas Rose Latte uitgelicht met de borduuropties, de set compleet met pantoffels, pouch en knuffeldoekje, en de cadeauverpakking als afsluiting.",
+    "punten": [
+      "Opent met jullie eigen foto van de Cappuccino-badjas",
+      "Het verhaal van Maison Le Olive en jullie eigen atelier",
+      "Cadeauverpakking en verzending op dezelfde dag als reden om nu te bestellen"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
