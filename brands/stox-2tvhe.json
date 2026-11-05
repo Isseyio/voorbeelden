@@ -1,0 +1,50 @@
+{
+  "slug": "stox-2tvhe",
+  "merk": "STOX Energy",
+  "domein": "stoxenergy.com",
+  "lead_id": "2026-11-03-stoxenergy.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E4202E",
+  "kop": "De skisokken van STOX, klaar voor het seizoen.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "988:22",
+      "titel": "Voel het verschil",
+      "waarom": "Handen die de Ultralight-sok over de kuit trekken, met de kenmerken eromheen: Dryarn®, degressieve compressie en gebreid in Italië."
+    },
+    {
+      "node": "988:44",
+      "titel": "Koude voeten? Merino.",
+      "waarom": "Eén duidelijk probleem op de piste met de Merino Skiing Socks als antwoord, en drie kenmerken die jullie zelf noemen."
+    },
+    {
+      "node": "988:66",
+      "titel": "Gewone skisok of STOX",
+      "waarom": "Een eenvoudige vergelijking laat in één oogopslag zien wat compressie, merinowol en de geld-terug-garantie van 30 dagen toevoegen."
+    },
+    {
+      "node": "988:97",
+      "titel": "4,5 uit 5",
+      "waarom": "Met ruim 18.000 reviews op Trustpilot hebben jullie veel echt bewijs. Drie korte klantcitaten maken dat concreet."
+    },
+    {
+      "node": "988:120",
+      "titel": "Kies je kleur",
+      "waarom": "De Merino Skiing Socks in vijf kleuren naast elkaar nodigt uit om te kiezen in plaats van te twijfelen."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "989:2",
+    "onderwerp": "Klaar voor de piste: de nieuwe skisokken",
+    "kop": "Een nieuwsbrief die voelt als STOX.",
+    "tekst": "Een seizoensmail rond de skisokken, met jullie verhaal, de Ultralight uitgelicht en een vergelijking tussen Merino en Ultralight.",
+    "punten": [
+      "Sfeerfoto van de piste met de nieuwe skisokken",
+      "De Ultralight met de details die je op de foto ziet",
+      "Merino en Ultralight naast elkaar, zodat kiezen makkelijk is"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
