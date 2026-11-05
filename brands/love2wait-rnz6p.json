@@ -1,0 +1,50 @@
+{
+  "slug": "love2wait-rnz6p",
+  "merk": "Love2Wait",
+  "domein": "love2wait.com",
+  "lead_id": "2026-11-05-love2wait.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#22467A",
+  "kop": "Zwangerschapsmode van Love2Wait, in vijf advertenties en een nieuwsbrief.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "880:3",
+      "titel": "Eén top, één prijs",
+      "waarom": "Een sterke modelfoto met de Spencer en zijn echte prijs van €39,99 maakt in één oogopslag duidelijk wat je koopt."
+    },
+    {
+      "node": "880:26",
+      "titel": "Welke fit past bij jou?",
+      "waarom": "Jullie eigen vraag van de homepage, met vier pasvormen en prijzen naast elkaar, helpt twijfelaars kiezen."
+    },
+    {
+      "node": "880:59",
+      "titel": "Een eigen magazinecover",
+      "waarom": "De Xam Broek op de marmeren trap voelt als een cover, met 'sinds 2010' en jullie motto over jeans."
+    },
+    {
+      "node": "880:84",
+      "titel": "De riem van dichtbij",
+      "waarom": "Een detailfoto met labels laat zien hoe de Belt Wrap werkt: breed, lange uiteinden en voor gestrikt."
+    },
+    {
+      "node": "880:122",
+      "titel": "Een outfit als bonnetje",
+      "waarom": "Drie items samen voor €84,97 laat zien dat je boven de gratis verzendgrens van €60 uitkomt."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "882:2",
+    "onderwerp": "Denim days, done right",
+    "kop": "Een nieuwsbrief die voelt als Love2Wait.",
+    "tekst": "Een denimmail rond de Jill 34, met het verhaal sinds 2010 en de Xam Broek als afsluiter.",
+    "punten": [
+      "Hero met jullie eigen straatfoto en de aankondigingsbalk van de site",
+      "De Jill 34 met vier labels uit de productpagina",
+      "Afsluiting in jullie blauw met 'Colours for every moment'"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
