@@ -1,0 +1,50 @@
+{
+  "slug": "kynett-uqazj",
+  "merk": "Kynett",
+  "domein": "kynett.com",
+  "lead_id": "2026-11-05-kynett.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#FEC900",
+  "kop": "Vliegwieltraining uit Lochem, in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "703:3",
+      "titel": "Black Friday op de HOME",
+      "waarom": "Jullie enige uitverkoop van het jaar loopt tot 30 november; de HOME voor €381 in plaats van €449 staat hier groot bovenaan, met jullie logo over een eigen trainingsfoto."
+    },
+    {
+      "node": "703:22",
+      "titel": "Alles in de doos",
+      "waarom": "Laat in één beeld zien wat er bij de HOME zit: het vliegwiel tot 50 kg, de beugelset voor rek, paal of boom en het tricepskoord, op een apparaat van 4,9 kg."
+    },
+    {
+      "node": "703:47",
+      "titel": "Zo werkt het",
+      "waarom": "Vliegwieltraining is voor veel mensen nieuw; jullie eigen uitleg in drie stappen (trekken, energie opslaan, afremmen) maakt het principe in een paar seconden duidelijk."
+    },
+    {
+      "node": "704:2",
+      "titel": "Welke past bij jou",
+      "waarom": "Vier vliegwielen voor thuis, de personal trainer, de fysiopraktijk en zonder muur: de keuzehulp van jullie site als advertentie, met de Black Friday-prijzen erbij."
+    },
+    {
+      "node": "704:41",
+      "titel": "Wat eigenaren zeggen",
+      "waarom": "De HOME heeft een 4,8 uit 104 beoordelingen; drie echte reviews van jullie productpagina geven twijfelaars bij een aankoop van een paar honderd euro houvast."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "704:89",
+    "onderwerp": "Drie oefeningen voor je vliegwiel",
+    "kop": "Een nieuwsbrief die voelt als Kynett.",
+    "tekst": "Jullie nieuwsbriefblok belooft oefeningen, tips en nieuws. Deze mail doet precies dat: drie oefeningen om mee te beginnen, het verhaal uit Lochem en de 30 dagen bedenktijd als afsluiting.",
+    "punten": [
+      "Drie oefeningen als vaste rubriek",
+      "Merkverhaal: sinds 2018 met fysiotherapeuten ontwikkeld",
+      "Afsluiting met 30 dagen bedenktijd en 2 jaar garantie"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
