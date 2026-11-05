@@ -1,0 +1,50 @@
+{
+  "slug": "bron-j3v2c",
+  "merk": "Bron Jewelry",
+  "domein": "bronjewelry.com",
+  "lead_id": "2026-11-04-bronjewelry.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B57A66",
+  "kop": "Families, stenen en het atelier in Schoonhoven",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "896:2",
+      "titel": "Kleur die je draagt",
+      "waarom": "De gekleurde stenen zijn het herkenbaarste aan Bron; deze opbouw zet drie families in één kop naast elkaar."
+    },
+    {
+      "node": "896:19",
+      "titel": "Niet voor één seizoen",
+      "waarom": "Bij sieraden van een paar duizend euro helpt het om te laten zien waarom ze blijven: gerecycled 18 karaat goud, met de hand gekozen stenen en gemaakt in Schoonhoven."
+    },
+    {
+      "node": "896:35",
+      "titel": "Zes families",
+      "waarom": "Jullie noemen de collecties zelf families; een raster met zes families en echte prijzen laat in één beeld de breedte zien."
+    },
+    {
+      "node": "897:2",
+      "titel": "Welke steen past bij jou",
+      "waarom": "Elke steen wordt met de hand gekozen; een korte steengids helpt kiezen tussen maansteen, aquamarijn, spinel en topaas."
+    },
+    {
+      "node": "897:24",
+      "titel": "Liever eerst passen",
+      "waarom": "De huidige advertenties gaan over de boutiques; deze versie koppelt een concreet sieraad aan een afspraak in Naarden Vesting of Rotterdam."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "899:2",
+    "onderwerp": "Al meer dan 100 jaar uit Schoonhoven",
+    "kop": "Een nieuwsbrief die voelt als Bron.",
+    "tekst": "Het familieverhaal van opa Bron, Heleen en Hans, één sieraad uitgelicht met wat erin zit, en een uitnodiging voor de boutique.",
+    "punten": [
+      "Merkverhaal uit jullie eigen About-pagina",
+      "De Sushi oorbellen met vier labels",
+      "Afsluiting met een afspraak in Naarden of Rotterdam"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
