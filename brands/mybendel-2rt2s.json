@@ -1,0 +1,50 @@
+{
+  "slug": "mybendel-2rt2s",
+  "merk": "My Bendel",
+  "domein": "mybendel.com",
+  "lead_id": "2026-11-03-mybendel.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C83E4B",
+  "kop": "Vijf ideeën rond jullie edelstenen en bedels.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "976:397",
+      "titel": "Schitter met moissaniet",
+      "waarom": "Jullie homepage zet de Zirconia Collection voorop, en de 0,6 micron goudlaag op 316L stainless steel uit jullie FAQ geeft mensen een concrete reden om voor kwaliteit te kiezen."
+    },
+    {
+      "node": "976:427",
+      "titel": "Stel je armband samen",
+      "waarom": "Met de losse bedels van Meaningful Moments maakt iemand een eigen armband, en dat persoonlijke gevoel is precies wat zo'n set aantrekkelijk maakt."
+    },
+    {
+      "node": "977:63",
+      "titel": "Cadeau voor pakjesavond",
+      "waarom": "Jullie roze verpakking en 'vandaag verzonden = morgen geleverd' passen goed bij de cadeauweken rond Sinterklaas en kerst."
+    },
+    {
+      "node": "977:79",
+      "titel": "Welke steen draag jij?",
+      "waarom": "Jullie werken met echte natuurlijke edelstenen in verschillende kleuren, en een keuzevraag nodigt uit om te reageren en verder te kijken."
+    },
+    {
+      "node": "977:111",
+      "titel": "Shop the look in groen",
+      "waarom": "Shop the look staat al op jullie homepage; deze advertentie laat zien hoe ringen met Green Agate samen gedragen worden."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "979:2",
+    "onderwerp": "Van Yvette: sieraden die je elke dag draagt",
+    "kop": "Een nieuwsbrief die voelt als My Bendel.",
+    "tekst": "Een mail over het verhaal achter My Bendel, met Yvette als gezicht, een uitgelichte set met de materialen erbij en een blok voor jullie verkooppunten.",
+    "punten": [
+      "Het verhaal van Yvette, uit jullie eigen over-ons-pagina",
+      "De Bruine Armbandenset met Tiger Eye en Brown Agate uitgelicht",
+      "Een verwijzing naar de meer dan 190 verkooppunten in Nederland en België"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
