@@ -1,0 +1,50 @@
+{
+  "slug": "dailypaper-kezv8",
+  "merk": "Daily Paper",
+  "domein": "dailypaperclothing.com",
+  "lead_id": "2026-11-05-dailypaperclothing.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "FW26 in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "908:2",
+      "titel": "Twee kleuren, één puffer",
+      "waarom": "De Raglan Sleeve Dias Puffer bestaat in Carbon en Grasshopper; naast elkaar wordt de keuze het onderwerp van de advertentie."
+    },
+    {
+      "node": "908:20",
+      "titel": "Eén groot woord",
+      "waarom": "De Textured Shield Beanie kost €60 en is een laagdrempelig stuk uit FW26; een groot woord en een zoekbalk maken het direct herkenbaar."
+    },
+    {
+      "node": "908:35",
+      "titel": "De cover van FW26",
+      "waarom": "Jullie campagnebeelden zijn sterk genoeg voor een tijdschriftcover, met de puffer, de jeans en het merkverhaal als coverregels."
+    },
+    {
+      "node": "908:87",
+      "titel": "Shop de look",
+      "waarom": "Puffer, beanie en jeans komen uit dezelfde shoot; als look samen laten ze zien hoe de stukken bij elkaar horen, met de echte prijzen."
+    },
+    {
+      "node": "908:105",
+      "titel": "Sinds 2012",
+      "waarom": "Het verhaal van drie jeugdvrienden en een blog staat op jullie eigen over-ons-pagina en geeft de collectie een gezicht."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "909:2",
+    "onderwerp": "FW26 Holiday is live",
+    "kop": "Een nieuwsbrief die voelt als Daily Paper.",
+    "tekst": "Een dropmail voor FW26 Holiday: campagnebeeld bovenaan, het merkverhaal sinds 2012, de puffer uitgelicht en vier stukken uit de collectie.",
+    "punten": [
+      "Merkverhaal uit jullie eigen over-ons-pagina",
+      "Raglan Sleeve Dias Puffer met vier labels",
+      "Vier producten uit FW26 met de echte prijzen"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
