@@ -1,0 +1,50 @@
+{
+  "slug": "fresk-8fztw",
+  "merk": "Fresk",
+  "domein": "fresk.nl",
+  "lead_id": "2026-11-05-fresk.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#24345C",
+  "kop": "Regenpakken, rugzakken en schoolsets van Fresk in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "815:3",
+      "titel": "Regen? Lekker naar buiten",
+      "waarom": "Grote typografie met jullie eigen buitenfoto's laat in één oogopslag zien waar het Regenpak Shark voor is, met prijs en leeftijd erbij."
+    },
+    {
+      "node": "815:20",
+      "titel": "Elke schooldag mee",
+      "waarom": "Een weekstrip maakt van de Rugzak Shark iets voor elke dag: waterafstotend, plek voor een drinkfles en €39,95."
+    },
+    {
+      "node": "815:44",
+      "titel": "Wat zit er in een regenpak",
+      "waarom": "Ouders vergelijken regenpakken op details, dus de vijf kenmerken uit jullie eigen specificaties staan rond het Regenpak Mimosa."
+    },
+    {
+      "node": "816:2",
+      "titel": "De schoolset als bon",
+      "waarom": "Een bon maakt de Schoolset Summer fruit concreet: rugzak, thermosfles en lunchbox voor €85,00, met gratis verzending vanaf €75."
+    },
+    {
+      "node": "816:19",
+      "titel": "Uit Amsterdam, met Noorse wortels",
+      "waarom": "Jullie verhaal sinds 2013, broer en zus met Scandinavische eenvoud, geeft de prints een gezicht naast jullie eigen foto."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "817:2",
+    "onderwerp": "Welkom bij Fresk, fijn dat je er bent",
+    "kop": "Een nieuwsbrief die voelt als Fresk.",
+    "tekst": "Een welkomstmail voor wie zich via de footer aanmeldt: jullie verhaal, de Rugzak Shark met vier kenmerken en het Regenpak Shark voor de natte dagen.",
+    "punten": [
+      "Merkverhaal uit jullie eigen Over ons",
+      "Rugzak Shark met kenmerken van de productpagina",
+      "Afsluiting met het Regenpak Shark en een eigen sfeerfoto"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
