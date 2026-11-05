@@ -1,0 +1,50 @@
+{
+  "slug": "miniot-cgu3k",
+  "merk": "Miniot",
+  "domein": "miniot.com",
+  "lead_id": "2026-11-05-miniot.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2B1D14",
+  "kop": "Vijf manieren om Wheel te laten zien",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "708:3",
+      "titel": "Speelt van achteren",
+      "waarom": "Het opvallendste aan Wheel is dat de plaat vooraan staat en alle techniek erachter zit; dat in één zin laten zien maakt nieuwsgierig."
+    },
+    {
+      "node": "708:19",
+      "titel": "Wat erachter zit",
+      "waarom": "Audioliefhebbers willen weten wat ze kopen: de optische analoge naald, de lineaire toonarm en de direct drive komen zo van jullie productpagina."
+    },
+    {
+      "node": "708:38",
+      "titel": "De reviews",
+      "waarom": "The Verge, Techmoan en Bright.nl schreven al over Wheel; bij een aankoop van €3.400 helpt het als anderen het al gezegd hebben."
+    },
+    {
+      "node": "708:54",
+      "titel": "Tafel, standaard of muur",
+      "waarom": "Wheel werkt plat, rechtop en aan de muur, en een standaard en muuradapter zitten erbij; dat haalt een praktische twijfel weg."
+    },
+    {
+      "node": "708:81",
+      "titel": "Wood is back",
+      "waarom": "Wheel Classic met een frame van walnoot staat sinds oktober op de site; een nieuwe uitvoering is een concrete reden om nu te kijken."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "709:2",
+    "onderwerp": "Wood is back: meet Wheel Classic",
+    "kop": "Een nieuwsbrief die voelt als Miniot.",
+    "tekst": "Het verhaal uit Schagen, de techniek van Wheel 3 en de keuze tussen drie modellen in één rustige mail.",
+    "punten": [
+      "Het merkverhaal van Greet en Peter",
+      "Wheel 3, Wheel Classic en Black Edition naast elkaar",
+      "Een persquote met knoppen naar reviews en shop"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
