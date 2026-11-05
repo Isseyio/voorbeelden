@@ -1,0 +1,50 @@
+{
+  "slug": "cakeroom-2kukr",
+  "merk": "The Cake Room",
+  "domein": "thecakeroom.nl",
+  "lead_id": "2026-11-05-thecakeroom.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4A2238",
+  "kop": "Cupcakes en cakes uit Breda, in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "777:3",
+      "titel": "In één woord: heerlijk",
+      "waarom": "Jullie hebben echte ervaringen van gasten op de homepage; die laten meer zien dan een eigen claim, rond de Classic Red Velvet van €5,25."
+    },
+    {
+      "node": "777:23",
+      "titel": "Vintage cake op maat",
+      "waarom": "De vintage cakes hebben drie formaten, drie smaken en een eigen afwerking vanaf €49,50; callouts maken die keuzes in één beeld duidelijk."
+    },
+    {
+      "node": "777:51",
+      "titel": "Welke kies jij eerst?",
+      "waarom": "Zes cupcakes op dezelfde roze standaard met naam en prijs maken kiezen het leuke deel, met de staffelkorting eronder."
+    },
+    {
+      "node": "778:2",
+      "titel": "Hoe meer, hoe meer korting",
+      "waarom": "De staffelkorting tot 15% staat op de productpagina; een bon met 12 cupcakes voor €53,55 maakt het voordeel concreet."
+    },
+    {
+      "node": "778:23",
+      "titel": "Jullie logo op cupcakes",
+      "waarom": "De mini cupcakes met logo (24 stuks, €44,50) passen bij de eindejaarsperiode voor bedrijven, met jullie eigen boxkorting."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "778:59",
+    "onderwerp": "Welkom in de allerzoetste boetiek",
+    "kop": "Een nieuwsbrief die voelt als The Cake Room.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, met het verhaal van de boetiek, de Happy Birthday Box en een uitnodiging om langs te komen in de Veemarktstraat.",
+    "punten": [
+      "Merkverhaal uit jullie eigen over-ons-pagina: sinds 2011, eigen recepten, 19 medewerkers",
+      "Happy Birthday Box met vier labels",
+      "Afsluiting met openingstijden en de cakes om op te halen"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
