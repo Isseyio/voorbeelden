@@ -1,0 +1,50 @@
+{
+  "slug": "wildflower-uswjn",
+  "merk": "The Wildflower Club",
+  "domein": "thewildflowerclub.nl",
+  "lead_id": "2026-11-05-thewildflowerclub.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4A2E22",
+  "kop": "Vijf advertenties voor tall fashion vanaf 1.75 meter",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "757:3",
+      "titel": "Eindelijk lang genoeg",
+      "waarom": "Zegt in drie woorden waar het merk om draait, met jullie eigen modelfoto's in de kop en de Gigi jeans eronder."
+    },
+    {
+      "node": "757:17",
+      "titel": "Tall girls who get it",
+      "waarom": "Jullie 9,6 op 3000+ Kiyoh-beoordelingen is sterk bewijs en past bij een buitenfoto uit jullie eigen beeldbank."
+    },
+    {
+      "node": "757:34",
+      "titel": "Welke lengtemaat past?",
+      "waarom": "Lengtemaat kiezen is bij tall kleding de eerste vraag; deze advertentie beantwoordt die met jullie eigen maatadvies."
+    },
+    {
+      "node": "757:174",
+      "titel": "Een briefje van Kim en Jet",
+      "waarom": "Het verhaal van de eerste 200 pantalons die binnen twee weken uitverkocht waren, maakt het merk persoonlijk."
+    },
+    {
+      "node": "757:188",
+      "titel": "POV: lang genoeg",
+      "waarom": "Een herkenbaar moment voor lange vrouwen, in een vorm die op Instagram en TikTok vaak goed werkt."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "757:292",
+    "onderwerp": "De tall party edit staat online",
+    "kop": "Een nieuwsbrief die voelt als The Wildflower Club.",
+    "tekst": "Een nieuwsbrief rond de party collectie, met jullie verhaal, de Gigi jeans uitgelicht en vier populaire items.",
+    "punten": [
+      "Opent met de party collectie van jullie homepage",
+      "Gigi jeans met lengtemaat, pasvorm en stof als labels",
+      "Sluit af met een uitnodiging voor de winkel in Alkmaar"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
