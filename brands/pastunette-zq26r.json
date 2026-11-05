@@ -1,0 +1,50 @@
+{
+  "slug": "pastunette-zq26r",
+  "merk": "Pastunette",
+  "domein": "pastunette.com",
+  "lead_id": "2026-11-05-pastunette.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#242A55",
+  "kop": "Pastunette van de bank tot in bed",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "807:4",
+      "titel": "Kerst in dezelfde pyjama",
+      "waarom": "De Christmas Season pyjama uit de Family collectie past bij het cadeaumoment in december, met jullie eigen gezinsfoto."
+    },
+    {
+      "node": "807:5",
+      "titel": "Jouw avond in drie stappen",
+      "waarom": "Huispak, badjas en pyjama samen in één avond laten zien maakt duidelijk dat er meer bij past dan één stuk."
+    },
+    {
+      "node": "807:6",
+      "titel": "Je bed belt",
+      "waarom": "Een herkenbaar belscherm laat mensen stoppen met scrollen en zet de katoenen Pyjama Stone Blue van €59,99 centraal."
+    },
+    {
+      "node": "807:7",
+      "titel": "Kies je Stone Blue",
+      "waarom": "Nachthemd, pyjama en badjas uit dezelfde lijn naast elkaar, met hun echte prijzen van €49,99 tot €69,99."
+    },
+    {
+      "node": "807:8",
+      "titel": "De AW26 cover",
+      "waarom": "Een tijdschriftcover met jullie eigen foto, jullie slogan en meer dan 35 jaar familiebedrijf geeft de nieuwe collectie een eigen moment."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "807:9",
+    "onderwerp": "Comfort voor elk moment van de dag",
+    "kop": "Een nieuwsbrief die voelt als Pastunette.",
+    "tekst": "Een mail over de nieuwe AW26 collectie, met het verhaal van drie generaties familiebedrijf en de Pyjama Stone Blue uitgelicht.",
+    "punten": [
+      "Het familieverhaal van Fun, Monique en Kim",
+      "Pyjama Stone Blue met vier kenmerken",
+      "Een blok voor de herencollectie"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
