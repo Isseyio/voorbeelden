@@ -1,0 +1,50 @@
+{
+  "slug": "koekela-pmgxd",
+  "merk": "Koekela",
+  "domein": "koekela.nl",
+  "lead_id": "2026-11-05-koekela.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5A1A26",
+  "kop": "Taart, cookies en giftboxen van Koekela in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "852:3",
+      "titel": "Alles from scratch",
+      "waarom": "Jullie bakken sinds 2003 alles zelf; vier echte producten met hun prijs laten dat in één beeld zien."
+    },
+    {
+      "node": "852:30",
+      "titel": "Iets lekkers in de schoen",
+      "waarom": "Sinterklaas komt eraan en het Sintdoosje van €15,75 is op werkdagen de volgende dag bezorgd als je vóór 15:00 bestelt."
+    },
+    {
+      "node": "852:42",
+      "titel": "Taart aan de deur",
+      "waarom": "Jullie bezorgen 100% elektrisch in acht plaatsen rond Rotterdam en Den Haag, precies het gebied waar je lokaal op adverteert."
+    },
+    {
+      "node": "853:2",
+      "titel": "Zeven dagen open",
+      "waarom": "De bakkerij-cafés zijn elke dag open, dus ook op zondag kun je online bestellen en ophalen."
+    },
+    {
+      "node": "853:40",
+      "titel": "Geen kunstmatige kleurstoffen",
+      "waarom": "Jullie werken zonder kunstmatige geur- en kleurstoffen; de kleurige witte chocoladereep maakt dat zichtbaar."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "854:2",
+    "onderwerp": "Welkom bij Koekela",
+    "kop": "Een nieuwsbrief die voelt als Koekela.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: jullie verhaal sinds 2003, het zilveren assortimentsblik en de giftboxen voor Sint en Kerst.",
+    "punten": [
+      "Welkom met jullie eigen verhaal sinds 2003",
+      "Het Assortment Tin Silver uitgelicht",
+      "Sint- en Kerstgiftboxen om te delen"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
