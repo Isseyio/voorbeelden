@@ -1,0 +1,50 @@
+{
+  "slug": "bronx-rmvaq",
+  "merk": "BRONX",
+  "domein": "bronxshoes.com",
+  "lead_id": "2026-11-05-bronxshoes.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3A2418",
+  "kop": "De nieuwe herfstlaarzen, vijf keer anders verteld",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "711:3",
+      "titel": "Zelfde laars, twee kleuren",
+      "waarom": "De low-jadey bestaat in cognac en coffee bean; naast elkaar zie je in één oogopslag welke bij je past."
+    },
+    {
+      "node": "711:22",
+      "titel": "Escape the ordinary",
+      "waarom": "Jullie eigen slogan als grote kop, met de lill-y en wat de site belooft: voor 19:00 besteld, binnen 24 uur verzonden."
+    },
+    {
+      "node": "711:38",
+      "titel": "Kies je herfstlaars",
+      "waarom": "Vier laarzen uit Autumn Winter ’26 met naam en prijs, zodat je meteen ziet hoe breed de nieuwe collectie is."
+    },
+    {
+      "node": "711:60",
+      "titel": "Sinds 1886",
+      "waarom": "Weinig schoenmerken hebben zo'n lange geschiedenis; jullie eigen runwayfoto met dat jaartal geeft de collectie gewicht."
+    },
+    {
+      "node": "711:70",
+      "titel": "POV: al onderweg",
+      "waarom": "Een herkenbaar moment in de stijl van social media, met de low-jadey en de snelle verzending van jullie site."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "714:2",
+    "onderwerp": "Autumn Winter ’26 is in",
+    "kop": "Een nieuwsbrief die voelt als BRONX.",
+    "tekst": "De nieuwe collectie, het verhaal van BRONX en vier nieuwe laarzen met prijs en knop, in één mail.",
+    "punten": [
+      "De low-jadey uitgelicht met vier details",
+      "Vier nieuwe laarzen met prijs en knop",
+      "Spotted on the streets als afsluiter"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
