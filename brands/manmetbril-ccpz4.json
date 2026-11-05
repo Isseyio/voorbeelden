@@ -1,0 +1,50 @@
+{
+  "slug": "manmetbril-ccpz4",
+  "merk": "Man Met Bril Koffie",
+  "domein": "manmetbrilkoffie.com",
+  "lead_id": "2026-11-05-manmetbrilkoffie.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#F08DB5",
+  "kop": "Koffie uit Rotterdam, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "755:14",
+      "titel": "Kers, bosfruit en roos",
+      "waarom": "De smaaknoten en herkomst van Hermoso Cherry maken een specialty koffie concreet, met de prijs van €20 direct in de knop."
+    },
+    {
+      "node": "755:38",
+      "titel": "Zo zet je House Blend",
+      "waarom": "Jullie eigen recept voor espresso en filter als routinekaart, zodat kopers zien hoe makkelijk het thuis is."
+    },
+    {
+      "node": "755:72",
+      "titel": "Het koffiehotel",
+      "waarom": "Het koffiehotel met eigen branderij onder hetzelfde dak onderscheidt jullie; een sleutelhanger maakt dat in één beeld duidelijk."
+    },
+    {
+      "node": "755:86",
+      "titel": "Bonen, espresso of filter",
+      "waarom": "Jullie malen de koffie op verzoek; drie maalgraden naast elkaar nemen de vraag weg of de bonen wel passen bij iemands apparaat."
+    },
+    {
+      "node": "755:314",
+      "titel": "20% op je eerste bestelling",
+      "waarom": "Jullie bestaande nieuwsbriefaanbod groot in beeld, met gratis bezorging vanaf €30, als advertentie die nieuwe klanten binnenhaalt."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "755:341",
+    "onderwerp": "Vier koffies om te ontdekken",
+    "kop": "Een nieuwsbrief die voelt als Man Met Bril Koffie.",
+    "tekst": "Een overzichtsmail met House Blend uitgelicht, drie koffies uit de shop met smaaknoten en prijs, en jullie eigen zetrecept als afsluiting.",
+    "punten": [
+      "Het koffiehotel en de branderij als merkverhaal",
+      "House Blend met vier echte productdetails",
+      "Bitta Farm, Hermoso Cherry en Planadas Decaf"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
