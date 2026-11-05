@@ -1,0 +1,50 @@
+{
+  "slug": "layzin-uzcnh",
+  "merk": "LAYZIN",
+  "domein": "layzinskin.com",
+  "lead_id": "2026-11-02-layzinskin.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1C1C1C",
+  "kop": "Huidverzorging voor thuis, in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "937:3",
+      "titel": "Huidverbetering voor thuis",
+      "waarom": "Jullie eigen vraag van de over-ons-pagina, zonder botox en fillers, als zoekbalk boven de Skin Renewal Trio van €169,00."
+    },
+    {
+      "node": "937:20",
+      "titel": "Eén pompje per ochtend",
+      "waarom": "Jullie modelfoto met SERUM 01 en drie ingrediënten van de productpagina: hyaluronzuur, niacinamide en centella."
+    },
+    {
+      "node": "938:2",
+      "titel": "2+1 gratis collageen",
+      "waarom": "De 2+1-actie op het Beauty Collageen Complex met de echte prijzen: €39,95 per doos en drie dozen voor €79,90."
+    },
+    {
+      "node": "938:15",
+      "titel": "Een briefje van Sem",
+      "waarom": "Het verhaal van Sem en de familie achter LAYZIN, letterlijk van jullie homepage, als persoonlijk briefje."
+    },
+    {
+      "node": "940:2",
+      "titel": "Microneedling thuis?",
+      "waarom": "Drie vragen die mensen vooraf hebben, beantwoord met jullie eigen gebruiksadvies over de dermaroller en de serums."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "941:2",
+    "onderwerp": "Restart your skin, drie jaar in de maak",
+    "kop": "Een nieuwsbrief die voelt als LAYZIN.",
+    "tekst": "Een merkverhaalmail: jullie eigen 'Restart your skin', drie jaar onderzoek met een cosmetisch arts en een Nederlands laboratorium, SERUM 01 uitgelicht en de Perfect Pair als afsluiter.",
+    "punten": [
+      "Feiten uit jullie over-ons-pagina en de productpagina",
+      "SERUM 01 met vier labels over ingrediënten en prijs",
+      "Sluit af met de Perfect Pair van €79,95"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
