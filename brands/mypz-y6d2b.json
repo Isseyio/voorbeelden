@@ -1,0 +1,50 @@
+{
+  "slug": "mypz-y6d2b",
+  "merk": "MYPZ",
+  "domein": "mypz.nl",
+  "lead_id": "2026-11-04-mypz.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#FF3E8E",
+  "kop": "Breipakketten van MYPZ, in vijf advertenties en een nieuwsbrief",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "891:4",
+      "titel": "Breien voor de wintersport",
+      "waarom": "Jullie eigen foto in de sneeuw maakt van het Framboos-pakket nr. 12 (vanaf €129,43) een winterplan in plaats van een product."
+    },
+    {
+      "node": "891:5",
+      "titel": "Wat zit er in het pakket",
+      "waarom": "Garen per kleur, het gratis pdf-patroon en de optionele naalden laten in één beeld zien waarom een pakket makkelijker is dan los kopen."
+    },
+    {
+      "node": "891:6",
+      "titel": "Ontwerp je eigen kit",
+      "waarom": "Jullie drie stappen (kit, kleur A, B en C, binnen 1-3 werkdagen verzonden) zijn al een advertentie op zich, vanaf €53,85."
+    },
+    {
+      "node": "891:7",
+      "titel": "Het team erachter",
+      "waarom": "Marrinda, de wolverver en de breisters van jullie teampagina laten zien dat er echte makers achter elk pakket zitten."
+    },
+    {
+      "node": "891:8",
+      "titel": "Zonder ingewikkelde termen",
+      "waarom": "Jullie belofte dat patronen eenvoudig zijn uitgelegd, in 9 talen, haalt de drempel weg voor wie twijfelt of breien wel lukt."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "891:9",
+    "onderwerp": "Dit jaar brei je hem gewoon zelf",
+    "kop": "Een nieuwsbrief die voelt als MYPZ.",
+    "tekst": "Een wintermail met jullie eigen foto's: het verhaal van Marrinda en het team, het Framboos-pakket uitgelicht en Ontwerp je eigen kit als afsluiter.",
+    "punten": [
+      "Merkverhaal met feiten van jullie eigen site",
+      "Eén pakket uitgelicht met wat erin zit",
+      "Afsluiter met Ontwerp je eigen kit, vanaf €53,85"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
