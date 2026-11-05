@@ -1,0 +1,50 @@
+{
+  "slug": "bunnies-k6v3e",
+  "merk": "BunniesJR",
+  "domein": "bunnies.nl",
+  "lead_id": "2026-11-05-bunnies.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#00A48C",
+  "kop": "Vijf advertenties voor kleine voetjes, met jullie eigen schoenen.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "873:3",
+      "titel": "Oudroze of cognac",
+      "waarom": "Dezelfde Tara Trail in twee kleuren naast elkaar, zodat ouders meteen kiezen in plaats van verder te zoeken."
+    },
+    {
+      "node": "873:21",
+      "titel": "Warme voetjes",
+      "waarom": "De Tara Trail Cognac groot in beeld met suède, teddy voering en snowboot als drie korte kenmerken voor de winter."
+    },
+    {
+      "node": "873:41",
+      "titel": "Welke fase is jouw kleintje",
+      "waarom": "Jullie eigen loopfases van Baby tot Super stap als keuzehulp, met de Toby Trail bij Stap 3 tot 5 jaar."
+    },
+    {
+      "node": "873:71",
+      "titel": "Ze wil ze zelf aandoen",
+      "waarom": "Jullie eigen foto van de Taylor Trail aan de voet, met het punt dat ouders herkennen: veters én een rits."
+    },
+    {
+      "node": "873:84",
+      "titel": "Vier jongenslaarzen",
+      "waarom": "Toby Trail en Thijs Trail in vier kleuren voor €89,95, met de 9,0 van jullie klanten als steun."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "874:2",
+    "onderwerp": "Welkom bij BunniesJR, hier is je €5",
+    "kop": "Een nieuwsbrief die voelt als BunniesJR.",
+    "tekst": "Een welkomstmail rond de €5 korting die jullie al geven bij inschrijving, met jullie merkverhaal, de Toby Trail uitgelicht en de loopfases als hulp bij de maat.",
+    "punten": [
+      "Sluit aan op de €5 korting bij inschrijving",
+      "Toby Trail met vier duidelijke labels",
+      "Loopfases als hulp bij de juiste maat"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
