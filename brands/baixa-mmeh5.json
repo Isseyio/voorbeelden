@@ -1,0 +1,50 @@
+{
+  "slug": "baixa-mmeh5",
+  "merk": "BAIXA",
+  "domein": "baixajewelry.com",
+  "lead_id": "2026-11-04-baixajewelry.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1D1D1B",
+  "kop": "Zilveren sieraden van BAIXA, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "993:2",
+      "titel": "De Lua Ring van dichtbij",
+      "waarom": "Een macrofoto met labels laat zien wat je online niet voelt: 925 sterling zilver, nikkelvrij en gestempeld, met de prijs en de 5 jaar garantie erbij."
+    },
+    {
+      "node": "993:37",
+      "titel": "15% op de eerste bestelling",
+      "waarom": "Jullie eigen aanbod voor the BAIXA list, groot op een close-up met de Lo Hoops vanaf €29, zodat nieuwe bezoekers een reden hebben om zich aan te melden."
+    },
+    {
+      "node": "994:128",
+      "titel": "Drie cadeaus, drie budgetten",
+      "waarom": "Voor de feestdagen helpt een keuze per budget, met de Luna Necklace, Ava Necklace en Alba Ring en de verzending dezelfde dag bij bestelling vóór 17:00."
+    },
+    {
+      "node": "994:162",
+      "titel": "Wat zit er in €121",
+      "waarom": "Een bonnetje maakt de prijs van de Alba Ring concreet: 5 jaar garantie, 60 dagen retour en gratis verzending in Nederland vanaf €75 staan er gewoon op."
+    },
+    {
+      "node": "994:196",
+      "titel": "Begonnen op de markt",
+      "waarom": "Het verhaal van de marktkraam met vintage vondsten en het gerecyclede goud en zilver geeft het merk een gezicht naast de productadvertenties."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "994:238",
+    "onderwerp": "Welkom bij the BAIXA list",
+    "kop": "Een nieuwsbrief die voelt als BAIXA.",
+    "tekst": "Een welkomstmail voor nieuwe aanmelders: het merkverhaal, de Ava Necklace met de belangrijkste feiten en de 15% voor de eerste bestelling.",
+    "punten": [
+      "Het verhaal van de marktkraam, in jullie eigen woorden",
+      "Ava Necklace met 925 zilver, nikkelvrij en 5 jaar garantie",
+      "Afsluiting met de 15% en de verzending vóór 17:00"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
