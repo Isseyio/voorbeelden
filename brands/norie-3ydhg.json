@@ -1,0 +1,50 @@
+{
+  "slug": "norie-3ydhg",
+  "merk": "Norie",
+  "domein": "norie.nl",
+  "lead_id": "2026-11-05-norie.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#CD254C",
+  "kop": "Clip oorbellen voor iedereen, ook zonder gaatjes",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "684:3",
+      "titel": "Ook zonder gaatjes",
+      "waarom": "Jullie eigen modelfoto laat zien hoe een clip op de oorlel zit, en de vier punten komen van jullie productpagina."
+    },
+    {
+      "node": "684:20",
+      "titel": "Eén clip, drie pluspunten",
+      "waarom": "Roestvrij staal, hypoallergeen en waterproof zijn de redenen die jullie zelf noemen, in jullie eigen roze en rood."
+    },
+    {
+      "node": "684:38",
+      "titel": "Doen ze pijn?",
+      "waarom": "De twijfel die veel mensen bij clip oorbellen hebben, beantwoord met wat er op jullie productpagina staat."
+    },
+    {
+      "node": "685:2",
+      "titel": "Voor in de schoen",
+      "waarom": "Ouders bestellen jullie clips al voor hun dochters, zoals de review van Stefanie laat zien, en Sinterklaas komt eraan."
+    },
+    {
+      "node": "685:167",
+      "titel": "70+ designs",
+      "waarom": "Negen van jullie eigen packshots naast elkaar laten zien hoeveel keus er is, met de echte prijzen."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "686:2",
+    "onderwerp": "Cadeautjes zonder gaatjes",
+    "kop": "Een nieuwsbrief die voelt als Norie.",
+    "tekst": "Een cadeaumail voor december met jullie verhaal, één product met uitleg en Norie Kids.",
+    "punten": [
+      "Het verhaal van Noortje en het handwerk sinds 2020",
+      "Pearly Essentials met vier korte kenmerken",
+      "Norie Kids als cadeautje voor in de schoen"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
