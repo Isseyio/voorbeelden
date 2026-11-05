@@ -1,0 +1,50 @@
+{
+  "slug": "osoe-4f9mx",
+  "merk": "Osoe Home",
+  "domein": "osoehome.com",
+  "lead_id": "2026-11-05-osoehome.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5A3E2B",
+  "kop": "Vijf advertenties rond de kruidenla van Osoe Home",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "922:56",
+      "titel": "Kai in de hand",
+      "waarom": "De vierkante Kai-pot met luchtdicht acaciadeksel staat centraal, met de kenmerken die jullie zelf op de productpagina noemen."
+    },
+    {
+      "node": "922:72",
+      "titel": "Hout met herkomst",
+      "waarom": "Jullie houten keukengerei is handgemaakt van SVLK-gecertificeerd hout, en dat verhaal past goed in één rustige advertentie."
+    },
+    {
+      "node": "923:2",
+      "titel": "Stel je kruidenrek samen",
+      "waarom": "Twaalf Kai-potten, labels en lepeltjes komen samen op € 72,30, net boven jullie grens voor gratis verzending in Nederland."
+    },
+    {
+      "node": "923:47",
+      "titel": "POV: de kruidenla",
+      "waarom": "Jullie eigen foto van een volle kruidenla laat in één beeld zien wat Osoe in huis oplost."
+    },
+    {
+      "node": "923:57",
+      "titel": "Je thuiscafé",
+      "waarom": "Pompfles, glazen en tray als vaste routine door de dag, met de prijzen zoals ze op de site staan."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "924:2",
+    "onderwerp": "Welkom thuis bij Osoe",
+    "kop": "Een nieuwsbrief die voelt als Osoe Home.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: jullie verhaal als zussen, de Kai-pot als bestseller en het idee van één systeem dat je later kunt aanvullen.",
+    "punten": [
+      "Voor nieuwe inschrijvers via het formulier onderaan de site",
+      "Het verhaal van Meagan en Eileen uit jullie over-ons-pagina",
+      "Producten en prijzen zoals ze op de site staan"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
