@@ -1,0 +1,50 @@
+{
+  "slug": "lovestories-feaht",
+  "merk": "Love Stories Intimates",
+  "domein": "lovestoriesintimates.com",
+  "lead_id": "2026-11-04-lovestoriesintimates.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B9241C",
+  "kop": "Vijf advertenties voor de Festive Edit van Love Stories.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "918:31",
+      "titel": "Romeo voor €85",
+      "waarom": "Eén product met één duidelijke prijs op jullie eigen close-up maakt de stap naar de productpagina klein."
+    },
+    {
+      "node": "918:42",
+      "titel": "Whateverwear, festive edition",
+      "waarom": "Jullie eigen homepagekop met drie looks erin laat in één beeld zien wat de Festive Edit is."
+    },
+    {
+      "node": "918:58",
+      "titel": "Rood als cadeau",
+      "waarom": "In november zoeken mensen een cadeau, en jullie rode flat-lay ziet er al uit als een ingepakt pakketje."
+    },
+    {
+      "node": "918:72",
+      "titel": "Een love letter",
+      "waarom": "Jullie geven 20% bij inschrijving voor de love letters; als brief vormgegeven levert dat adressen op voor de nieuwsbrief."
+    },
+    {
+      "node": "918:87",
+      "titel": "Drie manieren om kant te dragen",
+      "waarom": "Whateverwear draait om kant dat je laat zien, en drie eigen looks maken dat meteen duidelijk."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "919:244",
+    "onderwerp": "Whateverwear. Festive edition.",
+    "kop": "Een nieuwsbrief die voelt als Love Stories.",
+    "tekst": "Een mail voor de Festive Edit in jullie eigen stijl: serif-koppen, rood als accent en jullie eigen foto's.",
+    "punten": [
+      "Merkverhaal met Marloes en de House of Love-boutiques",
+      "Romeo uitgelicht met prijs en details",
+      "Vier looks uit de Festive Edit en Whateverwear"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
