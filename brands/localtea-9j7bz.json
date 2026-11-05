@@ -1,0 +1,50 @@
+{
+  "slug": "localtea-9j7bz",
+  "merk": "LocalTea",
+  "domein": "localtea.nl",
+  "lead_id": "2026-11-03-localtea.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1E4B2E",
+  "kop": "Vijf advertenties voor thee uit Zundert",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "933:3",
+      "titel": "Speculaas Chai belt",
+      "waarom": "Een speelse belscherm-advertentie rond jullie eigen zin over thee en de koektrommel, met de echte prijs van € 3,99."
+    },
+    {
+      "node": "933:29",
+      "titel": "Reviews in de lucht",
+      "waarom": "Drie echte klantreacties van jullie productpagina rond Gember Kick, de blend die Robbert Jan zelf noemt."
+    },
+    {
+      "node": "933:45",
+      "titel": "Van plant tot kopje",
+      "waarom": "Jullie werkwijze in vijf stappen, van de kas in Zundert tot het kopje, zoals jullie die zelf beschrijven."
+    },
+    {
+      "node": "934:2",
+      "titel": "De theeketen kan eerlijker",
+      "waarom": "Jullie eigen vergelijking met thee van ver weg, over loon en de korte keten, naast elkaar gezet."
+    },
+    {
+      "node": "934:49",
+      "titel": "Elke dag je T",
+      "waarom": "Een weekstrip met Gember Kick en Speculaas Chai die uitkomt bij het T-abonnement met 10% korting."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "935:2",
+    "onderwerp": "Tijd voor T, geteeld in Nederland",
+    "kop": "Een nieuwsbrief die voelt als LocalTea.",
+    "tekst": "Een mail die jullie blends op een rij zet: het verhaal van Johan en de plantage, Speculaas Chai met de echte ingrediënten, vier producten om te proeven en het T-abonnement.",
+    "punten": [
+      "Ingrediënten en prijzen zoals ze op de site staan",
+      "Het verhaal uit jullie eigen 'ons Verhaal'-pagina",
+      "Sluit af met het T-abonnement met 10% korting"
+    ]
+  },
+  "ai_sfeer": true,
+  "gemaakt": "2026-11-05"
+}
