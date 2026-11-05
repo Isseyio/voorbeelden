@@ -1,0 +1,50 @@
+{
+  "slug": "heckettlane-kss9u",
+  "merk": "Heckettlane",
+  "domein": "heckettlane.com",
+  "lead_id": "2026-11-05-heckettlane.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B5654A",
+  "kop": "Dekbedovertrekken van Heckettlane, van de kust tot de savanne",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "819:3",
+      "titel": "Vanavond besteld, morgen in huis",
+      "waarom": "Jullie sterkste belofte staat bovenaan: altijd gratis verzending en op werkdagen voor 22:00 besteld, morgen in huis."
+    },
+    {
+      "node": "819:11",
+      "titel": "Katoen of katoen-satijn?",
+      "waarom": "Naya en Sanaa in Safari Sand naast elkaar helpen kiezen tussen 100% katoen en 100% katoen-satijn, allebei vanaf €79,95."
+    },
+    {
+      "node": "819:28",
+      "titel": "Koop dit dekbedovertrek niet",
+      "waarom": "Een omgekeerde kop met het uitgeknipte Maribel Reseda Green valt op in de feed en eindigt bij katoen-satijn, gratis verzending en 30 dagen retour."
+    },
+    {
+      "node": "820:2",
+      "titel": "Een instapkaart naar bed",
+      "waarom": "Jullie missie, alle delen van de wereld naar je slaapkamer brengen, wordt een instapkaart bij de eigen foto van Pamara Multi."
+    },
+    {
+      "node": "820:59",
+      "titel": "Waar word jij wakker?",
+      "waarom": "Een korte keuzevraag koppelt drie sfeerfoto's aan Sogno White, Maribel Reseda Green en Livia Multi, zodat iemand zijn eigen print kiest."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "821:2",
+    "onderwerp": "Kies je bestemming",
+    "kop": "Een nieuwsbrief die voelt als Heckettlane.",
+    "tekst": "Een collectiemail met jullie verhaal van 25 jaar en een eigen fabriek, Maribel Reseda Green uitgelicht en drie andere dekbedovertrekken.",
+    "punten": [
+      "Merkverhaal uit Ons verhaal",
+      "Maribel met vier kenmerken en drie andere prints",
+      "Afsluiting over gratis verzending, morgen in huis en 30 dagen retour"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
