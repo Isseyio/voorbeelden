@@ -1,0 +1,50 @@
+{
+  "slug": "rietveld-ua5rt",
+  "merk": "Rietveld Originals",
+  "domein": "rietveldoriginals.com",
+  "lead_id": "2026-11-05-rietveldoriginals.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C8102E",
+  "kop": "De ontwerpen van Gerrit Rietveld, met hun verhaal erbij",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "757:205",
+      "titel": "Groen of rood",
+      "waarom": "De Utrecht fauteuil is er in meerdere stoffen en kleuren; twee varianten naast elkaar maken de keuze meteen concreet."
+    },
+    {
+      "node": "757:224",
+      "titel": "Drie houtsoorten",
+      "waarom": "De Zig-Zag stoel heeft drie houtsoorten met elk een eigen prijs, van €1.835 tot €2.239: dat is een duidelijke lijst om uit te kiezen."
+    },
+    {
+      "node": "757:244",
+      "titel": "Gerrits kleinzoon",
+      "waarom": "Dat Egbert Rietveld het bedrijf in 2004 oprichtte en jullie officieel licentiehouder zijn, onderscheidt jullie van elke andere verkoper."
+    },
+    {
+      "node": "757:257",
+      "titel": "Gemaakt in Culemborg",
+      "waarom": "De meeste meubels worden bij zusterbedrijf Dutch Gelderland Groep in Culemborg gemaakt; lokaal geproduceerd staat al op de site."
+    },
+    {
+      "node": "757:268",
+      "titel": "Eerst proefzitten",
+      "waarom": "Bij meubels van een paar duizend euro willen mensen vaak eerst zitten; jullie hebben showrooms in Culemborg, Eindhoven en Amsterdam."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "757:379",
+    "onderwerp": "Icoon van De Stijl",
+    "kop": "Een nieuwsbrief die voelt als Rietveld Originals.",
+    "tekst": "Een merkverhaalmail: wie Rietveld Originals is, de Zig-Zag stoel met zijn houtsoorten en een uitnodiging voor de showroom.",
+    "punten": [
+      "Het verhaal van Egbert Rietveld en de licentie",
+      "De Zig-Zag stoel met houtsoorten en prijzen",
+      "Een afspraak in de showroom als afsluiter"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
