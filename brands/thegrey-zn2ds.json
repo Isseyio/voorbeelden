@@ -1,0 +1,50 @@
+{
+  "slug": "thegrey-zn2ds",
+  "merk": "THE GREY Men's Skincare",
+  "domein": "thegreymensskincare.com",
+  "lead_id": "2026-11-04-thegreymensskincare.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#151616",
+  "kop": "Advertenties voor de cadeauweken, met jullie eigen packshots",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "869:3",
+      "titel": "Eén groot woord",
+      "waarom": "Een reuzenwoord laat stoppen met scrollen; de echte swatch en de Charcoal Face Wash met actieve kool vertellen de rest."
+    },
+    {
+      "node": "869:20",
+      "titel": "Eén crème in plaats van drie",
+      "waarom": "De 3 In 1 Face Cream is volgens jullie site dagcrème, nachtcrème en oogcrème in één; een tabel maakt dat in één blik duidelijk."
+    },
+    {
+      "node": "869:55",
+      "titel": "Een routine in twee stappen",
+      "waarom": "Reinigen en verzorgen als korte ochtendroutine past bij jullie idee van verzorging zonder gedoe, met beide producten en hun prijs."
+    },
+    {
+      "node": "869:90",
+      "titel": "Wat zit er in de kerstset",
+      "waarom": "De starter set Christmas edition 2026 van € 130 staat online; laten zien wat er in de doos zit werkt goed in de cadeauweken."
+    },
+    {
+      "node": "869:109",
+      "titel": "Je routine belt",
+      "waarom": "Een bekend belscherm valt op in de feed en zet één product centraal, hier de 3 In 1 Face Cream van € 84."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "870:2",
+    "onderwerp": "Welkom bij de Members Club",
+    "kop": "Een nieuwsbrief die voelt als THE GREY.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers van de Members Club: hoe Gregor het merk begon, de 3 In 1 Face Cream uitgelicht en de kerstset als cadeau-idee.",
+    "punten": [
+      "Het merkverhaal van jullie about-pagina",
+      "De 3 In 1 Face Cream met vier ingrediënten",
+      "De starter set als afsluiter"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
