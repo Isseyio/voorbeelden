@@ -1,0 +1,50 @@
+{
+  "slug": "foodforskin-95sna",
+  "merk": "Food for Skin",
+  "domein": "foodforskin.care",
+  "lead_id": "2026-11-02-foodforskin.care",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#33542C",
+  "kop": "Vijf ideeën rond jullie serums, crème en reststromen.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "961:3",
+      "titel": "Ochtend en avond",
+      "waarom": "Laat zien hoe het Avocado Serum in een gewone week past: 1 tot 2 pompjes, twee keer per week als nachtmasker, en 30 ml doet ongeveer 2 tot 3 maanden."
+    },
+    {
+      "node": "961:33",
+      "titel": "Eén crème, dag en nacht",
+      "waarom": "Een echte klantfoto met de Tomato Base Cream in de hand, met drie korte punten die jullie zelf noemen: vegan, zonder toegevoegd parfum en gemaakt in Nederland."
+    },
+    {
+      "node": "961:52",
+      "titel": "Drie serums",
+      "waarom": "Beantwoordt de vraag welk serum bij je huid past en stuurt naar de proefset van €29,50, zodat de eerste stap klein is."
+    },
+    {
+      "node": "961:74",
+      "titel": "Een eerlijk antwoord",
+      "waarom": "Gebruikt jullie eigen FAQ over hydrateren als advertentie; die eerlijkheid past bij jullie keuze voor geen overbodige claims."
+    },
+    {
+      "node": "961:87",
+      "titel": "57,2% uit reststromen",
+      "waarom": "Het percentage reststromen in het Avocado Serum, met jullie eigen flatlay, maakt het verhaal achter het product concreet."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "962:2",
+    "onderwerp": "Welkom bij Food for Skin",
+    "kop": "Een nieuwsbrief die voelt als Food for Skin.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: het verhaal van Cathy en Angela, wat er in het Avocado Serum zit en de proefset als eerste stap.",
+    "punten": [
+      "Merkverhaal met feiten van jullie eigen over-ons-pagina",
+      "Ingrediënten van het Avocado Serum met korte uitleg",
+      "Proefset Serums als laagdrempelige afsluiting"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
