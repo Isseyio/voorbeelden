@@ -1,0 +1,50 @@
+{
+  "slug": "vintagejewellery-s26wa",
+  "merk": "Vintage Jewellery",
+  "domein": "vintagejewellery.com",
+  "lead_id": "2026-11-05-vintagejewellery.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5E5A2C",
+  "kop": "Vintage sieraden met een verhaal, in jullie eigen beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "821:94",
+      "titel": "Camee van dichtbij",
+      "waarom": "Bij een vintage stuk wil je de details zien: het goud, de camee en het Nederlandse keurmerk van na 1953 staan er meteen bij."
+    },
+    {
+      "node": "821:119",
+      "titel": "Eén prijs, één paar",
+      "waarom": "Een duidelijke prijs met een gedragen foto, en de melding dat er maar één paar is, want jullie hebben van elk sieraad er maar één."
+    },
+    {
+      "node": "821:127",
+      "titel": "Elke week nieuw",
+      "waarom": "Jullie vullen het aanbod elke week aan en elk stuk is uniek; deze advertentie geeft mensen een reden om vaak terug te komen."
+    },
+    {
+      "node": "821:143",
+      "titel": "Vintage of Atelier",
+      "waarom": "Twee collecties naast elkaar: gerestaureerd vintage en nieuwe ontwerpen uit eigen atelier, met echte prijzen van de site."
+    },
+    {
+      "node": "821:172",
+      "titel": "Goed om te weten",
+      "waarom": "Drie vragen die twijfel wegnemen, beantwoord met wat jullie zelf beloven: keuring, certificaat, bedenktijd en garantie."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "823:2",
+    "onderwerp": "Nieuw binnen: vier vondsten",
+    "kop": "Een nieuwsbrief die voelt als Vintage Jewellery.",
+    "tekst": "Een wekelijkse mail met de nieuwste stukken, want van elk sieraad is er maar één. Met het merkverhaal, een uitgelichte hanger met uitleg en een uitnodiging voor de boetieks.",
+    "punten": [
+      "Nieuwe vondsten van de week, met prijs",
+      "Een uitgelicht stuk met de details uitgelegd",
+      "Een uitnodiging om langs te komen in Amsterdam, Bussum of Haarlem"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
