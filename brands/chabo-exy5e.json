@@ -1,0 +1,50 @@
+{
+  "slug": "chabo-exy5e",
+  "merk": "Chabo Bags",
+  "domein": "chabobags.com",
+  "lead_id": "2026-11-05-chabobags.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A0703F",
+  "kop": "Leren tassen uit Woerden, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "733:3",
+      "titel": "Prijs voorop",
+      "waarom": "De Sydney Shoulderbag van €129,95 met jullie eigen sfeerfoto: prijs en merk in één oogopslag, zoals in een goede feed-advertentie."
+    },
+    {
+      "node": "733:12",
+      "titel": "Eén woord: HOBO",
+      "waarom": "Mensen zoeken op het model; de Hobo Brisbane in alle drie de kleuren voor €149,95 laat meteen de keuze zien."
+    },
+    {
+      "node": "733:30",
+      "titel": "Chabo betekent vriend",
+      "waarom": "Jullie eigen verhaal, sinds 2010 in Nederland ontworpen en elk seizoen nieuwe modellen, met een echte foto van de Hobo."
+    },
+    {
+      "node": "733:39",
+      "titel": "Voor 14:00 besteld",
+      "waarom": "Zelfde dag verzonden met DHL, gratis vanaf €49,95 en achteraf betalen staan nu alleen in de balk bovenaan; als bon worden ze een reden om te bestellen."
+    },
+    {
+      "node": "733:68",
+      "titel": "Groot, zacht, suède",
+      "waarom": "De Big Sister Suede in burgundy met drie dingen die je op de foto ziet: suède, echt leer en de gevlochten hengsel."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "734:2",
+    "onderwerp": "Vier favorieten uit de collectie",
+    "kop": "Een nieuwsbrief die voelt als Chabo Bags.",
+    "tekst": "Een mail met jullie verhaal, vier tassen uit de collectie met prijs en een duidelijke afsluiting over gratis en snel verzenden.",
+    "punten": [
+      "Het verhaal achter de naam, uit jullie eigen over-ons-pagina",
+      "Vier modellen met korte tekst, prijs en knop",
+      "Gratis verzending vanaf €49,95 en zelfde dag verzonden"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
