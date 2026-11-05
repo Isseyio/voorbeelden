@@ -1,0 +1,50 @@
+{
+  "slug": "rosefield-2tpjz",
+  "merk": "Rosefield",
+  "domein": "rosefieldwatches.com",
+  "lead_id": "2026-11-04-rosefieldwatches.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2E241D",
+  "kop": "Horloges en sieraden uit Amsterdam, in vijf advertenties en een nieuwsbrief.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "791:29",
+      "titel": "Prijs en groot logo",
+      "waarom": "De Octagon XS kost €129 en is gemaakt voor een smallere pols; met prijs, gratis bezorging en 60 dagen retour weet iemand meteen waar hij aan toe is."
+    },
+    {
+      "node": "791:38",
+      "titel": "Goud of duotone",
+      "waarom": "Dezelfde Octagon XS in twee kleuren naast elkaar maakt de keuze makkelijk, met de maat, 3 ATM en 2 jaar garantie erbij."
+    },
+    {
+      "node": "791:58",
+      "titel": "Mini Heirloom van dichtbij",
+      "waarom": "De sunray-wijzerplaat in reliëf en de maat van 14,3 × 23,3 mm laten zien waarom dit kleine horloge €149 waard is."
+    },
+    {
+      "node": "791:92",
+      "titel": "Verlanglijstje voor december",
+      "waarom": "Drie horloges met hun echte prijs (€119, €129 en €149) als cadeaulijstje, met gratis bezorging vanaf €35."
+    },
+    {
+      "node": "791:120",
+      "titel": "Samen dragen",
+      "waarom": "Jullie giftset met de Mini Octagon en de Tree of Life Bracelet laat zien hoe horloge en armband samen staan."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "792:126",
+    "onderwerp": "Achthoekig, in XS-formaat",
+    "kop": "Een nieuwsbrief die voelt als Rosefield.",
+    "tekst": "Een mail rond de Octagon XS: de details van dichtbij, goud en duotone naast elkaar, en een afsluiting voor wie een cadeau zoekt.",
+    "punten": [
+      "De Octagon XS van dichtbij, met vier kenmerken van de productpagina",
+      "Goud en duotone naast elkaar, allebei €129",
+      "Garantie, retour en gratis bezorging vanaf €35 duidelijk in beeld"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
