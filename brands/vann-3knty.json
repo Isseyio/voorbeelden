@@ -1,0 +1,50 @@
+{
+  "slug": "vann-3knty",
+  "merk": "VANN",
+  "domein": "vannbottles.com",
+  "lead_id": "2026-11-04-vannbottles.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1D342E",
+  "kop": "Drinkflessen, bekers en thermoskannen van VANN, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "792:87",
+      "titel": "Jouw kleur, vanaf €29,90",
+      "waarom": "De Ultimate Bottle is er in 30+ kleuren en vier maten vanaf €29,90; een duidelijke instapprijs met jullie eigen kleurenfoto maakt de keuze makkelijk."
+    },
+    {
+      "node": "792:98",
+      "titel": "24 uur heet, 36 uur koud",
+      "waarom": "De Journey Thermos heeft concrete eigenschappen van jullie productpagina (Triple Wall, beker en dop in één, sleeve en handvat) die je met callouts in één beeld laat zien."
+    },
+    {
+      "node": "792:210",
+      "titel": "Welke kleur is jouw cup?",
+      "waarom": "De Daily Cup is er in 13 kleuren voor €24,90; een raster met vijf echte kleuren nodigt uit om te kiezen in plaats van te scrollen."
+    },
+    {
+      "node": "792:232",
+      "titel": "Wat zit er in de doos?",
+      "waarom": "Bij de Ultimate Bottle krijg je 3 doppen, een borsteltje en een e-book met 25 recepten; dat laten zien maakt de prijs logischer en past bij cadeaumomenten."
+    },
+    {
+      "node": "792:255",
+      "titel": "VANN is Noors voor water",
+      "waarom": "Het verhaal van Thijs, Costa Rica en de walvis van zwerfplastic staat op jullie eigen Over VANN-pagina en geeft het merk een gezicht naast de productadvertenties."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "794:2",
+    "onderwerp": "Welkom bij VANN",
+    "kop": "Een nieuwsbrief die voelt als VANN.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de routine-belofte van jullie homepage, het verhaal achter de naam, de Ultimate Bottle met vier eigenschappen en de 30+ kleuren als afsluiting.",
+    "punten": [
+      "Welkom met jullie eigen 'Objects made for your routine'",
+      "Het verhaal van Thijs en de naam VANN",
+      "De Ultimate Bottle met eigenschappen en kleuren"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
