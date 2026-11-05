@@ -1,0 +1,50 @@
+{
+  "slug": "pebblepalm-efgq9",
+  "merk": "Pebble & Palm",
+  "domein": "pebbleandpalm.nl",
+  "lead_id": "2026-11-05-pebbleandpalm.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A9824B",
+  "kop": "Geboortestenen, ringen op maat en oud goud in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "764:3",
+      "titel": "Vanaf €450",
+      "waarom": "Een echte prijs bovenaan met jullie close-up van de Coral Birthstone Ring maakt een ring van 14 karaat goud meteen concreet."
+    },
+    {
+      "node": "764:15",
+      "titel": "Trouwringen op maat",
+      "waarom": "Jullie adverteren al met ringen op maat; deze versie zet het persoonlijke ontwerpgesprek in het atelier centraal."
+    },
+    {
+      "node": "764:31",
+      "titel": "Welke maand ben jij?",
+      "waarom": "Alle twaalf geboortestenen hebben een eigen foto op de site, dus de keuze zelf wordt de advertentie."
+    },
+    {
+      "node": "764:61",
+      "titel": "Oud goud, nieuw sieraad",
+      "waarom": "Oud goud omsmelten is een van jullie diensten; drie korte stappen laten zien hoe dat werkt."
+    },
+    {
+      "node": "764:80",
+      "titel": "Echt goud, geen laagje",
+      "waarom": "Jullie schrijven zelf: geen plating, geen goldfilled. De macrofoto van de Striped Stacking Ring laat dat zien."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "765:2",
+    "onderwerp": "Welkom in het atelier",
+    "kop": "Een nieuwsbrief die voelt als Pebble & Palm.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, met het verhaal van Rianne, de Coral Birthstone Ring uitgelegd en de twaalf geboortestenen.",
+    "punten": [
+      "Merkverhaal uit jullie eigen over-ons-pagina",
+      "Productblok met de echte kenmerken van de Coral ring",
+      "Afsluiting rond de twaalf geboortemaanden"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
