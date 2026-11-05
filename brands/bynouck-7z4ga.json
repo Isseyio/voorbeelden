@@ -1,0 +1,50 @@
+{
+  "slug": "bynouck-7z4ga",
+  "merk": "ByNouck",
+  "domein": "bynouck.com",
+  "lead_id": "2026-11-04-bynouck.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#231F20",
+  "kop": "Vijf advertenties voor sieraden die je zelf samenstelt.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "957:3",
+      "titel": "Black Friday met BLACK40",
+      "waarom": "Eén duidelijke actie uit jullie eigen aankondigingsbalk (40% op alles met code BLACK40), groot boven een close-up van de JADE-ketting."
+    },
+    {
+      "node": "957:12",
+      "titel": "Design your own",
+      "waarom": "Jullie eigen DYO-gedachte, één bedel en eindeloos veel combinaties, in één groot woord met drie losse bedels eronder."
+    },
+    {
+      "node": "957:27",
+      "titel": "Welke naam draag jij",
+      "waarom": "Zes van jullie eigen naamkettingfoto's naast elkaar laten zien hoe persoonlijk de Flat Name Necklace is, met de echte prijs van € 42,40."
+    },
+    {
+      "node": "957:41",
+      "titel": "Je oor in drie lagen",
+      "waarom": "Jullie oorfoto met een stapel van drie losse oorbellen nodigt uit om meer dan één stuk te kiezen."
+    },
+    {
+      "node": "957:56",
+      "titel": "Een kraamcadeau",
+      "waarom": "De gegraveerde geboortekaart als bedel is een duidelijk cadeaumoment, met de echte prijs van € 24 in plaats van € 30."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "959:2",
+    "onderwerp": "Welkom bij ByNouck",
+    "kop": "Een nieuwsbrief die voelt als ByNouck.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, met de 25% welkomstkorting uit jullie pop-up, het atelier in Haarlem en de Design your own-collectie.",
+    "punten": [
+      "Sluit aan op jullie welkomstpop-up",
+      "Atelier en winkel in Haarlem als merkverhaal",
+      "Afsluiting met Design your own"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
