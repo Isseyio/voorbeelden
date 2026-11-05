@@ -1,0 +1,50 @@
+{
+  "slug": "catalulu-wctg4",
+  "merk": "Catalulu",
+  "domein": "catalulu.com",
+  "lead_id": "2026-11-04-catalulu.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4E7A3F",
+  "kop": "Design krabpalen, gemaakt voor katten en voor je interieur.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "829:3",
+      "titel": "Gebouwd voor katten",
+      "waarom": "Jullie eigen kop van de homepage, met foto's tussen de woorden en de Dino krabpaal van natuurlijk rotan voor €139."
+    },
+    {
+      "node": "829:21",
+      "titel": "Waar hij van gemaakt is",
+      "waarom": "De PureWood Deluxe met de vier onderdelen uit jullie productomschrijving: massief FSC-hout, sisal, een hangmand en een bodemplaat van 60 × 55 cm."
+    },
+    {
+      "node": "831:2",
+      "titel": "Een kerstboom om te beklimmen",
+      "waarom": "Voor de feestdagen: jullie kerstboom krabpaal in groen of wit voor €169, die de nagels uit de echte kerstboom houdt."
+    },
+    {
+      "node": "831:17",
+      "titel": "Samen 19 katten",
+      "waarom": "Jullie team staat met hun eigen katten op de site; samen zijn dat er 19, en dat persoonlijke verhaal geeft vertrouwen."
+    },
+    {
+      "node": "831:44",
+      "titel": "De hele dag bezig",
+      "waarom": "Een dagritme laat zien wat een kat met de RoyalKingdom XXL doet: 188 cm hoog, dikke sisalpalen en ruimte voor meerdere katten."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "834:2",
+    "onderwerp": "Gebouwd voor katten, ontworpen voor je interieur",
+    "kop": "Een nieuwsbrief die voelt als Catalulu.",
+    "tekst": "Een nieuwsbrief met jullie merkverhaal, de PureWood Deluxe uitgelegd en de snelle levering als afsluiter.",
+    "punten": [
+      "Het team en hun 19 katten als merkverhaal",
+      "De PureWood Deluxe met vier onderdelen uitgelegd",
+      "Voor 16:00 besteld, morgen in huis"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
