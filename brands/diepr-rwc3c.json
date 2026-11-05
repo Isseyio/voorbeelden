@@ -1,0 +1,50 @@
+{
+  "slug": "diepr-rwc3c",
+  "merk": "DIEP'R",
+  "domein": "diepr.nl",
+  "lead_id": "2026-11-03-diepr.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#F198C0",
+  "kop": "Vijf manieren om DIEP'R te laten zien, van samenwonen tot girls night.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "964:5",
+      "titel": "Een vraag die belt",
+      "waarom": "De nieuwe samenwonen editie stelt zichzelf voor met een echte vraag van de kaartjes, en smalltalk of diep gaan is precies de keuze waar jullie spel over gaat."
+    },
+    {
+      "node": "964:24",
+      "titel": "Het bonnetje van Mix & Match",
+      "waarom": "Jullie geven al 10% korting bij twee spellen en verzenden voor 23:30 dezelfde dag; als kassabon zie je in één oogopslag wat het oplevert."
+    },
+    {
+      "node": "964:73",
+      "titel": "Diep, dieper, diepst",
+      "waarom": "De drie levels zijn het hart van elk spel; door ze als lagen te tonen snap je meteen hoe je zelf bepaalt hoe diep het gaat."
+    },
+    {
+      "node": "964:95",
+      "titel": "Een editie per moment",
+      "waarom": "Met meer dan vijftien edities, van vakantie tot bruiloft, past er altijd een bij het moment, en jullie eigen sfeerfoto's laten dat zien."
+    },
+    {
+      "node": "964:116",
+      "titel": "POV: even bijkletsen",
+      "waarom": "Een herkenbare POV met jullie eigen foto van de Confession Club maakt van een avond met vriendinnen het moment om het spel te pakken."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "965:2",
+    "onderwerp": "Nieuw: 60 vragen voor samenwonen",
+    "kop": "Een nieuwsbrief die voelt als DIEP'R.",
+    "tekst": "Een mail rond de nieuwe samenwonen editie, met jullie verhaal, wat er in de doos zit, meer edities en Mix & Match als afsluiter.",
+    "punten": [
+      "Opent met de nieuwe editie en jullie eigen foto",
+      "Laat zien wat er in de doos zit: 60 vragen, 3 levels",
+      "Sluit af met Mix & Match en de 10% bij twee spellen"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
