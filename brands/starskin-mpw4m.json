@@ -1,0 +1,50 @@
+{
+  "slug": "starskin-mpw4m",
+  "merk": "STARSKIN",
+  "domein": "starskin.com",
+  "lead_id": "2026-11-04-starskin.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E3305A",
+  "kop": "Gezichtsmaskers in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "911:3",
+      "titel": "Zondagavond in 30 minuten",
+      "waarom": "Het PDRN-masker werkt volgens jullie site in 30 minuten; een avondroutine met tijden maakt dat moment heel concreet."
+    },
+    {
+      "node": "911:27",
+      "titel": "Een serum dat smelt",
+      "waarom": "Green Caviar is nieuw op jullie homepage; labels bij de echte productfoto leggen in één oogopslag uit wat erin zit en hoe het werkt."
+    },
+    {
+      "node": "911:58",
+      "titel": "Welk masker vanavond?",
+      "waarom": "Jullie hebben maskers voor verschillende huidvragen; een keuzevraag met vier antwoorden helpt iemand snel naar het juiste masker."
+    },
+    {
+      "node": "912:2",
+      "titel": "Zet de timer",
+      "waarom": "Dertig minuten is het moment van een maskeravond; een timer op het scherm maakt het idee meteen herkenbaar."
+    },
+    {
+      "node": "912:21",
+      "titel": "Cadeau voor de feestdagen",
+      "waarom": "The Radiance Edit is een set van zes favorieten in een herbruikbare tas voor €29,99, een logisch cadeau richting Sinterklaas en kerst."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "912:41",
+    "onderwerp": "Jouw avond, dertig minuten voor jezelf",
+    "kop": "Een nieuwsbrief die voelt als STARSKIN.",
+    "tekst": "Een rustige mail over de maskeravond: het verhaal van Nicole sinds 2015, het PDRN-masker uitgelegd met labels, en de bestsellers met jullie 4.9 uit 541 reviews.",
+    "punten": [
+      "Merkverhaal uit jullie About-pagina",
+      "Het PDRN-masker met vier labels",
+      "Afsluiting met de bestsellers"
+    ]
+  },
+  "ai_sfeer": true,
+  "gemaakt": "2026-11-05"
+}
