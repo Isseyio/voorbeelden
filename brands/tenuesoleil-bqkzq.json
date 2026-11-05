@@ -1,0 +1,50 @@
+{
+  "slug": "tenuesoleil-bqkzq",
+  "merk": "Tenue Soleil",
+  "domein": "tenuesoleil.com",
+  "lead_id": "2026-11-05-tenuesoleil.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#19233F",
+  "kop": "Minerale zonbescherming en UV-kleding, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "761:3",
+      "titel": "Bespaar 15% op sets",
+      "waarom": "De voordeelsets staan met -15% in het menu; de Sun Milk Family Pack (SPF30 + SPF50) voor €45,03 i.p.v. €52,98 maakt dat aanbod concreet."
+    },
+    {
+      "node": "761:13",
+      "titel": "De nieuwe zonnestick",
+      "waarom": "De SPF50 Zonnestick is nieuw en compact; zinkoxide, waterbestendig en €16,99 vertellen in één beeld wat hij doet."
+    },
+    {
+      "node": "761:38",
+      "titel": "Briefje van de oprichter",
+      "waarom": "Dat een dermatoloog en huidkankerexpert het merk in 2020 begon, is jullie sterkste vertrouwenssignaal."
+    },
+    {
+      "node": "761:55",
+      "titel": "UPF 50+ voor kinderen",
+      "waarom": "Vier UV-items naast elkaar met prijs laten in één oogopslag zien wat er is, van 6 maanden tot 14 jaar."
+    },
+    {
+      "node": "761:79",
+      "titel": "SPF30 of SPF50?",
+      "waarom": "Een keuzevraag haalt twijfel weg: twee minerale Sun Milks van 125 ml naast elkaar, met prijs."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "762:206",
+    "onderwerp": "Welkom bij Tenue Soleil",
+    "kop": "Een nieuwsbrief die voelt als Tenue Soleil.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: het verhaal van de dermatoloog achter het merk, de nieuwe zonnestick uitgelegd en de Sun Milk als vervolgstap.",
+    "punten": [
+      "Merkverhaal uit jullie eigen over-ons-pagina",
+      "De zonnestick met vier productkenmerken",
+      "Afsluiting met de minerale Sun Milk"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
