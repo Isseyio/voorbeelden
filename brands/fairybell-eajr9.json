@@ -1,0 +1,50 @@
+{
+  "slug": "fairybell-eajr9",
+  "merk": "Fairybell",
+  "domein": "fairybell.com",
+  "lead_id": "2026-11-05-fairybell.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E2BC74",
+  "kop": "Vijf advertenties voor de donkere dagen, met jullie eigen avondfoto's.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "858:3",
+      "titel": "8000 lampjes, één boom",
+      "waarom": "De Premium 10 meter met labels voor wat jullie zelf noemen: Luminous Switch voor warm wit of multicolour, IP55 en 3 jaar garantie."
+    },
+    {
+      "node": "858:32",
+      "titel": "Welke past bij jou",
+      "waarom": "Jullie eigen vergelijking van Standaard, Premium en Pro in één beeld, zodat twijfelaars meteen naar de keuzehulp kunnen."
+    },
+    {
+      "node": "858:71",
+      "titel": "Elke avond een andere kleur",
+      "waarom": "Drie avondfoto's van dezelfde Pro in warm wit, rood en groen laten zien wat RGB Smart doet zonder het uit te leggen."
+    },
+    {
+      "node": "858:86",
+      "titel": "Gemaakt in Nederland",
+      "waarom": "Dat de bomen sinds 2018 volledig in Nederland worden gemaakt, met patent in Europa en de VS, past in één rustig beeld."
+    },
+    {
+      "node": "858:104",
+      "titel": "Maak je boom af",
+      "waarom": "De gouden piekster en piekbal als makkelijke aanvulling voor wie al een Fairybell heeft."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "859:2",
+    "onderwerp": "Light the magic, your way",
+    "kop": "Een nieuwsbrief die voelt als Fairybell.",
+    "tekst": "Een merkverhaal over het maken in Nederland, gevolgd door de Premium met zijn vier belangrijkste punten en de drie series naast elkaar.",
+    "punten": [
+      "Opent met jullie eigen avondfoto en kop",
+      "Verhaal over de productie in Nederland sinds 2018",
+      "Sluit af met de drie series en de keuzehulp"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
