@@ -1,0 +1,50 @@
+{
+  "slug": "wallien-zqdgd",
+  "merk": "WALLIEN",
+  "domein": "wallien.com",
+  "lead_id": "2026-11-05-wallien.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1D2B3A",
+  "kop": "Wetsuits en zwemkleding voor water women, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "842:15",
+      "titel": "Welk pak past bij jou",
+      "waarom": "De springsuit (2 mm, €189) en de 3/2 steamer (€299) naast elkaar maken de keuze makkelijk voor wie twijfelt welk pak bij haar water past."
+    },
+    {
+      "node": "842:46",
+      "titel": "Gemaakt voor koud water",
+      "waarom": "Jullie eigen 'built for cold-water sessions' past precies bij dit seizoen, met drie kenmerken uit de productpagina: natuurrubber, back zip en kniestukken."
+    },
+    {
+      "node": "842:74",
+      "titel": "Koop dit badpak niet",
+      "waarom": "Een kop die de scroll stopt, gevolgd door de echte redenen om het Liberty-badpak wel te kopen: UPF 50+, gerecyclede stof en een snit voor vrouwen."
+    },
+    {
+      "node": "842:98",
+      "titel": "Kies je waterdag",
+      "waarom": "Jullie site deelt de collectie in naar surf, swim en beach & travel; deze advertentie laat per waterdag één pak zien met de echte prijs."
+    },
+    {
+      "node": "842:133",
+      "titel": "Wat de pers zegt",
+      "waarom": "Citaten uit jullie 'as seen in'-blok en de 4,65/5 van 1.600+ Water Lovers geven nieuwe kijkers meteen vertrouwen."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "843:2",
+    "onderwerp": "Welkom bij WALLIEN, voor water women",
+    "kop": "Een nieuwsbrief die voelt als WALLIEN.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, met het verhaal van Madeleine, de Horizonia springsuit uitgelegd en de collectie per waterdag.",
+    "punten": [
+      "Welkomstmail met jullie eigen merkverhaal",
+      "Productblok met vier kenmerken van de springsuit",
+      "Afsluiting met de collectie per waterdag"
+    ]
+  },
+  "ai_sfeer": true,
+  "gemaakt": "2026-11-05"
+}
