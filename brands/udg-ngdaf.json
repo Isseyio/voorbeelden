@@ -1,0 +1,50 @@
+{
+  "slug": "udg-ngdaf",
+  "merk": "UDG Gear",
+  "domein": "udggear.com",
+  "lead_id": "2026-11-04-udggear.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#F36F21",
+  "kop": "Tassen en cases voor DJ's, in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "916:111",
+      "titel": "Prijs bovenaan",
+      "waarom": "De DIGI Headphone Bag heeft één duidelijke prijs van €59,95 en jullie eigen buitenfoto laat meteen zien hoe hij gedragen wordt."
+    },
+    {
+      "node": "916:112",
+      "titel": "Wat DJ's zeggen",
+      "waarom": "Jullie hebben 206 reviews met gemiddeld 4,88, en losse quotes als \"Great fit into the SL-1200MK3\" overtuigen DJ's die twijfelen over de pasvorm."
+    },
+    {
+      "node": "916:113",
+      "titel": "De oproep voor een gig",
+      "waarom": "Een inkomend telefoontje van een promoter past bij jullie eigen zin \"From Berlin rooftops to Tokyo clubs\" en zet de Backpack Slim in een herkenbaar moment."
+    },
+    {
+      "node": "916:114",
+      "titel": "Paklijst voor vanavond",
+      "waarom": "Jullie productpagina noemt precies wat er in de tas past, van USB-sticks tot een externe harde schijf; als checklist leest dat in één oogopslag."
+    },
+    {
+      "node": "916:115",
+      "titel": "Sinds 1999",
+      "waarom": "Het verhaal van de platenzaak in 1988 en de eerste SoftBag in 1999 staat op jullie about-pagina en geeft het merk een eerlijke oorsprong."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "916:116",
+    "onderwerp": "Welkom bij UDG, je 10% code staat klaar",
+    "kop": "Een nieuwsbrief die voelt als UDG Gear.",
+    "tekst": "Een welkomstmail rond jullie bestaande code UDG10WELCOME, met het verhaal van de eerste SoftBag en de bestsellers eronder.",
+    "punten": [
+      "Gebruikt de welkomstcode die jullie al hebben",
+      "Merkverhaal uit jullie eigen about-pagina",
+      "Bestsellers met hun echte prijzen"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
