@@ -1,0 +1,50 @@
+{
+  "slug": "thea-u8n3a",
+  "merk": "Thea Gouverneur",
+  "domein": "theagouverneur.com",
+  "lead_id": "2026-11-04-theagouverneur.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2C4234",
+  "kop": "Borduurpakketten sinds 1959, in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "774:3",
+      "titel": "Wat zit er in het pakket?",
+      "waarom": "Linnen, voorgesorteerd DMC-garen en een telpatroon met instructies laten zien wat je voor €83,95 in huis haalt."
+    },
+    {
+      "node": "774:26",
+      "titel": "Begin hier niet aan",
+      "waarom": "Een knipoog bij een groot werk van 55 × 76 cm op linnen spreekt de echte borduurder aan."
+    },
+    {
+      "node": "774:45",
+      "titel": "Sinds 1959",
+      "waarom": "Thea's eigen verhaal, van de bollenvelden in Sassenheim tot de Academie in Den Haag, is jullie sterkste merkverhaal."
+    },
+    {
+      "node": "774:56",
+      "titel": "Van klein tot groot",
+      "waarom": "Drie echte pakketten van €12,95 tot €79,95 helpen kiezen tussen een avondproject en een winterproject."
+    },
+    {
+      "node": "774:78",
+      "titel": "De cadeaubon",
+      "waarom": "De cadeaubon van €10 tot €250 staat binnen 15 minuten in de mail, handig richting de feestdagen."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "775:2",
+    "onderwerp": "Borduren zoals Thea het al sinds 1959 doet",
+    "kop": "Een nieuwsbrief die voelt als Thea Gouverneur.",
+    "tekst": "Een merkverhaalmail met Thea's achtergrond, de Jay Birds uit de collectie en jullie spaarprogramma.",
+    "punten": [
+      "Merkverhaal uit jullie eigen pagina 'About us'",
+      "Jay Birds met vier kenmerken",
+      "Afsluiting met het spaarprogramma (3 punten per euro)"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
