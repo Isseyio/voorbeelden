@@ -1,0 +1,50 @@
+{
+  "slug": "paxsies-8ezef",
+  "merk": "Paxsies",
+  "domein": "paxsies.com",
+  "lead_id": "2026-11-04-paxsies.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#750787",
+  "kop": "Binders en packing boxers, in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "989:155",
+      "titel": "Packing boxers in één woord",
+      "waarom": "Eén groot woord en een zoekbalk met wat mensen echt zoeken: boxers met zakken voor een packer, met de drie kleuren vanaf €30."
+    },
+    {
+      "node": "989:176",
+      "titel": "896 reviews",
+      "waarom": "Jullie hebben 896 reviews met gemiddeld een 4,5; dat bewijs staat nu nog alleen op de productpagina."
+    },
+    {
+      "node": "989:211",
+      "titel": "Eén binder, drie kenmerken",
+      "waarom": "De Flex Short in drie feiten van jullie eigen productpagina: verstelbare bandjes, 63% polyamide en maten XS t/m 2XL."
+    },
+    {
+      "node": "989:232",
+      "titel": "Waarom Paxsies bestaat",
+      "waarom": "Jullie verhaal sinds 2019 voor de queer community geeft mensen een reden om bij een Nederlands merk te kopen."
+    },
+    {
+      "node": "989:250",
+      "titel": "Stel je eigen set samen",
+      "waarom": "Jullie bundel van drie boxers voor €70 werkt beter als je zelf de kleuren kiest."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "990:82",
+    "onderwerp": "Welkom bij Paxsies",
+    "kop": "Een nieuwsbrief die voelt als Paxsies.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: jullie verhaal, de boxers met zakken uitgelegd en de binder met verstelbare bandjes.",
+    "punten": [
+      "Jullie verhaal sinds 2019, met Siyen en Alex",
+      "De boxers met vier korte labels uitgelegd",
+      "Afsluiter met de Flex Short binder"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
