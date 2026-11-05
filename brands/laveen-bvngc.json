@@ -1,0 +1,50 @@
+{
+  "slug": "laveen-bvngc",
+  "merk": "Laveen",
+  "domein": "laveen.nl",
+  "lead_id": "2026-11-04-laveen.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#524F24",
+  "kop": "Zuivere vitamines, uitgelegd in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "970:3",
+      "titel": "En verder niets",
+      "waarom": "Jullie eigen zin over Olive Drops, biologische olijfolie, vitamines en verder niets, wordt hier het hele verhaal: vier ingrediënten en meer niet."
+    },
+    {
+      "node": "970:66",
+      "titel": "Welke past bij jouw fase?",
+      "waarom": "Jullie maken supplementen voor zwangerschap, baby, kind en vrouw; zo kiest iemand in één blik wat bij haar fase past, met de vitaminequiz als vangnet."
+    },
+    {
+      "node": "970:131",
+      "titel": "Eén flesje, vier tot vijf maanden",
+      "waarom": "Volgens jullie eigen FAQ gaat een flesje 4 tot 5 maanden mee bij 3 druppels per dag, en dat maakt de prijs per maand heel concreet."
+    },
+    {
+      "node": "970:194",
+      "titel": "Het begin van Laveen",
+      "waarom": "Het verhaal van Jo, die in 2013 geen zuivere supplementen vond en ze zelf ging maken, staat op jullie over-ons-pagina en past bij 'voor vrouwen, door vrouwen'."
+    },
+    {
+      "node": "970:207",
+      "titel": "Lees eerst het etiket",
+      "waarom": "Een omgekeerde kop maakt nieuwsgierig, en de drie vinkjes (natuurlijk, suikervrij, vegan) zijn precies wat jullie op elk etiket beloven."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "970:340",
+    "onderwerp": "Je flesje is bijna leeg?",
+    "kop": "Een nieuwsbrief die voelt als Laveen.",
+    "tekst": "Een navulmail die op het juiste moment herinnert aan een nieuw flesje, met jullie verhaal en de navulverpakkingen.",
+    "punten": [
+      "Opent met het moment dat het flesje bijna op is",
+      "Laat de navulverpakking en wat erin zit zien",
+      "Sluit af met 100% natuurlijk, 0% toevoegingen"
+    ]
+  },
+  "ai_sfeer": true,
+  "gemaakt": "2026-11-05"
+}
