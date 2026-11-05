@@ -1,0 +1,50 @@
+{
+  "slug": "laui-5cgcm",
+  "merk": "Laui Lounge",
+  "domein": "lauilounge.com",
+  "lead_id": "2026-11-05-lauilounge.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A86B4C",
+  "kop": "Loungestoelen die het hele jaar buiten blijven, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "745:3",
+      "titel": "Breng hem niet naar binnen",
+      "waarom": "Een kop die even laat nadenken, met de Original Outdoor Pouf en drie dingen van jullie eigen site: het hele jaar buiten, handgemaakt in NL en de Safety Locking YKK-rits."
+    },
+    {
+      "node": "745:29",
+      "titel": "Lounge, ook binnen",
+      "waarom": "Jullie eigen foto's naast elkaar laten in één beeld zien dat de collectie zowel bij het zwembad als in de woonkamer past."
+    },
+    {
+      "node": "745:47",
+      "titel": "Voel eerst de stof",
+      "waarom": "Bij een stoel van een paar honderd euro twijfelen mensen over de kleur; de gratis stofstalen uit jullie balk bovenaan worden hier de reden om te klikken."
+    },
+    {
+      "node": "745:66",
+      "titel": "Stel je hoek samen",
+      "waarom": "De Doodle-bundel met SeatXL, poef en travertin tray voor €628,95 in plaats van €739,95, als bouwblokken zodat de bundel meteen logisch voelt."
+    },
+    {
+      "node": "745:99",
+      "titel": "Van maatkussen tot loungestoel",
+      "waarom": "Jullie eigen verhaal van 2016 tot nu, met het atelier in NL, geeft vertrouwen bij een product met een hoge orderwaarde."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "746:2",
+    "onderwerp": "Black Friday: 25% op de hele collectie",
+    "kop": "Een nieuwsbrief die voelt als Laui Lounge.",
+    "tekst": "Een Black Friday-mail met jullie echte actie (code BLACKFRIDAY25 tot en met 30 november), het merkverhaal en de Japandi's Hazel bundel met wat er precies in zit.",
+    "punten": [
+      "Jullie eigen actie en code, niets verzonnen",
+      "Het verhaal van maatkussen tot loungestoel",
+      "Afsluiting over het hele jaar buiten laten staan"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
