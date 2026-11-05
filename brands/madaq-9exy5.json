@@ -1,0 +1,50 @@
+{
+  "slug": "madaq-9exy5",
+  "merk": "MADAQ Chocolatier",
+  "domein": "madaq.com",
+  "lead_id": "2026-11-05-madaq.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#412119",
+  "kop": "Bonbons, repen en cadeaudoosjes uit het atelier in Velp, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "735:3",
+      "titel": "Nieuw: gevulde repen",
+      "waarom": "De gevulde repen staan nu als nieuw bovenaan de homepage; foto's van de vulling tussen de woorden maken in één blik duidelijk wat er nieuw aan is."
+    },
+    {
+      "node": "735:23",
+      "titel": "Eén smaak, zeven keer",
+      "waarom": "De vijf Solo Boxes van €10,50 krijgen elk een eigen rondje met de echte bonbon, zodat je kiest op smaak in plaats van op doosje."
+    },
+    {
+      "node": "737:2",
+      "titel": "Wat wil je zeggen?",
+      "waarom": "Jullie doosjes van €15,90 hebben per moment een eigen kleur en tekst; als keuzevraag past dat precies bij iemand die een cadeautje zoekt."
+    },
+    {
+      "node": "737:40",
+      "titel": "Wat kost één bonbon?",
+      "waarom": "Een kassabon rekent de prijs per bonbon uit (€1,66 tot €1,42) en laat zien waarom de grotere Variety Box de moeite waard is, met gratis verzending vanaf €49."
+    },
+    {
+      "node": "737:117",
+      "titel": "Van ijsfietskar tot atelier",
+      "waarom": "Jullie eigen verhaal, van dadels met chocolade in 2020 tot het atelier in Velp, als tijdlijn; dat geeft het merk een gezicht naast de productadvertenties."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "739:2",
+    "onderwerp": "Vers gemaakt, elke dag in Velp",
+    "kop": "Een nieuwsbrief die voelt als MADAQ Chocolatier.",
+    "tekst": "Een nieuwsbrief met jullie verhaal, de Our Favourites Box met vier kenmerken van de site en de Variety Box als afsluiter, in jullie bruin en crème.",
+    "punten": [
+      "Jullie verhaal van ijsfietskar tot atelier in Velp",
+      "Our Favourites Box met vers bereid, geen palmolie en cacao uit Colombia",
+      "Variety Box van 25 bonbons als afsluiter"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
