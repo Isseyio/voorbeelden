@@ -1,0 +1,50 @@
+{
+  "slug": "balzac-nmz5a",
+  "merk": "BALZAC",
+  "domein": "balzac.nl",
+  "lead_id": "2026-11-05-balzac.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#171717",
+  "kop": "Grooming tools van baard tot balls, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "801:3",
+      "titel": "Koop deze trimmer niet",
+      "waarom": "Een omgekeerde kop die past bij jullie directe toon, met drie echte kenmerken van de Hedgeman 5.0: keramisch mesje, waterdicht en twee koppen."
+    },
+    {
+      "node": "801:27",
+      "titel": "Boven en onder de gordel",
+      "waarom": "Laat de Beard & Balls Bundle zien met twee eigen foto's naast elkaar en de bundelprijs van de site."
+    },
+    {
+      "node": "801:48",
+      "titel": "Elke zone",
+      "waarom": "Eén groot woord en vier tools per zone, met jullie verhaal dat BALZAC bij de schaamstreek begon omdat andere merken daar niet over spraken."
+    },
+    {
+      "node": "802:2",
+      "titel": "Hoe het begon",
+      "waarom": "Het ontstaansverhaal van de site als chatgesprek: de oprichters konden zelf geen trimmer vinden die ze daar beneden wilden gebruiken, dus maakten ze er een."
+    },
+    {
+      "node": "802:23",
+      "titel": "Cadeau per budget",
+      "waarom": "Drie echte prijzen voor de feestdagen, van Ballwash tot de Complete Bundle, met jullie belofte: voor 23:59 besteld, morgen in huis."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "803:2",
+    "onderwerp": "Welkom bij BALZAC",
+    "kop": "Een nieuwsbrief die voelt als BALZAC.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: het verhaal van de twee broers, de Hedgeman 5.0 met zijn onderdelen, drie tools om mee te beginnen en jullie 90 dagen proefscheren.",
+    "punten": [
+      "Welkomstmail voor het nieuwsbriefveld onderaan de site",
+      "De Hedgeman 5.0 met labels voor mesje, accu-display, waterdicht en foil shaver-kop",
+      "Afsluiting met 90 dagen proefscheren en 2 jaar garantie"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
