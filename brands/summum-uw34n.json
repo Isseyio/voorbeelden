@@ -1,0 +1,50 @@
+{
+  "slug": "summum-uw34n",
+  "merk": "Summum Woman",
+  "domein": "summumwoman.com",
+  "lead_id": "2026-11-03-summumwoman.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#7E7650",
+  "kop": "De wintercollectie van Summum, op vijf manieren verteld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "984:3",
+      "titel": "Gratis verzending vanaf €75",
+      "waarom": "Jullie eigen verzendbelofte groot in beeld boven de sfeerfoto van het bomberjasje golden flower, zodat het aanbod meteen duidelijk is."
+    },
+    {
+      "node": "984:23",
+      "titel": "Eén top, twee keer anders",
+      "waarom": "De taft top met strik in de lichte en de zwarte versie naast elkaar laat zien dat één stuk zowel overdag als 's avonds werkt."
+    },
+    {
+      "node": "984:48",
+      "titel": "Het appje",
+      "waarom": "Een herkenbare vraag tussen vriendinnen met het mohair chunky vest als antwoord voelt als een tip, niet als een advertentie."
+    },
+    {
+      "node": "984:78",
+      "titel": "Ontworpen in Amsterdam",
+      "waarom": "Sinds 1998 ontwerpen jullie alles in huis, tekenen jullie de prints zelf en wordt het meeste in Europa gemaakt. Dat verhaal onderscheidt jullie van grote ketens."
+    },
+    {
+      "node": "984:107",
+      "titel": "Nieuw binnen, winter 2026",
+      "waarom": "Zes nieuwe stukken met hun echte prijzen in één raster geven een snel overzicht van de collectie, als aanvulling op de losse collectie-advertenties."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "985:2",
+    "onderwerp": "Warm de winter in: nieuw binnen bij Summum",
+    "kop": "Een nieuwsbrief die voelt als Summum.",
+    "tekst": "Een wekelijkse nieuwsbrief met de nieuwe stukken, jullie eigen verhaal en het loyalty programma, in de rustige stijl van jullie site.",
+    "punten": [
+      "Sfeerfoto van het mohair vest met de nieuwe wintercollectie",
+      "Het gestreepte T-shirt uitgelicht met de details die je op de foto ziet",
+      "Vier nieuwe stukken en het sparen van punten als afsluiting"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
