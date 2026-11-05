@@ -1,0 +1,50 @@
+{
+  "slug": "organifer-wkssf",
+  "merk": "Organifer",
+  "domein": "organifer.com",
+  "lead_id": "2026-11-05-organifer.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#0B5E26",
+  "kop": "Gazonmest van Organifer, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "762:109",
+      "titel": "Van dor naar diepgroen",
+      "waarom": "Jullie eigen voor-en-na-beeld laat in één oogopslag zien wat de Gazonmest All-In-One doet, met tot 100 dagen voeding en de prijs van €42,99."
+    },
+    {
+      "node": "762:119",
+      "titel": "Drie keer strooien",
+      "waarom": "Een gazonplan met voorjaar, zomer en najaar maakt de dosering van 1 kg per 20 m² concreet en zet nu de najaarsgift aan."
+    },
+    {
+      "node": "762:145",
+      "titel": "4,77 uit 5",
+      "waarom": "Twee echte reviews van de productpagina en het gemiddelde over 269 beoordelingen geven vertrouwen voordat iemand doorklikt."
+    },
+    {
+      "node": "762:165",
+      "titel": "Hoeveel heb ik nodig?",
+      "waarom": "De vraag die elke tuinier heeft, beantwoord met jullie eigen maten: 5 kg voor 100 m², 10 kg voor 200 m² en 20 kg voor 400 m²."
+    },
+    {
+      "node": "762:189",
+      "titel": "Drie vragen over de najaarsgift",
+      "waarom": "Geen vlekken, geen apart kalk en wanneer strooien: drie twijfels die jullie productpagina al beantwoordt, nu vóór de klik."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "762:287",
+    "onderwerp": "De najaarsgift voor je gazon",
+    "kop": "Een nieuwsbrief die voelt als Organifer.",
+    "tekst": "Een seizoensmail voor november: waarom een laatste gift in de herfst helpt, wat er in de Gazonmest All-In-One zit en hoe je in drie stappen strooit.",
+    "punten": [
+      "De najaarsgift als seizoensmoment",
+      "Vier productlabels uit jullie eigen productpagina",
+      "Drie strooistappen en de juiste zak per m²"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
