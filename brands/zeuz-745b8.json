@@ -1,0 +1,50 @@
+{
+  "slug": "zeuz-745b8",
+  "merk": "ZEUZ",
+  "domein": "zeuzfitness.com",
+  "lead_id": "2026-11-05-zeuzfitness.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#FF0000",
+  "kop": "Fitnessgear uit Gemert, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "743:18",
+      "titel": "Je volgende PR belt",
+      "waarom": "Jullie gratis No Excuses patch vanaf €80 als inkomende oproep, met jullie eigen patchfoto; een speels format dat in de feed opvalt en de orderwaarde omhoog duwt."
+    },
+    {
+      "node": "743:31",
+      "titel": "Welke zandzak past bij jou?",
+      "waarom": "Atlas Stone (20 t/m 140 kg) en Training (10 t/m 30 kg) naast elkaar helpen kiezen op gewicht en gebruik, zonder dat iemand eerst door de collectie moet."
+    },
+    {
+      "node": "743:53",
+      "titel": "Schrijf hem op het bord",
+      "waarom": "Een workout op een whiteboard spreekt CrossFit- en HYROX-sporters aan in hun eigen taal en laat drie producten zien die je samen gebruikt."
+    },
+    {
+      "node": "743:73",
+      "titel": "Bijna een gratis patch",
+      "waarom": "Een winkelmand met Speed Rope en Lifting Straps (€74,90) laat zien hoe dicht je bij de gratis patch vanaf €80 zit, met gratis verzending vanaf €60 al binnen."
+    },
+    {
+      "node": "743:106",
+      "titel": "Begin met deze zes",
+      "waarom": "Uit de 165+ producten zes bekende items met prijs in één raster; handig voor nieuwe klanten die niet weten waar ze moeten beginnen."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "744:128",
+    "onderwerp": "Daag jezelf uit. Elke dag opnieuw.",
+    "kop": "Een nieuwsbrief die voelt als ZEUZ.",
+    "tekst": "Een trainingsnieuwsbrief met jullie verhaal van zoldergym tot merk, het Tactical Gewichtsvest met vier kenmerken van de site en de Speed Rope Tornado Pro als afsluiter.",
+    "punten": [
+      "Jullie verhaal: in 2018 opgericht door Julian en Jochem",
+      "Tactical Gewichtsvest met 4.9 sterren uit 242 recensies",
+      "Speed Rope Tornado Pro als afsluiter"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
