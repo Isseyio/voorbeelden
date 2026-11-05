@@ -1,0 +1,50 @@
+{
+  "slug": "voordeelgordijnen-7y9rp",
+  "merk": "Voordeelgordijnen",
+  "domein": "voordeelgordijnen.nl",
+  "lead_id": "2026-11-05-voordeelgordijnen.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C02B2B",
+  "kop": "Vijf ideeën met jullie stoffen, stalen en verhaal.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "989:94",
+      "titel": "Bang om verkeerd te meten?",
+      "waarom": "Jullie eigen zin 'Meet je verkeerd? Wij lossen het op' beantwoordt de grootste twijfel bij maatwerk, met de meetverzekering en 10 jaar garantie die tot en met 8 december lopen."
+    },
+    {
+      "node": "989:106",
+      "titel": "Verduisterend of transparant",
+      "waarom": "Het elektrische rolgordijn Napoli bestaat in een verduisterende en een transparante stof, en twee foto's naast elkaar maken die keuze in één blik duidelijk."
+    },
+    {
+      "node": "989:131",
+      "titel": "Uit ons eigen atelier",
+      "waarom": "Jullie maken alle gordijnen in Nederland op maat, en een lijst met velours, verduisterend, inbetween en rolgordijn laat zien hoe breed dat aanbod is."
+    },
+    {
+      "node": "989:287",
+      "titel": "Begonnen op de Albert Cuyp",
+      "waarom": "Het verhaal van Hennie Dost op de Albert Cuypmarkt en Robin die in 2011 de webshop startte is echt en persoonlijk, en de oude winkelfoto maakt het meteen zichtbaar."
+    },
+    {
+      "node": "989:310",
+      "titel": "Eerst voelen, dan kiezen",
+      "waarom": "Gratis kleurstalen, zelf meten en binnen 21 werkdagen in huis zijn drie stappen die jullie al aanbieden, en samen nemen ze de drempel voor maatwerk weg."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "990:2",
+    "onderwerp": "Warme gordijnen voor lange avonden",
+    "kop": "Een nieuwsbrief die voelt als Voordeelgordijnen.",
+    "tekst": "Een nieuwsbrief voor de donkere maanden, met jullie familieverhaal, het elektrische rolgordijn Napoli uitgelicht en de actie met meetverzekering.",
+    "punten": [
+      "Het verhaal van de Albert Cuypmarkt tot het eigen atelier",
+      "Het rolgordijn Napoli met vier uitgelegde kenmerken",
+      "De meetverzekering en 10 jaar garantie tot en met 8 december"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
