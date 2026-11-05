@@ -1,0 +1,50 @@
+{
+  "slug": "wandkraft-rfay3",
+  "merk": "Wandkraft",
+  "domein": "wandkraft.com",
+  "lead_id": "2026-11-05-wandkraft.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#7A4A35",
+  "kop": "Akoestische kunst van vilt, in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "771:3",
+      "titel": "Koop geen schilderij",
+      "waarom": "Een prikkelende kop die laat zien dat Tender Hold meer doet dan mooi hangen: het akoestische vilt dempt de galm."
+    },
+    {
+      "node": "771:23",
+      "titel": "Waar Reed Lines van is",
+      "waarom": "Jullie eigen feiten op een rij: vilt van gerecyclede PET-flessen, NRC 0,75 en een baklijst met 3 cm spouw."
+    },
+    {
+      "node": "771:59",
+      "titel": "Hoe breed wordt je Golfwand?",
+      "waarom": "De Golfwand komt in vier breedtes van €469 tot €769, dus een maatgids beantwoordt de eerste vraag meteen."
+    },
+    {
+      "node": "771:83",
+      "titel": "Zeventien combinaties",
+      "waarom": "Step Tower is nieuw en komt in 17 driekleurige combinaties vanaf €99; drie echte varianten naast elkaar maken die keuze zichtbaar."
+    },
+    {
+      "node": "771:99",
+      "titel": "Galm in beeld",
+      "waarom": "Een eenvoudige illustratie van galm met en zonder vilt maakt in één oogopslag duidelijk wat Contour Flow in een kamer doet."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "773:2",
+    "onderwerp": "Kunst die je kamer rustiger maakt",
+    "kop": "Een nieuwsbrief die voelt als Wandkraft.",
+    "tekst": "Een mail rond jullie akoestische kunstwerken, met het verhaal van het eigen atelier en Tender Hold uitgelicht.",
+    "punten": [
+      "Merkverhaal: alles in eigen beheer en op bestelling gemaakt, op CO₂-neutrale stroom",
+      "Tender Hold met vier labels uit de productpagina",
+      "Afsluiting met Reed Lines, 14 dagen op proef en 5 jaar garantie"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
