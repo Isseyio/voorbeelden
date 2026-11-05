@@ -1,0 +1,50 @@
+{
+  "slug": "bellobox-nhzwt",
+  "merk": "Bellobox",
+  "domein": "bellobox.nl",
+  "lead_id": "2026-11-02-bellobox.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#99B257",
+  "kop": "Natuurlijke hondensnacks, in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "995:3",
+      "titel": "Alleen rund",
+      "waarom": "Vier van jullie snacks met wat erin zit en wat ze kosten, zodat baasjes meteen zien dat er niets extra's in zit."
+    },
+    {
+      "node": "995:38",
+      "titel": "Elke dag iets",
+      "waarom": "Een week aan snacks laat zien waarom jullie abonnement handig is: de box komt elke maand of om de maand vanzelf."
+    },
+    {
+      "node": "995:80",
+      "titel": "Kaya belt",
+      "waarom": "Jullie kwaliteitskeurder Kaya en de belofte dat een bestelling op werkdagen vóór 15:00 dezelfde dag verstuurd wordt."
+    },
+    {
+      "node": "995:108",
+      "titel": "Welke box past?",
+      "waarom": "Jullie eigen indeling op leeftijd en gewicht maakt de keuze voor een nieuwe klant makkelijk."
+    },
+    {
+      "node": "995:139",
+      "titel": "De eerste bon",
+      "waarom": "Een bon met echte prijzen en jullie 10% welkomstkorting laat zien wat een eerste bestelling kost."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "996:2",
+    "onderwerp": "Welkom bij Bellobox, je 10% staat klaar",
+    "kop": "Een nieuwsbrief die voelt als Bellobox.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% korting, het verhaal van de boerderij en het abonnement uitgelegd.",
+    "punten": [
+      "De 10% welkomstkorting bovenaan",
+      "Het verhaal van Jeffrey, Kaya en Dave",
+      "De bullepees uitgelegd in vier labels"
+    ]
+  },
+  "ai_sfeer": true,
+  "gemaakt": "2026-11-05"
+}
