@@ -1,0 +1,50 @@
+{
+  "slug": "perro-gdgvt",
+  "merk": "Perro Collection",
+  "domein": "perrocollection.com",
+  "lead_id": "2026-11-04-perrocollection.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6B1E2A",
+  "kop": "Vijf advertenties voor leren hondenaccessoires uit Toscane",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "760:22",
+      "titel": "Burgundy in één woord",
+      "waarom": "Eén kleurwoord groot in beeld met de Fur Collar en Fur Leash uit jullie Burgundy-collectie en hun echte prijzen."
+    },
+    {
+      "node": "760:40",
+      "titel": "Burgundy of Loden Green",
+      "waarom": "Dezelfde Fur Leash in twee kleuren naast elkaar maakt de keuze makkelijk en laat het kleurpalet zien."
+    },
+    {
+      "node": "760:74",
+      "titel": "The Gift Edit",
+      "waarom": "Jullie cadeauklare verpakking en de Christmas Tree-toy van €29,99 passen bij de cadeauperiode die eraan komt."
+    },
+    {
+      "node": "760:119",
+      "titel": "Zijn initiaal, gratis",
+      "waarom": "Gratis personalisatie is een sterk argument; de tags met initialen uit jullie eigen foto laten het meteen zien."
+    },
+    {
+      "node": "760:133",
+      "titel": "9 jaar Perro",
+      "waarom": "Het nieuwe logo na negen jaar, met sinds 2017, 50.000+ klanten en 4,9 uit 5 uit jullie eigen footer."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "760:152",
+    "onderwerp": "Welkom bij Perro Collection",
+    "kop": "Een nieuwsbrief die voelt als Perro Collection.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, met jullie verhaal uit Toscane, wat klanten mogen verwachten en de Burgundy Fur Collar uitgelicht.",
+    "punten": [
+      "Welkom met jullie eigen verhaal over Italiaans vakmanschap",
+      "Wereldwijde levering, gratis personalisatie en klantenservice als drie beloftes",
+      "Sluit af met de Round Leather Dog Sofa"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
