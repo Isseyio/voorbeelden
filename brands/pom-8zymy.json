@@ -1,0 +1,50 @@
+{
+  "slug": "pom-8zymy",
+  "merk": "POM Amsterdam",
+  "domein": "pom-amsterdam.com",
+  "lead_id": "2026-11-05-pom-amsterdam.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#DE35AB",
+  "kop": "Vijf advertenties voor POM, met jullie sjaals in de hoofdrol.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "749:3",
+      "titel": "Eén sjaal, drie kleuren",
+      "waarom": "Elly bestaat in Teal Green, Ultra Pink en Rouge; drie modelfoto's naast elkaar laten in één keer de keuze zien, met jullie eigen draagtip."
+    },
+    {
+      "node": "749:16",
+      "titel": "Sjaal cadeau",
+      "waarom": "Jullie actie met een gratis sjaal vanaf €159 staat nu op de site; deze advertentie maakt er een duidelijk aanbod van met drie sjaals om uit te kiezen."
+    },
+    {
+      "node": "749:31",
+      "titel": "Zacht om je hals",
+      "waarom": "Een modelfoto met hand aan de sjaal en de feiten van de productpagina: 27% alpaca, 100 x 35 cm, one size en €49."
+    },
+    {
+      "node": "749:49",
+      "titel": "Koop deze sjaal niet",
+      "waarom": "Een knipoog die past bij Daily dose of up, met jullie eigen beloftes: gratis verzending vanaf €50, voor 14:00 besteld dezelfde dag weg en 30 dagen retour."
+    },
+    {
+      "node": "749:63",
+      "titel": "Daily dose of up",
+      "waarom": "Zeven sjaals als weekstrip laten zien hoe breed het assortiment is, van €49 tot €109."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "750:68",
+    "onderwerp": "Drie keer Elly",
+    "kop": "Een nieuwsbrief die voelt als POM Amsterdam.",
+    "tekst": "Een productmail rond Sjaal Elly in drie kleuren, met jullie verhaal sinds 2011 en de sjaal-cadeau-actie als afsluiting.",
+    "punten": [
+      "Merkverhaal uit jullie eigen pagina Our Story",
+      "Kleurkeuze naast elkaar, met de feiten van de productpagina",
+      "Afsluiting met de actie die nu op de site staat"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
