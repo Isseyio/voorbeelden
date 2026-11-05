@@ -1,0 +1,50 @@
+{
+  "slug": "keetjes-ka4en",
+  "merk": "Keetjes",
+  "domein": "keetjes.nl",
+  "lead_id": "2026-11-03-keetjes.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3E5A2C",
+  "kop": "Vijf ideeën rond jullie snacks, van kabeljauw tot lam.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "972:267",
+      "titel": "Wat zit erin?",
+      "waarom": "De Kabeljauw sticks zijn volgens jullie productpagina 100% kabeljauw met 88,2% ruw eiwit, en zo'n korte ingrediëntenlijst is zelf al een sterk verhaal."
+    },
+    {
+      "node": "972:289",
+      "titel": "Elke dag iets anders",
+      "waarom": "Jullie schrijven zelf dat je producten maakt om af te wisselen; een weekstrip met zeven snacks laat zien hoe dat er in de praktijk uitziet."
+    },
+    {
+      "node": "972:327",
+      "titel": "Rond, dik en van lam",
+      "waarom": "Eén product groot in beeld, de Vleessticks rond & dik van lam voor € 9,95 per 150 gram, met drie korte kenmerken eromheen."
+    },
+    {
+      "node": "974:2",
+      "titel": "Vandaag op het menu",
+      "waarom": "Een menukaart met vier producten en hun echte prijzen, onder jullie eigen beeld van de labrador met snack."
+    },
+    {
+      "node": "974:29",
+      "titel": "Zo begon Keetjes",
+      "waarom": "Jullie verhaal over de oude vleesmolen in de bijkeuken als recept, omdat het persoonlijk is en past bij hoe jullie zelf schrijven."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "974:62",
+    "onderwerp": "Welkom bij de Keetjes-roedel",
+    "kop": "Een nieuwsbrief die voelt als Keetjes.",
+    "tekst": "Een welkomstmail voor nieuwe leden van de roedel, met het verhaal uit de bijkeuken, de Kabeljauw sticks in vier punten en een blok over afwisselen.",
+    "punten": [
+      "Sluit aan op jullie inschrijving voor de Keetjes-roedel",
+      "Kabeljauw sticks uitgelegd met cijfers van jullie productpagina",
+      "Afwisselen tussen vis, lam en kauwsnacks als afsluiting"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
