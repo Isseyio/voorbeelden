@@ -1,0 +1,50 @@
+{
+  "slug": "kalm-kmdsm",
+  "merk": "Kalm",
+  "domein": "slaapkalm.nl",
+  "lead_id": "2026-11-04-slaapkalm.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#09375D",
+  "kop": "Verzwaringsdekens van Kalm, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "889:90",
+      "titel": "Jouw avond",
+      "waarom": "Een avondschema laat zien hoe makkelijk het is: de deken gaat gewoon in plaats van je dekbed, zoals jullie FAQ uitlegt."
+    },
+    {
+      "node": "889:115",
+      "titel": "Koop deze deken niet",
+      "waarom": "Een omgekeerde kop die blijft hangen, met de 100 nachten proefperiode, gratis retour en Klarna als geruststelling."
+    },
+    {
+      "node": "889:134",
+      "titel": "Te zwaar en te warm?",
+      "waarom": "De vraag die jullie zelf als eerste beantwoorden, met jullie eigen antwoord naast jullie eigen foto."
+    },
+    {
+      "node": "889:147",
+      "titel": "Welk gewicht past",
+      "waarom": "De vuistregel van ongeveer 10% van je lichaamsgewicht en de tweepersoonsdeken van 13 kg uit jullie FAQ maken de keuze in één blik duidelijk."
+    },
+    {
+      "node": "889:162",
+      "titel": "Twee kanten, één hoes",
+      "waarom": "Een detailbeeld van de katoenen hoes van €49 in koningsblauw en wit, met waarom een hoes handig is."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "890:2",
+    "onderwerp": "Winterhoes of toch katoen?",
+    "kop": "Een nieuwsbrief die voelt als Kalm.",
+    "tekst": "Nu de nachten kouder worden een mail over de hoezen, met jullie eigen verhaal en de 100 nachten proefperiode als afsluiter.",
+    "punten": [
+      "Drie hoezen naast elkaar met de echte prijzen",
+      "Jullie verhaal sinds eind 2018",
+      "Afsluiting met de 100 nachten proefperiode"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
