@@ -1,0 +1,50 @@
+{
+  "slug": "untamed-4hnqb",
+  "merk": "Untamed Kombucha",
+  "domein": "untamedkombucha.nl",
+  "lead_id": "2026-11-05-untamedkombucha.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#EA4B95",
+  "kop": "Vier smaken uit Gemert, in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "698:3",
+      "titel": "Wat zit erin",
+      "waarom": "Per smaak staan er maar een paar ingrediënten op jullie site, zoals Mao Feng-thee en hop van BrabantHop; dat laat je in één beeld zien."
+    },
+    {
+      "node": "698:27",
+      "titel": "Raw in één woord",
+      "waarom": "Jullie pasteuriseren niet, en dat verschil met andere kombucha past in één groot woord met de vier smaken eronder."
+    },
+    {
+      "node": "700:2",
+      "titel": "Stel je box samen",
+      "waarom": "Jullie eigen boxkeuze van 6 tot 36 flesjes werkt als advertentie, met de drempel voor gratis verzending vanaf €49,95 erbij."
+    },
+    {
+      "node": "700:70",
+      "titel": "De brouwerij in Gemert",
+      "waarom": "Elke batch wordt in jullie eigen brouwerij gebrouwen; met Joris in beeld voelt dat echt, en de workshop op 21 november past erbij."
+    },
+    {
+      "node": "700:87",
+      "titel": "Proosten in december",
+      "waarom": "Richting de feestdagen zoeken mensen iets alcoholvrijs voor aan tafel, en de Mix Box met vier smaken past daar goed bij."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "701:2",
+    "onderwerp": "Kombucha die nog leeft",
+    "kop": "Een nieuwsbrief die voelt als Untamed Kombucha.",
+    "tekst": "Het verhaal van Joris uit jullie Over ons-pagina, Kurkuma & Gember uitgelicht en de Mix Box voor wie niet kan kiezen.",
+    "punten": [
+      "Merkverhaal uit jullie eigen Over ons-pagina",
+      "Eén smaak uitgelicht met wat erin zit",
+      "Afsluiting met de Mix Box van €36"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
