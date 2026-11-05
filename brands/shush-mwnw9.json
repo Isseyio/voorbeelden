@@ -1,0 +1,50 @@
+{
+  "slug": "shush-mwnw9",
+  "merk": "Shush",
+  "domein": "shush-gehoorbescherming.nl",
+  "lead_id": "2026-11-04-shush-gehoorbescherming.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Gehoorbescherming van Shush, per situatie in beeld.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "786:3",
+      "titel": "Lawaai eruit",
+      "waarom": "Jullie foto van de Worker in de hand laat in één beeld zien wat het doet, en het keramische filter is het verschil met een gewone oordop."
+    },
+    {
+      "node": "786:16",
+      "titel": "Elke kleur een eigen klus",
+      "waarom": "Biker, Focus, Sleep / Swim en Worker hebben elk een eigen kleur, dus één overzicht helpt kopers meteen de juiste te kiezen."
+    },
+    {
+      "node": "786:54",
+      "titel": "Open kantoor",
+      "waarom": "Een herkenbaar gesprek over herrie op kantoor brengt de Focus met SNR 24 dB(A) dicht bij de dagelijkse situatie van de koper."
+    },
+    {
+      "node": "786:125",
+      "titel": "Op maat in drie stappen",
+      "waarom": "Dat een otometrist bij je langskomt voor de afdruk is een sterk punt dat in een advertentie direct duidelijk moet zijn."
+    },
+    {
+      "node": "786:162",
+      "titel": "Slapen en zwemmen",
+      "waarom": "De Sleep / Swim is twee producten in één, en een routinekaart laat beide momenten zien zonder lange uitleg."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "787:2",
+    "onderwerp": "Hard of zacht: welke otoplastiek past bij jou?",
+    "kop": "Een nieuwsbrief die voelt als Shush.",
+    "tekst": "Een mail over oordoppen op maat, met jullie eigen beelden, de keuze tussen hard en zacht en jullie garantie.",
+    "punten": [
+      "Merkverhaal met medische graad en certificering",
+      "Hard en zacht naast elkaar",
+      "Afsluiting met 2 jaar gratis garantie"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
