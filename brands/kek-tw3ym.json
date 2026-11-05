@@ -1,0 +1,50 @@
+{
+  "slug": "kek-tw3ym",
+  "merk": "KEK Amsterdam",
+  "domein": "kekamsterdam.com",
+  "lead_id": "2026-11-01-kekamsterdam.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2A2A29",
+  "kop": "Behang laten zien zoals het bij mensen thuis aan de muur hangt",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "864:2",
+      "titel": "Koop dit behang niet",
+      "waarom": "Een kop die laat stoppen met scrollen, met daarachter de echte drempelverlager: een staal van Hotel Chique Geneva voor € 2."
+    },
+    {
+      "node": "864:27",
+      "titel": "Waar het van gemaakt is",
+      "waarom": "Vlies met een afwasbare vinyllaag, een linnen look en lijm op de muur: de kenmerken van de productpagina in één beeld."
+    },
+    {
+      "node": "865:2",
+      "titel": "Eerst voelen, dan plakken",
+      "waarom": "Behang koop je pas als je het gevoeld hebt, en de stalen vanaf € 2 maken die eerste stap klein."
+    },
+    {
+      "node": "865:29",
+      "titel": "Welke muur past bij jou?",
+      "waarom": "Drie heel verschillende muren uit jullie collectie als korte keuzevraag, die uitnodigt om te reageren."
+    },
+    {
+      "node": "865:53",
+      "titel": "Zelf behangen",
+      "waarom": "Jullie behang breng je zelf aan met de lijm op de muur, en dat neemt twijfel weg bij wie nog nooit behangen heeft."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "866:2",
+    "onderwerp": "Drie muren, drie sferen",
+    "kop": "Een nieuwsbrief die voelt als KEK Amsterdam.",
+    "tekst": "Drie muren uit jullie collectie, het verhaal van Evert, Bas en Barbara en een afsluiting met de stalen van € 2.",
+    "punten": [
+      "Het merkverhaal uit jullie over-ons-pagina",
+      "Hotel Chique Geneva met vier kenmerken",
+      "Een afsluiting met de stalen vanaf € 2"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
