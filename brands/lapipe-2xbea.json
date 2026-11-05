@@ -1,0 +1,50 @@
+{
+  "slug": "lapipe-2xbea",
+  "merk": "La Pipe",
+  "domein": "la-pipe.nl",
+  "lead_id": "2026-11-04-la-pipe.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1615ED",
+  "kop": "Stainless steel sieraden in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "921:28",
+      "titel": "Gedraaid en verkleurt niet",
+      "waarom": "Jullie eigen modelfoto van de gedraaide oorbellen WILLEMIJNE met twee labels: het ontwerp en stainless steel, dus verkleurt niet."
+    },
+    {
+      "node": "921:46",
+      "titel": "Stel je stack samen",
+      "waarom": "De armbandenbundel bestaat al in vier combinaties met korting; als keuzelijst wordt het een kleine bundelbouwer."
+    },
+    {
+      "node": "921:74",
+      "titel": "Zon, maan of ster",
+      "waarom": "De studs kosten € 10,95 per stuk, dus de vraag welke je kiest nodigt uit om er meer te combineren."
+    },
+    {
+      "node": "921:113",
+      "titel": "Welke stad draag jij?",
+      "waarom": "Jullie kettingbundels met een Amsterdammertje, Leidse sleutels of Maastrichts Engeltje geven een herkenbare, persoonlijke cadeaureden."
+    },
+    {
+      "node": "921:135",
+      "titel": "Sieraden zonder filter",
+      "waarom": "Jullie eigen tagline met echte cijfers van de site: 54 reviews op de Basic oorringen set, 94 procent vijf sterren, en meer dan 35.000 klanten."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "922:2",
+    "onderwerp": "Bienvenue bij La Pipe, vriendin",
+    "kop": "Een nieuwsbrief die voelt als La Pipe.",
+    "tekst": "Een welkomstmail rond jullie mystery gift vanaf € 35: het verhaal van Anna van Borre, de Basic oorringen set met vier labels, en de set voor allebei je oren als volgende stap.",
+    "punten": [
+      "De mystery gift die jullie nu alleen in een inklapblok noemen",
+      "De Basic oorringen set met maten, materiaal en prijs",
+      "De bundel voor allebei je oren als afsluiting"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
