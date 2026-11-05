@@ -1,0 +1,50 @@
+{
+  "slug": "amaya-xjx6n",
+  "merk": "AMAYA Amsterdam",
+  "domein": "amaya-amsterdam.com",
+  "lead_id": "2026-11-05-amaya-amsterdam.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4A2236",
+  "kop": "Matching sets, in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "951:20",
+      "titel": "Samen of los",
+      "waarom": "Jullie eigen belofte, sets die je samen of los draagt, als grote typografie met de Snowfall Jacket en Riley Short."
+    },
+    {
+      "node": "951:33",
+      "titel": "De details van dichtbij",
+      "waarom": "De close-up van de Frozen Jacket laat de gouden knopen en borstzakken zien, details die je in een kleine productfoto mist."
+    },
+    {
+      "node": "951:53",
+      "titel": "Eén look, twee stukken",
+      "waarom": "De Shop the look van de Icon Blazer en Vivienne Pants als bonnetje: prijs, gratis verzending en gratis ruilen in één oogopslag."
+    },
+    {
+      "node": "953:2",
+      "titel": "Winter'26 is online",
+      "waarom": "Vier stukken uit de nieuwe collectie naast elkaar, met hun echte prijzen, voor iedereen die de vorige collectie al kent."
+    },
+    {
+      "node": "953:24",
+      "titel": "Twijfel je over je maat?",
+      "waarom": "Pasvorm, modelmaat en gratis ruilen staan op jullie productpagina; als vraag en antwoord nemen ze de grootste twijfel weg."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "953:42",
+    "onderwerp": "Welkom bij AMAYA, hier is je 10%",
+    "kop": "Een nieuwsbrief die voelt als AMAYA Amsterdam.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, rond de 10% die jullie al beloven, het idee achter matching sets en de Icon Blazer als eerste look.",
+    "punten": [
+      "De 10% voor nieuwe inschrijvers als eerste stap",
+      "Het verhaal achter matching sets en de Italiaanse stoffen",
+      "Shop the look met Icon Blazer en Vivienne Pants"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
