@@ -1,0 +1,50 @@
+{
+  "slug": "prescription-wm6hf",
+  "merk": "Prescription Skincare",
+  "domein": "prescription-beauty.com",
+  "lead_id": "2026-11-05-prescription-beauty.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#533142",
+  "kop": "Klinische skincare van Prescription, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "786:72",
+      "titel": "Drie maanden in beeld",
+      "waarom": "De Zombie Cell Serum heeft eigen testresultaten na 2 weken, 2 maanden en 3 maanden; als tijdlijn zie je in één blik wat het serum doet."
+    },
+    {
+      "node": "786:97",
+      "titel": "Eerste routine in drie stappen",
+      "waarom": "De Skin Health Discovery Set bevat een cleanser, niacinamide en Edelweiss Cream; als routinekaart zie je meteen wat je gebruikt, voor €55 in plaats van €67."
+    },
+    {
+      "node": "787:87",
+      "titel": "Twee voor de huidbarrière",
+      "waarom": "Edelweiss Cream en Recovery Oil ondersteunen volgens jullie eigen productpagina's allebei de huidbarrière, dus samen vormen ze een logisch duo."
+    },
+    {
+      "node": "787:108",
+      "titel": "Welke huidvraag heb jij?",
+      "waarom": "Jullie hebben sets per huidvraag en een gratis Skin Scan; dit raster laat mensen zichzelf herkennen en stuurt ze naar de scan."
+    },
+    {
+      "node": "787:131",
+      "titel": "Een briefje van de oprichters",
+      "waarom": "Esther en Stephanie begonnen het merk als antwoord op de vraag die ze het vaakst hoorden; dat verhaal staat op jullie homepage en maakt het merk persoonlijk."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "788:185",
+    "onderwerp": "Weet wat je huid nodig heeft",
+    "kop": "Een nieuwsbrief die voelt als Prescription Skincare.",
+    "tekst": "Een merkverhaalmail die begint bij de vraag waarmee Esther en Stephanie het merk startten, de Zombie Cell Serum uitlegt aan de hand van de ingrediënten en eindigt bij de Dutch Beauty Award.",
+    "punten": [
+      "De gratis Skin Scan als eerste stap",
+      "De ingrediënten van de Zombie Cell Serum met labels",
+      "Gebruik, prijs en de award als afsluiting"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
