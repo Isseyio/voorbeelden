@@ -1,0 +1,50 @@
+{
+  "slug": "marcelsgreensoap-pxthg",
+  "merk": "Marcel's Green Soap",
+  "domein": "marcelsgreensoap.com",
+  "lead_id": "2026-11-04-marcelsgreensoap.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#F1BE48",
+  "kop": "Navullen, geuren en Marcels verhaal in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "787:144",
+      "titel": "Minder plastic, meer voordeel",
+      "waarom": "Jullie eigen belofte als grote kop, met de navulling Vanilla & Amber van €3,99 in plaats van €4,99 als concreet bewijs."
+    },
+    {
+      "node": "787:166",
+      "titel": "Fles leeg? Vul hem bij",
+      "waarom": "Jullie eigen foto van een hand die een navulling in de fles giet legt in één beeld uit hoe navullen werkt, met de fles van 99% gerecycled plastic."
+    },
+    {
+      "node": "787:184",
+      "titel": "Welke wasparfum ben jij?",
+      "waarom": "Een korte geurenquiz maakt de keuze tussen drie wasparfums van €6,99 speels en past bij jullie Feel Good geuren."
+    },
+    {
+      "node": "788:15",
+      "titel": "Hoe het begon",
+      "waarom": "Het verhaal van het gootsteenkastje, de bijkeuken vol zeep en de pakketjes op de fiets geeft het merk een gezicht naast het supermarktschap."
+    },
+    {
+      "node": "788:35",
+      "titel": "De afwas belt",
+      "waarom": "Een inkomend gesprek als knipoog laat het afwasmiddel Lemon & Bergamot van €3,49 opvallen en past bij jullie vrolijke toon."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "788:54",
+    "onderwerp": "Minder plastic, meer voordeel",
+    "kop": "Een nieuwsbrief die voelt als Marcel's Green Soap.",
+    "tekst": "Een mail rond de refills, met Marcels verhaal en de handzeep 0% uitgelegd met korte labels.",
+    "punten": [
+      "De refillactie als opening",
+      "Het verhaal van het gootsteenkastje",
+      "Navullen als nieuwe routine"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
