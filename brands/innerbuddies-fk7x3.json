@@ -1,0 +1,50 @@
+{
+  "slug": "innerbuddies-fk7x3",
+  "merk": "InnerBuddies",
+  "domein": "innerbuddies.com",
+  "lead_id": "2026-11-05-innerbuddies.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#391161",
+  "kop": "Vijf advertenties rond de darmflora test van InnerBuddies",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "797:2",
+      "titel": "Je darmen bellen",
+      "waarom": "Een speels belscherm rond jullie eigen zin over de 100 biljoen microben in je darmen, met de testkit in beeld."
+    },
+    {
+      "node": "797:22",
+      "titel": "Geluk is een onderbuikgevoel",
+      "waarom": "Jullie eigen homepagekop groot in beeld, met foto's van de testkit en het dashboard tussen de woorden."
+    },
+    {
+      "node": "798:2",
+      "titel": "In vijf stappen",
+      "waarom": "Laat zien hoe eenvoudig de thuistest is, met de vijf stappen zoals jullie ze zelf op de site uitleggen."
+    },
+    {
+      "node": "798:30",
+      "titel": "Uit Maastricht",
+      "waarom": "Dat InnerBuddies een spin-off van de Universiteit Maastricht is, geeft vertrouwen bij een test van €179."
+    },
+    {
+      "node": "798:47",
+      "titel": "Drie vragen",
+      "waarom": "Beantwoordt de vragen die mensen hebben voor ze bestellen: moet ik naar een lab, wanneer zie ik de uitslag en wat krijg ik."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "799:2",
+    "onderwerp": "Maak kennis met je innerlijke maatjes",
+    "kop": "Een nieuwsbrief die voelt als InnerBuddies.",
+    "tekst": "Een mail die jullie verhaal vertelt, uitlegt hoe de test werkt en eindigt bij de Personalisatiebundel.",
+    "punten": [
+      "Opening met jullie eigen woorden over de innerlijke maatjes",
+      "Het verhaal achter de spin-off van de Universiteit Maastricht",
+      "Afsluiting met de Personalisatiebundel van €69 in plaats van €105"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-05"
+}
