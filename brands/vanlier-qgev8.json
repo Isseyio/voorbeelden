@@ -1,0 +1,50 @@
+{
+  "slug": "vanlier-qgev8",
+  "merk": "VANLIER",
+  "domein": "vanlier.nl",
+  "lead_id": "2026-11-03-vanlier.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8E5433",
+  "kop": "Schoenen sinds 1815, in vijf advertenties.",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "997:340",
+      "titel": "Koop deze sneaker niet",
+      "waarom": "Een omgekeerde kop maakt nieuwsgierig en brengt de Positano terug tot drie feiten van de site: leren voering, uitneembaar voetbed en handgemaakt in Portugal."
+    },
+    {
+      "node": "997:369",
+      "titel": "Licht cognac of donkerbruin",
+      "waarom": "De Fritz chelsea boot in twee kleuren naast elkaar laat kiezen in plaats van twijfelen, met prijs en gratis verzending en retour in één blik."
+    },
+    {
+      "node": "997:398",
+      "titel": "Sinds 1815",
+      "waarom": "Het merkverhaal als tijdlijn: van de werkplaats in Loon op Zand tot leer uit Le Puy en Chicago, iets wat een kortingsadvertentie niet kan vertellen."
+    },
+    {
+      "node": "997:420",
+      "titel": "Eén boot, drie kleuren",
+      "waarom": "De Fritz boot in cognac, bruin nubuck en zwart toont het hele aanbod van één model, handig voor mensen die al weten wat ze zoeken."
+    },
+    {
+      "node": "997:441",
+      "titel": "Elke ochtend dezelfde",
+      "waarom": "Een herkenbare POV over de witte Magnus sneaker die je de hele week draagt, met de echte prijs erbij."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "998:2",
+    "onderwerp": "Sinds 1815, elke stap een verhaal",
+    "kop": "Een nieuwsbrief die voelt als VANLIER.",
+    "tekst": "Een merkverhaal-mail die laat zien waar VANLIER vandaan komt en waarom de schoenen zo gemaakt worden, met de Positano en de Fritz als voorbeeld.",
+    "punten": [
+      "Het verhaal van 1815 en het leer uit Le Puy en Chicago",
+      "De Positano met uitleg over de Fagus-leest",
+      "Afsluiting met de Fritz en levering voor 22:00 besteld, morgen in huis"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-06"
+}
