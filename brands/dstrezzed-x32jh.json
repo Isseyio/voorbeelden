@@ -1,0 +1,50 @@
+{
+  "slug": "dstrezzed-x32jh",
+  "merk": "Dstrezzed",
+  "domein": "dstrezzed.com",
+  "lead_id": "2026-11-03-dstrezzed.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2B2620",
+  "kop": "Menswear voor de modern gents, in vijf advertenties",
+  "intro": "Vijf advertenties en een nieuwsbrief, gemaakt met jullie eigen foto's en productinformatie.",
+  "advertenties": [
+    {
+      "node": "1001:13",
+      "titel": "Gratis verzending vanaf €150",
+      "waarom": "Jullie gratis verzending vanaf €150 en 30 dagen retour staan bovenaan, met de Cillian Cardigan en het logo groot in beeld."
+    },
+    {
+      "node": "1001:30",
+      "titel": "Comfort zonder in te leveren",
+      "waarom": "Jullie eigen belofte uit het merkverhaal, kwaliteit en comfort zonder in te leveren op stijl, als grote kop met drie looks ertussen."
+    },
+    {
+      "node": "1001:52",
+      "titel": "Liever eerst passen",
+      "waarom": "Jullie stores in Utrecht, Den Bosch, Maastricht en Antwerpen, plus Haarlem dat binnenkort opent, als reden om langs te komen."
+    },
+    {
+      "node": "1001:84",
+      "titel": "Shared with good people",
+      "waarom": "Een zin uit jullie eigen over-ons-pagina als rustige merkadvertentie, voor mensen die Dstrezzed nog niet kennen."
+    },
+    {
+      "node": "1001:101",
+      "titel": "Calvin Shirt van dichtbij",
+      "waarom": "Inzoomen op de gebreide pitch check van het Calvin Shirt laat het materiaal zien dat op een kleine productfoto wegvalt."
+    }
+  ],
+  "nieuwsbrief": {
+    "node": "1002:2",
+    "onderwerp": "Nieuw binnen voor the city round",
+    "kop": "Een nieuwsbrief die voelt als Dstrezzed.",
+    "tekst": "Een mail over nieuwe items, opgebouwd met jullie eigen foto's: de Grayson Zip Overshirt uitgelicht, drie items met prijs en een uitnodiging om langs te komen in een van de stores.",
+    "punten": [
+      "Grayson Zip Overshirt met labels voor zakken en rits",
+      "Cillian Cardigan, Calvin Shirt en Harvey 5 Pocket met prijs",
+      "Afsluiting met jullie stores en Haarlem dat binnenkort opent"
+    ]
+  },
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-06"
+}
