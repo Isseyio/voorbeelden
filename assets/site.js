@@ -1,4 +1,16 @@
 (() => {
+  // Profielfoto van Issey: vervangt het monogram zodra assets/issey.jpg bestaat.
+  const monos = document.querySelectorAll('.me-mono');
+  if (!monos.length) return;
+  const im = new Image();
+  im.onload = () => monos.forEach(el => {
+    const i = document.createElement('img');
+    i.className = 'me-photo'; i.src = im.src; i.alt = 'Issey Kooijmans'; i.width = 112; i.height = 112;
+    el.replaceWith(i);
+  });
+  im.src = new URL('../assets/issey.jpg', document.baseURI).href;
+})();
+(() => {
   document.querySelectorAll('.mail-more').forEach(b => b.addEventListener('click', () => b.closest('.mail-frame').classList.add('open')));
   const dlg = document.querySelector('.lb');
   if (!dlg) return;

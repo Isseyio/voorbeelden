@@ -147,3 +147,15 @@ h2{font-size:clamp(28px,4.4vw,44px);max-width:20ch}
 .lb-close{position:absolute;top:calc(10px + env(safe-area-inset-top));right:14px;font-size:16px}
 .lb-count{font-size:14px;font-variant-numeric:tabular-nums;min-width:48px;text-align:center}
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+
+/* v6: persoonlijke noot, uitlegblok, tweede nieuwsbrief */
+.note-sec{padding-top:28px;padding-bottom:0}
+.note{background:var(--bg2);border-radius:var(--r);padding:22px 22px 24px;max-width:760px}
+.note .me{margin-bottom:12px}
+.note p{margin:0;font-size:17px;line-height:1.55}
+.why-sec .stats{display:grid;gap:12px;margin-top:26px}
+.stats div{background:var(--bg2);border-radius:20px;padding:20px 22px;display:flex;flex-direction:column;gap:6px}
+.stats strong{font-size:clamp(28px,4.2vw,40px);line-height:1.05;letter-spacing:-.025em}
+.stats span{font-size:15px;color:var(--ink2);line-height:1.4}
+.mail-sec-2{background:var(--bg)}
+@media (min-width:700px){.why-sec .stats{grid-template-columns:repeat(3,1fr)}}
