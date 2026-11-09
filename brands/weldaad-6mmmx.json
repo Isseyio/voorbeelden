@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "weldaad-6mmmx",
+  "merk": "Weldaad",
+  "domein": "weldaad.com",
+  "lead_id": "2026-11-09-weldaad.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2E5A47",
+  "kop": "Drie nieuwe invalshoeken voor Weldaad",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Weldaad, ik heb dit gemaakt omdat jullie messing doosjes en spiegels op jullie eigen foto's zo mooi uitkomen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1024:4",
+      "titel": "Niet zomaar een doosje",
+      "waarom": "Een tegendraadse kop met de Treasure Box groot in beeld laat mensen stoppen met scrollen en zegt meteen waar het doosje voor is."
+    },
+    {
+      "node": "1024:29",
+      "titel": "Welke spiegel past?",
+      "waarom": "Twee spiegels naast elkaar, elk met prijs, maken kiezen makkelijk en laten zien hoe breed de collectie is."
+    },
+    {
+      "node": "1024:49",
+      "titel": "Een cadeau onder €15",
+      "waarom": "Een duidelijke prijsgrens in de cadeautijd helpt mensen die nog iets zoeken snel te beslissen."
+    }
+  ],
+  "waarom": {
+    "niche": "interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw woonmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15+",
+        "label": "advertenties heeft Rivièra Maison nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 9 november 2026."
+  },
+  "nieuwsbrief": {
+    "node": "1026:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Weldaad",
+    "kop": "Welkom bij Weldaad",
+    "tekst": "Een welkomstmail voor nieuwe leden van jullie community: de Treasure Box tegen jullie groene muur als opening, de kleine verrassing bij de eerste bestelling en drie redenen om te bestellen.",
+    "punten": [
+      "Herokaart in jullie diepgroen met de Treasure Box",
+      "Handgemaakt, gratis verzending vanaf €70, 30 dagen retour",
+      "Kaart over de kleine verrassing bij de eerste bestelling"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1026:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Weldaad",
+      "kop": "Welkom bij Weldaad",
+      "tekst": "Een welkomstmail voor nieuwe leden van jullie community: de Treasure Box tegen jullie groene muur als opening, de kleine verrassing bij de eerste bestelling en drie redenen om te bestellen.",
+      "punten": [
+        "Herokaart in jullie diepgroen met de Treasure Box",
+        "Handgemaakt, gratis verzending vanaf €70, 30 dagen retour",
+        "Kaart over de kleine verrassing bij de eerste bestelling"
+      ]
+    },
+    {
+      "node": "1026:61",
+      "type": "Merkverhaal",
+      "onderwerp": "Van bloemenstudio tot eigen collectie",
+      "kop": "Van bloemenstudio tot eigen collectie",
+      "tekst": "Een mail over Mirjam, van de bloemenstudio in 1992 via Brocante Weldaad tot de eigen collectie sinds 2017, met daarna de Square mirror met zijn kenmerken en een afsluiting in jullie groen.",
+      "punten": [
+        "Mirjams verhaal met haar eigen foto uit India",
+        "Square mirror met labels: messing ketting, geschulpte rand, 20 × 20 cm",
+        "Afsluiting: een spiegel voor elke kleine muur, €33,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-09"
+}
