@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "varily-hcsnf",
+  "merk": "Varily Jewelry",
+  "domein": "varilyjewelry.com",
+  "lead_id": "2026-11-09-varilyjewelry.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E5338C",
+  "kop": "Jouw vorm, jouw kleur, in drie advertenties",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Varily, ik heb dit gemaakt omdat jullie sieraden in zoveel kleuren bestaan dat ze bijna vanzelf een advertentie worden. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1018:3",
+      "titel": "Jouw kleur",
+      "waarom": "Eén groot woord en alle tien kleuren van de Long Pentagon naast elkaar laten in een seconde zien waar Varily om draait."
+    },
+    {
+      "node": "1018:21",
+      "titel": "Welke kleur ben jij?",
+      "waarom": "Dezelfde oorbel in Dark Teal en Plum op een model maakt van kiezen een spelletje, en dat nodigt uit om te reageren en door te klikken."
+    },
+    {
+      "node": "1018:40",
+      "titel": "Tot 40% korting",
+      "waarom": "Jullie lopende sale groot in beeld, met een vrolijke modelfoto eronder, geeft mensen die jullie al kennen een concrete reden om nu te kopen."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "5+",
+        "label": "advertenties heeft Mama Jewels nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 9 november 2026."
+  },
+  "nieuwsbrief": {
+    "node": "1018:48",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Varily",
+    "kop": "Welkom bij Varily",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de Dahlia-broches als opening, in drie stappen hoe jullie sieraden gemaakt worden en een uitnodiging om zelf een kleur te kiezen.",
+    "punten": [
+      "Herokaart in jullie roze met de Dahlia-broches",
+      "3D-geprint, met de hand geverfd, 12 maanden garantie",
+      "Ontwerp je eigen kleur: 3 vormen en 25 kleuren"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1018:48",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Varily",
+      "kop": "Welkom bij Varily",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: de Dahlia-broches als opening, in drie stappen hoe jullie sieraden gemaakt worden en een uitnodiging om zelf een kleur te kiezen.",
+      "punten": [
+        "Herokaart in jullie roze met de Dahlia-broches",
+        "3D-geprint, met de hand geverfd, 12 maanden garantie",
+        "Ontwerp je eigen kleur: 3 vormen en 25 kleuren"
+      ]
+    },
+    {
+      "node": "1018:78",
+      "type": "Merkverhaal",
+      "onderwerp": "Het verhaal achter Varily",
+      "kop": "Het verhaal achter Varily",
+      "tekst": "Een mail over Valeria en de studio in Den Haag, met daarna de Long Pentagon met zijn kenmerken en de Dahlia Brooch als afsluiting, allebei met de huidige saleprijs.",
+      "punten": [
+        "Valeria's verhaal sinds 2015, met haar eigen foto",
+        "Long Pentagon met labels: 5,5 cm, 1,2 gram, zilveren haakjes, waterbestendig",
+        "Afsluiting met de Dahlia Brooch in 11 kleuren"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-09"
+}
