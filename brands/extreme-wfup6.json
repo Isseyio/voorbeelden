@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "extreme-wfup6",
+  "merk": "extreme cashmere",
+  "domein": "extreme-cashmere.com",
+  "lead_id": "2026-11-03-extreme-cashmere.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Eén maat, elk lichaam: drie nieuwe invalshoeken voor extreme cashmere.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team extreme cashmere, ik heb dit gemaakt omdat jullie idee van één maat voor elk lichaam zich goed leent voor steeds nieuwe advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1021:28",
+      "titel": "Eén maat voor elk lichaam",
+      "waarom": "De belofte van één maat in één zin, met echte mensen uit jullie eigen campagne erbij."
+    },
+    {
+      "node": "1021:40",
+      "titel": "Eén trui, tien kleuren",
+      "waarom": "Twee kleuren van de march naast elkaar laten zien hoeveel keus er is binnen één model."
+    },
+    {
+      "node": "1021:59",
+      "titel": "De jewel voor € 350",
+      "waarom": "Een duidelijke prijs en een groot merklogo over een rustige modelfoto vallen op tussen het scrollen."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw modemerk niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe varianten testen houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Nonchi Cashmere nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 09-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1022:2",
+    "type": "Welkomstmail",
+    "onderwerp": "welkom bij extreme cashmere",
+    "kop": "welkom bij extreme cashmere",
+    "tekst": "Een rustige welkomstmail die het merkverhaal vertelt: een kasjmier garderobe die per editie groeit, voor elk lichaam. Daarna de drie redenen om hem elke dag te dragen en een blok over de kwaliteit.",
+    "punten": [
+      "één maat: genderless en unisize",
+      "machinewasbaar op het wolprogramma",
+      "gratis verzending en retour binnen Nederland"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1022:2",
+      "type": "Welkomstmail",
+      "onderwerp": "welkom bij extreme cashmere",
+      "kop": "welkom bij extreme cashmere",
+      "tekst": "Een rustige welkomstmail die het merkverhaal vertelt: een kasjmier garderobe die per editie groeit, voor elk lichaam. Daarna de drie redenen om hem elke dag te dragen en een blok over de kwaliteit.",
+      "punten": [
+        "één maat: genderless en unisize",
+        "machinewasbaar op het wolprogramma",
+        "gratis verzending en retour binnen Nederland"
+      ]
+    },
+    {
+      "node": "1022:35",
+      "type": "Productspotlight",
+      "onderwerp": "vier favorieten, één maat",
+      "kop": "vier favorieten, één maat.",
+      "tekst": "Een assortimentsmail met vier truien naast elkaar, elk met een korte regel, de prijs en een knop. Zo kiest iemand die nog twijfelt sneller een eerste trui.",
+      "punten": [
+        "n°475 march, € 425",
+        "n°398 jewel, € 350",
+        "n°53 crew hop, € 560",
+        "n°376 club, € 1.200"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-09"
+}
