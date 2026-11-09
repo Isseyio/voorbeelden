@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "lileo-6rb35",
+  "merk": "Lileo",
+  "domein": "lileo.nl",
+  "lead_id": "2026-11-04-lileo.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#181133",
+  "kop": "Drie nieuwe invalshoeken voor Lileo.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Lileo, ik heb dit gemaakt omdat jullie verhaal in één zin past: dekbed en overtrek in één, en gewoon in de was. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1012:2",
+      "titel": "Opgemaakt in 3 seconden",
+      "waarom": "Eén grote belofte met echte slaapkamerfoto's van klanten ertussen laat in één blik zien waarom je nooit meer een overtrek wilt."
+    },
+    {
+      "node": "1013:3",
+      "titel": "Velvet of mousseline",
+      "waarom": "Wie twijfelt tussen warm en luchtig ziet de twee stoffen naast elkaar, met de vaste voordelen onderaan in jullie merkkleur."
+    },
+    {
+      "node": "1014:2",
+      "titel": "LAZY en 1+1 gratis",
+      "waarom": "Jullie lopende 1+1-actie krijgt een eigen advertentie, met de kleuren naast elkaar zodat je meteen een tweede kiest."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen",
+    "kop": "Zo groeien woonmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw beddengoedmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een hoeslaken of kussen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woonmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Yumeko nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 09-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1015:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Lileo",
+    "kop": "Welkom bij Lileo",
+    "tekst": "Fijn dat je er bent. Vanaf nu maak je je bed op zonder te worstelen met een overtrek.",
+    "punten": [
+      "Kies je beddengoed: dekbed en overtrek in één, in jouw kleur",
+      "30 nachten testen: niet overtuigd? Geld terug",
+      "Gewoon wassen op 40 °C en daarna in de droger"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1015:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Lileo",
+      "kop": "Welkom bij Lileo",
+      "tekst": "Fijn dat je er bent. Vanaf nu maak je je bed op zonder te worstelen met een overtrek.",
+      "punten": [
+        "Kies je beddengoed: dekbed en overtrek in één, in jouw kleur",
+        "30 nachten testen: niet overtuigd? Geld terug",
+        "Gewoon wassen op 40 °C en daarna in de droger"
+      ]
+    },
+    {
+      "node": "1016:2",
+      "type": "Productspotlight",
+      "onderwerp": "Schoon bed? Zo geregeld.",
+      "kop": "Schoon bed? Zo geregeld.",
+      "tekst": "Het Lazy Velvet Dekbed: fluweelzacht, dekbed en overtrek in één, en gewoon wasbaar. Met het merkverhaal 'Beddengoed dat blijft' en 42.000+ verkochte dekbedden als afsluiter.",
+      "punten": [
+        "Velvet tijk van 200 gsm",
+        "300 gsm holle vezel vulling",
+        "Kussenslopen met ritssluiting",
+        "Wasbaar op 40 °C, droger mag"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-09"
+}
