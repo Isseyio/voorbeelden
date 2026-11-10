@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "suite702-vsvqn",
+  "merk": "SUITE702",
+  "domein": "suite702.com",
+  "lead_id": "2026-11-03-suite702.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#322D17",
+  "kop": "Drie nieuwe invalshoeken voor SUITE702.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team SUITE702, ik heb dit gemaakt omdat jullie beddengoed in meer dan 50 kleuren maken, allemaal van biologisch katoen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1071:21",
+      "titel": "50+ kleuren",
+      "waarom": "Eén groot getal en vijf echte kleuren laten in een seconde zien wat jullie anders maakt."
+    },
+    {
+      "node": "1071:40",
+      "titel": "Waar het van gemaakt is",
+      "waarom": "Percal katoen, 300 thread count en de details van dichtbij geven een reden om meer te betalen voor beter beddengoed."
+    },
+    {
+      "node": "1071:62",
+      "titel": "De bundel belt",
+      "waarom": "Een speelse inkomende oproep maakt de 15% bundelkorting zichtbaar zonder dat het als een actie-advertentie voelt."
+    }
+  ],
+  "waarom": {
+    "niche": "beddengoed",
+    "kop": "Zo groeien beddengoedmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw beddengoedmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende set.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij wonen- en textielmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij wonen- en textielmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1071:85",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij SUITE702",
+    "kop": "Welkom bij SUITE702",
+    "tekst": "Direct na de inschrijving: wie jullie zijn, waarom biologisch katoen en meer dan 50 kleuren, en de Bedding Set Cotton als eerste stap.",
+    "punten": [
+      "100% biologisch en GOTS-gecertificeerd",
+      "Meer dan 50 kleuren om te combineren",
+      "Bedding Set Cotton vanaf €120"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1071:85",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij SUITE702",
+      "kop": "Welkom bij SUITE702",
+      "tekst": "Direct na de inschrijving: wie jullie zijn, waarom biologisch katoen en meer dan 50 kleuren, en de Bedding Set Cotton als eerste stap.",
+      "punten": [
+        "100% biologisch en GOTS-gecertificeerd",
+        "Meer dan 50 kleuren om te combineren",
+        "Bedding Set Cotton vanaf €120"
+      ]
+    },
+    {
+      "node": "1071:117",
+      "type": "Merkverhaal",
+      "onderwerp": "Ontworpen in Amsterdam, gemaakt in Portugal",
+      "kop": "Ontworpen in Amsterdam",
+      "tekst": "Het verhaal achter SUITE702, de details van de percal set en de bundelkorting als volgende stap.",
+      "punten": [
+        "Sinds 2018, verkocht bij Le Bon Marché, Merci en MoMA",
+        "300 thread count, onzichtbare knoopsluiting, geborduurd logo",
+        "15% bundelkorting, 20% extra met bedMATE of bigDOT"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
