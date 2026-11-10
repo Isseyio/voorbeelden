@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "sysas-epgqw",
+  "merk": "Sysas",
+  "domein": "sysas.nl",
+  "lead_id": "2026-11-09-sysas.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#EE2C29",
+  "kop": "Drie nieuwe invalshoeken voor de Sysas pannen",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Sysas, ik heb dit gemaakt omdat jullie je pannen als eigen merk zelf ontwikkelen, ontworpen in Nederland en gemaakt in Italië. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1051:326",
+      "titel": "Bakken zonder boter",
+      "waarom": "Het voordeel staat in de kop, met jullie eigen gerechten ertussen, zodat je in één blik ziet wat de pan doet."
+    },
+    {
+      "node": "1051:340",
+      "titel": "Wat erin zit",
+      "waarom": "Voor wie nog twijfelt: bodem, PFAS-vrij en warmtebronnen overzichtelijk naast elkaar, met de prijs erbij."
+    },
+    {
+      "node": "1051:364",
+      "titel": "Je nieuwe pan belt",
+      "waarom": "Een speels belscherm valt op tussen gewone posts en laat de pan groot en herkenbaar zien."
+    }
+  ],
+  "waarom": {
+    "niche": "keuken",
+    "kop": "Zo groeien keukenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw pannenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij keukenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft GreenPan nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1051:707",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Sysas, hier is je 10% korting",
+    "kop": "Welkom bij Sysas",
+    "tekst": "Fijn dat je je hebt aangemeld. Als welkom krijg je 10% korting op je eerste bestelling.",
+    "punten": [
+      "PFAS-vrij, geen PFOA of PTFE",
+      "Geschikt voor alle warmtebronnen, ook inductie",
+      "Ovenbestendig tot 180 °C"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1051:707",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Sysas, hier is je 10% korting",
+      "kop": "Welkom bij Sysas",
+      "tekst": "Fijn dat je je hebt aangemeld. Als welkom krijg je 10% korting op je eerste bestelling.",
+      "punten": [
+        "PFAS-vrij, geen PFOA of PTFE",
+        "Geschikt voor alle warmtebronnen, ook inductie",
+        "Ovenbestendig tot 180 °C"
+      ]
+    },
+    {
+      "node": "1051:751",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom we onze pannen zelf ontwikkelen",
+      "kop": "Exclusief koken begint met de juiste pan.",
+      "tekst": "Als eigen merk ontwikkelen we onze pannen zelf: ontworpen in Nederland, geproduceerd in Italië, PFAS-vrij en met een extra sterke mineraalbodem.",
+      "punten": [
+        "Reinforced Sysas Mineral Bottom",
+        "PFAS-vrij en krasbestendig",
+        "Startersset met vier delen voor €204,00"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
