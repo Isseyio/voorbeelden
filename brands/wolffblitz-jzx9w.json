@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "wolffblitz-jzx9w",
+  "merk": "Wolff Blitz",
+  "domein": "wolffblitz.com",
+  "lead_id": "2026-11-02-wolffblitz.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1F4FA8",
+  "kop": "Kunst om in te wonen, elke week opnieuw in beeld.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Wolff Blitz, ik heb dit gemaakt omdat jullie stoelen en fauteuils in zoveel kunstprints bestaan dat er eindeloos veel invalshoeken in zitten. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1085:4",
+      "titel": "Kies je kunstwerk",
+      "waarom": "Laat zien dat dezelfde stoel in meerdere prints bestaat, zodat mensen meteen hun eigen favoriet zoeken."
+    },
+    {
+      "node": "1085:28",
+      "titel": "Kunst om in te wonen",
+      "waarom": "Grote typografie met jullie interieurfoto's stopt de duim en vertelt in één blik wat Wolff Blitz is."
+    },
+    {
+      "node": "1085:40",
+      "titel": "Inkomende oproep",
+      "waarom": "Een speels, herkenbaar telefoonbeeld dat opvalt tussen gewone woonadvertenties."
+    }
+  ],
+  "waarom": {
+    "niche": "interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw interieurmerk niet via Google, maar tijdens het scrollen. Een advertentie wordt na een paar weken moe: dezelfde mensen zien hem steeds weer en klikken minder. Merken die elke week nieuwe invalshoeken testen, houden hun kosten per aankoop laag, en een vaste nieuwsbrief zorgt dat kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij interieurmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1085:51",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Wolff Blitz",
+    "kop": "Welkom bij Wolff Blitz",
+    "tekst": "Kunst die je draagt en kunst waar je in zit. Een rustige welkomstmail die nieuwe inschrijvers meteen laat zien waar Wolff Blitz voor staat, met een uitnodiging voor de galerie in Rotterdam.",
+    "punten": [
+      "Originele prints naar kunstwerken en eigen ontwerpen",
+      "Beperkte oplage",
+      "2 jaar garantie op banken en fauteuils",
+      "Uitnodiging voor de galerie aan de Nieuwe Binnenweg"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1085:51",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Wolff Blitz",
+      "kop": "Welkom bij Wolff Blitz",
+      "tekst": "Kunst die je draagt en kunst waar je in zit. Een rustige welkomstmail die nieuwe inschrijvers meteen laat zien waar Wolff Blitz voor staat, met een uitnodiging voor de galerie in Rotterdam.",
+      "punten": [
+        "Originele prints naar kunstwerken en eigen ontwerpen",
+        "Beperkte oplage",
+        "2 jaar garantie op banken en fauteuils",
+        "Uitnodiging voor de galerie aan de Nieuwe Binnenweg"
+      ]
+    },
+    {
+      "node": "1085:79",
+      "type": "Productspotlight",
+      "onderwerp": "Amandelbloesem, om in weg te zakken",
+      "kop": "De Blue Almond Blossom Hug Armchair",
+      "tekst": "Eén product in de hoofdrol: sfeerfoto bovenaan, kort verhaal over velours en HR-schuim, de details op een rij en tot slot de andere prints en de bijpassende bank.",
+      "punten": [
+        "Zacht velours en HR-schuim",
+        "Gratis bezorging in Nederland",
+        "Levertijd 8 tot 12 weken",
+        "Andere print of maat op aanvraag"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
