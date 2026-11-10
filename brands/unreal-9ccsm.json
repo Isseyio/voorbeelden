@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "unreal-9ccsm",
+  "merk": "Unreal Elements",
+  "domein": "unreal-elements.nl",
+  "lead_id": "2026-11-07-unreal-elements.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Unreal Elements.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Unreal Elements, ik heb dit gemaakt omdat jullie sieraden water-, hitte- en zweetbestendig zijn, en dat zie je het best als iemand ze gewoon draagt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1038:3",
+      "titel": "Gedraaide schakels",
+      "waarom": "Een close-up van de Rope ketting met labels laat in één beeld zien wat je koopt: 316L staal, 3 mm breed en €30."
+    },
+    {
+      "node": "1038:20",
+      "titel": "Gemaakt om te dragen",
+      "waarom": "Jullie eigen klantfoto's tussen de woorden vertellen het verhaal van sieraden die je ook in het water en op reis omhoudt."
+    },
+    {
+      "node": "1038:44",
+      "titel": "Zilver of goud",
+      "waarom": "Twee kleuren naast elkaar met dezelfde prijs maken de keuze makkelijk, en een keuze nodigt uit om te klikken."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1039:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Unreal Brotherhood",
+      "kop": "Welkom bij de Unreal Brotherhood",
+      "tekst": "Een welkomstmail die de 10% korting van jullie inschrijving meteen bezorgt en daarna de bestsellers laat zien.",
+      "punten": [
+        "10% korting op de eerste bestelling, zoals jullie inschrijving belooft",
+        "Rope ketting en kruisketting met prijs en knop",
+        "Water-, hitte- en zweetbestendig als reden om te kopen"
+      ]
+    },
+    {
+      "node": "1039:53",
+      "type": "Productspotlight",
+      "onderwerp": "Eén ketting voor elke dag",
+      "kop": "Eén ketting voor elke dag.",
+      "tekst": "Een productmail rond de Rope ketting, met jullie modelfoto en drie favorieten onder elkaar.",
+      "punten": [
+        "Rope ketting in zilver en in goudkleur, €30",
+        "Kruis ketting als derde keuze, €39",
+        "Gratis verzending en 30 dagen bedenktijd"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10",
+  "nieuwsbrief": {
+    "node": "1039:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Unreal Brotherhood",
+    "kop": "Welkom bij de Unreal Brotherhood",
+    "tekst": "Een welkomstmail die de 10% korting van jullie inschrijving meteen bezorgt en daarna de bestsellers laat zien.",
+    "punten": [
+      "10% korting op de eerste bestelling, zoals jullie inschrijving belooft",
+      "Rope ketting en kruisketting met prijs en knop",
+      "Water-, hitte- en zweetbestendig als reden om te kopen"
+    ]
+  }
+}
