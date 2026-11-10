@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "studionoos-mcnye",
+  "merk": "Studio Noos",
+  "domein": "studionoos.com",
+  "lead_id": "2026-10-30-studionoos.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3B2F2A",
+  "kop": "Mom bags die overal mee naartoe gaan, als advertentie en nieuwsbrief.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Studio Noos, ik heb dit gemaakt omdat jullie mom bags zoveel verschillende stoffen en kleuren hebben, en dat leent zich goed voor steeds nieuwe advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1280:4",
+      "titel": "Puffy",
+      "waarom": "Eén groot woord en drie kleuren naast elkaar laten in een seconde zien wat de Puffy is en welke varianten er zijn."
+    },
+    {
+      "node": "1280:24",
+      "titel": "Tot in de details",
+      "waarom": "Uitgelichte details zoals de gewatteerde stof en de D-ringen beantwoorden vragen die anders op de productpagina blijven liggen."
+    },
+    {
+      "node": "1280:46",
+      "titel": "Je kinderwagen belt",
+      "waarom": "Een speels concept valt op tussen gewone productfoto's en maakt het gebruik aan de kinderwagen meteen duidelijk."
+    }
+  ],
+  "waarom": {
+    "niche": "tassen",
+    "kop": "Zo groeien tassenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw tassenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij tassenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "18–28%",
+        "label": "van de online omzet komt bij tassenmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1280:58",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Studio Noos, je 10% staat klaar",
+    "kop": "Welkom bij Studio Noos",
+    "tekst": "Een rustige welkomstmail die de 10% inschrijfkorting opvolgt, uitlegt hoe verzending, retour en personalisatie werken en meteen naar de mom bags leidt.",
+    "punten": [
+      "10% korting op de eerste bestelling",
+      "Gratis verzending NL/BE vanaf €65 en 30 dagen retour",
+      "Personaliseren met naam of initialen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1280:58",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Studio Noos, je 10% staat klaar",
+      "kop": "Welkom bij Studio Noos",
+      "tekst": "Een rustige welkomstmail die de 10% inschrijfkorting opvolgt, uitlegt hoe verzending, retour en personalisatie werken en meteen naar de mom bags leidt.",
+      "punten": [
+        "10% korting op de eerste bestelling",
+        "Gratis verzending NL/BE vanaf €65 en 30 dagen retour",
+        "Personaliseren met naam of initialen"
+      ]
+    },
+    {
+      "node": "1280:92",
+      "type": "Productspotlight",
+      "onderwerp": "Een mom bag voor elk seizoen",
+      "kop": "Een mom bag voor elk seizoen",
+      "tekst": "Een assortimentsmail met vier mom bags in verschillende stoffen, elk met een eigen knop, en een afsluiter over personaliseren.",
+      "punten": [
+        "Red Leopard Puffy en Woolish Grey (€59,95)",
+        "Faux Fur en Rain Puffy in meerdere kleuren",
+        "Afsluiter: tot 10 letters in een kleur naar keuze"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

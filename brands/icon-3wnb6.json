@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "icon-3wnb6",
+  "merk": "ICON. AMSTERDAM",
+  "domein": "icon-amsterdam.com",
+  "lead_id": "2026-11-01-icon-amsterdam.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Drie nieuwe invalshoeken voor ICON, rond jullie AW26-collectie.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team ICON, ik heb dit gemaakt omdat jullie AW26-drop en de Tech Pants in acht kleuren zich goed lenen voor steeds nieuwe advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1286:2",
+      "titel": "Tech Pants in acht kleuren",
+      "waarom": "Eén groot woord, een zoekbalk en vier kleuren naast elkaar laten in een oogopslag zien wat de bestseller is en wat hij kost."
+    },
+    {
+      "node": "1286:22",
+      "titel": "25% met EARLY25",
+      "waarom": "Jullie echte Early Black Friday-actie groot boven het logo, met een AW26-foto eronder, geeft mensen een duidelijke reden om nu te kijken."
+    },
+    {
+      "node": "1286:112",
+      "titel": "Designerkwaliteit, zonder het prijskaartje",
+      "waarom": "Jullie eigen belofte als grote kop met kleine foto's ertussen valt op tussen gewone productadvertenties, met The Essential Jacket als bewijs eronder."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe invalshoeken testen, houden hun kosten per aankoop laag, ook als ze al veel adverteren. Een vaste nieuwsbrief zorgt dat die kopers terugkomen bij de volgende drop.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij modemerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1287:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Brotherhood",
+    "kop": "Welkom bij de Brotherhood.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers via 'Join the Brotherhood': wat ze van ICON krijgen en waar ze het best kunnen beginnen.",
+    "punten": [
+      "Herokaart met jullie eigen AW26-foto en de belofte van de inschrijving: als eerste nieuwe collecties, restocks en aanbiedingen",
+      "Waarom ICON in drie punten: slim fit, gratis verzending vanaf €125, 14 dagen retour",
+      "Een productkaart met de bestseller The Tech Pants (€69, acht kleuren)"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1287:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Brotherhood",
+      "kop": "Welkom bij de Brotherhood.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers via 'Join the Brotherhood': wat ze van ICON krijgen en waar ze het best kunnen beginnen.",
+      "punten": [
+        "Herokaart met jullie eigen AW26-foto en de belofte van de inschrijving: als eerste nieuwe collecties, restocks en aanbiedingen",
+        "Waarom ICON in drie punten: slim fit, gratis verzending vanaf €125, 14 dagen retour",
+        "Een productkaart met de bestseller The Tech Pants (€69, acht kleuren)"
+      ]
+    },
+    {
+      "node": "1288:2",
+      "type": "Merkverhaal",
+      "onderwerp": "De AW26-collectie is binnen",
+      "kop": "De kunst van je wintergarderobe.",
+      "tekst": "Een mail rond de AW26-drop: jullie eigen sfeerfoto, het verhaal van ICON in twee zinnen en één nieuw stuk uitgelicht.",
+      "punten": [
+        "Hero met jullie AW26-foto en een kaart met het merkverhaal",
+        "The Pietro Puffer (€150) met vier labels rond het product",
+        "Afsluiting in zwart met The Santoni Crewneck Sweater (€64, zeven kleuren)"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

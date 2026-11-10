@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "rumbaba-vgecq",
+  "merk": "Rum Baba Coffeeroasters",
+  "domein": "rumbaba.nl",
+  "lead_id": "2026-11-10-rumbaba.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#CD6C49",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor jullie gele zakken.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Rum Baba, ik heb dit gemaakt omdat jullie felgele zakken en de foto's uit de brewbars eigenlijk al klaar zijn voor Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1200:149",
+      "titel": "Speels verpakt",
+      "waarom": "Een grote kop met kleine foto's uit de brewbar laat in één blik zien wie jullie zijn, met de drie Classics eronder."
+    },
+    {
+      "node": "1200:169",
+      "titel": "Nooit meer zonder bonen",
+      "waarom": "Een herkenbaar schema met schakelaars maakt het Daily Drinker-abonnement in een seconde duidelijk."
+    },
+    {
+      "node": "1200:197",
+      "titel": "Gratis verzending vanaf €55",
+      "waarom": "Een groot bedrag bovenaan en jullie logo over een echte foto uit de bar stoppen de duim tijdens het scrollen."
+    }
+  ],
+  "waarom": {
+    "niche": "koffie",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe branderij niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief en een abonnement zorgen dat die kopers elke maand terugkomen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Koffie Kenner nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1200:265",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Rum Baba",
+    "kop": "Welkom bij Rum Baba",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, de drie Classics als eerste tip en wat je als klant goed moet weten.",
+    "punten": [
+      "Gratis verzending in NL vanaf €55",
+      "Daily Drinker-abonnement met 5% korting",
+      "Twee brewbars in Amsterdam",
+      "Uitgelicht: espressobonen per kilo, Brazil €29,60"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1200:265",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Rum Baba",
+      "kop": "Welkom bij Rum Baba",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, de drie Classics als eerste tip en wat je als klant goed moet weten.",
+      "punten": [
+        "Gratis verzending in NL vanaf €55",
+        "Daily Drinker-abonnement met 5% korting",
+        "Twee brewbars in Amsterdam",
+        "Uitgelicht: espressobonen per kilo, Brazil €29,60"
+      ]
+    },
+    {
+      "node": "1200:325",
+      "type": "Merkverhaal",
+      "onderwerp": "15 jaar koffie, en nog steeds nieuwsgierig",
+      "kop": "15 jaar koffie, en nog steeds nieuwsgierig",
+      "tekst": "Het verhaal achter Rum Baba, ondertekend door Jeroen en Lusan, met de Kokobe uitgelicht en een uitnodiging voor de brewbars.",
+      "punten": [
+        "Al 15 jaar zoeken, branden en schenken",
+        "Kokobe: Ethiopië, natural, €13,00 per 250 g",
+        "Elandsgracht 134 en Pretoriusstraat 15",
+        "Nieuw: de branderij zit nu in Haarlem"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

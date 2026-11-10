@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "deblon-xjqd4",
+  "merk": "Deblon Sports",
+  "domein": "deblonsports.com",
+  "lead_id": "2026-10-30-deblonsports.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4A3F38",
+  "kop": "Drie nieuwe invalshoeken voor de Classic Leggings.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Deblon, ik heb dit gemaakt omdat de Classic Leggings nu in twee kleuren bestaat en dat zich mooi leent voor nieuwe advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1284:3",
+      "titel": "Tot in de tailleband",
+      "waarom": "Een close-up met uitleg bij de details laat zien waarom de legging blijft zitten, nog voor iemand doorklikt."
+    },
+    {
+      "node": "1284:30",
+      "titel": "Black of Pantera?",
+      "waarom": "Twee kleuren naast elkaar laten kiezen voelt als meedoen en werkt goed voor mensen die het model al kennen."
+    },
+    {
+      "node": "1284:49",
+      "titel": "De nieuwe print",
+      "waarom": "Eén groot woord en de producten los op wit maken de nieuwe print in een seconde herkenbaar in de feed."
+    }
+  ],
+  "waarom": {
+    "niche": "activewear",
+    "kop": "Zo groeien activewearmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sportmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag omdat een advertentie na een paar weken moe wordt. Een vaste nieuwsbrief zorgt dat kopers terugkomen voor de volgende kleur.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij activewearmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Casall nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1286:30",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Deblon",
+    "kop": "Welkom bij Deblon",
+    "tekst": "Luxe athleisure voor sporten, wandelen en alles daartussen. Ontworpen in Amsterdam, met de hand gemaakt in Rio de Janeiro. Als welkom krijg je 10% korting op je eerste bestelling.",
+    "punten": [
+      "Squat-proof naden",
+      "Sneldrogend en ademend",
+      "UV-filter in veel stoffen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1286:30",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Deblon",
+      "kop": "Welkom bij Deblon",
+      "tekst": "Luxe athleisure voor sporten, wandelen en alles daartussen. Ontworpen in Amsterdam, met de hand gemaakt in Rio de Janeiro. Als welkom krijg je 10% korting op je eerste bestelling.",
+      "punten": [
+        "Squat-proof naden",
+        "Sneldrogend en ademend",
+        "UV-filter in veel stoffen"
+      ]
+    },
+    {
+      "node": "1286:66",
+      "type": "Productspotlight",
+      "onderwerp": "De Classic Leggings, nu ook in Pantera Midnight",
+      "kop": "Nu ook in Pantera Midnight",
+      "tekst": "Dezelfde pasvorm met extra hoge tailleband, in een subtiele print voor dit seizoen. Met een vergelijking tussen Black en Pantera Midnight.",
+      "punten": [
+        "Black €139,95, Pantera Midnight €149,99",
+        "Extra hoge dubbele tailleband",
+        "Squat-proof en sneldrogend"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
