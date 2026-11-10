@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "abbeylab-t4bc8",
+  "merk": "AbbeyLAB",
+  "domein": "abbeylab.nl",
+  "lead_id": "2026-11-03-abbeylab.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#7F8E70",
+  "kop": "Drie ideeën voor jullie kruidenLAB op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team AbbeyLAB, ik heb dit gemaakt omdat een huidverzorgingsmerk uit een abdijtuin een verhaal is dat bijna niemand anders kan vertellen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1320:241",
+      "titel": "Lavendel en amandelolie",
+      "waarom": "Een hand met de fles tussen de lavendel en zes korte kenmerken laten in één beeld zien wat erin zit."
+    },
+    {
+      "node": "1320:261",
+      "titel": "Koop deze olie niet",
+      "waarom": "Een kop die tegendraads begint, laat mensen stoppen met scrollen en past bij jullie eigen toon zonder poeha."
+    },
+    {
+      "node": "1320:281",
+      "titel": "1, 2, 3 natuurlijke glow",
+      "waarom": "De drie stappen als routine met schakelaars maken de set in een paar seconden begrijpelijk."
+    }
+  ],
+  "waarom": {
+    "niche": "huidverzorging",
+    "kop": "Zo groeien huidverzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw huidverzorgingsmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen wanneer de fles leeg is.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij huidverzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij huidverzorgingsmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1321:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij AbbeyLAB",
+    "kop": "Welkom bij AbbeyLAB",
+    "tekst": "Een welkomstmail voor nieuwe AbbeyLETTER-inschrijvers: de €10 korting op de 3-stappen set die jullie al beloven, waar AbbeyLAB voor staat en de Calming Cleansing Oil als eerste stap.",
+    "punten": [
+      "€10 korting op de 3-stappen set, zoals bij jullie aanmelding",
+      "99,8% natuurlijk, handgemaakt en cruelty free",
+      "Calming Cleansing Oil als begin van de routine"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1321:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij AbbeyLAB",
+      "kop": "Welkom bij AbbeyLAB",
+      "tekst": "Een welkomstmail voor nieuwe AbbeyLETTER-inschrijvers: de €10 korting op de 3-stappen set die jullie al beloven, waar AbbeyLAB voor staat en de Calming Cleansing Oil als eerste stap.",
+      "punten": [
+        "€10 korting op de 3-stappen set, zoals bij jullie aanmelding",
+        "99,8% natuurlijk, handgemaakt en cruelty free",
+        "Calming Cleansing Oil als begin van de routine"
+      ]
+    },
+    {
+      "node": "1321:36",
+      "type": "Merkverhaal",
+      "onderwerp": "Kruiden uit de abdijtuin",
+      "kop": "Kruiden uit de abdijtuin",
+      "tekst": "Het verhaal van broeder Guy, Wencke en het kruidenLAB in de abdij van Postel, met wat er in de Calming Cleansing Oil zit en de 3-stappen set als afsluiter.",
+      "punten": [
+        "Broeder Guy en het kruidenLAB binnen de abdijmuren",
+        "Lavendel, zoete amandelolie en bergamot uitgelegd",
+        "De 3-stappen set (S en L) als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

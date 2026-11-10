@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "pavo-2d83r",
+  "merk": "Pavo Couture",
+  "domein": "pavocouture.nl",
+  "lead_id": "2026-10-30-pavocouture.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Drie nieuwe invalshoeken voor Pavo Couture.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Pavo Couture, ik heb dit gemaakt omdat jullie bralettes in zoveel kleuren bestaan dat elke kleur eigenlijk een eigen advertentie verdient. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1314:55",
+      "titel": "Eén model, vier kleuren",
+      "waarom": "Een groot woord met een zoekbalk sluit aan op wat mensen echt zoeken en laat de kleuren direct zien."
+    },
+    {
+      "node": "1314:72",
+      "titel": "De sale vooraan",
+      "waarom": "Een duidelijke korting boven een sterke foto helpt mensen die al twijfelen om nu te kopen."
+    },
+    {
+      "node": "1314:85",
+      "titel": "Welke kleur kies jij?",
+      "waarom": "Twee kleuren naast elkaar met een vraag nodigt uit om te reageren en houdt mensen langer bij de advertentie."
+    }
+  ],
+  "waarom": {
+    "niche": "lingerie",
+    "kop": "Zo groeien lingeriemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw lingeriemerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag, omdat een advertentie na een paar weken moe wordt. Een goede welkomstmail zorgt dat nieuwe inschrijvers ook echt hun eerste bestelling doen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij lingeriemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij lingeriemerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1315:74",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Pavo, je 10% staat klaar",
+    "kop": "Welkom bij Pavo",
+    "tekst": "Een welkomstmail die de 10% van jullie inschrijving opvolgt, met de bestsellers en een kort woord van Elise.",
+    "punten": [
+      "10% op de eerste bestelling, direct zichtbaar",
+      "Drie bestsellers met echte prijzen",
+      "Het verhaal van Elise en productie in Europa"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1315:74",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Pavo, je 10% staat klaar",
+      "kop": "Welkom bij Pavo",
+      "tekst": "Een welkomstmail die de 10% van jullie inschrijving opvolgt, met de bestsellers en een kort woord van Elise.",
+      "punten": [
+        "10% op de eerste bestelling, direct zichtbaar",
+        "Drie bestsellers met echte prijzen",
+        "Het verhaal van Elise en productie in Europa"
+      ]
+    },
+    {
+      "node": "1315:109",
+      "type": "Productspotlight",
+      "onderwerp": "Triangel of balconette?",
+      "kop": "Triangel of balconette?",
+      "tekst": "Een mail die twee bralettes zonder beugel naast elkaar zet, zodat lezers sneller hun pasvorm kiezen.",
+      "punten": [
+        "Jane Balcony uitgelicht met materiaal en maten",
+        "Alix en Jane in een vergelijking",
+        "Twee modelfoto's als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

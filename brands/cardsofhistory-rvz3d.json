@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "cardsofhistory-rvz3d",
+  "merk": "Cards of History",
+  "domein": "cardsofhistory.com",
+  "lead_id": "2026-11-05-cardsofhistory.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8E4A1C",
+  "kop": "Kaarten om te bewaren, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Cards of History, ik heb dit gemaakt omdat jullie kaarten met hun illustraties en gouden randen eigenlijk al advertenties zijn. Alles is gemaakt met jullie eigen foto's, in het Engels zoals jullie webshop, en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1319:233",
+      "titel": "Eén kaart, één verhaal",
+      "waarom": "Een hand met één kaart laat meteen zien hoe het eruitziet, en drie kenmerken vertellen waarom dit geen gewone kaartjes zijn."
+    },
+    {
+      "node": "1319:248",
+      "titel": "Kies je tijdperk",
+      "waarom": "Twee decks naast elkaar met prijs maken kiezen makkelijk en sturen naar een bundel, waar de korting het grootst is."
+    },
+    {
+      "node": "1319:272",
+      "titel": "History's greatest",
+      "waarom": "Jullie eigen belofte groot in beeld, met de illustraties ertussen, laat in één seconde zien wat Cards of History is."
+    }
+  ],
+  "waarom": {
+    "niche": "cadeaus en posters",
+    "kop": "Zo groeien cadeaumerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw cadeau niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat verzamelaars terugkomen voor het volgende deck.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij cadeaumerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1320:141",
+    "type": "Welkomstmail",
+    "onderwerp": "Welcome to your treasury",
+    "kop": "Welcome to your treasury",
+    "tekst": "Een welkomstmail voor nieuwe aanmelders: wat ze van jullie kunnen verwachten, wat elke kaart bijzonder maakt en meteen een stap naar Volume III.",
+    "punten": [
+      "Opening met jullie eigen foto van het French Legacy-deck",
+      "Drie kenmerken: context, illustraties en museumkwaliteit",
+      "Volume III uitgelicht met prijs"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1320:141",
+      "type": "Welkomstmail",
+      "onderwerp": "Welcome to your treasury",
+      "kop": "Welcome to your treasury",
+      "tekst": "Een welkomstmail voor nieuwe aanmelders: wat ze van jullie kunnen verwachten, wat elke kaart bijzonder maakt en meteen een stap naar Volume III.",
+      "punten": [
+        "Opening met jullie eigen foto van het French Legacy-deck",
+        "Drie kenmerken: context, illustraties en museumkwaliteit",
+        "Volume III uitgelicht met prijs"
+      ]
+    },
+    {
+      "node": "1320:187",
+      "type": "Merkverhaal",
+      "onderwerp": "From first sketch to finished card",
+      "kop": "From first sketch to finished card",
+      "tekst": "Een mail over hoe een kaart ontstaat, van schets tot gedrukte kaart, met Volume III uitgelicht en de bundelkorting als afsluiting.",
+      "punten": [
+        "Jullie eigen foto van schets tot kaart",
+        "Druk, papier en afwerking met labels op Volume III",
+        "Afsluiting met de bundel: hoe meer decks, hoe meer korting"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "ledub-f8wd9",
+  "merk": "Ledûb",
+  "domein": "ledub.com",
+  "lead_id": "2026-11-10-ledub.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1C2B45",
+  "kop": "Drie nieuwe invalshoeken voor jullie overhemden",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Ledûb, ik heb dit gemaakt omdat overhemden in diverse mouwlengtes, uit een eigen fabriek, zo'n sterk verhaal zijn om steeds opnieuw te vertellen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1274:131",
+      "titel": "Winterdeal",
+      "waarom": "De actie groot bovenaan en het logo over een close-up van het model: in één seconde duidelijk wat je krijgt."
+    },
+    {
+      "node": "1274:145",
+      "titel": "Welke mouwlengte past?",
+      "waarom": "Twee overhemden naast elkaar laten zien waar Ledûb in uitblinkt: ook in extra lange mouw, met de prijs erbij."
+    },
+    {
+      "node": "1274:167",
+      "titel": "Vakmanschap uit Budel",
+      "waarom": "Het verhaal sinds 1949 in vier ronde foto's geeft vertrouwen aan wie Ledûb nog niet kent."
+    }
+  ],
+  "waarom": {
+    "niche": "mode & basics",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "Jullie adverteren al, dus de instroom is er. De winst zit vaak in steeds nieuwe invalshoeken, zodat advertenties niet moe worden, en in een vaste nieuwsbrief die nieuwe klanten laat terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Profuomo nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1274:195",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Ledûb",
+    "kop": "Welkom bij Ledûb",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie Ledûb is, wat het overhemd onderscheidt en een duidelijke plek voor de 10% welkomstkorting.",
+    "punten": [
+      "Herokaart met eigen lifestylefoto",
+      "Drie redenen: hoogwaardige pasvormen, diverse mouwlengtes, gratis retour binnen 14 dagen",
+      "Eigen Europese productie, met foto uit de fabriek"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1274:195",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Ledûb",
+      "kop": "Welkom bij Ledûb",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie Ledûb is, wat het overhemd onderscheidt en een duidelijke plek voor de 10% welkomstkorting.",
+      "punten": [
+        "Herokaart met eigen lifestylefoto",
+        "Drie redenen: hoogwaardige pasvormen, diverse mouwlengtes, gratis retour binnen 14 dagen",
+        "Eigen Europese productie, met foto uit de fabriek"
+      ]
+    },
+    {
+      "node": "1274:249",
+      "type": "Productspotlight",
+      "onderwerp": "Strijkvrij of easy care?",
+      "kop": "Strijkvrij of easy care?",
+      "tekst": "Een uitlegmail die het verschil laat zien tussen strijkvrij en easy care, met het witte strijkvrije overhemd uitgelicht en een vergelijkingstabel.",
+      "punten": [
+        "Wit strijkvrij modern fit overhemd, €79,95",
+        "Lichtblauw print easy care overhemd, €99,95",
+        "Ook in slim fit met extra lange mouw, €85,00"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

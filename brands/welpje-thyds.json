@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "welpje-thyds",
+  "merk": "Welpje",
+  "domein": "welpje.com",
+  "lead_id": "2026-11-10-welpje.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C4B291",
+  "kop": "Een eigen plekje, met de naam erop.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Welpje, ik heb dit gemaakt omdat de naam van de hond in elk bed geborduurd wordt, en dat zie je in een advertentie meteen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1319:293",
+      "titel": "Zacht, in drie kleuren",
+      "waarom": "Eén groot woord en de drie kleuren naast elkaar laten in een seconde zien wat je koopt."
+    },
+    {
+      "node": "1319:313",
+      "titel": "Elk detail uitgelicht",
+      "waarom": "Jullie eigen foto met de geborduurde naam plus vier echte kenmerken nemen twijfel over prijs en kwaliteit weg."
+    },
+    {
+      "node": "1319:336",
+      "titel": "Je welp belt",
+      "waarom": "Een speels concept valt op tussen gewone posts en maakt hondenbaasjes nieuwsgierig."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien huisdierenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk voor hun hond niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "200+",
+        "label": "advertenties heeft BuddyBeds nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1320:36",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Welpje, hier is je 5%",
+    "kop": "Welkom bij Welpje.",
+    "tekst": "Fijn dat je er bent. Als welkom krijg je 5% korting op je eerste hondenbed, met de naam van je hond erin geborduurd.",
+    "punten": [
+      "Naam erin: bij elk Ease-bed geborduurd",
+      "Wasbaar: hoes eraf met de YKK-rits, wassen op 30°",
+      "Lokaal gemaakt, met aandacht voor elk detail"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1320:36",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Welpje, hier is je 5%",
+      "kop": "Welkom bij Welpje.",
+      "tekst": "Fijn dat je er bent. Als welkom krijg je 5% korting op je eerste hondenbed, met de naam van je hond erin geborduurd.",
+      "punten": [
+        "Naam erin: bij elk Ease-bed geborduurd",
+        "Wasbaar: hoes eraf met de YKK-rits, wassen op 30°",
+        "Lokaal gemaakt, met aandacht voor elk detail"
+      ]
+    },
+    {
+      "node": "1320:96",
+      "type": "Merkverhaal",
+      "onderwerp": "Zo ontstond Welpje",
+      "kop": "Een bed dat past bij je interieur.",
+      "tekst": "Het verhaal achter Welpje en wat er in een Welpje Ease zit, van teddystof tot de geborduurde naam.",
+      "punten": [
+        "Teddystof: meer dan 100.000 Martindale",
+        "Eén stuk schuim zonder schadelijke stoffen",
+        "Taupe, Camel of Ivory in S, M of L"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

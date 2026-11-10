@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "ohmysoul-cxsqz",
+  "merk": "Oh My Soul",
+  "domein": "ohmysoul.nl",
+  "lead_id": "2026-11-05-ohmysoul.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B57F72",
+  "kop": "Het alledaagse, ook in je feed bijzonder",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Oh My Soul, ik heb dit gemaakt omdat jullie zeep en verzorging met de hand in kleine batches maken en dat verhaal op Instagram goed werkt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1319:2",
+      "titel": "Koop deze zeep niet",
+      "waarom": "Een omgekeerde kop laat mensen stoppen met scrollen en zet daarna het handwerk centraal."
+    },
+    {
+      "node": "1319:21",
+      "titel": "Eén zeep, 4 tot 6 weken",
+      "waarom": "Laat zien hoe lang één stuk meegaat, zodat €10,95 voelt als een slimme keuze."
+    },
+    {
+      "node": "1319:51",
+      "titel": "Het alledaagse, bijzonder",
+      "waarom": "Jullie eigen belofte als grote kop met sfeerfoto's, plus drie producten met prijs om direct te kiezen."
+    }
+  ],
+  "waarom": {
+    "niche": "beauty en verzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw verzorgingsmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun zeep op is.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1319:111",
+    "type": "Welkomstmail",
+    "onderwerp": "Fijn dat je er bent",
+    "kop": "Fijn dat je er bent.",
+    "tekst": "Een welkomstmail voor wie zich aanmeldt voor de verhalen uit het atelier: een warm welkom, drie producten om mee te beginnen en een persoonlijke afsluiting van Mirjam.",
+    "punten": [
+      "Welkom in de toon van het atelier",
+      "Pure Blush, The Rescue en Charge als begin",
+      "Ik antwoord altijd zelf, liefs Mirjam"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1319:111",
+      "type": "Welkomstmail",
+      "onderwerp": "Fijn dat je er bent",
+      "kop": "Fijn dat je er bent.",
+      "tekst": "Een welkomstmail voor wie zich aanmeldt voor de verhalen uit het atelier: een warm welkom, drie producten om mee te beginnen en een persoonlijke afsluiting van Mirjam.",
+      "punten": [
+        "Welkom in de toon van het atelier",
+        "Pure Blush, The Rescue en Charge als begin",
+        "Ik antwoord altijd zelf, liefs Mirjam"
+      ]
+    },
+    {
+      "node": "1319:150",
+      "type": "Productspotlight",
+      "onderwerp": "Eén zeep die weken meegaat",
+      "kop": "Eén zeep die weken meegaat.",
+      "tekst": "Een mail rond Pure Blush: waarom een vast stuk zeep, wat erin zit en hoe lang je ermee doet, met Switching off als volgende stap.",
+      "punten": [
+        "Vegan, plasticvrij en met de hand gemaakt",
+        "Vlierbloesem en spearmint, shea en olijfolie",
+        "Ca. 110 gram, 4 tot 6 weken, €10,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
