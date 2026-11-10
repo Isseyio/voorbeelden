@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "wellshave-b4hrb",
+  "merk": "Wellshave",
+  "domein": "wellshave.com",
+  "lead_id": "2026-11-04-wellshave.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#BC813E",
+  "kop": "Drie nieuwe invalshoeken voor The Gentleman Shaver.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Wellshave, ik heb dit gemaakt omdat jullie veel advertenties draaien rond '100 dagen proberen', en ik benieuwd was hoe een paar andere invalshoeken eruit zouden zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1047:275",
+      "titel": "Drie koppen",
+      "waarom": "Laat in één beeld zien waarom de Gentleman Shaver anders scheert, met de echte scheerkop van dichtbij."
+    },
+    {
+      "node": "1047:303",
+      "titel": "100 dagen proberen",
+      "waarom": "Jullie sterkste belofte groot bovenaan, met een echte modelfoto eronder, zodat twijfelaars meteen weten dat ze niets riskeren."
+    },
+    {
+      "node": "1047:313",
+      "titel": "Inkomende oproep",
+      "waarom": "Een speels format dat opvalt tussen gewone productfoto's en de duim even laat stoppen."
+    }
+  ],
+  "waarom": {
+    "niche": "verzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "De meeste mannen ontdekken een nieuw scheerapparaat niet via Google, maar tijdens het scrollen. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe invalshoeken testen, houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat kopers terugkomen voor scheerkoppen en accessoires.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15+",
+        "label": "advertenties heeft MANSCAPED nu tegelijk live in Nederland"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1047:326",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Wellshave, hier is je 10%",
+    "kop": "Welkom bij Wellshave.",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: de 10% korting die jullie al beloven, wat 100 dagen proberen betekent, en de quiz als volgende stap.",
+    "punten": [
+      "10% korting op de eerste bestelling, zoals in jullie footer",
+      "100 dagen proberen, 2 jaar garantie, morgen in huis",
+      "Quiz als hulp bij het kiezen van een apparaat"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1047:326",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Wellshave, hier is je 10%",
+      "kop": "Welkom bij Wellshave.",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: de 10% korting die jullie al beloven, wat 100 dagen proberen betekent, en de quiz als volgende stap.",
+      "punten": [
+        "10% korting op de eerste bestelling, zoals in jullie footer",
+        "100 dagen proberen, 2 jaar garantie, morgen in huis",
+        "Quiz als hulp bij het kiezen van een apparaat"
+      ]
+    },
+    {
+      "node": "1047:355",
+      "type": "Merkverhaal + productspotlight",
+      "onderwerp": "Waarom wij zelf je klantenservice doen",
+      "kop": "Jouw huid. Jouw lijn.",
+      "tekst": "Jullie eigen zin over het team als haakje, daarna The Gentleman Shaver met vier kenmerken en jullie 'Kies. Probeer. Houd hem.' als afsluiting.",
+      "punten": [
+        "Merkverhaal in jullie eigen woorden",
+        "Vier kenmerken van The Gentleman Shaver",
+        "Afsluiting rond 100 dagen proberen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
