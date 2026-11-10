@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "travelteq-wv567",
+  "merk": "Travelteq",
+  "domein": "travelteq.com",
+  "lead_id": "2026-11-03-travelteq.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A54F1E",
+  "kop": "Drie nieuwe invalshoeken voor Travelteq.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Travelteq, ik heb dit gemaakt omdat jullie op elke tas een levenslange garantie geven. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1079:3",
+      "titel": "Een leven lang garantie",
+      "waarom": "De levenslange garantie maakt een prijs van €745 in één zin begrijpelijk, met de tas in de hand van een echt model."
+    },
+    {
+      "node": "1079:10",
+      "titel": "Het materiaalpaspoort",
+      "waarom": "Vachetta-leer, Napolitaans nylon, YKK Excella en handwerk uit Amalfi laten zien waar de prijs in zit."
+    },
+    {
+      "node": "1079:33",
+      "titel": "Welke kleur past bij jou?",
+      "waarom": "Een keuzevraag tussen twee kleuren nodigt uit om te reageren en laat zien dat er acht combinaties zijn."
+    }
+  ],
+  "waarom": {
+    "niche": "tassen",
+    "kop": "Zo groeien tassenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw tassenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende tas.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij tassen- en accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "18–28%",
+        "label": "van de online omzet komt bij tassen- en accessoiremerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1079:51",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Travelteq",
+    "kop": "Welkom bij Travelteq",
+    "tekst": "Direct na de inschrijving: wie jullie zijn, waarom jullie tassen een leven lang meegaan, en The Briefcase als eerste stap.",
+    "punten": [
+      "Levenslange garantie op elke tas",
+      "Handgemaakt aan de Amalfikust",
+      "30 dagen retour"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1079:51",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Travelteq",
+      "kop": "Welkom bij Travelteq",
+      "tekst": "Direct na de inschrijving: wie jullie zijn, waarom jullie tassen een leven lang meegaan, en The Briefcase als eerste stap.",
+      "punten": [
+        "Levenslange garantie op elke tas",
+        "Handgemaakt aan de Amalfikust",
+        "30 dagen retour"
+      ]
+    },
+    {
+      "node": "1079:78",
+      "type": "Assortimentsmail",
+      "onderwerp": "Voor elke reis een tas",
+      "kop": "Voor elke reis een tas",
+      "tekst": "De hele familie op een rij, van werktas tot weekendtas, met de reviews van The Briefcase als bewijs.",
+      "punten": [
+        "The Briefcase €745, The Messenger €775",
+        "The Overnight €945, The Weekender €795",
+        "4,92 uit 5 op basis van 106 reviews"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
