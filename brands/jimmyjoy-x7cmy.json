@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "jimmyjoy-x7cmy",
+  "merk": "Jimmy Joy",
+  "domein": "jimmyjoy.com",
+  "lead_id": "2026-11-02-jimmyjoy.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#42BEAB",
+  "kop": "Een complete maaltijd, ook op drukke dagen.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Jimmy Joy, ik heb dit gemaakt omdat jullie een complete maaltijd van €1,75 zo helder neerzetten. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1091:3",
+      "titel": "Een drukke dag",
+      "waarom": "Laat zien waar de shake in een volle dag past, van ontbijt tot middag."
+    },
+    {
+      "node": "1091:29",
+      "titel": "Shake of Shake Pro",
+      "waarom": "Helpt twijfelaars kiezen door de twee bestsellers naast elkaar te zetten."
+    },
+    {
+      "node": "1091:53",
+      "titel": "Lunch in 30 seconden",
+      "waarom": "Eén groot woord en het hele assortiment: valt op tussen de stories."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien food- en drinkmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe: dezelfde mensen zien hem steeds weer en klikken minder. Wie elke week nieuwe varianten test, houdt de kosten per aankoop laag.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinkmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij food- en drinkmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1092:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Jimmy Joy, je starterkit is gratis",
+    "kop": "Welkom bij Jimmy Joy.",
+    "tekst": "Fijn dat je er bent. Zo staat je eerste complete maaltijd binnen 30 seconden klaar.",
+    "punten": [
+      "Gratis starterkit bij je eerste bestelling: shaker, schep en startgids",
+      "Begin met Plenny Shake, Shake Pro of de Plenny Bar",
+      "60 dagen smaakgarantie"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1092:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Jimmy Joy, je starterkit is gratis",
+      "kop": "Welkom bij Jimmy Joy.",
+      "tekst": "Fijn dat je er bent. Zo staat je eerste complete maaltijd binnen 30 seconden klaar.",
+      "punten": [
+        "Gratis starterkit bij je eerste bestelling: shaker, schep en startgids",
+        "Begin met Plenny Shake, Shake Pro of de Plenny Bar",
+        "60 dagen smaakgarantie"
+      ]
+    },
+    {
+      "node": "1092:50",
+      "type": "Productspotlight",
+      "onderwerp": "Dit is een maaltijd, geen eiwitshake",
+      "kop": "Dit is een maaltijd. Geen eiwitshake.",
+      "tekst": "Uitgebalanceerde macro's, alle vitamines en mineralen die je nodig hebt en ingrediënten die je uren vol houden. Zonder koken, afwassen of meal prep.",
+      "punten": [
+        "Haver, soja-eiwit, lijnzaad en rijst",
+        "400 kcal, 25 g eiwit en 26 vitamines en mineralen",
+        "8 smaken, vanaf €1,75 per maaltijd"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
