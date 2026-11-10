@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "blackbananas-663q2",
+  "merk": "Black Bananas",
+  "domein": "blackbananas.com",
+  "lead_id": "2026-11-02-blackbananas.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Drie nieuwe invalshoeken voor de Rewind en de FW26-drop.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Black Bananas, ik heb dit gemaakt omdat jullie foto's van de Rewind Tracksuit naast die oude auto in de garage zo sterk zijn. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1184:417",
+      "titel": "De echte prijs",
+      "waarom": "Een concreet bedrag dat je bespaart werkt beter dan een kortingscode, en de garagefoto laat meteen zien hoe de Rewind staat."
+    },
+    {
+      "node": "1184:430",
+      "titel": "Het zit in de details",
+      "waarom": "Close-ups met labels laten zien waarom de Rewind zijn prijs waard is, zonder dat het om korting draait."
+    },
+    {
+      "node": "1184:456",
+      "titel": "Sport op de straat",
+      "waarom": "Een merkadvertentie met de FW26-beelden bouwt herkenning op bij mensen die jullie nog niet kennen."
+    }
+  ],
+  "waarom": {
+    "niche": "streetwear",
+    "kop": "Zo groeien streetwearmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Quotrell nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1185:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Black Bananas",
+    "kop": "Welkom bij Black Bananas",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: als eerste horen over nieuwe drops, members-only toegang en punten sparen in de BB Members Club-app.",
+    "punten": [
+      "Nieuwe drops als eerste",
+      "Members-only toegang",
+      "Punten sparen in de app",
+      "Gratis verzending vanaf €150 in NL, BE en DE"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1185:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Black Bananas",
+      "kop": "Welkom bij Black Bananas",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: als eerste horen over nieuwe drops, members-only toegang en punten sparen in de BB Members Club-app.",
+      "punten": [
+        "Nieuwe drops als eerste",
+        "Members-only toegang",
+        "Punten sparen in de app",
+        "Gratis verzending vanaf €150 in NL, BE en DE"
+      ]
+    },
+    {
+      "node": "1185:46",
+      "type": "Merkverhaal + productspotlight",
+      "onderwerp": "Sport op de straat, sinds 2010",
+      "kop": "Sport op de straat, sinds 2010.",
+      "tekst": "Het verhaal achter Black Bananas, gevolgd door de Rewind Tracksuit met labels bij de details en de echte prijs.",
+      "punten": [
+        "Merkverhaal: van illustratie naar Convoy-logo",
+        "Rewind Tracksuit uitgelicht met 4 details",
+        "€104,95 in plaats van €149,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

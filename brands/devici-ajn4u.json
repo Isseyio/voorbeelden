@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "devici-ajn4u",
+  "merk": "DEVICI",
+  "domein": "devici.eu",
+  "lead_id": "2026-11-01-devici.eu",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A4643F",
+  "kop": "Watch art die je op Instagram wilt laten zien.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team DEVICI, ik heb dit gemaakt omdat jullie mockups van een doek aan de muur zo sterk zijn dat ze bijna zelf al advertenties zijn. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1180:3",
+      "titel": "Tijdloos",
+      "waarom": "Eén groot woord en drie doeken naast elkaar laten in een seconde zien wat DEVICI maakt."
+    },
+    {
+      "node": "1180:22",
+      "titel": "Je muur belt",
+      "waarom": "Een speels inkomend-gesprekbeeld valt op tussen gewone posts en zet één doek groot in beeld."
+    },
+    {
+      "node": "1180:37",
+      "titel": "Vanaf €149",
+      "waarom": "De prijs bovenaan en het doek in een echte ruimte nemen de twijfel over prijs en formaat weg."
+    }
+  ],
+  "waarom": {
+    "niche": "wanddecoratie",
+    "kop": "Zo groeien wanddecoratiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kunstmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor het volgende doek.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij wanddecoratiemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Desenio nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1180:48",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij DEVICI",
+    "kop": "Welkom bij DEVICI",
+    "tekst": "Kunst voor horlogeliefhebbers, sinds 2018 met de hand gemaakt. Een rustige eerste mail die uitlegt hoe een doek gemaakt wordt en waar je begint.",
+    "punten": [
+      "Handgemaakt binnen 3 tot 5 werkdagen",
+      "100+ jaar kleurgarantie",
+      "Gratis verzending",
+      "Begin je collectie in drie maten"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1180:48",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij DEVICI",
+      "kop": "Welkom bij DEVICI",
+      "tekst": "Kunst voor horlogeliefhebbers, sinds 2018 met de hand gemaakt. Een rustige eerste mail die uitlegt hoe een doek gemaakt wordt en waar je begint.",
+      "punten": [
+        "Handgemaakt binnen 3 tot 5 werkdagen",
+        "100+ jaar kleurgarantie",
+        "Gratis verzending",
+        "Begin je collectie in drie maten"
+      ]
+    },
+    {
+      "node": "1180:83",
+      "type": "Productspotlight",
+      "onderwerp": "Welk icoon hangt er straks bij jou?",
+      "kop": "Welk icoon hangt er straks bij jou?",
+      "tekst": "Drie favorieten uit de collectie naast elkaar, elk met prijs, reviews en een eigen knop.",
+      "punten": [
+        "Rootbeer Tempest, The Pepsi en Daytona Platina",
+        "Vanaf €149 per canvas",
+        "Afsluiting met de drie maten"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

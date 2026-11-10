@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "kas20-ecvea",
+  "merk": "Kas20",
+  "domein": "kas20.nl",
+  "lead_id": "2026-11-02-kas20.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4A131D",
+  "kop": "Drie ideeën voor Kas20: op maat, hout of keramiek, en de showroom.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Kas20, ik heb dit gemaakt omdat jullie elke eettafel in jullie eigen fabriek in Almere op maat maken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1182:2",
+      "titel": "Op maat",
+      "waarom": "Eén groot woord en een zoekbalk met een echte maat laten in een seconde zien wat Kas20 anders maakt."
+    },
+    {
+      "node": "1182:21",
+      "titel": "Hout of keramiek?",
+      "waarom": "Een keuzevraag met twee echte tafels en prijzen nodigt uit om te reageren en laat het assortiment zien."
+    },
+    {
+      "node": "1182:46",
+      "titel": "Jouw eettafel belt",
+      "waarom": "Een speels belscherm valt op tussen gewone meubeladvertenties en stuurt op een showroombezoek."
+    }
+  ],
+  "waarom": {
+    "niche": "interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw meubelmerk niet via Google, maar tijdens het scrollen op Instagram. Bij een tafel van ruim duizend euro duurt de keuze weken, dus wie elke week nieuwe advertenties test en daarna met nieuwsbrieven in beeld blijft, wint die keuze vaker.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij interieurmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1183:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Kas20",
+    "kop": "Welkom bij Kas20",
+    "tekst": "Kas20 heeft nog geen nieuwsbriefinschrijving op de site. Deze welkomstmail laat zien hoe je nieuwe inschrijvers meteen meeneemt: eetkamerfoto, hoe jullie werken en de showrooms.",
+    "punten": [
+      "Herokaart met jullie eigen eetkamerfoto",
+      "Op maat in Nederland, gratis interieuradvies, showrooms zonder afspraak",
+      "Kaart met de vier showrooms en een knop naar de showroompagina"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1183:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Kas20",
+      "kop": "Welkom bij Kas20",
+      "tekst": "Kas20 heeft nog geen nieuwsbriefinschrijving op de site. Deze welkomstmail laat zien hoe je nieuwe inschrijvers meteen meeneemt: eetkamerfoto, hoe jullie werken en de showrooms.",
+      "punten": [
+        "Herokaart met jullie eigen eetkamerfoto",
+        "Op maat in Nederland, gratis interieuradvies, showrooms zonder afspraak",
+        "Kaart met de vier showrooms en een knop naar de showroompagina"
+      ]
+    },
+    {
+      "node": "1183:33",
+      "type": "Productspotlight",
+      "onderwerp": "Welke eettafel past bij jou?",
+      "kop": "Welke eettafel past bij jou?",
+      "tekst": "Een assortimentsmail met vier eettafels naast elkaar, elk met prijs en knop, en afgesloten met jullie reviewscore.",
+      "punten": [
+        "Massief eiken Kiezel, keramiek, eiken zwart en Black Smoke Intens",
+        "Prijs en knop per tafel",
+        "4,7 en 45.000+ tevreden klanten als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

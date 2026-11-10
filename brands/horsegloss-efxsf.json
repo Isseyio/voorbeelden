@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "horsegloss-efxsf",
+  "merk": "HorseGloss",
+  "domein": "horsegloss.com",
+  "lead_id": "2026-11-01-horsegloss.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B98A74",
+  "kop": "Drie nieuwe invalshoeken voor de Celine Riding Leggings.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team HorseGloss, ik heb dit gemaakt omdat jullie alles zelf in Nederland ontwerpen en dat verhaal nu nog weinig in beeld komt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1184:28",
+      "titel": "Telefoonzak",
+      "waarom": "Een close-up met drie korte labels laat in een paar seconden zien waarom deze legging anders is."
+    },
+    {
+      "node": "1184:51",
+      "titel": "Van stal tot zadel",
+      "waarom": "Twee echte situaties naast elkaar laten zien dat je de legging de hele dag draagt."
+    },
+    {
+      "node": "1184:72",
+      "titel": "Stijl die meerijdt",
+      "waarom": "Een grote typografische kop met kleine foto’s valt op tussen gewone modeadvertenties."
+    }
+  ],
+  "waarom": {
+    "niche": "ruitersport",
+    "kop": "Zo groeien ruitersportmerken op Instagram.",
+    "tekst": "Rijders ontdekken nieuwe merken vooral tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, houden hun advertenties fris en betalen minder per aankoop. Een vaste nieuwsbrief zorgt dat die rijders terugkomen voor de volgende collectie.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sport- en ruitersportmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Equestrian Stockholm nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1184:87",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij HorseGloss",
+    "kop": "Welkom bij HorseGloss",
+    "tekst": "Een eerste mail die laat zien waar HorseGloss voor staat en nieuwe rijders meteen helpt hun maat te kiezen.",
+    "punten": [
+      "Ontworpen in Nederland, van patroon tot print",
+      "Fair trade gemaakt",
+      "Voor 22:00 besteld, vandaag verzonden",
+      "Hulp bij de pasvorm met de maattabel"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1184:87",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij HorseGloss",
+      "kop": "Welkom bij HorseGloss",
+      "tekst": "Een eerste mail die laat zien waar HorseGloss voor staat en nieuwe rijders meteen helpt hun maat te kiezen.",
+      "punten": [
+        "Ontworpen in Nederland, van patroon tot print",
+        "Fair trade gemaakt",
+        "Voor 22:00 besteld, vandaag verzonden",
+        "Hulp bij de pasvorm met de maattabel"
+      ]
+    },
+    {
+      "node": "1184:121",
+      "type": "Merkverhaal",
+      "onderwerp": "Van schets tot in de stal",
+      "kop": "Van schets tot in de stal",
+      "tekst": "Het verhaal achter de ontwerpen, met de Celine Riding Leggings als voorbeeld van wat dat oplevert.",
+      "punten": [
+        "Eigen ontwerpteam in Nederland",
+        "Celine Riding Leggings met vier kenmerken uitgelicht",
+        "Afsluiting met materiaal, wasvoorschrift en retourtermijn"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
