@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "littledutch-3amd9",
+  "merk": "Little Dutch",
+  "domein": "little-dutch.com",
+  "lead_id": "2026-11-05-little-dutch.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#95A39C",
+  "kop": "Drie nieuwe invalshoeken voor de houten speelkeuken",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Little Dutch, ik heb dit gemaakt omdat jullie productfoto's van de speelkeuken zo goed laten zien hoe kinderen ermee spelen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1079:349",
+      "titel": "Echte knopjes",
+      "waarom": "Een close-up van een vingertje op de magnetron laat in één beeld zien waarom kinderen er niet vanaf blijven."
+    },
+    {
+      "node": "1079:350",
+      "titel": "Alles erin",
+      "waarom": "Voor ouders die vergelijken: wat er in de keuken zit, overzichtelijk met jullie eigen detailfoto's en de prijs erbij."
+    },
+    {
+      "node": "1079:351",
+      "titel": "Gratis verzending vanaf €50",
+      "waarom": "Het aanbod staat bovenaan en de foto van een spelend kind doet de rest, precies wat op Instagram opvalt."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien kids- en babymerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken nieuw speelgoed niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, zeker rond verjaardagen en feestdagen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids- en babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Jollein nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1079:352",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Little Dutch",
+    "kop": "Welkom bij Little Dutch",
+    "tekst": "Fijn dat je er bent. Alles wat we maken, ontwerpen we zelf: van houten speelgoed tot de kinderkamer.",
+    "punten": [
+      "Eigen ontwerpen, door ons eigen team",
+      "Gratis verzending vanaf €50",
+      "30 dagen om te retourneren"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1079:352",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Little Dutch",
+      "kop": "Welkom bij Little Dutch",
+      "tekst": "Fijn dat je er bent. Alles wat we maken, ontwerpen we zelf: van houten speelgoed tot de kinderkamer.",
+      "punten": [
+        "Eigen ontwerpen, door ons eigen team",
+        "Gratis verzending vanaf €50",
+        "30 dagen om te retourneren"
+      ]
+    },
+    {
+      "node": "1079:353",
+      "type": "Merkverhaal",
+      "onderwerp": "Hoe ons kleinste bordje ontstaat",
+      "kop": "Enjoy the little things",
+      "tekst": "Vijftien jaar geleden zette Rinke van der Helm met een klein team de eerste stap. Nu ontwerpt het eigen team alles zelf, met de houten speelkeuken als bestseller.",
+      "punten": [
+        "Magnetron met echte knopjes",
+        "Twee pannen, bordjes en keukengerei",
+        "Gootsteen en kastje voor de boodschappen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
