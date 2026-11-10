@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "kari-q982b",
+  "merk": "Kari Ceramics",
+  "domein": "kariceramics.com",
+  "lead_id": "2026-11-10-kariceramics.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#24484B",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Kari Ceramics.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Kari, ik heb dit gemaakt omdat jullie kommen met die ruwe, gespikkelde rand en negen glazuren op foto zo goed werken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1034:3",
+      "titel": "Twaalf stappen per kom",
+      "waarom": "Laat zien hoeveel handwerk er in één pasta bowl zit, zodat de prijs van €54 meteen logisch voelt."
+    },
+    {
+      "node": "1034:24",
+      "titel": "Welk glazuur past?",
+      "waarom": "Twee glazuren naast elkaar nodigen uit om te kiezen, en dat is precies de stap naar de productpagina."
+    },
+    {
+      "node": "1034:44",
+      "titel": "Gevormd met de hand",
+      "waarom": "Een echte foto van een kom in handen voelt persoonlijk en past bij hoe jullie werken."
+    }
+  ],
+  "waarom": {
+    "niche": "servies",
+    "kop": "Zo groeien serviesmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw serviesmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij serviesmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Serax nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1036:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in het atelier",
+    "kop": "Welkom in het atelier.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: het verhaal van het atelier, hoe elk stuk gemaakt wordt en een eerste product om mee te beginnen.",
+    "punten": [
+      "Atelier in Amsterdam-Noord, met de Noorse natuur als inspiratie",
+      "Met de hand gemaakt, twee keer gebakken, vaatwasserbestendig",
+      "De pasta bowl in negen glazuren als eerste aankoop"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1036:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in het atelier",
+      "kop": "Welkom in het atelier.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: het verhaal van het atelier, hoe elk stuk gemaakt wordt en een eerste product om mee te beginnen.",
+      "punten": [
+        "Atelier in Amsterdam-Noord, met de Noorse natuur als inspiratie",
+        "Met de hand gemaakt, twee keer gebakken, vaatwasserbestendig",
+        "De pasta bowl in negen glazuren als eerste aankoop"
+      ]
+    },
+    {
+      "node": "1036:31",
+      "type": "Merkverhaal",
+      "onderwerp": "Van een Noors eiland naar jouw tafel",
+      "kop": "Geïnspireerd door de natuur, gevormd met de hand.",
+      "tekst": "Een merkverhaal in Kari's eigen woorden, met de pasta bowl uitgelegd en de dinner sets als afsluiter.",
+      "punten": [
+        "Over Kari: opgegroeid op een Noors eiland, sinds 1993 met klei bezig",
+        "De pasta bowl: maten, vaatwasser, magnetron en oven tot 120°C",
+        "Dinner sets in dezelfde glazuren, ook voor twee personen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
