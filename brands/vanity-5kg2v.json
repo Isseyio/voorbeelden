@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "vanity-5kg2v",
+  "merk": "Vanity Store",
+  "domein": "vanitystore.nl",
+  "lead_id": "2026-11-10-vanitystore.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A9845B",
+  "kop": "Vanity Store, elke week een nieuw detail in de feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Vanity Store, ik heb dit gemaakt omdat jullie close-ups van de Juliette ketting en de Amelie oorbellen sterk genoeg zijn om elke week een nieuwe advertentie mee te maken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1082:350",
+      "titel": "Tot in elk detail",
+      "waarom": "Een close-up met korte labels laat zien waarom een ketting van €45,99 er duurder uitziet dan hij is."
+    },
+    {
+      "node": "1082:369",
+      "titel": "Ook onder de douche",
+      "waarom": "Waterproof en nikkelvrij zijn de twijfels van veel kopers, dus die staan hier direct bij het product."
+    },
+    {
+      "node": "1082:391",
+      "titel": "Samen voordeliger",
+      "waarom": "De echte set met 15% korting geeft een concrete reden om twee sieraden tegelijk te kopen."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1082:490",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Vanity Club",
+    "kop": "Welkom bij de Vanity Club",
+    "tekst": "Een warme welkomstmail voor nieuwe leden: de 10% korting op de eerste bestelling, early access op nieuwe drops en waarom de sieraden elke dag gedragen kunnen worden.",
+    "punten": [
+      "10% korting op je eerste bestelling",
+      "Waterproof, hypoallergeen en een gratis sieradendoosje",
+      "Een favoriet om mee te beginnen: de Amelie ketting"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1082:490",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Vanity Club",
+      "kop": "Welkom bij de Vanity Club",
+      "tekst": "Een warme welkomstmail voor nieuwe leden: de 10% korting op de eerste bestelling, early access op nieuwe drops en waarom de sieraden elke dag gedragen kunnen worden.",
+      "punten": [
+        "10% korting op je eerste bestelling",
+        "Waterproof, hypoallergeen en een gratis sieradendoosje",
+        "Een favoriet om mee te beginnen: de Amelie ketting"
+      ]
+    },
+    {
+      "node": "1082:530",
+      "type": "Assortimentsmail",
+      "onderwerp": "Vier favorieten voor elke dag",
+      "kop": "Vier favorieten voor elke dag",
+      "tekst": "Een mail met vier bestsellers naast elkaar, elk met een korte regel en een knop, en de Mix & Match-korting als reden om er twee te kiezen.",
+      "punten": [
+        "Juliette, Amelie, Valentina en Elise",
+        "Kies er twee voor 15% korting",
+        "4.8 van 5 en een 9,8 bij WebwinkelKeur"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
