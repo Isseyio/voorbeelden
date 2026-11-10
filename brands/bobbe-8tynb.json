@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "bobbe-8tynb",
+  "merk": "Bobbé",
+  "domein": "bobbe.nl",
+  "lead_id": "2026-11-10-bobbe.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#604D3E",
+  "kop": "Bobbé, elke week een nieuw badmoment in de feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Bobbé, ik heb dit gemaakt omdat jullie foto's van de badcape precies laten zien waar hij voor is: handen vrij en je kindje lekker warm. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1087:4",
+      "titel": "Handen vrij",
+      "waarom": "Een grote kop met kleine foto's ertussen vertelt in één blik wat de badcape doet."
+    },
+    {
+      "node": "1087:19",
+      "titel": "Van badcape tot badjas",
+      "waarom": "Twee producten naast elkaar helpen ouders en cadeaugevers sneller kiezen."
+    },
+    {
+      "node": "1087:41",
+      "titel": "Badtijd belt",
+      "waarom": "Een speels idee valt op tussen gewone babyfoto's en blijft beter hangen."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien babymerken op Instagram.",
+    "tekst": "De meeste ouders en cadeaugevers ontdekken een nieuw babymerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, ook voor het volgende kraamcadeau.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Kraam-cadeau.nl nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1088:2",
+    "type": "Merkverhaal",
+    "onderwerp": "Hoe Bobbé begon",
+    "kop": "Hoe het begon: een kletsnatte badkamer",
+    "tekst": "Een mail over het ontstaan van de badcape, met Christel en Bobbi, Cindy die het merk voortzet, en waarom de badcape anders is dan een gewone handdoek.",
+    "punten": [
+      "Het verhaal achter de eerste badcape",
+      "Biologisch katoen, GOTS, 120 x 100 cm en handen vrij",
+      "Mooi om te geven: inpakken, kaartje of direct naar de ontvanger"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1088:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Hoe Bobbé begon",
+      "kop": "Hoe het begon: een kletsnatte badkamer",
+      "tekst": "Een mail over het ontstaan van de badcape, met Christel en Bobbi, Cindy die het merk voortzet, en waarom de badcape anders is dan een gewone handdoek.",
+      "punten": [
+        "Het verhaal achter de eerste badcape",
+        "Biologisch katoen, GOTS, 120 x 100 cm en handen vrij",
+        "Mooi om te geven: inpakken, kaartje of direct naar de ontvanger"
+      ]
+    },
+    {
+      "node": "1088:39",
+      "type": "Productvergelijking",
+      "onderwerp": "Badcape of badjas?",
+      "kop": "Badcape of badjas?",
+      "tekst": "Een mail die de badcape en de kinderbadjas naast elkaar zet, zodat ouders en cadeaugevers snel kiezen.",
+      "punten": [
+        "Prijs, kleuren en materiaal naast elkaar",
+        "Waarom elk product fijn is na het badje",
+        "Twee knoppen: badcapes en badjassen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
