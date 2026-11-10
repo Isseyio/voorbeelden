@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "softrevolt-smsdt",
+  "merk": "Soft Revolt",
+  "domein": "softrevolt.com",
+  "lead_id": "2026-11-03-softrevolt.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#33264F",
+  "kop": "Steun zonder beugel, elke week een nieuwe invalshoek.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Soft Revolt, ik heb dit gemaakt omdat jullie nieuwe Deep Purple een mooi moment is voor een paar nieuwe invalshoeken en een welkomstmail. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1118:4",
+      "titel": "Steun zonder beugel",
+      "waarom": "Een close-up met twee labels laat in één oogopslag zien wat de Cleo anders maakt: 3D gebreid en zachte cups zonder beugel."
+    },
+    {
+      "node": "1118:26",
+      "titel": "Bespaar €30 bij drie",
+      "waarom": "Jullie bestaande actie groot in beeld maakt de stap naar een tweede en derde bh kleiner en geeft een reden om nu te bestellen."
+    },
+    {
+      "node": "1118:37",
+      "titel": "In jouw kleur",
+      "waarom": "Een typografische kop met kleurcapsules toont de breedte van het kleurenpalet zonder dat het een catalogus wordt."
+    }
+  ],
+  "waarom": {
+    "niche": "lingerie",
+    "kop": "Zo groeien lingeriemerken op Instagram.",
+    "tekst": "De meeste vrouwen ontdekken een nieuw lingeriemerk niet via Google, maar tijdens het scrollen. Advertenties worden daar na een paar weken moe, dus merken die elke week nieuwe varianten testen houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat kopers terugkomen voor een tweede kleur of model.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij lingeriemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij lingeriemerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1118:62",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Soft Revolution",
+    "kop": "Welkom bij de Soft Revolution",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: waarom een bh zonder beugel anders voelt en hoe ze hun maat vinden.",
+    "punten": [
+      "Herokaart in Deep Purple met de Cleo en een knop naar de maatkeuze",
+      "Drie dingen om te onthouden: geen beugel, gemaakt in Europa, gratis ruilen",
+      "Tweede blok met de Fit Finder, zodat niemand twijfelt over de maat"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1118:62",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Soft Revolution",
+      "kop": "Welkom bij de Soft Revolution",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: waarom een bh zonder beugel anders voelt en hoe ze hun maat vinden.",
+      "punten": [
+        "Herokaart in Deep Purple met de Cleo en een knop naar de maatkeuze",
+        "Drie dingen om te onthouden: geen beugel, gemaakt in Europa, gratis ruilen",
+        "Tweede blok met de Fit Finder, zodat niemand twijfelt over de maat"
+      ]
+    },
+    {
+      "node": "1118:91",
+      "type": "Productspotlight",
+      "onderwerp": "Welke Soft Revolt past bij jou?",
+      "kop": "Welke Soft Revolt past bij jou?",
+      "tekst": "Cleo, Anna en Lara naast elkaar in Deep Purple, met het verschil in hals en dekking en de actie voor drie bh's.",
+      "punten": [
+        "Drie modelkaarten met naam, kenmerk en prijs",
+        "Wat alle drie delen: zonder beugel, 3D gebreid in één stuk, cup B t/m G",
+        "Afsluiting: bespaar €30 bij drie bh's"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

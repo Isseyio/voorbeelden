@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "etq-82qku",
+  "merk": "ETQ",
+  "domein": "etq-amsterdam.com",
+  "lead_id": "2026-11-02-etq-amsterdam.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Drie nieuwe invalshoeken voor de ETQ-sneakers.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team ETQ, ik heb dit gemaakt omdat jullie zo duidelijk laten zien hoeveel handwerk er in één paar zit. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1120:4",
+      "titel": "Essentials",
+      "waarom": "Eén groot woord, een zoekbalk en drie echte packshots laten in een seconde zien waar ETQ voor staat."
+    },
+    {
+      "node": "1120:21",
+      "titel": "Eén paar, 25 mensen",
+      "waarom": "Vier concrete details over leer, handwerk en zool maken de prijs van een premium sneaker logisch."
+    },
+    {
+      "node": "1120:42",
+      "titel": "Eén paar, de hele week",
+      "waarom": "Twee echte situaties naast elkaar laten zien dat één paar overal bij past, en dat is de reden om te kopen."
+    }
+  ],
+  "waarom": {
+    "niche": "schoenen",
+    "kop": "Zo groeien schoenenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw schoenenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun tweede paar.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij schoenenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "300+",
+        "label": "advertenties heeft Axel Arigato nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1120:64",
+    "type": "Assortimentsmail",
+    "onderwerp": "De stukken die je steeds weer pakt",
+    "kop": "De stukken die je steeds weer pakt.",
+    "tekst": "Een rustige mail die vier sneakers naast elkaar zet, van de LT 01 tot de LS 01 in suède, met onderaan de beoordeling van meer dan 250.000 klanten.",
+    "punten": [
+      "LT 01 Essence White",
+      "LT 03 Premium Nappa White, de bestseller",
+      "DS 03 en LS 01 in chocolade en blauw"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1120:64",
+      "type": "Assortimentsmail",
+      "onderwerp": "De stukken die je steeds weer pakt",
+      "kop": "De stukken die je steeds weer pakt.",
+      "tekst": "Een rustige mail die vier sneakers naast elkaar zet, van de LT 01 tot de LS 01 in suède, met onderaan de beoordeling van meer dan 250.000 klanten.",
+      "punten": [
+        "LT 01 Essence White",
+        "LT 03 Premium Nappa White, de bestseller",
+        "DS 03 en LS 01 in chocolade en blauw"
+      ]
+    },
+    {
+      "node": "1120:104",
+      "type": "Merkverhaal",
+      "onderwerp": "Eén paar. Minstens 25 mensen.",
+      "kop": "Eén paar. Minstens 25 mensen.",
+      "tekst": "Een mail over hoe een ETQ-sneaker gemaakt wordt: met de hand in familieateliers in Noord-Portugal, met een eigen zool en gestikt in plaats van gelijmd.",
+      "punten": [
+        "Nappa leer uit een LWG Gold-looierij",
+        "Eigen zool uit een eigen mal",
+        "Gestikt, niet gelijmd"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "meadowfield-esc2v",
+  "merk": "Meadowfield",
+  "domein": "meadowfield.nl",
+  "lead_id": "2026-11-02-meadowfield.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1F5C2E",
+  "kop": "Natuurlijk voer verdient een plek in de feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Meadowfield, ik heb dit gemaakt omdat jullie blikvoer met 96% paardenvlees een sterk verhaal is, terwijl ik in de advertentiebibliotheek van Meta geen advertenties van jullie zag. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1137:4",
+      "titel": "Etenstijd belt",
+      "waarom": "Een speelse inkomende oproep met het blik paard groot in beeld valt op tussen gewone posts en vertelt in één zin wat erin zit."
+    },
+    {
+      "node": "1137:19",
+      "titel": "Zijn dag, goed geregeld",
+      "waarom": "Een dagritme met schakelaars laat zien hoe jullie voer in de dag van een hond past, met het kalkoenblik en de echte prijs erbij."
+    },
+    {
+      "node": "1137:44",
+      "titel": "Gratis verzending vanaf €30",
+      "waarom": "Jullie eigen aanbod en de 4,7/5 uit 468 beoordelingen bovenaan, met de foto van hond en kat, nemen de twijfel weg bij nieuwe klanten."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien dierenvoermerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw voermerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe klanten en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die klanten op tijd nieuw voer bestellen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij dierenvoermerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Edgard & Cooper nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1137:56",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Meadowfield",
+    "kop": "Welkom bij Meadowfield",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wat jullie voer anders maakt en waarom bestellen makkelijk is.",
+    "punten": [
+      "Herokaart in jullie groen met het Topfit-blik paard en de belofte: geen toegevoegde kleur-, geur- of smaakstoffen",
+      "Drie redenen uit jullie eigen site: 100% natuurzuiver, betaalbare voeding en voedingsadvies",
+      "Afsluitend blok met gratis verzending vanaf €30 en jullie 4,7/5 uit 468 beoordelingen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1137:56",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Meadowfield",
+      "kop": "Welkom bij Meadowfield",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wat jullie voer anders maakt en waarom bestellen makkelijk is.",
+      "punten": [
+        "Herokaart in jullie groen met het Topfit-blik paard en de belofte: geen toegevoegde kleur-, geur- of smaakstoffen",
+        "Drie redenen uit jullie eigen site: 100% natuurzuiver, betaalbare voeding en voedingsadvies",
+        "Afsluitend blok met gratis verzending vanaf €30 en jullie 4,7/5 uit 468 beoordelingen"
+      ]
+    },
+    {
+      "node": "1137:97",
+      "type": "Productspotlight + vergelijking",
+      "onderwerp": "Paard of kalkoen? Twee smaken Topfit",
+      "kop": "Twee smaken Topfit. Welke past bij jouw hond?",
+      "tekst": "Een mail die twee natvoerblikken naast elkaar zet, zodat klanten makkelijk kiezen en vaker terugkomen.",
+      "punten": [
+        "Topfit Paard met labels: 96% paardenvlees, groenten en appel, zonder kleur-, geur- en smaakstoffen",
+        "Vergelijkingstabel paard en kalkoen: vlees, extra's, ruw eiwit, blik en prijs (€3,99 en €10,98)",
+        "Afsluiting met jullie eigen pup-en-kittenfoto en gratis verzending vanaf €30"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

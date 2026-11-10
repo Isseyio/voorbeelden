@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "purepath-9r4aa",
+  "merk": "Pure Path",
+  "domein": "pure-path.com",
+  "lead_id": "2026-11-02-pure-path.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#0E2326",
+  "kop": "Pure Path op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Pure Path, ik heb dit gemaakt omdat jullie Fall Winter '26 shoot met die donkere, groenblauwe achtergrond echt opvalt tussen de rest. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1121:4",
+      "titel": "Rooted by friendship",
+      "waarom": "Jullie eigen tagline groot in beeld met kleine foto's ertussen valt op tussen gewone productfoto's."
+    },
+    {
+      "node": "1121:17",
+      "titel": "Puffer Jacket €199,99",
+      "waarom": "Prijs en product in één oogopslag helpt mensen die al aan een winterjas denken om door te klikken."
+    },
+    {
+      "node": "1121:26",
+      "titel": "Laag voor laag",
+      "waarom": "Jas en longsleeve naast elkaar laten zien hoe je een hele outfit bij Pure Path kunt kopen."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe varianten testen houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen bij een nieuwe collectie.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Quotrell nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1122:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Pure Path",
+    "kop": "Welkom bij Pure Path.",
+    "tekst": "Fijn dat je erbij bent. Je hoort als eerste over nieuwe collecties en sales, en je 10% welkomstkorting op je eerste bestelling staat klaar. Daaronder de nieuwe Fall Winter '26 collectie.",
+    "punten": [
+      "10% korting op je eerste bestelling",
+      "Puffer Jacket, €199,99",
+      "Rooted By Friendship Bomber Jacket, €189,99",
+      "Longsleeves vanaf €69,99"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1122:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Pure Path",
+      "kop": "Welkom bij Pure Path.",
+      "tekst": "Fijn dat je erbij bent. Je hoort als eerste over nieuwe collecties en sales, en je 10% welkomstkorting op je eerste bestelling staat klaar. Daaronder de nieuwe Fall Winter '26 collectie.",
+      "punten": [
+        "10% korting op je eerste bestelling",
+        "Puffer Jacket, €199,99",
+        "Rooted By Friendship Bomber Jacket, €189,99",
+        "Longsleeves vanaf €69,99"
+      ]
+    },
+    {
+      "node": "1122:35",
+      "type": "Merkverhaal",
+      "onderwerp": "Rooted by friendship",
+      "kop": "Rooted by friendship.",
+      "tekst": "Pure Path begon in 2008 in Amsterdam, opgericht door drie ondernemers. De driehoek in het logo staat voor hun vriendschap. Met de Rooted By Friendship Bomber Jacket in de hoofdrol en de Puffer Jacket als afsluiter.",
+      "punten": [
+        "Sinds 2008 uit Amsterdam",
+        "Rooted By Friendship Bomber Jacket, €189,99",
+        "Puffer Jacket in Black en Sand, €199,99",
+        "Op werkdagen voor 22:00 besteld, morgen in huis"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
