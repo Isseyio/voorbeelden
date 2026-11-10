@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "aurum-mrp4f",
+  "merk": "Aurum Brothers",
+  "domein": "aurumbrothers.com",
+  "lead_id": "2026-11-01-aurumbrothers.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1A140A",
+  "kop": "Natuursteen om de pols, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Aurum Brothers, ik heb dit gemaakt omdat jullie foto's van armbanden om de pols het handwerk uit Brabant zo goed laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1275:3",
+      "titel": "Natuursteen van dichtbij",
+      "waarom": "Een macrofoto met korte uitleg laat zien waarom een armband van echt kyaniet en 925 zilver zijn prijs waard is."
+    },
+    {
+      "node": "1275:20",
+      "titel": "Eindejaarsactie",
+      "waarom": "Een duidelijke actie met code boven een polsfoto geeft twijfelaars een reden om nu te kopen."
+    },
+    {
+      "node": "1275:28",
+      "titel": "Fijn of fors",
+      "waarom": "Twee kraalmaten naast elkaar helpen mensen kiezen, en wie kiest, koopt sneller."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "18–28%",
+        "label": "van de online omzet komt bij sieradenmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1275:46",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Aurum Brothers",
+    "kop": "Welkom bij Aurum Brothers",
+    "tekst": "Armbanden van natuursteen, met de hand gemaakt in Brabant en op maat van jouw pols.",
+    "punten": [
+      "Op maat van jouw polsmaat",
+      "Gratis verzending en retour",
+      "30 dagen tevredenheidsgarantie"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1275:46",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Aurum Brothers",
+      "kop": "Welkom bij Aurum Brothers",
+      "tekst": "Armbanden van natuursteen, met de hand gemaakt in Brabant en op maat van jouw pols.",
+      "punten": [
+        "Op maat van jouw polsmaat",
+        "Gratis verzending en retour",
+        "30 dagen tevredenheidsgarantie"
+      ]
+    },
+    {
+      "node": "1275:78",
+      "type": "Merkverhaal",
+      "onderwerp": "Van onze handen naar jouw pols",
+      "kop": "Van onze handen naar jouw pols.",
+      "tekst": "In Brabant maakt ons familiebedrijf sinds 2015 elke armband met de hand, met zorgvuldig gekozen natuursteen. Omdat elke steen anders is, is ook elke armband net iets anders.",
+      "punten": [
+        "Bronziet, 12 mm natuursteen",
+        "3,5 micron 24kt goud vermeil",
+        "Elke week nieuwe ontwerpen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

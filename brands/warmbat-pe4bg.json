@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "warmbat-pe4bg",
+  "merk": "Warmbat",
+  "domein": "warmbat.com",
+  "lead_id": "2026-10-31-warmbat.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6B5443",
+  "kop": "Drie advertenties voor Warmbat, rond de Classic en de Willow.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Warmbat, ik heb dit gemaakt omdat jullie sloffen van 100% merinowol en de sfeerfoto's bij de open haard precies passen bij deze tijd van het jaar. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1274:4",
+      "titel": "Gemaakt van merinowol",
+      "waarom": "De Classic groot in beeld met vier ronde materiaalfoto's maakt in een oogopslag duidelijk waarom deze sloffen meer kosten dan een paar van de markt."
+    },
+    {
+      "node": "1274:28",
+      "titel": "10% op je eerste paar",
+      "waarom": "Jullie bestaande welkomstkorting groot boven het logo en een echte sfeerfoto geeft nieuwe kopers een reden om nu te bestellen."
+    },
+    {
+      "node": "1274:37",
+      "titel": "Classic of Willow",
+      "waarom": "Twee modellen naast elkaar met hun prijs helpen mensen kiezen, in plaats van alleen te kijken."
+    }
+  ],
+  "waarom": {
+    "niche": "schoenen",
+    "kop": "Zo groeien schoenenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw schoenenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, bijvoorbeeld voor een tweede paar of een cadeau.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij schoenenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Woolville nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1274:58",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Warmbat, hier is je 10%",
+    "kop": "Welkom bij Warmbat",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, met de 10% korting die jullie al aanbieden en meteen uitleg waarom merinowol zo fijn draagt.",
+    "punten": [
+      "Herokaart met jullie eigen sfeerfoto en de 10% welkomstkorting",
+      "Drie redenen voor merinowol: neemt vocht op, warm en ademend, antibacterieel",
+      "Een blok met Classic en Willow, gratis verzending vanaf €50"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1274:58",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Warmbat, hier is je 10%",
+      "kop": "Welkom bij Warmbat",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers, met de 10% korting die jullie al aanbieden en meteen uitleg waarom merinowol zo fijn draagt.",
+      "punten": [
+        "Herokaart met jullie eigen sfeerfoto en de 10% welkomstkorting",
+        "Drie redenen voor merinowol: neemt vocht op, warm en ademend, antibacterieel",
+        "Een blok met Classic en Willow, gratis verzending vanaf €50"
+      ]
+    },
+    {
+      "node": "1274:94",
+      "type": "Merkverhaal",
+      "onderwerp": "Meer dan 100 jaar warme voeten",
+      "kop": "Meer dan 100 jaar warme voeten",
+      "tekst": "Een mail over jullie geschiedenis als een van de oudste makers van schapenvachtschoenen, met de Classic Suède en zijn materialen uitgelicht.",
+      "punten": [
+        "Sfeerfoto als opener met het verhaal in een kaart",
+        "De Classic Suède met labels: suède, merinovoering, binnenzool, maat 36–48",
+        "Afsluiting 'Klaar voor de winter' met prijs en knop"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

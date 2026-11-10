@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "goodroll-wfjxs",
+  "merk": "The Good Roll",
+  "domein": "thegoodroll.nl",
+  "lead_id": "2026-11-01-thegoodroll.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#D95B86",
+  "kop": "Drie nieuwe invalshoeken voor The Good Roll.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team The Good Roll, ik heb dit gemaakt omdat jullie wc-papier met die vrolijke wikkels en het verhaal uit Ghana zoveel invalshoeken geeft voor advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1271:4",
+      "titel": "Je wc-rol belt",
+      "waarom": "Een speels belscherm met de Bamboo Home Kit laat mensen stoppen met scrollen en maakt bestellen een grapje in plaats van een klusje."
+    },
+    {
+      "node": "1271:23",
+      "titel": "Nooit meer zonder",
+      "waarom": "Een weekstrip laat in één beeld zien hoe het abonnement werkt: elke paar weken een doos, met 10% korting en altijd te pauzeren."
+    },
+    {
+      "node": "1271:52",
+      "titel": "Waar hij van gemaakt is",
+      "waarom": "Vier ronde foto's met korte uitleg maken bamboe, 300 vellen en de toiletten in Ghana concreet voor wie The Good Roll nog niet kent."
+    }
+  ],
+  "waarom": {
+    "niche": "huishouden",
+    "kop": "Zo groeien huishoudmerken op Instagram.",
+    "tekst": "De meeste mensen kiezen hun wc-papier niet bewust, tot ze tijdens het scrollen iets zien dat ze aan het lachen maakt. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag omdat advertenties niet moe worden. Een vaste nieuwsbrief maakt van een eerste doos een abonnement.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huishoud- en interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij huishoud- en interieurmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1273:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de club",
+    "kop": "Welkom bij de club",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers die meteen de 5% welkomstkorting gebruikt die jullie al aanbieden, en laat zien waarom The Good Roll anders is.",
+    "punten": [
+      "Herokaart met jullie eigen foto van een doos in de wc en de knop Gebruik je 5% korting",
+      "Drie redenen met jullie eigen iconen: bamboe, 50% van de winst naar toiletten in Ghana, CO2-neutraal geproduceerd",
+      "Een tweede kaart over het abonnement: 10% korting op elke doos, pauzeren kan altijd"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1273:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de club",
+      "kop": "Welkom bij de club",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers die meteen de 5% welkomstkorting gebruikt die jullie al aanbieden, en laat zien waarom The Good Roll anders is.",
+      "punten": [
+        "Herokaart met jullie eigen foto van een doos in de wc en de knop Gebruik je 5% korting",
+        "Drie redenen met jullie eigen iconen: bamboe, 50% van de winst naar toiletten in Ghana, CO2-neutraal geproduceerd",
+        "Een tweede kaart over het abonnement: 10% korting op elke doos, pauzeren kan altijd"
+      ]
+    },
+    {
+      "node": "1273:30",
+      "type": "Merkverhaal",
+      "onderwerp": "Deze rol begint in Ghana",
+      "kop": "Deze rol begint in Ghana",
+      "tekst": "Een mail over het verhaal achter het wc-papier, die eindigt bij een concreet product: The Bamboo Home Kit.",
+      "punten": [
+        "Hero met jullie foto uit Ghana en een kaart over toiletten bouwen sinds 2017 en 843 boeren",
+        "The Bamboo Home Kit met vier labels: wc-rollen, keukenrollen, tissueboxen, handgewikkeld",
+        "Afsluiter in roze: 50% van de winst naar toiletten, met de foto van een toiletgebouw"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

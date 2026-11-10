@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "msm-6p9yu",
+  "merk": "Marie-Stella-Maris",
+  "domein": "marie-stella-maris.com",
+  "lead_id": "2026-10-30-marie-stella-maris.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1C1C1C",
+  "kop": "Drie nieuwe invalshoeken voor Marie-Stella-Maris, rond geurstokjes en navullen.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Marie-Stella-Maris, ik heb dit gemaakt omdat navullen bij jullie zo vanzelfsprekend is, en dat zie je bijna nooit in advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1279:4",
+      "titel": "Navullen, niet weggooien",
+      "waarom": "Jullie eigen foto van de refill in actie laat zien hoe makkelijk navullen is, met de echte prijs erbij."
+    },
+    {
+      "node": "1279:20",
+      "titel": "Maandenlang geur",
+      "waarom": "Een maandstrip met dezelfde fles maakt de 3 tot 4 maanden geur concreet, wat de prijs logisch maakt."
+    },
+    {
+      "node": "1279:44",
+      "titel": "Geur in huis",
+      "waarom": "Een groot woord, een zoekbalk en drie geuren naast elkaar vallen op tussen gewone berichten en laten de keuze zien."
+    }
+  ],
+  "waarom": {
+    "niche": "geur en kaarsen",
+    "kop": "Zo groeien geurmerken op Instagram.",
+    "tekst": "Een geur koop je op gevoel, en dat gevoel ontstaat tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een refill of een nieuwe geur.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij geurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Rituals nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1279:59",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Club Marie",
+    "kop": "Welkom bij Club Marie",
+    "tekst": "Een welkomstmail voor nieuwe Club Marie-leden, met de 15% korting die jullie al geven en meteen uitleg over navullen.",
+    "punten": [
+      "Herokaart met jullie eigen sfeerfoto van Voyage Vétiver en de 15% welkomstkorting",
+      "Drie dingen om te weten: navulbaar, B Corp, voor 23:59 besteld is morgen in huis",
+      "Een blok over navullen in de boutique, met 30% korting voor leden"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1279:59",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Club Marie",
+      "kop": "Welkom bij Club Marie",
+      "tekst": "Een welkomstmail voor nieuwe Club Marie-leden, met de 15% korting die jullie al geven en meteen uitleg over navullen.",
+      "punten": [
+        "Herokaart met jullie eigen sfeerfoto van Voyage Vétiver en de 15% welkomstkorting",
+        "Drie dingen om te weten: navulbaar, B Corp, voor 23:59 besteld is morgen in huis",
+        "Een blok over navullen in de boutique, met 30% korting voor leden"
+      ]
+    },
+    {
+      "node": "1279:94",
+      "type": "Productspotlight",
+      "onderwerp": "Vier favorieten voor de herfst",
+      "kop": "Geur voor lange avonden",
+      "tekst": "Een seizoensmail met vier producten, van geurstokjes tot de refill en de Home Reset-set, elk met prijs en knop.",
+      "punten": [
+        "Sfeerfoto als opener",
+        "Voyage Vétiver, Violet Muse, Refill 750 ml en Home Reset Rock Roses met hun echte prijzen",
+        "Afsluiting met 4,9 uit 121 reviews voor Violet Muse"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

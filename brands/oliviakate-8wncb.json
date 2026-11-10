@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "oliviakate-8wncb",
+  "merk": "Olivia & Kate",
+  "domein": "oliviakate.nl",
+  "lead_id": "2026-10-31-oliviakate.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2E2622",
+  "kop": "Blazers en sets in zachte tinten, als advertentie en nieuwsbrief.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Olivia & Kate, ik heb dit gemaakt omdat jullie blazers en sets in die zachte, neutrale tinten samen zo'n duidelijk verhaal vertellen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1276:4",
+      "titel": "Zachte tinten",
+      "waarom": "Een typografische kop met kleine fotovensters valt op tussen gewone productfoto's en laat in één beeld de kleuren van de collectie zien."
+    },
+    {
+      "node": "1276:18",
+      "titel": "15% welkomstkorting",
+      "waarom": "Een duidelijk aanbod met jullie bestaande inschrijfkorting maakt van een klik een nieuwe inschrijving voor de nieuwsbrief."
+    },
+    {
+      "node": "1276:27",
+      "titel": "Cropped of classic?",
+      "waarom": "Een keuzevraag met twee modellen naast elkaar laat mensen vergelijken en nodigt uit om door te klikken."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw modemerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij modemerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1276:46",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Olivia & Kate, je korting staat klaar",
+    "kop": "Welkom bij Olivia & Kate",
+    "tekst": "Een rustige welkomstmail die de 15% inschrijfkorting opvolgt, de boutique in Haarlem laat zien en meteen naar de sets leidt.",
+    "punten": [
+      "15% korting op de eerste bestelling",
+      "Neutrale basics, boutique in Haarlem en persoonlijk advies",
+      "Doorklik naar de sets"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1276:46",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Olivia & Kate, je korting staat klaar",
+      "kop": "Welkom bij Olivia & Kate",
+      "tekst": "Een rustige welkomstmail die de 15% inschrijfkorting opvolgt, de boutique in Haarlem laat zien en meteen naar de sets leidt.",
+      "punten": [
+        "15% korting op de eerste bestelling",
+        "Neutrale basics, boutique in Haarlem en persoonlijk advies",
+        "Doorklik naar de sets"
+      ]
+    },
+    {
+      "node": "1276:75",
+      "type": "Productspotlight",
+      "onderwerp": "De blazer-edit: vier modellen in zachte tinten",
+      "kop": "De blazer-edit",
+      "tekst": "Een assortimentsmail met vier blazers, met prijs en knop per model, en een uitnodiging om in Haarlem te komen passen.",
+      "punten": [
+        "Vier blazers van €64,99 tot €69,99",
+        "Per model een eigen knop",
+        "Afsluiter met de boutique aan de Anegang 48"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

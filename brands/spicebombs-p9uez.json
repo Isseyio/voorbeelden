@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "spicebombs-p9uez",
+  "merk": "Spicebombs",
+  "domein": "spicebombs.nl",
+  "lead_id": "2026-11-10-spicebombs.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E85232",
+  "kop": "Drie nieuwe invalshoeken voor Spicebombs, van één bom tot taco-avond.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Spicebombs, ik heb dit gemaakt omdat een hele pan birria uit één bom een idee is dat je in één beeld kunt laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1198:3",
+      "titel": "Eén bom, een hele pan",
+      "waarom": "Vlees, water en tortilla's in drie pillen maakt in één oogopslag duidelijk hoe weinig je nodig hebt."
+    },
+    {
+      "node": "1198:49",
+      "titel": "Virale gerechten uit één bom",
+      "waarom": "Jullie eigen gerechtfoto's tussen de woorden laten zien wat je ermee maakt, met de drie smaken eronder."
+    },
+    {
+      "node": "1198:91",
+      "titel": "Birria Bomb belt",
+      "waarom": "Een speels concept valt op tussen gewone foodposts en zet de Birria Bomb groot in beeld."
+    }
+  ],
+  "waarom": {
+    "niche": "food",
+    "kop": "Zo groeien foodmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw gerecht of merk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende smaak.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft TastyChef nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1199:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Spicebombs: je 10% staat klaar",
+    "kop": "Welkom bij Spicebombs",
+    "tekst": "Een welkomstmail die de 10% uit jullie nieuwsbriefaanmelding opvolgt en in drie stappen laat zien hoe een bom werkt.",
+    "punten": [
+      "Kies je bom: Birria, Seafood Boil, Rendang of Butter Chicken",
+      "Alleen vlees of vis en water erbij",
+      "Doorklik naar de recepten voor wie twijfelt"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1199:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Spicebombs: je 10% staat klaar",
+      "kop": "Welkom bij Spicebombs",
+      "tekst": "Een welkomstmail die de 10% uit jullie nieuwsbriefaanmelding opvolgt en in drie stappen laat zien hoe een bom werkt.",
+      "punten": [
+        "Kies je bom: Birria, Seafood Boil, Rendang of Butter Chicken",
+        "Alleen vlees of vis en water erbij",
+        "Doorklik naar de recepten voor wie twijfelt"
+      ]
+    },
+    {
+      "node": "1199:96",
+      "type": "Productspotlight",
+      "onderwerp": "Klaar voor een nieuw favoriet gerecht?",
+      "kop": "Klaar voor een nieuw favoriet gerecht?",
+      "tekst": "Een assortimentsmail die kopers van de Birria Bomb laat kennismaken met de andere drie smaken.",
+      "punten": [
+        "Vier smaken met elk een eigen regel en knop",
+        "Hero met jullie eigen birria-foto",
+        "Afsluiter met 4,5 uit 5 van 316 reviews"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
