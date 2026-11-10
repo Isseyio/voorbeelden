@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "curacao-wnn7u",
+  "merk": "Curaçao Likeur",
+  "domein": "curacaolikeur.nl",
+  "lead_id": "2026-11-10-curacaolikeur.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#0E3468",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Curaçao Likeur.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Curaçao Likeur, ik heb dit gemaakt omdat jullie een verhaal hebben dat bijna niemand heeft: sinds 1896, met Laraha van het eiland zelf. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1068:119",
+      "titel": "Wat zit erin",
+      "waarom": "Laraha, Landhuis Chobolobo en 1896 in één beeld laten zien waarom dit de echte Blue Curaçao is."
+    },
+    {
+      "node": "1068:141",
+      "titel": "Blauw of tamarind",
+      "waarom": "Twee smaken met een simpele mix ernaast maken het makkelijk om te kiezen en meteen te bestellen."
+    },
+    {
+      "node": "1068:158",
+      "titel": "Proef vanaf €6,90",
+      "waarom": "Een lage instapprijs met een vrolijke foto haalt de drempel weg om een nieuwe likeur te proberen."
+    }
+  ],
+  "waarom": {
+    "niche": "food en drinks",
+    "kop": "Zo groeien drankmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe drank niet via Google, maar tijdens het scrollen, vaak via een cocktail die er goed uitziet. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een nieuwsbrief met recepten zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15+",
+        "label": "advertenties heeft O'Donnell Moonshine nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1069:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Senior & Co.",
+    "kop": "Welkom bij Senior & Co.",
+    "tekst": "Een welkom voor nieuwe inschrijvers, met de Blue Curaçao, drie redenen waarom Senior & Co anders is en meteen het eerste recept: de TamaGinger.",
+    "punten": [
+      "Laraha-schil uit Curaçao",
+      "Gestookt op Landhuis Chobolobo",
+      "Eerste recept: de TamaGinger"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1069:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Senior & Co.",
+      "kop": "Welkom bij Senior & Co.",
+      "tekst": "Een welkom voor nieuwe inschrijvers, met de Blue Curaçao, drie redenen waarom Senior & Co anders is en meteen het eerste recept: de TamaGinger.",
+      "punten": [
+        "Laraha-schil uit Curaçao",
+        "Gestookt op Landhuis Chobolobo",
+        "Eerste recept: de TamaGinger"
+      ]
+    },
+    {
+      "node": "1070:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Het begon in een apotheek",
+      "kop": "Gemaakt op Curaçao. Sinds 1896.",
+      "tekst": "Het verhaal van Botika Excelsior en Landhuis Chobolobo, hoe je de echte Curaçao-likeur herkent, en de vier smaken op een rij.",
+      "punten": [
+        "Sinds 1896, gestookt op Landhuis Chobolobo",
+        "Herken de echte aan de ronde fles",
+        "Blue, White, Tamarind en Coffee, vanaf €6,90"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
