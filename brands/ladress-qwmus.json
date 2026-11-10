@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "ladress-qwmus",
+  "merk": "LaDress",
+  "domein": "ladress.com",
+  "lead_id": "2026-11-04-ladress.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Jurken die je wast, inpakt en zo weer draagt.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team LaDress, ik heb dit gemaakt omdat jullie travelstof wasbaar en kreukvrij is, en dat vind ik een sterk verhaal voor Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1092:97",
+      "titel": "Eén prijs, groot logo",
+      "waarom": "Een duidelijke prijs met het merk groot in beeld werkt goed voor mensen die LaDress nog niet kennen."
+    },
+    {
+      "node": "1092:120",
+      "titel": "Twee kleuren naast elkaar",
+      "waarom": "Black en Fuchsia naast elkaar laten in één oogopslag zien dat dezelfde jurk bij twee stemmingen past."
+    },
+    {
+      "node": "1092:148",
+      "titel": "Een dag in één jurk",
+      "waarom": "De dagplanning maakt wasbaar en kreukvrij concreet: van koffer tot diner zonder strijkijzer."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe invalshoeken testen, houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Studio Anneloes nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1092:184",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij LaDress",
+    "kop": "Welkom bij LaDress",
+    "tekst": "Een rustige eerste mail die meteen laat zien waarom LaDress anders is: jurken die je wast, inpakt en zo weer draagt, met een uitnodiging voor persoonlijk stijladvies of een bezoek aan de winkel.",
+    "punten": [
+      "Wasbaar: de travelstof gaat gewoon in de was",
+      "Kreukvrij: uit de koffer en klaar",
+      "Gratis verzending en retour in de EU",
+      "Persoonlijk stijladvies of langs in de Lairessestraat"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1092:184",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij LaDress",
+      "kop": "Welkom bij LaDress",
+      "tekst": "Een rustige eerste mail die meteen laat zien waarom LaDress anders is: jurken die je wast, inpakt en zo weer draagt, met een uitnodiging voor persoonlijk stijladvies of een bezoek aan de winkel.",
+      "punten": [
+        "Wasbaar: de travelstof gaat gewoon in de was",
+        "Kreukvrij: uit de koffer en klaar",
+        "Gratis verzending en retour in de EU",
+        "Persoonlijk stijladvies of langs in de Lairessestraat"
+      ]
+    },
+    {
+      "node": "1092:246",
+      "type": "Productspotlight",
+      "onderwerp": "Feestjurken die je gewoon wast",
+      "kop": "Feestjurken die je gewoon wast.",
+      "tekst": "Een assortimentsmail voor de feestdagen: vier jurken uit de feestcollectie met prijs en knop, plus het verhaal dat bijna alle styles in Europa gemaakt worden.",
+      "punten": [
+        "Gloria travelstof kokerjurk, €179",
+        "Lea lichte travelstof wikkeljurk, €289",
+        "Colette crêpe satijnen blazerjurk, €359",
+        "Hillary travelstof maxijurk, €259"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
