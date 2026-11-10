@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "seabass-fsyuc",
+  "merk": "Seabass",
+  "domein": "seabass-official.com",
+  "lead_id": "2026-11-10-seabass-official.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#26293A",
+  "kop": "Uv-badpakken voor kleine meisjes met grote zomerplannen.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Seabass, ik heb dit gemaakt omdat jullie Coco-badpakken met Peter Pan-kraag echt opvallen tussen de gewone uv-pakjes. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1303:18",
+      "titel": "UPF 50+ als hoofdrol",
+      "waarom": "Ouders zoeken eerst op bescherming; de zoekbalk en twee echte Coco-pakjes laten meteen zien wat ze krijgen."
+    },
+    {
+      "node": "1303:33",
+      "titel": "Grote zomerplannen",
+      "waarom": "Jullie eigen collectieregel als grote kop met foto's ertussen stopt de duim tijdens het scrollen."
+    },
+    {
+      "node": "1303:50",
+      "titel": "Vanaf €59",
+      "waarom": "Een duidelijke instapprijs boven een sterke foto haalt twijfel weg bij ouders die nog vergelijken."
+    }
+  ],
+  "waarom": {
+    "niche": "kindermode",
+    "kop": "Zo groeien kindermodemerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw kindermerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die ouders terugkomen voor de volgende maat.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kindermodemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Petit Bateau nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1303:58",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Seabass Club",
+    "kop": "Welkom bij de Seabass Club",
+    "tekst": "Een rustige welkomstmail die de 10% korting van de Seabass Club opvolgt en in drie punten uitlegt waarom ouders voor Seabass kiezen.",
+    "punten": [
+      "UPF 50+: houdt 98% van de uv-straling tegen",
+      "80% gerecycled polyester",
+      "Fairtrade, handgemaakt in Portugal"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1303:58",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Seabass Club",
+      "kop": "Welkom bij de Seabass Club",
+      "tekst": "Een rustige welkomstmail die de 10% korting van de Seabass Club opvolgt en in drie punten uitlegt waarom ouders voor Seabass kiezen.",
+      "punten": [
+        "UPF 50+: houdt 98% van de uv-straling tegen",
+        "80% gerecycled polyester",
+        "Fairtrade, handgemaakt in Portugal"
+      ]
+    },
+    {
+      "node": "1303:92",
+      "type": "Productspotlight",
+      "onderwerp": "Op zonvakantie deze winter?",
+      "kop": "Kies haar favoriet",
+      "tekst": "Een assortimentsmail voor ouders die in de winter de zon opzoeken: vier meisjesbadpakken met prijs en een eigen knop.",
+      "punten": [
+        "The Coco Capri, €69",
+        "The Ruffle Positano, €59",
+        "The Sailor Monaco, €79",
+        "The Coco Forte dei Marmi, €69"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

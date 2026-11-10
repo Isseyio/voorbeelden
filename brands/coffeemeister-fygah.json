@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "coffeemeister-fygah",
+  "merk": "CoffeeMeister",
+  "domein": "coffeemeister.nl",
+  "lead_id": "2026-11-05-coffeemeister.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2FC6D3",
+  "kop": "Drie nieuwe invalshoeken voor CoffeeMeister.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team CoffeeMeister, ik heb dit gemaakt omdat al jullie koffie uit een eigen trommelbrander in Almelo komt, en dat is een mooi verhaal om mee te adverteren. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1324:91",
+      "titel": "Slow roast",
+      "waarom": "Eén groot woord en de vier Italian Espresso-zakken laten in een seconde zien waar jullie koffie anders in is: hoe hij gebrand wordt."
+    },
+    {
+      "node": "1324:160",
+      "titel": "Kies je roast",
+      "waarom": "Medium en Extra Dark naast elkaar helpen iemand die twijfelt meteen kiezen, zonder eerst de hele webshop door te hoeven."
+    },
+    {
+      "node": "1324:236",
+      "titel": "Eén koffie voor je hele dag",
+      "waarom": "Een dagritme met schakelaars maakt van een zak bonen iets herkenbaars: de koffie van je ochtend, je werkdag en je middag."
+    }
+  ],
+  "waarom": {
+    "niche": "koffie",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "Mensen kiezen een nieuwe koffie vaak tijdens het scrollen, niet in de supermarkt. Merken die daar elke week nieuwe advertenties testen, blijven opvallen en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat kopers terugkomen als de zak leeg is.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij koffiemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Simon Lévelt nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1325:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij CoffeeMeister",
+    "kop": "Welkom bij CoffeeMeister",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: waar de koffie vandaan komt (de eigen branderij in Almelo, slow roast), wat ze kunnen verwachten bij hun eerste bestelling en het proefpakket als makkelijke eerste stap.",
+    "punten": [
+      "Eigen branderij en slow roast in drie korte punten",
+      "Gratis verzending vanaf €50 in NL en €70 in BE",
+      "Proefpakket voor wie nog niet weet welke roast"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1325:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij CoffeeMeister",
+      "kop": "Welkom bij CoffeeMeister",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: waar de koffie vandaan komt (de eigen branderij in Almelo, slow roast), wat ze kunnen verwachten bij hun eerste bestelling en het proefpakket als makkelijke eerste stap.",
+      "punten": [
+        "Eigen branderij en slow roast in drie korte punten",
+        "Gratis verzending vanaf €50 in NL en €70 in BE",
+        "Proefpakket voor wie nog niet weet welke roast"
+      ]
+    },
+    {
+      "node": "1325:145",
+      "type": "Productspotlight",
+      "onderwerp": "Welke roast past bij jou?",
+      "kop": "Maak kennis met de verschillende smaken",
+      "tekst": "Een smakenmail met jullie eigen foto: Medium, Dark, Extra Dark en Napoli naast elkaar met hun smaaknotities, en het proefpakket 3 x 1 kg voor wie niet kan kiezen.",
+      "punten": [
+        "Vier blends met hun eigen smaaknotities",
+        "Prijs per kilo direct zichtbaar",
+        "Proefpakket 3 x 1 kg als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "twosisters-uqq8e",
+  "merk": "The Two Sisters",
+  "domein": "the-twosisters.nl",
+  "lead_id": "2026-11-10-the-twosisters.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#DD987B",
+  "kop": "Slow fashion met een ziel, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team The Two Sisters, ik heb dit gemaakt omdat jullie foto's met die zwierende rokken eigenlijk al advertenties zijn. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1291:3",
+      "titel": "Prijs en beweging",
+      "waarom": "Een duidelijke prijs boven een foto vol beweging laat in één blik zien wat het kost en hoe het valt."
+    },
+    {
+      "node": "1291:14",
+      "titel": "Het verhaal in één zin",
+      "waarom": "Slow fashion uit Pushkar is jullie sterkste verschil met grote ketens, dus dat staat hier groot vooraan."
+    },
+    {
+      "node": "1291:28",
+      "titel": "Eén rok, vijftien kleuren",
+      "waarom": "Twee kleuren naast elkaar maken nieuwsgierig naar de rest en sturen mensen naar de productpagina."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lofty Manner nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1291:51",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in de Sisterhood, hier is je 10%",
+    "kop": "Welkom in de Sisterhood",
+    "tekst": "Een warme welkomstmail voor nieuwe Sister VIP's: de 10% korting van de pop-up, wat ze van jullie mogen verwachten en een eerste favoriet om mee te beginnen.",
+    "punten": [
+      "De 10% korting van de pop-up direct in beeld",
+      "Handgemaakt, fairtrade en maat 34 tot 60 in drie korte punten",
+      "Een eerste favoriet: de Layla Kimono"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1291:51",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in de Sisterhood, hier is je 10%",
+      "kop": "Welkom in de Sisterhood",
+      "tekst": "Een warme welkomstmail voor nieuwe Sister VIP's: de 10% korting van de pop-up, wat ze van jullie mogen verwachten en een eerste favoriet om mee te beginnen.",
+      "punten": [
+        "De 10% korting van de pop-up direct in beeld",
+        "Handgemaakt, fairtrade en maat 34 tot 60 in drie korte punten",
+        "Een eerste favoriet: de Layla Kimono"
+      ]
+    },
+    {
+      "node": "1291:81",
+      "type": "Merkverhaal",
+      "onderwerp": "Van zus tot zus: waar jouw rok vandaan komt",
+      "kop": "Van zus tot zus",
+      "tekst": "Het verhaal van Ingrid en de familieateliers in Pushkar, met de Real Gypsy Skirt uitgelicht en BlueHouse Pushkar als afsluiting.",
+      "punten": [
+        "Twintig jaar India in een paar zinnen",
+        "De Real Gypsy Skirt met vier kenmerken",
+        "Afsluiting met BlueHouse Pushkar"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

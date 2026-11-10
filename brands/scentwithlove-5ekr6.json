@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "scentwithlove-5ekr6",
+  "merk": "Scent with Love",
+  "domein": "scentwithlove.nl",
+  "lead_id": "2026-11-10-scentwithlove.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#7E554B",
+  "kop": "Drie advertenties voor Scent with Love, van diffuser tot parfumworkshop.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Scent with Love, ik heb dit gemaakt omdat jullie in elke geur een edelsteen verwerken en jullie workshops prachtige foto's opleveren. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1326:4",
+      "titel": "Golden Tonka & Amber",
+      "waarom": "Eén product met zijn geurnoten en edelsteen in beeld laat zien wat er in de fles zit, zonder dat iemand hoeft te ruiken."
+    },
+    {
+      "node": "1326:27",
+      "titel": "Parfum maken voor €119,99",
+      "waarom": "De echte prijs met lunch en drankje bovenaan maakt het aanbod meteen duidelijk, met een foto uit jullie eigen workshop."
+    },
+    {
+      "node": "1326:38",
+      "titel": "Druppel voor druppel",
+      "waarom": "Een close-up van de pipet met korte kenmerken laat in een paar seconden zien hoe jullie workshop werkt."
+    }
+  ],
+  "waarom": {
+    "niche": "geur & kaarsen",
+    "kop": "Zo groeien geur- en kaarsenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw geur- of kaarsenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een nieuwe geur of een workshop.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij geur- en kaarsenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Marie-Stella-Maris nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1327:21",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Scent with Love",
+    "kop": "Welkom bij Scent with Love",
+    "tekst": "Een welkomstmail voor nieuwe aanmeldingen: wie jullie zijn, wat jullie geuren bijzonder maakt en waar ze kunnen beginnen.",
+    "punten": [
+      "Hand gegoten in Nederland, met een edelsteen in elke geur",
+      "Het verhaal van Maxime en Kelly, sinds 2020",
+      "Gratis verzending vanaf €50 (NL)"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1327:21",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Scent with Love",
+      "kop": "Welkom bij Scent with Love",
+      "tekst": "Een welkomstmail voor nieuwe aanmeldingen: wie jullie zijn, wat jullie geuren bijzonder maakt en waar ze kunnen beginnen.",
+      "punten": [
+        "Hand gegoten in Nederland, met een edelsteen in elke geur",
+        "Het verhaal van Maxime en Kelly, sinds 2020",
+        "Gratis verzending vanaf €50 (NL)"
+      ]
+    },
+    {
+      "node": "1327:64",
+      "type": "Merkverhaal",
+      "onderwerp": "Maak je eigen signature scent",
+      "kop": "Van Grasse naar Amsterdam",
+      "tekst": "Een merkverhaal over jullie reis naar Grasse, met daarna wat deelnemers aan de parfumworkshop meenemen.",
+      "punten": [
+        "Jullie eigen workshopfoto's uit Hotel The July",
+        "Vier kenmerken rond de workshop: oliën, flacon, verpakking en lunch",
+        "Afsluiter over de Saturday Night Edition en de cadeaubon"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

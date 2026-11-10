@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "kirpy-pf55e",
+  "merk": "Kirpy",
+  "domein": "kirpydrinks.com",
+  "lead_id": "2026-11-05-kirpydrinks.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#0E567C",
+  "kop": "Drie nieuwe invalshoeken voor jullie sticks",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Kirpy, ik heb dit gemaakt omdat jullie oranje en roze sticks zo herkenbaar zijn dat ze bijna zelf de advertentie zijn. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1323:82",
+      "titel": "Elke dag één stick",
+      "waarom": "Een week in één beeld laat zien dat Kirpy een dagelijkse gewoonte is en maakt het abonnement logisch."
+    },
+    {
+      "node": "1323:107",
+      "titel": "Twee smaken",
+      "waarom": "Twee smaken in één hand, met hoe ze smaken, helpt twijfelaars kiezen zonder dat ze de productpagina hoeven te lezen."
+    },
+    {
+      "node": "1323:126",
+      "titel": "Je hydratatie belt",
+      "waarom": "Een speels format dat opvalt tussen gewone productfoto's en zonder tekstblokken laat zien wat erin zit."
+    }
+  ],
+  "waarom": {
+    "niche": "supplementen & wellness",
+    "kop": "Zo groeien wellnessmerken op Instagram.",
+    "tekst": "Jullie adverteren al, dus de instroom is er. De winst zit vaak in steeds nieuwe invalshoeken, zodat advertenties niet moe worden, en in een vaste nieuwsbrief die nieuwe klanten laat terugkomen voor het volgende zakje.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij wellnessmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij wellnessmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1324:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Kirpy",
+    "kop": "Welkom bij Kirpy",
+    "tekst": "Een welkomstmail voor nieuwe aanmelders: wie Kirpy is, wat er in één stick zit en hoe je hem gebruikt.",
+    "punten": [
+      "Opening met jullie eigen foto van het Orange-zakje",
+      "Magnesium, kalium en vitamine C met de echte hoeveelheden",
+      "Gebruik in één zin, met de hand vol sticks"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1324:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Kirpy",
+      "kop": "Welkom bij Kirpy",
+      "tekst": "Een welkomstmail voor nieuwe aanmelders: wie Kirpy is, wat er in één stick zit en hoe je hem gebruikt.",
+      "punten": [
+        "Opening met jullie eigen foto van het Orange-zakje",
+        "Magnesium, kalium en vitamine C met de echte hoeveelheden",
+        "Gebruik in één zin, met de hand vol sticks"
+      ]
+    },
+    {
+      "node": "1324:46",
+      "type": "Productspotlight",
+      "onderwerp": "Hydratatie is meer dan water",
+      "kop": "Hydratatie is meer dan water",
+      "tekst": "Een mail die Mixed Berry uitlicht, met jullie eigen foto, wat erin zit en de prijs met abonnement.",
+      "punten": [
+        "Roze zakje in de hand als opening",
+        "Magnesium, zink, vitamine C en 7 kcal rond het product",
+        "Prijs, abonnement en 30 dagen geld terug"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

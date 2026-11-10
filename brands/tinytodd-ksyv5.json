@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "tinytodd-ksyv5",
+  "merk": "Tiny Todd",
+  "domein": "tinytodd.com",
+  "lead_id": "2026-11-10-tinytodd.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2F5F7A",
+  "kop": "Drie nieuwe invalshoeken voor Tiny Todd, van haver tot bedtijd.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Tiny Todd, ik heb dit gemaakt omdat jullie havercrème begon bij jullie eigen kind, en dat verhaal zie je terug in jullie foto's. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1319:73",
+      "titel": "Haver",
+      "waarom": "Eén groot woord en een zoekbalk laten in een seconde zien waar Tiny Todd voor staat, met de echte textuur van de crème erbij."
+    },
+    {
+      "node": "1319:89",
+      "titel": "Een zachte routine",
+      "waarom": "Een routinekaart met vaste momenten laat ouders zien wanneer ze welk product gebruiken, van de ochtend tot de wasdag."
+    },
+    {
+      "node": "1319:201",
+      "titel": "Bespaar €40 op de 4-pack",
+      "waarom": "Jullie echte 4-pack-prijs groot in beeld, met een vrolijke foto uit jullie eigen shoot, maakt het aanbod meteen duidelijk."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien kids- en babymerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die ouders terugkomen als de tube leeg is.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids- en babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids- en babymerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1319:356",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Tiny Todd",
+    "kop": "Welkom bij Tiny Todd",
+    "tekst": "Een welkomstmail voor nieuwe aanmeldingen: wie jullie zijn, waar je op kunt rekenen en een eerste set om mee te beginnen.",
+    "punten": [
+      "Biologische haver, 0% parfum en gemaakt in Nederland",
+      "De Essential Skin Set voor €79 in plaats van €86,50",
+      "Gratis verzending vanaf €75 (NL)"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1319:356",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Tiny Todd",
+      "kop": "Welkom bij Tiny Todd",
+      "tekst": "Een welkomstmail voor nieuwe aanmeldingen: wie jullie zijn, waar je op kunt rekenen en een eerste set om mee te beginnen.",
+      "punten": [
+        "Biologische haver, 0% parfum en gemaakt in Nederland",
+        "De Essential Skin Set voor €79 in plaats van €86,50",
+        "Gratis verzending vanaf €75 (NL)"
+      ]
+    },
+    {
+      "node": "1320:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Hoe Tiny Todd begon",
+      "kop": "Een missie die begon bij ons eigen kind",
+      "tekst": "Een merkverhaal van Kinh-Thi en Elmer, met daarna wat er in de Itch-Free Oat Cream zit.",
+      "punten": [
+        "Het verhaal van de oprichters met jullie eigen groepsfoto",
+        "Vier kenmerken rond de Itch-Free Oat Cream",
+        "Afsluiter met de crème vanaf €32,50"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
