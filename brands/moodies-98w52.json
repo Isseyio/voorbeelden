@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "moodies-98w52",
+  "merk": "Moodies",
+  "domein": "moodiesundies.com",
+  "lead_id": "2026-10-31-moodiesundies.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#38402F",
+  "kop": "Drie nieuwe invalshoeken voor Moodies.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Moodies, ik heb dit gemaakt omdat jullie 40 dagen bedenktijd geven bij een eerste aankoop, en dat verdient een eigen advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1202:70",
+      "titel": "40 dagen proberen",
+      "waarom": "De drempel voor een eerste aankoop weghalen werkt goed bij een product dat mensen nog niet kennen."
+    },
+    {
+      "node": "1202:80",
+      "titel": "Zwart of rood",
+      "waarom": "Een keuze tussen twee kleuren laat mensen meteen nadenken over welke zij zouden nemen."
+    },
+    {
+      "node": "1202:99",
+      "titel": "Tot 10 uur droog",
+      "waarom": "Eén duidelijke belofte met echte foto's beantwoordt de vraag of het echt werkt."
+    }
+  ],
+  "waarom": {
+    "niche": "ondergoed",
+    "kop": "Zo groeien ondergoedmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw ondergoedmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag omdat hun advertenties niet moe worden. Een vaste nieuwsbrief zorgt dat kopers terugkomen voor een tweede set.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij ondergoedmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft snuggs nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1203:57",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Moodies, hier is je 10% korting",
+    "kop": "Welkom bij Moodies",
+    "tekst": "Fijn dat je er bent. Als welkom krijg je 10% korting op je volgende bestelling.",
+    "punten": [
+      "8–10 uur droog bij een gemiddelde menstruatie",
+      "3 dunne lagen, samen maar 2 tot 3 mm dik",
+      "40 dagen bedenktijd bij je eerste aankoop"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1203:57",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Moodies, hier is je 10% korting",
+      "kop": "Welkom bij Moodies",
+      "tekst": "Fijn dat je er bent. Als welkom krijg je 10% korting op je volgende bestelling.",
+      "punten": [
+        "8–10 uur droog bij een gemiddelde menstruatie",
+        "3 dunne lagen, samen maar 2 tot 3 mm dik",
+        "40 dagen bedenktijd bij je eerste aankoop"
+      ]
+    },
+    {
+      "node": "1203:85",
+      "type": "Productspotlight",
+      "onderwerp": "Welke Moodies past bij jouw dag?",
+      "kop": "Voor elke dag van je cyclus",
+      "tekst": "Van lichte dagen tot de nacht: kies de absorptie die bij jouw dag past.",
+      "punten": [
+        "hipster lace in zwart en rood, €32,95",
+        "bamboe comfy set, €48,93",
+        "badpak meiden print rood, €41,97",
+        "4,6 van 5 uit 1875 reviews"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

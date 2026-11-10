@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "labfresh-q5b53",
+  "merk": "LABFRESH",
+  "domein": "labfresh.nl",
+  "lead_id": "2026-11-02-labfresh.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#127C7C",
+  "kop": "Drie nieuwe invalshoeken voor LABFRESH, van detail tot prijs.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team LABFRESH, ik heb dit gemaakt omdat jullie in één foto met een glas rode wijn laten zien wat jullie shirts kunnen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1205:24",
+      "titel": "Het shirt van dichtbij",
+      "waarom": "Een close-up met drie korte labels laat zien wat het shirt doet, zonder dat iemand een productpagina hoeft te lezen."
+    },
+    {
+      "node": "1205:47",
+      "titel": "€70 in plaats van €99",
+      "waarom": "Het echte voordeel op de Oxford groot bovenaan, met jullie eigen portretfoto eronder, valt meteen op tussen gewone posts."
+    },
+    {
+      "node": "1205:56",
+      "titel": "Was dit shirt niet",
+      "waarom": "Een kop die tegen de verwachting in gaat laat mensen stoppen met scrollen, en de 3,8 dagen maken het meteen concreet."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Suitsupply nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1205:75",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij LABFRESH",
+    "kop": "Welkom bij LABFRESH",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wat een LABFRESH-shirt anders maakt in drie iconen, en meteen een eerste shirt om te proberen.",
+    "punten": [
+      "Hero met de Knitted Non-iron Shirt in Sand",
+      "Vloeistofafstotend, geurwerend en strijkvrij in drie iconen",
+      "Tweede kaart met de Knitted Non-iron Shirt van €109"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1205:75",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij LABFRESH",
+      "kop": "Welkom bij LABFRESH",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wat een LABFRESH-shirt anders maakt in drie iconen, en meteen een eerste shirt om te proberen.",
+      "punten": [
+        "Hero met de Knitted Non-iron Shirt in Sand",
+        "Vloeistofafstotend, geurwerend en strijkvrij in drie iconen",
+        "Tweede kaart met de Knitted Non-iron Shirt van €109"
+      ]
+    },
+    {
+      "node": "1205:108",
+      "type": "Merkverhaal",
+      "onderwerp": "Het begon met een glas rode wijn",
+      "kop": "Het begon met een glas rode wijn.",
+      "tekst": "Een mail over het ontstaan van LABFRESH: Lotte en Kasper, de eerste Kickstarter in 2017, wat er in een shirt zit, en 130K+ klanten in 82 landen als afsluiter.",
+      "punten": [
+        "Hero met jullie eigen rode-wijnfoto",
+        "Classic Non-iron Shirt met vier labels: strijkvrij, geurwerend, vloeistofafstotend, 4-way stretch",
+        "Afsluiting met gratis verzending en ruilen en een jaar prestatiegarantie"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

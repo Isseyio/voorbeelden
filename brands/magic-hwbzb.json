@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "magic-hwbzb",
+  "merk": "MAGIC Bodyfashion",
+  "domein": "magicbodyfashion.com",
+  "lead_id": "2026-11-01-magicbodyfashion.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5E4E40",
+  "kop": "Drie nieuwe invalshoeken voor jullie shapewear.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team MAGIC, ik heb dit gemaakt omdat jullie productfoto's van de Maxi Sexy en de Slim Body zo duidelijk laten zien wat shapewear doet. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1203:3",
+      "titel": "Blijft zitten",
+      "waarom": "Het siliconen boord lost een bekende ergernis op, en de vingers aan de band laten dat in één beeld zien."
+    },
+    {
+      "node": "1203:26",
+      "titel": "Prijs voorop",
+      "waarom": "Een duidelijke prijs bovenaan stopt de scroll, het grote merklogo bouwt tegelijk herkenning op."
+    },
+    {
+      "node": "1203:35",
+      "titel": "Twee kleuren naast elkaar",
+      "waarom": "Twee modellen in zwart en cappuccino maken de keuze makkelijk en laten de pasvorm op verschillende lichamen zien."
+    }
+  ],
+  "waarom": {
+    "niche": "shapewear",
+    "kop": "Zo groeien shapewearmerken op Instagram.",
+    "tekst": "De meeste vrouwen ontdekken shapewear niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag omdat een advertentie na een paar weken moe wordt. Een vaste nieuwsbrief zorgt dat nieuwe kopers terugkomen voor hun tweede stuk.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij mode- en ondergoedmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15+",
+        "label": "advertenties heeft Hunkemöller nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1204:85",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij MAGIC",
+    "kop": "Welkom bij MAGIC",
+    "tekst": "Al meer dan 30 jaar shapewear en lingerie die comfortabel zit en je zelfvertrouwen geeft. Door vrouwen, voor vrouwen. In deze eerste mail: wat je van ons kunt verwachten en hoe je snel je maat vindt.",
+    "punten": [
+      "Voor 15:00 besteld, vandaag verzonden",
+      "30 dagen retour",
+      "Hulp bij je maat met de shapewear-quiz"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1204:85",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij MAGIC",
+      "kop": "Welkom bij MAGIC",
+      "tekst": "Al meer dan 30 jaar shapewear en lingerie die comfortabel zit en je zelfvertrouwen geeft. Door vrouwen, voor vrouwen. In deze eerste mail: wat je van ons kunt verwachten en hoe je snel je maat vindt.",
+      "punten": [
+        "Voor 15:00 besteld, vandaag verzonden",
+        "30 dagen retour",
+        "Hulp bij je maat met de shapewear-quiz"
+      ]
+    },
+    {
+      "node": "1204:131",
+      "type": "Productvergelijking",
+      "onderwerp": "Stevig of juist glad?",
+      "kop": "Dream Shaper of Maxi Sexy?",
+      "tekst": "Twee shapers, elk met een eigen taak onder je outfit. De Dream Shaper Short geeft stevige shaping voor buik, rug en dijen; de Maxi Sexy Hi-Bermuda maakt glad met een hoge taille en een siliconen boord.",
+      "punten": [
+        "Dream Shaper Short: stevig, naadloos en verkoelend (€39,99)",
+        "Maxi Sexy Hi-Bermuda: hoge taille, rolt niet op (vanaf €22,50)",
+        "Shapewear in maat S tot 4XL"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

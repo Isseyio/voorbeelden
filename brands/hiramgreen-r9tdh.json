@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "hiramgreen-r9tdh",
+  "merk": "Hiram Green",
+  "domein": "hiramgreen.com",
+  "lead_id": "2026-11-04-hiramgreen.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2A2420",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Hiram Green",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Hiram, ik heb dit gemaakt omdat je Moon Bloom en de andere geuren helemaal zelf maakt, van alleen natuurlijke grondstoffen. Alles is gemaakt met je eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1205:446",
+      "titel": "Koop deze geur niet",
+      "waarom": "Een kop die tegenspreekt laat mensen stoppen met scrollen, en de fles van Moon Bloom maakt meteen duidelijk waar het over gaat."
+    },
+    {
+      "node": "1205:472",
+      "titel": "Zo ontstaat elke fles",
+      "waarom": "Laat zien wat Hiram Green anders maakt: natuurlijke grondstoffen, handwerk en drie maanden rijpen, met echte foto's uit de studio."
+    },
+    {
+      "node": "1205:494",
+      "titel": "Ontdek alle negen",
+      "waarom": "De discovery set verlaagt de drempel voor wie het merk nog niet kent: eerst ruiken, dan een fles kiezen."
+    }
+  ],
+  "waarom": {
+    "niche": "geur",
+    "kop": "Zo groeien geurmerken op Instagram.",
+    "tekst": "Een geur kun je online niet ruiken, dus mensen kiezen op gevoel en verhaal. Merken die elke week nieuwe advertenties testen, vinden steeds de beelden en woorden die dat gevoel overbrengen en houden hun kosten per aankoop laag. Een vaste nieuwsbrief brengt samplekopers terug voor een volle fles.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij geurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Byredo nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1206:32",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Hiram Green",
+    "kop": "Welkom bij Hiram Green",
+    "tekst": "Een rustige eerste kennismaking: wie Hiram is, hoe de geuren ontstaan en een makkelijke eerste stap met de discovery set.",
+    "punten": [
+      "100% natuurlijk, kleine batches, drie maanden rijpen",
+      "Discovery set met alle negen geuren als eerste stap",
+      "Gemaakt met de eigen foto's van de site"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1206:32",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Hiram Green",
+      "kop": "Welkom bij Hiram Green",
+      "tekst": "Een rustige eerste kennismaking: wie Hiram is, hoe de geuren ontstaan en een makkelijke eerste stap met de discovery set.",
+      "punten": [
+        "100% natuurlijk, kleine batches, drie maanden rijpen",
+        "Discovery set met alle negen geuren als eerste stap",
+        "Gemaakt met de eigen foto's van de site"
+      ]
+    },
+    {
+      "node": "1206:72",
+      "type": "Productspotlight",
+      "onderwerp": "Waarom Moon Bloom zo romig ruikt",
+      "kop": "Moon Bloom in de spotlight",
+      "tekst": "Eén geur uitgelicht: het verhaal achter de eerste creatie, de belangrijkste noten en de twee gratis samples bij elke fles.",
+      "punten": [
+        "Tuberoos, jasmijn, ylang-ylang en kokos",
+        "Het verhaal van de eerste geur uit 2013",
+        "Twee samples cadeau en gratis verzending"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "cloudpillo-4e46p",
+  "merk": "Cloudpillo",
+  "domein": "cloudpillo.com",
+  "lead_id": "2026-10-31-cloudpillo.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#0F2A4A",
+  "kop": "Drie nieuwe invalshoeken voor Cloudpillo.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Cloudpillo, ik heb dit gemaakt omdat jullie kussen iets doet wat de meeste niet doen: je stelt hem zelf af. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1206:203",
+      "titel": "Je beste nacht belt",
+      "waarom": "Een speels format valt op tussen de gewone productfoto's in een feed vol slaapaanbiedingen."
+    },
+    {
+      "node": "1206:216",
+      "titel": "1+1 gratis",
+      "waarom": "De actie in één beeld laten zien met het echte product maakt het aanbod meteen duidelijk."
+    },
+    {
+      "node": "1206:231",
+      "titel": "Wat zit erin",
+      "waarom": "Laten zien wat er in het kussen zit beantwoordt de vraag waarom het €99 kost."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en slapen",
+    "kop": "Zo groeien slaapmerken op Instagram.",
+    "tekst": "De meeste mensen kopen een nieuw kussen niet omdat ze ernaar zoeken, maar omdat ze het tegenkomen tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag omdat hun advertenties niet moe worden. Een vaste nieuwsbrief zorgt dat kopers terugkomen voor een dekbed of tweede kussen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woon- en slaapmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "1.000+",
+        "label": "advertenties heeft Dekbed-Discounter nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1207:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Cloudpillo",
+    "kop": "Welkom bij Cloudpillo",
+    "tekst": "Fijn dat je er bent. Je kussen stel je zelf af, zodat het past bij hoe jij slaapt.",
+    "punten": [
+      "100 nachten proefslapen in je eigen bed",
+      "Zelf instelbaar, van ultrazacht tot stevig",
+      "2 jaar garantie"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1207:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Cloudpillo",
+      "kop": "Welkom bij Cloudpillo",
+      "tekst": "Fijn dat je er bent. Je kussen stel je zelf af, zodat het past bij hoe jij slaapt.",
+      "punten": [
+        "100 nachten proefslapen in je eigen bed",
+        "Zelf instelbaar, van ultrazacht tot stevig",
+        "2 jaar garantie"
+      ]
+    },
+    {
+      "node": "1207:30",
+      "type": "Merkverhaal",
+      "onderwerp": "Eén kussen voor iedereen bestaat niet",
+      "kop": "Hotelgevoel, elke nacht",
+      "tekst": "Cloudpillo maakt kussens die je zelf afstelt: vulling eruit of erbij tot het klopt, of je nu op je rug, buik of zij slaapt.",
+      "punten": [
+        "Ice Silk bovenkant en 3D mesh zijkanten",
+        "Memory foam vlokken, zelf bij te vullen",
+        "Recharge €99, nu 1+1 gratis t/m 30 november"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
