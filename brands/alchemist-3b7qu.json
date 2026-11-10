@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "alchemist-3b7qu",
+  "merk": "Alchemist",
+  "domein": "alchemist-fashion.com",
+  "lead_id": "2026-11-03-alchemist-fashion.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5C5B3B",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Alchemist.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Alchemist, ik heb dit gemaakt omdat jullie breisels in die warme aardetinten zo mooi gefotografeerd zijn. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1041:117",
+      "titel": "Ontspannen, van nature",
+      "waarom": "Jullie eigen motto met kleine sfeerfoto's tussen de woorden valt op tussen gewone posts en laat de cardigan zelf groot zien."
+    },
+    {
+      "node": "1041:138",
+      "titel": "Eén vest, zes kleuren",
+      "waarom": "Twee kleuren naast elkaar maken het kiezen makkelijk en laten zien dat er voor iedereen een kleur is."
+    },
+    {
+      "node": "1041:157",
+      "titel": "10% op je eerste aankoop",
+      "waarom": "De korting die jullie al bij de nieuwsbrief geven, groot in beeld: zo bouw je een lijst op met mensen die later kopen."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw modemerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Studio Anneloes nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1041:352",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in onze wereld",
+    "kop": "Welkom in onze wereld.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers met de 10% korting die jullie op de site beloven, het atelier in Amsterdam en hoe jullie collecties ontstaan.",
+    "punten": [
+      "10% korting op de eerste aankoop, zoals bij de inschrijving beloofd",
+      "Met de hand getekend, gekozen stoffen, gemaakt in Italië",
+      "Een kijkje in het atelier als tweede blok"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1041:352",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in onze wereld",
+      "kop": "Welkom in onze wereld.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers met de 10% korting die jullie op de site beloven, het atelier in Amsterdam en hoe jullie collecties ontstaan.",
+      "punten": [
+        "10% korting op de eerste aankoop, zoals bij de inschrijving beloofd",
+        "Met de hand getekend, gekozen stoffen, gemaakt in Italië",
+        "Een kijkje in het atelier als tweede blok"
+      ]
+    },
+    {
+      "node": "1041:380",
+      "type": "Assortimentsmail",
+      "onderwerp": "Truien & vesten voor de winter",
+      "kop": "Truien & vesten voor de winter.",
+      "tekst": "Een assortimentsmail met vier breisels uit Fall Winter 26 onder elkaar, elk met prijs en een eigen knop naar de shop.",
+      "punten": [
+        "Cardigan Mimosa, Sweater Sesame, Cardigan Sen en Sweater José",
+        "Gratis verzending vanaf €75 in de balk bovenaan",
+        "Jullie eigen zin 'Kleding die goed voelt, vandaag én over jaren' als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
