@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "arbawood-kf742",
+  "merk": "Arbawood",
+  "domein": "arbawood.nl",
+  "lead_id": "2026-11-10-arbawood.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5C4030",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor de wandpanelen van Arbawood.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Arbawood, ik heb dit gemaakt omdat jullie wandpanelen in de showroom in Almere gewoon in het echt te zien zijn, en dat verdient meer zichtbaarheid. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1047:4",
+      "titel": "Wandpanelen in vier houtsoorten",
+      "waarom": "Eén groot woord, een zoekbalk en de vier panelen naast elkaar: in een seconde duidelijk wat je koopt en wat het kost."
+    },
+    {
+      "node": "1047:24",
+      "titel": "Beige of zwart suède",
+      "waarom": "Twee kleuren van hetzelfde paneel naast elkaar laat mensen kiezen in plaats van twijfelen."
+    },
+    {
+      "node": "1047:43",
+      "titel": "Koop geen nieuwe bank",
+      "waarom": "Een kop die je even laat stoppen met scrollen, met daarna de echte reden: een warmere kamer voor €69 per paneel."
+    }
+  ],
+  "waarom": {
+    "niche": "interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw interieurmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "200+",
+        "label": "advertenties heeft WoodUpp nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1047:185",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij arbawood",
+    "kop": "Welkom bij arbawood.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers (nu nog geen inschrijving op de site): wat jullie verkopen, waarom de showroom het verschil maakt en hoe de zaagservice werkt.",
+    "punten": [
+      "Showroom van 500 m² in Almere, levertijd 3–6 werkdagen, Google-score 4,9",
+      "Zaagservice op maat voor €20 per paneel",
+      "Knop naar de collectie met jullie eigen interieurfoto"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1047:185",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij arbawood",
+      "kop": "Welkom bij arbawood.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers (nu nog geen inschrijving op de site): wat jullie verkopen, waarom de showroom het verschil maakt en hoe de zaagservice werkt.",
+      "punten": [
+        "Showroom van 500 m² in Almere, levertijd 3–6 werkdagen, Google-score 4,9",
+        "Zaagservice op maat voor €20 per paneel",
+        "Knop naar de collectie met jullie eigen interieurfoto"
+      ]
+    },
+    {
+      "node": "1047:227",
+      "type": "Merkverhaal",
+      "onderwerp": "Een warme wand, zonder verbouwing",
+      "kop": "Een warme wand, zonder verbouwing.",
+      "tekst": "Een mail die het verhaal van de showroom vertelt en één paneel uitlicht met prijs, voorraad en zaagservice, met een uitnodiging om langs te komen.",
+      "punten": [
+        "Natural Walnut met vier labels: prijs, voorraad, showroom, zaagservice",
+        "Jullie trapfoto met houten wand als opener",
+        "Afsluiting met adres, openingstijden en 'Plan je route'"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
