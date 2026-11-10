@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "garethlucas-xvs2u",
+  "merk": "Gareth & Lucas",
+  "domein": "garethlucas.com",
+  "lead_id": "2026-11-10-garethlucas.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#143A6B",
+  "kop": "Drie nieuwe invalshoeken en twee nieuwsbrieven voor Gareth & Lucas.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Gareth & Lucas, ik heb dit gemaakt omdat jullie skipullies met elanden, hartjes en strepen echt opvallen op de piste. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1047:65",
+      "titel": "Kleur op de piste",
+      "waarom": "Eén groot woord en drie prints naast elkaar laten in een seconde zien wat Gareth & Lucas anders maakt."
+    },
+    {
+      "node": "1047:84",
+      "titel": "Piste en terras",
+      "waarom": "Twee echte situaties naast elkaar laten zien dat de skipully de hele dag mee kan, niet alleen op de piste."
+    },
+    {
+      "node": "1047:101",
+      "titel": "De piste belt",
+      "waarom": "Een herkenbaar belscherm is speels en valt op tussen gewone productfoto's in de feed."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "Bij een merk dat al adverteert, doen een paar advertenties vaak het meeste werk en worden ze na een paar weken moe. Merken die elke week nieuwe invalshoeken testen, houden hun kosten per aankoop laag. Een welkomstmail zorgt dat nieuwe bezoekers ook later nog terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij modemerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1047:114",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Gareth & Lucas",
+    "kop": "Welkom bij de kleurrijkste kant van de piste.",
+    "tekst": "Een welkomstmail voor iedereen die zich inschrijft: wie Gareth & Lucas is, de skipullies met eigen prints en twee favorieten om mee te beginnen.",
+    "punten": [
+      "Vóór 17.00 uur besteld, vandaag verzonden",
+      "Skipully met elanden en skisokken als favorieten",
+      "Gratis verzending vanaf €80"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1047:114",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Gareth & Lucas",
+      "kop": "Welkom bij de kleurrijkste kant van de piste.",
+      "tekst": "Een welkomstmail voor iedereen die zich inschrijft: wie Gareth & Lucas is, de skipullies met eigen prints en twee favorieten om mee te beginnen.",
+      "punten": [
+        "Vóór 17.00 uur besteld, vandaag verzonden",
+        "Skipully met elanden en skisokken als favorieten",
+        "Gratis verzending vanaf €80"
+      ]
+    },
+    {
+      "node": "1047:153",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom onze skipullies opvallen",
+      "kop": "Breng kleur naar je wintersport.",
+      "tekst": "Een merkverhaal over waarom Gareth & Lucas kleurrijke skipullies en skisokken maakt, met de skisokken uitgelicht.",
+      "punten": [
+        "Naadloze tenen en een links-rechts pasvorm",
+        "Warm, ademend en elastisch",
+        "Op de piste en op het terras"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
