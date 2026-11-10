@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "carin-u4r36",
+  "merk": "Carin",
+  "domein": "carinwear.com",
+  "lead_id": "2026-11-10-carinwear.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#934C5C",
+  "kop": "Carin, 10 minuten per dag op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Carin, ik heb dit gemaakt omdat jullie een onderwerp waar veel vrouwen over zwijgen heel gewoon en praktisch maken: 10 minuten per dag, thuis. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1166:64",
+      "titel": "10 minuten per dag",
+      "waarom": "Een weekstrip maakt het dagelijkse ritme meteen zichtbaar en laat zien hoe klein de moeite is."
+    },
+    {
+      "node": "1166:103",
+      "titel": "Gewoon thuis",
+      "waarom": "De sensor in het ondergoed in beeld, met drie kenmerken eronder, legt in één oogopslag uit hoe Carin werkt."
+    },
+    {
+      "node": "1166:125",
+      "titel": "Eerst huren",
+      "waarom": "De huurprijs van €38,88 voor 10 weken haalt de drempel van een duurdere aankoop weg."
+    }
+  ],
+  "waarom": {
+    "niche": "wellness",
+    "kop": "Zo groeien wellnessmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw wellnessproduct niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief helpt twijfelaars over de streep en houdt kopers gemotiveerd.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij wellnessmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Modibodi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1166:141",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Carin",
+    "kop": "Welkom bij Carin.",
+    "tekst": "Fijn dat je er bent. Met Carin train je je bekkenbodem thuis, in 10 minuten per dag, met de app als coach.",
+    "punten": [
+      "Download de Carin-app",
+      "Klik de sensor in het ondergoed",
+      "Doe de korte oefening en bekijk je voortgang",
+      "Gratis verzending in Nederland"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1166:141",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Carin",
+      "kop": "Welkom bij Carin.",
+      "tekst": "Fijn dat je er bent. Met Carin train je je bekkenbodem thuis, in 10 minuten per dag, met de app als coach.",
+      "punten": [
+        "Download de Carin-app",
+        "Klik de sensor in het ondergoed",
+        "Doe de korte oefening en bekijk je voortgang",
+        "Gratis verzending in Nederland"
+      ]
+    },
+    {
+      "node": "1166:177",
+      "type": "Productspotlight",
+      "onderwerp": "Wat zit er in de Carin-set?",
+      "kop": "Sterker, in je eigen tempo.",
+      "tekst": "De Pro Sensor zit in je ondergoed en de app geeft je een persoonlijk programma van 10 minuten per dag. Liever eerst proberen? Huur de set 10 weken voor €38,88.",
+      "punten": [
+        "Pro Sensor met automatische lekmeting",
+        "Twee absorberende onderbroeken",
+        "Carin-app via Bluetooth",
+        "Programma van 10 minuten per dag"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

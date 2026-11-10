@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "mycogenius-xqba2",
+  "merk": "Mycogenius",
+  "domein": "mycogenius.com",
+  "lead_id": "2026-11-10-mycogenius.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#F37043",
+  "kop": "Getest, en dat mag iedereen zien",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Mycogenius, ik heb dit gemaakt omdat jullie bij elke batch het labrapport laten zien, en dat verhaal hoort in advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1168:67",
+      "titel": "Getest",
+      "waarom": "Eén groot woord en alle vier de zakjes laten in één oogopslag zien waar Mycogenius voor staat: labgetest."
+    },
+    {
+      "node": "1168:84",
+      "titel": "Elke dag scherp",
+      "waarom": "Een weekstrip maakt het dagritme van twee capsules concreet, met de prijs en de bètaglucanen er direct bij."
+    },
+    {
+      "node": "1168:115",
+      "titel": "Koop geen Lion's Mane",
+      "waarom": "Een omgekeerde kop laat mensen stoppen met scrollen en legt daarna uit waarom vruchtlichaam zonder vulstoffen het verschil maakt."
+    }
+  ],
+  "waarom": {
+    "niche": "supplementen",
+    "kop": "Zo groeien supplementenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw supplementenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij supplementenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Opus Mushrooms nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1168:134",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in de inner circle",
+    "kop": "Welkom in de inner circle",
+    "tekst": "Fijn dat je erbij bent. Je krijgt van ons uitleg over paddenstoelextracten, nieuwe labresultaten en als eerste nieuws over lanceringen.",
+    "punten": [
+      "Biologisch: EU-biologisch gecertificeerd",
+      "Labgetest: elke batch in een ISO 17025-lab",
+      "Verpakt in Nederland door een FSSC 22000-partner",
+      "Begin met één extract: Lion's Mane, Cordyceps, Reishi of Chaga"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1168:134",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in de inner circle",
+      "kop": "Welkom in de inner circle",
+      "tekst": "Fijn dat je erbij bent. Je krijgt van ons uitleg over paddenstoelextracten, nieuwe labresultaten en als eerste nieuws over lanceringen.",
+      "punten": [
+        "Biologisch: EU-biologisch gecertificeerd",
+        "Labgetest: elke batch in een ISO 17025-lab",
+        "Verpakt in Nederland door een FSSC 22000-partner",
+        "Begin met één extract: Lion's Mane, Cordyceps, Reishi of Chaga"
+      ]
+    },
+    {
+      "node": "1168:168",
+      "type": "Merkverhaal",
+      "onderwerp": "Wat zit er echt in je zakje?",
+      "kop": "Wat zit er echt in je zakje?",
+      "tekst": "Elke batch gaat eerst naar een onafhankelijk lab. Scan de QR-code op je zakje en je ziet het rapport van precies jouw batch.",
+      "punten": [
+        "Cordyceps CS-4, gekweekt in vloeibare cultuur",
+        "Dubbel extract: heet water en ethanol",
+        "Cordycepine ≥ 1,5%, per batch gemeten",
+        "The Daily Sync: Lion's Mane en Cordyceps voor €49,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

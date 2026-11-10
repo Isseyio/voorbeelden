@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "aurelien-8kn3b",
+  "merk": "Aurélien",
+  "domein": "aurelien-online.com",
+  "lead_id": "2026-11-01-aurelien-online.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1F2B45",
+  "kop": "De Yacht Loafer, steeds opnieuw verteld",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Aurélien, ik heb dit gemaakt omdat de Yacht Loafer zoveel verhalen in zich heeft: de kleuren, het suède en het handwerk in Italië. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1173:4",
+      "titel": "€335",
+      "waarom": "De prijs bovenaan en het merk groot in beeld maken in één keer duidelijk wat je krijgt, met jullie eigen foto op de rotsen eronder."
+    },
+    {
+      "node": "1173:12",
+      "titel": "Wit of navy?",
+      "waarom": "Twee kleuren naast elkaar maken van twijfel een keuze, en dat zet mensen aan tot klikken."
+    },
+    {
+      "node": "1173:30",
+      "titel": "Met de hand gestikt",
+      "waarom": "Een close-up met korte labels laat zien waar het verschil zit: het suède, de naden en de zool."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw paar schoenen niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe: dezelfde mensen zien hem steeds weer en klikken minder. Merken die elke week nieuwe varianten testen, houden hun kosten per aankoop laag, en een vaste nieuwsbrief zorgt dat kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij modemerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1173:49",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Aurélien",
+    "kop": "Welkom bij Aurélien",
+    "tekst": "Je hoort vanaf nu als eerste van onze Private Sales en Member Benefits. En alvast een tip om mee te beginnen: de Yacht Loafer.",
+    "punten": [
+      "Handgemaakt in Italië en Europa",
+      "Bezorgd binnen 24–72 uur",
+      "14 dagen retourneren of ruilen",
+      "Begin met een icoon: meer dan twintig kleuren, dezelfde pasvorm"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1173:49",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Aurélien",
+      "kop": "Welkom bij Aurélien",
+      "tekst": "Je hoort vanaf nu als eerste van onze Private Sales en Member Benefits. En alvast een tip om mee te beginnen: de Yacht Loafer.",
+      "punten": [
+        "Handgemaakt in Italië en Europa",
+        "Bezorgd binnen 24–72 uur",
+        "14 dagen retourneren of ruilen",
+        "Begin met een icoon: meer dan twintig kleuren, dezelfde pasvorm"
+      ]
+    },
+    {
+      "node": "1173:85",
+      "type": "Productspotlight",
+      "onderwerp": "Twee kleuren, één icoon",
+      "kop": "Twee kleuren, één icoon",
+      "tekst": "De Yacht Loafer in wit en navy naast elkaar: Softey® suède of nubuck, kalfsleer of ongevoerd.",
+      "punten": [
+        "Softey® suède van Frans kalfsleer",
+        "Met de hand gestikt, zichtbare naden",
+        "White €335, navy €355",
+        "Maat 39–47, handgemaakt in Italië"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

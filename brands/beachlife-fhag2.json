@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "beachlife-fhag2",
+  "merk": "Beachlife",
+  "domein": "beachlife.com",
+  "lead_id": "2026-11-03-beachlife.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Drie ideeën voor Beachlife, van sale tot cup A t/m F.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Beachlife, ik heb dit gemaakt omdat jullie al ruim 40 jaar bikini's en badpakken maken in Bunschoten, tot cup F. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1176:2",
+      "titel": "De sale in één oogopslag",
+      "waarom": "Een echte prijs groot in beeld met jullie modelfoto stopt de scroll en laat meteen zien wat het voordeel is."
+    },
+    {
+      "node": "1176:14",
+      "titel": "Eén badpak, twee kleuren",
+      "waarom": "Twee kleuren naast elkaar maken kiezen makkelijk en laten zien dat er meer is dan dat ene badpak."
+    },
+    {
+      "node": "1176:33",
+      "titel": "Cup A t/m F",
+      "waarom": "Pasvorm is de grootste twijfel bij bikini's, dus deze advertentie zet jullie cupmaten voorop."
+    }
+  ],
+  "waarom": {
+    "niche": "badmode",
+    "kop": "Zo groeien badmodemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw badmodemerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, ook buiten de zomer.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft CYELL nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1177:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Beachlife Club",
+    "kop": "Welkom bij de Beachlife Club",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wat de club ze oplevert, hoe verzending en retour werken, en meteen de bikini's in cup A t/m F.",
+    "punten": [
+      "Herokaart met het Alaskan Blue badpak",
+      "Gratis verzending vanaf €50, voor 21:30 besteld vandaag verstuurd, 30 dagen retour",
+      "Bikini's in cup A t/m F, maat 34 t/m 44"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1177:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Beachlife Club",
+      "kop": "Welkom bij de Beachlife Club",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wat de club ze oplevert, hoe verzending en retour werken, en meteen de bikini's in cup A t/m F.",
+      "punten": [
+        "Herokaart met het Alaskan Blue badpak",
+        "Gratis verzending vanaf €50, voor 21:30 besteld vandaag verstuurd, 30 dagen retour",
+        "Bikini's in cup A t/m F, maat 34 t/m 44"
+      ]
+    },
+    {
+      "node": "1177:32",
+      "type": "Productspotlight",
+      "onderwerp": "Purple Flash of Alaskan Blue?",
+      "kop": "Het Alaskan Blue badpak",
+      "tekst": "Eén badpak uitgelicht met zijn kenmerken, en daarna een eerlijke vergelijking met de Purple Flash zodat de lezer makkelijk kiest.",
+      "punten": [
+        "Rib fabric en minstens 90% GRS-gerecycled polyester",
+        "Vergelijkingstabel Purple Flash en Alaskan Blue",
+        "Afsluiting met beide kleuren naast elkaar"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

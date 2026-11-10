@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "greenpaste-pf979",
+  "merk": "Greenpaste",
+  "domein": "greenpaste.nl",
+  "lead_id": "2026-11-10-greenpaste.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3FA34D",
+  "kop": "Tandpasta zonder microplastics, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Greenpaste, ik heb dit gemaakt omdat jullie aluminium tube en de zoute smaak een eigen verhaal hebben dat je op Instagram goed kunt laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1163:3",
+      "titel": "Je dagelijkse routine",
+      "waarom": "Tandpasta gebruik je twee keer per dag; een routinekaart maakt dat herkenbaar en laat de tube groot zien."
+    },
+    {
+      "node": "1163:26",
+      "titel": "Wat erin zit",
+      "waarom": "Wie bewust kiest, wil weten wat er in de tandpasta zit; drie echte ingrediënten maken dat concreet."
+    },
+    {
+      "node": "1163:46",
+      "titel": "Twee smaken naast elkaar",
+      "waarom": "Twee varianten naast elkaar helpen twijfelaars kiezen, met één duidelijke prijs."
+    }
+  ],
+  "waarom": {
+    "niche": "verzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw verzorgingsmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Tandpasta raakt op, dus een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Smyle nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1164:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Greenpaste",
+    "kop": "Welkom bij Greenpaste",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, wat ze kunnen verwachten en de gratis verzending vanaf €25.",
+    "punten": [
+      "100% vegan, met smaken uit planten",
+      "Zonder microplastics en zonder SLS",
+      "Gratis verzending vanaf €25, door de brievenbus"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1164:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Greenpaste",
+      "kop": "Welkom bij Greenpaste",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, wat ze kunnen verwachten en de gratis verzending vanaf €25.",
+      "punten": [
+        "100% vegan, met smaken uit planten",
+        "Zonder microplastics en zonder SLS",
+        "Gratis verzending vanaf €25, door de brievenbus"
+      ]
+    },
+    {
+      "node": "1164:40",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom wij onze eigen tandpasta maken",
+      "kop": "Waarom wij onze eigen tandpasta maken",
+      "tekst": "Het verhaal achter Greenpaste sinds 2020, met de zoute smaak uitgelicht.",
+      "punten": [
+        "Begonnen in 2020, gemaakt in jullie eigen lab in Nederland",
+        "De zoute smaak met zuiveringszout",
+        "Een aluminium tube die je helemaal kunt uitknijpen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "icelution-49zw7",
+  "merk": "Icelution",
+  "domein": "icelution.nl",
+  "lead_id": "2026-11-10-icelution.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3AA8E4",
+  "kop": "Dare to dip, ook in de feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Icelution, ik heb dit gemaakt omdat de winter het moment is waarop mensen aan koud water beginnen, terwijl ik in de advertentiebibliotheek van Meta sinds december geen nieuwe advertenties van jullie zag. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1178:4",
+      "titel": "Je ochtend-dip belt",
+      "waarom": "Een inkomend-gesprekscherm valt op tussen gewone posts en zet het IJsbad Hout look met prijs midden in beeld."
+    },
+    {
+      "node": "1178:15",
+      "titel": "Bouw het rustig op",
+      "waarom": "De drie levels uit jullie eigen schema nemen de drempel weg voor beginners, en de thermometer in het pakket krijgt een eigen plek."
+    },
+    {
+      "node": "1178:41",
+      "titel": "Rond of ovaal?",
+      "waarom": "Twee ijsbaden naast elkaar met inhoud en prijs helpen iemand meteen kiezen, met gratis verzending en levering de volgende dag eronder."
+    }
+  ],
+  "waarom": {
+    "niche": "sport en wellness",
+    "kop": "Zo groeien sport- en wellnessmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een ijsbad niet via Google, maar tijdens het scrollen, vaak in de winter als ze aan koud water beginnen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief helpt kopers op weg en brengt ze terug.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sportmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Icetubs nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1178:65",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Icelution",
+    "kop": "Welkom bij Icelution",
+    "tekst": "Op de site zag ik geen inschrijving voor een nieuwsbrief. Deze welkomstmail helpt nieuwe inschrijvers kiezen tussen het ronde en het ovale ijsbad, en laat zien wat er in het pakket zit.",
+    "punten": [
+      "Beide ijsbaden naast elkaar, met prijs en inhoud",
+      "Alles wat in het complete pakket zit",
+      "Gratis verzending en voor 23:30 besteld, morgen in huis"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1178:65",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Icelution",
+      "kop": "Welkom bij Icelution",
+      "tekst": "Op de site zag ik geen inschrijving voor een nieuwsbrief. Deze welkomstmail helpt nieuwe inschrijvers kiezen tussen het ronde en het ovale ijsbad, en laat zien wat er in het pakket zit.",
+      "punten": [
+        "Beide ijsbaden naast elkaar, met prijs en inhoud",
+        "Alles wat in het complete pakket zit",
+        "Gratis verzending en voor 23:30 besteld, morgen in huis"
+      ]
+    },
+    {
+      "node": "1178:102",
+      "type": "Merkverhaal",
+      "onderwerp": "Het begon in Phuket",
+      "kop": "Het begon in Phuket",
+      "tekst": "Een mail over hoe Icelution begon, tijdens een trainingskamp in Thailand, met daarna het complete pakket en een eerste stap voor beginners.",
+      "punten": [
+        "Jullie eigen foto van het trainingskamp als hero",
+        "Het IJsbad Hout look met inhoud, maten en isolatie",
+        "Afsluiter met level 1 voor je eerste dip"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
