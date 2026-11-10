@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "maeswim-epvcc",
+  "merk": "Mae Swim",
+  "domein": "maeswimwear.com",
+  "lead_id": "2026-11-05-maeswimwear.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1F2A55",
+  "kop": "Mae Swim, ook buiten het seizoen op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Mae Swim, ik heb dit gemaakt omdat jullie foto's van Azure Summer sterk genoeg zijn om ook nu, met de Black Friday Sale, mee te adverteren. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1080:239",
+      "titel": "Black Friday-prijs",
+      "waarom": "Een duidelijke prijs met jullie grote logo over een close-up valt op en geeft meteen een reden om nu te kijken."
+    },
+    {
+      "node": "1080:252",
+      "titel": "Van strand naar stad",
+      "waarom": "Twee foto's naast elkaar laten zien dat Mae ook buiten het zomerseizoen iets te bieden heeft, met de tank top."
+    },
+    {
+      "node": "1080:411",
+      "titel": "De details",
+      "waarom": "Callouts op een close-up laten de kwaliteit zien die je op een kleine productfoto mist, zoals de ringen en de verstelbare pasvorm."
+    }
+  ],
+  "waarom": {
+    "niche": "badmode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw modemerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief houdt kopers warm tot het volgende seizoen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij modemerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1081:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Mae",
+    "kop": "Welkom bij Mae",
+    "tekst": "Mae begon met één frustratie: badmode vinden die echt goed zit. Een welkom voor nieuwe inschrijvers met het verhaal, drie praktische punten en de By Mae Tank top.",
+    "punten": [
+      "XS t/m XL, met een maattabel van zes modellen",
+      "Verzonden vanuit Nederland, EU in 1–5 werkdagen",
+      "14 dagen om te retourneren",
+      "By Mae Tank top met ingebouwde bh, €35,99"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1081:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Mae",
+      "kop": "Welkom bij Mae",
+      "tekst": "Mae begon met één frustratie: badmode vinden die echt goed zit. Een welkom voor nieuwe inschrijvers met het verhaal, drie praktische punten en de By Mae Tank top.",
+      "punten": [
+        "XS t/m XL, met een maattabel van zes modellen",
+        "Verzonden vanuit Nederland, EU in 1–5 werkdagen",
+        "14 dagen om te retourneren",
+        "By Mae Tank top met ingebouwde bh, €35,99"
+      ]
+    },
+    {
+      "node": "1081:77",
+      "type": "Merkverhaal",
+      "onderwerp": "Meer dan badmode",
+      "kop": "Meer dan badmode",
+      "tekst": "Waarom Lisa Mae begon, de Triangle top in Azure uitgelicht met zijn details, en de Azure Summer-collectie.",
+      "punten": [
+        "Gemaakt van premium stoffen",
+        "Triangle top in Azure: verstelbare bedekking, goudkleurige ringen",
+        "€39,59 in de Black Friday Sale (was €43,99)",
+        "Azure Summer: blauwtinten en kastanjebruin"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
