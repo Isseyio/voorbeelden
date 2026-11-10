@@ -1,0 +1,29 @@
+# Houdt de site onder de 1 GB van GitHub Pages: comprimeert elk half uur de nieuwe afbeeldingen die de app plaatst.
+name: Afbeeldingen comprimeren
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: comprimeer
+  cancel-in-progress: false
+jobs:
+  shrink:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - run: pip install --quiet pillow
+      - run: python3 tools/shrink.py .
+      - name: Opslaan
+        run: |
+          git config user.name "voorbeelden-bot"
+          git config user.email "voorbeelden-bot@users.noreply.github.com"
+          git add -A '*/img/*.jpg'
+          if git diff --cached --quiet; then echo "niets te comprimeren"; exit 0; fi
+          git commit -q -m "Nieuwe afbeeldingen gecomprimeerd"
+          for i in 1 2 3; do git pull -q --rebase origin main && git push -q origin main && exit 0; sleep 10; done
+          exit 1
