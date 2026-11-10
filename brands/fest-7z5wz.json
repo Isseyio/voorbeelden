@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "fest-7z5wz",
+  "merk": "FEST",
+  "domein": "festamsterdam.com",
+  "lead_id": "2026-11-02-festamsterdam.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#391054",
+  "kop": "Drie nieuwe invalshoeken voor FEST, vol kleur.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team FEST, ik heb dit gemaakt omdat jullie kleur zo vanzelfsprekend in huis halen, van de rode Sinclair tot de stofstalen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1115:3",
+      "titel": "Kleur maakt je huis thuis",
+      "waarom": "Een grote typografische kop met kleine sfeerfoto's ertussen laat in één blik de sfeer van de hele collectie zien."
+    },
+    {
+      "node": "1115:17",
+      "titel": "Voel de stof eerst",
+      "waarom": "Bij een bank twijfelen mensen vooral over de stof, en gratis stalen halen die drempel weg."
+    },
+    {
+      "node": "1115:33",
+      "titel": "Sinclair vanaf €1.949",
+      "waarom": "Eén duidelijke prijs en één echte woonkamer geven mensen die al aan het vergelijken zijn een reden om te klikken."
+    }
+  ],
+  "waarom": {
+    "niche": "interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw meubelmerk niet via Google, maar tijdens het scrollen. Bij een bank duurt de keuze vaak weken, dus wie dan steeds een nieuwe advertentie ziet, onthoudt het merk. Een vaste nieuwsbrief houdt die twijfelaars warm tot ze langskomen of bestellen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25+",
+        "label": "advertenties heeft Bolia nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1115:45",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de FEST-familie",
+    "kop": "Welkom bij de FEST-familie",
+    "tekst": "Een warme welkomstmail voor nieuwe inschrijvers: wat ze van FEST kunnen verwachten, waarom kopen bij FEST makkelijk is en een directe weg naar de gratis stofstalen.",
+    "punten": [
+      "3 jaar garantie",
+      "Betaal in 3 termijnen via in3",
+      "Gratis interieuradvies en stofstalen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1115:45",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de FEST-familie",
+      "kop": "Welkom bij de FEST-familie",
+      "tekst": "Een warme welkomstmail voor nieuwe inschrijvers: wat ze van FEST kunnen verwachten, waarom kopen bij FEST makkelijk is en een directe weg naar de gratis stofstalen.",
+      "punten": [
+        "3 jaar garantie",
+        "Betaal in 3 termijnen via in3",
+        "Gratis interieuradvies en stofstalen"
+      ]
+    },
+    {
+      "node": "1115:78",
+      "type": "Productspotlight",
+      "onderwerp": "De kleur van thuis",
+      "kop": "De kleur van thuis.",
+      "tekst": "Een mail rond de Sinclair uit de nieuwe collectie: wat de bank bijzonder maakt, in welke stoffen hij er is en een uitnodiging om hem in de winkel te proberen.",
+      "punten": [
+        "Sinclair 2,5-zits bank vanaf €1.949",
+        "60 stoffen, op maat gemaakt",
+        "Kom langs in een FEST-winkel"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

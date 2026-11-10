@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "focusdrink-5pe7w",
+  "merk": "Focus Drink",
+  "domein": "focusdrink.nl",
+  "lead_id": "2026-11-01-focusdrink.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#F9DA00",
+  "kop": "Focus Drink op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Focus Drink, ik heb dit gemaakt omdat jullie vier smaken zo'n duidelijke eigen kleur hebben, en dat werkt goed tijdens het scrollen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1113:4",
+      "titel": "Focus belt je op",
+      "waarom": "Een herkenbaar telefoonscherm laat mensen even stoppen, met de fles groot in beeld."
+    },
+    {
+      "node": "1113:16",
+      "titel": "Zero sugar",
+      "waarom": "Eén groot woord en alle vier de flessen maken in een seconde duidelijk wat jullie anders doen."
+    },
+    {
+      "node": "1113:35",
+      "titel": "Elke dag een smaak",
+      "waarom": "Een weekstrip laat de variatie zien en leidt naar het proefpakket als makkelijke eerste aankoop."
+    }
+  ],
+  "waarom": {
+    "niche": "drank",
+    "kop": "Zo groeien drankmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw drankje niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als er een nieuwe smaak is.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij drankmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij drankmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1114:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Focus",
+    "kop": "Welkom bij Focus.",
+    "tekst": "Fijn dat je erbij bent. Nieuwe smaken en drops krijg je vanaf nu als eerste in je inbox. Daaronder alle vier de smaken op een rij.",
+    "punten": [
+      "Original: de smaak waar het allemaal mee begon, nu zero sugar",
+      "Go Acid: aardbei & citrus",
+      "Knolpower: açai & druif",
+      "Creator SMP: lychee & peer, tijdelijk beschikbaar"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1114:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Focus",
+      "kop": "Welkom bij Focus.",
+      "tekst": "Fijn dat je erbij bent. Nieuwe smaken en drops krijg je vanaf nu als eerste in je inbox. Daaronder alle vier de smaken op een rij.",
+      "punten": [
+        "Original: de smaak waar het allemaal mee begon, nu zero sugar",
+        "Go Acid: aardbei & citrus",
+        "Knolpower: açai & druif",
+        "Creator SMP: lychee & peer, tijdelijk beschikbaar"
+      ]
+    },
+    {
+      "node": "1114:54",
+      "type": "Actie",
+      "onderwerp": "Go Acid nu 25% voordeliger",
+      "kop": "Go Acid −25%",
+      "tekst": "Aardbei & citrus, suikervrij en bruisend. De 6-pack van €9,99 voor €7,49, houdbaar t/m 18 november 2026. Met daaronder het proefpakket voor wie eerst alles wil proeven.",
+      "punten": [
+        "Zero sugar",
+        "Geen cafeïne en geen taurine",
+        "Met vitamines en zink",
+        "Proefpakket: 6 flesjes, diverse smaken, €9,99"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

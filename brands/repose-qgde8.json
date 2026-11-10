@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "repose-qgde8",
+  "merk": "Repose AMS",
+  "domein": "repose-ams.com",
+  "lead_id": "2026-11-03-repose-ams.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5B1E2D",
+  "kop": "Kinderkleding uit Amsterdam, ook in de feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Repose AMS, ik heb dit gemaakt omdat jullie nieuwe AW26-collectie sterke beelden heeft, terwijl ik in de advertentiebibliotheek van Meta nu geen advertenties van jullie zag. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1096:259",
+      "titel": "Het eerste koude weekend belt",
+      "waarom": "Een speels inkomend-gesprekscherm valt op tussen gewone posts en zet de hooded puffer met prijs en maten groot in beeld."
+    },
+    {
+      "node": "1096:272",
+      "titel": "Eén jas, twee kleuren",
+      "waarom": "De bomber coat in rusty red en pure chocolate naast elkaar laat ouders in één oogopslag kiezen."
+    },
+    {
+      "node": "1096:292",
+      "titel": "Cozy drop in kleur",
+      "waarom": "Eén groot woord en drie sweaters maken het assortiment en de vanaf-prijs meteen duidelijk."
+    }
+  ],
+  "waarom": {
+    "niche": "kinderkleding",
+    "kop": "Zo groeien kinderkledingmerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw kindermerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die ouders terugkomen als hun kind weer een maat groter is.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kinderkledingmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Tumble 'N Dry nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1098:86",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Repose AMS",
+    "kop": "Welkom bij Repose AMS",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, wat ze kunnen verwachten en een uitnodiging voor de winkel aan de Elandsgracht.",
+    "punten": [
+      "Herokaart met de hooded puffer en jullie verhaal sinds 2014",
+      "Drie dingen om te onthouden: organisch katoen, Designed in Amsterdam, van baby tot tiener",
+      "Tweede blok met de winkel aan de Elandsgracht 67"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1098:86",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Repose AMS",
+      "kop": "Welkom bij Repose AMS",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, wat ze kunnen verwachten en een uitnodiging voor de winkel aan de Elandsgracht.",
+      "punten": [
+        "Herokaart met de hooded puffer en jullie verhaal sinds 2014",
+        "Drie dingen om te onthouden: organisch katoen, Designed in Amsterdam, van baby tot tiener",
+        "Tweede blok met de winkel aan de Elandsgracht 67"
+      ]
+    },
+    {
+      "node": "1098:121",
+      "type": "Merkverhaal + productspotlight",
+      "onderwerp": "AW26 · Into Wonder is binnen",
+      "kop": "AW26 · Into Wonder",
+      "tekst": "Een nieuwsbrief rond de nieuwe collectie: campagnebeeld bovenaan, kort jullie verhaal uit Amsterdam en de hooded puffer uitgelicht met zijn echte kenmerken.",
+      "punten": [
+        "Campagnefoto van de Into Wonder Club als hero",
+        "De hooded puffer met labels: waterafstotend, winddicht, afneembare capuchon, gerecycled polyester",
+        "Afsluiting met prijs, maten en een modelfoto"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
