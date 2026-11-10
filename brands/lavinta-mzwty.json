@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "lavinta-mzwty",
+  "merk": "Lavinta",
+  "domein": "lavinta.nl",
+  "lead_id": "2026-11-10-lavinta.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#99711B",
+  "kop": "Drie advertenties voor Lavinta, met jullie eigen kleden.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Lavinta, ik heb dit gemaakt omdat elk kleed bij jullie maar één keer bestaat, en dat is precies het soort verhaal dat op Instagram goed werkt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1042:3",
+      "titel": "Gemaakt met",
+      "waarom": "Eén kleed met daarnaast waar het van gemaakt is: handgeknoopt, wol en katoen en het certificaat van echtheid, zodat de prijs meteen logisch voelt."
+    },
+    {
+      "node": "1043:59",
+      "titel": "Zelfde kamer, ander kleed",
+      "waarom": "Jullie eigen kamerfoto's naast elkaar laten in één oogopslag zien hoe anders twee kleden dezelfde slaapkamer maken."
+    },
+    {
+      "node": "1043:92",
+      "titel": "Nieuw binnen",
+      "waarom": "Er komen elke week nieuwe kleden binnen; een advertentie per nieuw stuk geeft mensen een reden om snel te kijken voordat het weg is."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat mensen terugkomen als er nieuwe kleden binnen zijn.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Rugvista nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1043:132",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Lavinta",
+    "kop": "Welkom bij Lavinta.",
+    "tekst": "Een welkomstmail in een rustig donkerbruin met de zacht groene G833, de drie dingen waar Lavinta voor staat en een blok voor persoonlijk advies via de chat.",
+    "punten": [
+      "Handgeknoopt door Turkse meester-wevers",
+      "Certificaat van echtheid op de achterkant",
+      "Gratis verzending in de hele EU"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1043:132",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Lavinta",
+      "kop": "Welkom bij Lavinta.",
+      "tekst": "Een welkomstmail in een rustig donkerbruin met de zacht groene G833, de drie dingen waar Lavinta voor staat en een blok voor persoonlijk advies via de chat.",
+      "punten": [
+        "Handgeknoopt door Turkse meester-wevers",
+        "Certificaat van echtheid op de achterkant",
+        "Gratis verzending in de hele EU"
+      ]
+    },
+    {
+      "node": "1043:193",
+      "type": "Assortimentsmail",
+      "onderwerp": "Nieuwe kleden, elke week",
+      "kop": "Nieuwe kleden, elke week.",
+      "tekst": "Een mail die laat zien wat er nieuw binnen is, per stijl: vintage, kelims, modern en kinderkamer. Met jullie 9,8 uit 318 beoordelingen als afsluiter.",
+      "punten": [
+        "Vier stijlen met jullie eigen kamerfoto's",
+        "Bijna elk kleed bestaat maar één keer",
+        "9,8 / 10 bij WebwinkelKeur"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
