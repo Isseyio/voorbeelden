@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "chesterfield-h3fxx",
+  "merk": "The Chesterfield Brand",
+  "domein": "chesterfieldbags.com",
+  "lead_id": "2026-11-01-chesterfieldbags.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#87704D",
+  "kop": "Drie nieuwe invalshoeken voor The Chesterfield Brand, rond de Lingfield.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team The Chesterfield Brand, ik heb dit gemaakt omdat jullie tassen zoveel te vertellen hebben, zoals de Lingfield die in zwart en cognac bestaat en met de hand gewaxt wordt, dat je er elke week een nieuwe advertentie mee kunt maken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1348:4",
+      "titel": "Zwart of cognac?",
+      "waarom": "Twee kleuren naast elkaar met prijs helpen mensen kiezen in plaats van twijfelen, en laten meteen zien dat er keuze is."
+    },
+    {
+      "node": "1348:28",
+      "titel": "Echt leer.",
+      "waarom": "Eén groot woord met een zoekbalk sluit aan op waar mensen naar zoeken, en zet drie tassen uit jullie collectie tegelijk in beeld."
+    },
+    {
+      "node": "1348:50",
+      "titel": "Je nieuwe tas belt",
+      "waarom": "Een speels inkomend gesprek valt op tussen gewone productfoto's en zet de Lingfield groot in beeld, met de prijs en de levertijd erbij."
+    }
+  ],
+  "waarom": {
+    "niche": "tassen",
+    "kop": "Zo groeien tassenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw tassenmerk niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe invalshoeken testen houden hun kosten per aankoop laag, ook als ze al veel adverteren. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij tassenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "18–28%",
+        "label": "van de online omzet komt bij tassenmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1349:211",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij The Chesterfield Brand",
+    "kop": "Welkom bij The Chesterfield Brand.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waarom het leer met de hand gewaxt wordt, en meteen een tas om mee te beginnen.",
+    "punten": [
+      "Herokaart in donker espresso met jullie eigen packshot van de Lingfield in cognac",
+      "Drie redenen in iconen: voor 15:30 besteld dezelfde dag verstuurd, 2 jaar garantie, 4,8 uit 8.000+ reviews",
+      "Tweede kaart over het leer, met jullie eigen foto van handen op cognac leer"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1349:211",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij The Chesterfield Brand",
+      "kop": "Welkom bij The Chesterfield Brand.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waarom het leer met de hand gewaxt wordt, en meteen een tas om mee te beginnen.",
+      "punten": [
+        "Herokaart in donker espresso met jullie eigen packshot van de Lingfield in cognac",
+        "Drie redenen in iconen: voor 15:30 besteld dezelfde dag verstuurd, 2 jaar garantie, 4,8 uit 8.000+ reviews",
+        "Tweede kaart over het leer, met jullie eigen foto van handen op cognac leer"
+      ]
+    },
+    {
+      "node": "1349:243",
+      "type": "Merkverhaal",
+      "onderwerp": "Een cadeau dat jaren meegaat",
+      "kop": "Een cadeau dat jaren meegaat.",
+      "tekst": "Een cadeaumail voor de feestdagen die meteen jullie verhaal vertelt: van leerimport sinds 1988 naar een eigen merk met 26 mensen.",
+      "punten": [
+        "Aankondigingsbalk met ruilen en retourneren tot na de kerst, en jullie eigen cadeaufoto als hero",
+        "Verhaalkaart met de foto van het persoonlijk controleren van een bestelling",
+        "De Lingfield van dichtbij met vier labels, en een afsluiting over de leerwax"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

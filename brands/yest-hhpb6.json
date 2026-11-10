@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "yest-hhpb6",
+  "merk": "Yest",
+  "domein": "yest.com",
+  "lead_id": "2026-11-01-yest.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8C7F74",
+  "kop": "Drie nieuwe invalshoeken voor Yest Curve, rond de wintercollectie.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Yest, ik heb dit gemaakt omdat jullie lookbookfoto's van Yest Curve zo sterk zijn en jullie collectie met maat 34 tot 56 echt voor elke vrouw is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1356:4",
+      "titel": "Prijs en logo groot",
+      "waarom": "Een duidelijke prijs met jullie logo over een warme modelfoto stopt de duim en laat in één blik zien wat de YCZorah kost."
+    },
+    {
+      "node": "1356:14",
+      "titel": "Eén top, twee looks",
+      "waarom": "Dezelfde YCZelda los en onder een blazer laat zien hoe veelzijdig één stuk is, en dat werkt beter dan een losse productfoto."
+    },
+    {
+      "node": "1356:33",
+      "titel": "Elke maat, elke leeftijd",
+      "waarom": "Een grote kop met kleine fotovensters vertelt jullie missie in één zin en zet de YCZorah eronder met prijs."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe invalshoeken testen houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor het volgende seizoen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Expresso nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1356:47",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Yest",
+    "kop": "Welkom bij Yest.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: voor wie Yest is, wat ze kunnen verwachten en waar de collectie vandaan komt.",
+    "punten": [
+      "Herokaart met jullie eigen foto van de YCZenia-blouse van kant en een knop naar de collectie",
+      "Drie dingen om te weten in iconen: maat 34 t/m 56, gratis verzending in Nederland, levering in 2 tot 3 werkdagen",
+      "Tweede kaart over jullie studio, met de zwart-witfoto van het ontwerpteam"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1356:47",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Yest",
+      "kop": "Welkom bij Yest.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: voor wie Yest is, wat ze kunnen verwachten en waar de collectie vandaan komt.",
+      "punten": [
+        "Herokaart met jullie eigen foto van de YCZenia-blouse van kant en een knop naar de collectie",
+        "Drie dingen om te weten in iconen: maat 34 t/m 56, gratis verzending in Nederland, levering in 2 tot 3 werkdagen",
+        "Tweede kaart over jullie studio, met de zwart-witfoto van het ontwerpteam"
+      ]
+    },
+    {
+      "node": "1356:79",
+      "type": "Assortimentsmail",
+      "onderwerp": "Zachte lagen voor de winter",
+      "kop": "Zachte lagen voor de winter.",
+      "tekst": "Een assortimentsmail met drie stukken uit Yest Curve, elk met prijs en knop, en een doorklik naar de looks van Melancholy Romance.",
+      "punten": [
+        "Grote lifestylefoto uit jullie Yest Curve-lookbook als opening",
+        "YCZorah (€ 89,99), YCZenia (€ 99,99) en YCZelda (€ 59,99) met jullie eigen packshots",
+        "Afsluiter met de trend Melancholy Romance en navigatieknoppen in jullie strakke stijl"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

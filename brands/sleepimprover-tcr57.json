@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "sleepimprover-tcr57",
+  "merk": "Sleepimprover",
+  "domein": "sleepimprover.nl",
+  "lead_id": "2026-11-04-sleepimprover.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1C2C4C",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor een rustigere nacht.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Sleepimprover, ik heb dit gemaakt omdat de S1 zoveel in één box stopt, van wake up light tot luchtkwaliteitsmeter, en dat goed in beeld te brengen is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1351:2",
+      "titel": "Alles in één box",
+      "waarom": "Bij een product van bijna €1.800 willen mensen zien wat ze krijgen; vier onderdelen met eigen foto maken dat in één beeld duidelijk."
+    },
+    {
+      "node": "1351:23",
+      "titel": "30 dagen proberen",
+      "waarom": "De gratis retour van 30 dagen haalt de grootste drempel weg, en jullie eigen slaapkamerfoto laat zien hoe hij thuis staat."
+    },
+    {
+      "node": "1351:34",
+      "titel": "Je ochtend belt",
+      "waarom": "Een speels belscherm rond het wake up light valt op tussen gewone posts en vertelt in één zin wat je ervan merkt."
+    }
+  ],
+  "waarom": {
+    "niche": "slaap en wonen",
+    "kop": "Zo groeien slaapmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw slaapproduct niet via Google, maar tijdens het scrollen. Bij een duurder product kijken ze vaak een paar keer voordat ze kopen, dus wie elke week nieuwe advertenties test, blijft in beeld en houdt de kosten per aankoop laag. Een vaste nieuwsbrief helpt twijfelaars de stap te zetten.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij wonen- en slaapmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Emma Sleep nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1354:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Sleepimprover",
+    "kop": "Welkom bij Sleepimprover",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wat de S1 doet, drie redenen waarom hij helpt, en een echte klantfoto met review.",
+    "punten": [
+      "Blokkeert licht en geluid",
+      "Frisse, gekoelde luchtcirculatie",
+      "Wake up light als zonsopgang",
+      "30 dagen gratis retour"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1354:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Sleepimprover",
+      "kop": "Welkom bij Sleepimprover",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wat de S1 doet, drie redenen waarom hij helpt, en een echte klantfoto met review.",
+      "punten": [
+        "Blokkeert licht en geluid",
+        "Frisse, gekoelde luchtcirculatie",
+        "Wake up light als zonsopgang",
+        "30 dagen gratis retour"
+      ]
+    },
+    {
+      "node": "1354:43",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom Ralf en Guus de Sleepimprover maakten",
+      "kop": "Slaap zonder prikkels. Word uitgerust wakker.",
+      "tekst": "Het verhaal van de oprichters, wat er in de technologiebox zit en wat er in de doos zit, met jullie eigen slaapkamerfoto's.",
+      "punten": [
+        "Verhaal van Ralf en Guus Adams",
+        "Technologiebox met labels",
+        "Alles in de doos + prijs",
+        "Klantfoto en review"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

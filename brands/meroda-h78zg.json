@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "meroda-h78zg",
+  "merk": "Meroda Cosmetics",
+  "domein": "merodacosmetics.nl",
+  "lead_id": "2026-11-04-merodacosmetics.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A8844F",
+  "kop": "Drie nieuwe invalshoeken voor de Changing Foundation.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Meroda, ik heb dit gemaakt omdat jullie met heel veel advertenties tegelijk werken, en dan helpt het om steeds nieuwe invalshoeken klaar te hebben. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1349:113",
+      "titel": "Eén foundation, drie kenmerken",
+      "waarom": "Het product groot in beeld met drie korte kenmerken vertelt in een seconde wat de foundation anders maakt."
+    },
+    {
+      "node": "1349:132",
+      "titel": "De basis in drie stappen",
+      "waarom": "Eén groot woord en een zoekbalk laten zien waar mensen naar zoeken, en de drie producten verkopen meteen de hele routine."
+    },
+    {
+      "node": "1349:148",
+      "titel": "Black Friday met een echt gezicht",
+      "waarom": "Jullie echte actie boven een close-up van het aanbrengen maakt de korting persoonlijk in plaats van een prijsbanner."
+    }
+  ],
+  "waarom": {
+    "niche": "beauty",
+    "kop": "Zo groeien beautymerken op Instagram.",
+    "tekst": "Een advertentie wordt na een paar weken moe: dezelfde mensen zien hem steeds weer en klikken minder. Merken die elke week nieuwe invalshoeken testen, houden hun kosten per aankoop laag. En een goede welkomstmail zorgt dat die nieuwe klanten terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij beautymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij beautymerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1349:161",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Meroda",
+    "kop": "Welkom bij natuurlijke make-up",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvingen die direct naar de Changing Foundation leidt, met drie redenen waarom hij zo makkelijk is en hoe je hem aanbrengt.",
+    "punten": [
+      "Past zich aan fair tot medium huidtinten aan",
+      "Tot 16 uur en cruelty-free",
+      "Aanbrengen in minder dan 90 seconden met de 2-in-1 kwast"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1349:161",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Meroda",
+      "kop": "Welkom bij natuurlijke make-up",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvingen die direct naar de Changing Foundation leidt, met drie redenen waarom hij zo makkelijk is en hoe je hem aanbrengt.",
+      "punten": [
+        "Past zich aan fair tot medium huidtinten aan",
+        "Tot 16 uur en cruelty-free",
+        "Aanbrengen in minder dan 90 seconden met de 2-in-1 kwast"
+      ]
+    },
+    {
+      "node": "1349:190",
+      "type": "Actiemail",
+      "onderwerp": "Black Friday: tot 55% korting",
+      "kop": "Tot 55% korting op je natuurlijke basis",
+      "tekst": "Een Black Friday-mail rond jullie echte actie, met de starterset, drie redenen om nu te bestellen en de ingrediënten.",
+      "punten": [
+        "Gratis cadeaus bij je bestelling",
+        "30 dagen gratis retour",
+        "Glycerine, natriumhyaluronaat en vitamine E"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
