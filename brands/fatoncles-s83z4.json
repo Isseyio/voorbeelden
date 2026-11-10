@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "fatoncles-s83z4",
+  "merk": "FatOncles",
+  "domein": "fatoncles.com",
+  "lead_id": "2026-11-10-fatoncles.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#DE6552",
+  "kop": "Drie advertenties voor FatOncles, van €18,50 tot een bril die meebuigt.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team FatOncles, ik heb dit gemaakt omdat jullie foto's van springende en lachende kinderen precies laten zien waarvoor de bril bedoeld is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1202:122",
+      "titel": "€18,50 met armbandje",
+      "waarom": "Een duidelijke prijs en het gratis armbandje boven een springend kind geven ouders meteen een reden om te klikken."
+    },
+    {
+      "node": "1202:130",
+      "titel": "Eén bril, twee maten",
+      "waarom": "Twee kinderen naast elkaar laten zien dat er een maat is voor peuters en voor oudere kinderen."
+    },
+    {
+      "node": "1202:148",
+      "titel": "Buigt. Niet breekt.",
+      "waarom": "De grootste zorg van ouders als kop, met vier kleuren eronder om uit te kiezen."
+    }
+  ],
+  "waarom": {
+    "niche": "kinderproducten",
+    "kop": "Zo groeien kindermerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw kindermerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die ouders terugkomen, bijvoorbeeld als het kind een maat groter nodig heeft.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kindermerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kindermerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1204:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij FatOncles",
+    "kop": "Welkom bij FatOncles",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers die laat zien waarom het montuur meebuigt in plaats van breekt, met het gratis armbandje als haakje.",
+    "punten": [
+      "UV400 met gepolariseerde glazen",
+      "Flexibel siliconenrubber dat meebuigt",
+      "Gratis armbandje bij elke bril"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1204:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij FatOncles",
+      "kop": "Welkom bij FatOncles",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers die laat zien waarom het montuur meebuigt in plaats van breekt, met het gratis armbandje als haakje.",
+      "punten": [
+        "UV400 met gepolariseerde glazen",
+        "Flexibel siliconenrubber dat meebuigt",
+        "Gratis armbandje bij elke bril"
+      ]
+    },
+    {
+      "node": "1204:45",
+      "type": "Merkverhaal",
+      "onderwerp": "Hoe FatOncles op een heuvel in Toscane begon",
+      "kop": "Begonnen op een heuvel in Toscane",
+      "tekst": "Een merkverhaal over Ivo en Laurens, het jaar prototypes testen en waar de naam vandaan komt, met daaronder de bril en zijn kenmerken.",
+      "punten": [
+        "Het verhaal achter de naam",
+        "Product met vier kenmerken uitgelicht",
+        "Afsluiter met 8 kleuren en 2 maten"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

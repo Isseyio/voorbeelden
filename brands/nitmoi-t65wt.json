@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "nitmoi-t65wt",
+  "merk": "Nitmoi",
+  "domein": "nitmoi.nl",
+  "lead_id": "2026-11-04-nitmoi.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#AB8C52",
+  "kop": "Gevouwen leer uit Utrecht, in drie advertenties en twee nieuwsbrieven.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Nitmoi, ik heb dit gemaakt omdat een tas die gevouwen is in plaats van gestikt een verhaal heeft dat je in één beeld kunt laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1259:3",
+      "titel": "Waar Ava van gemaakt is",
+      "waarom": "Leer, vouwtechniek en atelier naast elkaar laten zien waarom de prijs klopt, nog voordat iemand doorklikt."
+    },
+    {
+      "node": "1259:22",
+      "titel": "Gevouwen, niet gestikt",
+      "waarom": "Eén groot woord en een zoekbalk maken het verschil met andere leren tassen in een seconde duidelijk."
+    },
+    {
+      "node": "1259:36",
+      "titel": "Phone Bag vanaf €129",
+      "waarom": "Een echte prijs boven een close-up van het product werkt goed bij mensen die al aan het vergelijken zijn."
+    }
+  ],
+  "waarom": {
+    "niche": "tassen en accessoires",
+    "kop": "Zo groeien tassenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw tassenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een portemonnee, sleutelhanger of brillenkoker.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij tassen- en accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25+",
+        "label": "advertenties heeft O My Bag nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1259:45",
+      "type": "Merkverhaal",
+      "onderwerp": "Het verhaal achter het vouwen",
+      "kop": "Het verhaal achter het vouwen",
+      "tekst": "In 2012 ontwierp Johannes de eerste Nitmoi-portemonnee, met de vouwtechniek die nog altijd in elk stuk zit. Sinds 2021 maakt hij alles weer met de hand, in het atelier in Utrecht.",
+      "punten": [
+        "Italiaans plantaardig gelooid leer",
+        "2,0 mm dik en waterafstotend",
+        "Workshop: maak je eigen leren tas"
+      ]
+    },
+    {
+      "node": "1259:77",
+      "type": "Assortiment",
+      "onderwerp": "Gevouwen leer, tijdloze vorm",
+      "kop": "Gevouwen leer. Tijdloze vorm.",
+      "tekst": "Vier stukken die je elke dag gebruikt, met de hand gemaakt in Utrecht.",
+      "punten": [
+        "Ava Crossbody Bag €179",
+        "Phone Bag €129",
+        "Key Holder €32",
+        "Brillenkokers en meer vanaf €42"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10",
+  "nieuwsbrief": {
+    "node": "1259:45",
+    "type": "Merkverhaal",
+    "onderwerp": "Het verhaal achter het vouwen",
+    "kop": "Het verhaal achter het vouwen",
+    "tekst": "In 2012 ontwierp Johannes de eerste Nitmoi-portemonnee, met de vouwtechniek die nog altijd in elk stuk zit. Sinds 2021 maakt hij alles weer met de hand, in het atelier in Utrecht.",
+    "punten": [
+      "Italiaans plantaardig gelooid leer",
+      "2,0 mm dik en waterafstotend",
+      "Workshop: maak je eigen leren tas"
+    ]
+  }
+}

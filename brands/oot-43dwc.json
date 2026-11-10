@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "oot-43dwc",
+  "merk": "Oot",
+  "domein": "oot.nl",
+  "lead_id": "2026-10-30-oot.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#125330",
+  "kop": "Drie nieuwe invalshoeken voor jullie granola",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Oot, ik heb dit gemaakt omdat granola die elke dag vers gebakken wordt door een Brabantse bakker zo'n mooi verhaal is om steeds opnieuw te vertellen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1267:4",
+      "titel": "Wat zit erin",
+      "waarom": "De ingrediënten één voor één laten zien maakt 'minstens 30% noten' en '55% minder suikers' concreet."
+    },
+    {
+      "node": "1267:26",
+      "titel": "Da's lekker wakker worden",
+      "waarom": "Jullie eigen kop met echte foto's tussen de woorden valt op in de feed en laat drie smaken tegelijk zien."
+    },
+    {
+      "node": "1267:39",
+      "titel": "Altijd granola in huis",
+      "waarom": "Het ritme van het lidmaatschap in één beeld, met de 14% voordeel als reden om te starten."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien foodmerken op Instagram.",
+    "tekst": "Jullie adverteren al veel, dus de instroom is er. De winst zit vaak in steeds nieuwe invalshoeken, zodat advertenties niet moe worden, en in een vaste nieuwsbrief die nieuwe klanten laat terugkomen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij foodmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1268:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Oot",
+    "kop": "Welkom bij Oot",
+    "tekst": "Een warme eerste mail voor nieuwe inschrijvers: wat Oot is, waarom de granola elke dag vers gebakken wordt en waar je het best mee begint.",
+    "punten": [
+      "Herokaart met het Granola Starter Pack",
+      "Drie redenen: 100% natuurlijk & biologisch, rijk aan vezels & laag in suikers, vers van de bakker",
+      "Verhaal van de Brabantse bakker met eigen foto"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1268:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Oot",
+      "kop": "Welkom bij Oot",
+      "tekst": "Een warme eerste mail voor nieuwe inschrijvers: wat Oot is, waarom de granola elke dag vers gebakken wordt en waar je het best mee begint.",
+      "punten": [
+        "Herokaart met het Granola Starter Pack",
+        "Drie redenen: 100% natuurlijk & biologisch, rijk aan vezels & laag in suikers, vers van de bakker",
+        "Verhaal van de Brabantse bakker met eigen foto"
+      ]
+    },
+    {
+      "node": "1268:43",
+      "type": "Favorieten",
+      "onderwerp": "Onze favoriete granola's",
+      "kop": "Onze favoriete granola's",
+      "tekst": "Een assortimentsmail met vier smaken, elk met een korte claim, prijs en knop, afgesloten met de reviews.",
+      "punten": [
+        "Crunchy Nuts, €6,90",
+        "Strawberry Keto, €7,90",
+        "Lemon Poppy Seed, €7,90",
+        "Cinnamon Bun, €6,90",
+        "4.7/5 op basis van 4.700+ reviews als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

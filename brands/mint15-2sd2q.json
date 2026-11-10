@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "mint15-2sd2q",
+  "merk": "Mint15",
+  "domein": "mint15.com",
+  "lead_id": "2026-11-02-mint15.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B89A5B",
+  "kop": "Drie advertenties voor Mint15, rond jullie armbandjes.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Mint15, ik heb dit gemaakt omdat jullie stapels armbandjes met parels en goud zo goed werken op Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1262:4",
+      "titel": "De stapel van dichtbij",
+      "waarom": "Labels rond jullie eigen foto beantwoorden meteen de vragen die mensen hebben: echte parels, roestvrij staal en verstelbaar."
+    },
+    {
+      "node": "1262:31",
+      "titel": "Eén armband, drie kenmerken",
+      "waarom": "Eén armband groot in beeld met prijs en drie korte kenmerken maakt Pearls By The Sea van € 29,95 in een oogopslag duidelijk."
+    },
+    {
+      "node": "1262:52",
+      "titel": "Mix & Match tot 15%",
+      "waarom": "Jullie bestaande Mix & Match-korting groot boven het logo en een echte draagfoto geeft mensen een reden om meteen een set samen te stellen."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor het volgende armbandje.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1264:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Mint15",
+    "kop": "Welkom bij Mint15",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Mint15 is, hoe Emilie de sieraden met de hand maakt in Made en hoe Mix & Match werkt.",
+    "punten": [
+      "Herokaart met een echte stapel armbandjes met parels en zeester",
+      "Handgemaakt in Made, roestvrij staal dat niet verkleurt, Mix & Match tot 15%",
+      "Een tweede kaart met jullie handfoto: stel je eigen set samen, gratis verzending vanaf €70"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1264:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Mint15",
+      "kop": "Welkom bij Mint15",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Mint15 is, hoe Emilie de sieraden met de hand maakt in Made en hoe Mix & Match werkt.",
+      "punten": [
+        "Herokaart met een echte stapel armbandjes met parels en zeester",
+        "Handgemaakt in Made, roestvrij staal dat niet verkleurt, Mix & Match tot 15%",
+        "Een tweede kaart met jullie handfoto: stel je eigen set samen, gratis verzending vanaf €70"
+      ]
+    },
+    {
+      "node": "1264:33",
+      "type": "Productspotlight",
+      "onderwerp": "Nieuwe favorieten voor je pols",
+      "kop": "Nieuwe favorieten voor je pols",
+      "tekst": "Een mail met vier favorieten om mee te beginnen of een set mee aan te vullen, met een echte klantreview erbij.",
+      "punten": [
+        "Pearls By The Sea (€ 29,95) en Tube It Black (€ 14,95)",
+        "Armbandensets Pastel Chic en Caramel & Aubergine",
+        "Review: \"Zeer goede kwaliteit! Past perfect bij mijn andere armbandjes.\""
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

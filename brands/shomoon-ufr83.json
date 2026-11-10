@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "shomoon-ufr83",
+  "merk": "Shō-moon",
+  "domein": "sho-moon.com",
+  "lead_id": "2026-11-10-sho-moon.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2B2724",
+  "kop": "Drie advertenties en twee nieuwsbrieven rond je meditatiekaarsen.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Juliette, ik heb dit gemaakt omdat een Reiki-meditatie onder het deksel van een kaars iets is wat je in één beeld kunt laten zien. Alles is gemaakt met jouw eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1205:163",
+      "titel": "Elke kaars een intentie",
+      "waarom": "Handen die de kaars vasthouden met kenmerken eromheen laten in één blik zien wat erin zit en wat je ermee doet."
+    },
+    {
+      "node": "1205:183",
+      "titel": "Kies je intentie",
+      "waarom": "Drie geuren naast elkaar met hun noten helpen twijfelaars kiezen en verkopen meteen de Intention Collection."
+    },
+    {
+      "node": "1205:202",
+      "titel": "Vul hem gewoon bij",
+      "waarom": "Een close-up met uitleg bij elk onderdeel maakt de navulling concreet en brengt het abonnement met 15% korting in beeld."
+    }
+  ],
+  "waarom": {
+    "niche": "kaarsen",
+    "kop": "Zo groeien kaarsenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kaarsenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief en een navulabonnement zorgen dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij geur- en kaarsenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Rituals nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1205:287",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Shō-moon",
+    "kop": "Welkom bij Shō-moon",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wat de kaarsen bijzonder maakt, de 10% welkomstkorting en het ritueel in drie stappen.",
+    "punten": [
+      "10% korting op je eerste bestelling",
+      "Navulbaar, vegan en 100% pure etherische olie",
+      "Reiki-meditatie via de QR-code onder het deksel",
+      "Gratis verzending naar NL en BE vanaf €50"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1205:287",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Shō-moon",
+      "kop": "Welkom bij Shō-moon",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wat de kaarsen bijzonder maakt, de 10% welkomstkorting en het ritueel in drie stappen.",
+      "punten": [
+        "10% korting op je eerste bestelling",
+        "Navulbaar, vegan en 100% pure etherische olie",
+        "Reiki-meditatie via de QR-code onder het deksel",
+        "Gratis verzending naar NL en BE vanaf €50"
+      ]
+    },
+    {
+      "node": "1205:345",
+      "type": "Variantenmail",
+      "onderwerp": "Calm of Energise?",
+      "kop": "Calm of Energise?",
+      "tekst": "Twee intenties naast elkaar, met Juliette in beeld, de geurnoten van Calm uitgelicht en een vergelijkingstabel.",
+      "punten": [
+        "Calm: mandarijn, bergamot, lavendel en kamille",
+        "Energise: citroen, citroengras en geranium",
+        "Allebei ±45 branduren, €37",
+        "Intention Collection: alle drie voor €95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

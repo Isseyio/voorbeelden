@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "fabiennechapot-xuepd",
+  "merk": "Fabienne Chapot",
+  "domein": "fabiennechapot.com",
+  "lead_id": "2026-11-02-fabiennechapot.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6B2437",
+  "kop": "Een tikje gewaagder, ook in je advertenties.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Fabienne Chapot, ik heb dit gemaakt omdat de Festive-collectie zoveel verhalen in zich heeft: de roos, de studs, de ballonrok. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1257:217",
+      "titel": "Kleed je gewaagder",
+      "waarom": "Jullie eigen motto als kop, met campagnebeelden tussen de woorden en de Philia Dress met prijs eronder: merk en product in één beeld."
+    },
+    {
+      "node": "1257:233",
+      "titel": "Feestklaar",
+      "waarom": "Eén groot woord en drie stukken uit de Festive-collectie met prijs, zodat iemand die scrolt meteen een complete look ziet."
+    },
+    {
+      "node": "1257:254",
+      "titel": "Het feestseizoen belt",
+      "waarom": "Een speels belscherm valt op tussen gewone modeposts en zet één jurk helemaal centraal."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken nieuwe kleding niet via Google, maar tijdens het scrollen op Instagram. Modemerken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft JOSH V nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1258:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Fabienne Chapot",
+    "kop": "Welkom bij Fabienne Chapot",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn, de welkomstkorting van 10% op de eerste bestelling en een eerste look om mee te beginnen.",
+    "punten": [
+      "Eigen prints, met de hand begonnen",
+      "Twee collecties per jaar, elk in vijf hoofdstukken",
+      "Gratis verzending vanaf €100 naar NL, DE en BE"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1258:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Fabienne Chapot",
+      "kop": "Welkom bij Fabienne Chapot",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn, de welkomstkorting van 10% op de eerste bestelling en een eerste look om mee te beginnen.",
+      "punten": [
+        "Eigen prints, met de hand begonnen",
+        "Twee collecties per jaar, elk in vijf hoofdstukken",
+        "Gratis verzending vanaf €100 naar NL, DE en BE"
+      ]
+    },
+    {
+      "node": "1258:51",
+      "type": "Productspotlight",
+      "onderwerp": "De Festive edit: vier stukken voor de feestdagen",
+      "kop": "Festive season",
+      "tekst": "Vier stukken uit Autumn Winter 2026 in één mail, elk met een korte omschrijving, de prijs en een knop.",
+      "punten": [
+        "Philia Dress, Emma Blouse, Valentine Blazer en Kattie Stud Pumps",
+        "Campagnebeeld als opening",
+        "Jullie eigen motto als afsluiting"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
