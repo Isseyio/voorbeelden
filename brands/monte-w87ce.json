@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "monte-w87ce",
+  "merk": "Monte Men's Cosmetics",
+  "domein": "monte-cosmetics.com",
+  "lead_id": "2026-11-05-monte-cosmetics.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Drie bergen, drie geuren, elke week een nieuwe advertentie.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Monte, ik heb dit gemaakt omdat jullie baardoliën naar bergen vernoemd zijn en jullie daar al sterke beelden bij hebben. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1049:3",
+      "titel": "Baardolie in één woord",
+      "waarom": "Een groot woord en de drie flesjes naast elkaar maken in één oogopslag duidelijk wat je koopt en welke geuren er zijn."
+    },
+    {
+      "node": "1049:29",
+      "titel": "Fris of warm?",
+      "waarom": "Een simpele keuze tussen twee geuren laat mensen meteen kiezen, en de bergfoto's maken het verschil zichtbaar."
+    },
+    {
+      "node": "1050:16",
+      "titel": "10% op je eerste bestelling",
+      "waarom": "Jullie welkomstkorting bestaat al; met een sterke portretfoto en het logo groot in beeld wordt het een advertentie voor nieuwe kopers."
+    }
+  ],
+  "waarom": {
+    "niche": "verzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "De meeste mannen ontdekken een nieuw verzorgingsmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun flesje op is.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft The Alpha Men nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1050:26",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Monte, je 10% staat klaar",
+      "kop": "Welkom bij Monte",
+      "tekst": "Een welkomstmail voor iedereen die zich inschrijft via de pop-up: de 10% korting, wat Monte anders maakt en het verhaal achter de bergnamen.",
+      "punten": [
+        "De 10% die jullie pop-up al belooft, direct bovenaan",
+        "Drie redenen: biologische oliën, met de hand gemaakt, 30 dagen retour",
+        "Waarom elke baardolie naar een berg heet"
+      ]
+    },
+    {
+      "node": "1050:57",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom Monte naar bergen vernoemd is",
+      "kop": "Sterk, ruig en gewoon goed.",
+      "tekst": "Een merkverhaal-mail met jullie eigen bergfoto's: waar de naam vandaan komt, wat er in de baardolie zit en de drie geuren naast elkaar.",
+      "punten": [
+        "Het verhaal achter de naam Monte",
+        "Wat er in de baardolie zit, met labels",
+        "Kilimanjaro, Matterhorn en Vinicunca naast elkaar"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10",
+  "nieuwsbrief": {
+    "node": "1050:26",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Monte, je 10% staat klaar",
+    "kop": "Welkom bij Monte",
+    "tekst": "Een welkomstmail voor iedereen die zich inschrijft via de pop-up: de 10% korting, wat Monte anders maakt en het verhaal achter de bergnamen.",
+    "punten": [
+      "De 10% die jullie pop-up al belooft, direct bovenaan",
+      "Drie redenen: biologische oliën, met de hand gemaakt, 30 dagen retour",
+      "Waarom elke baardolie naar een berg heet"
+    ]
+  }
+}
