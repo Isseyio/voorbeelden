@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "zone2-k7tqx",
+  "merk": "ZONE2",
+  "domein": "zone2sportswear.com",
+  "lead_id": "2026-11-02-zone2sportswear.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Drie nieuwe invalshoeken voor de Running Vest",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team ZONE2, ik heb dit gemaakt omdat jullie de Running Vest zo duidelijk laten zien, in zwart en wit, op echte lopers. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1030:31",
+      "titel": "198 gram",
+      "waarom": "Eén groot getal maakt meteen duidelijk waarom deze vest anders voelt, en de drie tegels laten zien wat je erbij krijgt."
+    },
+    {
+      "node": "1030:55",
+      "titel": "Zwart of wit?",
+      "waarom": "Twee kleuren naast elkaar op een echte loper maken kiezen makkelijk en laten de prijs direct zien."
+    },
+    {
+      "node": "1030:81",
+      "titel": "Gratis flasks",
+      "waarom": "De Early Black Friday-actie bovenaan met jullie logo groot over de foto zegt in één blik wat er te halen valt."
+    }
+  ],
+  "waarom": {
+    "niche": "sport",
+    "kop": "Zo groeien sportmerken op Instagram.",
+    "tekst": "De meeste lopers ontdekken nieuwe gear niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor flasks, belts en lights.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sportmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij sportmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1031:31",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij ZONE2, je 10% staat klaar",
+    "kop": "Welkom bij ZONE2",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de Running Vest groot in beeld, de 10% korting op de eerste bestelling en drie redenen om te bestellen.",
+    "punten": [
+      "Herokaart met de Running Vest in zwart",
+      "30 dagen risicovrij proberen, gratis verzending vanaf €49, 2 jaar garantie",
+      "Tweede kaart over de acht vakken, met jullie eigen handfoto"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1031:31",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij ZONE2, je 10% staat klaar",
+      "kop": "Welkom bij ZONE2",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: de Running Vest groot in beeld, de 10% korting op de eerste bestelling en drie redenen om te bestellen.",
+      "punten": [
+        "Herokaart met de Running Vest in zwart",
+        "30 dagen risicovrij proberen, gratis verzending vanaf €49, 2 jaar garantie",
+        "Tweede kaart over de acht vakken, met jullie eigen handfoto"
+      ]
+    },
+    {
+      "node": "1031:72",
+      "type": "Productspotlight",
+      "onderwerp": "Water altijd binnen handbereik",
+      "kop": "Water altijd binnen handbereik",
+      "tekst": "Een mail die de Running Vest uitlicht: jullie runner met gel en flasks als opening, de 4,9 uit 423 reviews en daarna hoe de vest in elkaar zit.",
+      "punten": [
+        "Close-up van jullie eigen foto met vest en flasks",
+        "Claim met 4,9/5 uit 423 reviews",
+        "Opbouw met flasks, 8 vakken, reflectie en 1,5L-reservoir, plus de bundelprijs"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
