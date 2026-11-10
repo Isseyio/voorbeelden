@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "theitlist-94f8z",
+  "merk": "THE IT LIST",
+  "domein": "theitlist.nl",
+  "lead_id": "2026-11-04-theitlist.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3D2A23",
+  "kop": "Drie nieuwe invalshoeken voor THE IT LIST.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team THE IT LIST, ik heb dit gemaakt omdat ik The Charm Bar een sterk idee vind en die volgens mij nog weinig in jullie advertenties terugkomt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1051:180",
+      "titel": "Jouw verhaal",
+      "waarom": "Vertelt in één beeld wat The Charm Bar is: je eigen ketting, je eigen charms, met jullie eigen foto's tussen de woorden."
+    },
+    {
+      "node": "1051:195",
+      "titel": "Marquise of Luna Glow?",
+      "waarom": "Twee bestsellers naast elkaar laten kiezen werkt goed bij oorbellen, en de vraag nodigt uit om te reageren."
+    },
+    {
+      "node": "1051:218",
+      "titel": "Drie charms",
+      "waarom": "Laat zien hoe je charms combineert, met per charm een korte reden en de echte prijs."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live in Nederland"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1051:236",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de IT Girls",
+    "kop": "Welkom bij de IT Girls",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers met de 10% korting en het gratis cadeau die jullie al beloven, wat ze van jullie kunnen verwachten, en The Charm Bar als volgende stap.",
+    "punten": [
+      "10% korting en een gratis cadeau, zoals op jullie site",
+      "Zelfde dag verzonden, gratis verzending vanaf €70, gratis gravure",
+      "The Charm Bar als tweede stap"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1051:236",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de IT Girls",
+      "kop": "Welkom bij de IT Girls",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers met de 10% korting en het gratis cadeau die jullie al beloven, wat ze van jullie kunnen verwachten, en The Charm Bar als volgende stap.",
+      "punten": [
+        "10% korting en een gratis cadeau, zoals op jullie site",
+        "Zelfde dag verzonden, gratis verzending vanaf €70, gratis gravure",
+        "The Charm Bar als tweede stap"
+      ]
+    },
+    {
+      "node": "1051:261",
+      "type": "Bestsellers",
+      "onderwerp": "De sieraden die iedereen stapelt",
+      "kop": "Bestsellers om te stapelen",
+      "tekst": "Vier bestsellers naast elkaar met prijs en knop, afgesloten met Bo en de 40.000 vrouwen die al een sieraad kozen.",
+      "punten": [
+        "Marquise Studs, Tennis Necklace, IT Chapter Bracelet, Coin Charm",
+        "Echte prijzen van jullie site",
+        "Afsluiting met Bo als gezicht van het merk"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
