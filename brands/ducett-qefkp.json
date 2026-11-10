@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "ducett-qefkp",
+  "merk": "DUCETT",
+  "domein": "ducett.com",
+  "lead_id": "2026-11-01-ducett.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#9C7A3C",
+  "kop": "Drie nieuwe invalshoeken voor DUCETT",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team DUCETT, ik heb dit gemaakt omdat jullie elke naam en letter zelf graveren in jullie eigen atelier, en dat verdient een vaste plek in jullie advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1215:134",
+      "titel": "Charm voor charm",
+      "waarom": "Labels bij de echte Aura-ketting laten in één oogopslag zien wat je samenstelt en wat elk onderdeel kost."
+    },
+    {
+      "node": "1215:153",
+      "titel": "Gegraveerd in het atelier",
+      "waarom": "De eigen gravure en de kenmerken rond de pols geven vertrouwen voordat iemand doorklikt."
+    },
+    {
+      "node": "1215:174",
+      "titel": "Jouw naam",
+      "waarom": "Begint bij wat mensen zelf zoeken en toont meteen drie producten met prijs."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft MAMALOVES nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1215:196",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij DUCETT, je 10% staat klaar",
+    "kop": "Welkom bij DUCETT",
+    "tekst": "Fijn dat je er bent. Je 10% welkomstkorting voor je eerste bestelling staat klaar, en we laten je zien hoe we elk sieraad in ons atelier graveren.",
+    "punten": [
+      "Gratis gravure: naam, letter of datum",
+      "Waterproof, verkleurt niet en nikkelvrij",
+      "2 jaar garantie op al onze sieraden"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1215:196",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij DUCETT, je 10% staat klaar",
+      "kop": "Welkom bij DUCETT",
+      "tekst": "Fijn dat je er bent. Je 10% welkomstkorting voor je eerste bestelling staat klaar, en we laten je zien hoe we elk sieraad in ons atelier graveren.",
+      "punten": [
+        "Gratis gravure: naam, letter of datum",
+        "Waterproof, verkleurt niet en nikkelvrij",
+        "2 jaar garantie op al onze sieraden"
+      ]
+    },
+    {
+      "node": "1215:226",
+      "type": "Productspotlight",
+      "onderwerp": "Bouw je eigen Aura-ketting",
+      "kop": "Jouw ketting, jouw verhaal",
+      "tekst": "De Aura collectie: kies je ketting in goud of zilver en voeg letters en geboortestenen toe.",
+      "punten": [
+        "Aura ketting goud of zilver, €32",
+        "Letter-charm voor elke letter, €14",
+        "Geboortesteen-charm voor jouw maand, €16",
+        "4,8 uit 5 op basis van ruim 6.000 reviews"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "snoozzz-ddv3r",
+  "merk": "Snoozzz",
+  "domein": "snoozzz.com",
+  "lead_id": "2026-10-31-snoozzz.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5F6A63",
+  "kop": "Drie nieuwe invalshoeken voor Snoozzz",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Snoozzz, ik heb dit gemaakt omdat jullie verhaal begon met een slaapwikkel die jullie zelf voor Ralph maakten en testten. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1206:3",
+      "titel": "Uitgerust wakker worden",
+      "waarom": "Eén grote belofte met echte foto's tussen de woorden valt op tussen gewone productfoto's in de feed."
+    },
+    {
+      "node": "1206:116",
+      "titel": "Teddy of katoen",
+      "waarom": "Twee hoezen naast elkaar laten mensen kiezen in plaats van twijfelen of ze het kussen nodig hebben."
+    },
+    {
+      "node": "1206:146",
+      "titel": "Vitamine als dagroutine",
+      "waarom": "Een routinekaart laat zien hoe makkelijk de vitamine in een gewone dag past, en opent de deur naar een herhaalaankoop."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien babymerken op Instagram.",
+    "tekst": "Aanstaande ouders zoeken niet actief naar een zwangerschapskussen, ze zien het tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, blijven nieuwe ouders bereiken en houden hun kosten per aankoop laag. Een welkomstmail en een vaste nieuwsbrief zorgen dat ze later terugkomen voor vitamines en babyspullen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids- en babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "60+",
+        "label": "advertenties heeft Strex nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1206:247",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Snoozzz",
+    "kop": "Welkom bij Snoozzz",
+    "tekst": "Fijn dat je er bent. Sinds 2007 maken we mooie en praktische producten voor vóór, tijdens en na je zwangerschap.",
+    "punten": [
+      "Gemaakt in Europa",
+      "Oeko-Tex 100",
+      "14 proefnachten"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1206:247",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Snoozzz",
+      "kop": "Welkom bij Snoozzz",
+      "tekst": "Fijn dat je er bent. Sinds 2007 maken we mooie en praktische producten voor vóór, tijdens en na je zwangerschap.",
+      "punten": [
+        "Gemaakt in Europa",
+        "Oeko-Tex 100",
+        "14 proefnachten"
+      ]
+    },
+    {
+      "node": "1207:61",
+      "type": "Assortimentsmail",
+      "onderwerp": "Onze favorieten voor jouw zwangerschap",
+      "kop": "Alles voor vóór, tijdens en na je zwangerschap",
+      "tekst": "Van een kussen waarop je weer goed slaapt tot vitamines voor elke dag. Dit zijn onze favorieten.",
+      "punten": [
+        "Zwangerschapskussen Stone €74,00",
+        "Zwangerschapskussen Teddy Sand €78,00",
+        "Zwangerschap Vitamine €49,99",
+        "4,5/5 op basis van 177 reviews"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

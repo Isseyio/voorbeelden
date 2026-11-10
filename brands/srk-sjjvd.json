@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "srk-sjjvd",
+  "merk": "Super Rich Kids",
+  "domein": "superrichkids.com",
+  "lead_id": "2026-10-31-superrichkids.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#9E182D",
+  "kop": "Drie nieuwe invalshoeken voor SRK",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team SRK, ik heb dit gemaakt omdat jullie jerseys op de modelfoto's zo sterk overkomen dat ze een grotere rol in de advertenties verdienen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1214:4",
+      "titel": "Bespaar €20",
+      "waarom": "Een duidelijk prijsvoordeel bovenaan met het grote logo over een echte modelfoto valt meteen op in de feed."
+    },
+    {
+      "node": "1214:21",
+      "titel": "Oversized tees",
+      "waarom": "Eén groot woord en drie tees naast elkaar laten in één oogopslag zien wat je kunt kiezen."
+    },
+    {
+      "node": "1214:53",
+      "titel": "The New Rich belt",
+      "waarom": "Een speelse inkomende oproep zorgt dat mensen even stoppen met scrollen, met de jersey groot in beeld."
+    }
+  ],
+  "waarom": {
+    "niche": "mode & basics",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een welkomstmail en een vaste nieuwsbrief zorgen dat die kopers terugkomen bij de volgende drop.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Filling Pieces nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1215:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de SRK Society",
+    "kop": "Welkom bij de SRK Society.",
+    "tekst": "Fijn dat je erbij bent. Wij maken premium, unisex oversized essentials om echt in te leven. Want bij ons is happiness the new rich.",
+    "punten": [
+      "Oversized Jersey 'Black & Red' €69,50",
+      "T-Shirt 'Patch' Red €59,50",
+      "Gratis verzending vanaf €100"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1215:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de SRK Society",
+      "kop": "Welkom bij de SRK Society.",
+      "tekst": "Fijn dat je erbij bent. Wij maken premium, unisex oversized essentials om echt in te leven. Want bij ons is happiness the new rich.",
+      "punten": [
+        "Oversized Jersey 'Black & Red' €69,50",
+        "T-Shirt 'Patch' Red €59,50",
+        "Gratis verzending vanaf €100"
+      ]
+    },
+    {
+      "node": "1215:92",
+      "type": "Productvergelijking",
+      "onderwerp": "Welke jersey past bij jou?",
+      "kop": "Welke jersey past bij jou?",
+      "tekst": "Twee oversized jerseys met een V-hals, allebei unisex. Zo zie je in één keer het verschil.",
+      "punten": [
+        "'Black & Red': rode strepen op de mouwen",
+        "'Monaco Racing': racer patches op de mouwen",
+        "46% katoen / 54% polyester, oversized fit"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "mesamis-er9t6",
+  "merk": "MESAMIS",
+  "domein": "enjoymesamis.com",
+  "lead_id": "2026-11-02-enjoymesamis.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#002857",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor MESAMIS",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team MESAMIS, ik heb dit gemaakt omdat jullie alcoholvrije spirits in kleine batches bij The Stillery in Amsterdam laten maken, en dat verhaal verdient meer aandacht. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1212:4",
+      "titel": "Gin-tonic zonder alcohol",
+      "waarom": "Een grote kop met kleine foto's ertussen leest als een zin en laat in één keer zien wat London Juniper doet: alle smaak, geen alcohol."
+    },
+    {
+      "node": "1212:16",
+      "titel": "Gratis bezorgd",
+      "waarom": "Jullie echte aanbod (gratis bezorging vanaf 2 flessen) bovenaan zet mensen aan tot een tweede fles en verhoogt zo de orderwaarde."
+    },
+    {
+      "node": "1212:26",
+      "titel": "De Sunset Spritz belt",
+      "waarom": "Een speels belscherm valt op tussen gewone posts en zet Sicilian Orange als nieuwste fles in de spotlight."
+    }
+  ],
+  "waarom": {
+    "niche": "drankmerken",
+    "kop": "Zo groeien drankmerken op Instagram.",
+    "tekst": "Een nieuwe drank proef je niet online, dus mensen kiezen op beeld en moment: de borrel, de zomer, de spritz. Merken die elke week nieuwe advertenties testen, vinden steeds de momenten die werken en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat kopers terugkomen voor de volgende fles.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij drankmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft NONA Drinks nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1213:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Amis",
+    "kop": "Welkom bij de Amis",
+    "tekst": "Een warme eerste kennismaking: waar MESAMIS voor staat, wat er in de flessen zit en een makkelijke eerste stap met het Ultimate Tasting Pack.",
+    "punten": [
+      "Paardenbloem, duinwater en 0,0% alcohol in drie iconen",
+      "Tasting pack als eerste aankoop, met gratis bezorging vanaf 2 flessen",
+      "Gemaakt met jullie eigen foto's"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1213:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Amis",
+      "kop": "Welkom bij de Amis",
+      "tekst": "Een warme eerste kennismaking: waar MESAMIS voor staat, wat er in de flessen zit en een makkelijke eerste stap met het Ultimate Tasting Pack.",
+      "punten": [
+        "Paardenbloem, duinwater en 0,0% alcohol in drie iconen",
+        "Tasting pack als eerste aankoop, met gratis bezorging vanaf 2 flessen",
+        "Gemaakt met jullie eigen foto's"
+      ]
+    },
+    {
+      "node": "1213:61",
+      "type": "Assortimentsmail",
+      "onderwerp": "Drie spirits, nul procent alcohol",
+      "kop": "Welke MESAMIS past bij jou?",
+      "tekst": "Het hele assortiment in één mail: per fles waar hij voor is, de prijs en een knop, afgesloten met een echte klantreview.",
+      "punten": [
+        "London Juniper, Caribbean Cane, Sicilian Orange en het tasting pack",
+        "Per fles een serveertip: tonic, Cuba Libre of spritz",
+        "Review van een klant als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
