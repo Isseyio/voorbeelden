@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "beddinghouse-s7yp3",
+  "merk": "Beddinghouse",
+  "domein": "beddinghouse.com",
+  "lead_id": "2026-10-31-beddinghouse.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#7D8B6A",
+  "kop": "Beddengoed dat je wilt aanraken, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Beddinghouse, ik heb dit gemaakt omdat jullie mooie eigen foto's hebben en ik in de advertentiebibliotheek van Meta geen advertenties van jullie eigen pagina zag. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1226:4",
+      "titel": "Gratis verzending vanaf €79",
+      "waarom": "Een echt voordeel bovenaan, met jullie logo groot over een rustige slaapkamerfoto: herkenbaar en direct duidelijk."
+    },
+    {
+      "node": "1226:15",
+      "titel": "Zo zacht voelt katoensatijn",
+      "waarom": "Een close-up met korte labels laat de kwaliteit zien die je online niet kunt voelen."
+    },
+    {
+      "node": "1226:41",
+      "titel": "Welke maat past bij jouw bed?",
+      "waarom": "Maatkeuze is een veelgestelde vraag bij beddengoed; deze advertentie haalt die twijfel weg."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en textiel",
+    "kop": "Zo groeien woon- en textielmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken nieuw beddengoed niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woon- en textielmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Walra nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1227:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Beddinghouse",
+    "kop": "Welkom bij Beddinghouse",
+    "tekst": "Een rustige welkomstmail in jullie groen: wie jullie zijn, de drie voordelen bij bestellen en hulp bij de keuze tussen satijn en flanel.",
+    "punten": [
+      "Gratis verzending vanaf €79, vóór 15:00 besteld dezelfde dag verzonden",
+      "30 dagen bedenktijd",
+      "Satijn of flanel: Gloss, Tuuli en Vernon"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1227:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Beddinghouse",
+      "kop": "Welkom bij Beddinghouse",
+      "tekst": "Een rustige welkomstmail in jullie groen: wie jullie zijn, de drie voordelen bij bestellen en hulp bij de keuze tussen satijn en flanel.",
+      "punten": [
+        "Gratis verzending vanaf €79, vóór 15:00 besteld dezelfde dag verzonden",
+        "30 dagen bedenktijd",
+        "Satijn of flanel: Gloss, Tuuli en Vernon"
+      ]
+    },
+    {
+      "node": "1227:35",
+      "type": "Merkverhaal",
+      "onderwerp": "Beddengoed uit Lisse, sinds 1978",
+      "kop": "Beddengoed uit Lisse, sinds 1978.",
+      "tekst": "Het verhaal van het familiebedrijf, met Gloss uitgelicht in vier kenmerken en een winterse afsluiting.",
+      "punten": [
+        "Familiebedrijf, verkocht in meer dan 30 landen",
+        "Gloss: katoensatijn 220 TC met Oxford-rand",
+        "Wasbaar tot 60 graden"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

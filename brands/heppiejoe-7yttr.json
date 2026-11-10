@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "heppiejoe-7yttr",
+  "merk": "Heppiejoe",
+  "domein": "heppiejoe.nl",
+  "lead_id": "2026-10-31-heppiejoe.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#7A6556",
+  "kop": "Handgemaakt in het atelier, nu ook in je tijdlijn.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Heppiejoe, ik heb dit gemaakt omdat jullie foto's van baby's in de wikkeldoeken zo rustig en echt zijn, en omdat alles in jullie eigen atelier met de hand gemaakt wordt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1221:3",
+      "titel": "Blauw of mauve?",
+      "waarom": "Twee kleuren naast elkaar laten kiezen voelt als een spelletje en laat meteen zien dat er keuze is."
+    },
+    {
+      "node": "1221:23",
+      "titel": "Kies je stof",
+      "waarom": "Vier stoffen met echte foto's maken het handwerk en de kwaliteit zichtbaar voor ouders die het merk nog niet kennen."
+    },
+    {
+      "node": "1221:46",
+      "titel": "Prijs en logo voorop",
+      "waarom": "Een duidelijke prijs met het logo groot in beeld werkt goed voor wie een kraamcadeau zoekt en snel wil weten waar hij aan toe is."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien babymerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw babymerk niet via Google, maar tijdens het scrollen, vaak op zoek naar een kraamcadeau. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat ouders terugkomen als hun baby groeit.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Kraam-cadeau.nl nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1223:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Heppiejoe, hier is je 10%",
+    "kop": "Welkom bij Heppiejoe",
+    "tekst": "Een warme welkomstmail voor nieuwe inschrijvers: de echte 10% welkomstkorting voorop, wat ouders van Heppiejoe mogen verwachten en het verhaal van Marrit, dat in 2015 begon.",
+    "punten": [
+      "Echte 10% korting op de eerste bestelling als haakje",
+      "Handgemaakt, OEKO-TEX en de 9.4 van klanten in drie iconen",
+      "Het eigen verhaal van Heppiejoe als tweede blok"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1223:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Heppiejoe, hier is je 10%",
+      "kop": "Welkom bij Heppiejoe",
+      "tekst": "Een warme welkomstmail voor nieuwe inschrijvers: de echte 10% welkomstkorting voorop, wat ouders van Heppiejoe mogen verwachten en het verhaal van Marrit, dat in 2015 begon.",
+      "punten": [
+        "Echte 10% korting op de eerste bestelling als haakje",
+        "Handgemaakt, OEKO-TEX en de 9.4 van klanten in drie iconen",
+        "Het eigen verhaal van Heppiejoe als tweede blok"
+      ]
+    },
+    {
+      "node": "1223:43",
+      "type": "Assortimentsmail",
+      "onderwerp": "Warm ingepakt, deze winter",
+      "kop": "Warm ingepakt, deze winter.",
+      "tekst": "Een seizoensmail met vier favoriete wikkeldoeken en wiegdekens, elk met prijs en knop, en de klantwaardering van 9.4 als afsluiter.",
+      "punten": [
+        "Vier producten met foto, prijs en directe knop",
+        "Gratis verzending vanaf €99 in de bovenbalk",
+        "Reviewblok met een foto uit het atelier"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

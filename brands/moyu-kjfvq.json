@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "moyu-kjfvq",
+  "merk": "MOYU",
+  "domein": "moyu-notebooks.com",
+  "lead_id": "2026-10-31-moyu-notebooks.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#40A460",
+  "kop": "Een notitieboek dat je wist, in drie advertenties.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team MOYU, ik heb dit gemaakt omdat een notitieboek dat je tot 500 keer wist zich goed laat zien in een korte advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1219:205",
+      "titel": "Ink it. Wipe it. Love it.",
+      "waarom": "Jullie eigen slogan als grote kop met echte foto's van schrijven en wissen: in één blik zie je hoe het werkt."
+    },
+    {
+      "node": "1219:220",
+      "titel": "Je notitieboek belt",
+      "waarom": "Een speels belscherm valt op tussen gewone posts en zet het wissen centraal."
+    },
+    {
+      "node": "1219:230",
+      "titel": "Elke week een schone lei",
+      "waarom": "De weekstrip laat zonder lange uitleg zien dat één notitieboek week na week meegaat."
+    }
+  ],
+  "waarom": {
+    "niche": "stationery",
+    "kop": "Zo groeien stationerymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw notitieboek niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij stationerymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Bambook nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1220:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij MOYU: 10% op je eerste notitieboek",
+    "kop": "Welkom bij MOYU",
+    "tekst": "Een welkomstmail met jullie eigen code ENJOYMOYU, twee bestsellers en in drie stappen hoe schrijven en wissen werkt.",
+    "punten": [
+      "Welkomstcode ENJOYMOYU groot in beeld",
+      "Flashy Moss A5 en de Back to Stone collectie",
+      "Zo werkt het: schrijf, wis, opnieuw"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1220:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij MOYU: 10% op je eerste notitieboek",
+      "kop": "Welkom bij MOYU",
+      "tekst": "Een welkomstmail met jullie eigen code ENJOYMOYU, twee bestsellers en in drie stappen hoe schrijven en wissen werkt.",
+      "punten": [
+        "Welkomstcode ENJOYMOYU groot in beeld",
+        "Flashy Moss A5 en de Back to Stone collectie",
+        "Zo werkt het: schrijf, wis, opnieuw"
+      ]
+    },
+    {
+      "node": "1220:38",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom we notitieboeken van steen maken",
+      "kop": "Waarom steenpapier?",
+      "tekst": "Het verhaal achter het steenpapier, met het notitieboek uitgelicht in vier kenmerken en een afsluiting in jullie groen.",
+      "punten": [
+        "Ongeveer 80% kalksteenpoeder, water- en scheurbestendig",
+        "Hardcover, 40 pagina's, pen en wisdoekje",
+        "1 MOYU = 1 boom geplant"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

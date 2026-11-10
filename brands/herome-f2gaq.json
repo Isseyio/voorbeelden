@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "herome-f2gaq",
+  "merk": "Herome",
+  "domein": "herome.com",
+  "lead_id": "2026-10-31-herome.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#253B80",
+  "kop": "Drie nieuwe invalshoeken voor Herome",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Herome, ik heb dit gemaakt omdat jullie kuur van 30 dagen eigenlijk al een heel duidelijk verhaal is voor een advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1219:4",
+      "titel": "De kuur van 30 dagen",
+      "waarom": "Een dagenstrook maakt in één blik duidelijk hoe de kuur werkt en waarom je hem vier keer per jaar herhaalt."
+    },
+    {
+      "node": "1219:38",
+      "titel": "Sterk én soepel",
+      "waarom": "Twee producten met pijlen laten zien welke stap wat doet, zonder lange uitleg."
+    },
+    {
+      "node": "1219:55",
+      "titel": "Je nagelriemen bellen",
+      "waarom": "Een herkenbaar belscherm stopt de duim tijdens het scrollen en zet de Wonderpen in het midden."
+    }
+  ],
+  "waarom": {
+    "niche": "beauty",
+    "kop": "Zo groeien beautymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw verzorgingsproduct niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende kuur.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij beautymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij beautymerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1219:68",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Herome",
+    "kop": "Welkom bij Herome",
+    "tekst": "Al sinds 1982 de specialist in hand- en nagelverzorging, ontworpen en gemaakt in Nederland. Een warme start voor nieuwe inschrijvers, met de Wonderpen als eerste tip.",
+    "punten": [
+      "Duurzaam, cruelty-free en HEMA-vrij",
+      "Wonderpen nu met gratis Cuticle Pusher",
+      "Voor 15.00 uur besteld, dezelfde werkdag verzonden"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1219:68",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Herome",
+      "kop": "Welkom bij Herome",
+      "tekst": "Al sinds 1982 de specialist in hand- en nagelverzorging, ontworpen en gemaakt in Nederland. Een warme start voor nieuwe inschrijvers, met de Wonderpen als eerste tip.",
+      "punten": [
+        "Duurzaam, cruelty-free en HEMA-vrij",
+        "Wonderpen nu met gratis Cuticle Pusher",
+        "Voor 15.00 uur besteld, dezelfde werkdag verzonden"
+      ]
+    },
+    {
+      "node": "1219:98",
+      "type": "Merkverhaal",
+      "onderwerp": "Sterke nagels, sinds 1982",
+      "kop": "Sterke nagels, sinds 1982",
+      "tekst": "Het verhaal van Margreet van Roemburg, die Herome begon met een oplossing voor haar eigen zwakke nagels, met de Nagelverharder Extra Sterk uitgelicht.",
+      "punten": [
+        "Meer dan 200 producten in meer dan 25 landen",
+        "Provitamine B5, vitamine C en E en selderijzaadextract",
+        "Een kuur van 30 dagen, vier keer per jaar",
+        "Nagelverharder Extra Sterk, 10 ml, €17,88"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

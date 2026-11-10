@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "copa-9qw5q",
+  "merk": "COPA",
+  "domein": "copafootball.com",
+  "lead_id": "2026-11-02-copafootball.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Drie nieuwe invalshoeken voor COPA, van prijs tot borduurwerk.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team COPA, ik heb dit gemaakt omdat jullie sinds 1998 retro voetbalshirts in Europa laten maken, tot het geborduurde Maradona-embleem op het Boca-shirt aan toe. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1215:466",
+      "titel": "€79,95 en een groot logo",
+      "waarom": "De echte prijs groot bovenaan en het COPA-logo over jullie eigen modelfoto vallen meteen op tussen gewone posts."
+    },
+    {
+      "node": "1215:474",
+      "titel": "Het embleem van dichtbij",
+      "waarom": "Een close-up van het borduurwerk met korte labels laat de kwaliteit zien die je op een kleine productfoto mist."
+    },
+    {
+      "node": "1215:494",
+      "titel": "Sinds 1998",
+      "waarom": "Eén groot jaartal en drie shirts naast elkaar vertellen in een seconde wie COPA is en wat je er kunt kopen."
+    }
+  ],
+  "waarom": {
+    "niche": "voetbalmode",
+    "kop": "Zo groeien kledingmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij kledingmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Unisport nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1215:514",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de club",
+    "kop": "Welkom bij de club.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% korting die jullie al beloven, wat COPA anders maakt en meteen twee shirts om mee te beginnen.",
+    "punten": [
+      "De 10% korting op de volgende bestelling als welkom",
+      "Gemaakt in Europa en verpakt in een luxe cadeaudoos",
+      "Panini en Turfy Gang uitgelicht met prijs en knop"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1215:514",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de club",
+      "kop": "Welkom bij de club.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% korting die jullie al beloven, wat COPA anders maakt en meteen twee shirts om mee te beginnen.",
+      "punten": [
+        "De 10% korting op de volgende bestelling als welkom",
+        "Gemaakt in Europa en verpakt in een luxe cadeaudoos",
+        "Panini en Turfy Gang uitgelicht met prijs en knop"
+      ]
+    },
+    {
+      "node": "1215:547",
+      "type": "Merkverhaal",
+      "onderwerp": "Sinds 1998 gemaakt in Europa",
+      "kop": "Sinds 1998 gemaakt in Europa.",
+      "tekst": "Een mail over het verhaal achter COPA: opgericht in 1998 door een voetbalverslaafde, gemaakt in Portugal en Italië, en te vinden in meer dan twintig landen.",
+      "punten": [
+        "Hoe het begon in 1998",
+        "Productiefoto met waar en waarvan de shirts gemaakt worden",
+        "Flagship stores in Amsterdam, Barcelona en Stockholm"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

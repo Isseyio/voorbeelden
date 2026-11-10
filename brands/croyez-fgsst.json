@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "croyez-fgsst",
+  "merk": "Croyez",
+  "domein": "croyezhomme.com",
+  "lead_id": "2026-10-31-croyezhomme.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Croyez en Vous, in drie nieuwe advertenties.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Croyez, ik heb dit gemaakt omdat jullie merk zo'n duidelijk verhaal heeft, van die eerste ketting tot de Paris Knit in vijf kleuren. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1219:130",
+      "titel": "Eén trui, vijf kleuren",
+      "waarom": "Twee kleuren naast elkaar en de rest eronder laat meteen zien dat er voor iedereen een Paris Knit is."
+    },
+    {
+      "node": "1219:163",
+      "titel": "Het logo op de rug",
+      "waarom": "Kaders bij de details vertellen in een paar seconden waarom deze trui €130 waard is."
+    },
+    {
+      "node": "1219:188",
+      "titel": "Croyez en Vous",
+      "waarom": "Het motto groot in beeld bouwt merkgevoel op bij mensen die Croyez nog niet kennen."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende drop.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Malelions nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1219:256",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Croyez (en €10 korting)",
+    "kop": "Welkom bij Croyez",
+    "tekst": "Croyez en Vous: geloof in jezelf. Dat motto zit in elk stuk. Als welkom €10 korting op een bestelling vanaf €100.",
+    "punten": [
+      "Voor 21:00 besteld, vandaag verzonden",
+      "Gratis verzending vanaf €90 (NL & BE)",
+      "Gratis ruilen binnen 30 dagen",
+      "Het verhaal: begonnen met één ketting in 2019"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1219:256",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Croyez (en €10 korting)",
+      "kop": "Welkom bij Croyez",
+      "tekst": "Croyez en Vous: geloof in jezelf. Dat motto zit in elk stuk. Als welkom €10 korting op een bestelling vanaf €100.",
+      "punten": [
+        "Voor 21:00 besteld, vandaag verzonden",
+        "Gratis verzending vanaf €90 (NL & BE)",
+        "Gratis ruilen binnen 30 dagen",
+        "Het verhaal: begonnen met één ketting in 2019"
+      ]
+    },
+    {
+      "node": "1219:287",
+      "type": "Productvergelijking",
+      "onderwerp": "Korte of lange mouw?",
+      "kop": "Korte of lange mouw?",
+      "tekst": "Studios Raglan T-shirt en Two Tone Longsleeve naast elkaar: mouw, stof, kleuren en prijs.",
+      "punten": [
+        "Studios Raglan T-Shirt · €75",
+        "Two Tone Longsleeve · €90",
+        "Allebei oversized en 100% katoen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
