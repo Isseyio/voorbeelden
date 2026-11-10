@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "koekfabriek-es2er",
+  "merk": "De Koekfabriek",
+  "domein": "dekoekfabriek.com",
+  "lead_id": "2026-11-10-dekoekfabriek.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#44251C",
+  "kop": "Koekies met een verhaal, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team De Koekfabriek, ik heb dit gemaakt omdat jullie brievenbusdoosjes en de koekjes met oogjes eigenlijk vragen om gezien te worden. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1058:4",
+      "titel": "Vier koeken in één doosje",
+      "waarom": "Laat in één beeld zien wat er in het brievenbusdoosje zit en wat het kost, zodat iemand meteen weet wat hij koopt."
+    },
+    {
+      "node": "1058:24",
+      "titel": "Koekies als relatiegeschenk",
+      "waarom": "Speelt in op waar mensen nu naar zoeken: een cadeau voor Sint en Kerst dat ook iets goeds doet."
+    },
+    {
+      "node": "1058:41",
+      "titel": "De koekie trommel belt",
+      "waarom": "Een speelse invalshoek die past bij jullie humor en tijdens het scrollen opvalt."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien foodmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw foodmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10",
+        "label": "advertenties heeft Brownies.nl nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1059:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Nieuwskruimels",
+    "kop": "Welkom bij de Nieuwskruimels!",
+    "tekst": "Een welkomstmail voor iedereen die zich inschrijft: wie jullie zijn, waarom elke koek een kans op werk geeft, en meteen de favorieten en het brievenbusdoosje.",
+    "punten": [
+      "Kort welkom in jullie eigen toon",
+      "Drie favorieten met prijs en bestelknop",
+      "Het brievenbusdoosje als cadeau-idee"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1059:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Nieuwskruimels",
+      "kop": "Welkom bij de Nieuwskruimels!",
+      "tekst": "Een welkomstmail voor iedereen die zich inschrijft: wie jullie zijn, waarom elke koek een kans op werk geeft, en meteen de favorieten en het brievenbusdoosje.",
+      "punten": [
+        "Kort welkom in jullie eigen toon",
+        "Drie favorieten met prijs en bestelknop",
+        "Het brievenbusdoosje als cadeau-idee"
+      ]
+    },
+    {
+      "node": "1059:55",
+      "type": "Merkverhaal",
+      "onderwerp": "Wij bakken koekies én kansen",
+      "kop": "Wij bakken koekies én kansen",
+      "tekst": "Een mail over de bakkerij in Wageningen en het team, met het koekdoosje uitgelicht en aan het eind de zakelijke geschenken voor Sint en Kerst.",
+      "punten": [
+        "Echte foto's uit de bakkerij",
+        "Het koekdoosje met vier labels",
+        "Relatiegeschenken voor Sint en Kerst"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
