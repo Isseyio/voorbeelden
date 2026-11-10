@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "calgari-5k8cm",
+  "merk": "Calgari",
+  "domein": "calgari.com",
+  "lead_id": "2026-11-02-calgari.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#254D50",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Calgari.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Calgari, ik heb dit gemaakt omdat ik jullie idee van een horloge zonder meldingen sterk vind. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1051:4",
+      "titel": "€469, 100 stuks",
+      "waarom": "Prijs en oplage groot in beeld boven een sfeervolle draagfoto: wie twijfelt, weet meteen waar hij aan toe is."
+    },
+    {
+      "node": "1051:14",
+      "titel": "Gemaakt met",
+      "waarom": "Vier details met eigen foto's laten in één beeld zien waarom de Nero zijn prijs waard is."
+    },
+    {
+      "node": "1051:36",
+      "titel": "Even niet",
+      "waarom": "Een belscherm dat je wegdrukt maakt jullie verhaal over rust speels en valt op in de feed."
+    }
+  ],
+  "waarom": {
+    "niche": "horloges",
+    "kop": "Zo groeien horlogemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw horlogemerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Rosefield nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1051:50",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Calgari",
+    "kop": "Welkom bij Calgari",
+    "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: waar Calgari voor staat en dat je de chronograaf 30 dagen thuis kunt proberen.",
+    "punten": [
+      "100 stuks per editie, elk horloge genummerd",
+      "2 jaar garantie en 30 dagen retour",
+      "Tweede blok met een draagfoto: probeer hem thuis"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1051:50",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Calgari",
+      "kop": "Welkom bij Calgari",
+      "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: waar Calgari voor staat en dat je de chronograaf 30 dagen thuis kunt proberen.",
+      "punten": [
+        "100 stuks per editie, elk horloge genummerd",
+        "2 jaar garantie en 30 dagen retour",
+        "Tweede blok met een draagfoto: probeer hem thuis"
+      ]
+    },
+    {
+      "node": "1051:81",
+      "type": "Merkverhaal",
+      "onderwerp": "Een vast anker in je dag",
+      "kop": "Een vast anker in je dag.",
+      "tekst": "Een merkverhaal over hoe drie vrienden in 2019 in Amsterdam met Calgari begonnen, met de Nero Reverse Panda en zijn details uitgelicht.",
+      "punten": [
+        "Saffierglas, porselein-emaille wijzerplaat, Seiko VK64",
+        "Nero Reverse Panda, €469, gelimiteerd tot 100 stuks",
+        "Afsluiter met een draagfoto: waar hij past"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
