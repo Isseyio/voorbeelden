@@ -1,0 +1,32 @@
+# Publiceert de voorbeeldpagina's. Een lopende publicatie wordt NIET afgebroken door nieuwe commits
+# (de app maakt er tientallen per uur); de nieuwste commit wordt daarna als volgende gepubliceerd.
+name: Publiceer pagina's
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Bestanden klaarzetten
+        run: |
+          mkdir -p _site
+          rsync -a --exclude '.git' --exclude '.github' --exclude '_test' --exclude '*/src/' --exclude '_eigen-ads/' ./ _site/
+          cp -r _eigen-ads _site/_eigen-ads 2>/dev/null || true
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4
