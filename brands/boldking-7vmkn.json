@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "boldking-7vmkn",
+  "merk": "Boldking",
+  "domein": "boldking.com",
+  "lead_id": "2026-11-02-boldking.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#00A199",
+  "kop": "Kan jouw advertentie dit?",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Boldking, ik heb dit gemaakt omdat jullie toon ('cuts the crap') zich goed leent voor advertenties met een knipoog. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1082:220",
+      "titel": "Nieuwe mesjes bellen aan",
+      "waarom": "Een herkenbaar telefoonscherm laat in één beeld zien waarom een abonnement handig is: de mesjes komen vanzelf."
+    },
+    {
+      "node": "1082:313",
+      "titel": "Koop deze scheergel niet",
+      "waarom": "Een omgekeerde kop zorgt dat mensen blijven hangen, en de onderregel geeft meteen de echte reden om te kopen."
+    },
+    {
+      "node": "1082:334",
+      "titel": "Bespaar 20%",
+      "waarom": "Het echte voordeel van BoldkingRepeat bovenaan, met een eigen modelfoto eronder, werkt goed voor mensen die het merk al kennen."
+    }
+  ],
+  "waarom": {
+    "niche": "verzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw verzorgingsmerk niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe: dezelfde mensen zien hem steeds weer en klikken minder. Merken die elke week nieuwe varianten testen, houden hun kosten per aankoop laag, en een vaste nieuwsbrief helpt abonnees vasthouden.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1082:411",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Boldking",
+    "kop": "Welkom bij Boldking. Waarom moeilijk doen als het makkelijk kan?",
+    "tekst": "Met BoldkingRepeat krijg je altijd 20% korting op je abonnement en gratis thuisbezorgd. Wat, wanneer en hoe vaak: jij bent de baas.",
+    "punten": [
+      "Handle & Blade vanaf €9,99",
+      "Foaming shave gel Original 185ml, nu €3,99",
+      "Aftershave Cream Sensitive €5,99",
+      "Shaving Set Sensitive €24,99, of €19,99 met abonnement"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1082:411",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Boldking",
+      "kop": "Welkom bij Boldking. Waarom moeilijk doen als het makkelijk kan?",
+      "tekst": "Met BoldkingRepeat krijg je altijd 20% korting op je abonnement en gratis thuisbezorgd. Wat, wanneer en hoe vaak: jij bent de baas.",
+      "punten": [
+        "Handle & Blade vanaf €9,99",
+        "Foaming shave gel Original 185ml, nu €3,99",
+        "Aftershave Cream Sensitive €5,99",
+        "Shaving Set Sensitive €24,99, of €19,99 met abonnement"
+      ]
+    },
+    {
+      "node": "1082:460",
+      "type": "Productspotlight",
+      "onderwerp": "Eén scheermes. Van top tot teen.",
+      "kop": "Eén scheermes. Van top tot teen.",
+      "tekst": "Onze full-body razor scheert glad. Waar dan ook. Gezicht, lichaam, alles met hetzelfde handvat.",
+      "punten": [
+        "Handle & Blade Regular €9,99, of €7,99 met abonnement",
+        "Mesjes in normaal, gevoelig en zeer gevoelig",
+        "Ook als Limited Edition",
+        "Gratis verzending vanaf €29"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
