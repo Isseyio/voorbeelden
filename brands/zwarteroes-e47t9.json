@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "zwarteroes-e47t9",
+  "merk": "Zwarte Roes",
+  "domein": "zwarteroes.nl",
+  "lead_id": "2026-11-04-zwarteroes.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#29201D",
+  "kop": "Drie nieuwe invalshoeken voor Zwarte Roes.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Zwarte Roes, ik heb dit gemaakt omdat jullie de smaak van Blend N˚1 zo concreet beschrijven: chocolade, karamel en amandel. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1079:179",
+      "titel": "Wat proef je?",
+      "waarom": "De drie smaaktonen als echte foto's naast de zak maken in een seconde duidelijk waarom Blend N˚1 anders smaakt dan supermarktkoffie."
+    },
+    {
+      "node": "1079:201",
+      "titel": "Elke ochtend vers",
+      "waarom": "Een weekstrip laat het abonnement zien als gewoonte, met de 10% korting en altijd opzegbaar als reden om nu te starten."
+    },
+    {
+      "node": "1079:228",
+      "titel": "Je koffie belt",
+      "waarom": "Een speelse inkomende oproep valt op tussen gewone productfoto's en past bij de luchtige toon van jullie merk."
+    }
+  ],
+  "waarom": {
+    "niche": "koffie",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe koffiebrander niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe koffiedrinkers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die mensen terugkomen voor hun volgende zak, of een abonnement nemen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en koffiemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Man met de Baard nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1079:242",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de club: 10% op je eerste koffie",
+    "kop": "Welkom bij de club",
+    "tekst": "Een welkomstmail die direct na inschrijving de 10% korting laat zien, uitlegt waarom jullie koffie vers en snel binnen is, en drie startpunten geeft: Blend N˚1 in 250 g en 1 kg, en het abonnement.",
+    "punten": [
+      "10% korting op de eerste bestelling, zoals in jullie inschrijving",
+      "Vers gebrand, vóór 15:00 besteld dezelfde werkdag op weg",
+      "Drie startproducten met prijs en knop"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1079:242",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de club: 10% op je eerste koffie",
+      "kop": "Welkom bij de club",
+      "tekst": "Een welkomstmail die direct na inschrijving de 10% korting laat zien, uitlegt waarom jullie koffie vers en snel binnen is, en drie startpunten geeft: Blend N˚1 in 250 g en 1 kg, en het abonnement.",
+      "punten": [
+        "10% korting op de eerste bestelling, zoals in jullie inschrijving",
+        "Vers gebrand, vóór 15:00 besteld dezelfde werkdag op weg",
+        "Drie startproducten met prijs en knop"
+      ]
+    },
+    {
+      "node": "1079:303",
+      "type": "Merkverhaal",
+      "onderwerp": "Hoe Blend N˚1 in Zwaag gebrand wordt",
+      "kop": "Koffie die je blij maakt",
+      "tekst": "Een mail over het verhaal achter Zwarte Roes: begonnen uit liefde voor goede koffie, nu zelf gebrand in Zwaag. Daarna de smaaktonen van Blend N˚1 en een afsluiting met 'Proef 't verschil'.",
+      "punten": [
+        "Making people happy since 2017, met Marvin en Eline als afzender",
+        "Smaaktonen chocolade, karamel en amandel rond de zak",
+        "Prijs los en met abonnement in één blok"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
