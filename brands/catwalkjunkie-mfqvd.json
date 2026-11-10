@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "catwalkjunkie-mfqvd",
+  "merk": "Catwalk Junkie",
+  "domein": "catwalkjunkie.com",
+  "lead_id": "2026-11-02-catwalkjunkie.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4A1C2C",
+  "kop": "Kleur in je wintergarderobe, elke week in de feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Catwalk Junkie, ik heb dit gemaakt omdat jullie nieuwe truien en de nachtfoto's van de wintercollectie veel kleur hebben, en dat valt op tussen de rest van de feed. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1096:77",
+      "titel": "Kleur in je wintergarderobe",
+      "waarom": "Een grote, rustige kop met jullie truien in capsules tussen de woorden laat in één blik de kleuren van de nieuwe collectie zien."
+    },
+    {
+      "node": "1096:95",
+      "titel": "Vegan leather jacket",
+      "waarom": "Een duidelijke prijs bovenaan en jullie eigen nachtfoto eronder maken meteen helder wat het is en wat het kost."
+    },
+    {
+      "node": "1096:104",
+      "titel": "Merlot of plum?",
+      "waarom": "Twee truien naast elkaar nodigen uit om te kiezen, en wie kiest, klikt sneller door naar de juiste productpagina."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw modemerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als de volgende drop binnen is.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft JOSH V nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1096:158",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Catwalk Junkie",
+    "kop": "Welkom bij Catwalk Junkie.",
+    "tekst": "Fijn dat je erbij bent. Wij zijn een womenswear brand uit Amsterdam, met een funky kijk en carefree benadering op jouw day-to-day garderobe.",
+    "punten": [
+      "Gratis verzending vanaf €75",
+      "Voor 15:00 besteld, dezelfde dag verzonden",
+      "Makkelijk retourneren vanaf €4,95",
+      "10% korting op je volgende order als dank voor je inschrijving"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1096:158",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Catwalk Junkie",
+      "kop": "Welkom bij Catwalk Junkie.",
+      "tekst": "Fijn dat je erbij bent. Wij zijn een womenswear brand uit Amsterdam, met een funky kijk en carefree benadering op jouw day-to-day garderobe.",
+      "punten": [
+        "Gratis verzending vanaf €75",
+        "Voor 15:00 besteld, dezelfde dag verzonden",
+        "Makkelijk retourneren vanaf €4,95",
+        "10% korting op je volgende order als dank voor je inschrijving"
+      ]
+    },
+    {
+      "node": "1096:205",
+      "type": "Productspotlight",
+      "onderwerp": "Comfy truien, nu binnen",
+      "kop": "Comfy truien, nu binnen.",
+      "tekst": "Zacht, warm en met een beetje kleur. Vier truien uit de nieuwe collectie, met daaronder Marieke haar favorieten.",
+      "punten": [
+        "Fuzzy puff sleeve knit in Brownie, €89,99",
+        "Brushed striped knit in Plum, €119,99",
+        "Back detailed sweater in Merlot, €99,99",
+        "Polo Vneck knit in Caramel, €99,99"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

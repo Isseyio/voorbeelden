@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "fillingpieces-xgjtc",
+  "merk": "Filling Pieces",
+  "domein": "fillingpieces.com",
+  "lead_id": "2026-11-02-fillingpieces.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1B1B1B",
+  "kop": "Nieuwe invalshoeken voor de Glacier Boot en de Mondo Squash.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Filling Pieces, ik heb dit gemaakt omdat de nieuwe Glacier Boot in drie kleuren zich goed leent voor een paar frisse advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1094:132",
+      "titel": "Een klassieker belt aan",
+      "waarom": "Een speels belscherm laat de Mondo Squash opvallen tussen gewone productfoto's in de feed."
+    },
+    {
+      "node": "1094:147",
+      "titel": "Zwart of chocolade?",
+      "waarom": "Twee kleuren naast elkaar maken kiezen makkelijk, en wie kiest, klikt sneller door."
+    },
+    {
+      "node": "1094:167",
+      "titel": "GLACIER",
+      "waarom": "Eén groot woord en alle drie de kleuren laten in één blik zien wat er nieuw is."
+    }
+  ],
+  "waarom": {
+    "niche": "sneakers en schoenen",
+    "kop": "Zo groeien schoenenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe sneaker niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe: dezelfde mensen zien hem steeds weer en klikken minder. Wie elke week nieuwe varianten test, houdt de kosten per aankoop laag.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij mode- en schoenenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Axel Arigato nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1094:181",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Filling Pieces",
+    "kop": "Welkom bij Filling Pieces.",
+    "tekst": "Sneakers en boots tussen high-end mode en streetwear, handgemaakt in Portugal. Fijn dat je erbij bent.",
+    "punten": [
+      "Gratis verzending vanaf €150 naar EU, UK, US en Canada",
+      "Handgemaakt door vakmensen in Portugal",
+      "30 dagen om makkelijk te retourneren en ruilen",
+      "Nieuw: de Glacier Boot"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1094:181",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Filling Pieces",
+      "kop": "Welkom bij Filling Pieces.",
+      "tekst": "Sneakers en boots tussen high-end mode en streetwear, handgemaakt in Portugal. Fijn dat je erbij bent.",
+      "punten": [
+        "Gratis verzending vanaf €150 naar EU, UK, US en Canada",
+        "Handgemaakt door vakmensen in Portugal",
+        "30 dagen om makkelijk te retourneren en ruilen",
+        "Nieuw: de Glacier Boot"
+      ]
+    },
+    {
+      "node": "1094:211",
+      "type": "Collectiemail",
+      "onderwerp": "Autumn/Winter ’26 is binnen",
+      "kop": "Autumn/Winter ’26 is binnen.",
+      "tekst": "De Glacier Boot in drie kleuren en de Mondo Squash, met per product een korte regel en een knop.",
+      "punten": [
+        "Glacier Boot Grain Black, €350",
+        "Glacier Boot Suede Chocolate en Suede Taupe",
+        "Mondo Squash White, €220",
+        "Gratis verzending vanaf €150"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

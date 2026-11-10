@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "suitsuit-trj76",
+  "merk": "SUITSUIT",
+  "domein": "suitsuit.com",
+  "lead_id": "2026-11-01-suitsuit.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8A4B2D",
+  "kop": "Drie nieuwe invalshoeken voor de Serenity-collectie.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team SUITSUIT, ik heb dit gemaakt omdat jullie reisfoto's zo goed laten zien hoe een reis met jullie koffers voelt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1095:16",
+      "titel": "Twee tot drie weken weg",
+      "waarom": "Begint bij de reis in plaats van bij het product, en laat dan pas de duo set zien."
+    },
+    {
+      "node": "1095:31",
+      "titel": "Gemaakt om mee te reizen",
+      "waarom": "Vier echte details van de check-in maken de prijs en de 5 jaar garantie tastbaar."
+    },
+    {
+      "node": "1095:54",
+      "titel": "Hoe lang ga je weg?",
+      "waarom": "Helpt twijfelaars kiezen tussen twee maten, wat vaak de laatste drempel is."
+    }
+  ],
+  "waarom": {
+    "niche": "tassen & accessoires",
+    "kop": "Zo groeien tassen- en accessoiremerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw koffermerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende reis.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij tassen- en accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Samsonite nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1096:2",
+    "type": "Merkverhaal",
+    "onderwerp": "Reizen op jouw manier",
+    "kop": "Reizen op jouw manier",
+    "tekst": "Een mail die het verhaal achter SUITSUIT vertelt: reizen als manier om vrouwen sterker te maken, met de Foundation en de B Corp-certificering, en de Serenity Check-in als volgende stap.",
+    "punten": [
+      "10 procent van de nettowinst naar de SUITSUIT Foundation",
+      "Gecertificeerde B Corp",
+      "Serenity Check-in 66 cm met 5 jaar garantie"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1096:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Reizen op jouw manier",
+      "kop": "Reizen op jouw manier",
+      "tekst": "Een mail die het verhaal achter SUITSUIT vertelt: reizen als manier om vrouwen sterker te maken, met de Foundation en de B Corp-certificering, en de Serenity Check-in als volgende stap.",
+      "punten": [
+        "10 procent van de nettowinst naar de SUITSUIT Foundation",
+        "Gecertificeerde B Corp",
+        "Serenity Check-in 66 cm met 5 jaar garantie"
+      ]
+    },
+    {
+      "node": "1096:34",
+      "type": "Assortiment",
+      "onderwerp": "De Serenity-collectie",
+      "kop": "De Serenity-collectie",
+      "tekst": "Een assortimentsmail die laat zien welke Serenity-koffer bij welke reis past, met de bijpassende accessoires en de reviewscore.",
+      "punten": [
+        "Check-in 66 cm: 59 liter, voor 1 tot 2 weken",
+        "Duo set 55 + 76 cm: 127 liter, voor 2 tot 3 weken",
+        "Packing cubes en protection cover erbij"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

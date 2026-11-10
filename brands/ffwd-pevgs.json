@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "ffwd-pevgs",
+  "merk": "FFWD Wheels",
+  "domein": "ffwdwheels.com",
+  "lead_id": "2026-11-02-ffwdwheels.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#0D0D0D",
+  "kop": "Drie nieuwe invalshoeken voor de wielen uit Zwolle.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team FFWD, ik heb dit gemaakt omdat jullie al twintig jaar carbon wielen bouwen in Zwolle, en dat is een sterk verhaal voor nieuwe advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1094:262",
+      "titel": "Tot in de naaf",
+      "waarom": "Laat zien wat er in een RAW 55 zit, zodat de prijs uitlegt in plaats van afschrikt."
+    },
+    {
+      "node": "1094:282",
+      "titel": "100 dagen proefrijden",
+      "waarom": "Haalt de twijfel bij een grote aankoop weg met een aanbod dat jullie echt al hebben."
+    },
+    {
+      "node": "1094:293",
+      "titel": "Je snelste rit belt",
+      "waarom": "Een speels format dat opvalt tussen de gewone fietsfoto's in de tijdlijn."
+    }
+  ],
+  "waarom": {
+    "niche": "sport & outdoor",
+    "kop": "Zo groeien sportmerken op Instagram.",
+    "tekst": "De meeste rijders ontdekken een nieuw wielmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende set.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sportmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft HUNT Bike Wheels nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1094:353",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij FFWD",
+    "kop": "Welkom bij FFWD",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers via 'Keep rollin' with us', die meteen laat zien waarom rijders voor FFWD kiezen.",
+    "punten": [
+      "Gemaakt in Zwolle, sinds 2006",
+      "100 dagen proefrijden",
+      "Gratis verzending, op werkdagen binnen een dag verstuurd"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1094:353",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij FFWD",
+      "kop": "Welkom bij FFWD",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers via 'Keep rollin' with us', die meteen laat zien waarom rijders voor FFWD kiezen.",
+      "punten": [
+        "Gemaakt in Zwolle, sinds 2006",
+        "100 dagen proefrijden",
+        "Gratis verzending, op werkdagen binnen een dag verstuurd"
+      ]
+    },
+    {
+      "node": "1094:383",
+      "type": "Vergelijking",
+      "onderwerp": "RAW 55 of RYOT 55?",
+      "kop": "RAW 55 of RYOT 55?",
+      "tekst": "Een mail die twijfelaars helpt kiezen tussen twee sets van 55 mm, met de echte specificaties naast elkaar en de wielenquiz als volgende stap.",
+      "punten": [
+        "RAW 55: 1460 g, carbon spaken, CeramicSpeed",
+        "RYOT 55: vanaf €1.599, 1580 g",
+        "Afsluiten met 100 dagen proefrijden"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
