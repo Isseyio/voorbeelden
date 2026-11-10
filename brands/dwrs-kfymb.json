@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "dwrs-kfymb",
+  "merk": "DWRS label",
+  "domein": "dwrslabel.com",
+  "lead_id": "2026-11-01-dwrslabel.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3B2A22",
+  "kop": "Drie nieuwe invalshoeken voor de Latty en de Saru.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team DWRS, ik heb dit gemaakt omdat de Latty met big studs zo'n herkenbaar silhouet heeft dat hij bijna vanzelf een advertentie wordt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1190:3",
+      "titel": "Koop deze niet",
+      "waarom": "Een omgekeerde kop valt op tussen gewone posts en maakt nieuwsgierig naar de Latty eronder."
+    },
+    {
+      "node": "1190:20",
+      "titel": "Je sneaker belt",
+      "waarom": "Een speels inkomend-gesprekbeeld zet één sneaker groot in beeld en stopt de duim tijdens het scrollen."
+    },
+    {
+      "node": "1190:34",
+      "titel": "Mocassin of sneaker",
+      "waarom": "Twee favorieten naast elkaar laten in een seconde de keuze zien, met de prijs er direct bij."
+    }
+  ],
+  "waarom": {
+    "niche": "schoenen",
+    "kop": "Zo groeien schoenenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw schoenenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor het volgende paar.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij schoenenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25+",
+        "label": "advertenties heeft Shabbies Amsterdam nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1191:104",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij DWRS label",
+    "kop": "Welkom bij DWRS label",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Aukje en Marike zijn, wat je als lid krijgt en de Latty als eerste tip.",
+    "punten": [
+      "Gratis verzending binnen NL en België vanaf €49,95",
+      "Voor 21:45 besteld, dezelfde dag verzonden",
+      "Punten sparen met Rewards",
+      "Uitgelicht: LATTY big studs, €139,95"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1191:104",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij DWRS label",
+      "kop": "Welkom bij DWRS label",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Aukje en Marike zijn, wat je als lid krijgt en de Latty als eerste tip.",
+      "punten": [
+        "Gratis verzending binnen NL en België vanaf €49,95",
+        "Voor 21:45 besteld, dezelfde dag verzonden",
+        "Punten sparen met Rewards",
+        "Uitgelicht: LATTY big studs, €139,95"
+      ]
+    },
+    {
+      "node": "1191:148",
+      "type": "Assortimentsmail",
+      "onderwerp": "Klaar voor het najaar",
+      "kop": "Klaar voor het najaar",
+      "tekst": "Drie favorieten onder elkaar, elk met prijs en een eigen knop, afgesloten met de 4,7 op Trustpilot.",
+      "punten": [
+        "LATTY big studs, €139,95",
+        "SARU, €159,95",
+        "ALEXANDRIA BELT studs, €69,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

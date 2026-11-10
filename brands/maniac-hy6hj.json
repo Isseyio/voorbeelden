@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "maniac-hy6hj",
+  "merk": "Maniac Nails",
+  "domein": "maniac-nails.com",
+  "lead_id": "2026-11-01-maniac-nails.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#BFA8F3",
+  "kop": "Drie nieuwe invalshoeken voor Maniac.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Maniac, ik heb dit gemaakt omdat jullie elke twee weken nieuwe designs uitbrengen, en dat vraagt om steeds nieuwe advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1192:4",
+      "titel": "Gellak, gewoon thuis",
+      "waarom": "Eén groot woord en vier designs met prijs laten in een oogopslag zien wat Maniac is en hoeveel keus er is."
+    },
+    {
+      "node": "1192:28",
+      "titel": "14 dagen, geen afbladderen",
+      "waarom": "Een tijdlijn van dag 1 tot dag 14 maakt de belangrijkste belofte zichtbaar, zonder dat iemand de tekst hoeft te lezen."
+    },
+    {
+      "node": "1192:55",
+      "titel": "€9 per manicure",
+      "waarom": "De prijs per manicure naast een echte hand met het vel stickers haalt de twijfel over de prijs meteen weg."
+    }
+  ],
+  "waarom": {
+    "niche": "beauty",
+    "kop": "Zo groeien beautymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw nagelmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende manicure.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij beautymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Pink Gellac nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1192:70",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Maniac",
+    "kop": "Welkom bij Maniac.",
+    "tekst": "Fijn dat je er bent. Met onze gellak stickers heb je in 20 minuten een salonmanicure, gewoon thuis. Daaronder staat in vier stappen hoe je ze plakt.",
+    "punten": [
+      "6 lagen echte gel",
+      "14+ dagen zonder afbladderen",
+      "In 2 minuten eraf, zonder aceton",
+      "Gratis verzending vanaf €60 in Nederland"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1192:70",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Maniac",
+      "kop": "Welkom bij Maniac.",
+      "tekst": "Fijn dat je er bent. Met onze gellak stickers heb je in 20 minuten een salonmanicure, gewoon thuis. Daaronder staat in vier stappen hoe je ze plakt.",
+      "punten": [
+        "6 lagen echte gel",
+        "14+ dagen zonder afbladderen",
+        "In 2 minuten eraf, zonder aceton",
+        "Gratis verzending vanaf €60 in Nederland"
+      ]
+    },
+    {
+      "node": "1192:100",
+      "type": "Productspotlight",
+      "onderwerp": "Ruby Red, onze bestseller",
+      "kop": "Ruby Red, onze bestseller.",
+      "tekst": "Een diepe, warme rode kleur die bij alles past. Elke doos heeft genoeg stickers voor 2 manicures, en met een abonnement betaal je €15 in plaats van €18.",
+      "punten": [
+        "6 lagen echte gel",
+        "Medische lijm",
+        "TPO- en HEMA-vrij",
+        "In 2 minuten eraf"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

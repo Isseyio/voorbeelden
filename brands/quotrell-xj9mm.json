@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "quotrell-xj9mm",
+  "merk": "Quotrell",
+  "domein": "quotrell.com",
+  "lead_id": "2026-11-03-quotrell.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#212121",
+  "kop": "Drie nieuwe invalshoeken voor Quotrell, van motto tot hem en haar.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Quotrell, ik heb dit gemaakt omdat jullie straatfoto's de kleding laten zien zoals mensen hem echt dragen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1188:116",
+      "titel": "Cultures, music & people",
+      "waarom": "Jullie eigen motto als grote kop met straatfoto's tussen de woorden valt op tussen gewone productposts."
+    },
+    {
+      "node": "1188:136",
+      "titel": "10% op de eerste bestelling",
+      "waarom": "Jullie bestaande welkomstkorting is een sterk haakje voor nieuwe volgers die nog twijfelen."
+    },
+    {
+      "node": "1188:144",
+      "titel": "Eén streep, hem en haar",
+      "waarom": "In één beeld zie je dat de collectie voor mannen en vrouwen is, met de vaste voordelen eronder."
+    }
+  ],
+  "waarom": {
+    "niche": "streetwear",
+    "kop": "Zo groeien streetwearmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw streetwearmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij streetwearmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "250+",
+        "label": "advertenties heeft Cold Culture nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1189:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welcome to the list: 10% off your first order",
+    "kop": "Welcome to the list.",
+    "tekst": "Een welkomstmail die de 10% uit jullie pop-up direct opvolgt en laat zien waarom mensen bij Quotrell bestellen.",
+    "punten": [
+      "Gratis verzending boven €120 in NL, BE en DE",
+      "Voor 22:00 besteld, vandaag verzonden",
+      "14 dagen om te retourneren"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1189:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welcome to the list: 10% off your first order",
+      "kop": "Welcome to the list.",
+      "tekst": "Een welkomstmail die de 10% uit jullie pop-up direct opvolgt en laat zien waarom mensen bij Quotrell bestellen.",
+      "punten": [
+        "Gratis verzending boven €120 in NL, BE en DE",
+        "Voor 22:00 besteld, vandaag verzonden",
+        "14 dagen om te retourneren"
+      ]
+    },
+    {
+      "node": "1189:36",
+      "type": "Productspotlight",
+      "onderwerp": "The fall drop is live",
+      "kop": "The fall drop is live.",
+      "tekst": "Een assortimentsmail die nieuwe kopers per categorie naar de bestsellers en longsleeves voor hem en haar stuurt.",
+      "punten": [
+        "Men's en Women's Bestsellers",
+        "Longsleeves voor hem en haar",
+        "Afsluiter met 4.7/5 van 150k+ klanten"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
