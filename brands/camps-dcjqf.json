@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "camps-dcjqf",
+  "merk": "Camps & Camps",
+  "domein": "campsencamps.nl",
+  "lead_id": "2026-11-04-campsencamps.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1E1A17",
+  "kop": "Drie nieuwe invalshoeken voor Camps & Camps.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Camps & Camps, ik heb dit gemaakt omdat jullie al sinds 1997 alles in jullie eigen atelier in Venlo ontwerpen en maken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1067:3",
+      "titel": "Bestseller in detail",
+      "waarom": "De Classic Pearl van dichtbij, met de kleuren en het atelier erbij, laat in één beeld zien waarom klanten hem steeds opnieuw bestellen."
+    },
+    {
+      "node": "1067:32",
+      "titel": "Ivory of Jet Black?",
+      "waarom": "Twee varianten naast elkaar laten mensen kiezen in plaats van twijfelen, en dat levert meer klikken op."
+    },
+    {
+      "node": "1067:58",
+      "titel": "Snel in huis",
+      "waarom": "Gratis verzending vanaf €50 en dezelfde dag verzonden haalt de laatste twijfel weg, met de herfstshoot als blikvanger."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1067:139",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Camps & Camps",
+    "kop": "Welkom bij Camps & Camps",
+    "tekst": "Na de inschrijving komt de 10% welkomstkorting direct in beeld, samen met het verhaal van het atelier in Venlo en een bestseller om mee te beginnen.",
+    "punten": [
+      "10% welkomstkorting op de eerste bestelling",
+      "Sinds 1997 ontworpen in Venlo",
+      "Classic Pearl als eerste aanrader"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1067:139",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Camps & Camps",
+      "kop": "Welkom bij Camps & Camps",
+      "tekst": "Na de inschrijving komt de 10% welkomstkorting direct in beeld, samen met het verhaal van het atelier in Venlo en een bestseller om mee te beginnen.",
+      "punten": [
+        "10% welkomstkorting op de eerste bestelling",
+        "Sinds 1997 ontworpen in Venlo",
+        "Classic Pearl als eerste aanrader"
+      ]
+    },
+    {
+      "node": "1067:183",
+      "type": "Productspotlight",
+      "onderwerp": "Nieuw in de herfstcollectie",
+      "kop": "Nieuw in de herfstcollectie",
+      "tekst": "Een mail met de nieuwste ontwerpen uit het atelier: Ivy Spark, Aurelia Drop en twee bestsellers, met de Google-score als geruststelling.",
+      "punten": [
+        "Vier ontwerpen met prijs en knop",
+        "4,7 uit 5 op Google (43 beoordelingen)",
+        "Echte draagfoto's uit jullie eigen shoot"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
