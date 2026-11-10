@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "thrivin-qzbft",
+  "merk": "Thrivin",
+  "domein": "thrivin.com",
+  "lead_id": "2026-10-31-thrivin.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3A2723",
+  "kop": "Drie nieuwe invalshoeken voor de Elevate-lijn",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Thrivin, ik heb dit gemaakt omdat jullie squat-proof leggings in twaalf kleuren zo'n sterk verhaal zijn om steeds opnieuw te vertellen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1257:75",
+      "titel": "Sculpt",
+      "waarom": "Eén groot woord en een zoekbalk sluiten aan op waar mensen zelf naar zoeken: squat proof leggings."
+    },
+    {
+      "node": "1257:89",
+      "titel": "Twee looks",
+      "waarom": "Twee sets naast elkaar laten zien hoeveel keuze er is, met prijs erbij, zonder dat het een catalogus wordt."
+    },
+    {
+      "node": "1257:110",
+      "titel": "Gemaakt om te squatten",
+      "waarom": "Een close-up met labels maakt de stofclaims concreet: squat-proof, hoge compressie en 91% polyamide."
+    }
+  ],
+  "waarom": {
+    "niche": "sport & outdoor",
+    "kop": "Zo groeien sportmerken op Instagram.",
+    "tekst": "Jullie adverteren al veel, dus de instroom is er. De winst zit vaak in steeds nieuwe invalshoeken, zodat advertenties niet moe worden, en in een vaste nieuwsbrief die nieuwe klanten laat terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sportmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij sportmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1257:135",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Thrivin",
+    "kop": "Welkom bij Thrivin",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie Thrivin is, waarom de stof squat-proof is en met welk item je het best begint.",
+    "punten": [
+      "Herokaart met eigen campagnefoto",
+      "Drie redenen: squat-proof, four-way stretch, ademend",
+      "Startproduct: Elevate Flare Leggings, €54,95"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1257:135",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Thrivin",
+      "kop": "Welkom bij Thrivin",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie Thrivin is, waarom de stof squat-proof is en met welk item je het best begint.",
+      "punten": [
+        "Herokaart met eigen campagnefoto",
+        "Drie redenen: squat-proof, four-way stretch, ademend",
+        "Startproduct: Elevate Flare Leggings, €54,95"
+      ]
+    },
+    {
+      "node": "1257:163",
+      "type": "Favorieten",
+      "onderwerp": "Beauty in strength: onze favorieten",
+      "kop": "Beauty in strength",
+      "tekst": "Een assortimentsmail met de campagne Beauty in Strength bovenaan en drie favorieten met prijs en knop, afgesloten met de reviews.",
+      "punten": [
+        "Elevate Flare Leggings, €54,95",
+        "Essence Racer Back Sports Bra, €39,95",
+        "Elevate Halterneck All In One, €39,95",
+        "Meer dan 6.100 reviews als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

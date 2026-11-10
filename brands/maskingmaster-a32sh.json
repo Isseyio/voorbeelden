@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "maskingmaster-a32sh",
+  "merk": "Masking Master",
+  "domein": "maskingmaster.com",
+  "lead_id": "2026-11-04-maskingmaster.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#312783",
+  "kop": "Strakke tapelijnen voor Masking Master, in drie advertenties en twee nieuwsbrieven.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Masking Master, ik heb dit gemaakt omdat een tool die tapen tot 5x sneller maakt zich perfect laat zien in een korte advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1254:3",
+      "titel": "Echte reviews",
+      "waarom": "Echte reviews van kopers naast het product in de hand maken de belofte van strakke lijnen meteen geloofwaardig."
+    },
+    {
+      "node": "1254:29",
+      "titel": "Tapen met één hand",
+      "waarom": "Een close-up van de tool op een kozijn met korte labels laat in één oogopslag zien wat hij doet."
+    },
+    {
+      "node": "1254:48",
+      "titel": "Strakke lijnen bellen",
+      "waarom": "Een speels 'inkomend gesprek' in jullie paarse merkkleur valt op tussen de gewone posts en eindigt bij product en prijs."
+    }
+  ],
+  "waarom": {
+    "niche": "klus- en verfgereedschap",
+    "kop": "Zo groeien klusmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een handige tool niet via Google, maar tijdens het scrollen, vaak midden in een klus. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor tape en accessoires.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij merken voor in en om het huis vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "9",
+        "label": "advertenties heeft Wagnershop Benelux nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1254:60",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Masking Master",
+      "kop": "Welkom bij strakke lijnen.",
+      "tekst": "Fijn dat je er bent. Jij hoort als eerste van nieuwe producten en exclusieve deals.",
+      "punten": [
+        "Tot 5x sneller dan afplakken met de hand",
+        "Alle tapes tot 25 mm, elk merk",
+        "30 dagen om te retourneren"
+      ]
+    },
+    {
+      "node": "1254:99",
+      "type": "Productspotlight",
+      "onderwerp": "Minder tapen, meer schilderen",
+      "kop": "Minder tapen, meer schilderen.",
+      "tekst": "Lus, snij, tape en herhaal. Met één hand zet je strakke lijnen op kozijnen, ramen en muren, tot 5x sneller dan met de hand.",
+      "punten": [
+        "Officieel gepatenteerd",
+        "Voor verf en kit",
+        "Lokale magazijnen in de EU en het VK"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10",
+  "nieuwsbrief": {
+    "node": "1254:60",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Masking Master",
+    "kop": "Welkom bij strakke lijnen.",
+    "tekst": "Fijn dat je er bent. Jij hoort als eerste van nieuwe producten en exclusieve deals.",
+    "punten": [
+      "Tot 5x sneller dan afplakken met de hand",
+      "Alle tapes tot 25 mm, elk merk",
+      "30 dagen om te retourneren"
+    ]
+  }
+}

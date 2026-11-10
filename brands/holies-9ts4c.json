@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "holies-9ts4c",
+  "merk": "Holie's",
+  "domein": "holies.com",
+  "lead_id": "2026-11-05-holies.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#F38DBF",
+  "kop": "Drie nieuwe invalshoeken voor Holie's, van maandag tot Us vs Them.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Holie's, ik heb dit gemaakt omdat jullie verpakkingen zo uitgesproken zijn dat ze in een advertentie bijna het hele werk doen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1209:4",
+      "titel": "Elke ochtend een andere",
+      "waarom": "Een weekstrip met vijf smaken maakt van het grote assortiment een reden om vaker te bestellen."
+    },
+    {
+      "node": "1209:32",
+      "titel": "20% eiwit, 0% suiker erbij",
+      "waarom": "De drie cijfers van Protein Crunch in pillen vertellen in één oogopslag waarom deze granola anders is."
+    },
+    {
+      "node": "1209:51",
+      "titel": "Geen honing",
+      "waarom": "Eén groot woord valt op tussen gewone ontbijtposts en speelt in op wat mensen zelf zoeken."
+    }
+  ],
+  "waarom": {
+    "niche": "food",
+    "kop": "Zo groeien foodmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw ontbijt of merk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende smaak.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Oot nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1210:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Holie's",
+    "kop": "Welkom bij Holie's",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers op jullie nieuwsbrief, die meteen laat zien waar Holie's voor staat en waar je het best kunt beginnen.",
+    "punten": [
+      "Herofoto met het hele assortiment op roze",
+      "Drie feiten: geen suiker toegevoegd, 20 g eiwit en 15 g vezels per 100 g",
+      "Startpunt Protein Crunch met prijs en knop"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1210:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Holie's",
+      "kop": "Welkom bij Holie's",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers op jullie nieuwsbrief, die meteen laat zien waar Holie's voor staat en waar je het best kunt beginnen.",
+      "punten": [
+        "Herofoto met het hele assortiment op roze",
+        "Drie feiten: geen suiker toegevoegd, 20 g eiwit en 15 g vezels per 100 g",
+        "Startpunt Protein Crunch met prijs en knop"
+      ]
+    },
+    {
+      "node": "1210:37",
+      "type": "Productspotlight",
+      "onderwerp": "Welke granola past bij jouw ochtend?",
+      "kop": "Welke granola past bij jouw ochtend?",
+      "tekst": "Een assortimentsmail die vier granola's naast elkaar zet, elk met een eigen regel en knop, en afsluit met jullie eigen Us vs Them.",
+      "punten": [
+        "Protein Crunch, Chocolate Crunch, Nuts & Seeds en Mixed Berries",
+        "Per smaak de echte ingrediënten van de verpakking",
+        "Suiker per 100 g: 2,8 g tegenover gemiddeld 12 g"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

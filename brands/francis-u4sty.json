@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "francis-u4sty",
+  "merk": "Francisbyfb",
+  "domein": "francisbyfb.com",
+  "lead_id": "2026-10-31-francisbyfb.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3B2A20",
+  "kop": "Drie nieuwe invalshoeken en twee nieuwsbrieven voor de It girl bag.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Francisbyfb, ik heb dit gemaakt omdat de It girl bag in tien kleuren en met plek voor een 16 inch MacBook genoeg verhalen geeft voor veel meer advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1252:4",
+      "titel": "De tas waar alles in past",
+      "waarom": "Een grote typografische kop met kleine foto's ertussen valt op tussen gewone productfoto's en zegt in één zin wat de tas doet."
+    },
+    {
+      "node": "1252:15",
+      "titel": "Tien kleuren",
+      "waarom": "Vier kleuren naast elkaar laten zien dat er voor iedereen een versie is, zonder dat iemand hoeft door te klikken."
+    },
+    {
+      "node": "1252:35",
+      "titel": "Van werk tot weekend",
+      "waarom": "Twee momenten naast elkaar laten zien dat het één tas is voor de hele week, met de reviews als bewijs."
+    }
+  ],
+  "waarom": {
+    "niche": "tassen",
+    "kop": "Zo groeien tassenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw tassenmerk niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe: dezelfde mensen zien hem steeds weer en klikken minder. Merken die elke week nieuwe varianten testen en een vaste nieuwsbrief sturen, houden hun kosten per aankoop laag en krijgen kopers terug.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij tassenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "18–28%",
+        "label": "van de online omzet komt bij tassenmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1253:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij The Francis Club",
+    "kop": "Welkom bij The Francis Club",
+    "tekst": "Als eerste de nieuwe drops zien, deals voor leden en af en toe een verrassing.",
+    "punten": [
+      "Handgemaakt in Italië, in kleine series",
+      "Binnen 1 werkdag verzonden",
+      "30 dagen om rustig te retourneren"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1253:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij The Francis Club",
+      "kop": "Welkom bij The Francis Club",
+      "tekst": "Als eerste de nieuwe drops zien, deals voor leden en af en toe een verrassing.",
+      "punten": [
+        "Handgemaakt in Italië, in kleine series",
+        "Binnen 1 werkdag verzonden",
+        "30 dagen om rustig te retourneren"
+      ]
+    },
+    {
+      "node": "1253:36",
+      "type": "Productspotlight",
+      "onderwerp": "Alles op z’n plek, ook je laptop",
+      "kop": "Alles op z’n plek, ook je laptop",
+      "tekst": "De It girl bag heeft een groot binnenvak, een apart telefoonvak en een rits, en past een 16 inch MacBook. Handgemaakt in Italië van 100% echt leer.",
+      "punten": [
+        "40 x 32 x 16 cm",
+        "Telefoonvak en rits",
+        "4,8/5 uit 589 reviews"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

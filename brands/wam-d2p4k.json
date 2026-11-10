@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "wam-d2p4k",
+  "merk": "WAM Denim",
+  "domein": "wamdenim.com",
+  "lead_id": "2026-11-02-wamdenim.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1E2B45",
+  "kop": "Drie advertenties voor WAM Denim, rond de Talon jeans.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team WAM Denim, ik heb dit gemaakt omdat de Talon jeans in vier kleuren en met zulke duidelijke detailfoto's heel goed werkt in advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1246:2",
+      "titel": "Vier kleuren Talon",
+      "waarom": "Eén groot woord en vier jeans naast elkaar laten in een oogopslag zien dat er voor iedereen een kleur is."
+    },
+    {
+      "node": "1246:21",
+      "titel": "Gemaakt met",
+      "waarom": "Jullie eigen detailfoto's maken de kwaliteit concreet voor wie WAM Denim nog niet kent."
+    },
+    {
+      "node": "1246:44",
+      "titel": "Tweede artikel 50%",
+      "waarom": "Jullie bestaande actie groot in beeld, met het logo en een echte modelfoto, valt op tussen de berichten van vrienden."
+    }
+  ],
+  "waarom": {
+    "niche": "herenmode",
+    "kop": "Zo groeien herenmodemerken op Instagram.",
+    "tekst": "De meeste mannen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende jeans.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Jack & Jones nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1249:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij WAM Denim",
+    "kop": "Welkom bij WAM Denim",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers op de nieuwsbrief, die meteen laat zien wat ze van WAM Denim kunnen verwachten.",
+    "punten": [
+      "Herokaart met de Talon jeans in Navy en Blue",
+      "Gratis verzending vanaf €100, binnen 1–2 werkdagen in huis, 30+ winkels in de Benelux",
+      "Een blok met jullie winkel voor wie liever eerst past"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1249:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij WAM Denim",
+      "kop": "Welkom bij WAM Denim",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers op de nieuwsbrief, die meteen laat zien wat ze van WAM Denim kunnen verwachten.",
+      "punten": [
+        "Herokaart met de Talon jeans in Navy en Blue",
+        "Gratis verzending vanaf €100, binnen 1–2 werkdagen in huis, 30+ winkels in de Benelux",
+        "Een blok met jullie winkel voor wie liever eerst past"
+      ]
+    },
+    {
+      "node": "1249:39",
+      "type": "Productspotlight",
+      "onderwerp": "Elke week iets nieuws",
+      "kop": "Elke week iets nieuws",
+      "tekst": "Een wekelijkse mail met vier favorieten, van jeans tot hoodies, en jullie actie op het tweede artikel.",
+      "punten": [
+        "Modelfoto als opener",
+        "Vier producten met prijs en knop: Talon Navy, Finley Blue, Wylder hoodie, Talon Black",
+        "Afsluiter met de actie: tweede artikel 50% korting"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "lab-tbpsy",
+  "merk": "LAB COLOUR THE WORLD",
+  "domein": "labcolourtheworld.com",
+  "lead_id": "2026-11-02-labcolourtheworld.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Drie nieuwe invalshoeken voor LAB, rond het sample.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team LAB, ik heb dit gemaakt omdat jullie samples van 40 ml een logische eerste stap zijn voor wie twijfelt over een kleur, en dat verhaal kun je op veel manieren vertellen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1256:2",
+      "titel": "Warm beige",
+      "waarom": "Eén groot woord, een zoekbalk en vier van jullie tinnen laten in een oogopslag zien dat je hier de juiste beigetint vindt."
+    },
+    {
+      "node": "1256:22",
+      "titel": "Koop nog geen liters",
+      "waarom": "Een kop die tegen de verwachting in gaat valt op, en leidt meteen naar de kleinste stap: een sample van €7,50."
+    },
+    {
+      "node": "1256:43",
+      "titel": "Cotton Cloud belt",
+      "waarom": "Een speels belscherm met één kleur in de hoofdrol laat mensen stoppen met scrollen."
+    }
+  ],
+  "waarom": {
+    "niche": "interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen vinden hun nieuwe muurkleur niet via Google, maar tijdens het scrollen door interieurfoto's op Instagram. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag omdat advertenties niet moe worden. Een vaste nieuwsbrief helpt om van een sample een bestelling in liters te maken.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij interieurmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1257:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij LAB",
+    "kop": "Welkom bij LAB",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers die meteen naar de eerste stap leidt: een sample op de eigen muur.",
+    "punten": [
+      "Herokaart met jullie eigen tinfoto (Amaze no. 535) en de knop Bestel een sample",
+      "Zo werkt LAB: sample pot vanaf €7,50, gratis verzending vanaf €75, kleuradvies in Bussum",
+      "Blok over 176 kleuren LAB wallpaint met Frosted Sand no. 374"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1257:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij LAB",
+      "kop": "Welkom bij LAB",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers die meteen naar de eerste stap leidt: een sample op de eigen muur.",
+      "punten": [
+        "Herokaart met jullie eigen tinfoto (Amaze no. 535) en de knop Bestel een sample",
+        "Zo werkt LAB: sample pot vanaf €7,50, gratis verzending vanaf €75, kleuradvies in Bussum",
+        "Blok over 176 kleuren LAB wallpaint met Frosted Sand no. 374"
+      ]
+    },
+    {
+      "node": "1257:42",
+      "type": "Actie",
+      "onderwerp": "Alle 36 archiefkleuren in één keer",
+      "kop": "Alle 36 archiefkleuren",
+      "tekst": "Een actiemail rond het samplepakket met alle archiefkleuren, dat nu op de site in prijs is verlaagd.",
+      "punten": [
+        "Samplepakket €67,50 in plaats van €90,00, zoals op de site",
+        "Drie kaarten: 36 samples, echte verf, snel in huis",
+        "Afsluiter met de kleurenwaaier voor €29,95 in plaats van €39,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
