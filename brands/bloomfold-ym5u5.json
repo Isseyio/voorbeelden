@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "bloomfold-ym5u5",
+  "merk": "Bloomfold",
+  "domein": "bloomfold.com",
+  "lead_id": "2026-11-01-bloomfold.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#0A3D40",
+  "kop": "Drie nieuwe invalshoeken voor Bloomfold.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Bloomfold, ik heb dit gemaakt omdat jullie een technisch product zo huiselijk laten zien, met echte woonkamers en jullie zelf op de foto. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1139:4",
+      "titel": "Je badkamer belt",
+      "waarom": "Een herkenbaar moment, de beslagen spiegel, in een speelse telefoon-look laat in één seconde zien welk probleem de DryPure oplost."
+    },
+    {
+      "node": "1139:18",
+      "titel": "Droog.",
+      "waarom": "Eén groot woord en drie ontvochtigers naast elkaar helpen mensen die nog aan het kiezen zijn om snel hun model te vinden."
+    },
+    {
+      "node": "1139:39",
+      "titel": "DryPure nu €299",
+      "waarom": "Een duidelijke prijs boven een echte foto van de DryPure geeft mensen die al aan het vergelijken zijn een reden om te klikken."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen",
+    "kop": "Zo groeien woonmerken op Instagram.",
+    "tekst": "De meeste mensen gaan pas op zoek naar een ontvochtiger als de ramen beslaan, en ontdekken een merk dan tijdens het scrollen. Wie in die weken steeds een nieuwe advertentie ziet, onthoudt het merk. Een vaste nieuwsbrief zorgt dat kopers terugkomen voor filters en een tweede apparaat.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woonmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij woonmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1140:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Bloomfold",
+    "kop": "Welkom bij Bloomfold",
+    "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: de 5% korting die jullie bij aanmelding beloven, waarom kopen bij Bloomfold zonder risico is en het verhaal van Gijs en Tom.",
+    "punten": [
+      "5% korting op de eerste bestelling",
+      "2 jaar garantie en 30 dagen proberen",
+      "Voor 23:59 besteld, morgen in huis"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1140:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Bloomfold",
+      "kop": "Welkom bij Bloomfold",
+      "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: de 5% korting die jullie bij aanmelding beloven, waarom kopen bij Bloomfold zonder risico is en het verhaal van Gijs en Tom.",
+      "punten": [
+        "5% korting op de eerste bestelling",
+        "2 jaar garantie en 30 dagen proberen",
+        "Voor 23:59 besteld, morgen in huis"
+      ]
+    },
+    {
+      "node": "1140:35",
+      "type": "Productspotlight",
+      "onderwerp": "Droog én schoon, in één apparaat",
+      "kop": "Droog én schoon, in één apparaat.",
+      "tekst": "Een mail rond de DryPure 12L: welk probleem hij oplost, wat hem anders maakt dan een gewone ontvochtiger en wat hij per dag kost.",
+      "punten": [
+        "Tot 12 liter vocht per dag",
+        "Koolstof- en nylonfilter tegen geurtjes en stof",
+        "Ongeveer €0,22 per dag op de hoogste stand"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

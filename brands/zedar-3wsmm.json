@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "zedar-3wsmm",
+  "merk": "Zedar",
+  "domein": "zedar.eu",
+  "lead_id": "2026-11-01-zedar.eu",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#F86008",
+  "kop": "Drie nieuwe invalshoeken voor Zedar.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Zedar, ik heb dit gemaakt omdat jullie klanten zulke leuke foto's van hun kat bij de K1200 delen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1143:4",
+      "titel": "Nooit meer scheppen",
+      "waarom": "Een weekstrip met elke dag dezelfde schone bak maakt in één blik duidelijk wat je wint: geen enkele dag meer scheppen."
+    },
+    {
+      "node": "1143:35",
+      "titel": "Vroeger en nu",
+      "waarom": "Twee foto's naast elkaar laten het verschil zien tussen scheppen en een bak die zichzelf schoonmaakt, zonder dat er veel uitleg nodig is."
+    },
+    {
+      "node": "1143:54",
+      "titel": "Gratis WF300",
+      "waarom": "Een echte actie boven een echte klantfoto geeft mensen die al twijfelen een concrete reden om nu te kijken."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien huisdierenmerken op Instagram.",
+    "tekst": "Kattenbezitters ontdekken nieuwe producten vooral tijdens het scrollen, vaak via foto's van andere katten. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor geurpods, zakjes en een tweede apparaat.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1143:131",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Zedar",
+    "kop": "Welkom bij Zedar",
+    "tekst": "Een welkomstmail voor nieuwe klanten en inschrijvers: wie Zedar is, dat echte katteneigenaren klaarstaan voor vragen, en de drie favorieten om mee te beginnen.",
+    "punten": [
+      "Gratis verzending en retouren",
+      "30 dagen uitproberen",
+      "K1200, WF600 en A900 in één overzicht"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1143:131",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Zedar",
+      "kop": "Welkom bij Zedar",
+      "tekst": "Een welkomstmail voor nieuwe klanten en inschrijvers: wie Zedar is, dat echte katteneigenaren klaarstaan voor vragen, en de drie favorieten om mee te beginnen.",
+      "punten": [
+        "Gratis verzending en retouren",
+        "30 dagen uitproberen",
+        "K1200, WF600 en A900 in één overzicht"
+      ]
+    },
+    {
+      "node": "1143:168",
+      "type": "Productspotlight",
+      "onderwerp": "Altijd een schone kattenbak",
+      "kop": "Altijd een schone kattenbak",
+      "tekst": "Een mail rond de K1200: wat hij doet, waarom hij veilig is voor je kat en een eerlijke vergelijking met een gewone kattenbak.",
+      "punten": [
+        "Reinigt na elk bezoek, 82 liter",
+        "UVC-licht en geurpods tegen bacteriën en stank",
+        "30 dagen uitproberen en 2 jaar garantie"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

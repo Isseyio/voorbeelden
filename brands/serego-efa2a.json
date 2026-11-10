@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "serego-efa2a",
+  "merk": "SEREGO",
+  "domein": "serego.eu",
+  "lead_id": "2026-11-10-serego.eu",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2C3E55",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor SEREGO.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team SEREGO, ik heb dit gemaakt omdat jullie reisaccessoires van Italiaans druivenleer een mooi verhaal hebben dat goed werkt in een advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1094:306",
+      "titel": "Veilig dichtgeklikt",
+      "waarom": "De echte hand met drie paspoorthoezen laat meteen zien hoe het product voelt, met de kenmerken er direct omheen."
+    },
+    {
+      "node": "1094:321",
+      "titel": "Crema of Nero",
+      "waarom": "Twee kleuren naast elkaar laten mensen kiezen in plaats van twijfelen, en dat verlaagt de drempel om te klikken."
+    },
+    {
+      "node": "1094:342",
+      "titel": "Je koffer is gevonden",
+      "waarom": "Een herkenbaar moment uit de vorm van een inkomend gesprek valt op in de feed en legt de QR-kaart in één beeld uit."
+    }
+  ],
+  "waarom": {
+    "niche": "reisaccessoires",
+    "kop": "Zo groeien accessoiremerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw accessoiremerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, bijvoorbeeld bij een lancering als The Cabin.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Bellroy nu tegelijk live in Nederland"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1094:437",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij SEREGO",
+    "kop": "Welkom bij SEREGO",
+    "tekst": "Een rustige eerste kennismaking: wie jullie zijn, wat nieuwe inschrijvers kunnen verwachten en één product om mee te beginnen.",
+    "punten": [
+      "Als eerste nieuwe collecties zien",
+      "Pre-order voordelen bij lanceringen zoals The Cabin",
+      "Begin met The Passport Cover (€ 58)"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1094:437",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij SEREGO",
+      "kop": "Welkom bij SEREGO",
+      "tekst": "Een rustige eerste kennismaking: wie jullie zijn, wat nieuwe inschrijvers kunnen verwachten en één product om mee te beginnen.",
+      "punten": [
+        "Als eerste nieuwe collecties zien",
+        "Pre-order voordelen bij lanceringen zoals The Cabin",
+        "Begin met The Passport Cover (€ 58)"
+      ]
+    },
+    {
+      "node": "1094:472",
+      "type": "Merkverhaal",
+      "onderwerp": "Gemaakt van wijndruiven",
+      "kop": "Carry the moment.",
+      "tekst": "Het verhaal achter het Italiaanse druivenleer, met The Passport Cover uitgelicht en The Travel Label als afsluiter.",
+      "punten": [
+        "Druivenleer van restanten van wijndruiven",
+        "Kenmerken rond The Passport Cover",
+        "The Travel Label met AirTag-vak en QR-kaart (€ 44)"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

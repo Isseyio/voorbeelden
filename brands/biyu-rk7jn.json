@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "biyu-rk7jn",
+  "merk": "BIYÙ",
+  "domein": "bi-yu.nl",
+  "lead_id": "2026-11-01-bi-yu.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6E5546",
+  "kop": "BIYÙ op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team BIYÙ, ik heb dit gemaakt omdat jullie packshots op die warme beige achtergrond zo rustig en herkenbaar zijn. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1141:4",
+      "titel": "Glow",
+      "waarom": "Eén groot woord en een zoekbalk met de vraag van de klant maken in een seconde duidelijk wat de Tanning Mist doet."
+    },
+    {
+      "node": "1141:18",
+      "titel": "Vijf dagen glow",
+      "waarom": "Een weekstrip laat zien dat één keer sprayen dagen meegaat, zonder over korting te praten."
+    },
+    {
+      "node": "1141:47",
+      "titel": "Krullen zonder hitte",
+      "waarom": "Een echte review en de 4,7 uit 5 naast een echt resultaat overtuigen meer dan een kortingspercentage."
+    }
+  ],
+  "waarom": {
+    "niche": "beauty",
+    "kop": "Zo groeien beautymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw beautymerk niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe invalshoeken testen houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende lancering.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij beautymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij beautymerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1141:71",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in de BIYÙ community",
+    "kop": "Welkom in de BIYÙ community.",
+    "tekst": "Fijn dat je erbij bent. Je hoort als eerste over nieuwe lanceringen, exclusieve aanbiedingen en beautytips. Daaronder waarom je bij BIYÙ goed zit en de Hydrogel Eye Patches als eerste tip.",
+    "punten": [
+      "Vandaag besteld, binnen 1-2 dagen in huis",
+      "Gratis verzending vanaf €50",
+      "Geliefd door 50.000+",
+      "Hydrogel Eye Patches, €19,95"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1141:71",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in de BIYÙ community",
+      "kop": "Welkom in de BIYÙ community.",
+      "tekst": "Fijn dat je erbij bent. Je hoort als eerste over nieuwe lanceringen, exclusieve aanbiedingen en beautytips. Daaronder waarom je bij BIYÙ goed zit en de Hydrogel Eye Patches als eerste tip.",
+      "punten": [
+        "Vandaag besteld, binnen 1-2 dagen in huis",
+        "Gratis verzending vanaf €50",
+        "Geliefd door 50.000+",
+        "Hydrogel Eye Patches, €19,95"
+      ]
+    },
+    {
+      "node": "1141:104",
+      "type": "Assortiment",
+      "onderwerp": "Jouw weekly routine",
+      "kop": "Jouw weekly routine.",
+      "tekst": "Vier favorieten uit de BIYÙ collectie, voor je huid en je haar, met onderaan een echte review van de Heatless Curls.",
+      "punten": [
+        "Tanning Mist, €23,95",
+        "Heatless Curls, €19,95",
+        "Hydrogel Eye Patches, €19,95",
+        "Collagen Face Mask, €23,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

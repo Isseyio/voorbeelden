@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "originalbeans-9zz9p",
+  "merk": "Original Beans",
+  "domein": "originalbeans.com",
+  "lead_id": "2026-11-02-originalbeans.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#282828",
+  "kop": "Zeldzame cacao, ook in de feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Original Beans, ik heb dit gemaakt omdat jullie verpakkingen al een verhaal vertellen, van de gorilla op Virunga tot de kikkers op Esmeraldas, terwijl ik in de advertentiebibliotheek van Meta geen advertenties van jullie zag. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1143:65",
+      "titel": "Koop deze reep niet",
+      "waarom": "Een omgekeerde kop maakt nieuwsgierig en zet de Cusco 100% zonder toegevoegde suiker met prijs groot in beeld."
+    },
+    {
+      "node": "1143:86",
+      "titel": "Van puur tot melk",
+      "waarom": "Twee repen naast elkaar met hun smaak laten in één oogopslag zien dat er voor elke chocoladeliefhebber een reep is."
+    },
+    {
+      "node": "1143:114",
+      "titel": "Zeldzaam",
+      "waarom": "Eén groot woord en de vier repen van de Four maken het verhaal en de set van €22,95 meteen duidelijk."
+    }
+  ],
+  "waarom": {
+    "niche": "chocolade",
+    "kop": "Zo groeien chocolademerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw chocolademerk niet in de supermarkt of via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende reep.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en chocolademerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Tony's Chocolonely nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1143:219",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Original Beans",
+    "kop": "Welkom bij Original Beans",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: waar de cacao vandaan komt, waar jullie voor staan en een makkelijke eerste keuze.",
+    "punten": [
+      "Herokaart met de Virunga 70% en een korte welkom",
+      "Drie dingen om te onthouden: zeldzame cacao, bomen bij de bron, geen lecithine of vanille",
+      "Tweede kaart met de Four the Love of Chocolate (€22,95) en gratis verzending vanaf €50"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1143:219",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Original Beans",
+      "kop": "Welkom bij Original Beans",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: waar de cacao vandaan komt, waar jullie voor staan en een makkelijke eerste keuze.",
+      "punten": [
+        "Herokaart met de Virunga 70% en een korte welkom",
+        "Drie dingen om te onthouden: zeldzame cacao, bomen bij de bron, geen lecithine of vanille",
+        "Tweede kaart met de Four the Love of Chocolate (€22,95) en gratis verzending vanaf €50"
+      ]
+    },
+    {
+      "node": "1143:254",
+      "type": "Assortiment",
+      "onderwerp": "Welke reep past bij jou?",
+      "kop": "Proef het zeldzame",
+      "tekst": "Een nieuwsbrief die het assortiment laat zien: vier repen naast elkaar, elk met herkomst, smaak en prijs, zodat lezers snel hun favoriet kiezen.",
+      "punten": [
+        "Assortimentsfoto van alle repen als hero",
+        "Cusco 100%, Arhuaco 82%, Piura 75% en Esmeraldas 42% met smaaknotities en prijs",
+        "Afsluiting over Zwitserland, biologisch en de boeren bij de bron"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

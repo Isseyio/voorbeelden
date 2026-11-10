@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "tno-89tsq",
+  "merk": "The New Originals",
+  "domein": "theneworiginals.eu",
+  "lead_id": "2026-11-03-theneworiginals.eu",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E2231A",
+  "kop": "For the thinkers, makers and doers. Ook in de feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team The New Originals, ik heb dit gemaakt omdat de nieuwe puffers en de passport zich goed lenen voor een paar frisse advertenties en mails. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1115:120",
+      "titel": "For the thinkers, makers and doers",
+      "waarom": "Jullie eigen belofte als grote kop met lookbookfoto's tussen de woorden en de Curve Puffer eronder: in één beeld zie je wie jullie zijn en wat je kunt kopen."
+    },
+    {
+      "node": "1115:137",
+      "titel": "9-dots outerwear",
+      "waarom": "Drie jassen naast elkaar met naam en prijs, plus het verhaal van de gerecyclede vulling, werkt goed voor mensen die nu een winterjas zoeken."
+    },
+    {
+      "node": "1115:159",
+      "titel": "€190, lion camo",
+      "waarom": "Prijs bovenaan en jullie grote logo over de foto met 'creatives are the new athletes' maken de advertentie herkenbaar, met de jas zelf als inzet."
+    }
+  ],
+  "waarom": {
+    "niche": "streetwear",
+    "kop": "Zo groeien streetwearmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw streetwearmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief bij elke drop zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij streetwearmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Filling Pieces nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1115:170",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij the new originals",
+    "kop": "welkom bij the new originals.",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn, wat de passport oplevert en hoe je je eerste visa unlockt.",
+    "punten": [
+      "Herokaart in zwart met de Curve Puffer in leopard en jullie eigen omschrijving: performance clothing voor de creatieve generatie",
+      "De passport in drie punten: als eerste nieuwe collecties zien, private sale en uitnodigingen voor events",
+      "Rood blok 'sign up en unlock je eerste visa' met jullie eigen campagnefoto"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1115:170",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij the new originals",
+      "kop": "welkom bij the new originals.",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn, wat de passport oplevert en hoe je je eerste visa unlockt.",
+      "punten": [
+        "Herokaart in zwart met de Curve Puffer in leopard en jullie eigen omschrijving: performance clothing voor de creatieve generatie",
+        "De passport in drie punten: als eerste nieuwe collecties zien, private sale en uitnodigingen voor events",
+        "Rood blok 'sign up en unlock je eerste visa' met jullie eigen campagnefoto"
+      ]
+    },
+    {
+      "node": "1115:196",
+      "type": "Merkverhaal + productspotlight",
+      "onderwerp": "Van een blog in 2011 naar Zeedijk 59a",
+      "kop": "van een blog in 2011 naar zeedijk 59a.",
+      "tekst": "Een mail die het verhaal van de flagship store koppelt aan de nieuwe outerwear, met de 9-Dots-gedachte als afsluiter.",
+      "punten": [
+        "Hero met de drukte voor de winkel op de Zeedijk",
+        "Vier producten met prijs en knop: Curve Puffer leopard (€220) en black (€219,99), Engine Light Down Jacket lion camo (€190) en de 9 Emblem Cap",
+        "Zwart blok 'think out of the box' over het 9-Dots logo en de negen-puntenpuzzel"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
