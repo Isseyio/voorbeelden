@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "boldwill-mx28b",
+  "merk": "Boldwill",
+  "domein": "boldwill.com",
+  "lead_id": "2026-11-03-boldwill.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Sportkleding zonder plastic, in steeds nieuwe invalshoeken.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Boldwill, ik heb dit gemaakt omdat jullie materiaalverhaal, van TENCEL™ tot natuurrubber, veel meer invalshoeken geeft dan één campagne. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1103:75",
+      "titel": "Waar de jogger van is gemaakt",
+      "waarom": "Echte materialen met detailfoto's maken de meerprijs van duurzame sportkleding concreet."
+    },
+    {
+      "node": "1103:98",
+      "titel": "Sporten in hout, niet in plastic",
+      "waarom": "Een grote typografische kop met jullie eigen sportfoto's stopt de duim en vertelt de missie in één zin."
+    },
+    {
+      "node": "1103:111",
+      "titel": "Eén jogger voor je hele dag",
+      "waarom": "De dagplanning laat zien dat ademend, geurwerend en antistatisch van ochtendrun tot bank werkt."
+    }
+  ],
+  "waarom": {
+    "niche": "sportkleding",
+    "kop": "Zo groeien sportmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sportmerk niet via Google, maar tijdens het scrollen. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe invalshoeken testen, houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende drop.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sportmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Gymshark nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1104:62",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Athletes of Nature",
+    "kop": "Welkom bij de Athletes of Nature",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers die meteen laat zien waar Boldwill voor staat, met de jogger groot in beeld en jullie verhaal over Natural Progression.",
+    "punten": [
+      "Herokaart met de [PF77.Wood] Jogger en de belofte van early access",
+      "Drie punten: natuurlijke oorsprong, vrij van PFAS, BPA en AZO, gratis verzending in de EU vanaf €100",
+      "Tweede blok met Natural Progression en een link naar jullie verhaal"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1104:62",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Athletes of Nature",
+      "kop": "Welkom bij de Athletes of Nature",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers die meteen laat zien waar Boldwill voor staat, met de jogger groot in beeld en jullie verhaal over Natural Progression.",
+      "punten": [
+        "Herokaart met de [PF77.Wood] Jogger en de belofte van early access",
+        "Drie punten: natuurlijke oorsprong, vrij van PFAS, BPA en AZO, gratis verzending in de EU vanaf €100",
+        "Tweede blok met Natural Progression en een link naar jullie verhaal"
+      ]
+    },
+    {
+      "node": "1104:96",
+      "type": "Merkverhaal + productspotlight",
+      "onderwerp": "Waarom wij geen polyester willen",
+      "kop": "Road to Plastic Free Sportswear",
+      "tekst": "Een nieuwsbrief die uitlegt waarom Boldwill zonder plastic wil werken, met de jogger en zijn echte eigenschappen uitgelicht.",
+      "punten": [
+        "Hardloopfoto als hero met jullie eigen kop",
+        "De jogger met labels: natuurlijke vezels, zware stof, van nature antistatisch, geurwerend en ademend",
+        "Afsluiting over stap voor stap vooruit, met prijs en een sfeerfoto"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

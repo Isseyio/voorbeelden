@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "inkari-p4ead",
+  "merk": "Inkari",
+  "domein": "inkari-alpaca.com",
+  "lead_id": "2026-11-01-inkari-alpaca.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B8814A",
+  "kop": "Drie nieuwe invalshoeken voor de Inkari-alpaca's.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Inkari, ik heb dit gemaakt omdat jullie alpaca's zo duidelijk laten zien dat elke vacht anders is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1107:4",
+      "titel": "Zacht alpaca",
+      "waarom": "Eén groot woord en drie echte alpaca's laten in een seconde zien wat je koopt en waar het vandaan komt."
+    },
+    {
+      "node": "1107:18",
+      "titel": "Een knuffel belt je op",
+      "waarom": "Een herkenbaar telefoonscherm laat mensen stoppen met scrollen en zet één alpaca groot in beeld."
+    },
+    {
+      "node": "1107:32",
+      "titel": "Sahara of Hazelnut?",
+      "waarom": "Twee kleuren naast elkaar maken van kijken een keuze, en dat is vaak de stap naar de winkelwagen."
+    }
+  ],
+  "waarom": {
+    "niche": "cadeaus",
+    "kop": "Zo groeien cadeaumerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw cadeaumerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als er weer iemand jarig is.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft It's a Present nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1107:53",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Inkari",
+    "kop": "Welkom bij Inkari",
+    "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: wie Inkari is, waar de alpaca's vandaan komen en waarom elke vacht anders is, met een directe weg naar de collectie.",
+    "punten": [
+      "Handgemaakt in Peru",
+      "Natuurlijk alpacabont",
+      "Samen met meer dan 100 ambachtelijke families"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1107:53",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Inkari",
+      "kop": "Welkom bij Inkari",
+      "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: wie Inkari is, waar de alpaca's vandaan komen en waarom elke vacht anders is, met een directe weg naar de collectie.",
+      "punten": [
+        "Handgemaakt in Peru",
+        "Natuurlijk alpacabont",
+        "Samen met meer dan 100 ambachtelijke families"
+      ]
+    },
+    {
+      "node": "1107:88",
+      "type": "Merkverhaal",
+      "onderwerp": "Kleine alpaca's, grote impact",
+      "kop": "Kleine alpaca's, grote impact.",
+      "tekst": "Een mail die het verhaal achter Inkari vertelt, van het eerste project in Peru tot de families die elke alpaca met de hand maken, en die eindigt bij de alpaca als cadeau.",
+      "punten": [
+        "Het verhaal achter Inkari",
+        "Zo is een Inkari gemaakt",
+        "Van Mini tot XXL (120 cm)"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

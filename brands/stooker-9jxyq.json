@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "stooker-9jxyq",
+  "merk": "Stooker Specialty Coffee",
+  "domein": "stookerspecialtycoffee.com",
+  "lead_id": "2026-11-02-stookerspecialtycoffee.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C8452F",
+  "kop": "Koffie met een verhaal, ook in de feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Stooker, ik heb dit gemaakt omdat jullie bij elke koffie zo'n goed verhaal hebben, van de boeren in Nariño tot de branderij in Amsterdam, terwijl ik in de advertentiebibliotheek van Meta geen advertenties van jullie zag. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1109:4",
+      "titel": "Van Nariño tot Amsterdam",
+      "waarom": "Vier ronde foto's uit jullie eigen oogst vertellen in één blik waar Honey Mountain vandaan komt, wat specialtykopers net dat extra vertrouwen geeft."
+    },
+    {
+      "node": "1109:27",
+      "titel": "Koffie, steeds opnieuw",
+      "waarom": "Het abonnement als schakelaars in een kaart maakt de voordelen meteen duidelijk: 10% korting, zelf je ritme en pauzeren wanneer je wilt."
+    },
+    {
+      "node": "1109:51",
+      "titel": "Don't buy this coffee",
+      "waarom": "Een omgekeerde kop valt op tussen gewone posts en zet de smaaknoten van Gerse precies op het moment dat iemand stopt met scrollen."
+    }
+  ],
+  "waarom": {
+    "niche": "specialty coffee",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe branderij niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief en een abonnement zorgen dat die kopers elke paar weken terugkomen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Koffie Kenner nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1110:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welcome to Stooker",
+    "kop": "Welcome to Stooker",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn sinds 2014, waar jullie op letten bij elke koffie en hoe het abonnement werkt.",
+    "punten": [
+      "Herokaart met Honey Mountain en jullie eigen oogstfoto",
+      "Drie dingen om te onthouden: B Corp, gebrand in Amsterdam, gratis bezorging vanaf €45",
+      "Tweede kaart met het abonnement: 10% korting, zelf je ritme kiezen, pauzeren wanneer je wilt"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1110:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welcome to Stooker",
+      "kop": "Welcome to Stooker",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn sinds 2014, waar jullie op letten bij elke koffie en hoe het abonnement werkt.",
+      "punten": [
+        "Herokaart met Honey Mountain en jullie eigen oogstfoto",
+        "Drie dingen om te onthouden: B Corp, gebrand in Amsterdam, gratis bezorging vanaf €45",
+        "Tweede kaart met het abonnement: 10% korting, zelf je ritme kiezen, pauzeren wanneer je wilt"
+      ]
+    },
+    {
+      "node": "1110:38",
+      "type": "Productspotlight",
+      "onderwerp": "Red fruit, apple and honey",
+      "kop": "Meet Honey Mountain",
+      "tekst": "Een productmail voor één koffie: de honey process uit Nariño, met jullie eigen foto uit de oogst en de details rond de zak.",
+      "punten": [
+        "Hero met de honey beans in de hand",
+        "Smaaknoten als kop en het filter-of-espressoverhaal uit jullie eigen tekst",
+        "Zak met vier labels: Nariño, boven 1.850 meter, honey process, 48 uur fermentatie"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

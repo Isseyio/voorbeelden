@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "marijkemul-c4cam",
+  "merk": "Marijke Mul",
+  "domein": "marijkemul.nl",
+  "lead_id": "2026-11-03-marijkemul.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B8975A",
+  "kop": "Handgemaakt in Haarlem, elke week in de feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Marijke Mul, ik heb dit gemaakt omdat jullie wikkelringen uit één gouden draad op maat maken, en dat verhaal laat zich mooi vertellen in een korte advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1009:2",
+      "titel": "Eén gouden draad",
+      "waarom": "Een hand met de Verwikkeling en drie korte kenmerken laten in één blik zien wat de ring bijzonder maakt."
+    },
+    {
+      "node": "1009:41",
+      "titel": "Zo ontstaat een Verwikkeling",
+      "waarom": "Ontwerp, atelier en goud in drie stappen: wie ziet hoe een sieraad gemaakt wordt, snapt meteen waar de prijs voor staat."
+    },
+    {
+      "node": "1009:82",
+      "titel": "Zonsopgang van dichtbij",
+      "waarom": "Een macrofoto met labels trekt de aandacht naar de details, precies wat bij handgemaakte sieraden overtuigt."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor het volgende moment dat ze willen vieren.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Gassan nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1010:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Marijke Mul",
+    "kop": "Welkom bij Marijke Mul",
+    "tekst": "Fijn dat je er bent. In onze nieuwsbrief vertellen we over nieuwe sieraden, de verhalen erachter en wat er in ons atelier in Haarlem gebeurt.",
+    "punten": [
+      "30+ jaar ervaring",
+      "24.000+ tevreden klanten",
+      "3.000+ persoonlijke sieraden",
+      "Een ontwerpafspraak in de brandstore in Haarlem"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1010:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Marijke Mul",
+      "kop": "Welkom bij Marijke Mul",
+      "tekst": "Fijn dat je er bent. In onze nieuwsbrief vertellen we over nieuwe sieraden, de verhalen erachter en wat er in ons atelier in Haarlem gebeurt.",
+      "punten": [
+        "30+ jaar ervaring",
+        "24.000+ tevreden klanten",
+        "3.000+ persoonlijke sieraden",
+        "Een ontwerpafspraak in de brandstore in Haarlem"
+      ]
+    },
+    {
+      "node": "1010:93",
+      "type": "Merkverhaal",
+      "onderwerp": "Jouw emoties draagbaar",
+      "kop": "Sinds 1998: jouw emoties draagbaar.",
+      "tekst": "Het verhaal van het atelier in Haarlem, de Verwikkeling als oneindige band en wat er mogelijk is met maatwerk.",
+      "punten": [
+        "Handgemaakt door een team van 12 vakmensen",
+        "Verwikkeling: 6 banen, 14 karaat geel- en witgoud",
+        "Bicolor met diamant, vanaf €5.730",
+        "Maatwerk met een persoonlijk verhaal"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

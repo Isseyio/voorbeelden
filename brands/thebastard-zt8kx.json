@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "thebastard-zt8kx",
+  "merk": "The Bastard",
+  "domein": "thebastard.com",
+  "lead_id": "2026-11-03-thebastard.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#F16623",
+  "kop": "Serious outdoor cooking, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team The Bastard, ik heb dit gemaakt omdat ik in de advertentiebibliotheek van Meta wel dealers met jullie kamado's zag, maar geen advertenties van jullie eigen pagina. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1094:4",
+      "titel": "De actie groot in beeld",
+      "waarom": "Een echte actie met een duidelijk bedrag en jullie logo groot in beeld trekt mensen die al over een kamado twijfelen."
+    },
+    {
+      "node": "1094:15",
+      "titel": "Het weekend belt",
+      "waarom": "Een speels inkomend-gesprek-scherm past bij jullie toon en laat de drie series met hun vanaf-prijzen in één beeld zien."
+    },
+    {
+      "node": "1094:26",
+      "titel": "Grill gear",
+      "waarom": "Accessoires zijn een lagere drempel dan een kamado en brengen bestaande eigenaren terug naar de shop."
+    }
+  ],
+  "waarom": {
+    "niche": "keuken",
+    "kop": "Zo groeien keukenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe barbecue niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor accessoires en recepten.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij keukenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Big Green Egg Nederland nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1094:51",
+    "type": "Actiemail",
+    "onderwerp": "Gratis Upgrade Box bij je Core of PRO",
+    "kop": "Gratis Upgrade Box",
+    "tekst": "Een mail rond jullie echte actie: bij elke Core of PRO de Upgrade Box gratis, met tot €352,80 aan accessoires, online of bij een deelnemende dealer tot en met 31 december 2026.",
+    "punten": [
+      "Upgrade Box gratis bij elke Core of PRO",
+      "Tot €352,80 aan accessoires",
+      "20 jaar garantie op keramiek, afhankelijk van model",
+      "14 dagen bedenktijd en bezorging op afspraak"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1094:51",
+      "type": "Actiemail",
+      "onderwerp": "Gratis Upgrade Box bij je Core of PRO",
+      "kop": "Gratis Upgrade Box",
+      "tekst": "Een mail rond jullie echte actie: bij elke Core of PRO de Upgrade Box gratis, met tot €352,80 aan accessoires, online of bij een deelnemende dealer tot en met 31 december 2026.",
+      "punten": [
+        "Upgrade Box gratis bij elke Core of PRO",
+        "Tot €352,80 aan accessoires",
+        "20 jaar garantie op keramiek, afhankelijk van model",
+        "14 dagen bedenktijd en bezorging op afspraak"
+      ]
+    },
+    {
+      "node": "1094:79",
+      "type": "Merkverhaal",
+      "onderwerp": "Straight outta Haarlem",
+      "kop": "Karakter is alles.",
+      "tekst": "Een merkverhaal-mail voor nieuwe inschrijvers: waar The Bastard vandaan komt, de drie series met hun vanaf-prijzen en een afsluiting met de recepten op de site.",
+      "punten": [
+        "Born in Haarlem, burnin' since 2012",
+        "Urban vanaf €799, Core vanaf €899, PRO vanaf €2.399",
+        "Recepten om dit weekend mee te beginnen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

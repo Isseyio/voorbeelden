@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "caes-tf9rj",
+  "merk": "CAES",
+  "domein": "caes-store.com",
+  "lead_id": "2026-11-03-caes-store.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1A1A1A",
+  "kop": "Tijdloze editions, ook in de feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team CAES, ik heb dit gemaakt omdat de lookbookfoto's van Edition 12 heel sterk zijn, terwijl ik in de advertentiebibliotheek van Meta geen advertenties van jullie zag. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1104:14",
+      "titel": "Voor vele seizoenen",
+      "waarom": "Jullie eigen uitgangspunt, mode die niet snel of seizoensgebonden hoeft te zijn, als grote kop met lookbookdetails tussen de woorden en de corset jersey tee met prijs eronder."
+    },
+    {
+      "node": "1104:31",
+      "titel": "€190, extrafine merino",
+      "waarom": "Prijs en materiaal bovenaan en het grote CAES-logo over de profielfoto maken in één blik duidelijk wat het is en wat het kost."
+    },
+    {
+      "node": "1104:40",
+      "titel": "Twee jurken, één edition",
+      "waarom": "De leather look corset dress en de jersey drape dress naast elkaar laten de breedte van Edition 12 zien, met prijzen en de belofte van limited runs."
+    }
+  ],
+  "waarom": {
+    "niche": "damesmode",
+    "kop": "Zo groeien damesmodemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw modemerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief bij elke edition zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij damesmodemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Studio Anneloes nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1104:218",
+    "type": "Welkomstmail",
+    "onderwerp": "Welcome to CAES",
+    "kop": "Welcome to CAES",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, hoe de editions werken en de 10% die jullie al beloven bij inschrijving.",
+    "punten": [
+      "Herokaart met de jersey drape dress en het idee achter de editions",
+      "Drie dingen om te onthouden: made in Italy en Portugal, limited runs, gratis wereldwijde verzending",
+      "Blok met 10% op de eerste bestelling vanaf €85 en het verhaal achter de naam"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1104:218",
+      "type": "Welkomstmail",
+      "onderwerp": "Welcome to CAES",
+      "kop": "Welcome to CAES",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, hoe de editions werken en de 10% die jullie al beloven bij inschrijving.",
+      "punten": [
+        "Herokaart met de jersey drape dress en het idee achter de editions",
+        "Drie dingen om te onthouden: made in Italy en Portugal, limited runs, gratis wereldwijde verzending",
+        "Blok met 10% op de eerste bestelling vanaf €85 en het verhaal achter de naam"
+      ]
+    },
+    {
+      "node": "1104:255",
+      "type": "Merkverhaal + productspotlight",
+      "onderwerp": "Edition 12 is here",
+      "kop": "Edition 12 is here",
+      "tekst": "Een lanceringsmail voor de nieuwe edition: het idee van Helen achter CAES, de cut-out knit top met zijn details en de jersey drape dress als afsluiter.",
+      "punten": [
+        "Hero met de leather look corset dress uit het lookbook",
+        "De cut-out knit top met vier labels: high mock neck, side cut-outs, extrafine merino, made in Italy",
+        "Afsluiting met de 0206 jersey drape dress (€280) en navigatie naar Tops, Bottoms, Dresses en Knitwear"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
