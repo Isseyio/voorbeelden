@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "okimono-pehmj",
+  "merk": "Okimono",
+  "domein": "okimono.nl",
+  "lead_id": "2026-11-02-okimono.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#EB690B",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Okimono.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Okimono, ik heb dit gemaakt omdat jullie elke week een nieuw shirt uitbrengen, en dat ritme volgens mij ook mooi in jullie advertenties past. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1066:5",
+      "titel": "Elke week een nieuw shirt",
+      "waarom": "Laat in één beeld zien wat Okimono anders maakt: 35+ ontwerpers en elke week iets nieuws, met echte mensen in jullie shirts."
+    },
+    {
+      "node": "1066:30",
+      "titel": "De Dom van dichtbij",
+      "waarom": "Een close-up van de print met het verhaal erbij (ontwerper, katoen, Portugal) laat zien waarom een shirt €44,95 waard is."
+    },
+    {
+      "node": "1066:48",
+      "titel": "Het shirt van de week belt",
+      "waarom": "Een speels format dat opvalt tussen gewone productfoto's en het wekelijkse ritme meteen voelbaar maakt."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw shirtmerk niet via Google, maar tijdens het scrollen. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe varianten testen houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor het volgende shirt.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij modemerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1066:62",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Okimono",
+    "kop": "Welkom bij Okimono",
+    "tekst": "Grafische shirts van meer dan 35 ontwerpers, op biologisch katoen. En elke week komt er een nieuw shirt bij.",
+    "punten": [
+      "100% biologisch katoen, 180 g/m²",
+      "Gemaakt in Portugal, met inkt op waterbasis",
+      "60 dagen bedenktijd en makkelijk retour"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1066:62",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Okimono",
+      "kop": "Welkom bij Okimono",
+      "tekst": "Grafische shirts van meer dan 35 ontwerpers, op biologisch katoen. En elke week komt er een nieuw shirt bij.",
+      "punten": [
+        "100% biologisch katoen, 180 g/m²",
+        "Gemaakt in Portugal, met inkt op waterbasis",
+        "60 dagen bedenktijd en makkelijk retour"
+      ]
+    },
+    {
+      "node": "1066:92",
+      "type": "Assortimentsmail",
+      "onderwerp": "Nieuw in de herfst",
+      "kop": "Nieuw in de herfst",
+      "tekst": "Een modelfoto bovenaan, daaronder vier shirts met ontwerper en prijs, en de pre-order deal als afsluiter.",
+      "punten": [
+        "A Forest van Harriet Wansink, nu €29,95",
+        "Fixed!, The Cycling Seventies en Eikel",
+        "Ff wachten? Bespaar dan een tientje met de pre-order"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
