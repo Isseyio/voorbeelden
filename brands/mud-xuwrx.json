@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "mud-xuwrx",
+  "merk": "MUD Jeans",
+  "domein": "mudjeans.com",
+  "lead_id": "2026-10-30-mudjeans.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#22324F",
+  "kop": "Drie nieuwe invalshoeken voor MUD Jeans, rond jeans van oude jeans.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team MUD Jeans, ik heb dit gemaakt omdat jullie inleveractie van €10 voor een oude jeans een sterk en concreet verhaal is dat je steeds op een nieuwe manier kunt laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1303:185",
+      "titel": "€10 voor je oude jeans",
+      "waarom": "Het echte aanbod groot bovenaan en het logo over een eigen foto maakt in één blik duidelijk wat mensen krijgen als ze hun oude jeans inleveren."
+    },
+    {
+      "node": "1303:204",
+      "titel": "Waar je jeans van gemaakt is",
+      "waarom": "Vier materialen met een eigen detailfoto maken het verschil met een gewone jeans tastbaar, zonder dat het een lange uitleg wordt."
+    },
+    {
+      "node": "1303:226",
+      "titel": "Gemaakt om lang te dragen",
+      "waarom": "Een close-up van de Carry Mid Straight met korte callouts en de echte prijs laat zien dat het om kwaliteit gaat, met reviews als bewijs."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe invalshoeken testen houden hun kosten per aankoop laag, ook als ze al veel adverteren. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende paar.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij modemerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1304:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij MUD Jeans, je 10% staat klaar",
+    "kop": "Welkom bij MUD Jeans.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% korting op de eerste bestelling, en meteen wat MUD Jeans anders maakt.",
+    "punten": [
+      "Herokaart met jullie eigen foto van de Carry Mid Straight en knoppen naar dames en heren",
+      "Drie redenen in iconen: jeans van oude jeans, 3.240 liter minder water, gratis ruilen",
+      "Tweede kaart over inleveren: oude jeans van elk merk geeft €10 korting op een nieuw paar"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1304:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij MUD Jeans, je 10% staat klaar",
+      "kop": "Welkom bij MUD Jeans.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% korting op de eerste bestelling, en meteen wat MUD Jeans anders maakt.",
+      "punten": [
+        "Herokaart met jullie eigen foto van de Carry Mid Straight en knoppen naar dames en heren",
+        "Drie redenen in iconen: jeans van oude jeans, 3.240 liter minder water, gratis ruilen",
+        "Tweede kaart over inleveren: oude jeans van elk merk geeft €10 korting op een nieuw paar"
+      ]
+    },
+    {
+      "node": "1304:47",
+      "type": "Merkverhaal",
+      "onderwerp": "Wat er met je oude jeans gebeurt",
+      "kop": "Van oude jeans naar je nieuwe favoriet.",
+      "tekst": "Een merkverhaal over het recyclen: van de ingeleverde jeans via Valencia en Tunesië naar een nieuw paar, met een duidelijke vraag om mee te doen.",
+      "punten": [
+        "Uitleg in een kaart: versnijden, vermalen, mengen met biologisch katoen en opnieuw spinnen",
+        "De Carry Mid Straight met labels: biologisch katoen, gerecycled katoen, Comfort Stretch, MUD-label",
+        "Afsluiting in indigo met de echte inleveractie: €10 korting op een nieuwe MUD Jeans"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

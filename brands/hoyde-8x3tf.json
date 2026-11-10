@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "hoyde-8x3tf",
+  "merk": "Høyde Bags",
+  "domein": "hoyde-bags.com",
+  "lead_id": "2026-11-10-hoyde-bags.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6E4F43",
+  "kop": "Drie nieuwe invalshoeken voor Høyde, van streep tot rits.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Høyde, ik heb dit gemaakt omdat jullie geweven jacquard-streep meteen herkenbaar is, van rugtas tot crossbody. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1195:4",
+      "titel": "Stripe",
+      "waarom": "Eén groot woord en een zoekbalk met 'de perfecte laptoptas' laten in een seconde zien waar Høyde voor staat."
+    },
+    {
+      "node": "1195:25",
+      "titel": "Tot in de rits",
+      "waarom": "Een close-up van de stof en het rits-label laat de kwaliteit zien die je op een kleine productfoto mist."
+    },
+    {
+      "node": "1195:45",
+      "titel": "Blauw of bruin?",
+      "waarom": "Een keuzevraag met twee kleuren van dezelfde rugtas nodigt uit om te reageren en maakt kiezen makkelijk."
+    }
+  ],
+  "waarom": {
+    "niche": "tassen",
+    "kop": "Zo groeien tassenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw tassenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende kleur.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij tassenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "18–28%",
+        "label": "van de online omzet komt bij tassenmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1195:65",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Høyde: je 5% korting staat klaar",
+    "kop": "Welkom bij Høyde",
+    "tekst": "Een welkomstmail die de 5% uit jullie nieuwsbriefblok direct opvolgt en het verhaal van Høyde vertelt.",
+    "punten": [
+      "Gratis verzending vanaf €95 in NL, BE en DE",
+      "Voor 17:00 besteld, dezelfde werkdag verzonden",
+      "Het verhaal van Wout en Merel uit Groningen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1195:65",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Høyde: je 5% korting staat klaar",
+      "kop": "Welkom bij Høyde",
+      "tekst": "Een welkomstmail die de 5% uit jullie nieuwsbriefblok direct opvolgt en het verhaal van Høyde vertelt.",
+      "punten": [
+        "Gratis verzending vanaf €95 in NL, BE en DE",
+        "Voor 17:00 besteld, dezelfde werkdag verzonden",
+        "Het verhaal van Wout en Merel uit Groningen"
+      ]
+    },
+    {
+      "node": "1195:97",
+      "type": "Productspotlight",
+      "onderwerp": "Blossom Blue of Mocha Muse?",
+      "kop": "Blossom Blue of Mocha Muse?",
+      "tekst": "Een kleurvergelijking van de crossbody: dezelfde maat en stof naast elkaar, zodat kiezen makkelijk wordt.",
+      "punten": [
+        "Beide kleuren naast elkaar met prijs",
+        "Vergelijkingstabel: stof, band, maat",
+        "Afsluiter met een knop per kleur"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

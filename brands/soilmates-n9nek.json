@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "soilmates-n9nek",
+  "merk": "Soilmates",
+  "domein": "soilmates.com",
+  "lead_id": "2026-11-10-soilmates.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#00323E",
+  "kop": "Dertig lelijke avocado's, drie nieuwe advertenties.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Soilmates, ik heb dit gemaakt omdat jullie verhaal zo concreet is: dertig geredde avocado's per fles en olie die tot 270°C stabiel blijft. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1215:42",
+      "titel": "270°C als haakje",
+      "waarom": "Eén groot getal en het hele assortiment in beeld laat in een seconde zien waarom deze olie anders is."
+    },
+    {
+      "node": "1215:60",
+      "titel": "Wat er in de fles zit",
+      "waarom": "Vier echte feiten met foto's maken het verhaal van de lelijke avocado's tastbaar voor wie het merk nog niet kent."
+    },
+    {
+      "node": "1215:82",
+      "titel": "Prijs voorop",
+      "waarom": "Een duidelijke prijs boven een herkenbare supermarktfoto haalt de drempel weg om een eerste fles te proberen."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien foodmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw foodmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers een tweede fles bestellen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Olijfolie Concurrent nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1215:264",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de club (en 10% korting)",
+    "kop": "Welkom bij de club",
+    "tekst": "Fijn dat je erbij bent. Wij maken olie van avocado's die te lelijk waren voor de supermarkt. Als bedankje krijg je 10% korting op je volgende bestelling.",
+    "punten": [
+      "Stabiel tot 270°C: bakken, braden, BBQ",
+      "30 geredde avocado's per fles",
+      "100% avocado, niets anders erin"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1215:264",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de club (en 10% korting)",
+      "kop": "Welkom bij de club",
+      "tekst": "Fijn dat je erbij bent. Wij maken olie van avocado's die te lelijk waren voor de supermarkt. Als bedankje krijg je 10% korting op je volgende bestelling.",
+      "punten": [
+        "Stabiel tot 270°C: bakken, braden, BBQ",
+        "30 geredde avocado's per fles",
+        "100% avocado, niets anders erin"
+      ]
+    },
+    {
+      "node": "1215:295",
+      "type": "Assortiment",
+      "onderwerp": "Eén olie voor alles. En nog drie.",
+      "kop": "Eén olie voor alles. En nog drie.",
+      "tekst": "Van de dagelijkse fles tot het 5-liter blik, elk product met een korte uitleg en een eigen knop.",
+      "punten": [
+        "Avocado Olie 500 ml · €8,99",
+        "Chef's Edition knijpfles 620 ml · €10,50",
+        "Macadamia Olie 500 ml · €7,49",
+        "Avocado Olie 5 liter blik · €69,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

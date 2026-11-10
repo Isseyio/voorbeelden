@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "blueprint-9jbxu",
+  "merk": "Blueprint Eyewear",
+  "domein": "blueprinteyewear.com",
+  "lead_id": "2026-11-10-blueprinteyewear.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#26a3e3",
+  "kop": "Ontworpen in Nederland, klaar voor Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Blueprint Eyewear, ik heb dit gemaakt omdat de Senna in vier kleuren lenzen zich heel goed leent voor advertenties waarin je kunt kiezen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1231:3",
+      "titel": "Prijs en merk",
+      "waarom": "Een duidelijke prijs met een herkenbare modelfoto laat in één blik zien wat je krijgt en wat het kost."
+    },
+    {
+      "node": "1231:12",
+      "titel": "Kies je kleur",
+      "waarom": "Vier lenskleuren naast elkaar nodigen uit om te kiezen, en wie kiest, klikt sneller door."
+    },
+    {
+      "node": "1231:35",
+      "titel": "De zon belt",
+      "waarom": "Een speels concept valt op tussen gewone posts en zet het product groot in beeld."
+    }
+  ],
+  "waarom": {
+    "niche": "zonnebrillen",
+    "kop": "Zo groeien zonnebrillenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw zonnebrillenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij zonnebrillenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "150+",
+        "label": "advertenties heeft Kapten & Son nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1231:48",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Blueprint Eyewear",
+    "kop": "Welkom bij Blueprint Eyewear",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie Blueprint is, waarom je bij jullie bestelt en een zachte duw naar het eerste montuur.",
+    "punten": [
+      "Gratis verzending vanaf €75",
+      "Voor 22:00 besteld, zelfde dag verzonden",
+      "14 dagen om te retourneren"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1231:48",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Blueprint Eyewear",
+      "kop": "Welkom bij Blueprint Eyewear",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie Blueprint is, waarom je bij jullie bestelt en een zachte duw naar het eerste montuur.",
+      "punten": [
+        "Gratis verzending vanaf €75",
+        "Voor 22:00 besteld, zelfde dag verzonden",
+        "14 dagen om te retourneren"
+      ]
+    },
+    {
+      "node": "1231:85",
+      "type": "Productspotlight",
+      "onderwerp": "Eén montuur, vier kleuren lenzen",
+      "kop": "Maak kennis met de Senna",
+      "tekst": "De Senna uitgelicht: wat de nylon lenzen en het montuur doen, en een eenvoudige vergelijking tussen Black Apple en Black Fire.",
+      "punten": [
+        "Nylon lenzen met 100% UV-bescherming",
+        "Vergelijking van twee kleuren",
+        "Modelfoto's van jullie eigen site"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

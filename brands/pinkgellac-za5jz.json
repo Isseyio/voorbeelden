@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "pinkgellac-za5jz",
+  "merk": "Pink Gellac",
+  "domein": "pinkgellac.com",
+  "lead_id": "2026-10-31-pinkgellac.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E00086",
+  "kop": "Drie nieuwe invalshoeken voor Pink Gellac, van starterkit tot adventskalender.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Pink Gellac, ik heb dit gemaakt omdat jullie elke maand nieuwe kleuren lanceren en dat vraagt om steeds nieuwe advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1297:3",
+      "titel": "Nagelstudio in 30 minuten",
+      "waarom": "Een routinekaart met de drie stappen van 60 seconden laat beginners zien hoe makkelijk gellak thuis is, met de lamp ernaast."
+    },
+    {
+      "node": "1298:2",
+      "titel": "Salonnagels, gewoon thuis",
+      "waarom": "Jullie eigen handfoto met de Classic French press-ons en korte kenmerken links en rechts beantwoordt meteen de vragen: wat is het, wat kost het en hoe snel heb ik het."
+    },
+    {
+      "node": "1298:19",
+      "titel": "De adventskalender belt",
+      "waarom": "Een inkomend gesprek valt op tussen gewone productadvertenties en maakt van de adventskalender een speels cadeaumoment."
+    }
+  ],
+  "waarom": {
+    "niche": "beauty",
+    "kop": "Zo groeien beautymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe kleur of een nieuw merk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe invalshoeken testen, houden hun kosten per aankoop laag, ook als ze al veel adverteren. Een vaste nieuwsbrief zorgt dat kopers terugkomen bij de volgende drop.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij beautymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij beautymerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1300:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Pink Gellac",
+    "kop": "Welkom bij Pink Gellac",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% welkomstkorting, waarom Pink Gellac en hoe gellak thuis werkt.",
+    "punten": [
+      "Herokaart in jullie magenta met de Cocoon LED Lamp en de 10% welkomstkorting",
+      "Waarom Pink Gellac in drie punten: tot 14 dagen, HEMA- en TPO-vrij, klaar in 30 minuten",
+      "Een tweede kaart met jullie handfoto: base coat, kleur en top coat, elk 60 seconden onder de lamp"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1300:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Pink Gellac",
+      "kop": "Welkom bij Pink Gellac",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% welkomstkorting, waarom Pink Gellac en hoe gellak thuis werkt.",
+      "punten": [
+        "Herokaart in jullie magenta met de Cocoon LED Lamp en de 10% welkomstkorting",
+        "Waarom Pink Gellac in drie punten: tot 14 dagen, HEMA- en TPO-vrij, klaar in 30 minuten",
+        "Een tweede kaart met jullie handfoto: base coat, kleur en top coat, elk 60 seconden onder de lamp"
+      ]
+    },
+    {
+      "node": "1300:35",
+      "type": "Assortimentsmail",
+      "onderwerp": "Klaar voor de feestdagen?",
+      "kop": "Klaar voor de feestdagen?",
+      "tekst": "Een mail rond de festive collectie: jullie eigen modelfoto en vier producten met prijs en knop.",
+      "punten": [
+        "Hero met jullie eigen campagnefoto",
+        "Cocoon LED Lamp (€59), Sultry Sparks Mini Set (€39), Premium Storage Case Festive Tartan (€89) en 445 Butter Yellow (€14)",
+        "Afsluiting met 4,5/5 uit 50.000+ Trustpilot-reviews en jullie festive foto"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

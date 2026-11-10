@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "olaf-5r2zr",
+  "merk": "OLAF",
+  "domein": "olafhussein.com",
+  "lead_id": "2026-10-30-olafhussein.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4F5A3E",
+  "kop": "Drie nieuwe invalshoeken voor de Olaf Puffer Jacket.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team OLAF, ik heb dit gemaakt omdat jullie nieuwe winterlooks zo sterk geschoten zijn dat ze eigenlijk vanzelf advertenties worden. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1293:3",
+      "titel": "Een winter vol looks",
+      "waarom": "Grote woorden met kleine sfeerfoto's ertussen laten in één beeld zowel de collectie als de jas zien."
+    },
+    {
+      "node": "1293:18",
+      "titel": "De prijs vooraan",
+      "waarom": "Een duidelijke prijs boven een sterke modelfoto helpt mensen die al twijfelen om door te klikken."
+    },
+    {
+      "node": "1293:26",
+      "titel": "De winter belt",
+      "waarom": "Een speels beeld van een inkomend gesprek valt op tussen gewone modefoto's en blijft beter hangen."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw modemerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag omdat een advertentie na een paar weken moe wordt. Een vaste nieuwsbrief zorgt dat kopers terugkomen voor de volgende collectie.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "300+",
+        "label": "advertenties heeft Axel Arigato nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1295:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij OLAF",
+    "kop": "Welkom bij OLAF",
+    "tekst": "Amsterdams label sinds 2015, met een eigen winkel aan de Bilderdijkstraat. Met uitleg over punten sparen, gratis verzending vanaf €100 en 30 dagen gratis ruilen in de winkel.",
+    "punten": [
+      "Punten sparen bij elke aankoop",
+      "Gratis verzending vanaf €100",
+      "30 dagen gratis ruilen in de winkel"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1295:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij OLAF",
+      "kop": "Welkom bij OLAF",
+      "tekst": "Amsterdams label sinds 2015, met een eigen winkel aan de Bilderdijkstraat. Met uitleg over punten sparen, gratis verzending vanaf €100 en 30 dagen gratis ruilen in de winkel.",
+      "punten": [
+        "Punten sparen bij elke aankoop",
+        "Gratis verzending vanaf €100",
+        "30 dagen gratis ruilen in de winkel"
+      ]
+    },
+    {
+      "node": "1295:30",
+      "type": "Productspotlight",
+      "onderwerp": "De nieuwe winterlooks en de Olaf Puffer Jacket",
+      "kop": "De nieuwe winterlooks",
+      "tekst": "Een sfeerbeeld uit de nieuwe collectie, daarna de Olaf Puffer Jacket uitgelicht met zijn details en de drie kleuren naast elkaar.",
+      "punten": [
+        "Echt dons en een ingebouwde capuchon",
+        "Zwart, Blue Slate en Lichtbruin",
+        "€295"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
