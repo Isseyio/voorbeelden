@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "naturalheroes-hbbmh",
+  "merk": "Natural Heroes",
+  "domein": "naturalheroes.nl",
+  "lead_id": "2026-11-10-naturalheroes.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A9BBA3",
+  "kop": "Drie nieuwe invalshoeken voor No BS Deo.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Natural Heroes, ik heb dit gemaakt omdat jullie No BS Deo in zes geuren zelf maken in Utrecht, en dat verhaal goed in beeld te brengen is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1370:2",
+      "titel": "De hele lijn",
+      "waarom": "Eén groot woord en drie geuren naast elkaar laten in een seconde zien wat No BS Deo is en dat er keuze is."
+    },
+    {
+      "node": "1370:19",
+      "titel": "Elke dag een andere geur",
+      "waarom": "De weekstrip maakt van zes geuren een speels gebruiksmoment, zodat mensen er meer dan één willen proberen."
+    },
+    {
+      "node": "1370:43",
+      "titel": "Zelf gemaakt in Utrecht",
+      "waarom": "Een echte foto met de pot in de hand en korte feiten bouwt vertrouwen op bij mensen die het merk nog niet kennen."
+    }
+  ],
+  "waarom": {
+    "niche": "verzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw verzorgingsmerk niet via Google, maar tijdens het scrollen. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe varianten testen houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat nieuwe kopers terugkomen voor een volgende pot.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Wild nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1371:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Natural Heroes",
+    "kop": "Welkom bij Natural Heroes",
+    "tekst": "Een rustige eerste kennismaking: wie jullie zijn, waarom No BS Deo anders is en een duidelijke eerste stap naar de webshop.",
+    "punten": [
+      "Zes geuren, van Fresh Balance tot Velvet Rose",
+      "Gemaakt in de eigen werkplaats in Utrecht, sinds 2016",
+      "Kiyoh 9,3 als vertrouwen in één oogopslag",
+      "Pot €12,99 of abonnement €29,22 per 3 maanden"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1371:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Natural Heroes",
+      "kop": "Welkom bij Natural Heroes",
+      "tekst": "Een rustige eerste kennismaking: wie jullie zijn, waarom No BS Deo anders is en een duidelijke eerste stap naar de webshop.",
+      "punten": [
+        "Zes geuren, van Fresh Balance tot Velvet Rose",
+        "Gemaakt in de eigen werkplaats in Utrecht, sinds 2016",
+        "Kiyoh 9,3 als vertrouwen in één oogopslag",
+        "Pot €12,99 of abonnement €29,22 per 3 maanden"
+      ]
+    },
+    {
+      "node": "1371:33",
+      "type": "Merkverhaal",
+      "onderwerp": "Van een keuken in 2016 naar onze eigen werkplaats",
+      "kop": "Van een keuken in 2016 naar onze eigen werkplaats",
+      "tekst": "Het verhaal van Nevil en het team van acht, met No BS Deo als voorbeeldproduct en een duidelijke knop naar de shop.",
+      "punten": [
+        "Begonnen in de keuken van Nevils ouders",
+        "Alles zelf gemaakt in Utrecht",
+        "Fresh Balance met salie uitgelicht",
+        "Afsluiting met een shopknop"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "indianblue-9hzkj",
+  "merk": "Indian Blue Jeans",
+  "domein": "indianbluejeans.com",
+  "lead_id": "2026-11-01-indianbluejeans.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2A4876",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Indian Blue Jeans, rond de AW26-jeans voor jongens en meisjes.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Indian Blue Jeans, ik heb dit gemaakt omdat jullie al sinds 2014 denim maken voor kids die durven op te vallen, en jullie AW26-foto's laten dat goed zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1367:4",
+      "titel": "Durven op te vallen",
+      "waarom": "Een grote kop met jullie eigen campagnefoto's tussen de woorden valt op tussen gewone posts en vertelt in één keer waar het merk voor staat."
+    },
+    {
+      "node": "1367:28",
+      "titel": "Welke fit wordt het?",
+      "waarom": "Twee jeans naast elkaar laten ouders en kids kiezen in plaats van twijfelen, en tonen meteen dat er meerdere fits in maat 104 tot 176 zijn."
+    },
+    {
+      "node": "1367:52",
+      "titel": "Nieuwe jeans, één prijs",
+      "waarom": "Eén duidelijke prijs bovenaan met jullie logo groot over een echte foto uit de AW26-collectie maakt de keuze voor ouders makkelijk."
+    }
+  ],
+  "waarom": {
+    "niche": "kinderkleding",
+    "kop": "Zo groeien kindermodemerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw kindermerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als de volgende collectie binnen is.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kindermodemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Retour Jeans nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1368:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de crew",
+    "kop": "Welkom bij de crew.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, sinds 2014 denim voor jongens en meisjes van 4 tot 16 jaar, en meteen drie favorieten uit de nieuwe collectie.",
+    "punten": [
+      "Korte welkomst met jullie eigen foto uit de AW26-collectie",
+      "Drie favorieten met packshot, prijs en knop: Baggy Straight Fit, Hoodie Indian Blue en Sweater Applique",
+      "Blok 'Vind jouw fit' met alle jeans in maat 104 tot 176"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1368:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de crew",
+      "kop": "Welkom bij de crew.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, sinds 2014 denim voor jongens en meisjes van 4 tot 16 jaar, en meteen drie favorieten uit de nieuwe collectie.",
+      "punten": [
+        "Korte welkomst met jullie eigen foto uit de AW26-collectie",
+        "Drie favorieten met packshot, prijs en knop: Baggy Straight Fit, Hoodie Indian Blue en Sweater Applique",
+        "Blok 'Vind jouw fit' met alle jeans in maat 104 tot 176"
+      ]
+    },
+    {
+      "node": "1368:60",
+      "type": "Merkverhaal + product",
+      "onderwerp": "No guts, no stories",
+      "kop": "No guts, no stories.",
+      "tekst": "Een mail rond jullie eigen verhaal over lef en denim, met de Extra Wide Fit Medium Denim als uitgelicht product.",
+      "punten": [
+        "Hero met jullie eigen campagnefoto en een kaart met het merkverhaal",
+        "De Extra Wide Fit Medium Denim met vier labels: katoen, wijde pijp, maat 104 tot 176 en de prijs",
+        "Afsluiting in donker met een tweede foto uit de AW26-collectie"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
