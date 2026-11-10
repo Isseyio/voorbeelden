@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "namashea-8kn78",
+  "merk": "Namashea",
+  "domein": "namashea.nl",
+  "lead_id": "2026-11-10-namashea.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3B2B20",
+  "kop": "Shea boter en zwarte zeep uit Ghana, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Rachel, ik heb dit gemaakt omdat het verhaal van de vrouwen in Ghana en De Weerdhoeve zich goed leent voor Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1333:258",
+      "titel": "Wat erin zit",
+      "waarom": "Laat in één beeld zien waar de zwarte zeep van gemaakt is en wie hem maakt; dat verhaal geeft nieuwe kopers vertrouwen."
+    },
+    {
+      "node": "1333:280",
+      "titel": "Eén ingrediënt",
+      "waarom": "Een korte, eerlijke belofte op jullie eigen sfeerfoto valt op tussen de glanzende beauty-advertenties."
+    },
+    {
+      "node": "1334:2",
+      "titel": "Zes geuren",
+      "waarom": "Laat zien dat er voor iedereen een geur is en begint bij een lage instapprijs van €4,50."
+    }
+  ],
+  "waarom": {
+    "niche": "verzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw verzorgingsmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een nieuw blik of blok zeep.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15+",
+        "label": "advertenties heeft Puur Geluk nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1335:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Namashea",
+    "kop": "Welkom bij Namashea",
+    "tekst": "Een warme eerste mail voor nieuwe inschrijvers: wie jullie zijn, waar de shea boter en zwarte zeep vandaan komen en waar je het beste kunt beginnen.",
+    "punten": [
+      "Herokaart met jullie eigen foto van het open blik",
+      "Drie redenen: één ingrediënt, handgemaakt in Ghana, snel verzonden",
+      "De starterset als eerste stap (€19,95)"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1335:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Namashea",
+      "kop": "Welkom bij Namashea",
+      "tekst": "Een warme eerste mail voor nieuwe inschrijvers: wie jullie zijn, waar de shea boter en zwarte zeep vandaan komen en waar je het beste kunt beginnen.",
+      "punten": [
+        "Herokaart met jullie eigen foto van het open blik",
+        "Drie redenen: één ingrediënt, handgemaakt in Ghana, snel verzonden",
+        "De starterset als eerste stap (€19,95)"
+      ]
+    },
+    {
+      "node": "1335:34",
+      "type": "Merkverhaal",
+      "onderwerp": "Van Ghana naar De Weerdhoeve",
+      "kop": "Van Ghana naar De Weerdhoeve",
+      "tekst": "Rachels verhaal in een mail: van Dubai terug naar het erf in Rijssen, het project in Ghana en wat er in de zwarte zeep zit.",
+      "punten": [
+        "Verhaal van Rachel, in haar eigen woorden van de site",
+        "African Black Soap met shea boter, kokosolie en plantenas",
+        "Afsluiting met de herkomst van de naam Namashea"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

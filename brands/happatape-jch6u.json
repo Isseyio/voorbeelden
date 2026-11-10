@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "happatape-jch6u",
+  "merk": "HappaTape",
+  "domein": "happatape.nl",
+  "lead_id": "2026-11-04-happatape.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#224F50",
+  "kop": "Neusstrips en mondtape, klaar voor Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team HappaTape, ik heb dit gemaakt omdat jullie zulke sterke eigen foto's hebben van sporters en slapers met jullie strips. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1332:79",
+      "titel": "Echte reviews",
+      "waarom": "Echte Trustpilot-reviews naast een hardloper met de neusstrip geven nieuwe kopers meteen vertrouwen."
+    },
+    {
+      "node": "1332:192",
+      "titel": "Twee neusstrips naast elkaar",
+      "waarom": "Door Transparant en Peak Perform naast elkaar te zetten, ziet iemand in één oogopslag welke bij hem past."
+    },
+    {
+      "node": "1332:221",
+      "titel": "Bespaar met een abonnement",
+      "waarom": "Een concreet voordeel van tot 30 procent geeft twijfelaars een reden om te beginnen, en een abonnement levert vaste klanten op."
+    }
+  ],
+  "waarom": {
+    "niche": "wellness",
+    "kop": "Zo groeien wellnessmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw slaap- of sportmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, zeker bij een abonnement.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij wellnessmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "400+",
+        "label": "advertenties heeft Snoozeless nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1332:340",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij HappaTape",
+    "kop": "Welkom bij HappaTape",
+    "tekst": "Fijn dat je er bent. HappaTape helpt je beter te slapen en energieker te sporten, met neusstrips en mondtape die je in een paar seconden aanbrengt.",
+    "punten": [
+      "Kies je doel: beter slapen, beter ademen bij sport of stoppen met snurken",
+      "Begin met de Duo Bundel, vanaf €25,50",
+      "Gratis verzending vanaf €30"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1332:340",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij HappaTape",
+      "kop": "Welkom bij HappaTape",
+      "tekst": "Fijn dat je er bent. HappaTape helpt je beter te slapen en energieker te sporten, met neusstrips en mondtape die je in een paar seconden aanbrengt.",
+      "punten": [
+        "Kies je doel: beter slapen, beter ademen bij sport of stoppen met snurken",
+        "Begin met de Duo Bundel, vanaf €25,50",
+        "Gratis verzending vanaf €30"
+      ]
+    },
+    {
+      "node": "1333:2",
+      "type": "Productspotlight",
+      "onderwerp": "Overdag én in de nacht: de Duo Bundel",
+      "kop": "Overdag én in de nacht",
+      "tekst": "Neusstrips openen je neusgangen, mondtape sluit je mond zachtjes. Samen helpen ze je om door je neus te ademen, bij het sporten en in bed.",
+      "punten": [
+        "Mondtape: zacht voor de huid en blijft goed zitten",
+        "30 stuks per zak",
+        "Duo Bundel vanaf €25,50 (was €34,98)"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

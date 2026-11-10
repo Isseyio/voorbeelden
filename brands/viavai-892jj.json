@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "viavai-892jj",
+  "merk": "VIA VAI",
+  "domein": "viavaishoes.com",
+  "lead_id": "2026-11-01-viavaishoes.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3B2A20",
+  "kop": "Drie nieuwe invalshoeken voor VIA VAI, rond de laarzen van dit najaar.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team VIA VAI, ik heb dit gemaakt omdat jullie collectie zoveel sterke varianten heeft, zoals de Kate Malina in leopard, bruin en zwart, dat je er elke week een nieuwe advertentie mee kunt maken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1333:88",
+      "titel": "Eén woord: leopard",
+      "waarom": "Een groot woord met drie leopardmodellen eronder laat in één blik een hele trend uit jullie collectie zien, van enkellaars tot loafer."
+    },
+    {
+      "node": "1333:104",
+      "titel": "Eén laars, twee kleuren",
+      "waarom": "Twee varianten naast elkaar met prijs helpen mensen kiezen in plaats van twijfelen, en tonen meteen dat er keuze is."
+    },
+    {
+      "node": "1333:128",
+      "titel": "Je sneaker belt",
+      "waarom": "Een speels inkomend gesprek valt op tussen gewone productfoto's en zet de Nilla Macy groot in beeld, met de prijs en de levertijd erbij."
+    }
+  ],
+  "waarom": {
+    "niche": "schoenen",
+    "kop": "Zo groeien schoenenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw schoenenmerk niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe invalshoeken testen houden hun kosten per aankoop laag, ook als ze al veel adverteren. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende paar.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij schoenenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij schoenenmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1333:160",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij VIA VAI",
+    "kop": "Welkom bij VIA VAI.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie VIA VAI is, waarom de schoenen met de hand in Europa gemaakt worden, en meteen een product om mee te beginnen.",
+    "punten": [
+      "Herokaart met jullie eigen packshot van de Nilla Macy en een knop naar de collectie",
+      "Drie redenen in iconen: handgemaakt (97% in Portugal), voor 23:59 besteld morgen in huis, gratis retour",
+      "Tweede kaart over de makers: zes keer per jaar bij de fabrikanten, met de Kate Malina in leopard"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1333:160",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij VIA VAI",
+      "kop": "Welkom bij VIA VAI.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie VIA VAI is, waarom de schoenen met de hand in Europa gemaakt worden, en meteen een product om mee te beginnen.",
+      "punten": [
+        "Herokaart met jullie eigen packshot van de Nilla Macy en een knop naar de collectie",
+        "Drie redenen in iconen: handgemaakt (97% in Portugal), voor 23:59 besteld morgen in huis, gratis retour",
+        "Tweede kaart over de makers: zes keer per jaar bij de fabrikanten, met de Kate Malina in leopard"
+      ]
+    },
+    {
+      "node": "1333:205",
+      "type": "Productspotlight",
+      "onderwerp": "Onze herfstfavorieten",
+      "kop": "Herfstfavorieten",
+      "tekst": "Een assortimentsmail rond enkellaarzen en loafers voor het najaar, met per model een korte regel, de prijs en een knop.",
+      "punten": [
+        "Hero met drie laarzen naast elkaar: Suzy Franky, Kate Jemma en Kate Malina",
+        "Vier producten met eigen packshot, kleur, prijs en knop",
+        "Afsluiting met jullie Kiyoh-score van 9,2 als bewijs"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

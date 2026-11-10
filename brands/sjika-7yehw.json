@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "sjika-7yehw",
+  "merk": "Sjika",
+  "domein": "sjika.nl",
+  "lead_id": "2026-11-01-sjika.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#D29D45",
+  "kop": "Drie ideeën voor Sjika op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Sjika, ik heb dit gemaakt omdat jullie elk horloge zelf met de hand bouwen in een eigen atelier, en dat verhaal verdient een plek in jullie advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1331:2",
+      "titel": "Met de hand gebouwd",
+      "waarom": "De Smurf in het midden met jullie zekerheden eromheen laat in één beeld zien waarom iemand bij Sjika koopt en niet bij een willekeurige webshop."
+    },
+    {
+      "node": "1331:23",
+      "titel": "Gebouwd met",
+      "waarom": "Wie een horloge van bijna 300 euro koopt, wil weten wat erin zit: saffierglas, staal en het NH34-uurwerk in beeld nemen die twijfel weg."
+    },
+    {
+      "node": "1331:45",
+      "titel": "Vanaf €264,99",
+      "waarom": "Een echte draagfoto van een klant met een duidelijke vanaf-prijs voelt eerlijk en laat zien hoe zo'n mod om de pols zit."
+    }
+  ],
+  "waarom": {
+    "niche": "horloges",
+    "kop": "Zo groeien horloge- en sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw horlogemerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende horloge of een sieraad.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij horloge- en sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "90+",
+        "label": "advertenties heeft Monomods nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1332:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Sjika",
+    "kop": "Welkom bij Sjika",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: dat elk horloge met de hand in het eigen atelier gebouwd wordt, de drie zekerheden (eigen atelier, gratis verzending, 30 dagen retour) en de bestsellers als eerste stap.",
+    "punten": [
+      "Eigen atelier en gratis service na elke bestelling",
+      "Gratis verzending en 30 dagen retour",
+      "Bestsellers als makkelijke eerste stap"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1332:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Sjika",
+      "kop": "Welkom bij Sjika",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: dat elk horloge met de hand in het eigen atelier gebouwd wordt, de drie zekerheden (eigen atelier, gratis verzending, 30 dagen retour) en de bestsellers als eerste stap.",
+      "punten": [
+        "Eigen atelier en gratis service na elke bestelling",
+        "Gratis verzending en 30 dagen retour",
+        "Bestsellers als makkelijke eerste stap"
+      ]
+    },
+    {
+      "node": "1332:42",
+      "type": "Merkverhaal",
+      "onderwerp": "Gebouwd met de hand",
+      "kop": "Gebouwd met de hand, niet uit een fabriek",
+      "tekst": "Het verhaal van Sjika: van Seiko mods sinds 2020 naar een eigen atelier, met de GMTEIKO Batman uitgelicht met zijn onderdelen en een afsluiting met een draagfoto.",
+      "punten": [
+        "Van hobby in 2020 naar eigen atelier",
+        "GMTEIKO Batman met saffierglas en NH34-uurwerk",
+        "Draagfoto en prijs als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

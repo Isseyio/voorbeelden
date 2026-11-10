@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "weltershelter-6mnsf",
+  "merk": "Welter Shelter",
+  "domein": "weltershelter.com",
+  "lead_id": "2026-11-10-weltershelter.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#231F20",
+  "kop": "Drie nieuwe invalshoeken voor Welter Shelter, gemaakt voor Nederlands weer.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Welter Shelter, ik heb dit gemaakt omdat jullie technische specs zoals de waterkolom zo duidelijk op elke jas zetten, en dat is sterk materiaal voor advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1332:131",
+      "titel": "10.000 mm",
+      "waarom": "Eén groot getal maakt in een seconde duidelijk waarom deze jassen anders zijn dan een gewone winterjas."
+    },
+    {
+      "node": "1332:146",
+      "titel": "Voor- en achterkant",
+      "waarom": "Twee foto's naast elkaar met korte labels laten de details zien die je op één productfoto mist, zoals de kraag en de stormflap."
+    },
+    {
+      "node": "1332:172",
+      "titel": "Gekookte wol met membraan",
+      "waarom": "Een close-up van de stof met korte uitleg laat zien dat een wollen overcoat ook waterdicht kan zijn."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw jassenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag, ook als een paar advertenties na een paar weken moe worden. Een vaste nieuwsbrief zorgt dat kopers terugkomen als het volgende seizoen begint.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Maium nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1332:237",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Welter Shelter",
+    "kop": "Welkom bij Welter Shelter",
+    "tekst": "Een welkomstmail voor nieuwe aanmeldingen op jullie mailinglijst: waar Welter Shelter voor staat en waar ze kunnen beginnen.",
+    "punten": [
+      "Waterdicht, winddicht en ademend, ontworpen in Amsterdam",
+      "Tot 10.000 mm waterkolom en warm tot −10 °C",
+      "Gratis verzending in de EU vanaf €200"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1332:237",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Welter Shelter",
+      "kop": "Welkom bij Welter Shelter",
+      "tekst": "Een welkomstmail voor nieuwe aanmeldingen op jullie mailinglijst: waar Welter Shelter voor staat en waar ze kunnen beginnen.",
+      "punten": [
+        "Waterdicht, winddicht en ademend, ontworpen in Amsterdam",
+        "Tot 10.000 mm waterkolom en warm tot −10 °C",
+        "Gratis verzending in de EU vanaf €200"
+      ]
+    },
+    {
+      "node": "1332:279",
+      "type": "Productspotlight",
+      "onderwerp": "Welke jas past bij jouw winter?",
+      "kop": "Janice B of BB Overcoat?",
+      "tekst": "Een productmail die twee AW26-jassen naast elkaar zet, zodat klanten zelf kiezen tussen stof, waterkolom en prijs.",
+      "punten": [
+        "Jullie eigen campagnefoto's van de Janice B en de BB Overcoat",
+        "Vier kenmerken rond de Janice B",
+        "Vergelijkingstabel met echte specificaties en prijzen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

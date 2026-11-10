@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "letsdoughit-svsxm",
+  "merk": "Let's Dough It",
+  "domein": "letsdoughit.nl",
+  "lead_id": "2026-11-10-letsdoughit.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6E4F94",
+  "kop": "Cookie dough die je gewoon rauw uit de bak eet.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Let's Dough It, ik heb dit gemaakt omdat jullie cookie dough gewoon veilig rauw uit de bak te eten is, en dat zie je meteen op jullie foto's. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1303:133",
+      "titel": "Rauw uit de bak",
+      "waarom": "Een grote kop met kleine foto's ertussen laat in één blik zien wat jullie anders maken: veilig rauw te eten."
+    },
+    {
+      "node": "1303:151",
+      "titel": "Kies je smaak",
+      "waarom": "Vier smaken met elk een eigen foto geven mensen meteen een favoriet om op te klikken."
+    },
+    {
+      "node": "1303:173",
+      "titel": "Je trek belt",
+      "waarom": "Een speels idee met het voordeelpack in beeld valt op tussen gewone posts en past bij de toon van jullie merk."
+    }
+  ],
+  "waarom": {
+    "niche": "food",
+    "kop": "Zo groeien foodmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw snoep- of bakmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een nieuwe smaak.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "5+",
+        "label": "advertenties heeft Het Koekemannetje nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1303:250",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Cookie Dough Monsters",
+    "kop": "Welkom bij de Cookie Dough Monsters",
+    "tekst": "Fijn dat je erbij bent. Met je inschrijving krijg je 10% korting op je eerste bestelling. Daaronder kort waarom Let's Dough It anders is en hoe je het deeg het lekkerst bewaart.",
+    "punten": [
+      "100% veilig rauw te eten",
+      "Met de hand gemaakt",
+      "Ook vegan smaken",
+      "Tot 14 dagen in de koelkast, tot 4 maanden in de vriezer"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1303:250",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Cookie Dough Monsters",
+      "kop": "Welkom bij de Cookie Dough Monsters",
+      "tekst": "Fijn dat je erbij bent. Met je inschrijving krijg je 10% korting op je eerste bestelling. Daaronder kort waarom Let's Dough It anders is en hoe je het deeg het lekkerst bewaart.",
+      "punten": [
+        "100% veilig rauw te eten",
+        "Met de hand gemaakt",
+        "Ook vegan smaken",
+        "Tot 14 dagen in de koelkast, tot 4 maanden in de vriezer"
+      ]
+    },
+    {
+      "node": "1303:292",
+      "type": "Assortimentsmail",
+      "onderwerp": "Vier smaken om mee te beginnen",
+      "kop": "Vier smaken om mee te beginnen",
+      "tekst": "Van de klassieker tot iets nieuws, elk met een eigen foto, korte omschrijving en prijs, afgesloten met de 9,5 van WebwinkelKeur.",
+      "punten": [
+        "Chocolate Chip Melk",
+        "Cookie & Cream",
+        "Stroopwafel Wit",
+        "Framblij (nieuw)"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
