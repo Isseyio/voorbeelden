@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "chillichans-typn3",
+  "merk": "Chilli Chan's",
+  "domein": "chillichans.com",
+  "lead_id": "2026-11-10-chillichans.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#BF1717",
+  "kop": "Drie ideeën voor meer crunch op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Chilli Chan's, ik heb dit gemaakt omdat jullie foto's van rode tafels vol noedels eigenlijk al advertenties zijn. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1316:3",
+      "titel": "10% voor nieuwe fans",
+      "waarom": "Het welkomstaanbod dat al op jullie site staat, groot in beeld met jullie eigen foto en logo."
+    },
+    {
+      "node": "1316:13",
+      "titel": "Crunch is calling",
+      "waarom": "Een speelse inkomende oproep met de pot in het midden valt op tussen gewone posts."
+    },
+    {
+      "node": "1316:25",
+      "titel": "Hot honey uitgelegd",
+      "waarom": "Drie korte callouts laten in een paar seconden zien wat de hot honey anders maakt."
+    }
+  ],
+  "waarom": {
+    "niche": "food",
+    "kop": "Zo groeien foodmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw foodmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag, omdat een advertentie na een paar weken moe wordt. Een vaste nieuwsbrief zorgt dat kopers terugkomen voor de volgende pot.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij foodmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1317:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welcome to the spicy fam",
+    "kop": "Welcome to the spicy fam",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% op de eerste bestelling, waarom de fam van jullie producten houdt en de bestseller als eerste stap.",
+    "punten": [
+      "10% op de eerste bestelling, zoals het al op jullie site staat",
+      "Zero MSG, familierecept en kleine batches",
+      "Crispy Chilli Oil als eerste stap"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1317:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welcome to the spicy fam",
+      "kop": "Welcome to the spicy fam",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% op de eerste bestelling, waarom de fam van jullie producten houdt en de bestseller als eerste stap.",
+      "punten": [
+        "10% op de eerste bestelling, zoals het al op jullie site staat",
+        "Zero MSG, familierecept en kleine batches",
+        "Crispy Chilli Oil als eerste stap"
+      ]
+    },
+    {
+      "node": "1317:41",
+      "type": "Assortimentsmail",
+      "onderwerp": "Your pantry has been missing this",
+      "kop": "Your pantry has been missing this",
+      "tekst": "Jullie vier favorieten op een rij, van de chilli oil tot de knife-cut noodles, met een foto van een volle tafel als afsluiter.",
+      "punten": [
+        "Crispy Chilli Oil en Crispy Hot Honey met prijs",
+        "XO Mushroom en Sesame & Soy noodles, beide Great Taste 2025",
+        "Elke rij met een eigen knop naar de shop"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

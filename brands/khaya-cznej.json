@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "khaya-cznej",
+  "merk": "Khaya Woodware",
+  "domein": "khayawoodware.com",
+  "lead_id": "2026-11-10-khayawoodware.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1F4C27",
+  "kop": "Drie nieuwe invalshoeken voor Khaya, van ramen tot salade.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Khaya Woodware, ik heb dit gemaakt omdat jullie eigen foto's van het servies aan tafel zo goed laten zien hoe het gebruikt wordt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1327:102",
+      "titel": "De serveerkom",
+      "waarom": "Vier ronde foto's met korte uitleg laten zien waar de kom van gemaakt is en wie hem maakt, zonder lange tekst."
+    },
+    {
+      "node": "1328:2",
+      "titel": "Eén kom, elke dag",
+      "waarom": "Jullie eigen gerechtfoto's tussen de woorden laten in één blik zien hoeveel je met één kom doet."
+    },
+    {
+      "node": "1328:17",
+      "titel": "Klein of groot?",
+      "waarom": "Een keuzevraag met twee kommen naast elkaar nodigt uit om te reageren en maakt het verschil in prijs en formaat duidelijk."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen & keuken",
+    "kop": "Zo groeien woon- en keukenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken nieuw servies niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor het volgende stuk.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woon- en keukenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Riverdale nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1329:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Khaya",
+    "kop": "Welkom bij Khaya",
+    "tekst": "Een welkomstmail voor nieuwe aanmeldingen: wie jullie zijn, waar je op kunt rekenen en hoe je houten servies mooi houdt.",
+    "punten": [
+      "Handgemaakt, voedselveilig en van plantagehout",
+      "Vier onderhoudstips uit jullie eigen productinformatie",
+      "Voor 16.00 uur besteld, dezelfde dag verzonden"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1329:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Khaya",
+      "kop": "Welkom bij Khaya",
+      "tekst": "Een welkomstmail voor nieuwe aanmeldingen: wie jullie zijn, waar je op kunt rekenen en hoe je houten servies mooi houdt.",
+      "punten": [
+        "Handgemaakt, voedselveilig en van plantagehout",
+        "Vier onderhoudstips uit jullie eigen productinformatie",
+        "Voor 16.00 uur besteld, dezelfde dag verzonden"
+      ]
+    },
+    {
+      "node": "1329:46",
+      "type": "Productspotlight",
+      "onderwerp": "Dek de tafel met Khaya",
+      "kop": "Dek de tafel met Khaya",
+      "tekst": "Een assortimentsmail met vier stukken die samen een tafel vullen, elk met een eigen knop.",
+      "punten": [
+        "Dinner Plate, Rice Bowl, Serving Bowl en Cutting Board met prijs",
+        "Hero met jullie eigen sushifoto",
+        "Afsluiter met de verzendbelofte"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

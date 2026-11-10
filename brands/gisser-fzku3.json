@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "gisser-fzku3",
+  "merk": "Gisser Jewels",
+  "domein": "gisserjewels.com",
+  "lead_id": "2026-11-01-gisserjewels.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#AB8C52",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Gisser Jewels, rond lab grown diamant en de Infinity Collection.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Gisser Jewels, ik heb dit gemaakt omdat jullie een echte lab grown diamant in 925 sterling zilver al vanaf €29 hebben, en dat is precies iets wat mensen tijdens het scrollen willen zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1363:4",
+      "titel": "Een echte diamant",
+      "waarom": "Eén product groot in beeld met de prijs en vier korte feiten erbij beantwoordt meteen de vraag of lab grown echt is en wat het kost."
+    },
+    {
+      "node": "1363:21",
+      "titel": "Zilver of goud?",
+      "waarom": "Twee foto's naast elkaar laten kiezen in plaats van twijfelen, en tonen meteen dat de Infinity Collection in beide kleuren bestaat."
+    },
+    {
+      "node": "1363:40",
+      "titel": "Stapel je goud",
+      "waarom": "Een close-up van jullie eigen campagnefoto met een groot woordmerk valt op tussen gewone posts, en de retourbelofte haalt de drempel weg."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1363:50",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Gisser Jewels",
+    "kop": "Welkom bij Gisser Jewels.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waar de sieraden gemaakt worden en meteen de lab grown diamant als begin.",
+    "punten": [
+      "Herokaart met jullie eigen foto van de Silver Lab Grown Diamond Ring en hanger",
+      "Drie redenen in iconen: 12 maanden garantie, 30 dagen retour, handgemaakt in eigen atelier",
+      "Tweede kaart over het begin in 2006, met jullie eigen foto van de gestapelde bangles"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1363:50",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Gisser Jewels",
+      "kop": "Welkom bij Gisser Jewels.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waar de sieraden gemaakt worden en meteen de lab grown diamant als begin.",
+      "punten": [
+        "Herokaart met jullie eigen foto van de Silver Lab Grown Diamond Ring en hanger",
+        "Drie redenen in iconen: 12 maanden garantie, 30 dagen retour, handgemaakt in eigen atelier",
+        "Tweede kaart over het begin in 2006, met jullie eigen foto van de gestapelde bangles"
+      ]
+    },
+    {
+      "node": "1363:85",
+      "type": "Productspotlight",
+      "onderwerp": "De Infinity Collection, in zilver en goud",
+      "kop": "De Infinity Collection.",
+      "tekst": "Een productmail rond de Infinity-armbandjes, met jullie eigen campagnefoto van zilver en goud naast elkaar.",
+      "punten": [
+        "Hero met jullie eigen foto uit de Infinity Collection",
+        "Verhaalkaart over los dragen of zilver en goud stapelen",
+        "Detail met vier labels en een afsluiting in donker met een tweede foto"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

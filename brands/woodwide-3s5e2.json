@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "woodwide-3s5e2",
+  "merk": "WoodWideCities",
+  "domein": "woodwidecities.com",
+  "lead_id": "2026-11-10-woodwidecities.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8C5E3C",
+  "kop": "Drie nieuwe invalshoeken voor jullie skylines",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team WoodWideCities, ik heb dit gemaakt omdat jullie met meer dan 350 steden en een eigen werkplaats in Groningen veel te vertellen hebben. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1314:2",
+      "titel": "Zoek je stad",
+      "waarom": "Laat in één beeld zien dat er voor bijna iedereen een stad tussen zit, zodat mensen meteen aan hun eigen plek denken."
+    },
+    {
+      "node": "1314:17",
+      "titel": "Kies je hout",
+      "waarom": "Vier afwerkingen naast elkaar helpen twijfelaars kiezen en laten zien dat het echt hout is."
+    },
+    {
+      "node": "1314:39",
+      "titel": "Je thuisstad belt",
+      "waarom": "Een speels format dat opvalt tussen de feestdagenadvertenties en de klok als cadeau neerzet."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en cadeaus",
+    "kop": "Zo groeien woonmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw woonaccessoire of cadeau niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor het volgende cadeau.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woonmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "80+",
+        "label": "advertenties heeft Desenio nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1315:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij WoodWideCities",
+    "kop": "Welkom bij WoodWideCities",
+    "tekst": "Een welkomstmail voor nieuwe aanmelders: wie jullie zijn, waarom klanten jullie een 4,8 geven en meteen een stap naar hun eigen stad.",
+    "punten": [
+      "Opening met jullie eigen cadeaufoto",
+      "Drie redenen: FSC-gekeurd hout, eigen werkplaats, persoonlijk",
+      "Wandskyline en staande skyline naast elkaar, met prijs"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1315:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij WoodWideCities",
+      "kop": "Welkom bij WoodWideCities",
+      "tekst": "Een welkomstmail voor nieuwe aanmelders: wie jullie zijn, waarom klanten jullie een 4,8 geven en meteen een stap naar hun eigen stad.",
+      "punten": [
+        "Opening met jullie eigen cadeaufoto",
+        "Drie redenen: FSC-gekeurd hout, eigen werkplaats, persoonlijk",
+        "Wandskyline en staande skyline naast elkaar, met prijs"
+      ]
+    },
+    {
+      "node": "1315:37",
+      "type": "Merkverhaal",
+      "onderwerp": "Zo maken wij jouw stad",
+      "kop": "Zo maken wij jouw stad",
+      "tekst": "Een mail over de werkplaats in Groningen, met Skyline Westerwolde Eiken uitgelicht en de lasersnijder in beeld.",
+      "punten": [
+        "Verhaal uit de werkplaats in Groningen",
+        "Skyline Westerwolde Eiken met maten, afwerkingen en ophangset",
+        "Afsluiting als cadeau met een verhaal"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

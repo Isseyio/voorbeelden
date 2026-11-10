@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "arcadro-hsstq",
+  "merk": "Arcadro",
+  "domein": "arcadro.com",
+  "lead_id": "2026-10-31-arcadro.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#F00080",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Arcadro, rond de Coin Pusher 365.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Arcadro, ik heb dit gemaakt omdat een coin pusher voor thuis precies het soort product is dat mensen tijdens het scrollen willen zien bewegen en willen hebben, zeker richting de feestdagen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1362:3",
+      "titel": "Haal de arcade naar huis",
+      "waarom": "Een grote kop met kleine foto's van spelers en munten tussen de woorden laat in één blik zien waar het om draait: de speelhal, maar dan thuis."
+    },
+    {
+      "node": "1362:22",
+      "titel": "Alles in de doos",
+      "waarom": "Wie zo'n machine overweegt, wil weten wat hij krijgt; de munten, chips, obstakels en garantie op een rij nemen die twijfel weg."
+    },
+    {
+      "node": "1362:46",
+      "titel": "Arcadeplezier belt",
+      "waarom": "Een speels inkomend gesprek valt op tussen gewone posts en zet de Coin Pusher 365 groot in beeld, met de 2000+ verkochte machines eronder."
+    }
+  ],
+  "waarom": {
+    "niche": "cadeaus en spellen",
+    "kop": "Zo groeien cadeau- en spellenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw spel of cadeau niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, bijvoorbeeld voor extra munten.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij cadeau- en spellenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "9",
+        "label": "advertenties heeft Retro Gamer Pro nu tegelijk live in Nederland"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1362:58",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Arcadro",
+    "kop": "Welkom bij Arcadro.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wat de Coin Pusher 365 is, wat er meteen bij zit en hoe je hem van jezelf maakt.",
+    "punten": [
+      "Herokaart in jullie paars met de Coin Pusher 365 en een knop naar de productpagina",
+      "Drie redenen: 500 munten inbegrepen, 2 jaar garantie, levering in 2 tot 5 werkdagen",
+      "Tweede kaart in roze over eigen prijzen en decoraties, met jullie foto van iemand die munten inwerpt"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1362:58",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Arcadro",
+      "kop": "Welkom bij Arcadro.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wat de Coin Pusher 365 is, wat er meteen bij zit en hoe je hem van jezelf maakt.",
+      "punten": [
+        "Herokaart in jullie paars met de Coin Pusher 365 en een knop naar de productpagina",
+        "Drie redenen: 500 munten inbegrepen, 2 jaar garantie, levering in 2 tot 5 werkdagen",
+        "Tweede kaart in roze over eigen prijzen en decoraties, met jullie foto van iemand die munten inwerpt"
+      ]
+    },
+    {
+      "node": "1362:91",
+      "type": "Merkverhaal",
+      "onderwerp": "Van een idee in 2020 naar meer dan 30 landen",
+      "kop": "Het verhaal achter de Coin Pusher 365.",
+      "tekst": "Een merkverhaal-mail: hoe Arcadro de coin pusher uit de speelhal naar huis haalde, met de machine en zijn onderdelen uitgelicht.",
+      "punten": [
+        "Hero met jullie foto van twee spelers aan de Coin Pusher 365",
+        "Kaart met het verhaal: idee in 2020, eerste serie in september 2021, nu in meer dan 30 landen",
+        "Productblok met labels (muntgoten, pinnenwand, schuiflade, verborgen gaten) en een afsluiting over eigen prijzen en decoraties"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

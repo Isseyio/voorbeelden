@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "benzak-65jzg",
+  "merk": "BENZAK",
+  "domein": "benzakdenimdevelopers.com",
+  "lead_id": "2026-11-10-benzakdenimdevelopers.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#002F56",
+  "kop": "Drie ideeën voor BENZAK op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team BENZAK, ik heb dit gemaakt omdat jullie jeans zoveel details hebben die je op een foto meteen ziet, van de selvedge-rand tot de leren patch. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1347:194",
+      "titel": "Waar de B-02 van is gemaakt",
+      "waarom": "Denimliefhebbers kopen op materiaal, dus de stof, het messing en de patch staan hier als bewijs naast het product."
+    },
+    {
+      "node": "1347:286",
+      "titel": "Sla de pijp om",
+      "waarom": "Eén close-up van de selvedge laat in een seconde zien waarom deze jeans anders is dan een gewone spijkerbroek."
+    },
+    {
+      "node": "1347:304",
+      "titel": "Gratis verzending",
+      "waarom": "Een echt voordeel bovenaan, met het merk groot in beeld, maakt de stap naar een jeans van €235 kleiner."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw denimmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun tweede jeans.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20",
+        "label": "advertenties heeft Mud Jeans nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1349:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij BENZAK",
+    "kop": "Welkom bij BENZAK",
+    "tekst": "Een welkomstmail voor nieuwe aanmelders: wie jullie zijn, de 10% korting die al op de site staat, en meteen een stap naar de juiste fit.",
+    "punten": [
+      "Opening met jullie eigen packshot van de B-02",
+      "Drie punten: stof uit Japan en Italië, gemaakt in Portugal, inkorten en reparatie",
+      "Kies je fit: B-02 Regular Straight en B-07 Relaxed Straight"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1349:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij BENZAK",
+      "kop": "Welkom bij BENZAK",
+      "tekst": "Een welkomstmail voor nieuwe aanmelders: wie jullie zijn, de 10% korting die al op de site staat, en meteen een stap naar de juiste fit.",
+      "punten": [
+        "Opening met jullie eigen packshot van de B-02",
+        "Drie punten: stof uit Japan en Italië, gemaakt in Portugal, inkorten en reparatie",
+        "Kies je fit: B-02 Regular Straight en B-07 Relaxed Straight"
+      ]
+    },
+    {
+      "node": "1349:48",
+      "type": "Merkverhaal",
+      "onderwerp": "Denim uit Amsterdam",
+      "kop": "Denim uit Amsterdam",
+      "tekst": "Een mail over het verhaal achter BENZAK sinds 2013, met de B-02 Green Cast Selvedge uitgelicht en jullie inkortservice als afsluiter.",
+      "punten": [
+        "Verhaal van Lennaert Nijgh en de makers in Japan, Italië en Portugal",
+        "B-02 met labels: Candiani selvedge, messing, leren patch, gemaakt in Portugal",
+        "Afsluiting over inkorten met kettingsteek, met prijs"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
