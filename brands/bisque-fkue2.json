@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "bisque-fkue2",
+  "merk": "Bisque Golf",
+  "domein": "bisquegolf.com",
+  "lead_id": "2026-11-02-bisquegolf.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#00392D",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Bisque Golf.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Bisque Golf, ik heb dit gemaakt omdat jullie eigen label, van headcovers tot ball markers, volgens mij nog weinig in jullie advertenties terugkomt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1055:4",
+      "titel": "Golf als club",
+      "waarom": "Het clubhouse en de mensen eromheen maken Bisque anders dan een gewone golfshop, en dat gevoel helpt ook het eigen label verkopen."
+    },
+    {
+      "node": "1055:20",
+      "titel": "Wat zit er in je tas",
+      "waarom": "Vier eigen accessoires in één beeld, vanaf €13, maken een makkelijke eerste aankoop naast de grote merken."
+    },
+    {
+      "node": "1055:42",
+      "titel": "De ball marker van dichtbij",
+      "waarom": "Een detailfoto met een paar korte kenmerken laat zien waarom een klein accessoire de moeite waard is."
+    }
+  ],
+  "waarom": {
+    "niche": "golf",
+    "kop": "Zo groeien golfmerken op Instagram.",
+    "tekst": "De meeste golfers ontdekken een nieuw merk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag en vinden steeds nieuwe kopers. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, online en in de winkel.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sport- en outdoormerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij sport- en outdoormerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1055:67",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de club",
+    "kop": "Welkom bij de club.",
+    "tekst": "Fijn dat je er bent. Je hoort hier als eerste over nieuwe items van ons eigen label, events in het clubhouse en wat er nieuw in de winkel ligt.",
+    "punten": [
+      "Gratis verzending vanaf €65 in NL",
+      "30 dagen retour",
+      "4,6 op Trustpilot"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1055:67",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de club",
+      "kop": "Welkom bij de club.",
+      "tekst": "Fijn dat je er bent. Je hoort hier als eerste over nieuwe items van ons eigen label, events in het clubhouse en wat er nieuw in de winkel ligt.",
+      "punten": [
+        "Gratis verzending vanaf €65 in NL",
+        "30 dagen retour",
+        "4,6 op Trustpilot"
+      ]
+    },
+    {
+      "node": "1055:106",
+      "type": "Merkverhaal",
+      "onderwerp": "Een clubhouse midden in Amsterdam",
+      "kop": "Een clubhouse midden in Amsterdam.",
+      "tekst": "Aan de Rozengracht 17 zit de winkel, een plek om af te spreken en een galerie in één, met regelmatig events en clinics. Daarna de Fairway Headcover van het eigen label en een uitnodiging om langs te komen.",
+      "punten": [
+        "Winkel, ontmoetingsplek en galerie aan de Rozengracht 17",
+        "Events en clinics",
+        "Fairway Headcover van het eigen label, €49"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
