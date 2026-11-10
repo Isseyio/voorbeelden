@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "tiltil-6npzt",
+  "merk": "Things I Like Things I Love",
+  "domein": "thingsilikethingsilove.com",
+  "lead_id": "2026-11-04-thingsilikethingsilove.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#612736",
+  "kop": "Drie nieuwe invalshoeken voor TILTIL.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Things I Like Things I Love, ik heb dit gemaakt omdat jullie naast andere merken ook een eigen label ontwerpen, en de nieuwe TILTIL-collectie in bordeaux mooi gefotografeerd is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1082:9",
+      "titel": "Warm in bordeaux",
+      "waarom": "Een grote kop met kleine foto's tussen de woorden valt op in de feed en zet de Percy pullover met prijs direct in beeld."
+    },
+    {
+      "node": "1082:26",
+      "titel": "Eén trui, drie momenten",
+      "waarom": "Drie echte looks laten zien hoe vaak je één trui draagt, en dat maakt €44,99 een makkelijke keuze."
+    },
+    {
+      "node": "1082:53",
+      "titel": "Zoek op bordeaux",
+      "waarom": "Eén groot kleurwoord en een zoekbalk sluiten aan bij hoe mensen winkelen: ze zoeken een kleur, niet een productnaam."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingstuk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, online of in de winkel.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij modemerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1082:73",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Things I Like Things I Love",
+    "kop": "Welkom bij Things I Like Things I Love",
+    "tekst": "Direct na de inschrijving: wie jullie zijn, vier favorieten uit het eigen label TILTIL en een uitnodiging voor de winkels.",
+    "punten": [
+      "Percy V-Neck Pullover €44,99 en Mette Pantalon €59,99",
+      "Doka Knit €44,99 en Ellie Striped Cardigan €49,99",
+      "13 winkels in Amsterdam, Utrecht, Rotterdam, Nijmegen en Haarlem"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1082:73",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Things I Like Things I Love",
+      "kop": "Welkom bij Things I Like Things I Love",
+      "tekst": "Direct na de inschrijving: wie jullie zijn, vier favorieten uit het eigen label TILTIL en een uitnodiging voor de winkels.",
+      "punten": [
+        "Percy V-Neck Pullover €44,99 en Mette Pantalon €59,99",
+        "Doka Knit €44,99 en Ellie Striped Cardigan €49,99",
+        "13 winkels in Amsterdam, Utrecht, Rotterdam, Nijmegen en Haarlem"
+      ]
+    },
+    {
+      "node": "1082:107",
+      "type": "Merkverhaal",
+      "onderwerp": "Ons eigen label: TILTIL",
+      "kop": "Ons eigen label",
+      "tekst": "Het verhaal achter TILTIL, ontworpen door Sanne en Isabel, met de Doka knit in de spotlight en de winkels als afsluiting.",
+      "punten": [
+        "TILTIL AW26 in bordeaux, olijf en warm bruin",
+        "Doka knit €44,99, ook in bruin en bordeaux",
+        "Kom het passen in een van de 13 winkels"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
