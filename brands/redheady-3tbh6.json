@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "redheady-3tbh6",
+  "merk": "Redheady",
+  "domein": "redheady.com",
+  "lead_id": "2026-11-04-redheady.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E0000A",
+  "kop": "Cadeaus met humor, ook in de feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Redheady, ik heb dit gemaakt omdat ontwerpen als de Bitterballon en de Disconijn op Instagram meteen een glimlach opleveren, terwijl ik in de advertentiebibliotheek van Meta geen lopende advertenties van jullie zag. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1147:13",
+      "titel": "Er belt een cadeau",
+      "waarom": "Een inkomend gesprek is een speels beeld dat bij jullie humor past en de poster Bitterballon met prijs groot in beeld zet."
+    },
+    {
+      "node": "1147:28",
+      "titel": "Snackcadeaus",
+      "waarom": "Eén groot woord en een zoekbalk met 'cadeau met humor' laten in één oogopslag de snackcollectie als poster en mok zien."
+    },
+    {
+      "node": "1147:46",
+      "titel": "Geen wijn, geen bloemen",
+      "waarom": "Jullie eigen belofte als omgekeerde kop maakt nieuwsgierig, met de Disconijn-poster en drie redenen om meteen te bestellen."
+    }
+  ],
+  "waarom": {
+    "niche": "cadeaus en posters",
+    "kop": "Zo groeien cadeaumerken op Instagram.",
+    "tekst": "De meeste mensen vinden een leuk cadeau niet via Google, maar tijdens het scrollen, zeker richting de feestdagen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers bij de volgende verjaardag terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij cadeau- en postermerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Desenio nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1147:73",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Redheady",
+    "kop": "Welkom bij Redheady",
+    "tekst": "Een vrolijke eerste mail voor nieuwe inschrijvers: wie Meyke is, wat ze maakt en de 10% welkomstkorting die jullie al geven.",
+    "punten": [
+      "Herokaart met de poster Bitterballon en de mok Gezel frikandel",
+      "Drie dingen om te onthouden: eigen ontwerp, hergebruikte verpakking, volgende werkdag verzonden",
+      "Tweede kaart met de mok Disconijn (€13,95) als makkelijke eerste keuze"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1147:73",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Redheady",
+      "kop": "Welkom bij Redheady",
+      "tekst": "Een vrolijke eerste mail voor nieuwe inschrijvers: wie Meyke is, wat ze maakt en de 10% welkomstkorting die jullie al geven.",
+      "punten": [
+        "Herokaart met de poster Bitterballon en de mok Gezel frikandel",
+        "Drie dingen om te onthouden: eigen ontwerp, hergebruikte verpakking, volgende werkdag verzonden",
+        "Tweede kaart met de mok Disconijn (€13,95) als makkelijke eerste keuze"
+      ]
+    },
+    {
+      "node": "1147:124",
+      "type": "Productspotlight",
+      "onderwerp": "Geen wijn, geen bloemen",
+      "kop": "Cadeaus met een vleugje humor",
+      "tekst": "Een cadeaumail voor de feestdagen met vier favorieten uit de winkel, elk met prijs en een eigen knop.",
+      "punten": [
+        "Sfeerfoto van de mok Disconijn op de onderzetter",
+        "Poster Bitterballon, mok Gezel frikandel, onderzetters Pick & Mix en de verjaardagskalender",
+        "Blok 'Gezien in' met &C, Forum Shop en Walter's Bookshop"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "butcherofblue-eherm",
+  "merk": "Butcher of Blue",
+  "domein": "butcherofblue.com",
+  "lead_id": "2026-11-03-butcherofblue.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1D2B44",
+  "kop": "Elke week een nieuwe invalshoek voor jullie denim.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Butcher of Blue, ik heb dit gemaakt omdat jullie jeans in zoveel pasvormen en wassingen bestaan, en dat leent zich goed voor steeds nieuwe advertenties naast jullie jassen en knitwear. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1147:180",
+      "titel": "Je nieuwe jeans belt",
+      "waarom": "Een speels inkomend-gesprekscherm valt op tussen gewone posts en zet de Stockton Straight Night Denim met prijs groot in beeld."
+    },
+    {
+      "node": "1147:194",
+      "titel": "Straight of loose?",
+      "waarom": "Twee pasvormen naast elkaar met één zin uitleg helpen twijfelaars kiezen, en de merkbalk vertelt in één oogopslag wie jullie zijn."
+    },
+    {
+      "node": "1147:223",
+      "titel": "Blue in zes wassingen",
+      "waarom": "Eén groot woord en vier wassingen van de Stockton laten zien dat er voor iedereen een kleur is, met de vanaf-prijs erbij."
+    }
+  ],
+  "waarom": {
+    "niche": "denim",
+    "kop": "Zo groeien denimmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw denimmerk niet via Google, maar tijdens het scrollen. Advertenties worden daar na een paar weken moe, dus merken die elke week nieuwe varianten testen houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat kopers terugkomen voor een tweede pasvorm of wassing.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij mode- en denimmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij mode- en denimmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1147:244",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Butcher of Blue, hier is je 10%",
+    "kop": "Welkom. Dit is je 10% korting.",
+    "tekst": "Een welkomstmail die de 10% van jullie nieuwsbriefinschrijving meteen bezorgt, met jullie verhaal en twee favorieten om mee te beginnen.",
+    "punten": [
+      "Jeans-line-up als hero met de 10% korting voor de volgende bestelling",
+      "Donker blok over Bob en Maarten, B Corp sinds 2025 en de repair service",
+      "Twee productblokken: Stockton Straight Night (€149,95) en Berkley Loose Onyx (€189,95)"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1147:244",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Butcher of Blue, hier is je 10%",
+      "kop": "Welkom. Dit is je 10% korting.",
+      "tekst": "Een welkomstmail die de 10% van jullie nieuwsbriefinschrijving meteen bezorgt, met jullie verhaal en twee favorieten om mee te beginnen.",
+      "punten": [
+        "Jeans-line-up als hero met de 10% korting voor de volgende bestelling",
+        "Donker blok over Bob en Maarten, B Corp sinds 2025 en de repair service",
+        "Twee productblokken: Stockton Straight Night (€149,95) en Berkley Loose Onyx (€189,95)"
+      ]
+    },
+    {
+      "node": "1147:286",
+      "type": "Assortiment",
+      "onderwerp": "Straight of loose? Vind je fit",
+      "kop": "Vind je fit.",
+      "tekst": "Een nieuwsbrief die de pasvormen en wassingen naast elkaar zet, zodat lezers snel de jeans vinden die bij ze past.",
+      "punten": [
+        "Vier wassingen als hero, van dusk tot onyx",
+        "Stockton Straight, Berkley Loose en Modesto Porto met pasvorm en prijs",
+        "Afsluiting over de repair service"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

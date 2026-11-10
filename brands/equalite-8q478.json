@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "equalite-8q478",
+  "merk": "Equalité",
+  "domein": "equalite.nl",
+  "lead_id": "2026-11-02-equalite.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Drie nieuwe invalshoeken voor Equalité.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Equalité, ik heb dit gemaakt omdat jullie community zo zichtbaar is, van de fits op de productpagina tot de opening op de Heiligeweg. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1145:4",
+      "titel": "Eén jas, drie manieren",
+      "waarom": "Vier labels rond de echte packshot laten zien waarom de 2 in 1 Societé Puffer €250 waard is: capuchon en mouwen gaan los."
+    },
+    {
+      "node": "1145:5",
+      "titel": "Kies je kleur",
+      "waarom": "Navy en black naast elkaar maken de keuze makkelijk, en de setprijs van €190 geeft een reden om de broek er meteen bij te nemen."
+    },
+    {
+      "node": "1145:6",
+      "titel": "Unity by diversity",
+      "waarom": "Jullie eigen motto met echte foto's uit de winkel en de community verkoopt het merk, niet alleen één product."
+    }
+  ],
+  "waarom": {
+    "niche": "streetwear",
+    "kop": "Zo groeien streetwearmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen bij de volgende drop.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Quotrell nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1145:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Societé",
+    "kop": "Welkom bij de Societé.",
+    "tekst": "Een welkomstmail voor nieuwe members: wat de Societé oplevert, met punten op elke bestelling, en daaronder het verhaal van 2019 tot The House of Equalité op de Heiligeweg.",
+    "punten": [
+      "Punten op al je bestellingen, 250 bij de Societé Puffer",
+      "Op werkdagen vóór 23:30 besteld, morgen in huis",
+      "Sinds 2019, nu in Rotterdam en Amsterdam"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1145:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Societé",
+      "kop": "Welkom bij de Societé.",
+      "tekst": "Een welkomstmail voor nieuwe members: wat de Societé oplevert, met punten op elke bestelling, en daaronder het verhaal van 2019 tot The House of Equalité op de Heiligeweg.",
+      "punten": [
+        "Punten op al je bestellingen, 250 bij de Societé Puffer",
+        "Op werkdagen vóór 23:30 besteld, morgen in huis",
+        "Sinds 2019, nu in Rotterdam en Amsterdam"
+      ]
+    },
+    {
+      "node": "1145:8",
+      "type": "Assortimentsmail",
+      "onderwerp": "Klaar voor de kou",
+      "kop": "Klaar voor de kou.",
+      "tekst": "Een mail die de nieuwe FW26-stukken naast elkaar zet, van de 2 in 1 Societé Puffer tot de Fluffy Knit, met onderaan een community fit van een klant.",
+      "punten": [
+        "2 in 1 Societé Puffer Jacket, €250",
+        "Diamond Puffer Jacket Off-white, €245",
+        "Fluffy Knit Sweater in navy en off-white, €100"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "neofollics-mrndg",
+  "merk": "Neofollics",
+  "domein": "neofollics.com",
+  "lead_id": "2026-11-01-neofollics.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#0DB3A1",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Neofollics",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Neofollics, ik heb dit gemaakt omdat jullie lotion 365 reviews heeft, terwijl ik op Instagram vooral winkels als Haarshop.nl met jullie merk zag adverteren. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1150:3",
+      "titel": "Voor en na",
+      "waarom": "Jullie eigen voor-en-nafoto's laten in één beeld zien wat de lotion doet, en dat is precies waar iemand met dunner haar naar zoekt."
+    },
+    {
+      "node": "1150:21",
+      "titel": "Het weekritme",
+      "waarom": "Laat zien hoe makkelijk de routine is: twee keer per dag een paar sprays, en één flesje gaat tot 3 maanden mee."
+    },
+    {
+      "node": "1150:46",
+      "titel": "Spray en klaar",
+      "waarom": "Een echt gebruiksmoment met de lotion in de hand, met de drie kenmerken als korte pillen eronder."
+    }
+  ],
+  "waarom": {
+    "niche": "haarverzorging",
+    "kop": "Zo groeien haarverzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende flesje.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij haarverzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Hairgivers.nl nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1152:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Neofollics",
+    "kop": "Welkom bij Neofollics.",
+    "tekst": "Sinds 2015 maken we in Arnhem haarverzorging met eigen formules. Fijn dat je erbij bent. Kies waar je mee wilt beginnen en zie hoe je de lotion gebruikt.",
+    "punten": [
+      "Drie startpunten: dunner haar, grijs haar en baard",
+      "Uitleg lotion: 2 tot 3 sprays, twee keer per dag, niet uitspoelen",
+      "Eén flesje is genoeg voor tot 3 maanden"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1152:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Neofollics",
+      "kop": "Welkom bij Neofollics.",
+      "tekst": "Sinds 2015 maken we in Arnhem haarverzorging met eigen formules. Fijn dat je erbij bent. Kies waar je mee wilt beginnen en zie hoe je de lotion gebruikt.",
+      "punten": [
+        "Drie startpunten: dunner haar, grijs haar en baard",
+        "Uitleg lotion: 2 tot 3 sprays, twee keer per dag, niet uitspoelen",
+        "Eén flesje is genoeg voor tot 3 maanden"
+      ]
+    },
+    {
+      "node": "1152:36",
+      "type": "Productspotlight",
+      "onderwerp": "12 werkzame stoffen in één shampoo",
+      "kop": "12 werkzame stoffen. Eén shampoo.",
+      "tekst": "De Hair Growth Stimulating Shampoo uitgelicht: wat erin zit, hoe je hem gebruikt en het verhaal van Neofollics uit Arnhem.",
+      "punten": [
+        "Cafeïne, piroctone olamine, niacinamide en ginseng uitgelegd",
+        "Minstens 3 keer per week, 3 tot 5 minuten laten inwerken",
+        "Afsluiter met shampoo en conditioner (€29,95 per stuk)"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
