@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "ikonic-b678p",
+  "merk": "IKONIC",
+  "domein": "ikonic.shop",
+  "lead_id": "2026-11-10-ikonic.shop",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#DD3221",
+  "kop": "Houten dieren die opvallen in de feed",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team IKONIC, ik heb dit gemaakt omdat de Houten Dieren van Floris Hovers met hun felle kleuren bijna gemaakt lijken voor Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1233:4",
+      "titel": "Eén groot woord",
+      "waarom": "Een groot woord en een zoekbalk vertellen in één seconde wat het is en voor wie, ook zonder geluid."
+    },
+    {
+      "node": "1233:20",
+      "titel": "Gemaakt met",
+      "waarom": "Ontwerper, hout en cadeaudoos naast elkaar laten zien waarom de set zijn prijs waard is."
+    },
+    {
+      "node": "1233:43",
+      "titel": "Inkomende oproep",
+      "waarom": "Een speels format dat de duim laat stoppen en past bij de humor van de dieren zelf."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien speelgoedmerken op Instagram.",
+    "tekst": "De meeste ouders en cadeaukopers ontdekken een nieuw speelgoedmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, zeker rond de feestdagen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij speelgoedmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Lovevery nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1234:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij IKONIC",
+    "kop": "Welkom bij IKONIC",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, waarom IKONIC, en één klassieker om mee te beginnen.",
+    "punten": [
+      "Eigen ontwerpen met o.a. Floris Hovers en Lex Pott",
+      "Sinds 2015, ook in museumwinkels",
+      "Houten Dieren als eerste aanrader"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1234:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij IKONIC",
+      "kop": "Welkom bij IKONIC",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, waarom IKONIC, en één klassieker om mee te beginnen.",
+      "punten": [
+        "Eigen ontwerpen met o.a. Floris Hovers en Lex Pott",
+        "Sinds 2015, ook in museumwinkels",
+        "Houten Dieren als eerste aanrader"
+      ]
+    },
+    {
+      "node": "1234:36",
+      "type": "Merkverhaal",
+      "onderwerp": "Speelgoed dat ook op de kast mag staan",
+      "kop": "Speelgoed dat ook op de kast mag staan",
+      "tekst": "Het verhaal achter IKONIC, de Houten Dieren van dichtbij en de Duotone-auto's als volgende stap.",
+      "punten": [
+        "Ontworpen in Nederland, verkocht in museumwinkels",
+        "Beukenhout, 13 dieren, cadeaudoos",
+        "Duotone-serie van €22,50 tot €57,50"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "brentberkeley-936ea",
+  "merk": "Brent Berkeley",
+  "domein": "brentberkeley.com",
+  "lead_id": "2026-10-31-brentberkeley.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4D6C73",
+  "kop": "Drie advertenties voor Brent Berkeley, rond een scheermes voor het leven.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Brent Berkeley, ik heb dit gemaakt omdat jullie scheermessen, het verhaal erachter en een 9,3 uit 240 reviews zich goed lenen voor advertenties die opvallen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1312:4",
+      "titel": "Een scheermes belt",
+      "waarom": "Een inkomend gesprek valt op tussen gewone advertenties en zet The Signature Straight Razor op jullie eigen zwarte foto centraal."
+    },
+    {
+      "node": "1312:15",
+      "titel": "Echt scheren",
+      "waarom": "Eén groot woord, een zoekbalk en drie producten met prijs laten in één blik zien wat klassiek scheren is en wat het kost."
+    },
+    {
+      "node": "1312:32",
+      "titel": "9,3 uit 10",
+      "waarom": "Echte reviews van jullie site over een eigen sfeerfoto geven twijfelaars meteen het vertrouwen om een open scheermes te proberen."
+    }
+  ],
+  "waarom": {
+    "niche": "verzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "De meeste mannen ontdekken een nieuw scheermerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor mesjes, olie en een strop.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "60+",
+        "label": "advertenties heeft Velkar Shaving nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1312:78",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Brent's friends",
+    "kop": "Welkom bij Brent's friends.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers op de nieuwsbrief: wat ze elke maand krijgen en waar ze het best kunnen beginnen.",
+    "punten": [
+      "Herokaart in zwart met jullie eigen foto van scheermes, kwast en kom",
+      "Drie redenen in iconen: geen wegwerpmesjes, 100 dagen retour, binnen 1 werkdag verzonden",
+      "Tweede kaart voor beginners met de scheercursus van meesterbarbier Daniël van der Putten"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1312:78",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Brent's friends",
+      "kop": "Welkom bij Brent's friends.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers op de nieuwsbrief: wat ze elke maand krijgen en waar ze het best kunnen beginnen.",
+      "punten": [
+        "Herokaart in zwart met jullie eigen foto van scheermes, kwast en kom",
+        "Drie redenen in iconen: geen wegwerpmesjes, 100 dagen retour, binnen 1 werkdag verzonden",
+        "Tweede kaart voor beginners met de scheercursus van meesterbarbier Daniël van der Putten"
+      ]
+    },
+    {
+      "node": "1312:112",
+      "type": "Actiemail",
+      "onderwerp": "Black Friday: tot 35% korting op scheersets",
+      "kop": "Black Friday Sale",
+      "tekst": "Een mail rond jullie echte Black Friday-actie: tot 35% korting op scheersets, scheermessen en accessoires.",
+      "punten": [
+        "Kop en knop op een verloop van jullie leisteenblauw naar zwart, met de set op zwart eronder",
+        "Drie voordelen van een klassiek scheermes: handgeslepen, mahonie handvat, ronde punt",
+        "Brent's Straight Razor Shaving Set met de echte prijs: €122,95 in plaats van €189,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

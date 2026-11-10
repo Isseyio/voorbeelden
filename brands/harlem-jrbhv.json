@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "harlem-jrbhv",
+  "merk": "Harlem Kitesurfing",
+  "domein": "harlemkitesurfing.com",
+  "lead_id": "2026-11-01-harlemkitesurfing.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#011638",
+  "kop": "Drie nieuwe invalshoeken voor Harlem, van big air tot Try & Buy.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Harlem Kitesurfing, ik heb dit gemaakt omdat jullie advertenties nu allemaal om de Peak draaien, terwijl de gratis Lead Bar en de Thrive V2 ook een eigen invalshoek verdienen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1306:3",
+      "titel": "Big air is calling",
+      "waarom": "Een inkomend gesprek met de Peak in het midden valt op tussen gewone kiteadvertenties en zet meteen de belofte neer: hoogte."
+    },
+    {
+      "node": "1306:14",
+      "titel": "Lead Bar gratis",
+      "waarom": "Jullie echte actie, een gratis Lead Bar van €684 bij elke Peak, groot bovenaan en jullie eigen riderfoto eronder: een concrete reden om nu te kopen."
+    },
+    {
+      "node": "1306:23",
+      "titel": "Peak of Thrive V2",
+      "waarom": "Twee kites naast elkaar met hun eigen discipline helpt twijfelaars kiezen, en de knop naar Try & Buy past bij een aankoop van ruim €1.800."
+    }
+  ],
+  "waarom": {
+    "niche": "sport & outdoor",
+    "kop": "Zo groeien sportmerken op Instagram.",
+    "tekst": "De meeste kiters ontdekken nieuw materiaal niet via Google, maar tijdens het scrollen tussen riderclips door. Bij dure producten zoals een kite kijkt iemand vaak weken rond, dus merken die elke week nieuwe advertenties testen blijven in beeld tot het moment van kopen. Een vaste nieuwsbrief houdt inschrijvers warm tot het nieuwe seizoen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sportmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft North Kiteboarding nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1306:160",
+    "type": "Welkomstmail",
+    "onderwerp": "Welcome to the Harlem family",
+    "kop": "Welcome to the Harlem family",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers op 'Let's stay in Touch': wie Harlem is, hoe jullie kites ontstaan en waar je ze kunt testen.",
+    "punten": [
+      "Herokaart in jullie navy met de Thrive V2 en de knop 'Discover the Thrive V2'",
+      "Drie punten: ontwikkeld met jullie riders, gebouwd bij Brainchild Production in Europa, Try & Buy bij een dealer",
+      "Merkverhaal met jullie foto van Alex aan de naaimachine: sinds 2016, gestart door Alex en Hans"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1306:160",
+      "type": "Welkomstmail",
+      "onderwerp": "Welcome to the Harlem family",
+      "kop": "Welcome to the Harlem family",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers op 'Let's stay in Touch': wie Harlem is, hoe jullie kites ontstaan en waar je ze kunt testen.",
+      "punten": [
+        "Herokaart in jullie navy met de Thrive V2 en de knop 'Discover the Thrive V2'",
+        "Drie punten: ontwikkeld met jullie riders, gebouwd bij Brainchild Production in Europa, Try & Buy bij een dealer",
+        "Merkverhaal met jullie foto van Alex aan de naaimachine: sinds 2016, gestart door Alex en Hans"
+      ]
+    },
+    {
+      "node": "1306:189",
+      "type": "Productspotlight",
+      "onderwerp": "Ready to go big?",
+      "kop": "Ready to go big?",
+      "tekst": "Een productmail rond de Harlem Peak met de gratis Lead Bar, en de Thrive V2 als tweede keuze.",
+      "punten": [
+        "Hero met jullie eigen foto van de Peak boven Kaapstad en de balk 'Get a Peak with a free Lead Bar'",
+        "De Peak uitgelicht met vier labels: vijf struts, big air en freeride, maten 6 tot 12 m vanaf €2.144, gratis Lead Bar (t.w.v. €684)",
+        "Afsluiting in navy: 'The confidence to progress', de Thrive V2 vanaf €1.883,99"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

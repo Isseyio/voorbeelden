@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "sandoval-kx9hg",
+  "merk": "Sandoval Hats",
+  "domein": "sandovalhats.com",
+  "lead_id": "2026-11-05-sandovalhats.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6B4630",
+  "kop": "Handgeweven hoeden uit Mexico, nu ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Sandoval, ik heb dit gemaakt omdat jullie hoeden met de hand geweven worden in Michoacán en dat verhaal in een advertentie meteen spreekt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1306:42",
+      "titel": "Het materiaal vertelt",
+      "waarom": "Palmstro, rand en levensduur in drie ronde beelden laten zien waarom deze hoed anders is dan een gewone strohoed."
+    },
+    {
+      "node": "1306:59",
+      "titel": "Eén hoed, één leven lang",
+      "waarom": "Jullie eigen belofte als grote kop met foto's ertussen valt op tussen gewone modeadvertenties."
+    },
+    {
+      "node": "1306:76",
+      "titel": "Echt handwerk van dichtbij",
+      "waarom": "Een close-up met korte labels maakt het vakmanschap zichtbaar zonder lange uitleg."
+    }
+  ],
+  "waarom": {
+    "niche": "accessoires",
+    "kop": "Zo groeien accessoiremerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw hoedenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "18–28%",
+        "label": "van de online omzet komt bij accessoiremerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1306:94",
+    "type": "Merkverhaal",
+    "onderwerp": "Een westernmerk, geboren in Mexico",
+    "kop": "Het verhaal achter Sandoval",
+    "tekst": "Een nieuwsbrief over waar de hoeden vandaan komen: Alejandra's Mexicaanse roots, de ambachtslieden in Michoacán en El Comala in detail.",
+    "punten": [
+      "Handgeweven in Michoacán, zonder machines",
+      "Sahuayo-palmstro met een rand van 12 cm",
+      "Gemaakt om met je mee te verouderen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1306:94",
+      "type": "Merkverhaal",
+      "onderwerp": "Een westernmerk, geboren in Mexico",
+      "kop": "Het verhaal achter Sandoval",
+      "tekst": "Een nieuwsbrief over waar de hoeden vandaan komen: Alejandra's Mexicaanse roots, de ambachtslieden in Michoacán en El Comala in detail.",
+      "punten": [
+        "Handgeweven in Michoacán, zonder machines",
+        "Sahuayo-palmstro met een rand van 12 cm",
+        "Gemaakt om met je mee te verouderen"
+      ]
+    },
+    {
+      "node": "1306:126",
+      "type": "Productvergelijking",
+      "onderwerp": "Welke hoed past bij jou?",
+      "kop": "El Comala of El Mazatlán?",
+      "tekst": "Een vergelijkingsmail die twee favorieten naast elkaar zet, zodat twijfelaars makkelijker kiezen.",
+      "punten": [
+        "Materiaal: palmstro of natuurlijk raffia",
+        "Rand: 12 of 11 cm",
+        "Stijl: brede rand of cowboy"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

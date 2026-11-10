@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "pindakaas-47wy6",
+  "merk": "De Pindakaaswinkel",
+  "domein": "depindakaaswinkel.nl",
+  "lead_id": "2026-10-30-depindakaaswinkel.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#47704C",
+  "kop": "Drie nieuwe invalshoeken voor jullie pindakaas.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team De Pindakaaswinkel, ik heb dit gemaakt omdat jullie nog elke pot met de hand maken en dat verhaal eigenlijk vanzelf een advertentie is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1308:3",
+      "titel": "Op het voetstuk",
+      "waarom": "Een grote kop met kleine foto's ertussen laat in één beeld de pinda's, het brood en de pot zien."
+    },
+    {
+      "node": "1308:19",
+      "titel": "Wat erin zit",
+      "waarom": "Vier ingrediënten met een foto erbij maken in een paar seconden duidelijk waarom deze pindakaas anders is."
+    },
+    {
+      "node": "1308:41",
+      "titel": "Pindakaas voor elke dag",
+      "waarom": "Een dagritme laat zien wanneer je de pot pakt en past goed bij het kortingsabonnement."
+    }
+  ],
+  "waarom": {
+    "niche": "food",
+    "kop": "Zo groeien foodmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw foodmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag, omdat een advertentie na een paar weken moe wordt. Een vaste nieuwsbrief zorgt dat kopers terugkomen voor de volgende pot.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij foodmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1310:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de pindakaasfans",
+    "kop": "Welkom bij de pindakaasfans",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, hoe jullie pindakaas gemaakt wordt en de special die nu loopt.",
+    "punten": [
+      "Zoutarm, zonder palmolie en met liefde gemaakt",
+      "Karamel Zeezout als bestseller vooraan",
+      "Tijdelijke special met Eefje Friedhoff: op is op"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1310:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de pindakaasfans",
+      "kop": "Welkom bij de pindakaasfans",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, hoe jullie pindakaas gemaakt wordt en de special die nu loopt.",
+      "punten": [
+        "Zoutarm, zonder palmolie en met liefde gemaakt",
+        "Karamel Zeezout als bestseller vooraan",
+        "Tijdelijke special met Eefje Friedhoff: op is op"
+      ]
+    },
+    {
+      "node": "1310:38",
+      "type": "Merkverhaal",
+      "onderwerp": "Het begon aan de keukentafel",
+      "kop": "Het begon aan de keukentafel",
+      "tekst": "Het verhaal van Michiel en de eerste pindakaaswinkel ter wereld, met wat er in een pot Naturel zit en een uitnodiging om te komen proeven.",
+      "punten": [
+        "Van de Czaar Peterstraat naar de makerij in Aalsmeer",
+        "Wat er in een pot Naturel zit",
+        "Winkels en kortingsabonnement als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
