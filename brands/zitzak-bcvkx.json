@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "zitzak-bcvkx",
+  "merk": "Zitzak.nl",
+  "domein": "zitzak.nl",
+  "lead_id": "2026-11-09-zitzak.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#CC3264",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Zitzak.nl.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Zitzak.nl, ik heb dit gemaakt omdat jullie elke zitzak zelf maken in Wierden, en dat verhaal zag ik nog niet terug in advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1062:2",
+      "titel": "Handgemaakt in Wierden",
+      "waarom": "Eigen productie zonder dropshipping is iets wat grote zitzakwinkels niet kunnen zeggen, en dat valt op tussen de rest."
+    },
+    {
+      "node": "1062:19",
+      "titel": "Nylon in vier kleuren",
+      "waarom": "Waterdicht en makkelijk schoon is precies de vraag die ouders en drukke huishoudens hebben, met de kleuren direct in beeld."
+    },
+    {
+      "node": "1062:45",
+      "titel": "Je leesplek belt",
+      "waarom": "Een speels beeld laat mensen stoppen met scrollen en zet één product met prijs centraal."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe zitzak niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "9",
+        "label": "advertenties heeft LiveDeco nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1063:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Zitzak.nl",
+    "kop": "Welkom bij Zitzak.nl",
+    "tekst": "Fijn dat je er bent. Wij maken elke zitzak zelf, in ons eigen atelier in Wierden. Daarna een blok over hoe de vulling zich naar je lichaam vormt en hoe je je maat kiest.",
+    "punten": [
+      "Eigen atelier in Wierden",
+      "In 2-3 werkdagen in huis, gratis vanaf €79,95",
+      "30 dagen bedenktijd"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1063:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Zitzak.nl",
+      "kop": "Welkom bij Zitzak.nl",
+      "tekst": "Fijn dat je er bent. Wij maken elke zitzak zelf, in ons eigen atelier in Wierden. Daarna een blok over hoe de vulling zich naar je lichaam vormt en hoe je je maat kiest.",
+      "punten": [
+        "Eigen atelier in Wierden",
+        "In 2-3 werkdagen in huis, gratis vanaf €79,95",
+        "30 dagen bedenktijd"
+      ]
+    },
+    {
+      "node": "1064:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Van stofrol tot zitzak",
+      "kop": "Van stofrol tot zitzak.",
+      "tekst": "Een kijkje in het atelier in Wierden, waarom jullie niet dropshippen, en de nylon zitzak met zijn vier belangrijkste kenmerken. Afsluitend de kleuren, vanaf €79,95.",
+      "punten": [
+        "Geen dropshipping, gemaakt in Nederland",
+        "Waterdicht nylon met klittenbandsluiting",
+        "Maten S, M en L, meer dan 20 kleuren"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
