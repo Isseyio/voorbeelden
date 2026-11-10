@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "feggies-3cznb",
+  "merk": "Feggies",
+  "domein": "feggies.nl",
+  "lead_id": "2026-11-06-feggies.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#DC6103",
+  "kop": "Een heel jaar zaaien, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Feggies, ik heb dit gemaakt omdat de Feggies Box met een cassette per zaaimaand zich goed laat uitleggen in een korte advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1074:2",
+      "titel": "Zelf kweken",
+      "waarom": "Een grote, rustige kop met jullie eigen tuinfoto's valt op tussen drukke feeds en vertelt in één blik wat Feggies is."
+    },
+    {
+      "node": "1074:24",
+      "titel": "Twee zakjes in de hand",
+      "waarom": "Een echte hand met de zakjes voelt persoonlijk en laat de mooie verpakking zien, met labels die uitleggen wat je koopt."
+    },
+    {
+      "node": "1074:53",
+      "titel": "Zaaikalender",
+      "waarom": "De kalender met schakelaars maakt het idee van de box direct duidelijk: je weet elke maand wat je kunt zaaien."
+    }
+  ],
+  "waarom": {
+    "niche": "moestuin",
+    "kop": "Zo groeien moestuinmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Juist bij zaaien en kweken werkt dat goed, omdat elk seizoen een nieuw moment geeft om iets te laten zien. Merken die elke week nieuwe advertenties testen, houden hun kosten per aankoop laag, en een vaste nieuwsbrief zorgt dat kwekers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij merken in huis en tuin vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij merken in huis en tuin vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1075:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Feggies",
+    "kop": "Welkom bij Feggies",
+    "tekst": "Fijn dat je er bent. Bij ons vind je biologische en zaadvaste moestuinzaden, voor tuin en balkon. Zaadvast betekent: je kunt van je eigen oogst weer zaad winnen voor volgend jaar.",
+    "punten": [
+      "Biologisch en zaadvast, ook de zaden van de eigen lijn",
+      "550+ zaden, rassen die je niet in het tuincentrum vindt",
+      "Voor 13:00 besteld, dezelfde werkdag verzonden",
+      "Keuzehulp: welke zaden passen bij jouw tuin of balkon"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1075:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Feggies",
+      "kop": "Welkom bij Feggies",
+      "tekst": "Fijn dat je er bent. Bij ons vind je biologische en zaadvaste moestuinzaden, voor tuin en balkon. Zaadvast betekent: je kunt van je eigen oogst weer zaad winnen voor volgend jaar.",
+      "punten": [
+        "Biologisch en zaadvast, ook de zaden van de eigen lijn",
+        "550+ zaden, rassen die je niet in het tuincentrum vindt",
+        "Voor 13:00 besteld, dezelfde werkdag verzonden",
+        "Keuzehulp: welke zaden passen bij jouw tuin of balkon"
+      ]
+    },
+    {
+      "node": "1076:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Leven met de seizoenen",
+      "kop": "Leven met de seizoenen",
+      "tekst": "Anique en Gill begonnen Feggies in 2023 met één idee: alle biologische en zaadvaste zaden op één plek. Daarna de Feggies Box, een heel jaar zaaien in één doos, en de Grow Club voor elke maand iets kleins.",
+      "punten": [
+        "De Feggies Box: 16 cassettes, één per zaaimaand",
+        "25 zakjes €115 of 50 zakjes €185",
+        "Grow Club: elke maand drie gewassen met een kweekplan, €24,95 per maand",
+        "Maandelijks opzegbaar"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
