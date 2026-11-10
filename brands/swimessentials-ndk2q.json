@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "swimessentials-ndk2q",
+  "merk": "Swim Essentials",
+  "domein": "swimessentials.com",
+  "lead_id": "2026-10-31-swimessentials.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#D7262C",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor de zomer van Swim Essentials.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Swim Essentials, ik heb dit gemaakt omdat jullie gestreepte zwemvesten en de foto's van kinderen op het strand precies laten zien waar jullie merk om draait. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1243:3",
+      "titel": "De zomer belt",
+      "waarom": "Een herkenbaar telefoonscherm laat mensen even stoppen met scrollen, en de zwemvest staat groot in beeld."
+    },
+    {
+      "node": "1243:16",
+      "titel": "Vanaf €19,95",
+      "waarom": "Een duidelijke prijs boven een echte strandfoto maakt meteen helder wat het kost en voor wie het is."
+    },
+    {
+      "node": "1243:25",
+      "titel": "Waarom deze zwemvest",
+      "waarom": "Ouders willen weten of het veilig zit: de rits, het klittenband en het CE-keurmerk geven dat antwoord in één beeld."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien kindermerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw kindermerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die ouders volgende zomer terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kindermerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Konges Sløjd nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1244:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Swim Essentials",
+    "kop": "Welkom bij Swim Essentials",
+    "tekst": "Leuk dat je er bent. Wij ontwerpen zwemvesten, zwembandjes en zwemkleding die de zomer weer leuk maken, voor jou en de kleintjes.",
+    "punten": [
+      "Eigen atelier in ’s-Hertogenbosch",
+      "CE-gecertificeerd volgens EN 13138-1",
+      "Binnen 1 werkdag verzonden"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1244:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Swim Essentials",
+      "kop": "Welkom bij Swim Essentials",
+      "tekst": "Leuk dat je er bent. Wij ontwerpen zwemvesten, zwembandjes en zwemkleding die de zomer weer leuk maken, voor jou en de kleintjes.",
+      "punten": [
+        "Eigen atelier in ’s-Hertogenbosch",
+        "CE-gecertificeerd volgens EN 13138-1",
+        "Binnen 1 werkdag verzonden"
+      ]
+    },
+    {
+      "node": "1244:34",
+      "type": "Merkverhaal",
+      "onderwerp": "Sinds 2017 in ons eigen atelier",
+      "kop": "De zomer houdt hier nooit op",
+      "tekst": "Wat in 2017 begon met één missie, zomerspullen weer leuk maken, groeide uit tot een eigen atelier in ’s-Hertogenbosch. Met de zwembandjes Surfer in de hoofdrol en elk jaar een nieuwe collectie.",
+      "punten": [
+        "Zwembandjes Surfer voor 2 tot 6 jaar",
+        "CE-gecertificeerd volgens EN 13138-1",
+        "Elk jaar een nieuwe collectie"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "mamaloves-ng9pe",
+  "merk": "MAMALOVES",
+  "domein": "mamaloves.com",
+  "lead_id": "2026-10-31-mamaloves.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#58200F",
+  "kop": "Sieraden met een verhaal, in drie advertenties.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team MAMALOVES, ik heb dit gemaakt omdat sieraden die in jullie atelier in Haarlem met de hand worden gegraveerd een verhaal hebben dat goed werkt in korte advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1236:4",
+      "titel": "Kleine handjes",
+      "waarom": "Een babyhandje naast de PROUD MOM bedels laat in één beeld zien voor wie je dit draagt."
+    },
+    {
+      "node": "1236:18",
+      "titel": "Jouw namen, gegraveerd",
+      "waarom": "De labels wijzen precies aan wat je zelf kiest: naam, geboortesteen en hartje."
+    },
+    {
+      "node": "1236:38",
+      "titel": "Mama Bracelet voor €15",
+      "waarom": "Eén duidelijke prijs met een grote merknaam erover: een makkelijke eerste aankoop."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, zeker rond cadeaumomenten.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "18–28%",
+        "label": "van de online omzet komt bij sieradenmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1236:46",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij MAMALOVES: jij ontwerpt, wij maken het",
+    "kop": "Welkom bij MAMALOVES",
+    "tekst": "Een rustige welkomstmail met de Birth Flower Bouquet Coin ketting in het doosje, drie beloftes van het atelier en een tweede kaart over vingerafdruksieraden.",
+    "punten": [
+      "Met de hand gegraveerd, verzonden in 1–3 werkdagen, ingepakt met liefde",
+      "Birth Flower Bouquet Coin ketting als eerste kennismaking",
+      "Vingerafdruksieraden in zilver, verguld of 9k/14k goud"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1236:46",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij MAMALOVES: jij ontwerpt, wij maken het",
+      "kop": "Welkom bij MAMALOVES",
+      "tekst": "Een rustige welkomstmail met de Birth Flower Bouquet Coin ketting in het doosje, drie beloftes van het atelier en een tweede kaart over vingerafdruksieraden.",
+      "punten": [
+        "Met de hand gegraveerd, verzonden in 1–3 werkdagen, ingepakt met liefde",
+        "Birth Flower Bouquet Coin ketting als eerste kennismaking",
+        "Vingerafdruksieraden in zilver, verguld of 9k/14k goud"
+      ]
+    },
+    {
+      "node": "1236:80",
+      "type": "Merkverhaal",
+      "onderwerp": "Hoe drie namen in Marseille het begin van MAMALOVES werden",
+      "kop": "Het begon met drie namen.",
+      "tekst": "Het verhaal van Katrien en de goudsmid in Marseille, het eigen atelier in Haarlem en de Create Your Own Bracelet uitgelicht met drie kenmerken.",
+      "punten": [
+        "Het ontstaan in 2015 in jullie eigen woorden",
+        "Create Your Own Bracelet: 30+ koordkleuren, letters en bedels",
+        "Afsluiting met de 2000+ vijfsterrenreviews"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

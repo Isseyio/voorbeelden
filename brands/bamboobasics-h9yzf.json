@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "bamboobasics-h9yzf",
+  "merk": "Bamboo Basics",
+  "domein": "bamboobasics.com",
+  "lead_id": "2026-10-31-bamboobasics.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2F4A2B",
+  "kop": "Drie nieuwe invalshoeken voor bamboe ondergoed",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Bamboo Basics, ik heb dit gemaakt omdat jullie veel adverteren en een paar nieuwe invalshoeken dan snel verschil maken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1238:4",
+      "titel": "Vanaf €9,99 per stuk",
+      "waarom": "Een echte prijs per stuk bovenaan en jullie naam groot over een echte foto stoppen de duim en maken het 7-pack aantrekkelijk."
+    },
+    {
+      "node": "1238:15",
+      "titel": "Voor haar én voor hem",
+      "waarom": "Twee bestsellers naast elkaar laten in één beeld zien dat er voor iedereen iets is, met de merkbelofte eronder."
+    },
+    {
+      "node": "1238:35",
+      "titel": "Één slip, je hele dag",
+      "waarom": "Een herkenbare dag in drie momenten maakt voelbaar waarom bamboe beter draagt, van werk tot sporten tot slapen."
+    }
+  ],
+  "waarom": {
+    "niche": "ondergoed",
+    "kop": "Zo groeien ondergoedmerken op Instagram.",
+    "tekst": "Ondergoed is een herhaalaankoop, dus wie één keer koopt komt vaak terug. Merken die elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers op tijd een nieuwe pack bestellen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij ondergoedmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Muchachomalo nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1238:61",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Bamboo Basics, je €5 staat klaar",
+    "kop": "Welkom bij Bamboo Basics",
+    "tekst": "Een welkomstmail die de €5 korting uit jullie nieuwsbriefaanmelding opvolgt, uitlegt waarom bamboe en de Belle als eerste aanrader geeft.",
+    "punten": [
+      "€5 korting op de volgende bestelling",
+      "Zijdezacht, neemt tot 70% meer vocht op dan katoen, hypoallergeen",
+      "Belle 3-pack €32,95 als eerste aanrader"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1238:61",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Bamboo Basics, je €5 staat klaar",
+      "kop": "Welkom bij Bamboo Basics",
+      "tekst": "Een welkomstmail die de €5 korting uit jullie nieuwsbriefaanmelding opvolgt, uitlegt waarom bamboe en de Belle als eerste aanrader geeft.",
+      "punten": [
+        "€5 korting op de volgende bestelling",
+        "Zijdezacht, neemt tot 70% meer vocht op dan katoen, hypoallergeen",
+        "Belle 3-pack €32,95 als eerste aanrader"
+      ]
+    },
+    {
+      "node": "1238:93",
+      "type": "Assortimentsmail",
+      "onderwerp": "Je nieuwe basics zijn van bamboe",
+      "kop": "Je nieuwe basics zijn van bamboe",
+      "tekst": "Een assortimentsmail met de bestsellers voor haar en hem, met prijs per stuk en jullie 8,9 uit 21.666 beoordelingen.",
+      "punten": [
+        "Belle 3-pack en 7-pack",
+        "Boxershorts Rico 3-pack",
+        "8,9 uit 21.666 beoordelingen",
+        "Voor 23:30 besteld, morgen in huis"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "naif-5yec3",
+  "merk": "Naïf",
+  "domein": "naifcare.com",
+  "lead_id": "2026-10-30-naifcare.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1F4D40",
+  "kop": "Mild, in drie advertenties.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Naïf, ik heb dit gemaakt omdat 'zonder troep' een belofte is die je in één beeld kunt laten zien. Alles is gemaakt met jullie eigen foto's en productbeelden, en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1240:4",
+      "titel": "MILD",
+      "waarom": "Eén groot woord en jullie hele baby & kids lijn op een rij: in een seconde duidelijk waar Naïf voor staat."
+    },
+    {
+      "node": "1240:20",
+      "titel": "Koop deze shampoo niet",
+      "waarom": "Een knipoog die blijft hangen, met drie harde voordelen eronder: prikt niet, geen SLES, dermatologisch getest."
+    },
+    {
+      "node": "1240:39",
+      "titel": "Elke avond badtijd",
+      "waarom": "De weekstrip laat zien dat de 2-in-1 bij het dagelijkse badritueel hoort, vanaf de geboorte."
+    }
+  ],
+  "waarom": {
+    "niche": "babyverzorging",
+    "kop": "Zo groeien merken in babyverzorging op Instagram.",
+    "tekst": "Jonge ouders ontdekken nieuwe verzorgingsmerken vooral tijdens het scrollen, niet via Google. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe ouders en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat ze terugkomen als de fles leeg is.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids- en babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids- en babymerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1240:64",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Naïf: hier is je €5 korting",
+    "kop": "Welkom bij Naïf",
+    "tekst": "Een welkomstmail in jullie mintgroen met de €5 korting uit jullie nieuwsbriefbelofte, de Shampoo en 2-in-1 voorop en drie redenen om voor Naïf te kiezen.",
+    "punten": [
+      "€5 korting op de eerste bestelling, zoals jullie inschrijving belooft",
+      "Dermatologisch getest, 0% SLES en minerale olie, vóór 20:00 besteld is vandaag verzonden",
+      "Tweede blok over milde verzorging voor de gevoelige babyhuid"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1240:64",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Naïf: hier is je €5 korting",
+      "kop": "Welkom bij Naïf",
+      "tekst": "Een welkomstmail in jullie mintgroen met de €5 korting uit jullie nieuwsbriefbelofte, de Shampoo en 2-in-1 voorop en drie redenen om voor Naïf te kiezen.",
+      "punten": [
+        "€5 korting op de eerste bestelling, zoals jullie inschrijving belooft",
+        "Dermatologisch getest, 0% SLES en minerale olie, vóór 20:00 besteld is vandaag verzonden",
+        "Tweede blok over milde verzorging voor de gevoelige babyhuid"
+      ]
+    },
+    {
+      "node": "1240:100",
+      "type": "Assortiment",
+      "onderwerp": "Alles wat je baby nodig heeft. Niets meer.",
+      "kop": "Alles wat je baby nodig heeft.",
+      "tekst": "Een assortimentsmail met vijf producten uit de baby & kids lijn, elk met prijs en één duidelijk voordeel, en een afsluiting over B Corp.",
+      "punten": [
+        "Shampoo, 2-in-1, Badschuim, Anti-Tangle Hair Lotion en Baby Balm",
+        "Per product één voordeel uit jullie eigen productpagina",
+        "Afsluiting: B Corp gecertificeerd, 0% microplastics"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
