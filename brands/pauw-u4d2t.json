@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "pauw-u4d2t",
+  "merk": "PAUW",
+  "domein": "pauw.com",
+  "lead_id": "2026-11-03-pauw.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#7A6250",
+  "kop": "Drie nieuwe invalshoeken voor het eigen label van PAUW.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team PAUW, ik heb dit gemaakt omdat jullie eigen label met de cashmere jassen en coltruien zo rustig en mooi in beeld staat. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1162:3",
+      "titel": "Eigen ontwerpen",
+      "waarom": "Een typografische kop met kleine fotovensters valt op tussen gewone modefoto's en zet het eigen label centraal."
+    },
+    {
+      "node": "1162:25",
+      "titel": "Eén jas, één prijs",
+      "waarom": "Een duidelijke prijs bovenaan spreekt mensen aan die al weten wat ze zoeken, en de foto doet de rest."
+    },
+    {
+      "node": "1162:34",
+      "titel": "Twee coltruien naast elkaar",
+      "waarom": "Twee varianten naast elkaar helpen kiezen en laten zien hoe breed het eigen label is."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw modemerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Claudia Sträter nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1162:67",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij PAUW",
+    "kop": "Welkom bij PAUW",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie PAUW is, twee stukken uit het eigen label en waar de winkels zitten.",
+    "punten": [
+      "Eigen ontwerpen naast merken uit Parijs, Milaan en New York",
+      "Cropped cashmere jasje en wol-mix blazer uit het eigen label",
+      "Winkels in onder meer Amsterdam, Laren, Den Haag en Utrecht"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1162:67",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij PAUW",
+      "kop": "Welkom bij PAUW",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie PAUW is, twee stukken uit het eigen label en waar de winkels zitten.",
+      "punten": [
+        "Eigen ontwerpen naast merken uit Parijs, Milaan en New York",
+        "Cropped cashmere jasje en wol-mix blazer uit het eigen label",
+        "Winkels in onder meer Amsterdam, Laren, Den Haag en Utrecht"
+      ]
+    },
+    {
+      "node": "1162:112",
+      "type": "Merkverhaal",
+      "onderwerp": "Het verhaal achter PAUW",
+      "kop": "Ons eigen label, voor elk seizoen.",
+      "tekst": "Een mail over het verhaal achter PAUW, met één stuk uitgelicht en een afsluiting over laagjes voor de winter.",
+      "punten": [
+        "Van passie naar 22 winkels en een groeiende webshop",
+        "Katoenen vest-jasje met materiaal, kleur en prijs",
+        "Laagjes voor de winter met de relaxed cashmere jas"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "sonofabeach-bta9w",
+  "merk": "Son of a Beach",
+  "domein": "sonofabeach.nl",
+  "lead_id": "2026-11-03-sonofabeach.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#0E1824",
+  "kop": "Matching zwemkleding, ook in de feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Son of a Beach, ik heb dit gemaakt omdat jullie vader-en-zoonprints en strandfoto's met het hele gezin zich heel goed lenen voor Instagram, terwijl ik in de advertentiebibliotheek van Meta maar een paar advertenties van jullie zag. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1156:22",
+      "titel": "Je mini-me belt",
+      "waarom": "Een speels inkomend-gesprekscherm valt op tussen gewone posts en zet de Flamingo Royal Blue voor vader en zoon met prijs groot in beeld."
+    },
+    {
+      "node": "1156:35",
+      "titel": "Wie matcht er met papa?",
+      "waarom": "Twee van jullie eigen foto's naast elkaar laten meteen zien dat er sets zijn voor vader en zoon én vader en dochter, met de maten erbij."
+    },
+    {
+      "node": "1156:56",
+      "titel": "Eén print voor het hele gezin",
+      "waarom": "Een grote kop met jullie strandfoto's tussen de woorden vertelt in één zin wat jullie anders maakt, met de Madelief-set als inzet."
+    }
+  ],
+  "waarom": {
+    "niche": "zwemkleding",
+    "kop": "Zo groeien zwemkledingmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw zwemkledingmerk niet via Google, maar tijdens het scrollen, ook in de winter als de vakantie wordt geboekt. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat gezinnen terugkomen voor de volgende print.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij mode- en zwemkledingmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Vilebrequin nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1157:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in de familie",
+    "kop": "Welkom in de familie",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn, waarom ouders voor jullie zwemkleding kiezen en een makkelijke eerste set.",
+    "punten": [
+      "Herokaart met jullie eigen gezinsfoto op het strand en een korte welkom",
+      "Drie redenen: gerecycled 4-way stretch polyester, droogt snel, verborgen ritszak in het herenmodel",
+      "Tweede kaart met de Flamingo Royal Blue voor vader en zoon (€64,95)"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1157:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in de familie",
+      "kop": "Welkom in de familie",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn, waarom ouders voor jullie zwemkleding kiezen en een makkelijke eerste set.",
+      "punten": [
+        "Herokaart met jullie eigen gezinsfoto op het strand en een korte welkom",
+        "Drie redenen: gerecycled 4-way stretch polyester, droogt snel, verborgen ritszak in het herenmodel",
+        "Tweede kaart met de Flamingo Royal Blue voor vader en zoon (€64,95)"
+      ]
+    },
+    {
+      "node": "1158:2",
+      "type": "Productspotlight",
+      "onderwerp": "Zoek jullie match",
+      "kop": "Zoek jullie match",
+      "tekst": "Een assortimentsmail met vier vader-en-zoonprints, zodat lezers in één oogopslag hun favoriete print vinden.",
+      "punten": [
+        "Gezinsfoto als hero met 'zelfde zwembroek, eigen maat'",
+        "Vier prints met prijs en knop: Flamingo Royal Blue, Madelief, Smiley en Flamingo Groen (€64,95)",
+        "Afsluitend blok over moeder en kind, met jullie eigen foto"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "vanbeekum-cqdq5",
+  "merk": "Van Beekum Specerijen",
+  "domein": "vanbeekumspecerijen.nl",
+  "lead_id": "2026-11-01-vanbeekumspecerijen.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B42F21",
+  "kop": "Drie nieuwe invalshoeken voor Van Beekum Specerijen",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Van Beekum, ik heb dit gemaakt omdat jullie met een 9,7 uit bijna 18.000 beoordelingen een sterk verhaal hebben dat in een advertentie goed werkt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1159:3",
+      "titel": "Klanten geven een 9,7",
+      "waarom": "Echte klantreacties naast het product geven twijfelaars een reden om het een keer te proberen."
+    },
+    {
+      "node": "1159:40",
+      "titel": "Eén woord: BBQ",
+      "waarom": "Eén groot woord en het complete pakket in beeld: in een seconde duidelijk wat je krijgt en wat het kost."
+    },
+    {
+      "node": "1159:55",
+      "titel": "BIFF van dichtbij",
+      "waarom": "Laat zien wat er in de mix zit en dat hij samen met Basiliek is gemaakt, zonder lange uitleg."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien foodmerken op Instagram.",
+    "tekst": "Mensen ontdekken nieuwe smaken vooral tijdens het scrollen, vaak via een gerecht dat ze meteen willen maken. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag. En omdat kruiden opraken, haalt een vaste nieuwsbrief steeds weer een herhaalaankoop binnen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij foodmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1160:166",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom aan tafel: je code SCRATCH15",
+    "kop": "Welkom aan tafel.",
+    "tekst": "Een welkomstmail met de 15%-code die jullie pop-up al geeft, het verhaal van de eigen mengerij en drie pakketten om mee te beginnen.",
+    "punten": [
+      "Welkomstcode SCRATCH15 groot in beeld",
+      "Kruidenpakket Zonder Zout en Basis Sauzen Pakket als startpunt",
+      "Basis BBQ Kruidenpakket als bundel"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1160:166",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom aan tafel: je code SCRATCH15",
+      "kop": "Welkom aan tafel.",
+      "tekst": "Een welkomstmail met de 15%-code die jullie pop-up al geeft, het verhaal van de eigen mengerij en drie pakketten om mee te beginnen.",
+      "punten": [
+        "Welkomstcode SCRATCH15 groot in beeld",
+        "Kruidenpakket Zonder Zout en Basis Sauzen Pakket als startpunt",
+        "Basis BBQ Kruidenpakket als bundel"
+      ]
+    },
+    {
+      "node": "1160:206",
+      "type": "Merkverhaal",
+      "onderwerp": "Al sinds 1908 dé kruidenspecialist",
+      "kop": "Al sinds 1908 dé kruidenspecialist.",
+      "tekst": "Een mail over de eigen mengerij in Harderwijk, met BIFF van Basiliek uitgelicht en een afsluiter voor de barbecue.",
+      "punten": [
+        "Ons verhaal: 1908, webshop sinds 2013, eigen proefkeuken",
+        "BIFF met peper, gerookte paprika, zeewier en citroenschil",
+        "Basis BBQ Kruidenpakket (€58,25) als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

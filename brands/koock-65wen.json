@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "koock-65wen",
+  "merk": "Koock Amsterdam",
+  "domein": "koockamsterdam.nl",
+  "lead_id": "2026-11-10-koockamsterdam.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B07A48",
+  "kop": "Puur gietijzer, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Koock Amsterdam, ik heb dit gemaakt omdat jullie pannen een mooi verhaal hebben: puur gietijzer zonder coating, dat generaties meegaat. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1103:4",
+      "titel": "Koop deze pan niet",
+      "waarom": "Een omgekeerde kop laat mensen stoppen met scrollen, en de levenslange garantie geeft meteen het antwoord."
+    },
+    {
+      "node": "1103:31",
+      "titel": "Klassiek of gepolijst",
+      "waarom": "Twee varianten naast elkaar helpen twijfelaars kiezen, met de prijs er direct bij."
+    },
+    {
+      "node": "1103:53",
+      "titel": "Puur gietijzer",
+      "waarom": "Vier concrete redenen met jullie eigen gerechten maken duidelijk waarom gietijzer de moeite waard is."
+    }
+  ],
+  "waarom": {
+    "niche": "keuken",
+    "kop": "Zo groeien keukenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe pan niet via Google, maar tijdens het scrollen op Instagram. Keukenmerken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij keukenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft KookGigant nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1104:132",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Koock",
+    "kop": "Welkom bij Koock",
+    "tekst": "Fijn dat je erbij bent. Je ontvangt van ons recepten van onze chefs, tips voor je gietijzeren pan en als eerste toegang tot onze acties.",
+    "punten": [
+      "PFAS-vrij: zonder synthetische antiaanbaklaag",
+      "Voor inductie, gas, oven en bbq",
+      "Gaat generaties mee, met levenslange garantie",
+      "Koken als de chefs: receptenboekje van chef Terry Priem bij elke bestelling"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1104:132",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Koock",
+      "kop": "Welkom bij Koock",
+      "tekst": "Fijn dat je erbij bent. Je ontvangt van ons recepten van onze chefs, tips voor je gietijzeren pan en als eerste toegang tot onze acties.",
+      "punten": [
+        "PFAS-vrij: zonder synthetische antiaanbaklaag",
+        "Voor inductie, gas, oven en bbq",
+        "Gaat generaties mee, met levenslange garantie",
+        "Koken als de chefs: receptenboekje van chef Terry Priem bij elke bestelling"
+      ]
+    },
+    {
+      "node": "1104:172",
+      "type": "Productspotlight",
+      "onderwerp": "Gietijzer zonder coating",
+      "kop": "Gietijzer zonder coating.",
+      "tekst": "Een antiaanbaklaag slijt na een paar jaar. Gietijzer gaat generaties mee en laat met elk gebruik beter los. Uitgelicht: de gepolijste skillet van 30 cm, direct klaar voor gebruik.",
+      "punten": [
+        "Gepolijste binnenkant: geen inbranden nodig",
+        "Puur gietijzer, zonder PFAS",
+        "Voor elke warmtebron, ook oven en bbq",
+        "€69,95 met levenslange garantie en gratis verzending"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

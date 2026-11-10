@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "lekker-u8xsn",
+  "merk": "The Lekker Company",
+  "domein": "thelekkercompany.com",
+  "lead_id": "2026-11-02-thelekkercompany.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#DE2BA0",
+  "kop": "Feels lekker, ook in de feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team The Lekker Company, ik heb dit gemaakt omdat jullie kleurrijke potjes en de body wash in een blikje zich goed lenen voor nieuwe advertenties, terwijl jullie huidige advertenties al sinds de zomer dezelfde zijn. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1153:4",
+      "titel": "Je spa-dag in een blikje",
+      "waarom": "Een hand met de body wash refill en drie pillen met jullie kenmerken laten in één beeld zien wat het is en waarom het anders is."
+    },
+    {
+      "node": "1153:29",
+      "titel": "15% voor nieuwe klanten",
+      "waarom": "Jullie eigen welkomstkorting groot in beeld, met een vrolijke modelfoto, maakt van scrollers nieuwe inschrijvers en kopers."
+    },
+    {
+      "node": "1153:42",
+      "titel": "Fris van 7 tot 's avonds",
+      "waarom": "Een routinekaart met schakelaars laat het belangrijkste bewijs zien: de feel floral houdt het de hele dag vol."
+    }
+  ],
+  "waarom": {
+    "niche": "verzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw verzorgingsmerk niet in de winkel of via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun deo op is.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25+",
+        "label": "advertenties heeft Wild nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1154:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij lekker, hier is je 15%",
+    "kop": "welkom bij lekker",
+    "tekst": "Een vrolijke eerste mail voor nieuwe inschrijvers: waar jullie voor staan en de 15% welkomstkorting die jullie al geven.",
+    "punten": [
+      "Herokaart in magenta met de body wash refill en de deodorant stick feel floral",
+      "Drie redenen: 100% natuurlijke oorsprong, de hele lijn vegan, geen toegevoegde microplastics",
+      "Tweede kaart met de body wash refill eucalyptus (330 ml, €9,99)"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1154:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij lekker, hier is je 15%",
+      "kop": "welkom bij lekker",
+      "tekst": "Een vrolijke eerste mail voor nieuwe inschrijvers: waar jullie voor staan en de 15% welkomstkorting die jullie al geven.",
+      "punten": [
+        "Herokaart in magenta met de body wash refill en de deodorant stick feel floral",
+        "Drie redenen: 100% natuurlijke oorsprong, de hele lijn vegan, geen toegevoegde microplastics",
+        "Tweede kaart met de body wash refill eucalyptus (330 ml, €9,99)"
+      ]
+    },
+    {
+      "node": "1154:51",
+      "type": "Merkverhaal",
+      "onderwerp": "Begonnen aan de keukentafel",
+      "kop": "begonnen aan de keukentafel",
+      "tekst": "Een mail over hoe Dewi begon met €200, 100 glazen potjes en Pinterest, met het lekker ritueel als cadeau voor de feestdagen.",
+      "punten": [
+        "Teamfoto als hero met het verhaal van Dewi",
+        "Het lekker ritueel (€19,99) met de inhoud: hand & body bar, deodorant en lip balm",
+        "Afsluiting in groen met de kleurrijke deodorantpotjes"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
