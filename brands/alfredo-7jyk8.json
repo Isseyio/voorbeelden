@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "alfredo-7jyk8",
+  "merk": "Alfredo Gonzales",
+  "domein": "alfredogonzales.com",
+  "lead_id": "2026-11-03-alfredogonzales.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#F2C40D",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Alfredo Gonzales.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Alfredo Gonzales, ik heb dit gemaakt omdat jullie dassen, eikels en koffiekopjes op een sok zo goed laten werken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1028:4",
+      "titel": "Merino voor de winter",
+      "waarom": "Eén groot woord en drie echte sokken: in een seconde duidelijk wat je koopt, precies op het moment dat het kouder wordt."
+    },
+    {
+      "node": "1028:20",
+      "titel": "€11,95 per paar",
+      "waarom": "Een duidelijke prijs met jullie eigen buitenfoto en logo haalt de twijfel weg voor wie het merk nog niet kent."
+    },
+    {
+      "node": "1028:30",
+      "titel": "Je koffiepauze belt",
+      "waarom": "Een speels idee dat opvalt tussen de gewone posts en past bij de humor in jullie designs."
+    }
+  ],
+  "waarom": {
+    "niche": "sokken",
+    "kop": "Zo groeien sokkenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sokkenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sokkenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Happy Socks nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1029:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de club",
+    "kop": "Welkom bij de club.",
+    "tekst": "Een welkomstmail die direct na inschrijving de 10% korting geeft, de nieuwe collectie laat zien en het verhaal van de garage in Rotterdam vertelt.",
+    "punten": [
+      "10% korting op het eerste paar, zoals op de site beloofd",
+      "Badgers, Acorns en Coffee uit de nieuwe collectie",
+      "Merkverhaal: sinds 2011, ontworpen in Rotterdam, gemaakt in Italië"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1029:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de club",
+      "kop": "Welkom bij de club.",
+      "tekst": "Een welkomstmail die direct na inschrijving de 10% korting geeft, de nieuwe collectie laat zien en het verhaal van de garage in Rotterdam vertelt.",
+      "punten": [
+        "10% korting op het eerste paar, zoals op de site beloofd",
+        "Badgers, Acorns en Coffee uit de nieuwe collectie",
+        "Merkverhaal: sinds 2011, ontworpen in Rotterdam, gemaakt in Italië"
+      ]
+    },
+    {
+      "node": "1029:41",
+      "type": "Nieuwe collectie",
+      "onderwerp": "De herfstcollectie is binnen",
+      "kop": "De herfstcollectie is binnen.",
+      "tekst": "Een collectiemail met een sfeerfoto en vier nieuwe sokken onder elkaar, elk met een eigen knop naar de shop.",
+      "punten": [
+        "Vier nieuwe designs met prijs en knop",
+        "Sfeerfoto van jullie eigen site als opener",
+        "Reviews en verzendbelofte onderaan"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
