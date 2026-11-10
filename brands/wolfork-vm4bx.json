@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "wolfork-vm4bx",
+  "merk": "Wolfork",
+  "domein": "wolfork.com",
+  "lead_id": "2026-11-04-wolfork.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#175B55",
+  "kop": "Nieuwe invalshoeken voor Wolfork op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Wolfork, ik heb dit gemaakt omdat jullie recepten een helder verhaal hebben dat je in steeds nieuwe advertenties kunt vertellen, van de ingrediënten tot de burgers in de vriezer. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1184:158",
+      "titel": "Wat erin zit",
+      "waarom": "Wie overstapt op rauw voer wil precies weten wat de hond eet; vier soorten vlees met hun echte percentages maken dat in één beeld duidelijk."
+    },
+    {
+      "node": "1184:194",
+      "titel": "Elke dag vers",
+      "waarom": "Een weekstrip laat zien hoe makkelijk rauw voer in de dagelijkse routine past, met de bezorging voor 12:00 als concreet voordeel."
+    },
+    {
+      "node": "1184:231",
+      "titel": "50% op de eerste levering",
+      "waarom": "Jullie echte abonnementsaanbod groot bovenaan haalt de drempel weg voor baasjes die rauw voer nog nooit geprobeerd hebben."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien huisdierenmerken op Instagram.",
+    "tekst": "De meeste baasjes ontdekken een nieuw voermerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag omdat hun advertenties niet moe worden. Een vaste nieuwsbrief helpt nieuwe abonnees op weg en houdt ze langer aan boord.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Butternut Box nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1184:273",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Wolfork",
+    "kop": "Welkom bij Wolfork",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, hoe het werkt en hoe ze met 50% korting op de eerste levering beginnen.",
+    "punten": [
+      "Rauw, compleet en minstens 88% vers vlees",
+      "Zo werkt het: kies, bestel voor 12:00, ontdooi en serveer",
+      "Burgers van 25, 50 of 100 gram, 2 zakken per vrieslade"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1184:273",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Wolfork",
+      "kop": "Welkom bij Wolfork",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, hoe het werkt en hoe ze met 50% korting op de eerste levering beginnen.",
+      "punten": [
+        "Rauw, compleet en minstens 88% vers vlees",
+        "Zo werkt het: kies, bestel voor 12:00, ontdooi en serveer",
+        "Burgers van 25, 50 of 100 gram, 2 zakken per vrieslade"
+      ]
+    },
+    {
+      "node": "1184:326",
+      "type": "Assortimentsmail",
+      "onderwerp": "Voer voor elke levensfase",
+      "kop": "Voer voor elke levensfase",
+      "tekst": "Een mail die de recepten voor puppy, adult, senior en drachtig naast elkaar zet, met echte scores en prijzen.",
+      "punten": [
+        "Vier recepten met hun echte reviewscore",
+        "Proefpakket vanaf €53,95",
+        "4,8 van 5 uit 262 reviews"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

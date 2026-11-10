@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "noexcess-4af8g",
+  "merk": "No Excess",
+  "domein": "no-excess.com",
+  "lead_id": "2026-11-02-no-excess.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1B2433",
+  "kop": "Drie nieuwe invalshoeken voor No Excess, rond de Sedoc Overshirt.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team No Excess, ik heb dit gemaakt omdat de Sedoc Overshirt met zijn stretch en kreukvrije stof een verhaal heeft dat je in steeds nieuwe advertenties kunt vertellen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1215:343",
+      "titel": "€119,99 in het groot",
+      "waarom": "Een duidelijke prijs boven een sterke close-up valt op en laat meteen zien wat je krijgt."
+    },
+    {
+      "node": "1215:351",
+      "titel": "Rits of knopen?",
+      "waarom": "Twee overshirts naast elkaar laten mensen kiezen in plaats van twijfelen."
+    },
+    {
+      "node": "1215:374",
+      "titel": "Gemaakt met",
+      "waarom": "Vier kenmerken met jullie eigen detailfoto's maken de stof concreet voor wie de shirt nog niet kent."
+    }
+  ],
+  "waarom": {
+    "niche": "herenmode",
+    "kop": "Zo groeien herenmodemerken op Instagram.",
+    "tekst": "De meeste mannen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor het volgende seizoen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Suitsupply nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1215:397",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij No Excess",
+    "kop": "Welkom bij No Excess",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, die meteen laat zien waar No Excess voor staat en hoe bestellen werkt.",
+    "punten": [
+      "Herofoto uit jullie Fall Winter 2026-campagne",
+      "Gratis verzending vanaf €75, 30 dagen retour, binnen 24 uur verzonden",
+      "Een eerste product: de Wool Look Overshirt"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1215:397",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij No Excess",
+      "kop": "Welkom bij No Excess",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers, die meteen laat zien waar No Excess voor staat en hoe bestellen werkt.",
+      "punten": [
+        "Herofoto uit jullie Fall Winter 2026-campagne",
+        "Gratis verzending vanaf €75, 30 dagen retour, binnen 24 uur verzonden",
+        "Een eerste product: de Wool Look Overshirt"
+      ]
+    },
+    {
+      "node": "1215:431",
+      "type": "Merkverhaal",
+      "onderwerp": "Comfort voor elk moment",
+      "kop": "Comfort voor elk moment",
+      "tekst": "Een merkverhaalmail rond Amsterdam sinds 1988 en kleding die meebeweegt, met de Sedoc Overshirt als voorbeeld.",
+      "punten": [
+        "Campagnefoto met verhaalkaart",
+        "De Sedoc Overshirt met vier labels: rits, 4-way stretch, quickdry, kreukvrij",
+        "Afsluiter met kleuren, maten en prijs"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

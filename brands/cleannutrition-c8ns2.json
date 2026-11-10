@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "cleannutrition-c8ns2",
+  "merk": "Clean Nutrition",
+  "domein": "cnsupplements.com",
+  "lead_id": "2026-10-31-cnsupplements.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C9A24A",
+  "kop": "Ga voor goud, ook in je advertenties.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Clean Nutrition, ik heb dit gemaakt omdat jullie zwart-gouden potten en het 'Ga voor goud'-gevoel zich goed lenen voor steeds nieuwe invalshoeken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1228:3",
+      "titel": "Twaalf smaken",
+      "waarom": "Eén groot woord en een zoekbalk laten in een seconde zien wat je koopt, met de smaken als reden om te klikken."
+    },
+    {
+      "node": "1228:21",
+      "titel": "Elke dag 5 gram",
+      "waarom": "Een weekstrip maakt het dagelijkse gebruik van creatine concreet en zet 'getest op dopingstoffen' in beeld."
+    },
+    {
+      "node": "1228:52",
+      "titel": "Je elektrolyten bellen",
+      "waarom": "Een speelse inkomende oproep valt op tussen gewone productfoto's en koppelt het product aan lange trainingen."
+    }
+  ],
+  "waarom": {
+    "niche": "supplementen",
+    "kop": "Zo groeien supplementenmerken op Instagram.",
+    "tekst": "Sporters ontdekken een nieuw supplement vaak niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag, ook als dezelfde mensen hun advertenties vaak zien. Een vaste nieuwsbrief zorgt dat een eerste pot een vaste bestelling wordt.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij supplementenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "200+",
+        "label": "advertenties heeft Myprotein nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1229:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in de Gouden Community",
+    "kop": "Welkom in de Gouden Community.",
+    "tekst": "Een welkomstmail die nieuwe inschrijvers meteen naar de Gold Club stuurt, met de echte 100 Goudstaven als welkomstcadeau en daaronder de drie bestsellers.",
+    "punten": [
+      "100 Goudstaven cadeau bij gratis Gold Club-lidmaatschap als haakje",
+      "Whey Protein, Electrolyte Scoops en Creatine als eerste keuze",
+      "Morgen in huis, niet goud = geld terug en 4,8 uit 17.911 reviews onderaan"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1229:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in de Gouden Community",
+      "kop": "Welkom in de Gouden Community.",
+      "tekst": "Een welkomstmail die nieuwe inschrijvers meteen naar de Gold Club stuurt, met de echte 100 Goudstaven als welkomstcadeau en daaronder de drie bestsellers.",
+      "punten": [
+        "100 Goudstaven cadeau bij gratis Gold Club-lidmaatschap als haakje",
+        "Whey Protein, Electrolyte Scoops en Creatine als eerste keuze",
+        "Morgen in huis, niet goud = geld terug en 4,8 uit 17.911 reviews onderaan"
+      ]
+    },
+    {
+      "node": "1229:45",
+      "type": "Merkverhaal",
+      "onderwerp": "Schone supplementen, zonder gedoe",
+      "kop": "Schone supplementen, zonder gedoe.",
+      "tekst": "Een merkverhaal-mail over wat Clean Nutrition anders doet: geen aspartaam of toegevoegde suikers, samenwerking met farmaceutische fabrikanten en een lab-test rapport per product, met Whey Protein als voorbeeld.",
+      "punten": [
+        "Waar Clean Nutrition voor staat, in de woorden van de site",
+        "Whey Protein met vier labels: smaken, maten, oplosbaarheid en lab-test",
+        "Afsluiting met een vast gebruiksmoment: na elke training"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
