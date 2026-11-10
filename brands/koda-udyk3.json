@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "koda-udyk3",
+  "merk": "Koda Amsterdam",
+  "domein": "koda.nl",
+  "lead_id": "2026-11-08-koda.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3B3B3D",
+  "kop": "Drie nieuwe invalshoeken voor koda.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Diana, ik heb dit gemaakt omdat een tas van restjes Luxaflex die je klein opvouwt een verhaal is dat je in één beeld kunt laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1030:3",
+      "titel": "Gemaakt met",
+      "waarom": "De PLISSÉ met daarnaast waar hij van gemaakt is: Luxaflex-reststof, het ontwerp van Nikki Giling en het atelier in Arnhem."
+    },
+    {
+      "node": "1030:94",
+      "titel": "Stof die over was",
+      "waarom": "Een grote kop met jullie eigen foto's tussen de woorden vertelt het hele koda-verhaal in één zin, met de tas en de prijs eronder."
+    },
+    {
+      "node": "1031:2",
+      "titel": "Klein of A4",
+      "waarom": "Jullie modelfoto met korte labels laat zien wat de tas bijzonder maakt, zonder dat iemand hoeft te lezen."
+    }
+  ],
+  "waarom": {
+    "niche": "tassen en accessoires",
+    "kop": "Zo groeien accessoiremerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw tassenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een tweede tas of een etui.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "18–28%",
+        "label": "van de online omzet komt bij accessoiremerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1032:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij koda",
+    "kop": "Welkom bij koda.",
+    "tekst": "Een rustige welkomstmail in jullie eigen grijs, met de PLISSÉ, de drie dingen waar koda voor staat en het verhaal van Diana.",
+    "punten": [
+      "Restmateriaal van Nederlandse topmerken",
+      "Ontworpen door Nederlandse designers",
+      "Gemaakt in ateliers die talent een plek geven"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1032:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij koda",
+      "kop": "Welkom bij koda.",
+      "tekst": "Een rustige welkomstmail in jullie eigen grijs, met de PLISSÉ, de drie dingen waar koda voor staat en het verhaal van Diana.",
+      "punten": [
+        "Restmateriaal van Nederlandse topmerken",
+        "Ontworpen door Nederlandse designers",
+        "Gemaakt in ateliers die talent een plek geven"
+      ]
+    },
+    {
+      "node": "1032:36",
+      "type": "Productspotlight",
+      "onderwerp": "Compact en zacht: de MOS",
+      "kop": "Compact en zacht.",
+      "tekst": "De MOS uitgelicht met jullie eigen modelfoto: bouclé van De Ploeg, ontwerp van Manon Garritsen en genaaid bij ONS Label in Breda. Met de PLISSÉ als afsluiter.",
+      "punten": [
+        "Bouclé van De Ploeg",
+        "Ontwerp Manon Garritsen",
+        "€80, in zes kleuren"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
