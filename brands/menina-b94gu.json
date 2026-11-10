@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "menina-b94gu",
+  "merk": "Menina Amsterdam",
+  "domein": "menina-amsterdam.nl",
+  "lead_id": "2026-11-05-menina-amsterdam.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Vintage met een verhaal, elke week opnieuw verteld.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Menina Amsterdam, ik heb dit gemaakt omdat jullie foto's van de goudsmid en van ringen aan een hand eigenlijk al een verhaal vertellen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1067:77",
+      "titel": "Vintage aan de hand",
+      "waarom": "Een ring aan een echte hand laat meteen zien hoe hij staat, met drie redenen om bij jullie te kopen eromheen."
+    },
+    {
+      "node": "1067:91",
+      "titel": "Elk stuk uniek",
+      "waarom": "De detailfoto met labels laat zien waar je op let bij vintage, zonder dat er korting voor nodig is."
+    },
+    {
+      "node": "1067:114",
+      "titel": "Ring met een verhaal",
+      "waarom": "Sluit aan op hoe mensen zoeken en laat in één beeld ringen, oorbellen en hangers zien."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1068:23",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Menina, je 5% staat klaar",
+    "kop": "Welkom bij Menina",
+    "tekst": "Een welkomstmail die direct na de aanmelding de beloofde 5% laat zien, uitlegt waarom Menina anders is en verloofde stellen naar de showroom stuurt.",
+    "punten": [
+      "De 5% welkomstkorting die jullie al beloven",
+      "Drie redenen: gratis verzending, eigen goudsmid, conflictvrije edelstenen",
+      "Afspraak in de showroom voor verlovingsringen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1068:23",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Menina, je 5% staat klaar",
+      "kop": "Welkom bij Menina",
+      "tekst": "Een welkomstmail die direct na de aanmelding de beloofde 5% laat zien, uitlegt waarom Menina anders is en verloofde stellen naar de showroom stuurt.",
+      "punten": [
+        "De 5% welkomstkorting die jullie al beloven",
+        "Drie redenen: gratis verzending, eigen goudsmid, conflictvrije edelstenen",
+        "Afspraak in de showroom voor verlovingsringen"
+      ]
+    },
+    {
+      "node": "1068:69",
+      "type": "Merkverhaal",
+      "onderwerp": "Elk stuk door de handen van onze goudsmid",
+      "kop": "Sieraden met een verhaal",
+      "tekst": "Een mail over hoe een vintage sieraad bij jullie binnenkomt en klaargemaakt wordt, met één ring uitgelicht en aan het eind de eigen collectie.",
+      "punten": [
+        "Echte foto van de goudsmid aan het werk",
+        "Eén ring met vier labels",
+        "Doorverwijzing naar de eigen collectie"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
