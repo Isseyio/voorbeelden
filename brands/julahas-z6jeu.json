@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "julahas-z6jeu",
+  "merk": "JULAHAS",
+  "domein": "julahas.com",
+  "lead_id": "2026-11-04-julahas.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4C4548",
+  "kop": "Drie nieuwe invalshoeken voor de capes van JULAHAS.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team JULAHAS, ik heb dit gemaakt omdat jullie capes zo'n mooi verhaal hebben: met de hand geweven door wevers met wie Kanak al jaren samenwerkt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1343:4",
+      "titel": "Waar de cape van gemaakt is",
+      "waarom": "Vier ronde detailfoto's van het weven en de stof laten in één blik zien waarom een handgeweven cape zijn prijs waard is."
+    },
+    {
+      "node": "1343:26",
+      "titel": "Eén cape, twee looks",
+      "waarom": "Twee echte klantfoto's naast elkaar laten zien dat je dezelfde cape op verschillende manieren draagt, en dat werkt beter dan uitleg."
+    },
+    {
+      "node": "1343:45",
+      "titel": "Gratis verzonden vanaf €200",
+      "waarom": "Een groot getal en jullie eigen zin 'voelt als een warme knuffel' over een close-up geven een concrete reden om nu te kijken."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw modemerk niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe invalshoeken testen, houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Zusss nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1343:55",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in de Cape Circle",
+    "kop": "Welkom in de Cape Circle",
+    "tekst": "Een rustige welkomstmail voor nieuwe aanmeldingen: wie JULAHAS is, waar de capes voor staan en wie ze weeft, met één duidelijke knop naar de capes.",
+    "punten": [
+      "Free size, handgeweven en het hele jaar te dragen",
+      "Kort verhaal over de wevers in de Himalaya",
+      "Eén knop naar de capes"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1343:55",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in de Cape Circle",
+      "kop": "Welkom in de Cape Circle",
+      "tekst": "Een rustige welkomstmail voor nieuwe aanmeldingen: wie JULAHAS is, waar de capes voor staan en wie ze weeft, met één duidelijke knop naar de capes.",
+      "punten": [
+        "Free size, handgeweven en het hele jaar te dragen",
+        "Kort verhaal over de wevers in de Himalaya",
+        "Eén knop naar de capes"
+      ]
+    },
+    {
+      "node": "1343:84",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom JULAHAS bestaat",
+      "kop": "Eén cape, jaren mee.",
+      "tekst": "Een merkverhaal rond Kanak en de wevers, met wat je in elke cape terugvindt en een afsluiting die naar de capes leidt.",
+      "punten": [
+        "Het ontstaan van JULAHAS in 2019",
+        "Handgeweven, wol en katoen, free size, een boom per aankoop",
+        "Gratis wereldwijd verzonden vanaf €200"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

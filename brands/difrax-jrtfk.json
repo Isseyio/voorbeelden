@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "difrax-jrtfk",
+  "merk": "Difrax",
+  "domein": "difrax.com",
+  "lead_id": "2026-11-01-difrax.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#42535F",
+  "kop": "Drie nieuwe invalshoeken voor Difrax, rond de fopspenen voor dag en nacht.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Difrax, ik heb dit gemaakt omdat jullie fopspenen zoveel concrete verhalen hebben, van de glow-ring tot de vorm die met logopedisten en tandartsen is ontwikkeld, dat je er elke week een nieuwe advertentie mee kunt maken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1338:3",
+      "titel": "Dag en nacht",
+      "waarom": "Een routinekaart met ochtend, middagslaapje en bedtijd laat zien hoe de Pure- en Glow-fopspenen in een gewone dag passen, met de set en de prijs erbij."
+    },
+    {
+      "node": "1338:29",
+      "titel": "Eén woord: glow",
+      "waarom": "Een groot woord met een zoekbalk sluit aan op wat ouders zelf zoeken, en de echte packshots laten meteen zien welke fopspenen oplichten."
+    },
+    {
+      "node": "1338:46",
+      "titel": "Vanaf €5,29",
+      "waarom": "De echte prijs groot bovenaan en het logo over jullie eigen sfeerfoto maken in één blik duidelijk dat er voor elke fase een fopspeen is."
+    }
+  ],
+  "waarom": {
+    "niche": "baby",
+    "kop": "Zo groeien babymerken op Instagram.",
+    "tekst": "Ouders ontdekken nieuwe babyproducten vaak niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe invalshoeken testen houden hun kosten per aankoop laag, ook als ze al adverteren. En omdat baby's snel groeien, zorgt een vaste nieuwsbrief dat ouders terugkomen voor de volgende maat.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij babymerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1340:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Difrax, je 10% staat klaar",
+    "kop": "Welkom bij Difrax.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% korting op de eerste bestelling, waarom ouders voor Difrax kiezen en meteen een product om mee te beginnen.",
+    "punten": [
+      "Herokaart met jullie eigen packshot van de Dynamic Tutti Frutti en een knop met de 10% korting",
+      "Drie redenen in iconen: 55 jaar ervaring, ontwikkeld met logopedisten en tandartsen, 100% BPA-vrij",
+      "Tweede kaart over borstvoeding met jullie eigen foto en de dynamische fopspeen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1340:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Difrax, je 10% staat klaar",
+      "kop": "Welkom bij Difrax.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% korting op de eerste bestelling, waarom ouders voor Difrax kiezen en meteen een product om mee te beginnen.",
+      "punten": [
+        "Herokaart met jullie eigen packshot van de Dynamic Tutti Frutti en een knop met de 10% korting",
+        "Drie redenen in iconen: 55 jaar ervaring, ontwikkeld met logopedisten en tandartsen, 100% BPA-vrij",
+        "Tweede kaart over borstvoeding met jullie eigen foto en de dynamische fopspeen"
+      ]
+    },
+    {
+      "node": "1340:41",
+      "type": "Merkverhaal",
+      "onderwerp": "Al 55 jaar aan de wieg",
+      "kop": "Al 55 jaar aan de wieg.",
+      "tekst": "Een mail over hoe een Difrax-fopspeen ontstaat, met de Natural Glow uitgelicht en een praktische tip om af te sluiten.",
+      "punten": [
+        "Hero met jullie eigen sfeerfoto van fopspenen",
+        "De Natural 18+ Glow met vier labels: vlindervorm, glow-ring, stevige speen, symmetrisch",
+        "Afsluiting: elke zes weken een nieuwe fopspeen, met jullie Google-score van 4,7"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

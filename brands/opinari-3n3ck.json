@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "opinari-3n3ck",
+  "merk": "OPINARI",
+  "domein": "opinari-drivers.com",
+  "lead_id": "2026-11-01-opinari-drivers.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#0B2417",
+  "kop": "Rijhandschoenen uit Italië, nu ook in je feed",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team OPINARI, ik heb dit gemaakt omdat jullie foto's van handschoenen in klassieke auto's precies het soort beeld zijn dat op Instagram blijft hangen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1347:31",
+      "titel": "Elk detail telt",
+      "waarom": "Bij een paar van €455 wil een koper zien waar het verschil zit; callouts bij de knoop en het stiksel laten dat in één beeld zien."
+    },
+    {
+      "node": "1347:52",
+      "titel": "Prijs en sfeer",
+      "waarom": "Een eerlijke prijs bovenaan met een sterk interieurbeeld trekt precies de autoliefhebbers die bij dit prijsniveau passen."
+    },
+    {
+      "node": "1347:62",
+      "titel": "Koop geen goedkope",
+      "waarom": "Een kop die eerst tegenspreekt, valt op tussen gewone posts en legt meteen uit waarom deze handschoenen langer meegaan."
+    }
+  ],
+  "waarom": {
+    "niche": "accessoires",
+    "kop": "Zo groeien accessoiremerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw accessoiremerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, bijvoorbeeld voor een tweede paar of een cadeau.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "18–28%",
+        "label": "van de online omzet komt bij accessoiremerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1347:81",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij OPINARI",
+    "kop": "Welkom bij OPINARI",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers op de nieuwsbrief: wie jullie zijn, wat je bij elk paar krijgt en de mogelijkheid om een eigen paar te laten maken.",
+    "punten": [
+      "Handgemaakt in Italië, 4 tot 5 uur werk per paar",
+      "Geleverd in de Essentials case met certificaat",
+      "Gratis verzending binnen Europa vanaf €150"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1347:81",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij OPINARI",
+      "kop": "Welkom bij OPINARI",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers op de nieuwsbrief: wie jullie zijn, wat je bij elk paar krijgt en de mogelijkheid om een eigen paar te laten maken.",
+      "punten": [
+        "Handgemaakt in Italië, 4 tot 5 uur werk per paar",
+        "Geleverd in de Essentials case met certificaat",
+        "Gratis verzending binnen Europa vanaf €150"
+      ]
+    },
+    {
+      "node": "1347:111",
+      "type": "Productspotlight",
+      "onderwerp": "Blauw, zoals een Ferrari 250 GT Lusso",
+      "kop": "Blauw, zoals een Ferrari 250 GT Lusso",
+      "tekst": "Een mail rond één paar, de Blu Notte: het verhaal achter de kleur, waarom peccary-leer en wat er in de Essentials case zit.",
+      "punten": [
+        "Het verhaal achter de blauwe kleur",
+        "Details: peccary-leer, cognac palm, gunmetal knoop",
+        "Afsluiting met de Essentials case en prijs"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}

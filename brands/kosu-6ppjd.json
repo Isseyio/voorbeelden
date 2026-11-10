@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "kosu-6ppjd",
+  "merk": "KOSU Koffiebranderij",
+  "domein": "kosukoffiebranderij.nl",
+  "lead_id": "2026-11-04-kosukoffiebranderij.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#FF8041",
+  "kop": "Vers van het Suikerterrein, nu ook in je feed",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team KOSU, ik heb dit gemaakt omdat jullie bij elke koffie laten zien van welke boer hij komt, en dat verhaal past goed op Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1341:3",
+      "titel": "Van boer tot branderij",
+      "waarom": "Laat in één beeld zien waar de Peru vandaan komt en wat je proeft; bij specialty koffie is herkomst een sterke reden om te kopen."
+    },
+    {
+      "node": "1341:27",
+      "titel": "Kies je smaak",
+      "waarom": "Twee koffies naast elkaar helpen twijfelaars kiezen en laten zien hoe breed het aanbod is."
+    },
+    {
+      "node": "1341:45",
+      "titel": "Je koffie belt",
+      "waarom": "Een speels format dat opvalt tussen gewone posts en meteen het ritme uitlegt: donderdag branden, vrijdag verzenden."
+    }
+  ],
+  "waarom": {
+    "niche": "koffie",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw koffiemerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun zak koffie leeg is.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij koffie- en foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Simon Lévelt nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1341:59",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij KOSU, zo werkt vers branden",
+    "kop": "Welkom bij KOSU",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, hoe het branden op donderdag werkt en een uitnodiging voor de Baristaschool.",
+    "punten": [
+      "Woensdag besteld, donderdag gebrand, vrijdag verzonden",
+      "Peru Finca Churupampa als eerste kennismaking",
+      "Workshops in de Baristaschool vanaf €30"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1341:59",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij KOSU, zo werkt vers branden",
+      "kop": "Welkom bij KOSU",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, hoe het branden op donderdag werkt en een uitnodiging voor de Baristaschool.",
+      "punten": [
+        "Woensdag besteld, donderdag gebrand, vrijdag verzonden",
+        "Peru Finca Churupampa als eerste kennismaking",
+        "Workshops in de Baristaschool vanaf €30"
+      ]
+    },
+    {
+      "node": "1341:89",
+      "type": "Assortimentsmail",
+      "onderwerp": "Vijf koffies, vers van het Suikerterrein",
+      "kop": "Vijf koffies, vers van het Suikerterrein",
+      "tekst": "Een mail die het assortiment laat zien met smaak en prijs per koffie, plus het verhaal van de boeren in Peru.",
+      "punten": [
+        "Vier koffies met smaaknotities en prijs",
+        "Herkomstverhaal van Finca Churupampa",
+        "Natuurlijk geteeld, zonder pesticiden"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
