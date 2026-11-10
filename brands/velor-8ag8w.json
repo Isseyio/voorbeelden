@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "velor-8ag8w",
+  "merk": "VELOR",
+  "domein": "velor-cycling.com",
+  "lead_id": "2026-11-09-velor-cycling.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1D3D63",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor VELOR.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team VELOR, ik heb dit gemaakt omdat een wielershirt van plastic flessen of van oude shirts een verhaal is dat je in één beeld kunt laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1041:3",
+      "titel": "Gemaakt van flessen",
+      "waarom": "De Jersey Sea met vier ronde detailfoto's laat zien waar het shirt van gemaakt is en wat het onderweg doet, met de prijs erbij."
+    },
+    {
+      "node": "1041:24",
+      "titel": "RELOV voor €139",
+      "waarom": "Een duidelijke prijs, het grote VELOR-logo en jullie eigen RELOV-foto vertellen in twee seconden wat dit shirt anders maakt."
+    },
+    {
+      "node": "1041:39",
+      "titel": "Zondag belt",
+      "waarom": "Een herkenbaar telefoonscherm maakt van een productfoto een speelse uitnodiging om te gaan fietsen, en zo'n vorm valt op tussen gewone posts."
+    }
+  ],
+  "waarom": {
+    "niche": "sport en outdoor",
+    "kop": "Zo groeien wielermerken op Instagram.",
+    "tekst": "De meeste fietsers ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe rijders en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die rijders terugkomen voor hun volgende shirt.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sportmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft AGU nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1041:165",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij VELOR",
+      "kop": "Welkom bij VELOR",
+      "tekst": "Een welkomstmail die de 10% van jullie inschrijving meteen bezorgt, met drie redenen om voor VELOR te kiezen en de Jersey Sea als eerste product.",
+      "punten": [
+        "10% op de eerste bestelling, zoals jullie inschrijving belooft",
+        "83% gerecycled, −68% CO₂ en B Corp in één oogopslag",
+        "Jersey Sea met de handige achterzakken"
+      ]
+    },
+    {
+      "node": "1041:204",
+      "type": "Merkverhaal",
+      "onderwerp": "Fietsen mag de planeet niets kosten",
+      "kop": "Fietsen mag de planeet niets kosten.",
+      "tekst": "Het verhaal van Florian en Mickael, de Jersey Night met zijn details en RELOV als afsluiter.",
+      "punten": [
+        "Het idee van twee broers",
+        "Jersey Night met vier echte productdetails",
+        "RELOV: 85% uit oude wielershirts, €139"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10",
+  "nieuwsbrief": {
+    "node": "1041:165",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij VELOR",
+    "kop": "Welkom bij VELOR",
+    "tekst": "Een welkomstmail die de 10% van jullie inschrijving meteen bezorgt, met drie redenen om voor VELOR te kiezen en de Jersey Sea als eerste product.",
+    "punten": [
+      "10% op de eerste bestelling, zoals jullie inschrijving belooft",
+      "83% gerecycled, −68% CO₂ en B Corp in één oogopslag",
+      "Jersey Sea met de handige achterzakken"
+    ]
+  }
+}
