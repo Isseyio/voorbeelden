@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "sapph-p8ysy",
+  "merk": "Sapph",
+  "domein": "sapph.com",
+  "lead_id": "2026-11-04-sapph.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#7B2333",
+  "kop": "Drie nieuwe invalshoeken en twee nieuwsbrieven voor Sapph.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Sapph, ik heb dit gemaakt omdat jullie missie, iedere vrouw is anders, zo goed werkt met jullie eigen campagnefoto's. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1041:69",
+      "titel": "Iedere vrouw is anders",
+      "waarom": "Jullie eigen missie als grote kop met campagnefoto's ertussen valt op tussen gewone productposts en vertelt meteen waar Sapph voor staat."
+    },
+    {
+      "node": "1041:88",
+      "titel": "Slip deal 2+2 gratis",
+      "waarom": "Een echte actie van jullie site bovenaan en het logo groot in beeld: wie scrolt ziet in één keer het aanbod en het merk."
+    },
+    {
+      "node": "1041:97",
+      "titel": "Jana in blauw of groen",
+      "waarom": "Twee kleuren van dezelfde bh naast elkaar laat kiezen in plaats van twijfelen, met prijs en bijpassende slip erbij."
+    }
+  ],
+  "waarom": {
+    "niche": "lingerie",
+    "kop": "Zo groeien lingeriemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw lingeriemerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij lingeriemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25+",
+        "label": "advertenties heeft Livera nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1041:244",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Sapph",
+    "kop": "Welkom bij Sapph.",
+    "tekst": "Een welkomstmail direct na inschrijving via 'Word onderdeel van Sapph': de missie, levering morgen, twee favorieten en de slip deal.",
+    "punten": [
+      "Missie: iedere vrouw is anders, geen standaard pasvorm",
+      "Charlotte en Lisette als eerste favorieten met prijs en knop",
+      "Slip deal 2+2 gratis en gratis verzending binnen NL & BE"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1041:244",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Sapph",
+      "kop": "Welkom bij Sapph.",
+      "tekst": "Een welkomstmail direct na inschrijving via 'Word onderdeel van Sapph': de missie, levering morgen, twee favorieten en de slip deal.",
+      "punten": [
+        "Missie: iedere vrouw is anders, geen standaard pasvorm",
+        "Charlotte en Lisette als eerste favorieten met prijs en knop",
+        "Slip deal 2+2 gratis en gratis verzending binnen NL & BE"
+      ]
+    },
+    {
+      "node": "1041:293",
+      "type": "Nieuwe collectie",
+      "onderwerp": "Een nieuw seizoen, jouw eigen regels",
+      "kop": "Een nieuw seizoen. Jouw eigen regels.",
+      "tekst": "Een collectiemail met een lookbookfoto en vier bh's uit de herfst- en wintercollectie onder elkaar, elk met een eigen knop.",
+      "punten": [
+        "Marrit, Silke, Nadia en Lara met prijs en knop",
+        "Lookbookfoto van jullie eigen site als opener",
+        "Afsluiting met jullie missie en een knop naar de collectie"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
