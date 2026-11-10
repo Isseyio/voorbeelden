@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "studiohenk-xyze4",
+  "merk": "Studio HENK",
+  "domein": "studio-henk.nl",
+  "lead_id": "2026-11-06-studio-henk.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4B3A2E",
+  "kop": "Drie nieuwe invalshoeken voor de banken van Studio HENK",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Studio HENK, ik heb dit gemaakt omdat jullie banken op de eigen foto's zo rustig en echt bewoond ogen, vooral de Blanket sofa daybed bij het raam. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1080:146",
+      "titel": "Koop deze bank niet",
+      "waarom": "Een omgekeerde kop laat mensen stoppen met scrollen en zet de Cosy sofa en drie zekerheden direct in beeld."
+    },
+    {
+      "node": "1080:166",
+      "titel": "Eén daybed, twee manieren",
+      "waarom": "Twee echte foto's naast elkaar laten in één oogopslag zien hoe de Blanket sofa staat en hoe je erin ligt."
+    },
+    {
+      "node": "1080:187",
+      "titel": "Gemaakt om te blijven",
+      "waarom": "Een close-up van de stof met korte labels laat de kwaliteit zien die bij een bank van deze prijs telt."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen & interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe bank of tafel niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag omdat een advertentie na een paar weken moe wordt. Een vaste nieuwsbrief houdt mensen warm in de weken tussen eerste blik en bestelling.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Bolia nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1080:301",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Studio HENK",
+    "kop": "Welkom bij Studio HENK",
+    "tekst": "Een rustige eerste mail na inschrijving: wie jullie zijn, hoe bezorging, garantie en maken op bestelling werken, en een uitnodiging om in de winkel te komen zitten of stalen te bestellen.",
+    "punten": [
+      "Merkkaart met de Cosy sofa als eerste indruk",
+      "Drie zekerheden: gratis bezorging met montage, 3 jaar garantie, op bestelling gemaakt",
+      "Tweede blok voor winkelbezoek en stalen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1080:301",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Studio HENK",
+      "kop": "Welkom bij Studio HENK",
+      "tekst": "Een rustige eerste mail na inschrijving: wie jullie zijn, hoe bezorging, garantie en maken op bestelling werken, en een uitnodiging om in de winkel te komen zitten of stalen te bestellen.",
+      "punten": [
+        "Merkkaart met de Cosy sofa als eerste indruk",
+        "Drie zekerheden: gratis bezorging met montage, 3 jaar garantie, op bestelling gemaakt",
+        "Tweede blok voor winkelbezoek en stalen"
+      ]
+    },
+    {
+      "node": "1080:341",
+      "type": "Merkverhaal",
+      "onderwerp": "Gemaakt om te blijven",
+      "kop": "Gemaakt om te blijven.",
+      "tekst": "Een merkverhaal rond de Blanket sofa daybed: sinds 2013 in eigen huis ontworpen en gemaakt, op bestelling en lokaal in Europa, met de winkels als afsluiting.",
+      "punten": [
+        "Sfeerfoto van de daybed als opening",
+        "Product met vier labels: hoezen, op bestelling, levertijd, montage",
+        "Afsluiting met de drie winkels"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
