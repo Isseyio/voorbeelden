@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "allc-qvds3",
+  "merk": "A Little Lovely Company",
+  "domein": "alittlelovelycompany.com",
+  "lead_id": "2026-11-03-alittlelovelycompany.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#24474D",
+  "kop": "Drie nieuwe invalshoeken voor A Little Lovely Company.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team A Little Lovely Company, ik heb dit gemaakt omdat jullie bento lunchbox zo slim is ingedeeld, met een uitneembaar bakje met twee vakjes. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1082:152",
+      "titel": "Alles op z'n plek",
+      "waarom": "Labels rond de open lunchbox laten in een paar seconden zien wat ouders willen weten: luchtdicht, twee vakjes, 1,2 liter en BPA free."
+    },
+    {
+      "node": "1082:174",
+      "titel": "Een schooldag",
+      "waarom": "Een herkenbaar dagschema van inpakken tot lunchpauze laat zien hoe de bento in het gewone gezinsleven past."
+    },
+    {
+      "node": "1082:200",
+      "titel": "Koop deze niet",
+      "waarom": "Een omgekeerde kop met een knipoog doet mensen stoppen met scrollen en maakt het voordeel van de vakjes meteen duidelijk."
+    }
+  ],
+  "waarom": {
+    "niche": "kids en baby",
+    "kop": "Zo groeien kids- en babymerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw merk voor hun kinderen niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe ouders en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat ze terugkomen voor de bijpassende drinkfles of rugzak.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids- en babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids- en babymerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1082:231",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in onze little lovely community",
+    "kop": "Welkom in onze little lovely community",
+    "tekst": "Jullie inschrijving belooft sneak peeks en nieuwe ontwerpen, maar er kwam geen welkomstmail. Deze mail heet nieuwe inschrijvers welkom, vertelt in drie punten waarom ouders voor jullie kiezen en eindigt bij de bento.",
+    "punten": [
+      "Opent met de belofte uit jullie eigen inschrijving",
+      "Drie redenen: eigen ontwerpen, 0 tot 8 jaar, slim ingedeeld",
+      "Eén product met prijs en knop"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1082:231",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in onze little lovely community",
+      "kop": "Welkom in onze little lovely community",
+      "tekst": "Jullie inschrijving belooft sneak peeks en nieuwe ontwerpen, maar er kwam geen welkomstmail. Deze mail heet nieuwe inschrijvers welkom, vertelt in drie punten waarom ouders voor jullie kiezen en eindigt bij de bento.",
+      "punten": [
+        "Opent met de belofte uit jullie eigen inschrijving",
+        "Drie redenen: eigen ontwerpen, 0 tot 8 jaar, slim ingedeeld",
+        "Eén product met prijs en knop"
+      ]
+    },
+    {
+      "node": "1082:270",
+      "type": "Merkverhaal",
+      "onderwerp": "Begonnen aan de keukentafel",
+      "kop": "Begonnen aan de keukentafel",
+      "tekst": "Een mail over jullie verhaal: twee moeders die medio 2013 aan de keukentafel begonnen, nu met meer dan 25 eigen ontwerpen in 50 landen. Daarna laat de bento in vier labels zien hoe hij werkt.",
+      "punten": [
+        "Jullie eigen verhaal en 'Making life lovely' als afsluiter",
+        "Bento met labels: click & close, 2 vakjes, 1,2 liter, BPA free",
+        "Afsluiting met bijpassende drinkfles of rugzak"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
