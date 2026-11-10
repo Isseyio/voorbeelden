@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "garage-sr7fj",
+  "merk": "Garage",
+  "domein": "garagetshirts.nl",
+  "lead_id": "2026-11-02-garagetshirts.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#027CBF",
+  "kop": "Garage basics, elke week in de feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Garage, ik heb dit gemaakt omdat jullie de Bodyfit T-shirts in een eigen fabriek maken, en die pasvorm laat zich goed zien in een korte advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1080:286",
+      "titel": "Een shirt dat meebeweegt",
+      "waarom": "Een grote, rustige kop met jullie eigen modelfoto's in capsules valt op tussen drukke feeds en legt de pasvorm in één blik uit."
+    },
+    {
+      "node": "1080:388",
+      "titel": "O-neck of V-neck",
+      "waarom": "Twee fits naast elkaar helpen kiezen, en wie kiest, klikt sneller door naar de juiste productpagina."
+    },
+    {
+      "node": "1080:436",
+      "titel": "2-pack basics",
+      "waarom": "Eén groot woord en drie kleuren naast elkaar maken de 2-pack en de prijs meteen duidelijk."
+    }
+  ],
+  "waarom": {
+    "niche": "basics",
+    "kop": "Zo groeien basicsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw basicsmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende 2-pack.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij mode- en basicsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Bamigo nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 10-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1081:44",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Garage",
+    "kop": "Welkom bij Garage",
+    "tekst": "Sinds 1988 maken we T-shirts, en sinds 2010 onder onze eigen naam. Basics die zitten zoals ze moeten zitten, het hele jaar door.",
+    "punten": [
+      "5% elastaan: het shirt sluit mooi aan op je lijf",
+      "Bodyfit in O-neck en V-neck, maten S t/m 3XL",
+      "Gebreid en geverfd in onze eigen gecertificeerde fabriek",
+      "Begin met de Bodyfit 2-pack voor €39,95"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1081:44",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Garage",
+      "kop": "Welkom bij Garage",
+      "tekst": "Sinds 1988 maken we T-shirts, en sinds 2010 onder onze eigen naam. Basics die zitten zoals ze moeten zitten, het hele jaar door.",
+      "punten": [
+        "5% elastaan: het shirt sluit mooi aan op je lijf",
+        "Bodyfit in O-neck en V-neck, maten S t/m 3XL",
+        "Gebreid en geverfd in onze eigen gecertificeerde fabriek",
+        "Begin met de Bodyfit 2-pack voor €39,95"
+      ]
+    },
+    {
+      "node": "1081:123",
+      "type": "Productspotlight",
+      "onderwerp": "Welke hals past bij jou?",
+      "kop": "Welke hals past bij jou?",
+      "tekst": "Onze Bodyfit T-shirts zijn er met ronde hals en met V-hals. Zelfde stof, zelfde pasvorm.",
+      "punten": [
+        "5% elastaan en gekamd biokatoen",
+        "O-neck of V-neck in wit, zwart en navy",
+        "2-pack voor €39,95",
+        "Gratis verzending vanaf €29"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-10"
+}
