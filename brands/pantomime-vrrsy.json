@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "pantomime-vrrsy",
+  "merk": "PANTOMIME",
+  "domein": "pantomime-parfum.com",
+  "lead_id": "2026-11-11-pantomime-parfum.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B5321F",
+  "kop": "Zes acts, zes verhalen. Nu ook in je feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team PANTOMIME, ik heb dit gemaakt omdat elk parfum bij jullie een eigen decor heeft, met plaats en tijd erbij, en dat leent zich goed voor steeds nieuwe advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1781:2",
+      "titel": "Zes acts in één beeld",
+      "waarom": "De hele lijn met prijzen en een vraag die uitnodigt om je eigen act te kiezen."
+    },
+    {
+      "node": "1781:21",
+      "titel": "Act 6 in detail",
+      "waarom": "Korte labels rond de fles vertellen in een paar seconden wat Act 6 bijzonder maakt."
+    },
+    {
+      "node": "1781:44",
+      "titel": "Geen woorden, alleen parfum",
+      "waarom": "Jullie eigen zin als kop, met de discovery set als laagdrempelige eerste stap."
+    }
+  ],
+  "waarom": {
+    "niche": "geur",
+    "kop": "Zo groeien parfummerken op Instagram.",
+    "tekst": "Een geur kun je online niet ruiken, dus beeld en verhaal doen het werk. De meeste mensen ontdekken een nieuw parfummerk tijdens het scrollen, en een advertentie wordt na een paar weken moe. Merken die elke week nieuwe invalshoeken testen, houden hun kosten per aankoop laag, en een vaste nieuwsbrief brengt kopers van de discovery set terug voor een fles.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij geurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Byredo nu tegelijk live in Nederland"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1782:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom op het podium",
+    "kop": "Welkom op het podium.",
+    "tekst": "Een welkomstmail die nieuwe inschrijvers meeneemt in het idee achter PANTOMIME en ze een eerste act laat kiezen, met de discovery set als makkelijke start.",
+    "punten": [
+      "Act 1 en Act 6 als eerste keuze",
+      "Discovery set: alle zes acts voor €29",
+      "Twee gratis samples bij elke bestelling"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1782:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom op het podium",
+      "kop": "Welkom op het podium.",
+      "tekst": "Een welkomstmail die nieuwe inschrijvers meeneemt in het idee achter PANTOMIME en ze een eerste act laat kiezen, met de discovery set als makkelijke start.",
+      "punten": [
+        "Act 1 en Act 6 als eerste keuze",
+        "Discovery set: alle zes acts voor €29",
+        "Twee gratis samples bij elke bestelling"
+      ]
+    },
+    {
+      "node": "1782:52",
+      "type": "Merkverhaal",
+      "onderwerp": "Marrakech, 1970. 04.45 PM.",
+      "kop": "Act 6: Marrakech, 1970.",
+      "tekst": "Een verhaalmail over de nieuwste act: het decor, de geur en wat hij kost, met de discovery set voor wie eerst wil ruiken.",
+      "punten": [
+        "Het decor: Palais du Zahir, 04.45 PM",
+        "Safraleine en boronia absolute",
+        "€220 voor 100 ml of eerst de discovery set"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

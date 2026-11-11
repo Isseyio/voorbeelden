@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "oozoo-4ys4j",
+  "merk": "OOZOO",
+  "domein": "oozoo.com",
+  "lead_id": "2026-10-31-oozoo.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B8955A",
+  "kop": "Smartwatches en horloges die je draagt als sieraad.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team OOZOO, ik heb dit gemaakt omdat jullie smartwatches met hun goudkleurige band eruitzien als een sieraad, en dat verdient steeds nieuwe advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1774:10",
+      "titel": "De sale in één beeld",
+      "waarom": "Een grote prijsboodschap over een echte draagfoto laat in een seconde zien wat er te halen is."
+    },
+    {
+      "node": "1774:20",
+      "titel": "Smartwatch in detail",
+      "waarom": "Korte labels rond het product beantwoorden de vragen die iemand heeft voordat hij klikt."
+    },
+    {
+      "node": "1774:46",
+      "titel": "Los en om de pols",
+      "waarom": "Het horloge los én gedragen laat zien hoe het in het echt staat, met de extra's er direct bij."
+    }
+  ],
+  "waarom": {
+    "niche": "horloges en accessoires",
+    "kop": "Zo groeien accessoiremerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw horloge niet via Google, maar tijdens het scrollen. Een advertentie wordt na een paar weken moe: dezelfde mensen zien hem steeds weer en klikken minder. Merken die elke week nieuwe invalshoeken testen, houden hun kosten per aankoop laag, en een vaste nieuwsbrief brengt kopers terug.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "18–28%",
+        "label": "van de online omzet komt bij accessoiremerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1779:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij OOZOO",
+    "kop": "Horloges die je draagt als sieraad.",
+    "tekst": "Een rustige welkomstmail die vertelt waar OOZOO voor staat: sinds 2000 horloges, smartwatches en sieraden met een luxe look en een slimme prijs.",
+    "punten": [
+      "2 jaar garantie",
+      "Voor 16:00 besteld, zelfde dag verzonden",
+      "Gratis sieraad bij geselecteerde horloges"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1779:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij OOZOO",
+      "kop": "Horloges die je draagt als sieraad.",
+      "tekst": "Een rustige welkomstmail die vertelt waar OOZOO voor staat: sinds 2000 horloges, smartwatches en sieraden met een luxe look en een slimme prijs.",
+      "punten": [
+        "2 jaar garantie",
+        "Voor 16:00 besteld, zelfde dag verzonden",
+        "Gratis sieraad bij geselecteerde horloges"
+      ]
+    },
+    {
+      "node": "1779:40",
+      "type": "Productspotlight",
+      "onderwerp": "Slim of klassiek?",
+      "kop": "Slim of klassiek?",
+      "tekst": "De Q00121 smartwatch en de C1099 met luipaardprint band naast elkaar, met een korte vergelijking zodat lezers zelf kiezen.",
+      "punten": [
+        "Q00121: ⌀43 mm, IP67, nu €44,98",
+        "C1099: ⌀46 mm, luipaardprint leren band, €59,95",
+        "Twee knoppen, één per horloge"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
