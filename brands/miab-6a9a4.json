@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "miab-6a9a4",
+  "merk": "MIAB Jewels",
+  "domein": "miab-jewels.com",
+  "lead_id": "2026-11-11-miab-jewels.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A8844F",
+  "kop": "Basic round S op Instagram, in goud en zilver",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team MIAB, ik heb dit gemaakt omdat jullie basic round S in goud en zilver zo'n goed instapproduct is om een oor mee op te bouwen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1752:149",
+      "titel": "Prijs boven het oor",
+      "waarom": "Een duidelijke prijs boven een echte modelfoto laat in één blik zien wat het kost en hoe het staat."
+    },
+    {
+      "node": "1752:160",
+      "titel": "Zoeken naar ringetjes",
+      "waarom": "Een zoekbalk met de woorden die mensen zelf typen herkent iedereen, en de packshots maken de keuze meteen concreet."
+    },
+    {
+      "node": "1752:178",
+      "titel": "Goud of zilver",
+      "waarom": "Twee varianten naast elkaar laten kiezen haalt twijfel weg en nodigt uit om door te klikken."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1752:199",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij MIAB",
+      "kop": "Welkom bij MIAB",
+      "tekst": "Fijn dat je er bent. Elke bestelling komt in onze cadeauverpakking, ook als hij voor jezelf is.",
+      "punten": [
+        "Gratis cadeauverpakking bij elke bestelling",
+        "Voor 22:30 besteld, morgen in huis (NL en BE)",
+        "1 jaar garantie op al onze sieraden",
+        "Ontworpen in Den Haag door Simone en Joyce"
+      ]
+    },
+    {
+      "node": "1752:227",
+      "type": "Productspotlight",
+      "onderwerp": "De basic die je nooit uitdoet",
+      "kop": "De basic die je nooit uitdoet",
+      "tekst": "Kleine gouden ringetjes van ø 15 mm. Mooi alleen, en net zo mooi met een charm of een tweede ring erbij.",
+      "punten": [
+        "Massief 925 sterling zilver, ook met gouden plating",
+        "Hypoallergeen en nikkelvrij",
+        "Goud en zilver naast elkaar vergeleken",
+        "Combineer met een charm uit THE CHARM EDIT"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11",
+  "nieuwsbrief": {
+    "node": "1752:199",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij MIAB",
+    "kop": "Welkom bij MIAB",
+    "tekst": "Fijn dat je er bent. Elke bestelling komt in onze cadeauverpakking, ook als hij voor jezelf is.",
+    "punten": [
+      "Gratis cadeauverpakking bij elke bestelling",
+      "Voor 22:30 besteld, morgen in huis (NL en BE)",
+      "1 jaar garantie op al onze sieraden",
+      "Ontworpen in Den Haag door Simone en Joyce"
+    ]
+  }
+}

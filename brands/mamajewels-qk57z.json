@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "mamajewels-qk57z",
+  "merk": "Mama Jewels",
+  "domein": "mamajewels.nl",
+  "lead_id": "2026-11-01-mamajewels.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8C6E5D",
+  "kop": "Een herinnering die je kunt dragen.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Mama Jewels, ik heb dit gemaakt omdat jullie sieraden een verhaal hebben dat in één beeld te vertellen is: jouw moedermelk in de band van een ring. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1749:4",
+      "titel": "Hand met de Cinderella",
+      "waarom": "Een echte hand met de ring en een paar korte kenmerken laat meteen zien hoe het sieraad er gedragen uitziet en wat het bijzonder maakt."
+    },
+    {
+      "node": "1749:23",
+      "titel": "Gemaakt met",
+      "waarom": "Bij een sieraad met zo'n lange beslisreis helpt het om rustig te laten zien waar het van gemaakt is en wie het maakt."
+    },
+    {
+      "node": "1749:46",
+      "titel": "Voor altijd.",
+      "waarom": "Eén groot woord en vier ringen met prijs werkt als een etalage: mensen zien in één keer de keuze en de prijzen."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft MAMALOVES nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1749:74",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Mama Jewels",
+      "kop": "Welkom bij Mama Jewels",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn, waarom jullie atelier het verschil maakt en hoe het werkt met de Melk Kit.",
+      "punten": [
+        "Juwelierskwaliteit, eigen atelier, veilig verwerkt",
+        "Zo werkt het: Melk Kit, gratis terugsturen, 8 tot 10 weken",
+        "4,86 uit 384 reviews"
+      ]
+    },
+    {
+      "node": "1749:107",
+      "type": "Merkverhaal",
+      "onderwerp": "Een tastbare herinnering, voor altijd dichtbij",
+      "kop": "Een tastbare herinnering. Voor altijd dichtbij.",
+      "tekst": "Een mail over jullie atelier, met de Cinderella uitgelicht en de ringmaatmeter als laagdrempelige eerste stap.",
+      "punten": [
+        "Uit ons atelier in Vlissingen",
+        "Cinderella met vier details",
+        "Ringmaatmeter €2,50 met €5 kortingscode"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11",
+  "nieuwsbrief": {
+    "node": "1749:74",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Mama Jewels",
+    "kop": "Welkom bij Mama Jewels",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn, waarom jullie atelier het verschil maakt en hoe het werkt met de Melk Kit.",
+    "punten": [
+      "Juwelierskwaliteit, eigen atelier, veilig verwerkt",
+      "Zo werkt het: Melk Kit, gratis terugsturen, 8 tot 10 weken",
+      "4,86 uit 384 reviews"
+    ]
+  }
+}

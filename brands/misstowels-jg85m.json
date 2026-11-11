@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "misstowels-jg85m",
+  "merk": "Miss Towels",
+  "domein": "misstowels.nl",
+  "lead_id": "2026-11-02-misstowels.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A490A0",
+  "kop": "Drie nieuwe invalshoeken voor Miss Towels",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Miss Towels, ik heb dit gemaakt omdat jullie zoveel kleuren in dezelfde dikke 550 gr/m² kwaliteit hebben, en dat vraagt om meer dan één soort advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1752:3",
+      "titel": "Koop deze handdoek niet",
+      "waarom": "Een kop die tegen de verwachting in gaat laat mensen stoppen met scrollen, en de drie kenmerken eronder geven meteen het antwoord."
+    },
+    {
+      "node": "1752:23",
+      "titel": "Set van 6 voor €75",
+      "waarom": "Een duidelijke prijs met de oude prijs ernaast helpt mensen die al aan het vergelijken zijn, en de echte foto maakt het tastbaar."
+    },
+    {
+      "node": "1752:32",
+      "titel": "Echte reviews",
+      "waarom": "Reviews van jullie eigen klanten over zachtheid en levering nemen de grootste twijfel weg bij handdoeken online kopen."
+    }
+  ],
+  "waarom": {
+    "niche": "textiel",
+    "kop": "Zo groeien textielmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw handdoekenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een tweede set.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij textielmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij textielmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1752:81",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Miss Towels",
+    "kop": "Welkom bij Miss Towels",
+    "tekst": "Een rustige eerste mail na inschrijving: wie jullie zijn, waarom de handdoeken zacht blijven en een makkelijke eerste stap.",
+    "punten": [
+      "Als eerste nieuwe kleuren en acties",
+      "550 gr/m² badstof, biologisch katoen, sterke ophanglus",
+      "Begin met de set van 6"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1752:81",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Miss Towels",
+      "kop": "Welkom bij Miss Towels",
+      "tekst": "Een rustige eerste mail na inschrijving: wie jullie zijn, waarom de handdoeken zacht blijven en een makkelijke eerste stap.",
+      "punten": [
+        "Als eerste nieuwe kleuren en acties",
+        "550 gr/m² badstof, biologisch katoen, sterke ophanglus",
+        "Begin met de set van 6"
+      ]
+    },
+    {
+      "node": "1752:112",
+      "type": "Productspotlight",
+      "onderwerp": "Set van 6 of set van 12?",
+      "kop": "Set van 6 of set van 12?",
+      "tekst": "Een mail die de twee populairste sets naast elkaar zet, zodat kiezen makkelijk wordt.",
+      "punten": [
+        "Meest gekozen tegenover beste deal",
+        "Prijs per set met de oude prijs ernaast",
+        "Kies je kleur met echte productfoto's"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
