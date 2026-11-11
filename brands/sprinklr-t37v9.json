@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "sprinklr-t37v9",
+  "merk": "Sprinklr",
+  "domein": "sprinklr.co",
+  "lead_id": "2026-11-11-sprinklr.co",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3FAC7E",
+  "kop": "Elke tuin telt, elke week een nieuwe advertentie",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Sprinklr, ik heb dit gemaakt omdat jullie bollenmixen zo'n mooi verhaal hebben: van krokus in februari tot sierui in mei, en alles biologisch. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1651:3",
+      "titel": "Zo bloeit de mix",
+      "waarom": "Het bloeiverloop per maand laat in één beeld zien wat je voor €49,95 in huis haalt."
+    },
+    {
+      "node": "1651:26",
+      "titel": "Elke tuin telt",
+      "waarom": "Een echte hand met een zak bollen in de tuin voelt als een tip van een buur, niet als reclame."
+    },
+    {
+      "node": "1651:42",
+      "titel": "Je tuin belt",
+      "waarom": "Een speels idee dat opvalt tussen de gewone tuinadvertenties en meteen laat zien wat je nu moet planten."
+    }
+  ],
+  "waarom": {
+    "niche": "tuin en planten",
+    "kop": "Zo groeien tuin- en plantenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe plantenwinkel niet via Google, maar tijdens het scrollen op Instagram, vaak precies in het plantseizoen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag omdat een advertentie na een paar weken moe wordt. Een vaste nieuwsbrief zorgt dat kopers in het volgende seizoen terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woon- en tuinmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Fluwel nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1651:56",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Sprinklr, zo begin je",
+    "kop": "Welkom bij Sprinklr",
+    "tekst": "Een warm welkom voor nieuwe inschrijvers: wie Sprinklr is, waarom alles biologisch is en hoe je nu je bollen plant.",
+    "punten": [
+      "Biologisch geteeld, zonder pesticiden en kunstmest",
+      "Kies je eigen bezorgmoment",
+      "Plantip: poot elke bol 2 à 3 keer zo diep als hij groot is"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1651:56",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Sprinklr, zo begin je",
+      "kop": "Welkom bij Sprinklr",
+      "tekst": "Een warm welkom voor nieuwe inschrijvers: wie Sprinklr is, waarom alles biologisch is en hoe je nu je bollen plant.",
+      "punten": [
+        "Biologisch geteeld, zonder pesticiden en kunstmest",
+        "Kies je eigen bezorgmoment",
+        "Plantip: poot elke bol 2 à 3 keer zo diep als hij groot is"
+      ]
+    },
+    {
+      "node": "1651:84",
+      "type": "Merkverhaal",
+      "onderwerp": "10 jaar Sprinklr, begonnen op een zoldertje",
+      "kop": "10 jaar alles voor bio",
+      "tekst": "Het verhaal van Suzanne en Liedewij, met de Verwilderingsmix als product dat elk jaar terugkomt en de cijfers van tien jaar bio.",
+      "punten": [
+        "Begonnen in 2016 op een Amsterdamse zolder",
+        "Verwilderingsmix: 100 bio bollen, 16 soorten",
+        "4.231.645 bio bollen en 135.000 klanten"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
