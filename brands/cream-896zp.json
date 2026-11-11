@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "cream-896zp",
+  "merk": "Cream Eyewear",
+  "domein": "creameyewear.com",
+  "lead_id": "2026-11-11-creameyewear.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#D9473F",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Cream",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Cream, ik heb dit gemaakt omdat jullie brillen naar fruit vernoemen en van gras maken, en dat verhaal leent zich goed voor Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1653:4",
+      "titel": "Gemaakt van gras",
+      "waarom": "Ouders willen weten waar een kinderbril van gemaakt is; deze advertentie laat het materiaal en de bescherming in één oogopslag zien."
+    },
+    {
+      "node": "1653:25",
+      "titel": "Vanaf €36",
+      "waarom": "Een echte modelfoto met een duidelijke prijs maakt de drempel laag voor ouders die nog geen Cream kennen."
+    },
+    {
+      "node": "1653:34",
+      "titel": "Rond of hoekig?",
+      "waarom": "Een vraag waar ouders meteen over nadenken, met de twee vormen naast elkaar, nodigt uit om door te klikken en te kiezen."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien kindermerken op Instagram.",
+    "tekst": "Ouders ontdekken een nieuw kindermerk meestal niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat ouders terugkomen als hun kind een nieuwe maat nodig heeft.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kindermerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kindermerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1655:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Cream",
+    "kop": "Welkom bij Cream",
+    "tekst": "Een welkomstmail die meteen laat zien waar Cream voor staat: zonnebrillen voor kinderen van 4 tot 8 jaar, van gerecycled plastic en grasvezels, met glazen die 100% UV tegenhouden.",
+    "punten": [
+      "100% UVA- en UVB-bescherming",
+      "Veerscharnieren die meebuigen",
+      "Truegrass: 30% grasvezels, 60% gerecycled plastic",
+      "Doorklik naar de collectie en een eerste bril"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1655:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Cream",
+      "kop": "Welkom bij Cream",
+      "tekst": "Een welkomstmail die meteen laat zien waar Cream voor staat: zonnebrillen voor kinderen van 4 tot 8 jaar, van gerecycled plastic en grasvezels, met glazen die 100% UV tegenhouden.",
+      "punten": [
+        "100% UVA- en UVB-bescherming",
+        "Veerscharnieren die meebuigen",
+        "Truegrass: 30% grasvezels, 60% gerecycled plastic",
+        "Doorklik naar de collectie en een eerste bril"
+      ]
+    },
+    {
+      "node": "1655:29",
+      "type": "Merkverhaal",
+      "onderwerp": "Van brillenontwerper naar kinderzonnebril",
+      "kop": "Van brillenontwerper naar kinderzonnebril.",
+      "tekst": "Het verhaal van Lauren van der Kolk, die in april 2021 met Cream begon, gevolgd door wat er in een Cream-bril zit en een afsluiting met Cream one en Cream two.",
+      "punten": [
+        "Het verhaal achter Cream",
+        "Wat er in een Cream zit, met labels",
+        "Cream one rond, Cream two hoekig, allebei €36",
+        "Knoppen naar de collectie"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
