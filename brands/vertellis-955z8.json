@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "vertellis-955z8",
+  "merk": "Vertellis",
+  "domein": "vertellis.nl",
+  "lead_id": "2026-11-11-vertellis.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E8862A",
+  "kop": "Drie nieuwe invalshoeken voor Vertellis Classic",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Vertellis, ik heb dit gemaakt omdat Vertellis Classic een vragenspel is dat je speelt zoals Pesten, en dat leent zich goed voor speelse advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1389:2",
+      "titel": "Inkomend gesprek",
+      "waarom": "Een herkenbaar belscherm laat mensen even stoppen met scrollen en past bij jullie idee: telefoon uit, gesprek aan."
+    },
+    {
+      "node": "1390:2",
+      "titel": "Wat zit erin",
+      "waarom": "Laat in één oogopslag zien wat je koopt: vragenkaarten, actiekaarten, voor 2 tot 8 spelers, voor €24,99."
+    },
+    {
+      "node": "1395:2",
+      "titel": "Eén vraag",
+      "waarom": "Jullie eigen zin met echte foto's tussen de woorden maakt de belofte meteen zichtbaar."
+    }
+  ],
+  "waarom": {
+    "niche": "cadeaus en spellen",
+    "kop": "Zo groeien cadeaumerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw cadeau niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij cadeaumerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1392:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Vrijdag Vraag",
+    "kop": "Fijn dat je er bent.",
+    "tekst": "Elke vrijdag één vraag in je inbox, als kleine reminder om even stil te staan. Daaronder een tip om mee te beginnen: Vertellis Classic.",
+    "punten": [
+      "Elke vrijdag één vraag, op een vast moment",
+      "Om samen of alleen over te praten",
+      "Vertellis Classic als eerste spel, €24,99"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1392:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Vrijdag Vraag",
+      "kop": "Fijn dat je er bent.",
+      "tekst": "Elke vrijdag één vraag in je inbox, als kleine reminder om even stil te staan. Daaronder een tip om mee te beginnen: Vertellis Classic.",
+      "punten": [
+        "Elke vrijdag één vraag, op een vast moment",
+        "Om samen of alleen over te praten",
+        "Vertellis Classic als eerste spel, €24,99"
+      ]
+    },
+    {
+      "node": "1393:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Telefoon uit, hart open",
+      "kop": "Waarom we Vertellis maken",
+      "tekst": "Het verhaal van Bart en Lars sinds 2016, Vertellis Classic in het kort en de Feestdagen-editie voor de kersttafel.",
+      "punten": [
+        "Merkverhaal met jullie eigen foto's",
+        "Vertellis Classic: meer dan 100 kaarten, 2 tot 8 spelers",
+        "Feestdagen-editie voor de kersttafel"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

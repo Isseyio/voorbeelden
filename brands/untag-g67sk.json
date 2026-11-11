@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "untag-g67sk",
+  "merk": "UNTAG",
+  "domein": "untag.com",
+  "lead_id": "2026-11-01-untag.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#ED1772",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor UNTAG, rond jullie binders en UNTAG MOVE.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team UNTAG, ik heb dit gemaakt omdat jullie in UNTAG MOVE zo mooi laten zien hoe echte sporters jullie binders dragen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1397:4",
+      "titel": "Normaal of extra strong?",
+      "waarom": "Twee binders naast elkaar met prijs helpen mensen kiezen tussen normale en extra stevigheid, een vraag die veel nieuwe kopers hebben."
+    },
+    {
+      "node": "1397:5",
+      "titel": "Binders in jouw tint",
+      "waarom": "Een groot woord met een zoekbalk en drie tinten laat in één beeld zien dat er een binder is die bij je huid past."
+    },
+    {
+      "node": "1397:6",
+      "titel": "Zwemmen, boksen, dansen",
+      "waarom": "Een kop met jullie eigen MOVE-foto's tussen de woorden valt op in de feed en vertelt dat je in een UNTAG gewoon kunt sporten."
+    }
+  ],
+  "waarom": {
+    "niche": "mode en ondergoed",
+    "kop": "Zo groeien mode- en ondergoedmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief met pasadvies zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij mode- en ondergoedmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij mode- en ondergoedmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1397:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij UNTAG",
+    "kop": "Welkom bij UNTAG.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, sinds 2004, en meteen de binder-quiz en de pasgids als eerste stap.",
+    "punten": [
+      "Herokaart in jullie roze met jullie eigen foto van de Short Binder Extra Strong",
+      "Drie redenen: discreet verpakt, wereldwijde verzending, met zorg gemaakt sinds 2004",
+      "Kaart over de juiste maat met een link naar jullie pasgids"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1397:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij UNTAG",
+      "kop": "Welkom bij UNTAG.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, sinds 2004, en meteen de binder-quiz en de pasgids als eerste stap.",
+      "punten": [
+        "Herokaart in jullie roze met jullie eigen foto van de Short Binder Extra Strong",
+        "Drie redenen: discreet verpakt, wereldwijde verzending, met zorg gemaakt sinds 2004",
+        "Kaart over de juiste maat met een link naar jullie pasgids"
+      ]
+    },
+    {
+      "node": "1397:8",
+      "type": "Bestsellers",
+      "onderwerp": "Onze bestsellers",
+      "kop": "Onze bestsellers.",
+      "tekst": "Een assortimentsmail met vier binders die het vaakst gekozen worden, elk met jullie eigen modelfoto, korte tekst, prijs en knop.",
+      "punten": [
+        "Hero met jullie eigen foto uit UNTAG MOVE",
+        "Short Binder, Gym Binder Extra Strong, Tank Binder en Basic Swim Binder",
+        "Blok over UNTAG MOVE met Jay, Stef en Tan"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

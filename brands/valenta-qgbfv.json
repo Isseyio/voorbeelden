@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "valenta-qgbfv",
+  "merk": "Valenta",
+  "domein": "valenta.com",
+  "lead_id": "2026-11-11-valenta.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8D4632",
+  "kop": "Drie advertenties voor de leren Book Case.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Valenta, ik heb dit gemaakt omdat jullie Book Case van volnerf leer veel slimme details heeft, zoals drie kaartsleuven en een onzichtbare magneetsluiting, en die goed in beeld te brengen zijn. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1398:4",
+      "titel": "Echt leer",
+      "waarom": "Eén groot woord en een zoekbalk laten meteen zien wat het is, en de drie hoesjes naast elkaar tonen de keuze."
+    },
+    {
+      "node": "1398:22",
+      "titel": "Inkomende oproep",
+      "waarom": "Een herkenbaar telefoonscherm valt op tussen gewone posts en maakt van een hoesje een speels moment."
+    },
+    {
+      "node": "1398:33",
+      "titel": "Leer dat meegaat",
+      "waarom": "Vier details met een eigen foto leggen in een paar seconden uit waarom deze Book Case meer is dan een hoesje."
+    }
+  ],
+  "waarom": {
+    "niche": "accessoires",
+    "kop": "Zo groeien accessoiremerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw hoesje niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen bij een nieuwe telefoon.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft BURGA nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1398:56",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Valenta",
+    "kop": "Welkom bij Valenta",
+    "tekst": "Een warme eerste kennismaking: wie Valenta is, de drie kenmerken van de Book Case en de welkomstcode uit jullie pop-up op een duidelijke plek.",
+    "punten": [
+      "Al meer dan twintig jaar leren hoesjes uit Purmerend",
+      "Echt leer, tot 3 kaarten, magnetische sluiting",
+      "Welkomstcode BLESSING10 voor 10% korting",
+      "Eén duidelijke knop naar de collectie"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1398:56",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Valenta",
+      "kop": "Welkom bij Valenta",
+      "tekst": "Een warme eerste kennismaking: wie Valenta is, de drie kenmerken van de Book Case en de welkomstcode uit jullie pop-up op een duidelijke plek.",
+      "punten": [
+        "Al meer dan twintig jaar leren hoesjes uit Purmerend",
+        "Echt leer, tot 3 kaarten, magnetische sluiting",
+        "Welkomstcode BLESSING10 voor 10% korting",
+        "Eén duidelijke knop naar de collectie"
+      ]
+    },
+    {
+      "node": "1398:89",
+      "type": "Assortimentsmail",
+      "onderwerp": "Alles voor je telefoon en je pasjes",
+      "kop": "Alles voor je telefoon en je pasjes",
+      "tekst": "Vier producten naast elkaar met prijs en knop, plus de 1000+ aanbevelingen op Kiyoh als vertrouwen.",
+      "punten": [
+        "Book Case Leer in bruin en zwart, €19,95",
+        "Back Cover Trend MagSafe, €19,95",
+        "Clutch Snap Universal Croco, €27,95",
+        "Meer dan 1000 klanten bevelen jullie aan"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
