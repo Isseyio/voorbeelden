@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "nunc8-tu3zq",
+  "merk": "NUNC8",
+  "domein": "nunc8.nl",
+  "lead_id": "2026-11-11-nunc8.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C69BB2",
+  "kop": "Shampoo bars en haarolie van NUNC8, voor nu en altijd.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team NUNC8, ik heb dit gemaakt omdat ik de naam zo mooi vind: NUNC voor nu en de 8 voor oneindig. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1713:3",
+      "titel": "Wat erin zit",
+      "waarom": "Drie oliën met een eigen foto laten in één oogopslag zien dat de haarolie natuurlijk is."
+    },
+    {
+      "node": "1714:2",
+      "titel": "Jouw haarroutine",
+      "waarom": "Een routinekaart maakt van haarolie en shampoo bar een vaste gewoonte, en dat past bij 'een marathon, geen sprint'."
+    },
+    {
+      "node": "1715:2",
+      "titel": "Het proefpakket",
+      "waarom": "Een groot woord en een echte prijs van €17 maken de drempel om shampoo bars te proberen klein."
+    }
+  ],
+  "waarom": {
+    "niche": "haarverzorging",
+    "kop": "Zo groeien haarverzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw haarverzorgingsmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij haarverzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Haarspullen.nl nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1716:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij NUNC8",
+    "kop": "Welkom bij NUNC8",
+    "tekst": "Een rustige welkomstmail met de drie haaroliën, wat NUNC8 bijzonder maakt en het proefpakket als makkelijke eerste stap.",
+    "punten": [
+      "Natuurlijke ingrediënten",
+      "Gratis tester bij elke bestelling",
+      "Gratis verzending vanaf €75",
+      "Proefpakket shampoo bars voor €17"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1716:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij NUNC8",
+      "kop": "Welkom bij NUNC8",
+      "tekst": "Een rustige welkomstmail met de drie haaroliën, wat NUNC8 bijzonder maakt en het proefpakket als makkelijke eerste stap.",
+      "punten": [
+        "Natuurlijke ingrediënten",
+        "Gratis tester bij elke bestelling",
+        "Gratis verzending vanaf €75",
+        "Proefpakket shampoo bars voor €17"
+      ]
+    },
+    {
+      "node": "1716:40",
+      "type": "Merkverhaal",
+      "onderwerp": "Het verhaal achter de naam NUNC8",
+      "kop": "Het verhaal achter de naam",
+      "tekst": "NUNC staat voor nu, de 8 voor oneindig. Deze mail vertelt dat verhaal en laat zien wat er in de rozemarijn haarolie zit.",
+      "punten": [
+        "Rozemarijnolie, castorolie en druivenpitolie",
+        "100% natuurlijk",
+        "Rozemarijn haarolie €16,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
