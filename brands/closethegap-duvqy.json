@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "closethegap-duvqy",
+  "merk": "CloseTheGap",
+  "domein": "closethegap.cc",
+  "lead_id": "2026-11-11-closethegap.cc",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#EC6464",
+  "kop": "Drie advertenties voor de bel die je niet ziet.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team CloseTheGap, ik heb dit gemaakt omdat een bel die onder de fietscomputer verdwijnt zo'n slim idee is, en dat zie ik nog nergens terug in eigen advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1436:3",
+      "titel": "4-in-1 uitgelegd",
+      "waarom": "Labels op de echte productfoto laten in één oogopslag zien wat de houder allemaal doet."
+    },
+    {
+      "node": "1437:2",
+      "titel": "Welke past op jouw stuur?",
+      "waarom": "Een directe vraag laat fietsers zichzelf herkennen en haalt de twijfel over de juiste houder weg."
+    },
+    {
+      "node": "1438:2",
+      "titel": "Prijs en profploeg",
+      "waarom": "Een duidelijke prijs naast de link met Team Visma | Lease a Bike geeft meteen vertrouwen."
+    }
+  ],
+  "waarom": {
+    "niche": "sport & outdoor",
+    "kop": "Zo groeien fietsmerken op Instagram.",
+    "tekst": "De meeste fietsers ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sport- en outdoormerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft SP Connect nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1439:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij CloseTheGap",
+    "kop": "Welkom bij CloseTheGap",
+    "tekst": "Fijn dat je erbij bent. Wij maken houders voor je fietscomputer met een bel die je niet ziet, bedacht door fietsers en gemaakt in Nederland.",
+    "punten": [
+      "Levenslange garantie na registratie",
+      "Gratis verzending vanaf € 40 binnen de EU",
+      "Gemaakt in Nederland, van mal tot eindproduct"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1439:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij CloseTheGap",
+      "kop": "Welkom bij CloseTheGap",
+      "tekst": "Fijn dat je erbij bent. Wij maken houders voor je fietscomputer met een bel die je niet ziet, bedacht door fietsers en gemaakt in Nederland.",
+      "punten": [
+        "Levenslange garantie na registratie",
+        "Gratis verzending vanaf € 40 binnen de EU",
+        "Gemaakt in Nederland, van mal tot eindproduct"
+      ]
+    },
+    {
+      "node": "1440:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Bedacht op de fiets, gemaakt in Nederland",
+      "kop": "Bedacht op de fiets. Gemaakt in Nederland.",
+      "tekst": "In 2015 begon het met een bel die je niet ziet, verstopt onder je fietscomputer. Alles wordt in Nederland gemaakt en in sociale werkplaatsen in elkaar gezet en ingepakt.",
+      "punten": [
+        "Stuurklem voor 31,8 mm",
+        "Bel van 85 dB op 5 meter",
+        "Carbon arm van 24 gram",
+        "Garmin-, Wahoo- en GoPro-adapter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
