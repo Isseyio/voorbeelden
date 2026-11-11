@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "blaauw-eadp2",
+  "merk": "Atelier Blaauw",
+  "domein": "atelierblaauw.nl",
+  "lead_id": "2026-10-29-atelierblaauw.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#005B6C",
+  "kop": "Handgemaakte sieraden die je meteen herkent.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Atelier Blaauw, ik heb dit gemaakt omdat jullie roos oorbellen helemaal met de hand gevormd worden, en dat verhaal zie je in een advertentie nog bijna nergens. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1792:156",
+      "titel": "Klein van formaat",
+      "waarom": "De foto in de hand laat meteen zien hoe groot de oorbel is, en de vier kenmerken beantwoorden de vragen die kopers vooraf hebben."
+    },
+    {
+      "node": "1792:173",
+      "titel": "Welke edelsteen kies jij",
+      "waarom": "Een keuzevraag nodigt uit om te kijken, en vier stenen naast elkaar laten in één beeld de breedte van de collectie zien."
+    },
+    {
+      "node": "1792:193",
+      "titel": "Met de hand gevormd",
+      "waarom": "De draagfoto met uitleg bij het vakmanschap maakt het verschil met fabriekssieraden zichtbaar."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1793:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Atelier Blaauw",
+    "kop": "Welkom bij Atelier Blaauw",
+    "tekst": "Fijn dat je erbij bent. Je hoort voortaan als eerste over nieuwe sieraden, edelstenen en acties uit het atelier.",
+    "punten": [
+      "Met de hand gemaakt, uniek ontwerp",
+      "Altijd als cadeautje ingepakt",
+      "Gratis verzending vanaf €50 binnen Nederland",
+      "Persoonlijke service en advies"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1793:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Atelier Blaauw",
+      "kop": "Welkom bij Atelier Blaauw",
+      "tekst": "Fijn dat je erbij bent. Je hoort voortaan als eerste over nieuwe sieraden, edelstenen en acties uit het atelier.",
+      "punten": [
+        "Met de hand gemaakt, uniek ontwerp",
+        "Altijd als cadeautje ingepakt",
+        "Gratis verzending vanaf €50 binnen Nederland",
+        "Persoonlijke service en advies"
+      ]
+    },
+    {
+      "node": "1793:46",
+      "type": "Merkverhaal",
+      "onderwerp": "Het verhaal achter de roos",
+      "kop": "Het verhaal achter de roos",
+      "tekst": "Sinds 2011 maakt Marlies sieraden in haar eigen atelier in Assen. Elke roos oorbel wordt met de hand gevormd, gehamerd en afgewerkt in de tumbler.",
+      "punten": [
+        "925 sterling zilver, geschikt voor een gevoelige huid",
+        "Met de hand gehamerd",
+        "Afgewerkt in de tumbler",
+        "€60 per paar, beoordeeld met een 4,9 van 5"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

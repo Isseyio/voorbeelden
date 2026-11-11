@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "bymolle-9dah4",
+  "merk": "By Mölle",
+  "domein": "bymolle.com",
+  "lead_id": "2026-10-29-bymolle.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6B5440",
+  "kop": "Linnen uit Dalfsen, op Instagram en in de mailbox.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team By Mölle, ik heb dit gemaakt omdat jullie al het linnen op bestelling maken in jullie eigen atelier in Dalfsen, en dat verhaal zie je in advertenties nog weinig terug. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1792:4",
+      "titel": "Van vlas tot dekbed",
+      "waarom": "Laat in één beeld zien waar het linnen van honey vandaan komt: Europees vlas, gewassen linnen en jullie atelier."
+    },
+    {
+      "node": "1792:28",
+      "titel": "Puur linnen, op maat",
+      "waarom": "Een grote, rustige kop met kleine sfeerfoto's valt op tussen drukke advertenties en zet het product zelf centraal."
+    },
+    {
+      "node": "1792:49",
+      "titel": "Voel het verschil",
+      "waarom": "Een close-up van het linnen met korte feiten, en de gratis stalen als laagdrempelige eerste stap."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en textiel",
+    "kop": "Zo groeien woonmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw woonmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woonmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Casa Comodo nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1792:86",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij By Mölle",
+    "kop": "welkom bij by mölle",
+    "tekst": "Fijn dat je er bent. Wij maken linnen beddengoed, gordijnen en kussens op bestelling, in ons eigen atelier in Dalfsen.",
+    "punten": [
+      "natuurlijke materialen: puur Europees linnen",
+      "tijdloos mooi: rustige kleuren, van warm white tot cocoa",
+      "lokaal vakmanschap: op maat gemaakt in Dalfsen",
+      "twijfel je over een kleur? bestel gratis linnen stalen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1792:86",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij By Mölle",
+      "kop": "welkom bij by mölle",
+      "tekst": "Fijn dat je er bent. Wij maken linnen beddengoed, gordijnen en kussens op bestelling, in ons eigen atelier in Dalfsen.",
+      "punten": [
+        "natuurlijke materialen: puur Europees linnen",
+        "tijdloos mooi: rustige kleuren, van warm white tot cocoa",
+        "lokaal vakmanschap: op maat gemaakt in Dalfsen",
+        "twijfel je over een kleur? bestel gratis linnen stalen"
+      ]
+    },
+    {
+      "node": "1792:123",
+      "type": "Merkverhaal",
+      "onderwerp": "Van vlas tot dekbed",
+      "kop": "van vlas tot dekbed",
+      "tekst": "Sinds 2012 maken we linnen voor een natuurlijk thuis. Mölle betekent molen in ons dialect: we begonnen in het molenaarshuis in Hoonhorst.",
+      "punten": [
+        "dekbedovertrek honey: 100% gewassen linnen, 200 gr/m²",
+        "Europees Flax-gecertificeerd, op bestelling in 2 tot 3 weken",
+        "voorgewassen, krimpt niet meer en wasbaar op 40°C",
+        "gratis adviesgesprek: telefonisch, via Zoom of in het atelier"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

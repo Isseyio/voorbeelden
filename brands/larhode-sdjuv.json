@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "larhode-sdjuv",
+  "merk": "La Rhodé",
+  "domein": "la-rhode.com",
+  "lead_id": "2026-10-29-la-rhode.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#7A4E35",
+  "kop": "Nieuwe invalshoeken voor La Rhodé.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team La Rhodé, ik heb dit gemaakt omdat jullie mooie product- en ingrediëntfoto's hebben, en daar zitten nog veel nieuwe invalshoeken in. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1794:13",
+      "titel": "Eén olie, één bar",
+      "waarom": "Laat in één beeld twee bestsellers zien met de drie dingen waar La Rhodé om draait: natuurlijk, plasticvrij en vegan."
+    },
+    {
+      "node": "1794:32",
+      "titel": "Body butter",
+      "waarom": "Eén groot woord en drie geuren naast elkaar: in een seconde duidelijk wat het is en dat er keuze is."
+    },
+    {
+      "node": "1794:56",
+      "titel": "Sandelhout & Vanille",
+      "waarom": "De ingrediënten in beeld vertellen waarom het product werkt, zonder lange tekst."
+    }
+  ],
+  "waarom": {
+    "niche": "verzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "Wie al adverteert, merkt vaak dat een paar advertenties het meeste werk doen en na een paar weken moe worden. Merken die elke week nieuwe invalshoeken testen, houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat kopers terugkomen voor een nieuwe pot of bar.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "90+",
+        "label": "advertenties heeft HappySoaps nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1795:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij La Rhodé (met 10% korting)",
+    "kop": "Welkom bij La Rhodé",
+    "tekst": "Fijn dat je er bent. Wij maken bars, oliën en crèmes van planten en kruiden, voor haar, gezicht en lichaam. Als welkom krijg je 10% korting op je eerste order.",
+    "punten": [
+      "100% natuurlijk, plasticvrij en vegan",
+      "Gemaakt in Nederland",
+      "Wie is Rhodé: oprichter, formulator en producent van alle producten"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1795:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij La Rhodé (met 10% korting)",
+      "kop": "Welkom bij La Rhodé",
+      "tekst": "Fijn dat je er bent. Wij maken bars, oliën en crèmes van planten en kruiden, voor haar, gezicht en lichaam. Als welkom krijg je 10% korting op je eerste order.",
+      "punten": [
+        "100% natuurlijk, plasticvrij en vegan",
+        "Gemaakt in Nederland",
+        "Wie is Rhodé: oprichter, formulator en producent van alle producten"
+      ]
+    },
+    {
+      "node": "1795:40",
+      "type": "Bestsellers",
+      "onderwerp": "Van haar tot huid: onze bestsellers",
+      "kop": "Van haar tot huid",
+      "tekst": "Favorieten van 5000+ vaste klanten, met per product een korte uitleg en een knop.",
+      "punten": [
+        "Natuurlijke haarolie · €26,99",
+        "Gezichtscrème Aloë Vera · €26,99",
+        "Shampoo Bar Blossom Balance · €15,99",
+        "Zeep Carbon Black · €15,99",
+        "4,9 uit 800+ reviews en de gratis huid- of haarscan"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
