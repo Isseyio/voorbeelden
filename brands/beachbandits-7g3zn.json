@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "beachbandits-7g3zn",
+  "merk": "Beach & Bandits",
+  "domein": "beachandbandits.com",
+  "lead_id": "2026-11-11-beachandbandits.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "UV-zwemkleding van Beach & Bandits, klaar voor de volgende zomer.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Beach & Bandits, ik heb dit gemaakt omdat ik het leuk vind hoe jullie woorden als HOLA en WAVES in de ruitprints verwerken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1731:4",
+      "titel": "Hele dag in de zon",
+      "waarom": "Eén grote zin met jullie eigen strandfoto's erin vertelt ouders in een seconde waarvoor ze UPF50+ kopen."
+    },
+    {
+      "node": "1731:24",
+      "titel": "Hola of Waves?",
+      "waarom": "Twee prints naast elkaar laten kinderen meekiezen, en een keuzevraag krijgt veel reacties."
+    },
+    {
+      "node": "1731:48",
+      "titel": "De zomer belt alvast",
+      "waarom": "Een speels belscherm valt op tussen gewone posts en past bij de vrolijke toon van jullie merk."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien kids- en babymerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw kindermerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die ouders volgend seizoen weer bij jullie bestellen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids- en babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids- en babymerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1732:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Beach & Bandits",
+    "kop": "Welkom bij Beach & Bandits.",
+    "tekst": "Fijn dat je erbij bent. Sinds 2015 maken wij UV-zwemkleding voor kinderen, zodat zij de hele dag kunnen spelen in de zon.",
+    "punten": [
+      "10% korting op je eerste bestelling",
+      "UPF 50+, getest door het SGS® Institute",
+      "Gratis verzending vanaf € 75 (NL/BE)"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1732:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Beach & Bandits",
+      "kop": "Welkom bij Beach & Bandits.",
+      "tekst": "Fijn dat je erbij bent. Sinds 2015 maken wij UV-zwemkleding voor kinderen, zodat zij de hele dag kunnen spelen in de zon.",
+      "punten": [
+        "10% korting op je eerste bestelling",
+        "UPF 50+, getest door het SGS® Institute",
+        "Gratis verzending vanaf € 75 (NL/BE)"
+      ]
+    },
+    {
+      "node": "1732:59",
+      "type": "Merkverhaal",
+      "onderwerp": "10 jaar Beach & Bandits",
+      "kop": "10 jaar specialist in UPF50+ zwemkleding.",
+      "tekst": "Hans en Jo-anne zochten als ouders van drie kinderen zwemkleding die stoer is en beschermt. Ze begonnen in 2015 met 9 items, nu zijn het er 175 per seizoen.",
+      "punten": [
+        "Sunny Stripes: lange mouwen, rits voor, € 45",
+        "Sneldrogend en ademend",
+        "Kleurvast in zon en zout water"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
