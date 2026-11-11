@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "felin-q36qt",
+  "merk": "Felin",
+  "domein": "felinstore.nl",
+  "lead_id": "2026-11-10-felinstore.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A85858",
+  "kop": "Handsfree kolven, op Instagram uitgelegd",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Felin, ik heb dit gemaakt omdat jullie met de V1 en de nieuwe V2 twee handsfree kolven hebben die zich goed laten uitleggen in een korte advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1663:3",
+      "titel": "De aanbieding",
+      "waarom": "Een echte prijs en de tijdelijke extra's bovenaan, met een moeder die de kolf draagt, laten in één blik zien wat je krijgt."
+    },
+    {
+      "node": "1663:15",
+      "titel": "Twee handen vrij",
+      "waarom": "Drie concrete kenmerken van de V2 maken het verschil met een gewone kolf meteen duidelijk."
+    },
+    {
+      "node": "1663:35",
+      "titel": "De nacht belt",
+      "waarom": "Een herkenbare knipoog naar kolven midden in de nacht valt op tussen gewone productfoto's."
+    }
+  ],
+  "waarom": {
+    "niche": "baby",
+    "kop": "Zo groeien babymerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw babymerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor flesjes, bewaarzakjes en onderdelen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Momcozy nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1665:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Felin",
+    "kop": "Welkom bij Felin",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie Felin is, waarom kolven makkelijker kan en dat er een lactatiekundige 7 dagen per week klaarstaat.",
+    "punten": [
+      "Handsfree, stil en met hulp van een lactatiekundige",
+      "Gratis verzending vanaf €25 en voor 12:00 dezelfde dag verzonden",
+      "Eén duidelijke knop naar de borstkolven"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1665:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Felin",
+      "kop": "Welkom bij Felin",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie Felin is, waarom kolven makkelijker kan en dat er een lactatiekundige 7 dagen per week klaarstaat.",
+      "punten": [
+        "Handsfree, stil en met hulp van een lactatiekundige",
+        "Gratis verzending vanaf €25 en voor 12:00 dezelfde dag verzonden",
+        "Eén duidelijke knop naar de borstkolven"
+      ]
+    },
+    {
+      "node": "1665:36",
+      "type": "Productspotlight",
+      "onderwerp": "Maak kennis met de V2",
+      "kop": "Maak kennis met de V2",
+      "tekst": "Een mail die de nieuwe V2 uitlegt met jullie eigen foto's, en in één tabel laat zien wanneer je de V1 of de V2 kiest.",
+      "punten": [
+        "Wat er nieuw is: 4 standen, 90 minuten zonder opladen, schenktuit",
+        "V1 en V2 naast elkaar, met prijs",
+        "De tijdelijke extra's bij beide kolven"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
