@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "tov-n2vbb",
+  "merk": "TOV Essentials",
+  "domein": "tovessentials.com",
+  "lead_id": "2026-10-31-tovessentials.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#730818",
+  "kop": "Drie nieuwe invalshoeken en twee nieuwsbrieven voor TOV Essentials, rond echt goud dat nooit verguld is.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team TOV Essentials, ik heb dit gemaakt omdat jullie zo duidelijk zijn over wat jullie goud is: massief, met keurmerk en certificaat, en nooit verguld. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1443:4",
+      "titel": "Elf diamanten, één armband",
+      "waarom": "Labels bij jullie eigen close-up van de Diamond Halo Bracelet laten in één blik zien waar €719 in zit: 18 karaat goud, elf natuurlijke diamanten en een verstelbaar slotje."
+    },
+    {
+      "node": "1443:5",
+      "titel": "Koop geen verguld goud",
+      "waarom": "Een omgekeerde kop valt op tussen gewone sieradenposts en zet meteen jullie sterkste punt neer: massief goud met keurmerk, certificaat en 2 jaar garantie."
+    },
+    {
+      "node": "1443:6",
+      "titel": "Cadeau-klaar",
+      "waarom": "Richting de feestdagen zoeken veel mensen een cadeau; het doosje, het certificaat en ruilen tot 31 december nemen de twijfel weg."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe varianten testen vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1443:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij TOV Essentials",
+    "kop": "Welkom bij TOV Essentials",
+    "tekst": "Een rustige welkomstmail in jullie eigen kleuren: het TOV-doosje als hero, wat jullie goud anders maakt en een eerste stap naar de collectie.",
+    "punten": [
+      "Paarse herokaart met jullie eigen doosfoto en één knop naar de collectie",
+      "Drie beloftes: massief 14 of 18 karaat, digitaal certificaat, 2 jaar garantie",
+      "Tweede kaart met jullie handenfoto: vind je eerste vaste stuk"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1443:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij TOV Essentials",
+      "kop": "Welkom bij TOV Essentials",
+      "tekst": "Een rustige welkomstmail in jullie eigen kleuren: het TOV-doosje als hero, wat jullie goud anders maakt en een eerste stap naar de collectie.",
+      "punten": [
+        "Paarse herokaart met jullie eigen doosfoto en één knop naar de collectie",
+        "Drie beloftes: massief 14 of 18 karaat, digitaal certificaat, 2 jaar garantie",
+        "Tweede kaart met jullie handenfoto: vind je eerste vaste stuk"
+      ]
+    },
+    {
+      "node": "1443:8",
+      "type": "Merkverhaal",
+      "onderwerp": "Niet alles wat blinkt is goud",
+      "kop": "Niet alles wat blinkt is goud",
+      "tekst": "Een merkverhaal op basis van jullie goudgids: hoe jullie in het Europese atelier met echt goud werken. Daarna de Diamond Halo Bracelet met vier labels en een afsluiting in jullie bordeauxrood met prijs en knop.",
+      "punten": [
+        "Hero met jullie eigen modelfoto en een knop naar de goudgids",
+        "Kaart over het atelier, de keurmerken 585 en 750 en het werken direct met de goudsmeden",
+        "Diamond Halo Bracelet met labels: 18 karaat, 11 diamanten, verstelbaar slotje, certificaat, en een afsluiting met €719"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
