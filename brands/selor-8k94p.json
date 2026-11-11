@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "selor-8k94p",
+  "merk": "SÉLOR Amsterdam",
+  "domein": "seloramsterdam.com",
+  "lead_id": "2026-11-01-seloramsterdam.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6B5442",
+  "kop": "Een boodschap die langzaam zichtbaar wordt, nu ook in je advertenties.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team SÉLOR, ik heb dit gemaakt omdat een kaars met een verborgen boodschap een verhaal is dat je in een paar seconden kunt laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1798:18",
+      "titel": "Blaas hem niet uit",
+      "waarom": "Een kop die nieuwsgierig maakt houdt de duim stil en laat meteen zien wat jullie kaars anders maakt."
+    },
+    {
+      "node": "1799:2",
+      "titel": "Alles in één cadeau",
+      "waarom": "De Signature Set met wat erin zit en de prijs erbij maakt het cadeau kiezen makkelijk, precies in deze cadeautijd."
+    },
+    {
+      "node": "1800:2",
+      "titel": "Er is een boodschap voor je",
+      "waarom": "Een herkenbaar telefoonscherm voelt als een bericht in plaats van een advertentie en maakt het verrassingsmoment voelbaar."
+    }
+  ],
+  "waarom": {
+    "niche": "geurkaarsen",
+    "kop": "Zo groeien kaarsenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kaarsenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers bij de volgende verjaardag terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kaarsenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Atelier Rebul nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1801:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij SÉLOR, jouw 10% staat klaar",
+    "kop": "Welkom bij SÉLOR",
+    "tekst": "Een warme welkomstmail voor nieuwe inschrijvers: wat SÉLOR bijzonder maakt, de 10% korting op de volgende bestelling en kennismaken met Daisy.",
+    "punten": [
+      "10% korting op je volgende bestelling",
+      "Handgemaakt in Nederland, boodschap verborgen in de was",
+      "Daisy vertelt waarom ze begon"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1801:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij SÉLOR, jouw 10% staat klaar",
+      "kop": "Welkom bij SÉLOR",
+      "tekst": "Een warme welkomstmail voor nieuwe inschrijvers: wat SÉLOR bijzonder maakt, de 10% korting op de volgende bestelling en kennismaken met Daisy.",
+      "punten": [
+        "10% korting op je volgende bestelling",
+        "Handgemaakt in Nederland, boodschap verborgen in de was",
+        "Daisy vertelt waarom ze begon"
+      ]
+    },
+    {
+      "node": "1803:2",
+      "type": "Assortimentsmail",
+      "onderwerp": "Voor elk moment een boodschap",
+      "kop": "Voor elk moment een boodschap",
+      "tekst": "Een cadeaumail met vier favorieten, de Black Friday Month-korting en de Trustpilot-score, zodat lezers in één keer de juiste kaars kiezen.",
+      "punten": [
+        "Terra Flame, Crystal Flame, Surprise Flame en de Signature Set",
+        "Black Friday Month: tot 25% bij 3 stuks",
+        "4,3 / 5 op Trustpilot"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
