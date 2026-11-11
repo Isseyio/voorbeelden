@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "peperwinkel-7q9qc",
+  "merk": "De Peperwinkel",
+  "domein": "depeperwinkel.nl",
+  "lead_id": "2026-11-11-depeperwinkel.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A1342A",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor De Peperwinkel.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team De Peperwinkel, ik heb dit gemaakt omdat elke peper bij jullie een eigen herkomst heeft, van Kampot tot Wayanad, en dat verhaal zie je online nog weinig terug. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1709:4",
+      "titel": "Peper met een herkomst",
+      "waarom": "Vier pepers met hun land en prijs in één beeld laten zien hoe breed en bijzonder het assortiment is."
+    },
+    {
+      "node": "1709:24",
+      "titel": "Proef waar je peper vandaan komt",
+      "waarom": "Een grote typografische kop met jullie eigen foto's van de plant en het landschap valt op tussen gewone foodadvertenties."
+    },
+    {
+      "node": "1709:38",
+      "titel": "Wit of zwart?",
+      "waarom": "Twee pepers naast elkaar maken nieuwsgierig en nodigen uit om allebei te proberen."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien food & drinksmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe peper of specerij niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe thuiskoks en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat kopers terugkomen als hun pot leeg is.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food & drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Van Beekum Specerijen nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1710:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij De Peperwinkel",
+    "kop": "Welkom bij de Peperwinkel",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: waar jullie pepers vandaan komen, drie pepers om mee te beginnen en de proefzakjes om eerst te proeven.",
+    "punten": [
+      "Drie startpepers: Kampot, Wayanad en witte Phú Quốc",
+      "Eerst proeven met een proefzakje",
+      "Zelf verpakt in Elst, met batchnummer"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1710:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij De Peperwinkel",
+      "kop": "Welkom bij de Peperwinkel",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: waar jullie pepers vandaan komen, drie pepers om mee te beginnen en de proefzakjes om eerst te proeven.",
+      "punten": [
+        "Drie startpepers: Kampot, Wayanad en witte Phú Quốc",
+        "Eerst proeven met een proefzakje",
+        "Zelf verpakt in Elst, met batchnummer"
+      ]
+    },
+    {
+      "node": "1710:51",
+      "type": "Merkverhaal",
+      "onderwerp": "Zo groeit peper",
+      "kop": "Zo groeit peper.",
+      "tekst": "Een mail over herkomst: tien jaar De Peperwinkel, van marktkraam in Arnhem tot tientallen pepers, met de zwarte Sarawakpeper uitgelicht.",
+      "punten": [
+        "Het verhaal van tien jaar De Peperwinkel",
+        "Sarawakpeper met herkomst, GI en batchnummer",
+        "Tip voor gebruik in de keuken"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
