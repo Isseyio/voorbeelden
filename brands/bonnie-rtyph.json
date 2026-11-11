@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "bonnie-rtyph",
+  "merk": "Bonnie Studios",
+  "domein": "bonniestudios.com",
+  "lead_id": "2026-11-11-bonniestudios.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6262F0",
+  "kop": "Kleur, laag op laag, in beeld voor Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Bonnie Studios, ik heb dit gemaakt omdat jullie kleurrijke kralen en de foto's met jullie modellen precies laten zien wat op Instagram werkt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1542:3",
+      "titel": "Kralen in de hand",
+      "waarom": "Laat de armbanden van dichtbij zien met de materialen eromheen, zodat je meteen ziet waar ze van gemaakt zijn."
+    },
+    {
+      "node": "1542:23",
+      "titel": "Kleur, laag op laag",
+      "waarom": "Een grote kop met jullie eigen foto's ertussen valt op tussen drukke advertenties en laat in één beeld zien hoe je de sieraden combineert."
+    },
+    {
+      "node": "1542:42",
+      "titel": "Vanaf €29,95",
+      "waarom": "Een duidelijke prijs en jullie naam groot in beeld halen de drempel weg voor wie Bonnie Studios nog niet kent."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1542:50",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Bonnie Studios",
+    "kop": "Welkom bij Bonnie Studios",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie Bonnie Studios is, hoe de sieraden in kleine oplages in Amsterdam worden gemaakt, en het welkomstcadeau van 10% op de eerste bestelling.",
+    "punten": [
+      "Handgemaakt in Amsterdam",
+      "Edelsteen, koraal en zoetwaterparels",
+      "Gratis verzending vanaf €79"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1542:50",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Bonnie Studios",
+      "kop": "Welkom bij Bonnie Studios",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie Bonnie Studios is, hoe de sieraden in kleine oplages in Amsterdam worden gemaakt, en het welkomstcadeau van 10% op de eerste bestelling.",
+      "punten": [
+        "Handgemaakt in Amsterdam",
+        "Edelsteen, koraal en zoetwaterparels",
+        "Gratis verzending vanaf €79"
+      ]
+    },
+    {
+      "node": "1542:86",
+      "type": "Merkverhaal",
+      "onderwerp": "Een notitie van Carlijn",
+      "kop": "Een notitie van Carlijn",
+      "tekst": "Het verhaal achter Bonnie Studios in de woorden van de oprichter, met een ketting uitgelicht en wat hem bijzonder maakt.",
+      "punten": [
+        "Carlijn ontwerpt elk sieraad zelf",
+        "Met de hand geregen, in kleine oplages",
+        "Verguld slot van roestvrij staal"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

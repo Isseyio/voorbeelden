@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "poederbaas-8c2n6",
+  "merk": "Poederbaas",
+  "domein": "poederbaas.com",
+  "lead_id": "2026-11-11-poederbaas.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E6007E",
+  "kop": "Drie nieuwe invalshoeken voor jullie skikleding",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Poederbaas, ik heb dit gemaakt omdat jullie verhaal begon met gehaakte mutsen tijdens skitrips en jullie alles zelf testen in de bergen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1538:4",
+      "titel": "Vanaf €119,95",
+      "waarom": "Een duidelijke instapprijs en de FW26-drop bovenaan, met een groot merkwoord over een sterke foto, laten in een seconde zien wat er te koop is."
+    },
+    {
+      "node": "1538:15",
+      "titel": "Dagen zonder piste",
+      "waarom": "Een grote typografische zin met kleine freeridefoto's ertussen valt op tussen gewone productfoto's en vertelt meteen voor wie de Freeride series is."
+    },
+    {
+      "node": "1538:30",
+      "titel": "Twee details",
+      "waarom": "Twee close-ups van de jas met korte labels maken de techniek concreet voor mensen die twijfelen over een shell van €299,95."
+    }
+  ],
+  "waarom": {
+    "niche": "sport en outdoor",
+    "kop": "Zo groeien sport- en outdoormerken op Instagram.",
+    "tekst": "Jullie adverteren al, dus de basis staat. Wat vaak gebeurt: een paar advertenties doen het meeste werk en worden na een paar weken moe. Merken die elke week nieuwe invalshoeken testen, houden hun kosten per aankoop laag, en een welkomstmail zorgt dat nieuwe inschrijvers ook echt kopen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sport- en outdoormerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij sport- en outdoormerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1540:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de community",
+    "kop": "Welkom bij de community",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie Poederbaas is, wat ze kunnen verwachten en meteen een knop naar de collectie.",
+    "punten": [
+      "Herokaart met jullie eigen freeridefoto en één duidelijke knop",
+      "Drie beloftes: dezelfde dag verzonden, door riders getest, nieuwe drops eerst",
+      "Het verhaal van de gehaakte mutsen uit 2011"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1540:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de community",
+      "kop": "Welkom bij de community",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie Poederbaas is, wat ze kunnen verwachten en meteen een knop naar de collectie.",
+      "punten": [
+        "Herokaart met jullie eigen freeridefoto en één duidelijke knop",
+        "Drie beloftes: dezelfde dag verzonden, door riders getest, nieuwe drops eerst",
+        "Het verhaal van de gehaakte mutsen uit 2011"
+      ]
+    },
+    {
+      "node": "1540:33",
+      "type": "Productspotlight",
+      "onderwerp": "Gemaakt voor zware dagen in de bergen",
+      "kop": "Gemaakt voor zware dagen in de bergen",
+      "tekst": "Een mail over de Freeride series, met de Freeride 3L Shell Jacket en waarom die voor freeriden en backcountry gemaakt is.",
+      "punten": [
+        "Hero met jullie eigen freeridefoto",
+        "De jas met vier kenmerken: 20K mm, getapete naden, armvents, sneeuwvanger",
+        "Afsluiting over lagen, met de prijs van €299,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
