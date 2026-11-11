@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "bare-aqacj",
+  "merk": "BARE Cookware",
+  "domein": "barecookware.com",
+  "lead_id": "2026-11-11-barecookware.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B5482F",
+  "kop": "Eén pan voor het leven, elke week een nieuwe reden",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team BARE Cookware, ik heb dit gemaakt omdat een pan die twintig jaar slijtage doorstaat een verhaal is dat je op veel manieren kunt vertellen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1636:4",
+      "titel": "Koop deze pan niet",
+      "waarom": "Een omgekeerde kop maakt nieuwsgierig en de onderregel draait hem meteen om naar de belofte: nooit meer een nieuwe pan."
+    },
+    {
+      "node": "1636:21",
+      "titel": "Waar de Everpan van gemaakt is",
+      "waarom": "Vier echte detailfoto's leggen in één beeld uit waarom deze pan anders is dan een gewone antiaanbakpan."
+    },
+    {
+      "node": "1636:43",
+      "titel": "Een pan die je doorgeeft",
+      "waarom": "Een grote kop met jullie eigen foto's tussen de woorden, de set van drie en de Trustpilot-score als bewijs."
+    }
+  ],
+  "waarom": {
+    "niche": "keuken",
+    "kop": "Zo groeien keukenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe pan niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe, dus merken die daar elke week nieuwe invalshoeken testen, houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat kopers terugkomen voor de Dutch oven of de messen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij keukenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft HexClad nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1637:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Fijn dat je er bent",
+    "kop": "Fijn dat je er bent",
+    "tekst": "Wij zijn Max en Martijn, twee ingenieurs met een schort. We maken klassiekers voor de keuken van nu, zonder chemische coatings.",
+    "punten": [
+      "Levenslange garantie op fabrieksfouten",
+      "60 dagen proberen",
+      "Voor 21:59 besteld, dezelfde dag verzonden",
+      "Everpan: 20 jaar slijtagetest, geen verschil"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1637:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Fijn dat je er bent",
+      "kop": "Fijn dat je er bent",
+      "tekst": "Wij zijn Max en Martijn, twee ingenieurs met een schort. We maken klassiekers voor de keuken van nu, zonder chemische coatings.",
+      "punten": [
+        "Levenslange garantie op fabrieksfouten",
+        "60 dagen proberen",
+        "Voor 21:59 besteld, dezelfde dag verzonden",
+        "Everpan: 20 jaar slijtagetest, geen verschil"
+      ]
+    },
+    {
+      "node": "1637:42",
+      "type": "Productspotlight",
+      "onderwerp": "De Dutch oven, opnieuw bedacht",
+      "kop": "De Dutch oven, opnieuw bedacht",
+      "tekst": "Dezelfde warmte als gietijzer, op bijna de helft van het gewicht, met het verhaal van Max en Martijn erbij.",
+      "punten": [
+        "Onderhoudsvrij en klaar voor inductie",
+        "Bijna half zo zwaar als gietijzer",
+        "In rood, blauw en zwart",
+        "€159 (was €229)"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

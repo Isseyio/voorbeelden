@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "lovelties-c72yf",
+  "merk": "Lovelties",
+  "domein": "lovelties.com",
+  "lead_id": "2026-11-11-lovelties.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#EF7572",
+  "kop": "Houten speelhuizen, gemaakt om mee te scrollen en te spelen",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Lovelties, ik heb dit gemaakt omdat jullie raket, met 40 onderdelen uit eigen atelier, precies het soort cadeau is dat ouders tijdens het scrollen willen ontdekken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1648:2",
+      "titel": "Waar de raket van gemaakt is",
+      "waarom": "Een lijst met ronde detailfoto's laat zien wat er in de raket zit: FSC-berkenhout, jullie eigen freesmachine en 40 onderdelen."
+    },
+    {
+      "node": "1648:25",
+      "titel": "€125 voor onder de kerstboom",
+      "waarom": "De prijs groot bovenaan en de raket in een echte kinderkamer eronder maken het cadeau in één blik duidelijk."
+    },
+    {
+      "node": "1648:35",
+      "titel": "Spelen",
+      "waarom": "Eén groot woord en een zoekbalk sluiten aan op waar ouders zelf naar zoeken, met de raket en het pakhuis op een rij."
+    }
+  ],
+  "waarom": {
+    "niche": "speelgoed",
+    "kop": "Zo groeien speelgoedmerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken nieuw speelgoed niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die ouders terugkomen, zeker richting Sinterklaas en kerst.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij speelgoedmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Lovevery nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1648:50",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Lovelties",
+    "kop": "Fijn dat je er bent",
+    "tekst": "Houten speelhuizen uit ons eigen atelier, van FSC-berkenhout. Zonder plastic of batterijen, zodat kinderen hun eigen wereld kunnen bouwen.",
+    "punten": [
+      "Gemaakt in Nederland, van 9 mm FSC-berkenmultiplex",
+      "Zonder plastic of batterijen",
+      "Zonder gereedschap in elkaar te zetten",
+      "Het verhaal van Marloes en Lucas, dochter en vader"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1648:50",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Lovelties",
+      "kop": "Fijn dat je er bent",
+      "tekst": "Houten speelhuizen uit ons eigen atelier, van FSC-berkenhout. Zonder plastic of batterijen, zodat kinderen hun eigen wereld kunnen bouwen.",
+      "punten": [
+        "Gemaakt in Nederland, van 9 mm FSC-berkenmultiplex",
+        "Zonder plastic of batterijen",
+        "Zonder gereedschap in elkaar te zetten",
+        "Het verhaal van Marloes en Lucas, dochter en vader"
+      ]
+    },
+    {
+      "node": "1648:72",
+      "type": "Productspotlight",
+      "onderwerp": "Klaar voor de lancering",
+      "kop": "Klaar voor de lancering",
+      "tekst": "De houten raket van 72 cm, met trappen, deuren en luiken op elke verdieping en 3 astronauten erbij.",
+      "punten": [
+        "72 cm hoog (44 x 72 x 44 cm)",
+        "40 onderdelen, zonder gereedschap in elkaar",
+        "Vanaf 3 jaar, met 3 astronauten en 2 kleine raketten",
+        "€125"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

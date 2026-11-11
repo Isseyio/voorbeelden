@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "biowust-m2mt9",
+  "merk": "Biowust",
+  "domein": "biowust.nl",
+  "lead_id": "2026-11-11-biowust.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#54775F",
+  "kop": "Nat scheren zonder plastic: Biowust op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Biowust, ik heb dit gemaakt omdat jullie mesjes zonder plastic verpakking gewoon door de brievenbus passen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1638:53",
+      "titel": "Eén kwast in de hand",
+      "waarom": "Laat de kwast echt in gebruik zien, met drie kenmerken die de twijfel van een eerste koper wegnemen."
+    },
+    {
+      "node": "1638:74",
+      "titel": "Nat scheren",
+      "waarom": "Eén groot woord en een zoekbalk vangen mensen die al nadenken over duurzaam scheren, met drie producten om uit te kiezen."
+    },
+    {
+      "node": "1638:94",
+      "titel": "Een jaar mesjes",
+      "waarom": "Een duidelijke prijs voor zo'n jaar scheren maakt de overstap van wegwerpmesjes makkelijk te begrijpen."
+    }
+  ],
+  "waarom": {
+    "niche": "verzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw verzorgingsmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun mesjes op zijn.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "60+",
+        "label": "advertenties heeft Velkar Shaving nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1639:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Biowust",
+    "kop": "Welkom bij Biowust",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Biowust is, wat nat scheren makkelijk maakt en waar je het beste mee begint.",
+    "punten": [
+      "Gratis verzending vanaf €10 en levering binnen 1–2 werkdagen",
+      "30 dagen zorgeloos proberen",
+      "Een tweede blok over de scheerkwast met synthetisch haar"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1639:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Biowust",
+      "kop": "Welkom bij Biowust",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Biowust is, wat nat scheren makkelijk maakt en waar je het beste mee begint.",
+      "punten": [
+        "Gratis verzending vanaf €10 en levering binnen 1–2 werkdagen",
+        "30 dagen zorgeloos proberen",
+        "Een tweede blok over de scheerkwast met synthetisch haar"
+      ]
+    },
+    {
+      "node": "1639:38",
+      "type": "Assortimentsmail",
+      "onderwerp": "Alles voor een gladde scheerbeurt",
+      "kop": "Alles voor een gladde scheerbeurt",
+      "tekst": "Een overzicht van de basis voor nat scheren: twee scheerkwasten en de doos met 100 mesjes, elk met prijs en een korte uitleg.",
+      "punten": [
+        "Modelfoto uit jullie eigen beeld als opening",
+        "Per product één zin uit jullie eigen productteksten",
+        "Jullie WebwinkelKeur-score als vertrouwensblok"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

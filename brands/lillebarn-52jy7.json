@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "lillebarn-52jy7",
+  "merk": "Lille Barn",
+  "domein": "lille-barn.com",
+  "lead_id": "2026-11-11-lille-barn.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8A6A4F",
+  "kop": "Betere nachten, elke week opnieuw in beeld",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Lille Barn, ik heb dit gemaakt omdat jullie veel zorg in de wol steken, tot een getekende verklaring bij elke partij, en dat verhaal zie je nu nog weinig terug in advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1641:4",
+      "titel": "Merinowol van dichtbij",
+      "waarom": "Een close-up van de wol met twee korte uitlegkaartjes laat voelen wat je koopt, met de prijs er direct bij."
+    },
+    {
+      "node": "1641:27",
+      "titel": "Gratis verzending vanaf €65",
+      "waarom": "Jullie echte voordeel groot bovenaan, het merk eroverheen en een babyfoto die meteen raakt."
+    },
+    {
+      "node": "1641:36",
+      "titel": "Het avondritueel",
+      "waarom": "Een herkenbaar ritueel voor het slapengaan maakt van het dekbed een vast onderdeel van de avond."
+    }
+  ],
+  "waarom": {
+    "niche": "babytextiel",
+    "kop": "Zo groeien babymerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw babymerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe ouders en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat ze terugkomen als hun kindje groeit.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Jollein nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1642:84",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Lille Barn",
+    "kop": "Welkom bij Lille Barn",
+    "tekst": "Met liefde voor de kleinsten. Wollen dekens en dekbedden van merinowol, voor betere nachten, met het verhaal van jullie eigen atelier.",
+    "punten": [
+      "Gratis verzending vanaf €65",
+      "90 dagen retour",
+      "Voor 16:30 besteld, dezelfde werkdag verzonden",
+      "Geweven in het eigen atelier, van garen tot deken"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1642:84",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Lille Barn",
+      "kop": "Welkom bij Lille Barn",
+      "tekst": "Met liefde voor de kleinsten. Wollen dekens en dekbedden van merinowol, voor betere nachten, met het verhaal van jullie eigen atelier.",
+      "punten": [
+        "Gratis verzending vanaf €65",
+        "90 dagen retour",
+        "Voor 16:30 besteld, dezelfde werkdag verzonden",
+        "Geweven in het eigen atelier, van garen tot deken"
+      ]
+    },
+    {
+      "node": "1642:121",
+      "type": "Productvergelijking",
+      "onderwerp": "Deken of dekbed?",
+      "kop": "Deken of dekbed?",
+      "tekst": "De wollen ledikantdeken en het wollen kinderdekbed naast elkaar, zodat ouders in één oogopslag zien welke past.",
+      "punten": [
+        "Ledikantdeken 93 x 135 cm: TOG 2, €59,95",
+        "Kinderdekbed 100 x 135 cm: TOG 4, voor 16 tot 20 °C, €85,95",
+        "Allebei 100% merinowol",
+        "Wasbaar op 30 °C met een wolprogramma"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

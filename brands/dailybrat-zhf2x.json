@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "dailybrat-zhf2x",
+  "merk": "Daily Brat",
+  "domein": "dailybrat.com",
+  "lead_id": "2026-11-11-dailybrat.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1C1C1C",
+  "kop": "Truien die mee spelen: Daily Brat op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Daily Brat, ik heb dit gemaakt omdat jullie truien met die dino's, krokodillen en eenhoorns echt opvallen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1643:3",
+      "titel": "Truien die mee spelen",
+      "waarom": "Grote tekst met kleine foto's van spelende kinderen stopt de duim en laat meteen zien wat het merk is."
+    },
+    {
+      "node": "1643:19",
+      "titel": "Dino of krokodil?",
+      "waarom": "Twee favorieten naast elkaar laten ouders kiezen in plaats van twijfelen."
+    },
+    {
+      "node": "1643:43",
+      "titel": "De details van Sassy Unicorn",
+      "waarom": "Pofmouwen, biologisch katoen en productie in Portugal uitgelicht op een echte foto, zodat de prijs klopt voor ouders."
+    }
+  ],
+  "waarom": {
+    "niche": "kinderkleding",
+    "kop": "Zo groeien kinderkledingmerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw kinderkledingmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die ouders terugkomen bij elke nieuwe collectie.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kinderkledingmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Mini Rodini nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1644:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Daily Brat",
+    "kop": "Welkom bij Daily Brat",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Daily Brat is, een foto uit jullie eigen shoot en vier favorieten van dit seizoen.",
+    "punten": [
+      "Natuurlijke stoffen, eerlijk gemaakt in Portugal",
+      "Vier truien met prijs en een knop per product",
+      "Navigatie naar sweaters, jurken, broeken en tops"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1644:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Daily Brat",
+      "kop": "Welkom bij Daily Brat",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Daily Brat is, een foto uit jullie eigen shoot en vier favorieten van dit seizoen.",
+      "punten": [
+        "Natuurlijke stoffen, eerlijk gemaakt in Portugal",
+        "Vier truien met prijs en een knop per product",
+        "Navigatie naar sweaters, jurken, broeken en tops"
+      ]
+    },
+    {
+      "node": "1644:48",
+      "type": "Merkverhaal",
+      "onderwerp": "Gemaakt om lang mee te gaan",
+      "kop": "Gemaakt om lang mee te gaan",
+      "tekst": "Een mail over waar jullie kleding voor staat, met de Sunny Sprout Sweater uit de samenwerking met Spruit Kids uitgelicht.",
+      "punten": [
+        "Merkverhaal over natuurlijke stoffen en tijdloze vormen",
+        "Productblok met vier kenmerken rond de trui",
+        "Afsluiter met de Loco Croco Sweater en een foto uit jullie shoot"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
