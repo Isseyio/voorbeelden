@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "ceduce-4gt2w",
+  "merk": "Ceduce",
+  "domein": "ceduce.nl",
+  "lead_id": "2026-11-11-ceduce.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C8901E",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Ceduce.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Ceduce, ik heb dit gemaakt omdat jullie haarolie een echt ritueel is, met teunisbloem, pompoenpit en rozemarijn, gevuld in Nederland. Dat verhaal zie je online nog weinig terug. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1720:4",
+      "titel": "Wat erin zit",
+      "waarom": "De drie oliën met hun eigen foto laten in één beeld zien waarom deze haarolie anders is."
+    },
+    {
+      "node": "1720:5",
+      "titel": "Je ritueel vóór de wasdag",
+      "waarom": "Een herkenbare routinekaart maakt meteen duidelijk hoe en wanneer je de olie gebruikt."
+    },
+    {
+      "node": "1720:6",
+      "titel": "10% op je eerste bestelling",
+      "waarom": "Een sterke modelfoto met jullie eigen welkomstkorting trekt nieuwe kopers over de streep."
+    }
+  ],
+  "waarom": {
+    "niche": "haarverzorging",
+    "kop": "Zo groeien haarverzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe haarolie niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun fles leeg is.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij haarverzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Gisou nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1720:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Ceduce",
+    "kop": "Welkom bij Ceduce",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% welkomstkorting, wat de haarolie doet en hoe je het pre-wash ritueel start.",
+    "punten": [
+      "10% korting op de eerste bestelling",
+      "Voedt, versterkt en geeft glans",
+      "Zo gebruik je de olie vóór de wasdag"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1720:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Ceduce",
+      "kop": "Welkom bij Ceduce",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% welkomstkorting, wat de haarolie doet en hoe je het pre-wash ritueel start.",
+      "punten": [
+        "10% korting op de eerste bestelling",
+        "Voedt, versterkt en geeft glans",
+        "Zo gebruik je de olie vóór de wasdag"
+      ]
+    },
+    {
+      "node": "1720:8",
+      "type": "Productspotlight",
+      "onderwerp": "Welke maat past bij jou?",
+      "kop": "Welke maat past bij jou?",
+      "tekst": "Een mail over de twee maten: wat erin zit, 100 ml en 50 ml naast elkaar en The Duo voor wie allebei wil.",
+      "punten": [
+        "Teunisbloem, pompoenpit en rozemarijn uitgelicht",
+        "100 ml en 50 ml vergeleken",
+        "The Duo: Full & Mini als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
