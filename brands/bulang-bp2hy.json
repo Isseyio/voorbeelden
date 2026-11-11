@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "bulang-bp2hy",
+  "merk": "Bulang and Sons",
+  "domein": "bulangandsons.nl",
+  "lead_id": "2026-11-11-bulangandsons.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#141414",
+  "kop": "Bandjes die een horloge laten spreken",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Bulang and Sons, ik heb dit gemaakt omdat jullie foto's van vintage horloges aan jullie bandjes zo goed laten zien wat een andere band met een horloge doet. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1584:87",
+      "titel": "Eén horloge, twee karakters",
+      "waarom": "Twee echte draagfoto's naast elkaar laten in één oogopslag zien hoe anders een horloge wordt met een ander bandje."
+    },
+    {
+      "node": "1584:88",
+      "titel": "NATO in drie kleuren",
+      "waarom": "Eén groot woord en een zoekbalk spreken mensen aan die al weten wat ze zoeken, met de drie kleuren en de prijs direct in beeld."
+    },
+    {
+      "node": "1584:89",
+      "titel": "Golden Fit, 1,9 mm dun",
+      "waarom": "Een close-up met korte kenmerken laat het vakwerk zien en spreekt verzamelaars van slanke horloges aan."
+    }
+  ],
+  "waarom": {
+    "niche": "horlogebandjes",
+    "kop": "Zo groeien accessoiremerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende horloge.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "5+",
+        "label": "advertenties heeft Daniel Wellington nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1584:90",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Bulang and Sons",
+    "kop": "Fijn dat je er bent",
+    "tekst": "Een rustige welkomstmail in jullie eigen zwart-wit stijl: de 10% korting op de eerste bestelling (exclusief horloges) die jullie al aanbieden, drie redenen om bij jullie te kopen en een tweede blok dat helpt het juiste bandje te kiezen.",
+    "punten": [
+      "10% korting op de eerste bestelling, exclusief horloges",
+      "Handgemaakt in Italië en Duitsland, gratis verzending en retour in NL",
+      "Showroom in Maastricht als vertrouwenspunt"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1584:90",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Bulang and Sons",
+      "kop": "Fijn dat je er bent",
+      "tekst": "Een rustige welkomstmail in jullie eigen zwart-wit stijl: de 10% korting op de eerste bestelling (exclusief horloges) die jullie al aanbieden, drie redenen om bij jullie te kopen en een tweede blok dat helpt het juiste bandje te kiezen.",
+      "punten": [
+        "10% korting op de eerste bestelling, exclusief horloges",
+        "Handgemaakt in Italië en Duitsland, gratis verzending en retour in NL",
+        "Showroom in Maastricht als vertrouwenspunt"
+      ]
+    },
+    {
+      "node": "1584:91",
+      "type": "Merkverhaal",
+      "onderwerp": "We doen wat we zijn",
+      "kop": "De passie voor vintage horloges",
+      "tekst": "Een merkverhaal rond jullie eigen zin over vintage horloges, met de Siena Brown Extra Thin uitgelicht: vier kenmerken bij de echte productfoto en een afsluiting met de Speedmaster-foto.",
+      "punten": [
+        "Jullie eigen slogan als kop",
+        "Productblok met vier echte kenmerken",
+        "Afsluiting met prijs en knop naar het bandje"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

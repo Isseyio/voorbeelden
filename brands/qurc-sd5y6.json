@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "qurc-sd5y6",
+  "merk": "QURC. Amsterdam",
+  "domein": "qurc-amsterdam.com",
+  "lead_id": "2026-11-11-qurc-amsterdam.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8B6B4A",
+  "kop": "Drie nieuwe invalshoeken voor jullie kurken sneakers",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team QURC, ik heb dit gemaakt omdat ik het mooi vind dat jullie het kurk alleen met kokend water bewerken, en dat verhaal verdient meer dan één advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1582:4",
+      "titel": "Waar hij van gemaakt is",
+      "waarom": "Laat in één beeld zien waarom de Fragment Low anders is: kurk, gerecyclede zool en vegan, naast de echte prijs."
+    },
+    {
+      "node": "1582:5",
+      "titel": "Zelfde sneaker, jouw kleur",
+      "waarom": "Twee kleuren naast elkaar helpen twijfelaars kiezen in plaats van doorscrollen."
+    },
+    {
+      "node": "1582:6",
+      "titel": "De sale, groot en duidelijk",
+      "waarom": "Een duidelijke prijs over een echte modelfoto valt op tussen de stories en past bij de Seasonal Sale die nu loopt."
+    }
+  ],
+  "waarom": {
+    "niche": "schoenen",
+    "kop": "Zo groeien schoenenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw schoenenmerk niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe: dezelfde mensen zien hem steeds weer en klikken minder. Merken die elke week nieuwe varianten testen, houden hun kosten per aankoop laag, en een vaste nieuwsbrief zorgt dat kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij schoenenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Mercer Amsterdam nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1582:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij QURC.",
+    "kop": "Welkom bij QURC.",
+    "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waar de sneakers gemaakt worden en een antwoord op de vraag die bij schoenen altijd speelt: welke maat?",
+    "punten": [
+      "Natuurlijk kurk: licht, waterdicht en ademend",
+      "Handgemaakt door vakmensen in Portugal",
+      "Extra inlegzolen in elke doos voor een halve maat kleiner",
+      "30 dagen retour"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1582:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij QURC.",
+      "kop": "Welkom bij QURC.",
+      "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waar de sneakers gemaakt worden en een antwoord op de vraag die bij schoenen altijd speelt: welke maat?",
+      "punten": [
+        "Natuurlijk kurk: licht, waterdicht en ademend",
+        "Handgemaakt door vakmensen in Portugal",
+        "Extra inlegzolen in elke doos voor een halve maat kleiner",
+        "30 dagen retour"
+      ]
+    },
+    {
+      "node": "1582:8",
+      "type": "Merkverhaal",
+      "onderwerp": "Van druif tot sneaker",
+      "kop": "Van druif tot sneaker",
+      "tekst": "Een verhaalmail over de Grape Essential: het druivenleer, de handgemaakte afwerking en de drie kleuren, met een duidelijke knop naar de collectie.",
+      "punten": [
+        "Druivenleer, 100% vegan",
+        "Gerecyclede rubberzool en uitneembare binnenzool",
+        "Essential vanaf €124 in Classic White, Classic Black en Marinha Blue"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

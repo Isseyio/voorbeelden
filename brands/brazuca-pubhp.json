@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "brazuca-pubhp",
+  "merk": "Brazuca Coffee",
+  "domein": "brazucacoffee.com",
+  "lead_id": "2026-11-10-brazucacoffee.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#0071CE",
+  "kop": "Drie advertenties en twee nieuwsbrieven rond Paulista en jullie verse branding.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Brazuca, ik heb dit gemaakt omdat jullie elke week zelf branden in Amsterdam en de koffie rechtstreeks bij Braziliaanse boeren kopen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1582:11",
+      "titel": "Vers gebrand",
+      "waarom": "Eén groot woord en een zoekbalk sluiten aan op wat mensen echt zoeken, met drie bonen naast elkaar."
+    },
+    {
+      "node": "1582:12",
+      "titel": "Elke dag Paulista",
+      "waarom": "De weekstrip maakt van de 4 x 1 kg-bundel een logische keuze voor wie elke dag koffie zet."
+    },
+    {
+      "node": "1582:13",
+      "titel": "Je ochtend, op recept",
+      "waarom": "Een herkenbaar ochtendritueel met jullie eigen recept laat zien hoe makkelijk het is."
+    }
+  ],
+  "waarom": {
+    "niche": "koffie",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe koffiebrander niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun zak leeg is.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Wakuli nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1582:14",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Brazuca: je 10% staat klaar",
+    "kop": "Welkom bij Brazuca.",
+    "tekst": "Als welkomstcadeau krijg je 10% korting op je bestelling. Vers gebrand en binnen 1 tot 2 werkdagen verstuurd.",
+    "punten": [
+      "Paulista Blend · 250 g · €10,85",
+      "Swiss Water Decaf · 250 g · €13,90",
+      "Gratis verzending vanaf €60 in NL, BE en DE"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1582:14",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Brazuca: je 10% staat klaar",
+      "kop": "Welkom bij Brazuca.",
+      "tekst": "Als welkomstcadeau krijg je 10% korting op je bestelling. Vers gebrand en binnen 1 tot 2 werkdagen verstuurd.",
+      "punten": [
+        "Paulista Blend · 250 g · €10,85",
+        "Swiss Water Decaf · 250 g · €13,90",
+        "Gratis verzending vanaf €60 in NL, BE en DE"
+      ]
+    },
+    {
+      "node": "1582:15",
+      "type": "Productspotlight",
+      "onderwerp": "Wat Paulista in je ochtend brengt",
+      "kop": "Wat Paulista in je ochtend brengt.",
+      "tekst": "Onze espresso voor elke dag, met het verhaal van de boeren, de bonen en hoe je hem zet.",
+      "punten": [
+        "Acaiá en Red Catuaí van 1.000 tot 1.200 meter",
+        "20 gram in, 40 tot 50 gram uit, 28 tot 33 seconden",
+        "€1 per bestelling naar Estrela da Favela"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

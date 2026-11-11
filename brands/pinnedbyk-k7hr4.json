@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "pinnedbyk-k7hr4",
+  "merk": "PiNNED by K",
+  "domein": "pinnedbyk.com",
+  "lead_id": "2026-11-11-pinnedbyk.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#88000C",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor de ski collectie en jullie accessoires.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team PiNNED by K, ik heb dit gemaakt omdat jullie iedere bestelling zelf maken in jullie eigen atelier en elke paar weken met iets nieuws komen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1576:4",
+      "titel": "Après Ski Club",
+      "waarom": "Een echte modelfoto met de prijs groot in beeld laat in één keer zien wat het kost en hoe het staat."
+    },
+    {
+      "node": "1576:5",
+      "titel": "Mix & match",
+      "waarom": "Stylingfoto's tussen de woorden laten zien hoe je de stukken combineert, en de muts geeft een makkelijk instapproduct."
+    },
+    {
+      "node": "1576:6",
+      "titel": "Je nieuwe go-to belt",
+      "waarom": "Een speels belscherm valt op tussen gewone posts en zet één product helemaal centraal."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw modemerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen bij elke nieuwe collectie.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Colourful Rebel nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1576:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de #pinnedbyk squad",
+    "kop": "Fijn dat je er bent.",
+    "tekst": "Je hoort als eerste van nieuwe collecties, die elke paar weken binnenkomen. Als welkom krijg je 10% korting op je eerste bestelling.",
+    "punten": [
+      "Iedere bestelling zelf gemaakt in eigen atelier",
+      "Voor 16:00 besteld, zelfde dag verstuurd",
+      "Binnen 14 dagen retour"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1576:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de #pinnedbyk squad",
+      "kop": "Fijn dat je er bent.",
+      "tekst": "Je hoort als eerste van nieuwe collecties, die elke paar weken binnenkomen. Als welkom krijg je 10% korting op je eerste bestelling.",
+      "punten": [
+        "Iedere bestelling zelf gemaakt in eigen atelier",
+        "Voor 16:00 besteld, zelfde dag verstuurd",
+        "Binnen 14 dagen retour"
+      ]
+    },
+    {
+      "node": "1576:8",
+      "type": "Assortimentsmail",
+      "onderwerp": "Maak je winterlook af",
+      "kop": "Maak je winterlook af.",
+      "tekst": "Vier accessoires die een simpele outfit meteen van jou maken: een kraagje onder je sweater, een muts met een pizzapunt, gouden sokken en een kleine tas.",
+      "punten": [
+        "Beanie Pizza Slice Candy · €24,99",
+        "Kraagje Leopard · €29,99",
+        "Socks Heart · €9,99",
+        "Midi Bag Croco Dog · €44,99"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
