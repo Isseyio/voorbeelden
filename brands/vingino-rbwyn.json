@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "vingino-rbwyn",
+  "merk": "Vingino",
+  "domein": "vingino.com",
+  "lead_id": "2026-11-01-vingino.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#AA2030",
+  "kop": "Drie nieuwe invalshoeken en twee nieuwsbrieven voor Vingino, rond jullie fits en de nieuwe denimcollectie.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Vingino, ik heb dit gemaakt omdat jullie denim fit guide elke fit zo helder uitlegt, van Regular tot Super baggy, en dat is precies de vraag die ouders hebben voordat ze bestellen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1402:4",
+      "titel": "Welke fit past bij jou?",
+      "waarom": "Twee fits naast elkaar met jullie eigen fitfoto's helpen kiezen, en ouders en kids zien in één blik het verschil tussen baggy en super baggy."
+    },
+    {
+      "node": "1402:23",
+      "titel": "Kids denim",
+      "waarom": "Eén groot woord met een zoekbalk sluit aan op waar mensen naar zoeken, en drie jeans met prijs maken de stap naar de webshop klein."
+    },
+    {
+      "node": "1402:46",
+      "titel": "Kids zijn de iconen",
+      "waarom": "Jullie eigen merkgedachte als grote kop met campagnefoto's ertussen valt op tussen gewone productposts en eindigt bij één jeans met één prijs."
+    }
+  ],
+  "waarom": {
+    "niche": "kindermode",
+    "kop": "Zo groeien kindermodemerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw kindermerk niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe varianten testen houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers bij de volgende maat terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kindermodemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "90+",
+        "label": "advertenties heeft Retour Jeans nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1402:63",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Vingino",
+    "kop": "Welkom bij Vingino",
+    "tekst": "Een welkomstmail met jullie eigen verhaal: het begon met één vintage jeans uit Napels. Daaronder de zeven fits, gratis verzending vanaf €75 en een directe link naar de denim fit guide.",
+    "punten": [
+      "Merkverhaal in twee zinnen, met jullie AW26-campagnefoto",
+      "Drie vaste voordelen: zeven fits, gratis verzending vanaf €75, 2-3 werkdagen levertijd",
+      "Fit guide als tweede stap, zodat ouders sneller de juiste maat kiezen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1402:63",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Vingino",
+      "kop": "Welkom bij Vingino",
+      "tekst": "Een welkomstmail met jullie eigen verhaal: het begon met één vintage jeans uit Napels. Daaronder de zeven fits, gratis verzending vanaf €75 en een directe link naar de denim fit guide.",
+      "punten": [
+        "Merkverhaal in twee zinnen, met jullie AW26-campagnefoto",
+        "Drie vaste voordelen: zeven fits, gratis verzending vanaf €75, 2-3 werkdagen levertijd",
+        "Fit guide als tweede stap, zodat ouders sneller de juiste maat kiezen"
+      ]
+    },
+    {
+      "node": "1402:92",
+      "type": "Productspotlight",
+      "onderwerp": "Vier jeans uit de nieuwe collectie",
+      "kop": "Vier jeans uit de nieuwe collectie",
+      "tekst": "Een assortimentsmail met vier jeans uit de nieuwe collectie, elk met fit, prijs en een knop, en onderaan de fit guide voor wie twijfelt over de maat.",
+      "punten": [
+        "Keaton Special, Luciano, Cita Special en Cecilia met jullie eigen packshots",
+        "Per jeans de fit in één regel, zodat het verschil meteen duidelijk is",
+        "Afsluiting met de fit guide voor twijfel over maat of pasvorm"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

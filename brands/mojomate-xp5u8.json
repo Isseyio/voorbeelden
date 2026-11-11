@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "mojomate-xp5u8",
+  "merk": "Mojo Maté",
+  "domein": "drinkmojomate.com",
+  "lead_id": "2026-11-11-drinkmojomate.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#009A62",
+  "kop": "Drie advertenties voor smooth energie in een blik.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Mojo Maté, ik heb dit gemaakt omdat jullie blikken met die kleuren en dat lettertype al half een advertentie zijn, en het verhaal over 80 mg cafeïne zonder crash heel goed werkt in een paar seconden. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1402:138",
+      "titel": "Smooth",
+      "waarom": "Eén groot woord en de drie blikken laten tijdens het scrollen in een tel zien wat je krijgt: energie zonder dip."
+    },
+    {
+      "node": "1402:139",
+      "titel": "Jouw dag, zonder dip",
+      "waarom": "Een dagplanning met vaste momenten maakt van een blikje een gewoonte, en gewoontes zorgen voor herhaalaankopen."
+    },
+    {
+      "node": "1402:140",
+      "titel": "Je middag belt",
+      "waarom": "Een speels belscherm valt op tussen gewone posts en past bij de humor van jullie eigen campagnes."
+    }
+  ],
+  "waarom": {
+    "niche": "drank",
+    "kop": "Zo groeien drankmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw drankje niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende tray.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij drankmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij drankmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1402:141",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Mates",
+    "kop": "Welkom bij de Mates",
+    "tekst": "Een welkomstmail die nieuwe inschrijvers in één keer de drie smaken laat zien, met per smaak een korte omschrijving en een eigen knop. Jullie site heeft nu nog geen inschrijving voor een nieuwsbrief; dit is de mail die je daarna automatisch verstuurt.",
+    "punten": [
+      "Drie smaken met eigen kleurblok en knop",
+      "80 mg natuurlijke cafeïne als vast haakje",
+      "Waarom Mojo: schaduwgeteeld, biologisch, B Corp"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1402:141",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Mates",
+      "kop": "Welkom bij de Mates",
+      "tekst": "Een welkomstmail die nieuwe inschrijvers in één keer de drie smaken laat zien, met per smaak een korte omschrijving en een eigen knop. Jullie site heeft nu nog geen inschrijving voor een nieuwsbrief; dit is de mail die je daarna automatisch verstuurt.",
+      "punten": [
+        "Drie smaken met eigen kleurblok en knop",
+        "80 mg natuurlijke cafeïne als vast haakje",
+        "Waarom Mojo: schaduwgeteeld, biologisch, B Corp"
+      ]
+    },
+    {
+      "node": "1402:142",
+      "type": "Merkverhaal",
+      "onderwerp": "Waar je blikje begint",
+      "kop": "Gegroeid in de schaduw",
+      "tekst": "Een verhaalmail over waar de yerba maté vandaan komt: het Atlantisch Woud, eens per twee jaar geoogst en direct ingekocht. Met het blik en zijn vier ingrediënten in beeld, en een afsluiting over smooth energie.",
+      "punten": [
+        "Vier stappen van bos tot blik",
+        "Blik met labels voor de vier ingrediënten",
+        "Afsluiting met 80 mg cafeïne en een knop naar de shop"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
