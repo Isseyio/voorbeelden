@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "marlies-p9qef",
+  "merk": "marlies|dekkers",
+  "domein": "marliesdekkers.com",
+  "lead_id": "2026-10-31-marliesdekkers.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1A1A1A",
+  "kop": "Drie nieuwe invalshoeken voor marlies|dekkers.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team marlies|dekkers, ik heb dit gemaakt omdat de signature bandjes van Space Odyssey en Dame de Paris zich goed lenen voor steeds nieuwe invalshoeken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1529:2",
+      "titel": "Reviews als bewijs",
+      "waarom": "Ruim 3.000 reviews met gemiddeld 4,7 sterren nemen twijfel weg bij iemand die het merk nog niet kent."
+    },
+    {
+      "node": "1529:20",
+      "titel": "Twee karakters",
+      "waarom": "Twee modellen naast elkaar laten kiezen voelt als winkelen, en elke kleur spreekt een andere doelgroep aan."
+    },
+    {
+      "node": "1529:38",
+      "titel": "Tijdelijk de helft",
+      "waarom": "Een heldere prijs met het echte aanbod geeft mensen die al twijfelden een reden om nu te kijken."
+    }
+  ],
+  "waarom": {
+    "niche": "lingerie",
+    "kop": "Zo groeien lingeriemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe bh niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe invalshoeken testen houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij lingerie- en modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Hunkemöller nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1530:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij marlies|dekkers, je 10% korting staat klaar",
+    "kop": "welkom, fijn dat je er bent",
+    "tekst": "Een welkomstmail die direct na inschrijving de beloofde 10% korting geeft, de vaste voordelen uitlegt en nieuwe inschrijvers naar de fitting room stuurt.",
+    "punten": [
+      "10% korting op de eerste bestelling, zoals beloofd in de footer",
+      "30 dagen retour en gratis verzending vanaf €150 meteen duidelijk",
+      "Fitting room als hulp bij de maatkeuze"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1530:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij marlies|dekkers, je 10% korting staat klaar",
+      "kop": "welkom, fijn dat je er bent",
+      "tekst": "Een welkomstmail die direct na inschrijving de beloofde 10% korting geeft, de vaste voordelen uitlegt en nieuwe inschrijvers naar de fitting room stuurt.",
+      "punten": [
+        "10% korting op de eerste bestelling, zoals beloofd in de footer",
+        "30 dagen retour en gratis verzending vanaf €150 meteen duidelijk",
+        "Fitting room als hulp bij de maatkeuze"
+      ]
+    },
+    {
+      "node": "1530:35",
+      "type": "Productspotlight",
+      "onderwerp": "Space Odyssey in rood kant, en hoe hij zich verhoudt tot Dame de Paris",
+      "kop": "space odyssey, in rood kant",
+      "tekst": "Eén model uitgelicht met de details die je op de foto niet meteen ziet, plus een vergelijking met Dame de Paris zodat lezers sneller kiezen.",
+      "punten": [
+        "Callouts bij de echte packshot: bandjes, kant, gerecycled garen",
+        "Vergelijkingstabel van twee modellen: kleur, materiaal, cups, prijs",
+        "Afsluiter met beide bh's en de bijpassende sets"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
