@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "bohemidogs-4wcvy",
+  "merk": "Bohemi Dogs",
+  "domein": "bohemidogs.nl",
+  "lead_id": "2026-11-05-bohemidogs.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#D9A559",
+  "kop": "Handgeweven halsbanden op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Bohemi Dogs, ik heb dit gemaakt omdat jullie halsbanden met de hand geweven zijn en dat in een close-up meteen opvalt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1525:3",
+      "titel": "Elke halsband is anders",
+      "waarom": "Een close-up van het weefwerk laat in één seconde zien wat handgemaakt betekent."
+    },
+    {
+      "node": "1525:24",
+      "titel": "Handgeweven riemen",
+      "waarom": "Drie riemen naast elkaar tonen de keuze en maken de halsband-plus-riem combinatie logisch."
+    },
+    {
+      "node": "1525:38",
+      "titel": "Een nieuwe wandeling belt",
+      "waarom": "Een speels concept dat opvalt tussen gewone productfoto's en blijft hangen bij hondenbaasjes."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien huisdierenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk voor hun hond niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Katlyma nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1525:51",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Bohemi",
+    "kop": "Welkom bij Bohemi",
+    "tekst": "Fijn dat je er bent. Bij ons vind je halsbanden en riemen van echt runderleer, met de hand geweven in een boho design.",
+    "punten": [
+      "Handgeweven: daardoor is elke halsband uniek",
+      "Echt runderleer met metalen gesp en D-ring",
+      "Van XSmall (21 tot 26 cm) tot XLarge (50 tot 62 cm)"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1525:51",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Bohemi",
+      "kop": "Welkom bij Bohemi",
+      "tekst": "Fijn dat je er bent. Bij ons vind je halsbanden en riemen van echt runderleer, met de hand geweven in een boho design.",
+      "punten": [
+        "Handgeweven: daardoor is elke halsband uniek",
+        "Echt runderleer met metalen gesp en D-ring",
+        "Van XSmall (21 tot 26 cm) tot XLarge (50 tot 62 cm)"
+      ]
+    },
+    {
+      "node": "1525:86",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom geen enkele halsband hetzelfde is",
+      "kop": "Iedere halsband is uniek",
+      "tekst": "Onze halsbanden zijn gemaakt van echt runderleer met een boho design. Omdat ze met de hand worden geweven, heeft iedere halsband een eigen uitstraling.",
+      "punten": [
+        "Bohemi Ibiza halsband, 3½ cm breed, €44,95",
+        "Kleurrijke looplijnen van 138 cm, vanaf €49,95",
+        "De perfecte aanvulling op je halsband"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
