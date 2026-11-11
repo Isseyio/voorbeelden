@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "mevrouwcha-5snmg",
+  "merk": "Mevrouw Cha",
+  "domein": "mevrouwcha.nl",
+  "lead_id": "2026-10-30-mevrouwcha.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E06B53",
+  "kop": "Drie advertenties voor losse thee van een échte theesommelier.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Mevrouw Cha, ik heb dit gemaakt omdat verveine die Linda zelf plant en oogst in haar eigen theetuin een verhaal is dat bijna niemand anders kan vertellen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1429:3",
+      "titel": "Drie theeën, één doosje",
+      "waarom": "Het proefpakket met de drie theeën ernaast laat in één blik zien wat je krijgt, met de echte prijs erbij."
+    },
+    {
+      "node": "1429:38",
+      "titel": "Uit eigen theetuin",
+      "waarom": "Grote woorden met foto's van Linda en de tuin ertussen maken het verhaal achter de verveine meteen zichtbaar."
+    },
+    {
+      "node": "1429:68",
+      "titel": "Een thee voor elk moment",
+      "waarom": "Een dagplanning met drie theeën maakt van losse thee een gewoonte, en gewoontes zorgen voor herhaalaankopen."
+    }
+  ],
+  "waarom": {
+    "niche": "thee",
+    "kop": "Zo groeien theemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw theemerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun thee op is.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drankmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Simon Lévelt nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1430:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Fijn dat je er bent",
+    "kop": "Fijn dat je er bent.",
+    "tekst": "Een welkomstmail voor wie zich via de nieuwsbriefpagina inschrijft: wie Linda is, het cafeïnevrije proefpakket als eerste kennismaking en hoe je verveine zet.",
+    "punten": [
+      "Proefpakket als eerste aankoop",
+      "Drie redenen: vers van de theeboer, gratis verzending vanaf €50, theehuis in Stompetoren",
+      "Zettips voor verveine uit eigen theetuin"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1430:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Fijn dat je er bent",
+      "kop": "Fijn dat je er bent.",
+      "tekst": "Een welkomstmail voor wie zich via de nieuwsbriefpagina inschrijft: wie Linda is, het cafeïnevrije proefpakket als eerste kennismaking en hoe je verveine zet.",
+      "punten": [
+        "Proefpakket als eerste aankoop",
+        "Drie redenen: vers van de theeboer, gratis verzending vanaf €50, theehuis in Stompetoren",
+        "Zettips voor verveine uit eigen theetuin"
+      ]
+    },
+    {
+      "node": "1430:46",
+      "type": "Merkverhaal",
+      "onderwerp": "Thee proeven bij een échte theesommelier",
+      "kop": "Thee proeven bij een échte theesommelier",
+      "tekst": "Een verhaalmail over het theehuis en de theetuin, met verveine als product uit eigen tuin en een uitnodiging voor de theeproeverij.",
+      "punten": [
+        "Theehuis en theetuin als verhaal",
+        "Verveine met labels uit de productpagina",
+        "Afsluiting met de theeproeverij"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

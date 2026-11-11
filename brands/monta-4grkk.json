@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "monta-4grkk",
+  "merk": "Monta Street",
+  "domein": "montasoccer.com",
+  "lead_id": "2026-11-01-montasoccer.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Drie advertenties voor de Monta x Miffy-bal.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Monta Street, ik heb dit gemaakt omdat de nieuwe bal met Miffy en Edgar Davids zo'n sterk verhaal heeft over je eerste bal. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1432:4",
+      "titel": "Stay true",
+      "waarom": "Jullie eigen slogan groot in beeld, met een zoekbalk die laat zien waar freestylers naar zoeken, maakt het merk in één seconde herkenbaar."
+    },
+    {
+      "node": "1432:21",
+      "titel": "Vergeet nooit je eerste bal",
+      "waarom": "Een kop met balfoto's tussen de woorden haakt in op nostalgie en laat meteen de nieuwe Miffy-bal met prijs zien."
+    },
+    {
+      "node": "1432:39",
+      "titel": "Je eerste bal belt",
+      "waarom": "Een speels belscherm valt op tussen gewone posts en zet de bal groot en centraal, met de prijs eronder."
+    }
+  ],
+  "waarom": {
+    "niche": "street soccer",
+    "kop": "Zo groeien voetbalmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw voetbalmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe spelers en verzamelaars en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen bij de volgende collab.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sportmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "190+",
+        "label": "advertenties heeft voetbalwebshop Unisport nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1434:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Monta Street",
+    "kop": "Welkom bij Monta Street",
+    "tekst": "Straatvoetbal is een lifestyle. Een welkomstmail die het verhaal van Monta vertelt, de nieuwe Miffy-bal laat zien en nieuwe inschrijvers naar de collabs leidt.",
+    "punten": [
+      "Gepatenteerde ballen voor straat en freestyle",
+      "Signatuur van Edgar Davids op elke bal",
+      "Monta x Miffy x Edgar Davids, €110"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1434:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Monta Street",
+      "kop": "Welkom bij Monta Street",
+      "tekst": "Straatvoetbal is een lifestyle. Een welkomstmail die het verhaal van Monta vertelt, de nieuwe Miffy-bal laat zien en nieuwe inschrijvers naar de collabs leidt.",
+      "punten": [
+        "Gepatenteerde ballen voor straat en freestyle",
+        "Signatuur van Edgar Davids op elke bal",
+        "Monta x Miffy x Edgar Davids, €110"
+      ]
+    },
+    {
+      "node": "1434:34",
+      "type": "Lancering",
+      "onderwerp": "Vergeet nooit je eerste",
+      "kop": "Vergeet nooit je eerste",
+      "tekst": "Een lanceringsmail voor de Monta x Miffy x Edgar Davids Limited Edition Ball, voor freestylers en straatpartijen, om mee te spelen of te bewaren.",
+      "punten": [
+        "Gemaakt voor trucs en straatpartijen",
+        "Handtekening van Edgar Davids als easter egg",
+        "Limited edition, €110"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
