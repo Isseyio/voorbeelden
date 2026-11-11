@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "rau-ndcdn",
+  "merk": "RAU Readers",
+  "domein": "raureaders.com",
+  "lead_id": "2026-11-11-raureaders.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Drie nieuwe invalshoeken voor RAU Readers",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team RAU Readers, ik heb dit gemaakt omdat jullie met de Bazaar een bril hebben die ver kijken en lezen combineert, en dat verhaal leent zich goed voor nieuwe advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1658:3",
+      "titel": "Prijs groot in beeld",
+      "waarom": "Een duidelijke prijs met jullie logo en een echte modelfoto zegt in één blik waar het over gaat en laat de duim stoppen."
+    },
+    {
+      "node": "1659:2",
+      "titel": "Eén woord: leesbril",
+      "waarom": "Een groot woord en een zoekbalk sluiten aan bij wat mensen zelf zoeken, met de sterktes en twee modellen er direct bij."
+    },
+    {
+      "node": "1659:20",
+      "titel": "Multifocaal uitgelegd",
+      "waarom": "Korte labels laten in één beeld zien hoe de Bazaar werkt, zodat niemand hoeft te raden wat multifocaal betekent."
+    }
+  ],
+  "waarom": {
+    "niche": "brillen",
+    "kop": "Zo groeien brillenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw brillenmerk niet via Google, maar tijdens het scrollen. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe varianten testen houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat kopers terugkomen, bijvoorbeeld voor een tweede bril of een zonneleesbril.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "18–28%",
+        "label": "van de online omzet komt bij accessoiremerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1660:3",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij RAU Readers",
+    "kop": "Welkom bij RAU Readers",
+    "tekst": "Een rustige eerste mail na inschrijving: wie jullie zijn, waarom RAU, en een duwtje naar de leestest zodat nieuwe inschrijvers meteen hun sterkte kiezen.",
+    "punten": [
+      "Modelfoto en merkbelofte bovenaan",
+      "Drie redenen met jullie eigen iconen",
+      "De leestest als volgende stap"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1660:3",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij RAU Readers",
+      "kop": "Welkom bij RAU Readers",
+      "tekst": "Een rustige eerste mail na inschrijving: wie jullie zijn, waarom RAU, en een duwtje naar de leestest zodat nieuwe inschrijvers meteen hun sterkte kiezen.",
+      "punten": [
+        "Modelfoto en merkbelofte bovenaan",
+        "Drie redenen met jullie eigen iconen",
+        "De leestest als volgende stap"
+      ]
+    },
+    {
+      "node": "1661:2",
+      "type": "Productspotlight",
+      "onderwerp": "Ver kijken en lezen met één bril",
+      "kop": "Maak kennis met Bazaar",
+      "tekst": "Een spotlight op de multifocale zonnebril, met een eerlijke vergelijking met de gewone leesbril zodat lezers zelf kiezen.",
+      "punten": [
+        "Uitleg in vier korte labels",
+        "Vergelijking tussen Elle en Bazaar",
+        "Afsluiting met de hele collectie"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
