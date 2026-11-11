@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "outrgs-87jyg",
+  "merk": "OUTRGS",
+  "domein": "outrgs.com",
+  "lead_id": "2026-11-11-outrgs.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C8562A",
+  "kop": "Shirts die opvallen, ook in de feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team OUTRGS, ik heb dit gemaakt omdat jullie prints een eigen verhaal hebben, zoals de mozaïeken achter Shirt Alhambra. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1509:4",
+      "titel": "Sale en portret",
+      "waarom": "Een echte prijs met de oude prijs ernaast valt op en laat meteen zien dat dit het moment is om te kopen."
+    },
+    {
+      "node": "1509:14",
+      "titel": "Het verhaal in de details",
+      "waarom": "Labels op een close-up laten stof, print en knopen zien die je op een kleine foto mist."
+    },
+    {
+      "node": "1509:38",
+      "titel": "OUTRGS belt",
+      "waarom": "Een speels concept met jullie eigen motto stopt het scrollen en past bij de toon van het merk."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw modemerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Dstrezzed nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1511:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij OUTRGS",
+    "kop": "Welkom bij OUTRGS",
+    "tekst": "Een eerste kennismaking: wie jullie zijn, waar de stukken worden ontworpen en gemaakt, en een eerste shirt om mee te beginnen.",
+    "punten": [
+      "Herokaart met Shirt Alhambra",
+      "Ontworpen in Nederland, gemaakt in Portugal, 14 dagen retour",
+      "Life is too short to wear boring clothes als afsluiter"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1511:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij OUTRGS",
+      "kop": "Welkom bij OUTRGS",
+      "tekst": "Een eerste kennismaking: wie jullie zijn, waar de stukken worden ontworpen en gemaakt, en een eerste shirt om mee te beginnen.",
+      "punten": [
+        "Herokaart met Shirt Alhambra",
+        "Ontworpen in Nederland, gemaakt in Portugal, 14 dagen retour",
+        "Life is too short to wear boring clothes als afsluiter"
+      ]
+    },
+    {
+      "node": "1511:52",
+      "type": "Merkverhaal",
+      "onderwerp": "Van Granada naar je kledingkast",
+      "kop": "Van Granada naar je kledingkast",
+      "tekst": "Het verhaal achter Shirt Alhambra: de mozaïeken van het Alhambra, de twee oprichters en de details van het shirt.",
+      "punten": [
+        "Sfeerbeeld van Granada",
+        "Hoe OUTRGS begon in 2020",
+        "Shirt met vier labels en de sale-prijs van €39"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
