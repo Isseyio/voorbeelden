@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "mutsaers-xqm7v",
+  "merk": "Mutsaers Tassen",
+  "domein": "mutsaers.nl",
+  "lead_id": "2026-11-11-mutsaers.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#0A144B",
+  "kop": "Handgemaakt sinds 1962, nu ook in je feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Mutsaers, ik heb dit gemaakt omdat jullie verhaal, drie generaties en een eigen fabriek, zich goed laat vertellen in beeld. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1521:4",
+      "titel": "Hoe hij gemaakt wordt",
+      "waarom": "Drie korte stappen, van Italiaans leer tot het atelier, laten zien waarom een tas van €419 die prijs waard is."
+    },
+    {
+      "node": "1521:21",
+      "titel": "In de hand",
+      "waarom": "Een echte foto van de tas in gebruik, met de belangrijkste kenmerken eromheen, beantwoordt de vragen die iemand bij een laptoptas heeft."
+    },
+    {
+      "node": "1521:37",
+      "titel": "Sinds 1962",
+      "waarom": "Een grote kop met foto's uit de eigen fabriek stopt het scrollen en vertelt in één zin waar Mutsaers voor staat."
+    }
+  ],
+  "waarom": {
+    "niche": "tassen",
+    "kop": "Zo groeien tassenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw tassenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij tassen- en accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Castelijn & Beerens nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1521:52",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Mutsaers familie",
+    "kop": "Welkom bij de Mutsaers familie.",
+    "tekst": "Fijn dat je er bent. Sinds 1962 maken wij leren tassen met de hand, in ons eigen atelier in Kaatsheuvel.",
+    "punten": [
+      "Sinds 1962, derde generatie familiebedrijf",
+      "Handgemaakt in ons atelier in Kaatsheuvel",
+      "Gratis verzending door heel Nederland"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1521:52",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Mutsaers familie",
+      "kop": "Welkom bij de Mutsaers familie.",
+      "tekst": "Fijn dat je er bent. Sinds 1962 maken wij leren tassen met de hand, in ons eigen atelier in Kaatsheuvel.",
+      "punten": [
+        "Sinds 1962, derde generatie familiebedrijf",
+        "Handgemaakt in ons atelier in Kaatsheuvel",
+        "Gratis verzending door heel Nederland"
+      ]
+    },
+    {
+      "node": "1521:83",
+      "type": "Merkverhaal",
+      "onderwerp": "Zo ontstaat een Mutsaers",
+      "kop": "Meer dan 55 jaar vakmanschap in elke tas.",
+      "tekst": "Van Italiaans, plantaardig gelooid leer tot de laatste steek in de eigen fabriek: het verhaal achter The Classic.",
+      "punten": [
+        "Italiaans leer, plantaardig gelooid",
+        "Met de hand gemaakt in Kaatsheuvel",
+        "The Classic vanaf €419",
+        "Persoonlijk maken kan ook"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

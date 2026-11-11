@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "couchclues-xwn74",
+  "merk": "Couch Clues",
+  "domein": "couchclues.com",
+  "lead_id": "2026-10-31-couchclues.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#7556F4",
+  "kop": "Drie nieuwe invalshoeken voor jullie tv-escape rooms",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Couch Clues, ik heb dit gemaakt omdat jullie een escape room naar de bank brengen, met echte acteurs in plaats van AI-video. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1524:4",
+      "titel": "Ruil Netflix in",
+      "waarom": "Een grote kop met jullie eigen foto's tussen de woorden zegt in één blik wat Couch Clues is: een moordzaak oplossen in plaats van nog een serie kijken."
+    },
+    {
+      "node": "1524:25",
+      "titel": "De detective belt",
+      "waarom": "Een inkomend gesprek met de hoes van A Toxic Case is speels en maakt nieuwsgierig, en het valt op tussen gewone advertenties in de feed."
+    },
+    {
+      "node": "1524:36",
+      "titel": "Echte reviews",
+      "waarom": "Drie echte reviews en de score van 4,8 uit 257 reviews over jullie vriendenfoto nemen twijfel weg bij mensen die het concept nog niet kennen."
+    }
+  ],
+  "waarom": {
+    "niche": "spellen en cadeaus",
+    "kop": "Zo groeien spellen- en cadeaumerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw spel niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe: dezelfde mensen zien hem steeds weer en klikken minder. Merken die elke week nieuwe invalshoeken testen, houden hun kosten per aankoop laag.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft City Adventures nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1524:83",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Couch Clues",
+    "kop": "Welkom bij Couch Clues",
+    "tekst": "Een eerste mail na de aanmelding die uitlegt hoe een escape room op je eigen tv werkt, in drie stappen, en die laat zien dat je ook op afstand samen kunt spelen.",
+    "punten": [
+      "Herokaart met A Toxic Case en één duidelijke knop",
+      "Zo werkt het: spel kiezen, telefoon pakken, zaak oplossen",
+      "De geld-terug-belofte na drie puzzels"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1524:83",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Couch Clues",
+      "kop": "Welkom bij Couch Clues",
+      "tekst": "Een eerste mail na de aanmelding die uitlegt hoe een escape room op je eigen tv werkt, in drie stappen, en die laat zien dat je ook op afstand samen kunt spelen.",
+      "punten": [
+        "Herokaart met A Toxic Case en één duidelijke knop",
+        "Zo werkt het: spel kiezen, telefoon pakken, zaak oplossen",
+        "De geld-terug-belofte na drie puzzels"
+      ]
+    },
+    {
+      "node": "1524:113",
+      "type": "Productspotlight",
+      "onderwerp": "Vanavond lossen jullie een zaak op",
+      "kop": "A Case in Paradise voor jullie date night",
+      "tekst": "Een mail rond één spel: de verdwenen sculptuur in het kasteelhotel, met de kenmerken op een rij en het verhaal van de escape room-ontwerpers erachter.",
+      "punten": [
+        "Jullie eigen date-night-foto als opening",
+        "2 tot 5 spelers, ongeveer 2 uur, echte acteurs",
+        "Afsluiting met het team en de geld-terug-belofte"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
