@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "billieswim-254h7",
+  "merk": "Billie Swim",
+  "domein": "billieswim.com",
+  "lead_id": "2026-10-30-billieswim.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2E3037",
+  "kop": "Badmode die blijft, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Billie Swim, ik heb dit gemaakt omdat jullie foto's met die ivoren bies en strikbandjes zo goed werken in een feed. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1446:3",
+      "titel": "Gemaakt om te blijven",
+      "waarom": "Een grote typografische kop met jullie foto's ertussen valt op tussen gewone modeposts en vertelt meteen waar Billie Swim voor staat."
+    },
+    {
+      "node": "1446:27",
+      "titel": "Elk detail telt",
+      "waarom": "Een close-up met uitleg bij de strikbandjes en het materiaal laat zien waarom de prijs klopt."
+    },
+    {
+      "node": "1446:49",
+      "titel": "Sardegna One Piece, €125",
+      "waarom": "Prijs en product in één oogopslag helpt mensen die al twijfelen om door te klikken."
+    }
+  ],
+  "waarom": {
+    "niche": "badmode",
+    "kop": "Zo groeien badmodemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw badmodemerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft CYELL nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1448:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Billie Swim",
+    "kop": "Welkom bij Billie Swim",
+    "tekst": "Fijn dat je er bent. Wij maken badmode van gerecycled polyamide uit Italië, ontworpen om jaren mee te gaan.",
+    "punten": [
+      "Gerecycled polyamide uit Italië",
+      "78% nylon, 22% elastaan",
+      "14 dagen retour, gratis EU-verzending vanaf €200"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1448:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Billie Swim",
+      "kop": "Welkom bij Billie Swim",
+      "tekst": "Fijn dat je er bent. Wij maken badmode van gerecycled polyamide uit Italië, ontworpen om jaren mee te gaan.",
+      "punten": [
+        "Gerecycled polyamide uit Italië",
+        "78% nylon, 22% elastaan",
+        "14 dagen retour, gratis EU-verzending vanaf €200"
+      ]
+    },
+    {
+      "node": "1448:41",
+      "type": "Merkverhaal",
+      "onderwerp": "Het verhaal achter Billie",
+      "kop": "Slow fashion, voor het water.",
+      "tekst": "Billie Swim is opgericht door Marjolein Schoot Uiterkamp. Daarom gerecycled polyamide uit Italië en een afwerking die jaren meegaat, met de Sardegna in detail.",
+      "punten": [
+        "Strikbandjes om de heup te knopen",
+        "Ivoren bies langs elke rand",
+        "Sardegna One Piece, €125"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
