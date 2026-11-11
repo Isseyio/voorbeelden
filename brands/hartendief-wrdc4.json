@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "hartendief-wrdc4",
+  "merk": "Hartendief",
+  "domein": "hartendief.com",
+  "lead_id": "2026-11-11-hartendief.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2F3337",
+  "kop": "Handgeschilderde werelden van Hartendief, voor elke kinderkamer.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Hartendief, ik heb dit gemaakt omdat ik het mooi vind hoe de Ga Slapen Maan ’s avonds verandert in een bos vol dieren. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1735:41",
+      "titel": "Overdag en ’s nachts",
+      "waarom": "Twee beelden naast elkaar laten in één oogopslag zien wat de lamp zo bijzonder maakt."
+    },
+    {
+      "node": "1735:67",
+      "titel": "Schildpad Droom van dichtbij",
+      "waarom": "Korte labels rond het product beantwoorden de vragen van ouders voordat ze die stellen."
+    },
+    {
+      "node": "1735:93",
+      "titel": "Van aquarel tot wandlamp",
+      "waarom": "Het verhaal achter het handwerk geeft de prijs betekenis en past bij hoe Hylkia werkt."
+    }
+  ],
+  "waarom": {
+    "niche": "kinderkamer & wonen",
+    "kop": "Zo groeien kinderkamermerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw merk voor de kinderkamer niet via Google, maar tijdens het scrollen op Instagram en Pinterest. Merken die elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat ouders terugkomen voor de volgende lamp of behangcirkel.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij interieurmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1735:137",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in de wereld van Hartendief",
+    "kop": "Welkom in de wereld van Hartendief.",
+    "tekst": "Fijn dat je er bent. Als welkomstcadeau krijg je onze printbare sterrenkaart.",
+    "punten": [
+      "Handgeschilderd: elk ontwerp begint als aquarel",
+      "Gemaakt in Nederland met lokale partners",
+      "30 dagen bedenktijd"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1735:137",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in de wereld van Hartendief",
+      "kop": "Welkom in de wereld van Hartendief.",
+      "tekst": "Fijn dat je er bent. Als welkomstcadeau krijg je onze printbare sterrenkaart.",
+      "punten": [
+        "Handgeschilderd: elk ontwerp begint als aquarel",
+        "Gemaakt in Nederland met lokale partners",
+        "30 dagen bedenktijd"
+      ]
+    },
+    {
+      "node": "1735:176",
+      "type": "Productspotlight",
+      "onderwerp": "Een sprookje aan de muur",
+      "kop": "Een sprookje aan de muur.",
+      "tekst": "Lampen, behangcirkels en muurstickers die samen één wereld maken in de kinderkamer.",
+      "punten": [
+        "Ga Slapen Maan wandlamp, € 79,95",
+        "Schildpad Droom wandlamp, € 79,95",
+        "Beren en Roodborstje behangcirkel mini, € 69,95",
+        "Grote Beer muursticker, € 49,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

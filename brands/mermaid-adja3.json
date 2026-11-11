@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "mermaid-adja3",
+  "merk": "Mermaid Sisters",
+  "domein": "mermaidsisters.nl",
+  "lead_id": "2026-11-11-mermaidsisters.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E0479A",
+  "kop": "Zwemmen als een echte zeemeermin, met Mermaid Sisters.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Mermaid Sisters, ik heb dit gemaakt omdat ik het leuk vind dat er bij elke zeemeerminbestelling een cadeautje in de doos zit. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1735:3",
+      "titel": "Zwemmen als een zeemeermin",
+      "waarom": "Grote woorden met kleine foto's van echte zwemmers laten in een seconde zien wat een kind met de set gaat beleven."
+    },
+    {
+      "node": "1735:18",
+      "titel": "Gemaakt om mee te zwemmen",
+      "waarom": "Ouders willen weten of een staart lang meegaat; vier echte details en de garantie beantwoorden die vraag vooraf."
+    },
+    {
+      "node": "1735:235",
+      "titel": "Er belt een zeemeermin",
+      "waarom": "Een speels belscherm valt op tussen gewone advertenties en past bij een merk dat kinderen blij maakt."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien kinder- en babymerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende staart of een AirTrack.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kinder- en babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Watery nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1735:248",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Mermaid Sisters",
+    "kop": "Welkom bij de Mermaid Sisters.",
+    "tekst": "Fijn dat je er bent. Wij zijn de zussen Lara en Lisa, en we helpen kinderen zwemmen als een echte zeemeermin.",
+    "punten": [
+      "Gratis cadeau bij elke zeemeerminbestelling",
+      "Voor 14:00 besteld, dezelfde dag verzonden",
+      "12 maanden garantie op elke zeemeerminstaart"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1735:248",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Mermaid Sisters",
+      "kop": "Welkom bij de Mermaid Sisters.",
+      "tekst": "Fijn dat je er bent. Wij zijn de zussen Lara en Lisa, en we helpen kinderen zwemmen als een echte zeemeermin.",
+      "punten": [
+        "Gratis cadeau bij elke zeemeerminbestelling",
+        "Voor 14:00 besteld, dezelfde dag verzonden",
+        "12 maanden garantie op elke zeemeerminstaart"
+      ]
+    },
+    {
+      "node": "1735:282",
+      "type": "Assortimentsmail",
+      "onderwerp": "Alles voor kleine zeemeerminnen",
+      "kop": "Alles voor kleine zeemeerminnen.",
+      "tekst": "Van een complete set tot een zacht badlaken voor na het zwemmen: vier favorieten naast elkaar, met prijs en een knop per product.",
+      "punten": [
+        "Zeemeermin set met staart, bikini en monovin: € 75,95",
+        "Losse zeemeerminstaart, met of zonder monovin",
+        "MMS AirTrack Plus met elektrische pomp en draagtas"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
