@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "henribolt-kwbfb",
+  "merk": "Henri Bolt",
+  "domein": "henribolt.com",
+  "lead_id": "2026-11-01-henribolt.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E8642C",
+  "kop": "Nieuwe invalshoeken voor Henri Bolt",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Henri Bolt, ik heb dit gemaakt omdat jullie handgeverfde tie dyes en kleurrijke foto's zich goed lenen voor steeds nieuwe advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1426:3",
+      "titel": "Eén shirt, twee kleuren",
+      "waarom": "Earth en aqua naast elkaar laten kiezen voelt als winkelen en laat zien dat elk stuk uniek is."
+    },
+    {
+      "node": "1426:30",
+      "titel": "Longsleeves vanaf €79",
+      "waarom": "Een sterke modelfoto met een duidelijke prijs en groot logo werkt goed bij mensen die jullie al kennen."
+    },
+    {
+      "node": "1426:42",
+      "titel": "Inkomende oproep",
+      "waarom": "Een speels belscherm valt op in de feed en brengt de nieuwe Dukes collectie onder de aandacht."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "Een paar advertenties doen vaak het meeste werk en worden na een paar weken moe, omdat dezelfde mensen ze steeds weer zien. Modemerken die elke week nieuwe varianten testen, houden hun kosten per aankoop laag en blijven nieuwe kopers vinden. Een vaste nieuwsbrief zorgt dat die kopers terugkomen bij een nieuwe collectie.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Alva Atelier nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1426:56",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Henri Bolt",
+    "kop": "Welkom bij Henri Bolt",
+    "tekst": "Een welkomstmail voor wie zich inschrijft via 'Stay tuned!': wie jullie zijn, vier favorieten en jullie duurzame kant.",
+    "punten": [
+      "Hero met de July collection",
+      "Vier favorieten met prijs: tie dye earth en aqua, camo tee, everything bag",
+      "Blok 'Welcome to our planet' van Thomas & Tessa"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1426:56",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Henri Bolt",
+      "kop": "Welkom bij Henri Bolt",
+      "tekst": "Een welkomstmail voor wie zich inschrijft via 'Stay tuned!': wie jullie zijn, vier favorieten en jullie duurzame kant.",
+      "punten": [
+        "Hero met de July collection",
+        "Vier favorieten met prijs: tie dye earth en aqua, camo tee, everything bag",
+        "Blok 'Welcome to our planet' van Thomas & Tessa"
+      ]
+    },
+    {
+      "node": "1426:117",
+      "type": "Productspotlight",
+      "onderwerp": "Earth of aqua?",
+      "kop": "Earth of aqua?",
+      "tekst": "De twee handgeverfde tie dye longsleeves naast elkaar, met de details uitgelicht en een duidelijke vergelijking.",
+      "punten": [
+        "Modelhero met de tie dye earth",
+        "Details: zeefdruk op de rug, geborduurd logo, logo's op de mouwen",
+        "Vergelijking earth en aqua: kleur, prijs, pasvorm, materiaal"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

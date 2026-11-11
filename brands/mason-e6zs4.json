@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "mason-e6zs4",
+  "merk": "Mason Garments",
+  "domein": "masongarments.com",
+  "lead_id": "2026-10-31-masongarments.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Drie nieuwe invalshoeken en twee nieuwsbrieven voor Mason Garments, rond de Maranello en jullie verhaal van Amsterdam en Italië.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Mason Garments, ik heb dit gemaakt omdat jullie verhaal zo helder is: ontworpen in Amsterdam, met de hand gemaakt in Italië, en dat zie je terug in elk detail van de Maranello. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1416:2",
+      "titel": "De details van de Maranello",
+      "waarom": "Vier labels bij de echte productfoto laten in één blik zien waar de prijs in zit: suède uit Italië, metalen details, een gum zool en een zachte binnenkant."
+    },
+    {
+      "node": "1416:33",
+      "titel": "Amsterdam en Italië",
+      "waarom": "Jullie eigen verhaal als grote kop, met foto's uit de winkel en het atelier ertussen, valt op tussen gewone productposts en eindigt bij één sneaker met één prijs."
+    },
+    {
+      "node": "1416:50",
+      "titel": "Kies je kleur",
+      "waarom": "Eén model in vier kleuren naast elkaar maakt de keuze makkelijk, en de zoekbalk sluit aan op hoe mensen naar een sneaker zoeken."
+    }
+  ],
+  "waarom": {
+    "niche": "schoenen",
+    "kop": "Zo groeien schoenenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sneakermerk niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe varianten testen houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor het volgende paar.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij schoenenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "300+",
+        "label": "advertenties heeft Axel Arigato nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1422:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Mason Garments",
+    "kop": "Welkom bij Mason Garments",
+    "tekst": "Een rustige welkomstmail in jullie eigen stijl: ontworpen in Amsterdam, met de hand gemaakt in Italië, sinds 2012. Daaronder drie vaste beloftes en een blok dat helpt bij het kiezen van de juiste maat.",
+    "punten": [
+      "Donkere herokaart met de Maranello Suede Bordo en één duidelijke knop naar de collectie",
+      "Drie beloftes: met de hand gemaakt in Italië, leer van LWG-leerlooierijen, 14 dagen bedenktijd",
+      "Maatblok: de Maranello en de Napoli vallen smal, kies een maat groter"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1422:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Mason Garments",
+      "kop": "Welkom bij Mason Garments",
+      "tekst": "Een rustige welkomstmail in jullie eigen stijl: ontworpen in Amsterdam, met de hand gemaakt in Italië, sinds 2012. Daaronder drie vaste beloftes en een blok dat helpt bij het kiezen van de juiste maat.",
+      "punten": [
+        "Donkere herokaart met de Maranello Suede Bordo en één duidelijke knop naar de collectie",
+        "Drie beloftes: met de hand gemaakt in Italië, leer van LWG-leerlooierijen, 14 dagen bedenktijd",
+        "Maatblok: de Maranello en de Napoli vallen smal, kies een maat groter"
+      ]
+    },
+    {
+      "node": "1422:36",
+      "type": "Merkverhaal",
+      "onderwerp": "Zo wordt een Mason gemaakt",
+      "kop": "Zo wordt een Mason gemaakt",
+      "tekst": "Een merkverhaal met jullie eigen winkelfoto en het verhaal sinds 2012. Daarna de Maranello met vier labels voor de details die jullie zelf noemen, en een donkere afsluiting met prijs en knop.",
+      "punten": [
+        "Hero met jullie eigen interieurfoto en een knop naar het atelier",
+        "Kaart met het verhaal van Rendi Aditia en de Italiaanse productie",
+        "Maranello Suede Bordo met labels: voering, metalen details, gum zool, suède, en een afsluiting met €250"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

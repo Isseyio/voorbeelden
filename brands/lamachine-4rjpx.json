@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "lamachine-4rjpx",
+  "merk": "La Machine",
+  "domein": "lamachine.cc",
+  "lead_id": "2026-10-30-lamachine.cc",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Off-bike essentials, elke week een nieuwe invalshoek.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team La Machine, ik heb dit gemaakt omdat jullie sweaters zelf al met een grap beginnen, en dat is op Instagram goud waard. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1421:4",
+      "titel": "Ik rem voor croissants",
+      "waarom": "De tekst van de sweater zelf als kop maakt het product meteen herkenbaar en laat mensen glimlachen."
+    },
+    {
+      "node": "1421:5",
+      "titel": "10% op je eerste bestelling",
+      "waarom": "Een duidelijke welkomstkorting met een sterke foto haalt nieuwe kopers over de drempel."
+    },
+    {
+      "node": "1421:6",
+      "titel": "Voor de rit, na de rit",
+      "waarom": "Twee momenten naast elkaar laten in een oogopslag zien waar off-bike kleding voor is."
+    }
+  ],
+  "waarom": {
+    "niche": "sport & outdoor",
+    "kop": "Zo groeien fietsmerken op Instagram.",
+    "tekst": "Fietsers ontdekken een nieuw merk vaak tijdens het scrollen, na de rit. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers bij de volgende drop terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sport- en outdoormerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Café du Cycliste nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1421:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Bienvenue à La Machine",
+    "kop": "Bienvenue à La Machine.",
+    "tekst": "Een welkomstmail die de 10% voor de eerste bestelling meteen laat zien, met drie sweaters en de sokkenbundel als start.",
+    "punten": [
+      "10% op de eerste bestelling",
+      "Tarmac Cartel, Vai Vai Vai en Vamos Vamos Vamos",
+      "No Watts No Glory sokkenbundel"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1421:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Bienvenue à La Machine",
+      "kop": "Bienvenue à La Machine.",
+      "tekst": "Een welkomstmail die de 10% voor de eerste bestelling meteen laat zien, met drie sweaters en de sokkenbundel als start.",
+      "punten": [
+        "10% op de eerste bestelling",
+        "Tarmac Cartel, Vai Vai Vai en Vamos Vamos Vamos",
+        "No Watts No Glory sokkenbundel"
+      ]
+    },
+    {
+      "node": "1421:8",
+      "type": "Merkverhaal",
+      "onderwerp": "Begonnen met €500 en een doos shirts",
+      "kop": "Begonnen met €500 en een doos shirts.",
+      "tekst": "Het verhaal van 2013 tot EF Pro Cycling, met de Social Cycling Club hoodie in de hoofdrol.",
+      "punten": [
+        "Van 2013 tot 2026 in vier stappen",
+        "Social Cycling Club hoodie met kenmerken",
+        "La Machine x EF Pro Cycling als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

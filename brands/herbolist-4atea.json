@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "herbolist-4atea",
+  "merk": "Herbolist",
+  "domein": "herbolist.com",
+  "lead_id": "2026-11-11-herbolist.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#811F4A",
+  "kop": "Drie nieuwe invalshoeken voor Beauty Blend en Collaccino.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Herbolist, ik heb dit gemaakt omdat jullie foto's in het kamillenveld en die roze en paarse blikken al heel herkenbaar zijn. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1423:3",
+      "titel": "Streng op de formule",
+      "waarom": "De ingrediënten als losse labels rond het blik laten in een paar seconden zien wat erin zit en wat er niet in zit."
+    },
+    {
+      "node": "1423:23",
+      "titel": "Echte reviews",
+      "waarom": "Korte reviews van klanten naast een herkenbare foto geven vertrouwen bij mensen die Herbolist nog niet kennen."
+    },
+    {
+      "node": "1423:43",
+      "titel": "€0,30 per dag",
+      "waarom": "Een prijs per dag maakt een dagelijks product klein en concreet, en het grote logo blijft hangen."
+    }
+  ],
+  "waarom": {
+    "niche": "supplementen",
+    "kop": "Zo groeien supplementenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw supplement niet via Google, maar tijdens het scrollen. Een advertentie wordt na een paar weken moe: dezelfde mensen zien hem steeds weer en klikken minder. Merken die elke week nieuwe varianten testen, houden hun kosten per aankoop laag, en een vaste nieuwsbrief zorgt dat kopers terugkomen voor hun volgende pot.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij supplementenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij supplementenmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1424:3",
+    "type": "Welkomstmail",
+    "onderwerp": "Fijn dat je er bent",
+    "kop": "Fijn dat je er bent.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers via het formulier onderaan jullie site: wie Herbolist is, hoe je het gebruikt en een eerste knop naar Beauty Blend en Collaccino.",
+    "punten": [
+      "Beauty Blend als eerste kennismaking",
+      "Eén schepje per dag als vast gebruiksmoment",
+      "Marie Claire en gemaakt in Nederland als vertrouwen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1424:3",
+      "type": "Welkomstmail",
+      "onderwerp": "Fijn dat je er bent",
+      "kop": "Fijn dat je er bent.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers via het formulier onderaan jullie site: wie Herbolist is, hoe je het gebruikt en een eerste knop naar Beauty Blend en Collaccino.",
+      "punten": [
+        "Beauty Blend als eerste kennismaking",
+        "Eén schepje per dag als vast gebruiksmoment",
+        "Marie Claire en gemaakt in Nederland als vertrouwen"
+      ]
+    },
+    {
+      "node": "1424:39",
+      "type": "Productvergelijking",
+      "onderwerp": "Collaccino of Beauty Blend?",
+      "kop": "Collaccino of Beauty Blend?",
+      "tekst": "Een mail die jullie twee collageenpoeders naast elkaar zet, zodat klanten zelf kiezen en makkelijker een tweede product proberen.",
+      "punten": [
+        "Twee producten naast elkaar met eigen knop",
+        "Korte vergelijkingstabel met wat op het blik staat",
+        "Afsluiting met een knop per product"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

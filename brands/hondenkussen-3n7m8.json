@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "hondenkussen-3n7m8",
+  "merk": "Hondenkussen.com",
+  "domein": "hondenkussen.com",
+  "lead_id": "2026-11-01-hondenkussen.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#FEC526",
+  "kop": "Drie advertenties voor handgemaakte hondenkussens.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Hondenkussen.com, ik heb dit gemaakt omdat jullie al meer dan 20 jaar zelf kussens maken in Nederland, en dat verhaal zie ik nog nergens terug in advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1427:4",
+      "titel": "Dalton in drie kleuren",
+      "waarom": "Eén groot woord, een zoekbalk en de drie kleuren op elkaar laten in een tel zien wat je koopt, met de echte actieprijs erbij."
+    },
+    {
+      "node": "1427:5",
+      "titel": "Bedtijd belt",
+      "waarom": "Een speels belscherm valt op tussen gewone posts, en de hond onder de deken laat direct zien waarom de Snuggle anders is."
+    },
+    {
+      "node": "1427:6",
+      "titel": "Vanaf €64,95",
+      "waarom": "Een grote prijs over een rustige sfeerfoto werkt goed voor mensen die al twijfelen en alleen nog een duwtje nodig hebben."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien huisdiermerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw hondenkussen niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor het volgende kussen of een nieuwe hoes.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdiermerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft By Cee Cee nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1427:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij hondenkussen.com",
+    "kop": "Welkom bij hondenkussen.com",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn (20+ jaar eigen productie in Nederland), de drie redenen om bij jullie te kopen en meteen de vier bestverkochte kussens met prijs en knop. Op de site zag ik nog geen inschrijving voor een nieuwsbrief; dit is de mail die daarna automatisch verstuurd wordt.",
+    "punten": [
+      "Gratis verzending vanaf €69,95 en 30 dagen bedenktijd in de balk",
+      "Handgemaakt, 20+ jaar ervaring en 4,4 op Trustpilot",
+      "Vier bestsellers: Dalton, Snuggle, Pilotenleer en Hondenmand Lobbes"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1427:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij hondenkussen.com",
+      "kop": "Welkom bij hondenkussen.com",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn (20+ jaar eigen productie in Nederland), de drie redenen om bij jullie te kopen en meteen de vier bestverkochte kussens met prijs en knop. Op de site zag ik nog geen inschrijving voor een nieuwsbrief; dit is de mail die daarna automatisch verstuurd wordt.",
+      "punten": [
+        "Gratis verzending vanaf €69,95 en 30 dagen bedenktijd in de balk",
+        "Handgemaakt, 20+ jaar ervaring en 4,4 op Trustpilot",
+        "Vier bestsellers: Dalton, Snuggle, Pilotenleer en Hondenmand Lobbes"
+      ]
+    },
+    {
+      "node": "1427:8",
+      "type": "Productspotlight",
+      "onderwerp": "Waarom wij zelf maken",
+      "kop": "Gemaakt in Nederland, geliefd door honden",
+      "tekst": "Een verhaalmail over de eigen productie, met het Lobbes Hondenkussen Premium Bruin in beeld en vier labels: Oxford nylon, EPS korrels, afneembare hoes en twee maten. Afgesloten met een echte klantfoto uit jullie Wall of fame.",
+      "punten": [
+        "Merkverhaal: 20+ jaar eigen productie",
+        "Product met vier labels uit de productpagina",
+        "Klantfoto en knop naar het kussen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
