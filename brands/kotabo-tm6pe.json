@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "kotabo-tm6pe",
+  "merk": "Kotabo",
+  "domein": "kotabo.nl",
+  "lead_id": "2026-11-04-kotabo.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#7A1F3D",
+  "kop": "Kleur op de bank, in beeld op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Kotabo, ik heb dit gemaakt omdat jullie kussensets in kleuren als Magical Mauve en Olive Oasis op Instagram direct opvallen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1623:2",
+      "titel": "Twee kussens en je bank is af",
+      "waarom": "Een korte kop met sfeerfoto's tussen de woorden laat zien wat een set doet, en de Sienne-set met prijs staat er groot onder."
+    },
+    {
+      "node": "1623:21",
+      "titel": "Franjes",
+      "waarom": "Eén groot woord en een zoekbalk sluiten aan op waar mensen zelf naar zoeken, met drie kussens en hun prijs eronder."
+    },
+    {
+      "node": "1623:46",
+      "titel": "Welke set past bij jouw bank?",
+      "waarom": "Twee sets naast elkaar helpen kiezen en verwijzen naar jullie keuzehulp met 5% korting."
+    }
+  ],
+  "waarom": {
+    "niche": "interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken nieuwe kussens en woonaccessoires niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Xenos nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1624:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Kotabo",
+    "kop": "Welkom bij Kotabo",
+    "tekst": "Fijn dat je er bent. Onze kleuren zijn gekozen met advies van interieurstylisten, en bij elk kussen zit het binnenkussen er al bij.",
+    "punten": [
+      "Doe de keuzehulp: 7 korte vragen en 5% korting",
+      "Binnenkussen inbegrepen en een cadeau bij elke order",
+      "Gratis verzending vanaf €99",
+      "Twijfel je over kleuren? Online interieuradvies van 30 minuten"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1624:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Kotabo",
+      "kop": "Welkom bij Kotabo",
+      "tekst": "Fijn dat je er bent. Onze kleuren zijn gekozen met advies van interieurstylisten, en bij elk kussen zit het binnenkussen er al bij.",
+      "punten": [
+        "Doe de keuzehulp: 7 korte vragen en 5% korting",
+        "Binnenkussen inbegrepen en een cadeau bij elke order",
+        "Gratis verzending vanaf €99",
+        "Twijfel je over kleuren? Online interieuradvies van 30 minuten"
+      ]
+    },
+    {
+      "node": "1624:42",
+      "type": "Assortiment",
+      "onderwerp": "Een nieuwe kleur op je bank",
+      "kop": "Een nieuwe kleur op je bank",
+      "tekst": "Vier kussens om mee te beginnen: effen, met franjes of met een golfrand, en het binnenkussen zit er steeds bij.",
+      "punten": [
+        "Pretty in Pink met franjes, Magical Mauve, Olive Oasis x Plum Powder en XL Magical Mauve",
+        "Elk product met prijs en een eigen knop",
+        "4,7 uit 5 op Trustpilot (64 reviews) als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

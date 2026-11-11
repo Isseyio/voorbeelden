@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "mydeer-9sbxs",
+  "merk": "My Deer Art Shop",
+  "domein": "mydeerartshop.nl",
+  "lead_id": "2026-11-11-mydeerartshop.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2B2622",
+  "kop": "Kunst voor elke muur, elke week in beeld",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team My Deer Art Shop, ik heb dit gemaakt omdat jullie trapfoto vol art prints zo goed laat zien wat een wand met Maaikes werk doet. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1628:2",
+      "titel": "Elke tweede print −50%",
+      "waarom": "Jullie lopende actie groot bovenaan en de echte trapfoto eronder: wie scrolt ziet in één keer het aanbod én hoe de prints thuis hangen."
+    },
+    {
+      "node": "1628:12",
+      "titel": "P.S. Je t'aime van dichtbij",
+      "waarom": "Een detailfoto met korte labels (gesigneerd, genummerd, 250 g FSC-papier, oplage 250) laat zien waarom een limited edition meer is dan een poster."
+    },
+    {
+      "node": "1628:35",
+      "titel": "Kunst voor elke muur",
+      "waarom": "Een grote kop met jullie interieurfoto's tussen de woorden, en Getaway met prijs en gratis inlijstservice eronder, geeft meteen een reden om te klikken."
+    }
+  ],
+  "waarom": {
+    "niche": "wanddecoratie",
+    "kop": "Zo groeien merken in wanddecoratie op Instagram.",
+    "tekst": "De meeste mensen ontdekken nieuwe kunst voor aan de muur niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij merken in wanddecoratie en posters vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "80+",
+        "label": "advertenties heeft Desenio nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1629:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij My Deer Art Shop",
+    "kop": "Welkom bij My Deer Art Shop",
+    "tekst": "Een rustige welkomstmail met jullie showroomfoto: de 10% welkomstkorting voorop, daarna in drie punten waarom een print van My Deer anders is, en P.S. Je t'aime als eerste print om mee te beginnen.",
+    "punten": [
+      "10% welkomstkorting direct in beeld",
+      "Gesigneerd en genummerd, gratis inlijstservice, gratis verzending vanaf €100",
+      "P.S. Je t'aime als instapper, vanaf €39"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1629:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij My Deer Art Shop",
+      "kop": "Welkom bij My Deer Art Shop",
+      "tekst": "Een rustige welkomstmail met jullie showroomfoto: de 10% welkomstkorting voorop, daarna in drie punten waarom een print van My Deer anders is, en P.S. Je t'aime als eerste print om mee te beginnen.",
+      "punten": [
+        "10% welkomstkorting direct in beeld",
+        "Gesigneerd en genummerd, gratis inlijstservice, gratis verzending vanaf €100",
+        "P.S. Je t'aime als instapper, vanaf €39"
+      ]
+    },
+    {
+      "node": "1629:34",
+      "type": "Merkverhaal",
+      "onderwerp": "Het verhaal achter My Deer",
+      "kop": "Kunst die je elke dag ziet",
+      "tekst": "Een merkverhaal over Maaike Koster en de limited editions sinds 2014, met Getaway uitgelicht en een uitnodiging voor de showroom in Heemstede.",
+      "punten": [
+        "Maaike Koster en de oplage van 250 als verhaal",
+        "Getaway met korte labels over papier en lijst",
+        "Afsluiting met de showroom aan de Leidsevaartweg"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
