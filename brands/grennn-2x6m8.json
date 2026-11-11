@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "grennn-2x6m8",
+  "merk": "Grennn",
+  "domein": "grennn.nl",
+  "lead_id": "2026-11-11-grennn.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#9C6446",
+  "kop": "Kleine handjes, groot in beeld op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Grennn, ik heb dit gemaakt omdat jullie speelrijst, magic sand en speelbakjes samen precies een speelhoek vormen die mooi in een schoen past. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1621:165",
+      "titel": "Voelen, scheppen en sorteren",
+      "waarom": "Een korte kop met speelfoto's tussen de woorden laat meteen zien wat kinderen ermee doen, met de speelrijst en de prijs eronder."
+    },
+    {
+      "node": "1621:182",
+      "titel": "Magic sand",
+      "waarom": "Eén groot woord en een zoekbalk sluiten aan op waar ouders zelf naar zoeken, met de producten en prijs op een rij."
+    },
+    {
+      "node": "1621:202",
+      "titel": "Een speelhoek in de schoen",
+      "waarom": "Een sinttip die laat zien hoe magic sand, uitstekers en speelbakjes samen een cadeau vormen."
+    }
+  ],
+  "waarom": {
+    "niche": "speelgoed",
+    "kop": "Zo groeien speelgoedmerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken nieuw speelgoed niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die ouders terugkomen, zeker richting Sinterklaas en kerst.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij speelgoedmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Lovevery nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1633:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Grennn",
+    "kop": "Welkom bij Grennn",
+    "tekst": "Open einde speelgoed voor kleine handjes, zelf ontworpen in Loon op Zand. Om mee te voelen, scheppen en sorteren.",
+    "punten": [
+      "Eigen ontwerp: bedacht en gemaakt door Grennn",
+      "Open einde: geen vaste uitkomst, wel eindeloos spelen",
+      "Levertijd 1 à 2 werkdagen",
+      "Begin met speelrijst: 300 gram voor €4,49"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1633:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Grennn",
+      "kop": "Welkom bij Grennn",
+      "tekst": "Open einde speelgoed voor kleine handjes, zelf ontworpen in Loon op Zand. Om mee te voelen, scheppen en sorteren.",
+      "punten": [
+        "Eigen ontwerp: bedacht en gemaakt door Grennn",
+        "Open einde: geen vaste uitkomst, wel eindeloos spelen",
+        "Levertijd 1 à 2 werkdagen",
+        "Begin met speelrijst: 300 gram voor €4,49"
+      ]
+    },
+    {
+      "node": "1634:2",
+      "type": "Assortiment",
+      "onderwerp": "Een speelhoek in de schoen",
+      "kop": "Een speelhoek in de schoen",
+      "tekst": "Vier Grennn-favorieten die samen een complete speelbak vormen, met het verhaal van Melanie en Jonathan erbij.",
+      "punten": [
+        "Speelrijst: 300 gram €4,49 of 750 gram €10,99",
+        "Magic sand: zand dat je kunt vormen, 454 gram voor €8,95",
+        "Speelbakjes kwartcirkel om te vullen en te sorteren",
+        "Uitstekers boerderij om in zand of klei te drukken"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
