@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "missjules-susf6",
+  "merk": "Miss Jules",
+  "domein": "missjules.com",
+  "lead_id": "2026-11-11-missjules.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E40301",
+  "kop": "Drie nieuwe invalshoeken voor Miss Jules.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Miss Jules, ik heb dit gemaakt omdat jullie salonnagels naar huis brengen, met 25 jaar ervaring van Samantha erachter. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1458:14",
+      "titel": "Hoe lang het mooi blijft",
+      "waarom": "Een concreet resultaat (3 tot 4 weken) en twee labels bij het echte flesje beantwoorden de eerste vraag van iemand die BIAB thuis overweegt."
+    },
+    {
+      "node": "1458:29",
+      "titel": "De salon aan tafel",
+      "waarom": "Laat het gebruik zien in plaats van het product alleen: lamp, hand en flesjes maken direct duidelijk hoe makkelijk het thuis gaat."
+    },
+    {
+      "node": "1458:44",
+      "titel": "Starterset vanaf €39,95",
+      "waarom": "Een duidelijke instapprijs met de starterset erbij verlaagt de drempel voor nieuwe klanten die nog geen lamp hebben."
+    }
+  ],
+  "waarom": {
+    "niche": "beauty",
+    "kop": "Zo groeien beautymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw nagelmerk niet via Google, maar tijdens het scrollen. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe varianten testen, houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een nieuwe kleur of een navulling.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij beautymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "200+",
+        "label": "advertenties heeft Velura nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1458:55",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Miss Jules",
+    "kop": "Mooie nagels, gewoon thuis.",
+    "tekst": "Leuk dat je er bent. Samantha is al 25 jaar nagelstyliste en koos producten waarmee je thuis een salonresultaat haalt. Een starterset met LED-lamp is de makkelijkste manier om te beginnen.",
+    "punten": [
+      "Gratis verzenden vanaf €50 (NL)",
+      "Op werkdagen voor 16:00 besteld, dezelfde dag verzonden",
+      "7 dagen per week bereikbaar",
+      "Gratis cadeau bij een bestelling vanaf €60"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1458:55",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Miss Jules",
+      "kop": "Mooie nagels, gewoon thuis.",
+      "tekst": "Leuk dat je er bent. Samantha is al 25 jaar nagelstyliste en koos producten waarmee je thuis een salonresultaat haalt. Een starterset met LED-lamp is de makkelijkste manier om te beginnen.",
+      "punten": [
+        "Gratis verzenden vanaf €50 (NL)",
+        "Op werkdagen voor 16:00 besteld, dezelfde dag verzonden",
+        "7 dagen per week bereikbaar",
+        "Gratis cadeau bij een bestelling vanaf €60"
+      ]
+    },
+    {
+      "node": "1458:89",
+      "type": "Productspotlight",
+      "onderwerp": "De stevige basis onder elke manicure",
+      "kop": "De stevige basis onder elke manicure.",
+      "tekst": "BIAB Clear geeft je eigen nagels extra stevigheid. Draag het puur voor een natuurlijke look, of als basis onder je gellak. Gemiddeld blijft het 3 tot 4 weken mooi.",
+      "punten": [
+        "120 sec LED of 240 sec UV",
+        "Vegan en dierproefvrij",
+        "HEMA- en TPO-vrij",
+        "4,77 uit 31 reviews"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

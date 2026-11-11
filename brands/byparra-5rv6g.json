@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "byparra-5rv6g",
+  "merk": "by Parra",
+  "domein": "byparra.com",
+  "lead_id": "2026-10-31-byparra.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1E1E1E",
+  "kop": "Het werk van Parra, ook in je feed",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team by Parra, ik heb dit gemaakt omdat de Wavy puffer vanbinnen een eigen verhaal heeft met die wavy goose-voering, en dat zie je pas als je hem openritst. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1447:2",
+      "titel": "Wavy puffer van dichtbij",
+      "waarom": "De details die je online niet voelt, zoals de voering met artwork en de YKK-rits, worden zo in één beeld zichtbaar."
+    },
+    {
+      "node": "1447:32",
+      "titel": "Signature",
+      "waarom": "Het geborduurde logo is de herkenbaarste instap, en t-shirt en sweater naast elkaar laten meteen twee prijzen zien."
+    },
+    {
+      "node": "1447:47",
+      "titel": "De winter belt",
+      "waarom": "Een speelse vorm valt op tussen gewone posts en past bij het speelse artwork van Parra, terwijl de jas en de prijs centraal blijven."
+    }
+  ],
+  "waarom": {
+    "niche": "streetwear",
+    "kop": "Zo groeien streetwearmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen bij de volgende drop.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Carhartt WIP nu tegelijk live in Nederland"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1457:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij by Parra",
+    "kop": "Welkom bij by Parra",
+    "tekst": "Een welkomstmail die nieuwe inschrijvers meteen laat zien waar by Parra om draait: het werk van Parra, van de voering van een jas tot het logo op een t-shirt. Met de Wavy puffer en de Signature-stukken als eerste kennismaking.",
+    "punten": [
+      "Gaat direct uit na inschrijving via de footer",
+      "Laat het artwork en de Parra Shop in Amsterdam zien",
+      "Twee instapstukken met prijs: Signature t-shirt en sweater"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1457:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij by Parra",
+      "kop": "Welkom bij by Parra",
+      "tekst": "Een welkomstmail die nieuwe inschrijvers meteen laat zien waar by Parra om draait: het werk van Parra, van de voering van een jas tot het logo op een t-shirt. Met de Wavy puffer en de Signature-stukken als eerste kennismaking.",
+      "punten": [
+        "Gaat direct uit na inschrijving via de footer",
+        "Laat het artwork en de Parra Shop in Amsterdam zien",
+        "Twee instapstukken met prijs: Signature t-shirt en sweater"
+      ]
+    },
+    {
+      "node": "1457:41",
+      "type": "Merkverhaal",
+      "onderwerp": "Het verhaal achter de Wavy puffer",
+      "kop": "Het verhaal achter de Wavy puffer",
+      "tekst": "Een mail over één stuk: rustig van buiten, met het wavy goose-artwork van Parra in de voering. De details (mini ripstop nylon, tweeweg YKK-rits) doen het verkoopwerk, de Parra Shop is de uitnodiging om te komen passen.",
+      "punten": [
+        "Eén product, uitgelegd met labels",
+        "Voor iedereen die de jas al bekeek maar nog twijfelt",
+        "Sluit af met maten, prijs en de winkel in Amsterdam"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
