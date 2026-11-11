@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "brandthout-s78gv",
+  "merk": "Brandthout Dutch Designart",
+  "domein": "brandthout.com",
+  "lead_id": "2026-11-11-brandthout.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#c8a47a",
+  "kop": "Jouw stad aan de muur, nu ook in je feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Brandthout, ik heb dit gemaakt omdat jullie gelaserde stadsplattegronden tot op de straat zo mooi laten zien wat er in hout mogelijk is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1789:4",
+      "titel": "Elke straat, tot in detail",
+      "waarom": "Een close-up van het gelaserde hout met korte labels laat in één beeld zien wat de plattegrond bijzonder maakt en wat hij kost."
+    },
+    {
+      "node": "1789:25",
+      "titel": "Jouw stad aan de muur",
+      "waarom": "Een grote kop met kleine sfeerfoto's tussen de woorden valt op tussen gewone foto's en maakt de plattegrond meteen persoonlijk."
+    },
+    {
+      "node": "1789:43",
+      "titel": "Eén lamp, vier kleuren",
+      "waarom": "Twee kleuren naast elkaar helpen kiezen, en de gratis kleurstalen halen de drempel weg bij een lamp van een paar honderd euro."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw interieurmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, bijvoorbeeld voor een tweede stad of een lamp.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Wood Wide Cities nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1791:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Brandthout",
+      "kop": "Welkom bij Brandthout.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, wat ze mogen verwachten en een uitnodiging voor de showroom.",
+      "punten": [
+        "Handgemaakt in Winterswijk",
+        "Gratis verzending vanaf €75 en 30 dagen retour",
+        "Bart en Elin en de showroom op afspraak"
+      ]
+    },
+    {
+      "node": "1791:45",
+      "type": "Merkverhaal",
+      "onderwerp": "Licht in de vorm van een blad",
+      "kop": "Licht in de vorm van een blad.",
+      "tekst": "Een mail over de Gingko Leaf: het verhaal achter de lamp, de kenmerken en de gratis kleurstalen.",
+      "punten": [
+        "Het ginkgoblad als startpunt",
+        "Biobased kap, dimbaar LED-licht",
+        "Gratis kleurstalen om thuis te vergelijken"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11",
+  "nieuwsbrief": {
+    "node": "1791:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Brandthout",
+    "kop": "Welkom bij Brandthout.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, wat ze mogen verwachten en een uitnodiging voor de showroom.",
+    "punten": [
+      "Handgemaakt in Winterswijk",
+      "Gratis verzending vanaf €75 en 30 dagen retour",
+      "Bart en Elin en de showroom op afspraak"
+    ]
+  }
+}
