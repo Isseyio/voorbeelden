@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "revusd-63vsv",
+  "merk": "REVUSD",
+  "domein": "revusd.com",
+  "lead_id": "2026-10-28-revusd.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#F95E30",
+  "kop": "Jullie Ami journals, in drie nieuwe advertenties.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team REVUSD, ik heb dit gemaakt omdat jullie Ami journals zo persoonlijk zijn: eigen leer, eigen charms, eigen gravure. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1571:2",
+      "titel": "Echt leer in handen",
+      "waarom": "De hand met de Bordeaux Patina laat het leer en de details zien, met vier kenmerken eromheen in één oogopslag."
+    },
+    {
+      "node": "1571:18",
+      "titel": "Kies je eigen Ami",
+      "waarom": "Eén groot woord en vier kleuren naast elkaar maken meteen duidelijk dat je je journal zelf samenstelt."
+    },
+    {
+      "node": "1571:46",
+      "titel": "Vanaf €50",
+      "waarom": "Een duidelijke instapprijs met jullie logo groot in beeld haalt de drempel weg voor iemand die jullie nog niet kent."
+    }
+  ],
+  "waarom": {
+    "niche": "leer",
+    "kop": "Zo groeien leermerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw leermerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een welkomstmail en een vaste nieuwsbrief zorgen dat die kopers terugkomen voor een tweede journal of tas.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij merken in tassen en accessoires vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Burkely nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1571:54",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij REVUSD",
+    "kop": "Welkom in onze creatieve wereld.",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wat een Ami journal bijzonder maakt en een uitnodiging voor de workshop in Den Bosch.",
+    "punten": [
+      "Full-grain Europees leer",
+      "Met de hand gemaakt in Den Bosch",
+      "Maak je eigen Ami in de workshop"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1571:54",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij REVUSD",
+      "kop": "Welkom in onze creatieve wereld.",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wat een Ami journal bijzonder maakt en een uitnodiging voor de workshop in Den Bosch.",
+      "punten": [
+        "Full-grain Europees leer",
+        "Met de hand gemaakt in Den Bosch",
+        "Maak je eigen Ami in de workshop"
+      ]
+    },
+    {
+      "node": "1571:82",
+      "type": "Productspotlight",
+      "onderwerp": "Textures of Autumn: nieuwe leersoorten voor je Ami",
+      "kop": "Textures of Autumn.",
+      "tekst": "De nieuwe leersoorten van dit seizoen op een rij, met prijs en een knop per journal, en een uitnodiging voor het House of Revusd.",
+      "punten": [
+        "Bordeaux Patina, handgestikt",
+        "Croc Blue met drie charms",
+        "Black A5 en Cognac"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

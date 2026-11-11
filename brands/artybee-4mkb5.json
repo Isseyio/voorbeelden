@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "artybee-4mkb5",
+  "merk": "Arty Bee",
+  "domein": "artybee.nl",
+  "lead_id": "2026-11-11-artybee.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#211641",
+  "kop": "Drie nieuwe invalshoeken voor jullie schilderen op nummer",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Arty Bee, ik heb dit gemaakt omdat in jullie kits echt alles zit, tot de ophangset met mini-waterpas aan toe, en dat zie je nog weinig terug op Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1568:2",
+      "titel": "Wat zit er in de doos",
+      "waarom": "Mensen twijfelen vaak of ze genoeg hebben om te beginnen; vier ronde foto's van verf, penselen, canvas en ophangset nemen die twijfel in één blik weg."
+    },
+    {
+      "node": "1568:28",
+      "titel": "Jouw eigen kunst aan de muur",
+      "waarom": "Grote woorden met jullie eigen sfeerfoto's ertussen laten zien waar het om draait: een schilderij dat je zelf hebt gemaakt, aan je eigen muur."
+    },
+    {
+      "node": "1568:41",
+      "titel": "Je rustige avond belt",
+      "waarom": "Een herkenbaar belscherm valt op tussen gewone posts en koppelt de kit aan een rustige avond, met de echte prijs erbij."
+    }
+  ],
+  "waarom": {
+    "niche": "cadeau",
+    "kop": "Zo groeien cadeau- en hobbymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe hobby niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een welkomstmail zorgt dat nieuwe inschrijvers ook echt hun eerste kit kiezen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij cadeau- en hobbymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Schilder Op Nummer nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1569:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Arty Bee",
+    "kop": "Welkom bij Arty Bee",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wat Arty Bee is, dat alles in de doos zit en met welke kit je begint.",
+    "punten": [
+      "Herokaart met jullie eigen doos en één duidelijke knop",
+      "Vier kits om mee te beginnen, met echte prijzen",
+      "De 9,4 van klanten en de verzendbelofte van jullie site"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1569:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Arty Bee",
+      "kop": "Welkom bij Arty Bee",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wat Arty Bee is, dat alles in de doos zit en met welke kit je begint.",
+      "punten": [
+        "Herokaart met jullie eigen doos en één duidelijke knop",
+        "Vier kits om mee te beginnen, met echte prijzen",
+        "De 9,4 van klanten en de verzendbelofte van jullie site"
+      ]
+    },
+    {
+      "node": "1569:57",
+      "type": "Productspotlight",
+      "onderwerp": "Twee hobby's in één doek",
+      "kop": "Twee hobby's in één doek",
+      "tekst": "Een mail over de Best Friends Hybrid Kit voor mensen die twijfelen, met jullie eigen sfeerfoto, het verhaal achter Arty Bee en wat er in de doos zit.",
+      "punten": [
+        "Hero met jullie eigen kamerfoto",
+        "Kit met vier labels: verf, steentjes, canvas en vernis",
+        "Afsluiting met de echte prijs en een duidelijke knop"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
