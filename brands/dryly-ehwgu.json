@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "dryly-ehwgu",
+  "merk": "Dryly",
+  "domein": "dryly.com",
+  "lead_id": "2026-11-11-dryly.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#17B4C3",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Dryly.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Dryly, ik heb dit gemaakt omdat Wizzu de panda van droog worden iets van het kind zelf maakt, en dat verhaal leent zich goed voor nieuwe advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1696:4",
+      "titel": "Week voor week",
+      "waarom": "Laat in één beeld zien dat droog worden een traject van 6 tot 8 weken is, met jullie eigen cijfer van 93%."
+    },
+    {
+      "node": "1696:5",
+      "titel": "Wizzu belt",
+      "waarom": "Een herkenbaar nachtmoment als speelse telefoonoproep valt op tussen gewone productadvertenties."
+    },
+    {
+      "node": "1696:6",
+      "titel": "Alles in het Hero-pakket",
+      "waarom": "Zet de prijs en wat er in de doos zit direct naast elkaar, zodat ouders sneller kiezen."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien kids & babymerken op Instagram.",
+    "tekst": "Ouders ontdekken een product als een plaswekker vaak niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe ouders en houden hun kosten per aankoop laag. Een vaste nieuwsbrief helpt ouders die nog twijfelen over de stap naar een plaswekker.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids & babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Dromia nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1696:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Dryly: samen naar droge nachten",
+    "kop": "Samen naar droge nachten",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: hoe de plaswekker werkt, hoe je kind met de app en Wizzu oefent en wat je de eerste weken kunt verwachten.",
+    "punten": [
+      "Begeleiding via de app met Wizzu",
+      "93% is binnen 6 tot 8 weken droog",
+      "Onderzocht met TNO, aanbevolen door urologen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1696:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Dryly: samen naar droge nachten",
+      "kop": "Samen naar droge nachten",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: hoe de plaswekker werkt, hoe je kind met de app en Wizzu oefent en wat je de eerste weken kunt verwachten.",
+      "punten": [
+        "Begeleiding via de app met Wizzu",
+        "93% is binnen 6 tot 8 weken droog",
+        "Onderzocht met TNO, aanbevolen door urologen"
+      ]
+    },
+    {
+      "node": "1696:8",
+      "type": "Vergelijking",
+      "onderwerp": "Hero of Superhero? Zo kies je het juiste pakket",
+      "kop": "Hero of Superhero?",
+      "tekst": "Een mail die de twee pakketten naast elkaar zet, zodat ouders sneller kiezen. Dezelfde plaswekker, app en Wizzu; het verschil zit in de onderbroekjes en de extra matrasbeschermer.",
+      "punten": [
+        "Hero €229,99: 3 effen onderbroekjes",
+        "Superhero €259,99: 4 onderbroekjes en een extra matrasbeschermer",
+        "Trilfunctie bij beide optioneel"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

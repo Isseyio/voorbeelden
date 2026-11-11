@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "raqa-verq7",
+  "merk": "Raqa",
+  "domein": "raqa.nl",
+  "lead_id": "2026-11-11-raqa.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#171717",
+  "kop": "Drie nieuwe invalshoeken voor Raqa.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Raqa, ik heb dit gemaakt omdat grips en overgrips precies het soort product zijn dat spelers steeds opnieuw kopen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1689:10",
+      "titel": "Grips op een rij",
+      "waarom": "Spelers zien in één beeld welke grip bij hen past, zodat kiezen makkelijk wordt."
+    },
+    {
+      "node": "1689:38",
+      "titel": "Je grip belt",
+      "waarom": "Een speelse knipoog valt op tussen gewone padelposts en zet het product midden in beeld."
+    },
+    {
+      "node": "1689:60",
+      "titel": "Teamshirt met eigen logo",
+      "waarom": "Een duidelijke prijs met de oude prijs ernaast maakt het aanbod voor teams en bedrijven meteen concreet."
+    }
+  ],
+  "waarom": {
+    "niche": "padel",
+    "kop": "Zo groeien padelmerken op Instagram.",
+    "tekst": "De meeste spelers ontdekken een nieuw padelmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat kopers terugkomen voor nieuwe grips en overgrips.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sport- en outdoormerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft PadelShop.com nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1703:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Raqa: 5% op je eerste bestelling",
+    "kop": "Fijn dat je erbij bent",
+    "tekst": "Als welkom krijg je 5% korting op je eerste bestelling. Daaronder de favorieten om mee te beginnen, van de Core padel grip tot de combideal met overgrip.",
+    "punten": [
+      "5% korting op je eerste bestelling",
+      "Core grip, Viper 3-pack en overgrips op een rij",
+      "Combideal Core grip + Premium overgrip wit voor €29,95"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1703:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Raqa: 5% op je eerste bestelling",
+      "kop": "Fijn dat je erbij bent",
+      "tekst": "Als welkom krijg je 5% korting op je eerste bestelling. Daaronder de favorieten om mee te beginnen, van de Core padel grip tot de combideal met overgrip.",
+      "punten": [
+        "5% korting op je eerste bestelling",
+        "Core grip, Viper 3-pack en overgrips op een rij",
+        "Combideal Core grip + Premium overgrip wit voor €29,95"
+      ]
+    },
+    {
+      "node": "1703:59",
+      "type": "Productspotlight",
+      "onderwerp": "Tijd voor een verse overgrip?",
+      "kop": "Tijd voor een verse overgrip?",
+      "tekst": "Een overgrip slijt sneller dan je denkt. Deze mail zet de Elite dry overgrip 3-pack in de hand, met de praktische redenen om hem meteen te bestellen.",
+      "punten": [
+        "3 overgrips in één pak voor €9,95",
+        "Voor 22:00 besteld, dezelfde dag verzonden",
+        "Gratis verzending vanaf €90 (NL/BE)"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
