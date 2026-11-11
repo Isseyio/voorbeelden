@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "freshflows-du7k5",
+  "merk": "Freshflows Clothing",
+  "domein": "freshflowsclothing.com",
+  "lead_id": "2026-11-05-freshflowsclothing.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2547C4",
+  "kop": "Prints die je van twee kanten draagt.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Freshflows, ik heb dit gemaakt omdat jullie eigen prints op de rug zo goed werken op foto. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1514:4",
+      "titel": "Prijs en logo",
+      "waarom": "Een grote, echte prijs met jullie naam erboven laat in één blik zien wat de tee kost en van wie hij is."
+    },
+    {
+      "node": "1514:14",
+      "titel": "Twee kanten, één tee",
+      "waarom": "Voor- en achterkant naast elkaar laten zien waarom de print het verschil maakt, zonder dat iemand hoeft door te klikken."
+    },
+    {
+      "node": "1514:34",
+      "titel": "Detail van de print",
+      "waarom": "Een close-up met korte labels trekt de aandacht naar het eigen ontwerp en maakt de tee herkenbaar in de feed."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw modemerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Quotrell nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1514:54",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Freshflows",
+    "kop": "Welkom bij Freshflows.",
+    "tekst": "Leuk dat je erbij bent. Wij maken streetwear met eigen ontwerpen: tees, hoodies en sweaters met een print die iets zegt.",
+    "punten": [
+      "Eigen ontwerpen uit onze eigen studio",
+      "3 halen = 2 betalen",
+      "Verstuurd met PostNL, met track en trace"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1514:54",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Freshflows",
+      "kop": "Welkom bij Freshflows.",
+      "tekst": "Leuk dat je erbij bent. Wij maken streetwear met eigen ontwerpen: tees, hoodies en sweaters met een print die iets zegt.",
+      "punten": [
+        "Eigen ontwerpen uit onze eigen studio",
+        "3 halen = 2 betalen",
+        "Verstuurd met PostNL, met track en trace"
+      ]
+    },
+    {
+      "node": "1514:85",
+      "type": "Sale-assortiment",
+      "onderwerp": "Tot 75% korting op onze favorieten",
+      "kop": "Tot 75% korting.",
+      "tekst": "Vier favorieten uit de sale, elk voor €19,99. Kies er drie en je betaalt er twee.",
+      "punten": [
+        "Chill Out Tee, €19,99 (was €29,99)",
+        "Clear Vision Tee, €19,99 (was €29,99)",
+        "Eliminating Fear Tee, €19,99 (was €29,99)",
+        "Too Young Sweater, €19,99 (was €34,99)"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

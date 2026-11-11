@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "isabelbernard-zkvjz",
+  "merk": "Isabel Bernard",
+  "domein": "isabelbernard.com",
+  "lead_id": "2026-10-31-isabelbernard.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B8955A",
+  "kop": "De Soleil ring, in drie kleuren goud",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Isabel Bernard, ik heb dit gemaakt omdat de Le Marais Soleil in geel-, wit- en roségoud bestaat, en dat leent zich mooi voor advertenties waarin mensen zelf kiezen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1517:4",
+      "titel": "Eén steen, elke dag",
+      "waarom": "Jullie eigen handfoto laat de ring zien zoals hij gedragen wordt, met vier echte kenmerken eromheen die twijfel wegnemen."
+    },
+    {
+      "node": "1517:22",
+      "titel": "Welk goud past bij jou?",
+      "waarom": "Drie kleuren goud naast elkaar met een vraag erboven laten mensen kiezen in plaats van doorscrollen."
+    },
+    {
+      "node": "1517:46",
+      "titel": "Tot in het kleinste detail",
+      "waarom": "Een close-up met de maten van steen en band laat zien waarom echt 14 karaat goud zijn prijs waard is."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft TOV Essentials nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1519:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Isabel Bernard",
+    "kop": "Welkom bij Isabel Bernard",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% korting op de eerste bestelling, waarom echt goud met certificaat telt, en een eerste ring om mee te beginnen.",
+    "punten": [
+      "Opent met jullie eigen foto van het doosje met certificaat",
+      "14 karaat goud, 2 jaar garantie en 30 dagen retour in drie iconen",
+      "Sluit af met de Le Marais Soleil op jullie eigen handfoto"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1519:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Isabel Bernard",
+      "kop": "Welkom bij Isabel Bernard",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% korting op de eerste bestelling, waarom echt goud met certificaat telt, en een eerste ring om mee te beginnen.",
+      "punten": [
+        "Opent met jullie eigen foto van het doosje met certificaat",
+        "14 karaat goud, 2 jaar garantie en 30 dagen retour in drie iconen",
+        "Sluit af met de Le Marais Soleil op jullie eigen handfoto"
+      ]
+    },
+    {
+      "node": "1519:34",
+      "type": "Productspotlight",
+      "onderwerp": "Gouden ringen om te stapelen",
+      "kop": "Gouden ringen om te stapelen",
+      "tekst": "Een spotlight op de Le Marais ringen: het idee achter de collectie, de Soleil met maten uitgelicht en drie ringen om samen te dragen.",
+      "punten": [
+        "Opent met jullie eigen modelfoto",
+        "De Soleil met zirkonia, band, karaat en garantie gelabeld",
+        "Solene, Aélys en Soleil met hun echte prijzen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
