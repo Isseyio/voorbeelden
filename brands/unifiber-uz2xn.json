@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "unifiber-uz2xn",
+  "merk": "Unifiber",
+  "domein": "unifiber.net",
+  "lead_id": "2026-11-11-unifiber.net",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#F26B1D",
+  "kop": "Drie advertenties voor gear die een seizoen vol wind aankan",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Unifiber, ik heb dit gemaakt omdat jullie bescherming voor foils en vleugels zo doordacht is, en dat zie ik nu niet terug in eigen advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1453:4",
+      "titel": "Een jas voor je foil",
+      "waarom": "Labels op een echte detailfoto laten in één oogopslag zien waarom de cover je vleugel beschermt."
+    },
+    {
+      "node": "1453:22",
+      "titel": "Niks rammelt",
+      "waarom": "Eén groot woord en een herkenbare zoekterm spreken riders aan die al naar een foilbag zoeken."
+    },
+    {
+      "node": "1453:34",
+      "titel": "De wind belt",
+      "waarom": "Een speels concept valt op in de feed en koppelt de boom aan het moment dat er wind staat."
+    }
+  ],
+  "waarom": {
+    "niche": "sport & outdoor",
+    "kop": "Zo groeien watersportmerken op Instagram.",
+    "tekst": "De meeste riders ontdekken nieuw materiaal niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sport- en outdoormerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15+",
+        "label": "advertenties heeft Duotone nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1453:45",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Unifiber",
+    "kop": "Welkom bij Unifiber",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers op 'Your Ride, Our Gear': wie Unifiber is, wat ze krijgen en waarom riders voor het merk kiezen.",
+    "punten": [
+      "Onafhankelijk sinds 2003",
+      "1 jaar onvoorwaardelijke garantie",
+      "30 dagen retourneren"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1453:45",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Unifiber",
+      "kop": "Welkom bij Unifiber",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers op 'Your Ride, Our Gear': wie Unifiber is, wat ze krijgen en waarom riders voor het merk kiezen.",
+      "punten": [
+        "Onafhankelijk sinds 2003",
+        "1 jaar onvoorwaardelijke garantie",
+        "30 dagen retourneren"
+      ]
+    },
+    {
+      "node": "1453:71",
+      "type": "Merkverhaal",
+      "onderwerp": "Gemaakt door riders, voor riders",
+      "kop": "Gemaakt door riders, voor riders",
+      "tekst": "Het verhaal van een onafhankelijk merk uit Gilze, met de Foil Wing Cover Set uitgelicht en de Essentials Alloy Boom als afsluiter.",
+      "punten": [
+        "6 mm foam, waterafstotend",
+        "Maten van 30 tot 120 cm",
+        "Loop & Go voor snel optuigen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

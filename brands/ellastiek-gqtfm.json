@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "ellastiek-gqtfm",
+  "merk": "Ellastiek",
+  "domein": "ellastiek.com",
+  "lead_id": "2026-10-28-ellastiek.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#EC6535",
+  "kop": "Drie nieuwe invalshoeken voor Jacket Carlo",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Ellastiek, ik heb dit gemaakt omdat de achterkant van Jacket Carlo eigenlijk een advertentie op zich is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1451:4",
+      "titel": "Voorkant en achterkant",
+      "waarom": "Twee foto's naast elkaar laten in één oogopslag zien dat de artwork op de rug het verschil maakt."
+    },
+    {
+      "node": "1451:23",
+      "titel": "Good-mood energy",
+      "waarom": "Een grote typografische kop met kleine fotodetails valt op tussen gewone productfoto's in de feed."
+    },
+    {
+      "node": "1451:39",
+      "titel": "Prijs en logo",
+      "waarom": "Prijs en gratis verzending direct in beeld helpen mensen die al twijfelen over de streep."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "Bij modemerken doen een paar advertenties vaak het meeste werk, tot ze na een paar weken moe worden. Merken die elke week nieuwe varianten testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Fabienne Chapot nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1451:49",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in de familie",
+    "kop": "Welkom in de familie",
+    "tekst": "Een warme welkomstmail die vertelt hoe Ellastiek in 2017 met één scrunchie begon, de gratis verzending vanaf €150 noemt en direct naar de nieuwe drop leidt.",
+    "punten": [
+      "Merkverhaal van Ella in een paar zinnen",
+      "Gratis verzending vanaf €150 bovenaan",
+      "Favorieten met Jacket Carlo"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1451:49",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in de familie",
+      "kop": "Welkom in de familie",
+      "tekst": "Een warme welkomstmail die vertelt hoe Ellastiek in 2017 met één scrunchie begon, de gratis verzending vanaf €150 noemt en direct naar de nieuwe drop leidt.",
+      "punten": [
+        "Merkverhaal van Ella in een paar zinnen",
+        "Gratis verzending vanaf €150 bovenaan",
+        "Favorieten met Jacket Carlo"
+      ]
+    },
+    {
+      "node": "1451:70",
+      "type": "Productspotlight",
+      "onderwerp": "Nieuw: Jacket Carlo",
+      "kop": "Good-mood energy voor elke dag",
+      "tekst": "Een spotlight op Jacket Carlo: de print, de artwork op de rug, het biologische katoen en een eerlijk maatadvies, afgesloten met het verhaal achter het merk.",
+      "punten": [
+        "Vier kenmerken rond de packshot",
+        "Maatadvies: gewone maat voor oversized",
+        "Afsluiting met het scrunchie-verhaal"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
