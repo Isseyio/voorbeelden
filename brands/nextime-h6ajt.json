@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "nextime-h6ajt",
+  "merk": "NeXtime",
+  "domein": "nextime.eu",
+  "lead_id": "2026-11-02-nextime.eu",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#0D5953",
+  "kop": "Klokken die je ziet, niet hoort",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team NeXtime, ik heb dit gemaakt omdat jullie klokken stil zijn en dat in een advertentie meteen iets zegt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1739:2",
+      "titel": "Stil.",
+      "waarom": "Eén groot woord en een zoekbalk sluiten aan op waar mensen op zoeken, en de drie kleuren laten meteen de keuze zien."
+    },
+    {
+      "node": "1739:15",
+      "titel": "Tijd voor iets nieuws",
+      "waarom": "Een speels belscherm valt op tussen gewone posts en zet een klok van €14 neer als makkelijke eerste aankoop."
+    },
+    {
+      "node": "1739:27",
+      "titel": "Van dichtbij",
+      "waarom": "Korte labels bij een detailfoto beantwoorden de vragen over maat, geluid en ontwerp voordat iemand klikt."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen & interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe klok of lamp niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "5+",
+        "label": "advertenties heeft Hometastic nu live, onder andere voor een stille designklok"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1740:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de NeXtimers",
+    "kop": "Welkom bij de NeXtimers",
+    "tekst": "Een welkomstmail die waarmaakt wat jullie inschrijfblok belooft: als eerste nieuws, nieuwe klokken en kortingen vooraf, met de Berlin L in munt als beeld.",
+    "punten": [
+      "Herokaart in jullie teal met de Berlin L",
+      "Drie redenen: stil uurwerk, 2 jaar garantie, sinds 1970",
+      "Tweede blok met de Berlin L aan de muur"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1740:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de NeXtimers",
+      "kop": "Welkom bij de NeXtimers",
+      "tekst": "Een welkomstmail die waarmaakt wat jullie inschrijfblok belooft: als eerste nieuws, nieuwe klokken en kortingen vooraf, met de Berlin L in munt als beeld.",
+      "punten": [
+        "Herokaart in jullie teal met de Berlin L",
+        "Drie redenen: stil uurwerk, 2 jaar garantie, sinds 1970",
+        "Tweede blok met de Berlin L aan de muur"
+      ]
+    },
+    {
+      "node": "1740:34",
+      "type": "Merkverhaal",
+      "onderwerp": "Tijd die je ziet, niet hoort",
+      "kop": "Tijd die je ziet, niet hoort.",
+      "tekst": "Een merkverhaal over ruim vijftig jaar klokken uit Haarlem, met de Berlin L uitgelicht en de drie kleuren als afsluiting.",
+      "punten": [
+        "Sfeerfoto van de Berlin L boven een bureau",
+        "Product met vier labels: Ø 40 cm, stil uurwerk, batterij, garantie",
+        "Afsluiting: khaki, lavendel of munt, €67"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

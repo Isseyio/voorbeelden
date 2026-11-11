@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "littleroastery-ctvcz",
+  "merk": "Little Roastery",
+  "domein": "littleroastery.nl",
+  "lead_id": "2026-11-03-littleroastery.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#673729",
+  "kop": "Vers gebrande koffie uit Amersfoort, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Little Roastery, ik heb dit gemaakt omdat jullie smaaknotities, zoals speculaas en kaneel bij Nº45, bijna vragen om een advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1742:3",
+      "titel": "Smaaknotities",
+      "waarom": "Speculaas, melkchocolade en kaneel maken de smaak van Nº45 tastbaar voordat iemand hem geproefd heeft."
+    },
+    {
+      "node": "1742:25",
+      "titel": "Elke dag vers gebrand",
+      "waarom": "Vers gebrand in Amersfoort is jullie duidelijkste verschil met supermarktkoffie, hier gekoppeld aan de koffie van de maand."
+    },
+    {
+      "node": "1742:49",
+      "titel": "Abonnement in ritme",
+      "waarom": "De weekstrip laat in één oogopslag zien hoe het abonnement werkt: elke paar weken vanzelf een verse zak."
+    }
+  ],
+  "waarom": {
+    "niche": "koffie",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe branderij niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende zak.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij koffiemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Man met de Baard nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1742:78",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de branderij",
+    "kop": "Welkom bij de branderij",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waarom vers gebrand anders smaakt en een zachte duw naar de koffiequiz.",
+    "punten": [
+      "Branddatum op elke zak",
+      "Slow Roast in kleine batches",
+      "Gratis verzending vanaf €50"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1742:78",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de branderij",
+      "kop": "Welkom bij de branderij",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waarom vers gebrand anders smaakt en een zachte duw naar de koffiequiz.",
+      "punten": [
+        "Branddatum op elke zak",
+        "Slow Roast in kleine batches",
+        "Gratis verzending vanaf €50"
+      ]
+    },
+    {
+      "node": "1742:110",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom wij langzaam branden",
+      "kop": "Waarom wij langzaam branden",
+      "tekst": "Het verhaal van de schuur in Leusden tot de branderij in Amersfoort, met Nº45 Guatemala Huehuetenango in de hoofdrol.",
+      "punten": [
+        "Van Leusden naar Amersfoort",
+        "Nº45 uitgelicht met smaaknotities",
+        "Tip: bonen na de branddatum 5 dagen laten rusten"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
