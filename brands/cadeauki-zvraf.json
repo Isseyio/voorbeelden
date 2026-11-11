@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "cadeauki-zvraf",
+  "merk": "Cadeauki",
+  "domein": "cadeauki.nl",
+  "lead_id": "2026-11-11-cadeauki.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#854C2F",
+  "kop": "Een foto, met de hand in hout gebrand: drie ideeën voor Cadeauki.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Cadeauki, ik heb dit gemaakt omdat jullie foto's van een telefoonfoto naast het gebrande hout precies laten zien wat jullie maken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1805:2",
+      "titel": "Van foto naar hout",
+      "waarom": "Jullie eigen voor-en-na-beeld laat in één oogopslag zien wat je krijgt: de foto uit je telefoon, met de hand gebrand in hout met schors."
+    },
+    {
+      "node": "1805:15",
+      "titel": "Diep gebrand, niet geprint",
+      "waarom": "Callouts bij een trouwfoto vertellen kort wat het bijzonder maakt (pyrografie, namen en datum), met de prijs vanaf €29 erbij."
+    },
+    {
+      "node": "1805:37",
+      "titel": "Kerstcadeau dat oplicht",
+      "waarom": "Prijs bovenaan en jullie naam groot over de fotolamp: een duidelijke reden om nu voor de feestdagen te bestellen."
+    }
+  ],
+  "waarom": {
+    "niche": "cadeaus",
+    "kop": "Zo groeien cadeaumerken op Instagram.",
+    "tekst": "De meeste mensen zoeken een persoonlijk cadeau niet op Google, maar komen het tegen tijdens het scrollen, zeker rond de feestdagen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers bij het volgende moment terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "60+",
+        "label": "advertenties heeft YourSurprise nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1806:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Cadeauki",
+    "kop": "Welkom bij Cadeauki",
+    "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: wie jullie zijn, hoe een cadeau met eigen foto in drie stappen ontstaat, en alvast een idee voor de feestdagen.",
+    "punten": [
+      "Handgemaakt op bestelling in jullie atelier in Wormerveer",
+      "Zo werkt het: foto kiezen, tekenen en branden, binnen 2 werkdagen in huis",
+      "Een tweede blok met een cadeau-idee voor de feestdagen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1806:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Cadeauki",
+      "kop": "Welkom bij Cadeauki",
+      "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: wie jullie zijn, hoe een cadeau met eigen foto in drie stappen ontstaat, en alvast een idee voor de feestdagen.",
+      "punten": [
+        "Handgemaakt op bestelling in jullie atelier in Wormerveer",
+        "Zo werkt het: foto kiezen, tekenen en branden, binnen 2 werkdagen in huis",
+        "Een tweede blok met een cadeau-idee voor de feestdagen"
+      ]
+    },
+    {
+      "node": "1806:32",
+      "type": "Merkverhaal",
+      "onderwerp": "Begonnen in een garagebox, rond kerst 2008",
+      "kop": "Begonnen in een garagebox, nu in ons eigen atelier",
+      "tekst": "Een merkverhaal-mail: hoe Cadeauki rond kerst 2008 begon, hoe een foto met pyrografie in hout wordt gebrand, en welke cadeaus er per moment zijn.",
+      "punten": [
+        "Het maakproces in gewone woorden: getekend en gebrand, niet geprint",
+        "De houten fotoplaat uitgelicht met gravure, namen en datum, randen en standaard",
+        "Bruiloft, Moederdag, Vaderdag en romantische momenten, met een echte review"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
