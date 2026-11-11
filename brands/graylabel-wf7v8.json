@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "graylabel-wf7v8",
+  "merk": "Gray Label",
+  "domein": "gray-label.com",
+  "lead_id": "2026-10-30-gray-label.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B67E94",
+  "kop": "Drie nieuwe invalshoeken voor Knit for Kids",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Gray Label, ik heb dit gemaakt omdat jullie nieuwe Knit for Kids-collectie in merinowol zo mooi gefotografeerd is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1557:3",
+      "titel": "Het bundelaanbod",
+      "waarom": "Een echt aanbod bovenaan (€15 voordeel op muts en sjaal samen) met een gezicht eronder geeft meteen een reden om te klikken."
+    },
+    {
+      "node": "1557:12",
+      "titel": "Merino zonder kriebels",
+      "waarom": "Speelt in op de vraag die ouders zich stellen (kriebelt het?) en laat alle drie de kleuren met prijs zien."
+    },
+    {
+      "node": "1557:32",
+      "titel": "Zacht en warm",
+      "waarom": "Een typografische kop met jullie eigen foto's ertussen valt op tussen gewone productfoto's en vertelt het verhaal in één zin."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien kidsmerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw kindermerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die ouders elk seizoen terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kidsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kidsmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1559:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Gray Label, je 10% staat klaar",
+    "kop": "Welkom in onze wereld",
+    "tekst": "Een rustige welkomstmail die de 10% welkomstkorting bevestigt, kort laat zien waar Gray Label voor staat en meteen een eerste aankoopidee geeft.",
+    "punten": [
+      "De 10% welkomstkorting duidelijk bovenaan",
+      "GOTS, productie in Portugal en Turkije en gratis verzending vanaf €95 in drie blokjes",
+      "De Knit Bundle als eerste aankoopidee"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1559:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Gray Label, je 10% staat klaar",
+      "kop": "Welkom in onze wereld",
+      "tekst": "Een rustige welkomstmail die de 10% welkomstkorting bevestigt, kort laat zien waar Gray Label voor staat en meteen een eerste aankoopidee geeft.",
+      "punten": [
+        "De 10% welkomstkorting duidelijk bovenaan",
+        "GOTS, productie in Portugal en Turkije en gratis verzending vanaf €95 in drie blokjes",
+        "De Knit Bundle als eerste aankoopidee"
+      ]
+    },
+    {
+      "node": "1559:37",
+      "type": "Productspotlight",
+      "onderwerp": "Knit for Kids: warm zonder kriebels",
+      "kop": "Knit for Kids",
+      "tekst": "Een assortimentsmail rond de merinocollectie: een grote sfeerfoto, vier producten met prijs en een tip om muts en sjaal samen te kopen.",
+      "punten": [
+        "Sfeerfoto uit jullie eigen AW26-campagne",
+        "Vier producten met prijs en een eigen knop",
+        "Afsluiter met de bundel van €15 voordeel"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

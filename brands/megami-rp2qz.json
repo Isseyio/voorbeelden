@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "megami-rp2qz",
+  "merk": "Megami Matcha",
+  "domein": "megamimatcha.com",
+  "lead_id": "2026-11-11-megamimatcha.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#402122",
+  "kop": "Jullie matcharitueel, in beeld voor Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Megami Matcha, ik heb dit gemaakt omdat jullie verhaal over één kop matcha en jullie eigen foto's precies het rustige ritueel laten zien dat op Instagram werkt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1562:4",
+      "titel": "Zacht en nooit bitter",
+      "waarom": "De hand met de zak en het verse poeder laat meteen zien wat je koopt, met de vier kenmerken eromheen in één oogopslag."
+    },
+    {
+      "node": "1562:24",
+      "titel": "Je dagelijkse ritueel",
+      "waarom": "Een routinekaart maakt van matcha een vaste gewoonte en verkoopt zo de membership in plaats van één losse zak."
+    },
+    {
+      "node": "1562:55",
+      "titel": "Van Kagoshima naar je glas",
+      "waarom": "Een grote kop met jullie eigen foto's ertussen vertelt het herkomstverhaal in één beeld en eindigt bij de drie formaten."
+    }
+  ],
+  "waarom": {
+    "niche": "matcha",
+    "kop": "Zo groeien matchamerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw matchamerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag. Een welkomstmail en een vaste nieuwsbrief zorgen dat die kopers een tweede zak bestellen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinkmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij food- en drinkmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1562:71",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Megami, je 15% staat klaar",
+    "kop": "Welkom bij Megami.",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: de 15% korting op de eerste bestelling, waar de matcha vandaan komt en hoe je je eerste kom maakt.",
+    "punten": [
+      "Eerste oogst uit Kagoshima",
+      "Op steen gemalen, zonder hitte",
+      "Je eerste kom in vier stappen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1562:71",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Megami, je 15% staat klaar",
+      "kop": "Welkom bij Megami.",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: de 15% korting op de eerste bestelling, waar de matcha vandaan komt en hoe je je eerste kom maakt.",
+      "punten": [
+        "Eerste oogst uit Kagoshima",
+        "Op steen gemalen, zonder hitte",
+        "Je eerste kom in vier stappen"
+      ]
+    },
+    {
+      "node": "1562:116",
+      "type": "Merkverhaal",
+      "onderwerp": "Het begon met één kop matcha",
+      "kop": "Het begon met één kop matcha.",
+      "tekst": "Het verhaal van Merel en Cecile, wat er in elke zak zit en waarom Megami godin betekent, met de membership als volgende stap.",
+      "punten": [
+        "Het verhaal van Merel en Cecile",
+        "Labgetest in Europa",
+        "Elke maand verse matcha met 15% korting"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

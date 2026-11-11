@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "witlof-xwbjv",
+  "merk": "Witlof Skincare",
+  "domein": "witlofskincare.com",
+  "lead_id": "2026-10-28-witlofskincare.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4A86C8",
+  "kop": "Drie nieuwe invalshoeken voor een rustige huid.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Witlof, ik heb dit gemaakt omdat jullie zoveel uitleg en persoonlijk advies geven, van de huidtest tot het gratis consult met Caroline. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1554:3",
+      "titel": "Reviews in beeld",
+      "waarom": "Echte reviews en jullie score naast het product overtuigen mensen die Witlof nog niet kennen."
+    },
+    {
+      "node": "1554:36",
+      "titel": "De routine in drie stappen",
+      "waarom": "Een duidelijke routine maakt een set makkelijker te kopen dan losse producten."
+    },
+    {
+      "node": "1554:63",
+      "titel": "Aloë vera in plaats van water",
+      "waarom": "Eén concreet verschil met andere lotions blijft beter hangen dan een lijst met claims."
+    }
+  ],
+  "waarom": {
+    "niche": "huidverzorging",
+    "kop": "Zo groeien huidverzorgingsmerken op Instagram.",
+    "tekst": "Jullie adverteren al, dus de basis staat. Een paar advertenties doen meestal het meeste werk en worden na een paar weken moe. Merken die elke week nieuwe varianten testen, houden hun kosten per aankoop laag, en een vaste nieuwsbrief zorgt dat kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij huidverzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij huidverzorgingsmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1555:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Witlof",
+    "kop": "Welkom bij Witlof",
+    "tekst": "Een welkomstmail die de €5 welkomstkorting meteen laat zien, twee bestsellers uitlegt en eindigt met jullie gratis huidconsult.",
+    "punten": [
+      "€5 korting op de eerste bestelling",
+      "Bestsellers met korte uitleg per huidtype",
+      "Gratis huidconsult met Caroline"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1555:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Witlof",
+      "kop": "Welkom bij Witlof",
+      "tekst": "Een welkomstmail die de €5 welkomstkorting meteen laat zien, twee bestsellers uitlegt en eindigt met jullie gratis huidconsult.",
+      "punten": [
+        "€5 korting op de eerste bestelling",
+        "Bestsellers met korte uitleg per huidtype",
+        "Gratis huidconsult met Caroline"
+      ]
+    },
+    {
+      "node": "1555:52",
+      "type": "Productvergelijking",
+      "onderwerp": "Lotion of crème: welke past bij jouw huid?",
+      "kop": "Welke past bij jouw huid?",
+      "tekst": "De Hydrating Calming Lotion en de Rich Facial Cream naast elkaar, zodat lezers zelf kiezen wat hun huid nodig heeft.",
+      "punten": [
+        "Vergelijking op huidtype, textuur en ingrediënten",
+        "Huidtest als eerste knop",
+        "Huidconsult als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
