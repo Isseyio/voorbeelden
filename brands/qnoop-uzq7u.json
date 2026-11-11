@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "qnoop-uzq7u",
+  "merk": "Qnoop",
+  "domein": "qnoop.com",
+  "lead_id": "2026-11-11-qnoop.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8EB7AF",
+  "kop": "Drie advertenties rond de knoop en de lus",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Qnoop, ik heb dit gemaakt omdat jullie een idee hebben dat iedereen meteen snapt: een knoop en een lus, en nooit meer een losse sok. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1695:3",
+      "titel": "Waar de sok van is gemaakt",
+      "waarom": "De knoop, het biologisch katoen en de fabriek in Portugal staan naast elkaar, zodat in één beeld duidelijk is waarom een Qnoop-sok meer is dan een sok."
+    },
+    {
+      "node": "1695:30",
+      "titel": "Koop 3, krijg 4",
+      "waarom": "Jullie echte 3+1-actie groot in beeld, met vier kleuren 2 Way Rib, zet mensen aan om meteen een la vol te bestellen."
+    },
+    {
+      "node": "1695:58",
+      "titel": "Nooit meer één sok kwijt",
+      "waarom": "Een korte, herkenbare belofte met jullie eigen foto's tussen de woorden valt op tussen de posts en vertelt het verhaal zonder uitleg."
+    }
+  ],
+  "waarom": {
+    "niche": "sokken",
+    "kop": "Zo groeien sokkenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sokkenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun la weer leeg is.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sokkenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Happy Socks nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1695:81",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Qnoop",
+    "kop": "Welkom bij Qnoop",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wat een Qnoop-sok anders maakt en de 3+1-actie die jullie al hebben.",
+    "punten": [
+      "Knoop en lus in één zin uitgelegd",
+      "Biologisch katoen, altijd een paar en gratis verzending vanaf €30",
+      "Koop 3 paar, krijg het 4e gratis"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1695:81",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Qnoop",
+      "kop": "Welkom bij Qnoop",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wat een Qnoop-sok anders maakt en de 3+1-actie die jullie al hebben.",
+      "punten": [
+        "Knoop en lus in één zin uitgelegd",
+        "Biologisch katoen, altijd een paar en gratis verzending vanaf €30",
+        "Koop 3 paar, krijg het 4e gratis"
+      ]
+    },
+    {
+      "node": "1695:113",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom je nooit meer een sok kwijtraakt",
+      "kop": "Bring it together.",
+      "tekst": "Een merkverhaalmail rond het idee achter Qnoop: 1,3 sok per maand verdwijnt in de was, en daarom kreeg elke sok een knoop en een lus.",
+      "punten": [
+        "De Sea Green-sok met labels: knoop en lus, biologisch katoen, elastaan, Portugal",
+        "Een echte foto uit de fabriek in Portugal",
+        "Sokken vanaf €9,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

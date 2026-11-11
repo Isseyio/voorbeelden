@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "somethingfancy-sk86t",
+  "merk": "Something Fancy",
+  "domein": "somethingfancy.nl",
+  "lead_id": "2026-10-28-somethingfancy.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8C7A69",
+  "kop": "Drie ideeën voor Something Fancy",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Something Fancy, ik heb dit gemaakt omdat matching sieraden voor baasje en hond zo'n leuk idee zijn om te laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1694:4",
+      "titel": "10% welkomstkorting",
+      "waarom": "Jullie welkomstkorting groot in beeld maakt van een eerste klik meteen een inschrijving."
+    },
+    {
+      "node": "1694:5",
+      "titel": "Sequins voor elk feestje",
+      "waarom": "Een kop met foto's tussen de woorden valt op in de feed en laat drie stuks met prijs zien."
+    },
+    {
+      "node": "1694:6",
+      "titel": "A pawfect match",
+      "waarom": "De matching set van baasje en hond in één beeld vertelt meteen wat Something Fancy anders maakt."
+    }
+  ],
+  "waarom": {
+    "niche": "mode en sieraden",
+    "kop": "Zo groeien mode- en sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een welkomstmail met jullie 10% korting zorgt dat die kopers ook echt bestellen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij mode- en sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Loavies nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1694:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Fijn dat je er bent",
+    "kop": "Fijn dat je er bent",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% welkomstkorting die jullie al beloven, meteen gekoppeld aan waar Something Fancy om draait, met de matching sets voor baasje en hond als tweede blok.",
+    "punten": [
+      "10% welkomstkorting duidelijk bovenaan",
+      "Waterproof sieraden, €1 per bestelling voor Dierenzorg Zaanstreek, gratis verzending vanaf €50",
+      "Matching sets voor jou en je hond"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1694:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Fijn dat je er bent",
+      "kop": "Fijn dat je er bent",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% welkomstkorting die jullie al beloven, meteen gekoppeld aan waar Something Fancy om draait, met de matching sets voor baasje en hond als tweede blok.",
+      "punten": [
+        "10% welkomstkorting duidelijk bovenaan",
+        "Waterproof sieraden, €1 per bestelling voor Dierenzorg Zaanstreek, gratis verzending vanaf €50",
+        "Matching sets voor jou en je hond"
+      ]
+    },
+    {
+      "node": "1694:8",
+      "type": "Assortimentsmail",
+      "onderwerp": "Klaar voor elk feestje",
+      "kop": "Klaar voor elk feestje",
+      "tekst": "Een assortimentsmail rond de feestdagen met vier favorieten uit de kledingcollectie, elk met prijs en knop, en een afsluiter voor de Fancy Pets.",
+      "punten": [
+        "Cute Ruffles blouse, Sequins rok, Waterfall jurk en Tailored blazer",
+        "Prijs en knop per product",
+        "Afsluiter met bandana's en matching sets voor honden"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

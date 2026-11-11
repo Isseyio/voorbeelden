@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "johnaltman-qqb6d",
+  "merk": "John Altman",
+  "domein": "johnaltman.nl",
+  "lead_id": "2026-11-11-johnaltman.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#F17830",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor John Altman",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team John Altman, ik heb dit gemaakt omdat jullie popcorn met maar drie ingrediënten en die vrolijke zakken zich goed lenen voor Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1667:3",
+      "titel": "Good snacking",
+      "waarom": "Een zoekbalk met 'chips zonder palmolie' sluit aan op waar mensen al naar zoeken en laat meteen het hele assortiment zien."
+    },
+    {
+      "node": "1667:18",
+      "titel": "Zoet of zout?",
+      "waarom": "Een simpele keuze tussen twee smaken maakt het makkelijk om te reageren en door te klikken."
+    },
+    {
+      "node": "1667:43",
+      "titel": "Je borrel belt",
+      "waarom": "Een speels belscherm valt op tussen gewone posts en zet de truffelchips op het moment dat mensen aan de borrel denken."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien snackmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw snackmerk niet in het schap, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een nieuwe voorraad.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij foodmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1668:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij John Altman",
+    "kop": "Welkom bij John Altman",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie John Altman is, waar de snacks voor staan en een eerste zak om mee te beginnen.",
+    "punten": [
+      "Biologisch, 100% natuurlijk en zonder palmolie",
+      "Vegan popcorn en chips",
+      "1% van de omzet naar Trees for All",
+      "Doorklik naar de Popcorn Sea Salt"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1668:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij John Altman",
+      "kop": "Welkom bij John Altman",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie John Altman is, waar de snacks voor staan en een eerste zak om mee te beginnen.",
+      "punten": [
+        "Biologisch, 100% natuurlijk en zonder palmolie",
+        "Vegan popcorn en chips",
+        "1% van de omzet naar Trees for All",
+        "Doorklik naar de Popcorn Sea Salt"
+      ]
+    },
+    {
+      "node": "1668:35",
+      "type": "Productspotlight",
+      "onderwerp": "Vier favorieten uit de webshop",
+      "kop": "Vier favorieten uit de webshop",
+      "tekst": "Een productmail met vier snacks naast elkaar, elk met een korte uitleg, prijs en knop, en jullie eigen foto met alle zakken.",
+      "punten": [
+        "Popcorn Sea Salt €1,89",
+        "Popcorn Salted Caramel €2,39",
+        "Sweet Potato Chips Truffle €3,19",
+        "Lentil Chips Vegan Cheese €3,19"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

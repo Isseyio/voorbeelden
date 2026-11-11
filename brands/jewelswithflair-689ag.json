@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "jewelswithflair-689ag",
+  "merk": "Jewels with Flair",
+  "domein": "jewelswithflair.nl",
+  "lead_id": "2026-10-28-jewelswithflair.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A9532F",
+  "kop": "Drie ideeën rond jullie edelstenen",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Jewels with Flair, ik heb dit gemaakt omdat jullie geboortesteen armband, waarbij klanten zelf hun stenen kiezen, zo'n mooi verhaal is om te laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1689:4",
+      "titel": "Kies je geboortestenen",
+      "waarom": "Laat in één beeld zien dat je de armband zelf samenstelt, met echte stenen per maand."
+    },
+    {
+      "node": "1689:5",
+      "titel": "Zilver of goud",
+      "waarom": "Twee versies naast elkaar met hun prijs maken de keuze makkelijk en laten het hele aanbod zien."
+    },
+    {
+      "node": "1689:6",
+      "titel": "Tot in het detail",
+      "waarom": "Een close-up met uitleg bij steen, parel en oorhaak laat het handwerk zien dat je op een kleine foto mist."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1689:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Jewels with Flair",
+    "kop": "Welkom bij Jewels with Flair",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers van Mail met Flair: wie Erlinde is, waarom elk sieraad met de hand in Alkmaar wordt gemaakt, en meteen de geboortesteen armband als bestseller.",
+    "punten": [
+      "Handgemaakt in het eigen atelier in Alkmaar",
+      "Echte edelstenen, steekproefsgewijs gecontroleerd door Naturalis",
+      "Gratis verzending vanaf €60, verpakt als cadeau"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1689:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Jewels with Flair",
+      "kop": "Welkom bij Jewels with Flair",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers van Mail met Flair: wie Erlinde is, waarom elk sieraad met de hand in Alkmaar wordt gemaakt, en meteen de geboortesteen armband als bestseller.",
+      "punten": [
+        "Handgemaakt in het eigen atelier in Alkmaar",
+        "Echte edelstenen, steekproefsgewijs gecontroleerd door Naturalis",
+        "Gratis verzending vanaf €60, verpakt als cadeau"
+      ]
+    },
+    {
+      "node": "1689:8",
+      "type": "Merkverhaal",
+      "onderwerp": "Van de werktafel in Alkmaar",
+      "kop": "Sinds 2012 maakt Erlinde elk sieraad zelf",
+      "tekst": "Een merkverhaalmail met Erlinde aan het werk, de labradoriet oorbellen met parel uitgelicht en een uitnodiging voor maatwerk.",
+      "punten": [
+        "Het verhaal achter het atelier",
+        "Labradoriet en zoetwaterparel uitgelicht, vanaf €59,95",
+        "Maatwerk met je eigen steen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
