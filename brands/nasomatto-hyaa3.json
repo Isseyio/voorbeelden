@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "nasomatto-hyaa3",
+  "merk": "Nasomatto",
+  "domein": "nasomatto.com",
+  "lead_id": "2026-11-05-nasomatto.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Vier houtsoorten, vier geuren: Nasomatto op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Nasomatto, ik heb dit gemaakt omdat elke dop bij jullie van een andere houtsoort is, van verbrand eikenhout tot padouk. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1630:4",
+      "titel": "Elke dop een eigen hout",
+      "waarom": "Laat in één beeld zien wat Nasomatto herkenbaar maakt: vier doppen, vier houtsoorten."
+    },
+    {
+      "node": "1630:26",
+      "titel": "Begin met 4 ml",
+      "waarom": "De roller van €55 maakt de stap naar een geur van €130 kleiner voor nieuwe kopers."
+    },
+    {
+      "node": "1630:47",
+      "titel": "Je signatuurgeur belt",
+      "waarom": "Een speels format dat opvalt tussen de gewone parfumadvertenties tijdens het scrollen."
+    }
+  ],
+  "waarom": {
+    "niche": "geur",
+    "kop": "Zo groeien geurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe geur niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij geurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Byredo nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1630:60",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Nasomatto",
+    "kop": "Welkom bij Nasomatto",
+    "tekst": "Een welkomstmail die nieuwe inschrijvers meteen laat zien wat Nasomatto anders maakt: kleine flesjes, een dop van een eigen houtsoort en alles gemaakt in Italië.",
+    "punten": [
+      "Gratis verzending vanaf €100 en twee gratis samples bij elke bestelling",
+      "Gemaakt in Italië",
+      "De 4 ml roller van €55 als makkelijke eerste stap"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1630:60",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Nasomatto",
+      "kop": "Welkom bij Nasomatto",
+      "tekst": "Een welkomstmail die nieuwe inschrijvers meteen laat zien wat Nasomatto anders maakt: kleine flesjes, een dop van een eigen houtsoort en alles gemaakt in Italië.",
+      "punten": [
+        "Gratis verzending vanaf €100 en twee gratis samples bij elke bestelling",
+        "Gemaakt in Italië",
+        "De 4 ml roller van €55 als makkelijke eerste stap"
+      ]
+    },
+    {
+      "node": "1630:89",
+      "type": "Assortimentsmail",
+      "onderwerp": "Vier geuren, vier verhalen",
+      "kop": "Vier geuren, vier verhalen",
+      "tekst": "Black Afgano, Pardon, Nudiflorum en Sadonaso naast elkaar, elk met hun eigen verhaal en houtsoort, zodat lezers makkelijk een geur kiezen.",
+      "punten": [
+        "Per geur één zin uit jullie eigen productteksten",
+        "Prijzen voor 30 ml en 4 ml bij elke geur",
+        "Afsluiter met jullie eigen zin over de zintuigen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
