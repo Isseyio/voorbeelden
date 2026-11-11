@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "mayli-256mw",
+  "merk": "MAYLI Jewels",
+  "domein": "mayli-jewels.com",
+  "lead_id": "2026-11-01-mayli-jewels.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#243752",
+  "kop": "Jade, goud en een verhaal: drie ideeën voor MAYLI.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team MAYLI Jewels, ik heb dit gemaakt omdat jullie jade ringen en het verhaal van Nhi zich heel goed lenen voor Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1797:3",
+      "titel": "€10 welkomstkorting",
+      "waarom": "De korting die jullie al geven, groot in beeld boven jullie eigen campagnefoto, geeft nieuwe kijkers een concrete reden om in te schrijven."
+    },
+    {
+      "node": "1797:14",
+      "titel": "Jade met betekenis",
+      "waarom": "Laat in één beeld zien waar een MAYLI-sieraad van gemaakt is en wie het ontwerpt, zodat de prijs logisch voelt."
+    },
+    {
+      "node": "1797:36",
+      "titel": "Eén sieraad voor het leven",
+      "waarom": "Een omgekeerde kop valt op tijdens het scrollen en zet jullie garantie en ringmaten in de verf."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft TOV Essentials nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1797:52",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij MAYLI, hier is je €10 korting",
+    "kop": "Welkom bij MAYLI",
+    "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: wie MAYLI is, de €10 korting op de eerste bestelling die jullie al beloven, en hulp bij het vinden van de juiste ringmaat.",
+    "punten": [
+      "€10 korting op de eerste bestelling, zoals op jullie site",
+      "Birmese jade, gerecycled metaal en maten 14 tot en met 21 in drie beelden",
+      "Ring sizer van €5,95 voor wie twijfelt over de maat"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1797:52",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij MAYLI, hier is je €10 korting",
+      "kop": "Welkom bij MAYLI",
+      "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: wie MAYLI is, de €10 korting op de eerste bestelling die jullie al beloven, en hulp bij het vinden van de juiste ringmaat.",
+      "punten": [
+        "€10 korting op de eerste bestelling, zoals op jullie site",
+        "Birmese jade, gerecycled metaal en maten 14 tot en met 21 in drie beelden",
+        "Ring sizer van €5,95 voor wie twijfelt over de maat"
+      ]
+    },
+    {
+      "node": "1797:79",
+      "type": "Merkverhaal",
+      "onderwerp": "Hoe MAYLI begon met één ring die paste",
+      "kop": "Begonnen met één ring die wél paste",
+      "tekst": "Het verhaal van Nhi en MAYLI sinds 2014, de jade ringen uitgelicht, en een uitnodiging voor een afspraak voor maatwerk.",
+      "punten": [
+        "Het ontstaan van MAYLI en de naam Měilì",
+        "Jade ringen vanaf €90 met vier kenmerken",
+        "Afsluiting met maatwerk op afspraak"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
