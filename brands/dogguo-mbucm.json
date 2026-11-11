@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "dogguo-mbucm",
+  "merk": "DOGGUO",
+  "domein": "dogguo.com",
+  "lead_id": "2026-11-10-dogguo.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5A1E24",
+  "kop": "Drie nieuwe invalshoeken voor jullie manden",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team DOGGUO, ik heb dit gemaakt omdat jullie manden er in de FW27- en Loods 5-foto's echt als meubel uitzien, en dat verdient meer dan één soort advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1737:7",
+      "titel": "Past bij jouw bank",
+      "waarom": "Een grote typografische kop met jullie sfeerfoto's ertussen laat in één blik zien dat de mand bij het interieur hoort, niet in de hoek."
+    },
+    {
+      "node": "1737:25",
+      "titel": "Vanaf €79,99",
+      "waarom": "De prijs bovenaan en jullie logo over een rustige sfeerfoto werken goed voor mensen die het merk al eens zagen en twijfelen."
+    },
+    {
+      "node": "1737:35",
+      "titel": "Mesa of Heritage stripe",
+      "waarom": "Twee patronen naast elkaar laten kiezen voelt als winkelen en geeft je meteen te zien welk patroon het meest wordt aangeklikt."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien huisdierenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk voor hun hond niet via Google, maar tijdens het scrollen. Een advertentie wordt na een paar weken moe: dezelfde mensen zien hem steeds weer en klikken minder. Merken die elke week nieuwe varianten testen, houden hun kosten per aankoop laag, en een vaste nieuwsbrief brengt kopers terug.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "200+",
+        "label": "advertenties heeft BuddyBeds nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1737:109",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij DOGGUO, hier is je €5",
+    "kop": "Welkom bij DOGGUO",
+    "tekst": "Een welkomstmail die het €5-welkomstvoordeel van de site direct waarmaakt, met een sfeerfoto uit de FW27-collectie en drie redenen om te blijven lezen.",
+    "punten": [
+      "€5 korting op de eerste bestelling, zoals op de site beloofd",
+      "Vroege toegang tot drops, wasbare hoezen en de verzendgrens",
+      "Tweede blok met de Organic tiles carrier bag"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1737:109",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij DOGGUO, hier is je €5",
+      "kop": "Welkom bij DOGGUO",
+      "tekst": "Een welkomstmail die het €5-welkomstvoordeel van de site direct waarmaakt, met een sfeerfoto uit de FW27-collectie en drie redenen om te blijven lezen.",
+      "punten": [
+        "€5 korting op de eerste bestelling, zoals op de site beloofd",
+        "Vroege toegang tot drops, wasbare hoezen en de verzendgrens",
+        "Tweede blok met de Organic tiles carrier bag"
+      ]
+    },
+    {
+      "node": "1737:137",
+      "type": "Collectiemail",
+      "onderwerp": "DOGGUO x Loods 5 is live",
+      "kop": "The art of living together.",
+      "tekst": "Een collectiemail rond de samenwerking met Loods 5: de modelfoto als hero en vier producten uit de limited edition, elk met prijs en knop.",
+      "punten": [
+        "Hero met de Loods 5-campagnefoto",
+        "Urban weave, Stripe en Plaid Chow met prijs",
+        "Afsluiting: ook exclusief bij Loods 5"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

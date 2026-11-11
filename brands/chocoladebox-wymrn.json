@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "chocoladebox-wymrn",
+  "merk": "Chocoladebox.nl",
+  "domein": "chocoladebox.nl",
+  "lead_id": "2026-11-11-chocoladebox.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C9A253",
+  "kop": "Chocoladeletters op Instagram, rond pakjesavond",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Chocoladebox, ik heb dit gemaakt omdat jullie luxe chocoladeletters met pistache, pecan en salted caramel juist nu in deze weken gekocht worden. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1737:57",
+      "titel": "Welke letter dit jaar?",
+      "waarom": "Twee smaken naast elkaar laten kiezen werkt goed bij een cadeau: mensen klikken door om de rest te bekijken."
+    },
+    {
+      "node": "1737:74",
+      "titel": "Een letter belt aan",
+      "waarom": "Een speelse inkomende oproep valt op tussen gewone productfoto's en past bij de Sinterklaastijd."
+    },
+    {
+      "node": "1737:87",
+      "titel": "Vier smaken uitgelegd",
+      "waarom": "Echte close-ups van pistache, hazelnoot, pecan en salted caramel laten de kwaliteit zien zonder grote woorden."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien chocolademerken op Instagram.",
+    "tekst": "Chocolade is een impulscadeau: mensen ontdekken het tijdens het scrollen, vooral in de weken voor Sinterklaas en kerst. Merken die dan elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers bij het volgende moment terugkomen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food & drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Van Delft nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1737:180",
+    "type": "Welkomstmail",
+    "onderwerp": "Fijn dat je er bent",
+    "kop": "Fijn dat je er bent.",
+    "tekst": "Een welkomstmail die nieuwe inschrijvers meteen jullie favorieten voor pakjesavond laat zien: de luxe chocoladeletters, de Sintjes voor door de brievenbus en de gouden S.",
+    "punten": [
+      "Gaat automatisch weg na inschrijving via het footerveld",
+      "Laat drie producten zien met prijs en een eigen knop",
+      "Vertelt in twee zinnen over het atelier en de Callebaut-chocolade"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1737:180",
+      "type": "Welkomstmail",
+      "onderwerp": "Fijn dat je er bent",
+      "kop": "Fijn dat je er bent.",
+      "tekst": "Een welkomstmail die nieuwe inschrijvers meteen jullie favorieten voor pakjesavond laat zien: de luxe chocoladeletters, de Sintjes voor door de brievenbus en de gouden S.",
+      "punten": [
+        "Gaat automatisch weg na inschrijving via het footerveld",
+        "Laat drie producten zien met prijs en een eigen knop",
+        "Vertelt in twee zinnen over het atelier en de Callebaut-chocolade"
+      ]
+    },
+    {
+      "node": "1737:233",
+      "type": "Zakelijk merkverhaal",
+      "onderwerp": "Een letter vol waardering",
+      "kop": "Een letter vol waardering.",
+      "tekst": "Een mail voor zakelijke kopers die uitlegt wat er in een letter zit: Callebaut-chocolade, afwerking in het eigen atelier, een eetbare logo-opdruk en bezorging op meerdere adressen.",
+      "punten": [
+        "Zet de zakelijke Sinterklaasletters centraal",
+        "Noemt de minimale aantallen en de levertijd van 2 tot 3 weken",
+        "Eindigt met een duidelijke knop om de letter samen te stellen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
