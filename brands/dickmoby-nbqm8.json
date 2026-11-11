@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "dickmoby-nbqm8",
+  "merk": "DICK MOBY",
+  "domein": "dick-moby.com",
+  "lead_id": "2026-11-02-dick-moby.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#005F7C",
+  "kop": "Verspil niets. Zie alles.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team DICK MOBY, ik heb dit gemaakt omdat jullie belofte \"Waste nothing. See everything.\" zich goed leent voor Instagram, zeker met de Lucca en jullie zeebeelden. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1745:4",
+      "titel": "Prijs en merk",
+      "waarom": "Een duidelijke prijs met het merk groot in beeld laat in één seconde zien wat je koopt en bij wie."
+    },
+    {
+      "node": "1745:14",
+      "titel": "De Lucca van dichtbij",
+      "waarom": "Bij een bril van €260 willen mensen de details zien: ZEISS-lenzen, de vorm en wat je er gratis bij krijgt."
+    },
+    {
+      "node": "1745:38",
+      "titel": "Verspil niets. Zie alles.",
+      "waarom": "Jullie eigen belofte als grote typografie met zeebeelden valt op tussen gewone productfoto's en vertelt meteen waar het merk voor staat."
+    }
+  ],
+  "waarom": {
+    "niche": "brillen en accessoires",
+    "kop": "Zo groeien accessoiremerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw brillenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Komono nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1745:50",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij DICK MOBY",
+      "kop": "Welkom bij DICK MOBY",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn, waarom jullie alleen gerecyclede en afbreekbare materialen gebruiken, en de Lucca als eerste stap.",
+      "punten": [
+        "Verspil niets, gaat jaren mee, zie alles",
+        "De Lucca met gratis gerecycled leren etui",
+        "Gratis wereldwijde verzending en 30 dagen retour"
+      ]
+    },
+    {
+      "node": "1745:87",
+      "type": "Merkverhaal",
+      "onderwerp": "Wij dromen van een wereld zonder afval",
+      "kop": "Wij dromen van een wereld zonder afval.",
+      "tekst": "Een mail over jullie missie en de ZEISS-lenzen, met de Lucca en zijn details uitgelicht.",
+      "punten": [
+        "Missie: alleen gerecyclede of afbreekbare materialen",
+        "Lucca · Dusk Sky met vier details",
+        "Het draait om de lenzen: ZEISS, 100% UV-bescherming"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11",
+  "nieuwsbrief": {
+    "node": "1745:50",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij DICK MOBY",
+    "kop": "Welkom bij DICK MOBY",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn, waarom jullie alleen gerecyclede en afbreekbare materialen gebruiken, en de Lucca als eerste stap.",
+    "punten": [
+      "Verspil niets, gaat jaren mee, zie alles",
+      "De Lucca met gratis gerecycled leren etui",
+      "Gratis wereldwijde verzending en 30 dagen retour"
+    ]
+  }
+}

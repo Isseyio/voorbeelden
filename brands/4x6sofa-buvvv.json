@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "4x6sofa-buvvv",
+  "merk": "4x6 sofa",
+  "domein": "4x6sofa.com",
+  "lead_id": "2026-11-03-4x6sofa.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#442b25",
+  "kop": "Modulaire banken in 24 kleuren, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team 4x6 sofa, ik heb dit gemaakt omdat jullie vaste prijs per set, welke kleur je ook kiest, een sterk verhaal is voor advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1747:3",
+      "titel": "24 kleuren",
+      "waarom": "De kleurstalen zijn jullie laagdrempeligste eerste stap, en 24 kleuren voor dezelfde prijs maakt nieuwsgierig."
+    },
+    {
+      "node": "1747:24",
+      "titel": "Vaste prijs",
+      "waarom": "Een duidelijke prijs boven een echte woonkamer haalt de twijfel weg die bij een bank van rond de 2.000 euro hoort."
+    },
+    {
+      "node": "1747:32",
+      "titel": "Je nieuwe bank belt",
+      "waarom": "Een speelse invalshoek voor de snel leverbare bestsellers: binnen 4 tot 6 weken in huis."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen",
+    "kop": "Zo groeien woonmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe bank niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief houdt die kopers warm tijdens de weken dat ze nog twijfelen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woonmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Sofacompany nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1747:46",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij 4x6 sofa",
+    "kop": "Welkom bij 4x6 sofa",
+    "tekst": "Een welkomstmail die nieuwe inschrijvers meteen naar de gratis kleurstalen en de showroom stuurt, zodat de lange keuzetijd voor een bank niet koud wordt.",
+    "punten": [
+      "5 gratis kleurstalen als eerste stap",
+      "Proefzitten in Naarden of Breda",
+      "Snel leverbare bestsellers"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1747:46",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij 4x6 sofa",
+      "kop": "Welkom bij 4x6 sofa",
+      "tekst": "Een welkomstmail die nieuwe inschrijvers meteen naar de gratis kleurstalen en de showroom stuurt, zodat de lange keuzetijd voor een bank niet koud wordt.",
+      "punten": [
+        "5 gratis kleurstalen als eerste stap",
+        "Proefzitten in Naarden of Breda",
+        "Snel leverbare bestsellers"
+      ]
+    },
+    {
+      "node": "1747:80",
+      "type": "Assortiment",
+      "onderwerp": "Jouw bank, jouw opstelling",
+      "kop": "Jouw bank, jouw opstelling",
+      "tekst": "Een assortimentsmail die de modellen X1, X2, X3 en X6 naast elkaar zet, met de Trustpilot-score als bewijs.",
+      "punten": [
+        "Vier modellen in één oogopslag",
+        "Zelf samenstellen als hoofdknop",
+        "4,9 op Trustpilot uit 462 reviews"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
