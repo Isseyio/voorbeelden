@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "atraceofblue-8bxue",
+  "merk": "a Trace of Blue",
+  "domein": "atraceofblue.nl",
+  "lead_id": "2026-10-28-atraceofblue.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1E3A6E",
+  "kop": "Zeeuwse knoop, Delfts blauw en lapis: drie advertenties voor a Trace of Blue.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team a Trace of Blue, ik heb dit gemaakt omdat jullie de Zeeuwse knoop en Delfts blauw omzetten in nieuwe sieraden, en dat verhaal goed werkt in een advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1497:2",
+      "titel": "Een stukje Zeeland",
+      "waarom": "Een hand met het echte sieraad laat meteen zien hoe klein en fijn het is, de kenmerken eromheen vertellen de rest."
+    },
+    {
+      "node": "1497:18",
+      "titel": "Lapis lazuli van dichtbij",
+      "waarom": "Labels op de foto beantwoorden de vragen die mensen hebben voordat ze klikken: welke steen, welk zilver en waar het gemaakt is."
+    },
+    {
+      "node": "1497:43",
+      "titel": "Alles in het blauw",
+      "waarom": "Eén groot woord en vier sieraden met prijs vallen op in de feed en laten in één keer de hele collectie zien."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1498:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij a Trace of Blue",
+    "kop": "Welkom bij a Trace of Blue",
+    "tekst": "Fijn dat je er bent. Elk sieraad maak ik met de hand in mijn atelier in Enkhuizen.",
+    "punten": [
+      "Met de hand gemaakt van zilver, goud, parels of echte edelstenen",
+      "Atelier in Enkhuizen, op loopafstand van de haven",
+      "Na je eerste aankoop korting op vervolgbestellingen met de VIP-actie"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1498:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij a Trace of Blue",
+      "kop": "Welkom bij a Trace of Blue",
+      "tekst": "Fijn dat je er bent. Elk sieraad maak ik met de hand in mijn atelier in Enkhuizen.",
+      "punten": [
+        "Met de hand gemaakt van zilver, goud, parels of echte edelstenen",
+        "Atelier in Enkhuizen, op loopafstand van de haven",
+        "Na je eerste aankoop korting op vervolgbestellingen met de VIP-actie"
+      ]
+    },
+    {
+      "node": "1498:31",
+      "type": "Productspotlight",
+      "onderwerp": "Een spoor van blauw, met de hand gemaakt",
+      "kop": "Een spoor van blauw, met de hand gemaakt",
+      "tekst": "Een spotlight op de zilveren ketting met lapis lazuli hanger, met het verhaal van het atelier in Enkhuizen en de collectie Spoor van iets blauws.",
+      "punten": [
+        "Lapis lazuli, facet geslepen, in sterling zilver",
+        "Uit het atelier in Enkhuizen, ook op maat",
+        "Afsluiting met de Delfts blauwe ring van €119"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
