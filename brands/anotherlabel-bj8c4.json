@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "anotherlabel-bj8c4",
+  "merk": "Another-Label",
+  "domein": "another-label.com",
+  "lead_id": "2026-11-01-another-label.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2B2523",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Another-Label, rond de winter '26-collectie.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Another-Label, ik heb dit gemaakt omdat jullie collectie draait om stukken die je eindeloos kunt combineren, en dat laat zich goed zien in een advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1373:4",
+      "titel": "Eén stuk, één prijs",
+      "waarom": "Een duidelijke prijs bovenaan en jullie logo groot over een echte campagnefoto maken in één blik duidelijk wat het is en wat het kost."
+    },
+    {
+      "node": "1373:13",
+      "titel": "New in, in één beeld",
+      "waarom": "Een groot woord met een zoekbalk en drie packshots voelt als een eigen post en laat meteen zien wat er nieuw binnen is, met prijzen erbij."
+    },
+    {
+      "node": "1373:36",
+      "titel": "De details van dichtbij",
+      "waarom": "Een close-up van de knit met korte labels over wol, pasvorm en hals beantwoordt de vragen die iemand anders pas op de productpagina stelt."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw modemerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als er iets nieuws binnen is.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft JOSH V nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1374:60",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Another-Label",
+    "kop": "Welkom bij Another-Label.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn als Amsterdams stijlmerk, wat 'effortless combinations' betekent en meteen een look om mee te beginnen.",
+    "punten": [
+      "Hero met jullie eigen campagnefoto en een kaart met het merkverhaal en de levering vóór 11:00",
+      "De Vivia pants uitgelicht met vier labels: katoen, barrel fit, zakken en de prijs",
+      "Afsluiting in donker met de look Lottie knitted pull op Vivia pants"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1374:60",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Another-Label",
+      "kop": "Welkom bij Another-Label.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn als Amsterdams stijlmerk, wat 'effortless combinations' betekent en meteen een look om mee te beginnen.",
+      "punten": [
+        "Hero met jullie eigen campagnefoto en een kaart met het merkverhaal en de levering vóór 11:00",
+        "De Vivia pants uitgelicht met vier labels: katoen, barrel fit, zakken en de prijs",
+        "Afsluiting in donker met de look Lottie knitted pull op Vivia pants"
+      ]
+    },
+    {
+      "node": "1374:115",
+      "type": "Nieuwe collectie",
+      "onderwerp": "Nieuw binnen voor de winter",
+      "kop": "Nieuw binnen voor de winter.",
+      "tekst": "Een assortimentsmail met vier favorieten uit New in, elk met packshot, korte tekst, prijs en knop.",
+      "punten": [
+        "Hero met jullie eigen foto van de Siya Alpin sweat",
+        "Siya Alpin sweat, Emily en Lottie knitted pull en de Isaure dress",
+        "Blok 'Loved by 10.000+ Another-Lovers' met de #ANOTHERGIRLS-oproep"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

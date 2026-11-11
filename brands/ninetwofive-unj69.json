@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "ninetwofive-unj69",
+  "merk": "NineTwoFive",
+  "domein": "ninetwofive.com",
+  "lead_id": "2026-11-01-ninetwofive.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor NineTwoFive, rond massief zilver, gratis gravure en de keuze tussen Fariq en Zahir.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team NineTwoFive, ik heb dit gemaakt omdat jullie sieraden beginnen als schets geïnspireerd op architectuur, en dat verhaal zag ik nog weinig terug in jullie huidige advertenties, die vooral over de sale gaan. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1374:4",
+      "titel": "Massief 925 zilver",
+      "waarom": "Eén armband groot in beeld met drie korte feiten en de prijs laat de kwaliteit zien zonder korting te noemen."
+    },
+    {
+      "node": "1374:28",
+      "titel": "Gratis gravure",
+      "waarom": "Jullie gratis gravure en cadeaudoos zijn een sterk aanbod voor cadeaukopers, en het grote woordmerk boven jullie eigen foto valt op in de feed."
+    },
+    {
+      "node": "1374:39",
+      "titel": "Breed of fijn?",
+      "waarom": "Twee armbanden naast elkaar laten kiezen in plaats van twijfelen, en tonen meteen twee prijspunten."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "18–28%",
+        "label": "van de online omzet komt bij sieradenmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1374:182",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij NineTwoFive",
+    "kop": "Welkom bij NineTwoFive.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, wat ze van jullie krijgen en meteen de 10% welkomstkorting die jullie site al belooft.",
+    "punten": [
+      "Herokaart in jullie warme donkere tint met jullie eigen foto van Fariq om de pols",
+      "Drie redenen: gratis gravure, levenslange garantie en 60 dagen retour",
+      "Tweede kaart met de 10% welkomstkorting en jullie foto van Zahir in de hand"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1374:182",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij NineTwoFive",
+      "kop": "Welkom bij NineTwoFive.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, wat ze van jullie krijgen en meteen de 10% welkomstkorting die jullie site al belooft.",
+      "punten": [
+        "Herokaart in jullie warme donkere tint met jullie eigen foto van Fariq om de pols",
+        "Drie redenen: gratis gravure, levenslange garantie en 60 dagen retour",
+        "Tweede kaart met de 10% welkomstkorting en jullie foto van Zahir in de hand"
+      ]
+    },
+    {
+      "node": "1374:210",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom elk sieraad begint als schets",
+      "kop": "Geïnspireerd op architectuur.",
+      "tekst": "Een merkverhaalmail die laat zien waar jullie sieraden vandaan komen: de schetsen, sinds 2020, en daarna één product van dichtbij.",
+      "punten": [
+        "Hero met jullie eigen foto van de schetstafel",
+        "Kaart over sinds 2020, eenvoud en oude Arabische patronen, met de 4,7 uit meer dan 4.000 reviews",
+        "Fariq van dichtbij met vier korte feiten en een afsluiting over de cadeaudoos"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
