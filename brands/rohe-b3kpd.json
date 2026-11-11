@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "rohe-b3kpd",
+  "merk": "Róhe",
+  "domein": "roheframes.com",
+  "lead_id": "2026-11-04-roheframes.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Róhe, elke week in een nieuwe invalshoek",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Róhe, ik heb dit gemaakt omdat stukken als de Tulip-oorbellen en het leren blouson een verhaal hebben dat je in één beeld kunt vertellen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1607:4",
+      "titel": "De prijs en het merk",
+      "waarom": "Prijs, materiaal en een groot logo boven een sterke modelfoto vertellen in één seconde wat het is en voor wie."
+    },
+    {
+      "node": "1607:11",
+      "titel": "Zilver tot in detail",
+      "waarom": "Een close-up met korte uitleg bij het sieraad beantwoordt de vragen die mensen bij een sieraad van €345 hebben."
+    },
+    {
+      "node": "1607:29",
+      "titel": "Gebreid in Italië",
+      "waarom": "Een typografische kop met kleine beelden vertelt het verhaal achter de trui, nog voordat iemand de prijs ziet."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "Jullie adverteren al, dus jullie weten dat het werkt. Een advertentie wordt na een paar weken moe: dezelfde mensen zien hem steeds weer en klikken minder. Merken die elke week nieuwe invalshoeken testen, houden hun kosten per aankoop laag.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Filippa K nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1607:46",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Róhe",
+    "kop": "Welkom bij Róhe",
+    "tekst": "Fijn dat je er bent. Vanaf nu hoor je als eerste over nieuwe collecties, en wanneer een uitverkocht stuk terug is.",
+    "punten": [
+      "Italiaanse stoffen, gekozen om jaren mee te gaan",
+      "Ontworpen in het eigen atelier in Amsterdam",
+      "De Tulip-collectie in zilver, vanaf €175"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1607:46",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Róhe",
+      "kop": "Welkom bij Róhe",
+      "tekst": "Fijn dat je er bent. Vanaf nu hoor je als eerste over nieuwe collecties, en wanneer een uitverkocht stuk terug is.",
+      "punten": [
+        "Italiaanse stoffen, gekozen om jaren mee te gaan",
+        "Ontworpen in het eigen atelier in Amsterdam",
+        "De Tulip-collectie in zilver, vanaf €175"
+      ]
+    },
+    {
+      "node": "1607:72",
+      "type": "Merkverhaal",
+      "onderwerp": "Gemaakt om lang te blijven",
+      "kop": "Gemaakt om lang te blijven",
+      "tekst": "Marieke Meulendijks en Maickel Weyers bouwden Róhe als label, ontwerpstudio en atelier in Amsterdam, met Italiaanse stoffen en veel aandacht voor pasvorm.",
+      "punten": [
+        "Leather blouson jacket van 100% schapenleer, €970",
+        "Verlaagde schouders en wijde mouwen, uitgelegd naast het product",
+        "Afsluiter met de flagship store op 77 Mercer Street"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "dzukou-g3uuh",
+  "merk": "Dzukou",
+  "domein": "dzukou.com",
+  "lead_id": "2026-11-11-dzukou.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6B4A33",
+  "kop": "Houten zonnebrillen uit Delft, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Dzukou, ik heb dit gemaakt omdat jullie naam zo mooi in het hout van de Fibonacci gegraveerd staat, en dat detail verdient meer zichtbaarheid. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1611:43",
+      "titel": "Prijs en reuzenlogo",
+      "waarom": "Een duidelijke prijs boven een sterke modelfoto laat in één blik zien wat de Fibonacci is en wat hij kost."
+    },
+    {
+      "node": "1611:53",
+      "titel": "Het hout van dichtbij",
+      "waarom": "Een close-up met korte labels laat zien waarom een houten montuur anders is: walnoothout, gepolariseerde lenzen en 24 gram."
+    },
+    {
+      "node": "1611:78",
+      "titel": "Echt hout",
+      "waarom": "Eén groot woord en drie modellen naast elkaar valt op tussen drukke posts en laat de breedte van de collectie zien."
+    }
+  ],
+  "waarom": {
+    "niche": "accessoires",
+    "kop": "Zo groeien accessoiremerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw zonnebrillenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "18–28%",
+        "label": "van de online omzet komt bij accessoiremerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1612:3",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Dzukou, hier is je 10%",
+      "kop": "Fijn dat je er bent.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% korting die jullie op de site beloven, de Fibonacci in beeld en kort waar jullie voor staan.",
+      "punten": [
+        "10% korting op de volgende aankoop, zoals beloofd in de footer",
+        "Natuurlijke materialen, minder plastic, vóór 22:00 besteld vandaag verzonden",
+        "Ontworpen in Delft, met een deel van de winst naar de Akshar Foundation"
+      ]
+    },
+    {
+      "node": "1612:49",
+      "type": "Merkverhaal",
+      "onderwerp": "Gemaakt voor buiten",
+      "kop": "Gemaakt voor buiten",
+      "tekst": "Een merkverhaal met de Fibonacci in de hoofdrol en de combinatiekorting als afsluiter.",
+      "punten": [
+        "Sinds 2020 vanuit Delft, met zo min mogelijk plastic",
+        "Fibonacci met labels: walnoothout, TAC-lenzen, UV400, kurken etui",
+        "Combineer en bespaar: 12%, 15% of 20% zonder code"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11",
+  "nieuwsbrief": {
+    "node": "1612:3",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Dzukou, hier is je 10%",
+    "kop": "Fijn dat je er bent.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% korting die jullie op de site beloven, de Fibonacci in beeld en kort waar jullie voor staan.",
+    "punten": [
+      "10% korting op de volgende aankoop, zoals beloofd in de footer",
+      "Natuurlijke materialen, minder plastic, vóór 22:00 besteld vandaag verzonden",
+      "Ontworpen in Delft, met een deel van de winst naar de Akshar Foundation"
+    ]
+  }
+}
