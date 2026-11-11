@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "boegbeeld-b8mx4",
+  "merk": "Boegbeeld",
+  "domein": "boegbeeld.shop",
+  "lead_id": "2026-11-11-boegbeeld.shop",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E3A445",
+  "kop": "De barbershop van Boegbeeld, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Boegbeeld, ik heb dit gemaakt omdat jullie 390 reviews op Trustpilot hebben en dat verdient meer aandacht op Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1615:2",
+      "titel": "Een baard belt op",
+      "waarom": "Een herkenbaar telefoonscherm laat mensen even stoppen met scrollen, en de baardolie staat groot in beeld."
+    },
+    {
+      "node": "1615:13",
+      "titel": "Elke dag een paar druppels",
+      "waarom": "Een weekritme maakt duidelijk dat baardolie een dagelijks moment is, en dat een flesje van €11,99 daarbij hoort."
+    },
+    {
+      "node": "1615:44",
+      "titel": "390 reviews",
+      "waarom": "Echte cijfers van Trustpilot naast een barbershopfoto geven nieuwe kopers vertrouwen voordat ze klikken."
+    }
+  ],
+  "waarom": {
+    "niche": "verzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "De meeste mannen ontdekken een nieuwe baardolie niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als het flesje leeg is.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft The Alpha Men nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1615:69",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom aan boord bij Boegbeeld",
+      "kop": "Fijn dat je er bent.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers op de nieuwsbrief, die nu nog niets terugkrijgen na hun aanmelding.",
+      "punten": [
+        "Captain's Choice in beeld, met een knop naar alle producten",
+        "Handgemaakt, lokale productie en pure ingrediënten",
+        "Het barbershopgevoel als tweede blok, met een link naar het verhaal"
+      ]
+    },
+    {
+      "node": "1615:119",
+      "type": "Merkverhaal",
+      "onderwerp": "Een moment voor jezelf",
+      "kop": "Een moment voor jezelf",
+      "tekst": "Een merkverhaal over Den Haag en handgemaakte verzorging, met Captain's Choice in de hoofdrol en de Baardverzorging Set als afsluiter.",
+      "punten": [
+        "Van 2019 tot de lancering in 2021",
+        "Captain's Choice met labels: arganolie, jojobaolie, 10 ml, geur",
+        "De Baardverzorging Set voor €31,99, ook als cadeau"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11",
+  "nieuwsbrief": {
+    "node": "1615:69",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom aan boord bij Boegbeeld",
+    "kop": "Fijn dat je er bent.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers op de nieuwsbrief, die nu nog niets terugkrijgen na hun aanmelding.",
+    "punten": [
+      "Captain's Choice in beeld, met een knop naar alle producten",
+      "Handgemaakt, lokale productie en pure ingrediënten",
+      "Het barbershopgevoel als tweede blok, met een link naar het verhaal"
+    ]
+  }
+}

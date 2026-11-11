@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "amberz-ek8xh",
+  "merk": "Amberz",
+  "domein": "amberz.nl",
+  "lead_id": "2026-10-27-amberz.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#513E2F",
+  "kop": "Gouden laagjes van Amberz, in beeld op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Amberz, ik heb dit gemaakt omdat een merk dat vernoemd is naar een beste vriendin een verhaal heeft dat je meteen kunt laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1618:2",
+      "titel": "De prijs vooraan",
+      "waarom": "Een echte prijs boven een sterke modelfoto laat in één keer zien wat de Grace Cross is en wat hij kost."
+    },
+    {
+      "node": "1618:12",
+      "titel": "Twee kettingen, één armband",
+      "waarom": "Uitleg bij de details beantwoordt de vragen die mensen bij een armband hebben: hoe hij eruitziet en waar hij van gemaakt is."
+    },
+    {
+      "node": "1618:35",
+      "titel": "Je beste vriendin belt",
+      "waarom": "Een speelse oproep die verwijst naar het verhaal achter de naam, met de Bloem groot in beeld."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft TOV Essentials nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1619:6",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Amberz.",
+    "kop": "Welkom bij Amberz.",
+    "tekst": "Fijn dat je er bent. Onze sieraden zijn van gerecycled 316L staal met een 14k goudkleurige coating, gemaakt om elke dag te dragen.",
+    "punten": [
+      "2 jaar garantie, ook op de coating",
+      "Waterproof en hypoallergeen",
+      "Gratis verzending in Nederland en België",
+      "Begin met de Bloem: twee laagjes in één ketting"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1619:6",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Amberz.",
+      "kop": "Welkom bij Amberz.",
+      "tekst": "Fijn dat je er bent. Onze sieraden zijn van gerecycled 316L staal met een 14k goudkleurige coating, gemaakt om elke dag te dragen.",
+      "punten": [
+        "2 jaar garantie, ook op de coating",
+        "Waterproof en hypoallergeen",
+        "Gratis verzending in Nederland en België",
+        "Begin met de Bloem: twee laagjes in één ketting"
+      ]
+    },
+    {
+      "node": "1619:41",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom we Amberz heten",
+      "kop": "Waarom we Amberz heten",
+      "tekst": "Amberz is vernoemd naar Amber, de beste vriendin van Elsbeth. Elsbeth ontwerpt, haar man is de techneut, en samen kiezen ze voor gerecycled staal en eigen zonnestroom.",
+      "punten": [
+        "Het verhaal van Elsbeth en Amber",
+        "De Bloem van dichtbij: twee laagjes, ronde hanger, 316L staal, 14k PVD-coating",
+        "Afsluiter: kettingen, armbanden en oorbellen van €19,95 tot €99,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

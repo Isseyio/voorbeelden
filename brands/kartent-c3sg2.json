@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "kartent-c3sg2",
+  "merk": "KarTent",
+  "domein": "kartent.com",
+  "lead_id": "2026-11-11-kartent.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#006377",
+  "kop": "Bouwen, verven en spelen met KarTent",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team KarTent, ik heb dit gemaakt omdat jullie grachtenpand van karton precies op tijd is voor pakjesavond. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1602:33",
+      "titel": "Bouw, verf, speel",
+      "waarom": "Het speelhuis staat centraal, met maten en prijs direct in beeld, zodat ouders meteen weten wat ze krijgen."
+    },
+    {
+      "node": "1602:51",
+      "titel": "Welk huis wordt het?",
+      "waarom": "Twee huizen naast elkaar laten kiezen voelt als een spelletje en laat in één beeld zien dat er meer is."
+    },
+    {
+      "node": "1602:70",
+      "titel": "Pakjesavond belt",
+      "waarom": "Een inkomend gesprek valt op tussen gewone posts en koppelt het grachtenpand aan het moment waarop ouders cadeaus zoeken."
+    }
+  ],
+  "waarom": {
+    "niche": "kindermerken",
+    "kop": "Zo groeien kindermerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, bijvoorbeeld rond Sinterklaas en kerst.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kindermerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kindermerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1619:93",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij KarTent: alles van karton",
+    "kop": "Fijn dat je er bent.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waarom karton, en meteen de weg naar de speelhuizen.",
+    "punten": [
+      "Komt direct na inschrijving binnen",
+      "Drie redenen voor karton: gerecycled, gemaakt in Amsterdam, snel verzonden",
+      "Tweede blok over zelf verven en een naam erop voor €10 extra"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1619:93",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij KarTent: alles van karton",
+      "kop": "Fijn dat je er bent.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waarom karton, en meteen de weg naar de speelhuizen.",
+      "punten": [
+        "Komt direct na inschrijving binnen",
+        "Drie redenen voor karton: gerecycled, gemaakt in Amsterdam, snel verzonden",
+        "Tweede blok over zelf verven en een naam erop voor €10 extra"
+      ]
+    },
+    {
+      "node": "1619:161",
+      "type": "Merkverhaal",
+      "onderwerp": "Sinds 2015 alles van karton",
+      "kop": "Alles van karton.",
+      "tekst": "Een merkverhaal dat eindigt bij het grachtenpand, precies op tijd voor pakjesavond.",
+      "punten": [
+        "Jullie verhaal in een paar zinnen, met een echte foto uit de Sinterklaas-shoot",
+        "Het grachtenpand met vier labels: maten, verven, naam erop, plasticvrij",
+        "Afsluiting met prijs en een knop naar het grachtenpand"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
