@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "jemappelle-p559a",
+  "merk": "Je m'appelle",
+  "domein": "jemappelle.nl",
+  "lead_id": "2026-10-31-jemappelle.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E1322F",
+  "kop": "Travelstof die blijft opvallen",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Je m'appelle, ik heb dit gemaakt omdat jullie elke week een nieuwe collectie lanceren, en dat vraagt eigenlijk ook om elke week nieuwe advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1492:4",
+      "titel": "Ademend, strijkvrij, snel droog",
+      "waarom": "Grote woorden met kleine foto's ertussen vertellen in één blik waarom travelstof fijn draagt, met de Pant Lizzy en de prijs eronder."
+    },
+    {
+      "node": "1492:20",
+      "titel": "De warmste travelstof",
+      "waarom": "De echte actieprijs van de Travel Brushed broeken staat groot bovenaan, zodat mensen in de feed meteen zien wat ze krijgen."
+    },
+    {
+      "node": "1492:30",
+      "titel": "Cocoa Bean of Indigo Blue?",
+      "waarom": "Twee kleuren naast elkaar met een vraag erboven laten mensen kiezen in plaats van doorscrollen."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste vrouwen ontdekken een nieuwe broek of blazer niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende collectie.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Studio Anneloes nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1494:2",
+    "type": "Assortimentsmail",
+    "onderwerp": "Jouw broek, jouw fit",
+    "kop": "Jouw broek, jouw fit",
+    "tekst": "Een assortimentsmail rond de travelstof broeken: vier fits naast elkaar, elk met jullie eigen foto, prijs en knop.",
+    "punten": [
+      "Opent met jullie eigen shop-the-look-foto",
+      "Lizzy, Isa, Jasmin en Noor met fit, kleur en echte prijs",
+      "Sluit af met 4,8/5 uit 8.277 reviews en de ABN-AMRO Award"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1494:2",
+      "type": "Assortimentsmail",
+      "onderwerp": "Jouw broek, jouw fit",
+      "kop": "Jouw broek, jouw fit",
+      "tekst": "Een assortimentsmail rond de travelstof broeken: vier fits naast elkaar, elk met jullie eigen foto, prijs en knop.",
+      "punten": [
+        "Opent met jullie eigen shop-the-look-foto",
+        "Lizzy, Isa, Jasmin en Noor met fit, kleur en echte prijs",
+        "Sluit af met 4,8/5 uit 8.277 reviews en de ABN-AMRO Award"
+      ]
+    },
+    {
+      "node": "1494:48",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Je m'appelle",
+      "kop": "Welkom bij je m'appelle",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% welkomstkorting, het verhaal achter elke week een nieuwe collectie en waarom travelstof zo fijn draagt.",
+      "punten": [
+        "Welkomstkorting en Spaarpunten, zoals jullie die al aanbieden",
+        "Pant Isabelle Travel ++ met vier labels: ademend, snel drogend, stretch, strijkvrij",
+        "Afsluiting met de award Beste Webshop Damesmode 2025"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

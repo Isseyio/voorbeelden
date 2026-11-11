@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "achilles-e6c5z",
+  "merk": "Achilles and the Tortoise",
+  "domein": "achillesxtortoise.com",
+  "lead_id": "2026-10-28-achillesxtortoise.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3B4A3A",
+  "kop": "Kleding voor wie het leven niet haast, nu ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Achilles and the Tortoise, ik heb dit gemaakt omdat ik het verhaal van de schildpad die Achilles voorblijft zo'n mooi haakje vind voor slow fashion. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1489:124",
+      "titel": "Kleding voor wie niet haast",
+      "waarom": "Jullie eigen tagline als grote kop met foto's ertussen valt op tussen productfoto's en vertelt meteen waar het merk voor staat."
+    },
+    {
+      "node": "1489:125",
+      "titel": "Hoodie of crewneck?",
+      "waarom": "Twee varianten naast elkaar met prijs maakt kiezen makkelijk en laat het materiaal zien zonder lange tekst."
+    },
+    {
+      "node": "1489:126",
+      "titel": "Logo Hoodie €195",
+      "waarom": "Een duidelijke prijs met de reden erbij (500 GSM, gemaakt om lang mee te gaan) trekt kopers die bewust investeren in één goed stuk."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Colorful Standard nu tegelijk live in Nederland"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1489:127",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Achilles x Tortoise",
+    "kop": "Welkom bij Achilles x Tortoise",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, waar jullie voor staan en een zachte eerste stap richting de Logo Tee.",
+    "punten": [
+      "Herokaart met de Achilles Hoodie Purple",
+      "Drie principes: biologisch katoen, gemaakt in Portugal, geen plastic",
+      "Tweede blok: begin bij de basis met de Logo Tee vanaf €80"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1489:127",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Achilles x Tortoise",
+      "kop": "Welkom bij Achilles x Tortoise",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, waar jullie voor staan en een zachte eerste stap richting de Logo Tee.",
+      "punten": [
+        "Herokaart met de Achilles Hoodie Purple",
+        "Drie principes: biologisch katoen, gemaakt in Portugal, geen plastic",
+        "Tweede blok: begin bij de basis met de Logo Tee vanaf €80"
+      ]
+    },
+    {
+      "node": "1489:128",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom een schildpad?",
+      "kop": "Langzaam is een keuze.",
+      "tekst": "Het verhaal achter de naam, gekoppeld aan één product met zijn materiaal en herkomst, en een afsluiting met een stylingtip.",
+      "punten": [
+        "Zeno's paradox als haakje voor slow fashion",
+        "Logo Tee Forest Green met labels: 310 GSM, EarthColors, Portugal",
+        "Afsluiting met de Long Sleeve Tee vanaf €110"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "youna-w4fya",
+  "merk": "Youna Label",
+  "domein": "younalabel.nl",
+  "lead_id": "2026-10-28-younalabel.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#7A5C43",
+  "kop": "Woonitems met een verhaal: drie advertenties voor Youna Label.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Youna Label, ik heb dit gemaakt omdat jullie collectie begon met een reis naar Bali, en dat verhaal goed werkt in een advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1489:3",
+      "titel": "Een verhaal uit Bali",
+      "waarom": "Een kop met foto's tussen de woorden laat in één keer de sfeer en het product zien."
+    },
+    {
+      "node": "1489:18",
+      "titel": "Geen gewoon kussen",
+      "waarom": "Een grote, eigenwijze kop doet mensen stoppen met scrollen, het product doet de rest."
+    },
+    {
+      "node": "1489:33",
+      "titel": "Nieuw: het wandkleed",
+      "waarom": "Labels op de foto beantwoorden de vragen die mensen hebben voordat ze klikken."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen & interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw woonmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "60+",
+        "label": "advertenties heeft Bazar Bizar nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1489:62",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Youna Label, je cadeautje staat klaar",
+    "kop": "Welkom bij Youna Label",
+    "tekst": "Fijn dat je er bent. Bij je eerste bestelling vanaf €40 krijg je een gratis bosje droogbloemen.",
+    "punten": [
+      "Een gratis bosje droogbloemen bij je eerste bestelling vanaf €40",
+      "Bijzondere woonitems van natuurlijke materialen",
+      "Gratis verzending vanaf €75 binnen Nederland"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1489:62",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Youna Label, je cadeautje staat klaar",
+      "kop": "Welkom bij Youna Label",
+      "tekst": "Fijn dat je er bent. Bij je eerste bestelling vanaf €40 krijg je een gratis bosje droogbloemen.",
+      "punten": [
+        "Een gratis bosje droogbloemen bij je eerste bestelling vanaf €40",
+        "Bijzondere woonitems van natuurlijke materialen",
+        "Gratis verzending vanaf €75 binnen Nederland"
+      ]
+    },
+    {
+      "node": "1489:96",
+      "type": "Merkverhaal",
+      "onderwerp": "Gevonden op Bali",
+      "kop": "Gevonden op Bali",
+      "tekst": "Tijdens onze reis naar Bali gingen we zelf op zoek naar mooie producten en leveranciers. Een deel van onze collectie wordt met de hand gemaakt.",
+      "punten": [
+        "Met de hand gemaakt op Bali",
+        "Gevlochten natuurlijk materiaal",
+        "Direct van lokale makers"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
