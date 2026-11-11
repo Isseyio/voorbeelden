@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "acelera-eex8j",
+  "merk": "Acelera",
+  "domein": "acelera.cc",
+  "lead_id": "2026-11-10-acelera.cc",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3A3A3A",
+  "kop": "Nieuwe invalshoeken voor jullie winterlijn.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Acelera, ik heb dit gemaakt omdat jullie Pro, Intermediate en Essential zo duidelijk naast elkaar zetten, en dat leent zich goed voor advertenties die elke week iets anders laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1593:4",
+      "titel": "Welke laag past bij jou",
+      "waarom": "Twee winterjerseys naast elkaar helpen twijfelaars kiezen tussen gevoerd en fleece, met de prijs er direct bij."
+    },
+    {
+      "node": "1593:5",
+      "titel": "Shirts vanaf €39",
+      "waarom": "Een echte instapprijs boven een sterke rijfoto maakt de belofte 'premium voor een eerlijke prijs' meteen concreet."
+    },
+    {
+      "node": "1593:6",
+      "titel": "Je zondagrit belt",
+      "waarom": "Een speelse invalshoek die opvalt in de feed en de Deep Winter Jacket koppelt aan het moment dat je twijfelt om te gaan rijden."
+    }
+  ],
+  "waarom": {
+    "niche": "fietskleding",
+    "kop": "Zo groeien fietskledingmerken op Instagram.",
+    "tekst": "De meeste fietsers ontdekken een nieuw kledingmerk tijdens het scrollen, niet via Google. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag omdat een advertentie na een paar weken moe wordt. Een vaste nieuwsbrief zorgt dat nieuwe kopers terugkomen voor het volgende seizoen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sport- en outdoormerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft AGU nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1593:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Acelera",
+    "kop": "Welkom bij Acelera",
+    "tekst": "Fietskleding zonder compromis, sinds 2020. Een warme eerste kennismaking met de drie lijnen, direct na de inschrijving.",
+    "punten": [
+      "Premium materiaal voor een eerlijke prijs",
+      "Altijd gratis verzending in Nederland en België",
+      "30 dagen gratis retour",
+      "Pro, Intermediate of Essential: kies je lijn"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1593:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Acelera",
+      "kop": "Welkom bij Acelera",
+      "tekst": "Fietskleding zonder compromis, sinds 2020. Een warme eerste kennismaking met de drie lijnen, direct na de inschrijving.",
+      "punten": [
+        "Premium materiaal voor een eerlijke prijs",
+        "Altijd gratis verzending in Nederland en België",
+        "30 dagen gratis retour",
+        "Pro, Intermediate of Essential: kies je lijn"
+      ]
+    },
+    {
+      "node": "1593:8",
+      "type": "Productspotlight",
+      "onderwerp": "Klaar voor de winter",
+      "kop": "Klaar voor de winter",
+      "tekst": "Vier lange mouwen uit de winterlijn naast elkaar, van fleece tot gevoerd, met de rating van 1.533+ reviews als afsluiter.",
+      "punten": [
+        "Pro Fleeced LS · €59",
+        "Pro LS Lined · €54",
+        "Pro Lined LS Cherry Red (dames) · €54",
+        "Essential Thermo Fleece LS · €49"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

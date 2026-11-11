@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "jutkariska-8gsgj",
+  "merk": "JUTKA & RISKA",
+  "domein": "jutkaenriska.com",
+  "lead_id": "2026-11-04-jutkaenriska.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5B0E22",
+  "kop": "Drie nieuwe invalshoeken voor jullie wekelijkse drops.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team JUTKA & RISKA, ik heb dit gemaakt omdat jullie elke week een nieuwe collectie in de winkels hebben, en dat ritme past precies bij advertenties die elke week iets nieuws laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1600:4",
+      "titel": "Elke week een nieuwe drop",
+      "waarom": "Maakt het wekelijkse ritme zelf de boodschap, zodat mensen terugkomen om te zien wat er nieuw is."
+    },
+    {
+      "node": "1600:5",
+      "titel": "Eén tas, één exemplaar",
+      "waarom": "Uniek vintage met een echte prijs en 'nog maar 1 stuk' geeft een concrete reden om niet te wachten."
+    },
+    {
+      "node": "1600:6",
+      "titel": "De Bambi print set",
+      "waarom": "Een close-up met uitleg bij de details laat zien waarom dit eigen ontwerp anders is, met de prijs erbij."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw modelabel niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief bij elke drop zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Loavies nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1600:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de club",
+    "kop": "Welkom bij de club.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie JUTKA & RISKA is, dat er elke week een nieuwe drop is en wat er net binnen is.",
+    "punten": [
+      "Eigenwijs Nederlands label sinds 2006",
+      "Elke week nieuwe collectie, vintage door Jutka uitgezocht",
+      "Net binnen: bomber, cloche hat en Bambi jacket",
+      "Ook in de winkels in Amsterdam, Haarlem en Antwerpen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1600:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de club",
+      "kop": "Welkom bij de club.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie JUTKA & RISKA is, dat er elke week een nieuwe drop is en wat er net binnen is.",
+      "punten": [
+        "Eigenwijs Nederlands label sinds 2006",
+        "Elke week nieuwe collectie, vintage door Jutka uitgezocht",
+        "Net binnen: bomber, cloche hat en Bambi jacket",
+        "Ook in de winkels in Amsterdam, Haarlem en Antwerpen"
+      ]
+    },
+    {
+      "node": "1600:8",
+      "type": "Merkverhaal",
+      "onderwerp": "Twee zussen, één eigenwijs label",
+      "kop": "Twee zussen, één eigenwijs label",
+      "tekst": "Het verhaal achter het label, met één uniek vintage stuk uitgelicht en een uitnodiging om langs te komen in de winkel.",
+      "punten": [
+        "Sinds 2006, door Jutka en Riska Volkerts",
+        "Vintage gecustomized: elk stuk uniek",
+        "Uitgelicht: Levi's sparkly zipper jeans",
+        "Kom langs in de winkel"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

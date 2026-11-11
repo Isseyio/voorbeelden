@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "shestands-d73dp",
+  "merk": "She Stands",
+  "domein": "shestands.nl",
+  "lead_id": "2026-10-30-shestands.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#684D1E",
+  "kop": "Handgemaakte sieraden uit Zeist, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team She Stands, ik heb dit gemaakt omdat elke letter op de Juul ketting met de hand in Zeist wordt gestempeld, en dat verhaal verdient meer mensen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1591:4",
+      "titel": "Klein en verfijnd",
+      "waarom": "Jullie eigen foto van de Sophia armband om de pols, met de vier kenmerken eromheen, laat in één oogopslag zien wat iemand koopt."
+    },
+    {
+      "node": "1591:20",
+      "titel": "Jouw letter, met de hand",
+      "waarom": "Een close-up van de Juul ketting met korte labels maakt het persoonlijke direct duidelijk, precies waar mensen een cadeau op kiezen."
+    },
+    {
+      "node": "1591:45",
+      "titel": "Handgemaakt in Zeist",
+      "waarom": "Het maakproces met eigen beelden geeft een reden om voor een klein merk te kiezen in plaats van een grote keten."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "80+",
+        "label": "advertenties heeft TOV Essentials nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1591:68",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij She Stands",
+    "kop": "Welkom bij She Stands",
+    "tekst": "Een rustige eerste kennismaking: wie jullie zijn, waar jullie sieraden gemaakt worden en wat iemand mag verwachten, met daarna de Loved Ones-collectie voor wie iets persoonlijks zoekt.",
+    "punten": [
+      "Handgemaakt in Zeist",
+      "14 karaats gold filled dat niet slijt of verkleurt",
+      "Plasticvrij verpakt",
+      "Doorklik naar de Loved Ones-collectie"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1591:68",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij She Stands",
+      "kop": "Welkom bij She Stands",
+      "tekst": "Een rustige eerste kennismaking: wie jullie zijn, waar jullie sieraden gemaakt worden en wat iemand mag verwachten, met daarna de Loved Ones-collectie voor wie iets persoonlijks zoekt.",
+      "punten": [
+        "Handgemaakt in Zeist",
+        "14 karaats gold filled dat niet slijt of verkleurt",
+        "Plasticvrij verpakt",
+        "Doorklik naar de Loved Ones-collectie"
+      ]
+    },
+    {
+      "node": "1591:99",
+      "type": "Merkverhaal + productspotlight",
+      "onderwerp": "Van stempel tot sieraad",
+      "kop": "Van stempel tot sieraad",
+      "tekst": "Het verhaal achter She Stands, met de Juul ketting in de spotlight en de mogelijkheid om bij een bestelling te doneren aan Microkrediet voor Moeders.",
+      "punten": [
+        "Lonneke en het atelier in Zeist",
+        "Juul ketting met handgestempelde letter, €75,95",
+        "Tot 4 initialen, normaal of satellite snoer",
+        "Microkrediet voor Moeders"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

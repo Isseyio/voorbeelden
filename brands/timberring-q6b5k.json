@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "timberring-q6b5k",
+  "merk": "TimberRing",
+  "domein": "timberring.nl",
+  "lead_id": "2026-10-29-timberring.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#7F412C",
+  "kop": "Ringen van restjes hout, in beeld op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team TimberRing, ik heb dit gemaakt omdat ringen van afvalhout een verhaal zijn dat je in één beeld kunt laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1597:3",
+      "titel": "Gemaakt van restjes hout",
+      "waarom": "Laat in één beeld zien waar het hout vandaan komt en wat elke ring kost, zodat het verhaal en de prijs samen binnenkomen."
+    },
+    {
+      "node": "1597:28",
+      "titel": "Een trouwring van notenhout",
+      "waarom": "Een close-up met uitleg bij elk onderdeel beantwoordt de vragen die mensen bij een houten trouwring hebben."
+    },
+    {
+      "node": "1597:51",
+      "titel": "Samen ontworpen",
+      "waarom": "Atelier en trouwdag naast elkaar maken de afspraak in Utrecht concreet voor stellen die nog zoeken."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "80+",
+        "label": "advertenties heeft TOV Essentials nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1597:72",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij TimberRing",
+    "kop": "Fijn dat je er bent",
+    "tekst": "Elke ring maakt Merieke met de hand, van hout dat overbleef bij meubelmakers en parketleggers.",
+    "punten": [
+      "Afvalhout: resthout van meubels, parket en kozijnen",
+      "Handgemaakt in het atelier in Utrecht, sinds 2002",
+      "Trouwen met hout? Plan een afspraak in het atelier"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1597:72",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij TimberRing",
+      "kop": "Fijn dat je er bent",
+      "tekst": "Elke ring maakt Merieke met de hand, van hout dat overbleef bij meubelmakers en parketleggers.",
+      "punten": [
+        "Afvalhout: resthout van meubels, parket en kozijnen",
+        "Handgemaakt in het atelier in Utrecht, sinds 2002",
+        "Trouwen met hout? Plan een afspraak in het atelier"
+      ]
+    },
+    {
+      "node": "1597:98",
+      "type": "Merkverhaal",
+      "onderwerp": "Van goudsmid naar houtsmid",
+      "kop": "Houtsmeden sinds 2002",
+      "tekst": "Merieke Werdler werkte jarenlang als goudsmid. In 2002 vond ze een stapel resthout, en zo begon TimberRing.",
+      "punten": [
+        "Palermo Noten: vijf laagjes hout en één laag zilver",
+        "Turijn vanaf €185, Oslo vanaf €195, Palermo vanaf €285",
+        "Afsluiter met een foto uit het atelier"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
