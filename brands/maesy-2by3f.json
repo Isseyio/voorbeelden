@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "maesy-2by3f",
+  "merk": "Maesy",
+  "domein": "maesy.nl",
+  "lead_id": "2026-11-02-maesy.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A99685",
+  "kop": "Zonnebrillen die tegen een stootje kunnen.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Maesy, ik heb dit gemaakt omdat jullie zonnebrillen dubbel kunnen buigen zonder te breken, en dat laat zich heel goed zien in een advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1785:3",
+      "titel": "Buig hem maar",
+      "waarom": "Het sterkste bewijs van jullie bril is dat hij niet breekt, en dat zien ouders in één oogopslag."
+    },
+    {
+      "node": "1785:28",
+      "titel": "Negen kleuren",
+      "waarom": "Negen kleuren voor één prijs laten zien dat er voor elk kind een favoriet tussen zit."
+    },
+    {
+      "node": "1785:52",
+      "titel": "Per leeftijd",
+      "waarom": "Ouders willen vooral weten of de bril past; een baby en een schoolkind naast elkaar laten zien dat er voor elke leeftijd een maat is."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien kinder- en babymerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw kindermerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die ouders terugkomen, bijvoorbeeld als hun kind een maat groter nodig heeft.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kinder- en babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kinder- en babymerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1787:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Maesy, fijn dat je er bent",
+    "kop": "Welkom bij Maesy",
+    "tekst": "Fijn dat je er bent. Je hoort voortaan als eerste over nieuwe collecties, acties en handige tips voor kleine oogjes in de zon.",
+    "punten": [
+      "Gepolariseerde UV400-lenzen, CE categorie 3",
+      "Onbreekbaar, flexibel TPE-montuur",
+      "Gratis verzending naar NL en BE",
+      "Vier maten, van 0 tot 12 jaar"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1787:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Maesy, fijn dat je er bent",
+      "kop": "Welkom bij Maesy",
+      "tekst": "Fijn dat je er bent. Je hoort voortaan als eerste over nieuwe collecties, acties en handige tips voor kleine oogjes in de zon.",
+      "punten": [
+        "Gepolariseerde UV400-lenzen, CE categorie 3",
+        "Onbreekbaar, flexibel TPE-montuur",
+        "Gratis verzending naar NL en BE",
+        "Vier maten, van 0 tot 12 jaar"
+      ]
+    },
+    {
+      "node": "1787:45",
+      "type": "Assortiment per leeftijd",
+      "onderwerp": "Welke Maesy past bij jouw kind?",
+      "kop": "Een bril voor elke leeftijd",
+      "tekst": "Kleine gezichtjes groeien snel. Daarom heeft elke Maesy zonnebril een eigen maat, zodat hij goed blijft zitten.",
+      "punten": [
+        "Joya · 0 t/m 2 jaar",
+        "Bowi · 1 t/m 3 jaar",
+        "Faela · 3 t/m 6 jaar",
+        "Novi · 6 t/m 12 jaar"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
