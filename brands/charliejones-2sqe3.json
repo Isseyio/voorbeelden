@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "charliejones-2sqe3",
+  "merk": "Charlie & Jones",
+  "domein": "charlieandjones.com",
+  "lead_id": "2026-11-11-charlieandjones.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#0A9C4B",
+  "kop": "Zijn naam, jouw nummer: drie nieuwe invalshoeken voor Charlie & Jones.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Charlie & Jones, ik heb dit gemaakt omdat een halsband met naam en telefoonnummer een verhaal is dat je in één beeld kunt vertellen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1484:4",
+      "titel": "Onbekend nummer",
+      "waarom": "Het belscherm laat in één seconde zien waarom jouw nummer op de halsband staat."
+    },
+    {
+      "node": "1484:20",
+      "titel": "Zijn naam, jouw nummer",
+      "waarom": "Labels op een echte foto beantwoorden de vragen over borduursel, ring en wassen voordat iemand klikt."
+    },
+    {
+      "node": "1484:43",
+      "titel": "Welke kleur past?",
+      "waarom": "Twee kleuren naast elkaar laten mensen kiezen in plaats van twijfelen."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien huisdierenmerken op Instagram.",
+    "tekst": "De meeste hondenbaasjes ontdekken een nieuw merk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een riem of tuig.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Katlyma nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1484:63",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de roedel",
+    "kop": "Welkom bij de roedel",
+    "tekst": "Een warme eerste mail voor nieuwe inschrijvers: wat jullie maken, hoe het gemaakt wordt en een directe knop om zijn halsband te ontwerpen.",
+    "punten": [
+      "Handgemaakt in ons atelier in Amsterdam",
+      "Weer- en waterbestendig, wasbaar op 30 graden",
+      "Verzonden in 1 tot 5 werkdagen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1484:63",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de roedel",
+      "kop": "Welkom bij de roedel",
+      "tekst": "Een warme eerste mail voor nieuwe inschrijvers: wat jullie maken, hoe het gemaakt wordt en een directe knop om zijn halsband te ontwerpen.",
+      "punten": [
+        "Handgemaakt in ons atelier in Amsterdam",
+        "Weer- en waterbestendig, wasbaar op 30 graden",
+        "Verzonden in 1 tot 5 werkdagen"
+      ]
+    },
+    {
+      "node": "1484:96",
+      "type": "Merkverhaal en product",
+      "onderwerp": "Zijn naam, geborduurd in Amsterdam",
+      "kop": "Zijn naam, geborduurd in Amsterdam",
+      "tekst": "Het verhaal sinds 2015, de halsband met labels uitgelegd en een donkere afsluiting met de vier maten en de prijs.",
+      "punten": [
+        "Geborduurde naam en telefoonnummer",
+        "Messing D-ring, trekkracht tot 240 kg",
+        "Wienerlock-sluiting",
+        "Vier maten, van 22 tot 73 cm"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
