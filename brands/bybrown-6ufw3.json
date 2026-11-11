@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "bybrown-6ufw3",
+  "merk": "BYBROWN",
+  "domein": "bybrown.nl",
+  "lead_id": "2026-11-11-bybrown.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C4161C",
+  "kop": "Regenjassen die opvallen, ook in je feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team BYBROWN, ik heb dit gemaakt omdat jullie laten zien dat een regenjas er gewoon goed uit kan zien, ook op de fiets. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1504:4",
+      "titel": "Prijs en portret",
+      "waarom": "Een duidelijke prijs naast een sterk portret laat in één blik zien wat de Wave is en wat hij kost."
+    },
+    {
+      "node": "1504:12",
+      "titel": "Kies je lengte",
+      "waarom": "Twee silhouetten naast elkaar helpen mensen kiezen, zonder dat ze eerst door de hele collectie hoeven."
+    },
+    {
+      "node": "1504:35",
+      "titel": "Regen, maar maak het mode",
+      "waarom": "Een grote kop met echte straatfoto's uit Amsterdam stopt het scrollen en vertelt meteen waar BYBROWN voor staat."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw modemerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Maium nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1507:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij BYBROWN",
+    "kop": "Welkom bij BYBROWN",
+    "tekst": "Een eerste kennismaking: wie jullie zijn, waarom de jassen waterdicht en ademend zijn en waar het atelier zit.",
+    "punten": [
+      "Herokaart met de jas in beweging",
+      "Drie kenmerken: waterdicht, ademend, gerecycled",
+      "Uitnodiging voor de studiowinkel in Amsterdam"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1507:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij BYBROWN",
+      "kop": "Welkom bij BYBROWN",
+      "tekst": "Een eerste kennismaking: wie jullie zijn, waarom de jassen waterdicht en ademend zijn en waar het atelier zit.",
+      "punten": [
+        "Herokaart met de jas in beweging",
+        "Drie kenmerken: waterdicht, ademend, gerecycled",
+        "Uitnodiging voor de studiowinkel in Amsterdam"
+      ]
+    },
+    {
+      "node": "1507:51",
+      "type": "Assortimentsmail",
+      "onderwerp": "Regen op komst? Vind jouw jas",
+      "kop": "Vind de regenjas die bij jouw dag past",
+      "tekst": "Vier jassen naast elkaar, van licht en knielang tot enkellang, zodat iedereen snel de juiste lengte kiest.",
+      "punten": [
+        "Stream, Wave, Spirit en Nova met prijs",
+        "Eén knop per jas",
+        "Atelierbeeld als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
