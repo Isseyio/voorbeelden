@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "zhenzhu-e6age",
+  "merk": "Zhen Zhu",
+  "domein": "zhenzhu.nl",
+  "lead_id": "2026-10-27-zhenzhu.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C9963A",
+  "kop": "Parels met klasse, elke week in beeld",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Zhen Zhu, ik heb dit gemaakt omdat jullie modelfoto's met de Wola armband en de Pearl Crystal Clear set zo goed laten zien hoe parels gedragen worden. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1621:7",
+      "titel": "De set voor €87,95",
+      "waarom": "Een echte prijs met de oude prijs ernaast, op jullie eigen modelfoto, geeft twijfelaars een concrete reden om nu te kijken."
+    },
+    {
+      "node": "1621:19",
+      "titel": "Waar hij van gemaakt is",
+      "waarom": "Parels, lengte, slotje en zakje in één beeld beantwoorden de vragen die iemand anders pas op de productpagina stelt."
+    },
+    {
+      "node": "1621:42",
+      "titel": "Wola of Pearl Crystal Clear",
+      "waarom": "Twee stijlen naast elkaar laten mensen kiezen in plaats van twijfelen, en dat levert meer klikken op."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1621:81",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Zhen Zhu",
+    "kop": "Welkom bij Zhen Zhu",
+    "tekst": "Wie zich inschrijft, krijgt meteen een warme welkomstmail: wat Zhen Zhu bijzonder maakt en wat er in de volgende mails komt.",
+    "punten": [
+      "Handgemaakt met zoetwaterparels",
+      "Voor 16:00 besteld, dezelfde dag verzonden",
+      "Tips over parels kiezen, combineren en verzorgen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1621:81",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Zhen Zhu",
+      "kop": "Welkom bij Zhen Zhu",
+      "tekst": "Wie zich inschrijft, krijgt meteen een warme welkomstmail: wat Zhen Zhu bijzonder maakt en wat er in de volgende mails komt.",
+      "punten": [
+        "Handgemaakt met zoetwaterparels",
+        "Voor 16:00 besteld, dezelfde dag verzonden",
+        "Tips over parels kiezen, combineren en verzorgen"
+      ]
+    },
+    {
+      "node": "1621:123",
+      "type": "Merkverhaal",
+      "onderwerp": "Van de bank naar parels",
+      "kop": "Ervaar de subtiele kracht van parels",
+      "tekst": "Het verhaal van Angelique en Zhen Zhu sinds 2010, met de Wola armband uitgelicht.",
+      "punten": [
+        "Sinds 2010, vanuit het atelier in Breda",
+        "Wola armband met labels: barok 9–10 mm, handgeknoopt",
+        "Afsluiting met Dress to impress"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
