@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "beterkatoen-rhp4b",
+  "merk": "Beterkatoen",
+  "domein": "beterkatoen.nl",
+  "lead_id": "2026-11-11-beterkatoen.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#14614F",
+  "kop": "Drie advertenties voor jullie hotellinnen",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Beterkatoen, ik heb dit gemaakt omdat jullie uit de wasserijwereld komen en hotelkwaliteit gewoon voor thuis verkopen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1527:4",
+      "titel": "Hotelwit",
+      "waarom": "Eén groot woord en een zoekbalk laten in een seconde zien waar Beterkatoen voor staat, met drie echte producten en prijzen eronder."
+    },
+    {
+      "node": "1527:23",
+      "titel": "Vanaf €6,95",
+      "waarom": "Een duidelijke prijs bovenaan haalt de drempel weg voor mensen die hotelhanddoeken duur vinden, en de slaapkamerfoto laat het gevoel zien."
+    },
+    {
+      "node": "1527:35",
+      "titel": "Welke dikte?",
+      "waarom": "Twee diktes naast elkaar helpen kiezen en maken nieuwsgierig naar het verschil tussen 430 en 650 gram."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en textiel",
+    "kop": "Zo groeien woon- en textielmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk voor beddengoed of handdoeken niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende set.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woon- en textielmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Walra nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1527:53",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Beterkatoen",
+    "kop": "Welkom bij Beterkatoen",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers, die uitlegt hoe je hotellinnen kiest en meteen naar de dekbedovertrekken leidt.",
+    "punten": [
+      "Herokaart met jullie eigen sfeerfoto en één duidelijke knop",
+      "Zo kies je: hotelwit, gramgewicht en snelle levering",
+      "Productkaart met het hotel dekbedovertrek vanaf €39,95"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1527:53",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Beterkatoen",
+      "kop": "Welkom bij Beterkatoen",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers, die uitlegt hoe je hotellinnen kiest en meteen naar de dekbedovertrekken leidt.",
+      "punten": [
+        "Herokaart met jullie eigen sfeerfoto en één duidelijke knop",
+        "Zo kies je: hotelwit, gramgewicht en snelle levering",
+        "Productkaart met het hotel dekbedovertrek vanaf €39,95"
+      ]
+    },
+    {
+      "node": "1527:82",
+      "type": "Merkverhaal",
+      "onderwerp": "Hotellinnen, recht uit de wasserij",
+      "kop": "Hotellinnen, recht uit de wasserij",
+      "tekst": "Een mail over waar Beterkatoen vandaan komt, met het dekbedovertrek van katoensatijn uitgelegd in vier punten en een blok voor zakelijke klanten.",
+      "punten": [
+        "Het verhaal uit de industriële wasserijwereld",
+        "Dekbedovertrek TC300 met vier labels",
+        "Voor thuis én voor je zaak, met eigen merklabels"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
