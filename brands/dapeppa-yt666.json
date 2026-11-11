@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "dapeppa-yt666",
+  "merk": "DaPeppa",
+  "domein": "dapeppa.nl",
+  "lead_id": "2026-11-11-dapeppa.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#951023",
+  "kop": "Samen bakken, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team DaPeppa, ik heb dit gemaakt omdat jullie bakpakketten precies in deze weken van Sinterklaas en kerst zo goed passen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1602:4",
+      "titel": "Pakjesavond belt",
+      "waarom": "Een herkenbaar moment in het seizoen maakt van een bakmix van €6,95 een makkelijke impulsaankoop."
+    },
+    {
+      "node": "1602:15",
+      "titel": "Samen bakken",
+      "waarom": "Eén groot woord en drie producten laten in een seconde zien wat DaPeppa is en wat het kost."
+    },
+    {
+      "node": "1603:2",
+      "titel": "Koop dit huisje niet",
+      "waarom": "Een eigenwijze kop stopt het scrollen en past bij jullie toon; de vinkjes geven daarna het bewijs."
+    }
+  ],
+  "waarom": {
+    "niche": "food",
+    "kop": "Zo groeien foodmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw foodmerk niet via Google, maar tijdens het scrollen. Zeker rond Sinterklaas en kerst zoeken mensen naar een leuk cadeau of iets om samen te doen. Merken die dan elke week nieuwe advertenties testen, vinden steeds nieuwe kopers, en een vaste nieuwsbrief zorgt dat die terugkomen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Dille & Kamille nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1604:3",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij DaPeppa",
+    "kop": "Welkom bij DaPeppa",
+    "tekst": "Fijn dat je er bent. Sinds 2011 maken we in Amsterdam bakmixen en bakpakketten, zodat je thuis zonder gedoe samen bakt.",
+    "punten": [
+      "Pure, natuurlijke ingrediënten",
+      "Alleen boter, ei of water erbij",
+      "Leuk om samen te maken"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1604:3",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij DaPeppa",
+      "kop": "Welkom bij DaPeppa",
+      "tekst": "Fijn dat je er bent. Sinds 2011 maken we in Amsterdam bakmixen en bakpakketten, zodat je thuis zonder gedoe samen bakt.",
+      "punten": [
+        "Pure, natuurlijke ingrediënten",
+        "Alleen boter, ei of water erbij",
+        "Leuk om samen te maken"
+      ]
+    },
+    {
+      "node": "1604:32",
+      "type": "Productspotlight",
+      "onderwerp": "Bouw je eigen koekhuisje",
+      "kop": "Bouw je eigen koekhuisje",
+      "tekst": "Bakken en versieren uit één doos: het Gingerbread house voor €15,95, met daarna de Peppanoten in jute zak als cadeautje voor in de schoen.",
+      "punten": [
+        "Bak en versier je eigen huisje",
+        "Locally made",
+        "9,6/10 bij 200+ reviews"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
