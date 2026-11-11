@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "zilk-yuht6",
+  "merk": "ZILK Sleep",
+  "domein": "zilksleep.com",
+  "lead_id": "2026-10-29-zilksleep.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4F4E4B",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor ZILK.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team ZILK, ik heb dit gemaakt omdat jullie kussensloop door iemand uit de dermatologie is bedacht, en dat verhaal zie je nog weinig terug op Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1701:4",
+      "titel": "Zijde in één woord",
+      "waarom": "Eén groot woord en een herkenbare zoekvraag laten in een seconde zien waar het om gaat, met vier kleuren in beeld."
+    },
+    {
+      "node": "1701:5",
+      "titel": "Vanaf €51",
+      "waarom": "Een duidelijke prijs over een rustige slaapfoto werkt goed voor mensen die al aan zijde dachten."
+    },
+    {
+      "node": "1701:6",
+      "titel": "Welke kleur past bij jou?",
+      "waarom": "Twee kleuren naast elkaar nodigen uit om te kiezen in plaats van te twijfelen."
+    }
+  ],
+  "waarom": {
+    "niche": "verzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een zijden kussensloop niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een tweede kleur of een slaapmasker.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Silksilky nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1701:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij ZILK: rust begint hier",
+    "kop": "Rust begint hier",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wat zijde 's nachts doet voor huid en haar, hoe je je kussensloop verzorgt en wie ZILK heeft bedacht.",
+    "punten": [
+      "25 momme moerbeizijde van 6A-kwaliteit",
+      "Zilverion behandeld, blijft langer fris",
+      "Opgericht door Elizabeth Cook, PA-C in dermatologie"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1701:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij ZILK: rust begint hier",
+      "kop": "Rust begint hier",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wat zijde 's nachts doet voor huid en haar, hoe je je kussensloop verzorgt en wie ZILK heeft bedacht.",
+      "punten": [
+        "25 momme moerbeizijde van 6A-kwaliteit",
+        "Zilverion behandeld, blijft langer fris",
+        "Opgericht door Elizabeth Cook, PA-C in dermatologie"
+      ]
+    },
+    {
+      "node": "1701:8",
+      "type": "Merkverhaal",
+      "onderwerp": "Rustigere huid tegen de ochtend",
+      "kop": "Rustigere huid tegen de ochtend",
+      "tekst": "Een mail over waarom zijde werkt: minder wrijving, minder frizz en minder klitten, met de kussensloop en zijn kenmerken uitgelicht.",
+      "punten": [
+        "25 momme, zilverion en OEKO-TEX®",
+        "7 kleuren, van Ivory tot Dark Gray",
+        "Vóór 15:00 besteld, dezelfde dag verzonden"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

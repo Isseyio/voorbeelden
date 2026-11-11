@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "arcticblue-748ca",
+  "merk": "Arctic Blue",
+  "domein": "arctic-blue.com",
+  "lead_id": "2026-11-11-arctic-blue.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#00007A",
+  "kop": "Omega-3 met principes, elke week een nieuwe invalshoek.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Arctic Blue, ik heb dit gemaakt omdat jullie Pure Visolie zo makkelijk in een ochtendroutine past: één lepel door de yoghurt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1697:5",
+      "titel": "Reviews in beeld",
+      "waarom": "Echte klantwoorden en de Trustpilot-score naast het product geven twijfelaars een reden om door te klikken."
+    },
+    {
+      "node": "1697:22",
+      "titel": "Eén lepel door je yoghurt",
+      "waarom": "Laat zien hoe makkelijk het gebruik is en zet de belangrijkste waarden direct bij het product."
+    },
+    {
+      "node": "1697:43",
+      "titel": "Elke dag een lepel",
+      "waarom": "Een weekritme maakt van een supplement een gewoonte en past bij jullie abonnement."
+    }
+  ],
+  "waarom": {
+    "niche": "supplementen",
+    "kop": "Zo groeien supplementenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw supplementmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers blijven bestellen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij supplementenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "80+",
+        "label": "advertenties heeft Vitakruid nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1697:69",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Arctic Blue",
+    "kop": "Welkom bij Arctic Blue",
+    "tekst": "Fijn dat je er bent. Wij maken omega-3 met principes: pure visolie met het MSC-keurmerk en algenolie met VEGAN-certificaat.",
+    "punten": [
+      "MSC-gecertificeerd, uit wilde vis",
+      "60 dagen geld-terug",
+      "Gratis bezorgd vanaf €30",
+      "Zo gebruik je het: één lepel door je yoghurt of smoothie"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1697:69",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Arctic Blue",
+      "kop": "Welkom bij Arctic Blue",
+      "tekst": "Fijn dat je er bent. Wij maken omega-3 met principes: pure visolie met het MSC-keurmerk en algenolie met VEGAN-certificaat.",
+      "punten": [
+        "MSC-gecertificeerd, uit wilde vis",
+        "60 dagen geld-terug",
+        "Gratis bezorgd vanaf €30",
+        "Zo gebruik je het: één lepel door je yoghurt of smoothie"
+      ]
+    },
+    {
+      "node": "1697:105",
+      "type": "Merkverhaal",
+      "onderwerp": "Hoe Arctic Blue begon",
+      "kop": "Omega-3 met principes",
+      "tekst": "Ludo van de Wiel, ingenieur uit Wageningen, werkte als visolie-expert en begon Arctic Blue omdat veel mensen vragen hadden over smaak en kwaliteit. Daarna: wat er in één lepel Pure Visolie zit.",
+      "punten": [
+        "450 mg DHA en 380 mg EPA per 5 ml",
+        "MSC-visolie uit filet-snijresten",
+        "60 lepels per fles",
+        "Met abonnement €26,91 per fles"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

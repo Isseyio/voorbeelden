@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "bootstock-9yabx",
+  "merk": "Bootstock",
+  "domein": "bootstock.com",
+  "lead_id": "2026-11-11-bootstock.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#937931",
+  "kop": "Handgemaakte cowboylaarzen, elke week opnieuw in beeld",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Bootstock, ik heb dit gemaakt omdat jullie laarzen met hun borduursels en de kinder- en damesversies veel verschillende verhalen geven voor advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1669:166",
+      "titel": "Het eerste paar",
+      "waarom": "De echte welkomstkorting bovenaan, met een sterke foto van jullie eigen shoot, geeft nieuwe mensen een reden om meteen in te schrijven."
+    },
+    {
+      "node": "1669:318",
+      "titel": "Mama én mini",
+      "waarom": "Dezelfde Bouquet in een kinder- en een damesmaat naast elkaar laat in één blik zien dat Bootstock voor het hele gezin is."
+    },
+    {
+      "node": "1674:2",
+      "titel": "Unicorn Kids van dichtbij",
+      "waarom": "Drie uitvergrote details maken het handwerk zichtbaar en leggen uit waarom een paar €169,95 kost."
+    }
+  ],
+  "waarom": {
+    "niche": "schoenen",
+    "kop": "Zo groeien schoenenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw schoenenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag, omdat een advertentie na een paar weken moe wordt. Een vaste nieuwsbrief zorgt dat kopers terugkomen als hun kind een maat verder is.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij schoenenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Shoesme nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1675:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Bootstock",
+    "kop": "Welkom bij Bootstock",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: de 10% welkomstkorting, waarom de laarzen handgemaakt zijn en hoe Bootstock begon met één paar voor Mariska's dochter.",
+    "punten": [
+      "De 10% korting op de eerste bestelling direct in beeld",
+      "Handgemaakt, gratis verzending vanaf €100 en vóór 20:30 besteld is vandaag verzonden",
+      "Het verhaal achter het merk, met jullie eigen foto"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1675:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Bootstock",
+      "kop": "Welkom bij Bootstock",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: de 10% welkomstkorting, waarom de laarzen handgemaakt zijn en hoe Bootstock begon met één paar voor Mariska's dochter.",
+      "punten": [
+        "De 10% korting op de eerste bestelling direct in beeld",
+        "Handgemaakt, gratis verzending vanaf €100 en vóór 20:30 besteld is vandaag verzonden",
+        "Het verhaal achter het merk, met jullie eigen foto"
+      ]
+    },
+    {
+      "node": "1676:2",
+      "type": "Assortimentsmail",
+      "onderwerp": "De nieuwe herfst- en wintercollectie",
+      "kop": "De nieuwe herfst- en wintercollectie",
+      "tekst": "Een mail die een paar favorieten uit de collectie naast elkaar zet, van Unicorn Kids tot de Bouquet voor vrouwen, met jullie reviewscore eronder.",
+      "punten": [
+        "Vier laarzen met prijs en één knop per paar",
+        "Kids en vrouwen in één mail",
+        "4,7 uit 248 reviews als bewijs onderaan"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "stickylemon-nu2dw",
+  "merk": "Sticky Lemon",
+  "domein": "stickylemon.nl",
+  "lead_id": "2026-11-11-stickylemon.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#007E68",
+  "kop": "Drie nieuwe invalshoeken voor Sticky Lemon",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Sticky Lemon, ik heb dit gemaakt omdat jullie feestfoto's van sticky memories zo vrolijk zijn dat ze bijna vanzelf een advertentie worden. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1669:78",
+      "titel": "Klaar voor school",
+      "waarom": "Grote woorden met kleine foto's ertussen laten in één beeld zien voor welke momenten de rugzak is, met de citroenrugzak en prijs eronder."
+    },
+    {
+      "node": "1669:189",
+      "titel": "Kersen overal",
+      "waarom": "Eén thema over drie producten heen laat ouders zien dat er meer bij hoort dan één rugzak, wat helpt om de bestelling groter te maken."
+    },
+    {
+      "node": "1669:239",
+      "titel": "Dezelfde dag verstuurd",
+      "waarom": "Snelle verzending is voor ouders die op het laatste moment een cadeau zoeken vaak de doorslag, en jullie eigen feestfoto maakt het persoonlijk."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien kindermerken op Instagram.",
+    "tekst": "Ouders ontdekken een nieuw kindermerk meestal niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag, omdat een advertentie na een paar weken moe wordt. Een vaste nieuwsbrief zorgt dat ouders terugkomen voor het volgende schooljaar of feestje.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kindermerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kindermerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1671:6",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Sticky Lemon",
+    "kop": "welkom bij sticky lemon",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Sticky Lemon is, de rugzak met citroenen als eerste kennismaking en drie dingen die ouders willen weten voordat ze bestellen.",
+    "punten": [
+      "Herokaart met de backpack medium lemons",
+      "Voor 14:00 besteld, dezelfde dag verstuurd",
+      "Gratis verzending in Nederland vanaf €100 en 30 dagen retour",
+      "Doorklik naar de rugzakken in small, medium en large"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1671:6",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Sticky Lemon",
+      "kop": "welkom bij sticky lemon",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Sticky Lemon is, de rugzak met citroenen als eerste kennismaking en drie dingen die ouders willen weten voordat ze bestellen.",
+      "punten": [
+        "Herokaart met de backpack medium lemons",
+        "Voor 14:00 besteld, dezelfde dag verstuurd",
+        "Gratis verzending in Nederland vanaf €100 en 30 dagen retour",
+        "Doorklik naar de rugzakken in small, medium en large"
+      ]
+    },
+    {
+      "node": "1672:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Kleine herinneringen, in vrolijke kleuren",
+      "kop": "kleine herinneringen, in vrolijke kleuren",
+      "tekst": "Het verhaal van Sticky Lemon en de sticky memories-collectie, met de backpack large stripes uitgelicht en een afsluiting voor elke schooldag en elk feestje.",
+      "punten": [
+        "Het verhaal achter het label, sinds 2016",
+        "Backpack large stripes in grass green met labels",
+        "Feestfoto's uit jullie eigen shoot",
+        "Knop naar sticky memories"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

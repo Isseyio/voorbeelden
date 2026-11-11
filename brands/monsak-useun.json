@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "monsak-useun",
+  "merk": "Monsak",
+  "domein": "monsak.nl",
+  "lead_id": "2026-10-28-monsak.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#802424",
+  "kop": "Gered leer, met de hand gemaakt in Amsterdam.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Monsak, ik heb dit gemaakt omdat het verhaal achter gered leer zich zo goed leent voor Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1706:2",
+      "titel": "Gered leer",
+      "waarom": "Het verhaal van het leer staat voorop, met echte foto's uit het atelier tussen de woorden."
+    },
+    {
+      "node": "1706:21",
+      "titel": "Gemaakt in het atelier",
+      "waarom": "De naaimachine en de feiten (sinds 2014, 6.500 tassen) laten zien dat het echt handwerk is."
+    },
+    {
+      "node": "1706:42",
+      "titel": "Showroommodel Sak 7",
+      "waarom": "Een echte prijs met korting geeft twijfelaars een concrete reden om nu te kijken."
+    }
+  ],
+  "waarom": {
+    "niche": "tassen",
+    "kop": "Zo groeien tassenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw tassenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, bijvoorbeeld voor een workshop.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij tassen- en accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Shabbies Amsterdam nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1706:51",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Monsak",
+    "kop": "Welkom bij Monsak",
+    "tekst": "Leuk dat je er bent. Elke twee weken hoor je als eerste over nieuwe rugtassen en workshopdata.",
+    "punten": [
+      "Gered leer™: afgekeurd leer krijgt een tweede leven",
+      "Gemaakt in het eigen atelier in Amsterdam-West",
+      "Levenslange garantie op tassen op maat",
+      "Workshops in groepjes van maximaal vier"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1706:51",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Monsak",
+      "kop": "Welkom bij Monsak",
+      "tekst": "Leuk dat je er bent. Elke twee weken hoor je als eerste over nieuwe rugtassen en workshopdata.",
+      "punten": [
+        "Gered leer™: afgekeurd leer krijgt een tweede leven",
+        "Gemaakt in het eigen atelier in Amsterdam-West",
+        "Levenslange garantie op tassen op maat",
+        "Workshops in groepjes van maximaal vier"
+      ]
+    },
+    {
+      "node": "1706:85",
+      "type": "Assortiment",
+      "onderwerp": "Kies je eigen tas",
+      "kop": "Kies je eigen tas",
+      "tekst": "Kant-en-klaar, op maat of zelf gemaakt in een workshop: vier manieren om aan je Monsak-tas te komen.",
+      "punten": [
+        "Workshop Tas Maken mini, €117",
+        "Workshop sak 9 crossbody, €187",
+        "Workshop Tas Maken maxi, €247",
+        "Sak 7 Rugzak, €327"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
