@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "brunotti-he2w9",
+  "merk": "Brunotti",
+  "domein": "brunotti.com",
+  "lead_id": "2026-10-31-brunotti.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E8662A",
+  "kop": "Van de stad tot de piste, in je feed",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Brunotti, ik heb dit gemaakt omdat jullie collectie precies op twee plekken thuishoort, de stad en de piste, en dat in één beeld te laten zien is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1468:276",
+      "titel": "Stad of piste?",
+      "waarom": "Twee echte beelden naast elkaar laten in één oogopslag zien dat Brunotti voor allebei is, met de prijs er direct bij."
+    },
+    {
+      "node": "1468:295",
+      "titel": "Warm tot in je mouw",
+      "waarom": "Eén detail van dichtbij met de specificaties erbij maakt technische kwaliteit zichtbaar die je op een productfoto mist."
+    },
+    {
+      "node": "1468:316",
+      "titel": "€139,99 voor de Firecrown",
+      "waarom": "Een echte prijs groot bovenaan valt op tussen sfeerposts en trekt mensen die al aan een nieuwe snowjas denken."
+    }
+  ],
+  "waarom": {
+    "niche": "sport & outdoor",
+    "kop": "Zo groeien sport- en outdoormerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe jas niet via Google, maar tijdens het scrollen, vaak net voor het seizoen begint. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sport- en outdoormerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij sport- en outdoormerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1470:2",
+    "type": "Merkverhaal",
+    "onderwerp": "Van windsurfen tot wintersport",
+    "kop": "Gemaakt voor koud weer",
+    "tekst": "Een merkverhaalmail rond de Urban Outdoor-campagne: waar Brunotti vandaan komt (Scheveningen, 1979), één snowjas uitgelegd met labels en de verzendbelofte als afsluiter.",
+    "punten": [
+      "Opent met jullie eigen Urban Outdoor-campagnebeeld",
+      "Suncrowny Girls Snow Jacket met 10K, 8K, capuchon en ski pass-zakje uitgelicht",
+      "Sluit af met snelle verzending, 30 dagen retour en achteraf betalen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1470:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Van windsurfen tot wintersport",
+      "kop": "Gemaakt voor koud weer",
+      "tekst": "Een merkverhaalmail rond de Urban Outdoor-campagne: waar Brunotti vandaan komt (Scheveningen, 1979), één snowjas uitgelegd met labels en de verzendbelofte als afsluiter.",
+      "punten": [
+        "Opent met jullie eigen Urban Outdoor-campagnebeeld",
+        "Suncrowny Girls Snow Jacket met 10K, 8K, capuchon en ski pass-zakje uitgelicht",
+        "Sluit af met snelle verzending, 30 dagen retour en achteraf betalen"
+      ]
+    },
+    {
+      "node": "1470:39",
+      "type": "Assortimentsmail",
+      "onderwerp": "Je wintersportoutfit in één keer klaar",
+      "kop": "Je wintersportoutfit in één keer klaar",
+      "tekst": "Een assortimentsmail met vier stukken voor het skiseizoen, elk met korte uitleg, prijs en knop, zodat lezers in één mail hun outfit samenstellen.",
+      "punten": [
+        "Firecrown, Whitewater, Terraya en Suncrowny met echte prijzen",
+        "Kortingen alleen waar de site ze zelf toont",
+        "Servicebeloftes onderaan: gratis verzending vanaf €125, 30 dagen retour"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

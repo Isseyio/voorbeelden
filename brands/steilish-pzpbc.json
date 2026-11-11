@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "steilish-pzpbc",
+  "merk": "Steilish",
+  "domein": "steilishcare.nl",
+  "lead_id": "2026-11-11-steilishcare.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8F7FAE",
+  "kop": "Krullen vieren, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Steilish, ik heb dit gemaakt omdat jullie krullen vieren in plaats van temmen, en dat zie je terug in elke foto. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1468:4",
+      "titel": "Krullen vieren, niet temmen",
+      "waarom": "Jullie eigen merkbelofte als grote kop met echte foto's ertussen valt op in de feed en laat direct zien voor wie het is."
+    },
+    {
+      "node": "1468:21",
+      "titel": "Routine in 3 stappen",
+      "waarom": "Een duidelijke routine (cleanse, hydrate, define) helpt twijfelaars kiezen en verkoopt meteen meerdere producten."
+    },
+    {
+      "node": "1468:47",
+      "titel": "Minder pluis, meer definitie",
+      "waarom": "Eén concreet resultaat met het product in de hand en drie korte kenmerken: precies wat iemand met pluizige krullen wil weten."
+    }
+  ],
+  "waarom": {
+    "niche": "haarverzorging",
+    "kop": "Zo groeien haarverzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw krullenmerk niet via Google, maar tijdens het scrollen, vaak via voor-en-na en routines. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe curlies en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat ze terugkomen voor een nieuwe fles.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij haarverzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Bouclème nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1468:63",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in de Curl Club",
+    "kop": "Welkom in de Curl Club.",
+    "tekst": "Leuk dat je er bent. Steilish begon met één krullenmeisje dat klaar was met producten die haar krullen zwaar maakten. Alles is Curly Girl Method Approved en zonder siliconen en sulfaten.",
+    "punten": [
+      "10% korting op je eerste krullenbestelling met CURL10",
+      "Hydrating Curl Shampoo 250 ml · €14,95",
+      "Hydrate & Define Leave-In 200 ml · €15,95",
+      "Bouw je eigen bundel: 3 of 4 favorieten, 15% korting"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1468:63",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in de Curl Club",
+      "kop": "Welkom in de Curl Club.",
+      "tekst": "Leuk dat je er bent. Steilish begon met één krullenmeisje dat klaar was met producten die haar krullen zwaar maakten. Alles is Curly Girl Method Approved en zonder siliconen en sulfaten.",
+      "punten": [
+        "10% korting op je eerste krullenbestelling met CURL10",
+        "Hydrating Curl Shampoo 250 ml · €14,95",
+        "Hydrate & Define Leave-In 200 ml · €15,95",
+        "Bouw je eigen bundel: 3 of 4 favorieten, 15% korting"
+      ]
+    },
+    {
+      "node": "1468:105",
+      "type": "Merkverhaal",
+      "onderwerp": "Krullen vieren, niet temmen",
+      "kop": "Eén krullenmeisje dat het anders wilde.",
+      "tekst": "Eilish probeerde jarenlang producten die haar krullen zwaar of krakend maakten. Daarom begon ze Steilish: verzorging die krullen viert in plaats van temt. Daarna volgt de leave-in die je krullen gehydrateerd houdt.",
+      "punten": [
+        "Houdt vocht vast, met hyaluronzuur",
+        "Minder pluis, meer definitie",
+        "De basis voor je styler",
+        "Gratis verzending in NL en BE vanaf €35"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
