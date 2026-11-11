@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "airback-8a3ww",
+  "merk": "Airback",
+  "domein": "airback.store",
+  "lead_id": "2026-11-11-airback.store",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Drie nieuwe invalshoeken voor de Airback MAX.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Airback, ik heb dit gemaakt omdat de MAX twee tassen in één is, en dat zie je het best als je trolley en rugzak naast elkaar zet. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1477:2",
+      "titel": "Trolley óf rugzak",
+      "waarom": "Twee echte foto's naast elkaar laten in één oogopslag zien wat de MAX anders maakt dan een gewone koffer."
+    },
+    {
+      "node": "1477:24",
+      "titel": "Eén druk, meer ruimte",
+      "waarom": "De hand op de pomp in het vacuümvak maakt de belangrijkste belofte tastbaar: een week kleding in je handbagage."
+    },
+    {
+      "node": "1477:44",
+      "titel": "De MAX voor €249",
+      "waarom": "Een duidelijke prijs met de oude prijs ernaast en een herkenbare reiziger werkt goed voor mensen die al aan het vergelijken zijn."
+    }
+  ],
+  "waarom": {
+    "niche": "tassen",
+    "kop": "Zo groeien tassenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe reistas niet via Google, maar tijdens het scrollen. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe varianten testen, houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat kopers terugkomen voor de volgende tas of een accessoire.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij tassenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "250+",
+        "label": "advertenties heeft Samsonite nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1477:52",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Airback",
+    "kop": "Fijn dat je er bent. Reizen kan lichter.",
+    "tekst": "Je hoort voortaan als eerste over nieuwe tassen en reistips. Om te beginnen: zo past een week aan kleding in je handbagage, met het vacuümvak van de MAX.",
+    "punten": [
+      "Tot 50% meer ruimte door het vacuümvak",
+      "Past als handbagage: 55 × 35 × 25 cm",
+      "100 dagen retour"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1477:52",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Airback",
+      "kop": "Fijn dat je er bent. Reizen kan lichter.",
+      "tekst": "Je hoort voortaan als eerste over nieuwe tassen en reistips. Om te beginnen: zo past een week aan kleding in je handbagage, met het vacuümvak van de MAX.",
+      "punten": [
+        "Tot 50% meer ruimte door het vacuümvak",
+        "Past als handbagage: 55 × 35 × 25 cm",
+        "100 dagen retour"
+      ]
+    },
+    {
+      "node": "1477:83",
+      "type": "Merkverhaal + productspotlight",
+      "onderwerp": "Hoe Airback begon (en waarom de MAX twee tassen is)",
+      "kop": "Gemaakt voor wie lichter wil reizen.",
+      "tekst": "In maart 2020 begon Airback met één idee: alles meenemen zonder ruimbagage. De eerste Kickstarter haalde in een maand €350.000 op. De MAX rolt als trolley door de terminal en draagt als rugzak in de stad.",
+      "punten": [
+        "Trolleysysteem met handvat van 80 tot 100 cm",
+        "Waterafstotend 900D gerecycled nylon",
+        "USB-C en USB-A om onderweg te laden",
+        "Dubbele TSA-sloten"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
