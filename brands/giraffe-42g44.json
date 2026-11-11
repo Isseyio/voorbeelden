@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "giraffe-42g44",
+  "merk": "Giraffe Coffee Roasters",
+  "domein": "giraffecoffee.com",
+  "lead_id": "2026-11-11-giraffecoffee.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#174024",
+  "kop": "Vers gebrande specialty koffie van Giraffe, uit Rotterdam.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Giraffe, ik heb dit gemaakt omdat ik het mooi vind dat jullie de branddatum op elke zak zetten. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1727:3",
+      "titel": "Vers gebrand",
+      "waarom": "Eén groot woord en drie herkenbare zakken laten in een seconde zien waar Giraffe voor staat."
+    },
+    {
+      "node": "1727:36",
+      "titel": "Van boon tot zak",
+      "waarom": "Vier kleine stappen met jullie eigen foto's maken het verschil met supermarktkoffie meteen zichtbaar."
+    },
+    {
+      "node": "1727:76",
+      "titel": "Koffie die vanzelf komt",
+      "waarom": "De abonnementsvoordelen als schakelaars maken een vaste klant van iemand die één zak wilde proberen."
+    }
+  ],
+  "waarom": {
+    "niche": "koffie",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe branderij niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers hun volgende zak ook bij jullie halen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15+",
+        "label": "advertenties heeft Coffeelovers nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1729:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Giraffe",
+    "kop": "Welkom bij Giraffe.",
+    "tekst": "Fijn dat je er bent. Sinds 2013 branden wij specialty koffie in Rotterdam, altijd in kleine batches.",
+    "punten": [
+      "Specialty: minimaal 80 van de 100 punten",
+      "Kleine batches, vers gebrand in Rotterdam",
+      "De branddatum staat op elke zak"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1729:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Giraffe",
+      "kop": "Welkom bij Giraffe.",
+      "tekst": "Fijn dat je er bent. Sinds 2013 branden wij specialty koffie in Rotterdam, altijd in kleine batches.",
+      "punten": [
+        "Specialty: minimaal 80 van de 100 punten",
+        "Kleine batches, vers gebrand in Rotterdam",
+        "De branddatum staat op elke zak"
+      ]
+    },
+    {
+      "node": "1729:70",
+      "type": "Productspotlight",
+      "onderwerp": "Welke blend past bij jou?",
+      "kop": "Welke blend past bij jou?",
+      "tekst": "Van romig en zoet tot kruidig en krachtig: vier blends naast elkaar, elk vanaf € 12,95.",
+      "punten": [
+        "Pacific Blend: kruidig, krachtig en zoethout",
+        "Latin America Blend: zoet, melkchocolade en karamel",
+        "Met een abonnement altijd 5% extra korting"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
