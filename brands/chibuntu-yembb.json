@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "chibuntu-yembb",
+  "merk": "Chibuntu",
+  "domein": "chibuntu.com",
+  "lead_id": "2026-10-31-chibuntu.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B51A00",
+  "kop": "Armbanden voor naast het horloge, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Chibuntu, ik heb dit gemaakt omdat jullie je armbanden steeds naast echte horloges laten zien, en dat beeld werkt op Instagram heel goed. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1413:4",
+      "titel": "Lucky Red uitgelicht",
+      "waarom": "Eén bestseller groot in beeld met twee duidelijke feiten laat in een seconde zien wat je koopt."
+    },
+    {
+      "node": "1413:5",
+      "titel": "Welke stack past?",
+      "waarom": "Twee stacks naast elkaar nodigen uit om te kiezen in plaats van door te scrollen."
+    },
+    {
+      "node": "1413:6",
+      "titel": "Je horloge belt",
+      "waarom": "Een herkenbaar belscherm valt op tussen gewone posts en past bij jullie idee van armbanden voor horlogeliefhebbers."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw armbandenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Trendhim nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1413:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de club",
+    "kop": "Welkom bij de club.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: als eerste horen over nieuwe armbanden, met de pouch en de vaste beloftes erbij.",
+    "punten": [
+      "Binnen 24 uur verzonden",
+      "Bestand tegen water en zweet",
+      "30 dagen geld terug"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1413:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de club",
+      "kop": "Welkom bij de club.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: als eerste horen over nieuwe armbanden, met de pouch en de vaste beloftes erbij.",
+      "punten": [
+        "Binnen 24 uur verzonden",
+        "Bestand tegen water en zweet",
+        "30 dagen geld terug"
+      ]
+    },
+    {
+      "node": "1413:8",
+      "type": "Productspotlight",
+      "onderwerp": "Bestsellers voor naast je horloge",
+      "kop": "Bestsellers voor naast je horloge",
+      "tekst": "Vier bestsellers op een rij, van een dun rood koord tot tijgeroog, met een stack als afsluiter.",
+      "punten": [
+        "Lucky Red Original bracelet",
+        "Bold Black Cobra Bracelet",
+        "Dream Tiger Gemstone Bracelet",
+        "Lucky Twisted Red bracelet"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

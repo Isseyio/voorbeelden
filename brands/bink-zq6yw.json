@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "bink-zq6yw",
+  "merk": "BINK Bedding",
+  "domein": "binkbedding.com",
+  "lead_id": "2026-11-02-binkbedding.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5E95A8",
+  "kop": "Drie advertenties voor BINK Bedding",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team BINK Bedding, ik heb dit gemaakt omdat jullie vrolijke prints en de foto's uit jullie eigen atelier zich goed lenen voor Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1406:2",
+      "titel": "Zacht van dichtbij",
+      "waarom": "Een close-up van de geborduurde stof laat voelen wat je koopt, nog voordat iemand op de site is."
+    },
+    {
+      "node": "1407:2",
+      "titel": "Welke past bij jullie?",
+      "waarom": "Twee prints naast elkaar laten ouders kiezen in plaats van twijfelen, en dat levert meer klikken op."
+    },
+    {
+      "node": "1408:2",
+      "titel": "Gratis verzending",
+      "waarom": "Een echte, duidelijke drempel van €50 met een babyfoto stopt het scrollen en geeft een reden om nu te bestellen."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien kids- en babymerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw merk voor de kinderkamer niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die ouders terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids- en babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Jollein nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1409:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij BINK",
+    "kop": "Welkom bij BINK. Leuk dat je er bent.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie BINK is, het eigen atelier en drie favorieten om mee te beginnen.",
+    "punten": [
+      "Gemaakt in het eigen atelier, pas na bestelling",
+      "Favorieten: hoeslaken Dees, boxkleed Savanne, klamboe Bo blue",
+      "Maatwerk voor een andere box- of bedmaat"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1409:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij BINK",
+      "kop": "Welkom bij BINK. Leuk dat je er bent.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie BINK is, het eigen atelier en drie favorieten om mee te beginnen.",
+      "punten": [
+        "Gemaakt in het eigen atelier, pas na bestelling",
+        "Favorieten: hoeslaken Dees, boxkleed Savanne, klamboe Bo blue",
+        "Maatwerk voor een andere box- of bedmaat"
+      ]
+    },
+    {
+      "node": "1411:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Klaar voor de herfst",
+      "kop": "Puur Hollands",
+      "tekst": "Een sfeermail met jullie kinderkamerfoto, het verhaal van het eigen atelier, klamboe Bo blue uitgelicht en de lampenkappen.",
+      "punten": [
+        "Herfstsfeer op de kinderkamer",
+        "Klamboe Bo blue met labels",
+        "Lampenkappen voor baby- en kinderkamer"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "yumesai-pbx5e",
+  "merk": "YUMESAI",
+  "domein": "yumesai.nl",
+  "lead_id": "2026-11-02-yumesai.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8FAE52",
+  "kop": "Matcha-momenten voor YUMESAI",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team YUMESAI, ik heb dit gemaakt omdat jullie matcha een eigen verhaal heeft: eerste pluk Saemidori uit Shizuoka, en dat zie je ook terug in jullie foto's. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1413:10",
+      "titel": "Je eigen matcha moment",
+      "waarom": "Grote kop met jullie sfeerfoto's in de woorden valt op tussen gewone posts en zet het thuisritueel centraal."
+    },
+    {
+      "node": "1413:28",
+      "titel": "Matcha-routine",
+      "waarom": "Een dagritme met drie momenten laat zien dat matcha een dagelijkse gewoonte is, en dus vaker gekocht wordt."
+    },
+    {
+      "node": "1413:58",
+      "titel": "Drie manieren om te beginnen",
+      "waarom": "Blik, navulzak en set naast elkaar met prijs helpen twijfelaars direct kiezen."
+    }
+  ],
+  "waarom": {
+    "niche": "matcha",
+    "kop": "Zo groeien matchamerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw matchamerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende zakje.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinkmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "90+",
+        "label": "advertenties heeft Megami Matcha nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1413:79",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij YUMESAI",
+    "kop": "Welkom bij YUMESAI",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, waar de matcha vandaan komt en hoe je je eerste kom maakt.",
+    "punten": [
+      "Herokaart met de bestseller Matcha 30 g",
+      "Drie kenmerken: eerste pluk, JAS, zonder toevoegingen",
+      "Zo maak je je eerste kom, met de matcha set als vervolgstap"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1413:79",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij YUMESAI",
+      "kop": "Welkom bij YUMESAI",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, waar de matcha vandaan komt en hoe je je eerste kom maakt.",
+      "punten": [
+        "Herokaart met de bestseller Matcha 30 g",
+        "Drie kenmerken: eerste pluk, JAS, zonder toevoegingen",
+        "Zo maak je je eerste kom, met de matcha set als vervolgstap"
+      ]
+    },
+    {
+      "node": "1413:129",
+      "type": "Merkverhaal",
+      "onderwerp": "Van de voet van de Fuji naar jouw kom",
+      "kop": "Van de voet van de Fuji naar jouw kom",
+      "tekst": "Het verhaal van Irene en de theetuinen in Shizuoka, met de matcha uitgelegd in vier labels en een rustige afsluiting.",
+      "punten": [
+        "Hero met de theevelden bij de Fuji",
+        "Matcha 30 g met labels: eerste pluk, Shizuoka, smaak, JAS",
+        "Afsluiting: kleine momenten hebben de grootste impact"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
