@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "denkadog-3h45t",
+  "merk": "Denkadog",
+  "domein": "denkadog.nl",
+  "lead_id": "2026-11-05-denkadog.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1E2B4A",
+  "kop": "Voeding van de dierenarts, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Denkadog, ik heb dit gemaakt omdat een dierenarts die zelf voeding ontwikkelt een verhaal is dat op Instagram goed werkt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1768:4",
+      "titel": "Allergisch voor alles?",
+      "waarom": "Begint bij het probleem dat eigenaren zelf herkennen en laat met jullie eigen voor- en nafoto's zien wat Hypo-Allergic kan doen."
+    },
+    {
+      "node": "1768:5",
+      "titel": "Graanvrij in drie punten",
+      "waarom": "Het product groot in beeld met drie korte kenmerken en de prijs, zodat iemand in een paar seconden ziet of het past."
+    },
+    {
+      "node": "1768:6",
+      "titel": "De dierenarts belt",
+      "waarom": "Een speelse vorm die het gratis advies van Erik naar voren haalt; persoonlijk advies is voor twijfelende hondeneigenaren vaak de stap naar een eerste bestelling."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien huisdierenmerken op Instagram.",
+    "tekst": "De meeste hondeneigenaren ontdekken een nieuw voermerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als de zak leeg is.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Edgard & Cooper nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1768:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Denkadog: je 10% korting staat klaar",
+    "kop": "Welkom! Fijn dat je er bent, en je hond ook.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% korting op de eerste bestelling, wie jullie zijn en een uitnodiging voor de voedingstest.",
+    "punten": [
+      "10% korting op de eerste bestelling",
+      "Sinds 1983, ontwikkeld door een dierenarts",
+      "Doorverwijzing naar voedingstest en gratis advies"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1768:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Denkadog: je 10% korting staat klaar",
+      "kop": "Welkom! Fijn dat je er bent, en je hond ook.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% korting op de eerste bestelling, wie jullie zijn en een uitnodiging voor de voedingstest.",
+      "punten": [
+        "10% korting op de eerste bestelling",
+        "Sinds 1983, ontwikkeld door een dierenarts",
+        "Doorverwijzing naar voedingstest en gratis advies"
+      ]
+    },
+    {
+      "node": "1768:8",
+      "type": "Merkverhaal",
+      "onderwerp": "Voeding van de dierenarts, sinds 1983",
+      "kop": "Omdat elk dier anders is.",
+      "tekst": "Een mail over Erik Luijerink en waarom hij voeding ontwikkelt, met Hypo-Allergic uitgelicht en de ervaring van Love4Paws.",
+      "punten": [
+        "Het verhaal van dierenarts Erik",
+        "Hypo-Allergic met labels",
+        "Afsluiting met gratis advies"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

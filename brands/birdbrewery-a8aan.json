@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "birdbrewery-a8aan",
+  "merk": "Bird Brewery",
+  "domein": "birdbrewery.com",
+  "lead_id": "2026-10-30-birdbrewery.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#114B35",
+  "kop": "Bird Brewery op Instagram: drie ideeën en twee nieuwsbrieven",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Bird Brewery, ik heb dit gemaakt omdat elk blik van jullie vogelgeluidenserie al een verhaal vertelt, en dat leent zich goed voor advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1770:3",
+      "titel": "Er belt een kookaburra",
+      "waarom": "Een speelse inkomende oproep laat mensen stoppen met scrollen en zet KOOK-KA-KAA-KA groot in beeld."
+    },
+    {
+      "node": "1770:15",
+      "titel": "Vul je box",
+      "waarom": "Eén groot woord plus de echte 15% korting op een 12-pack maakt meteen duidelijk wat je kunt doen."
+    },
+    {
+      "node": "1770:31",
+      "titel": "Twee winterbieren",
+      "waarom": "Apres Kievit en Kerstmus naast elkaar helpen mensen kiezen, precies in de weken dat ze een kerstbier zoeken."
+    }
+  ],
+  "waarom": {
+    "niche": "bier",
+    "kop": "Zo groeien biermerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw biertje niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende release.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Uiltje nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1771:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Early Birds",
+    "kop": "Welkom bij de Early Birds.",
+    "tekst": "Een welkomstmail voor iedereen die zich aanmeldt als Early Bird: wat ze kunnen verwachten, waar Bird Brewery voor staat en een duwtje richting de eerste box.",
+    "punten": [
+      "Hero met de limited editions van 2026",
+      "Genieten met impact: 1 boom, 6 liter water en 1 m² natuur per liter",
+      "Stel je eigen box samen, met de echte 6- en 12-packkorting"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1771:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Early Birds",
+      "kop": "Welkom bij de Early Birds.",
+      "tekst": "Een welkomstmail voor iedereen die zich aanmeldt als Early Bird: wat ze kunnen verwachten, waar Bird Brewery voor staat en een duwtje richting de eerste box.",
+      "punten": [
+        "Hero met de limited editions van 2026",
+        "Genieten met impact: 1 boom, 6 liter water en 1 m² natuur per liter",
+        "Stel je eigen box samen, met de echte 6- en 12-packkorting"
+      ]
+    },
+    {
+      "node": "1771:50",
+      "type": "Productspotlight",
+      "onderwerp": "Vogelgeluiden in een blik",
+      "kop": "Vogelgeluiden in een blik.",
+      "tekst": "Een spotlight op de limited editions van 2026, met het verhaal achter de vogelnamen en de Vogelgeluiden Box als afsluiter.",
+      "punten": [
+        "Jullie eigen jungle-illustratie als hero",
+        "KOOK-KA-KAA-KA uitgelicht met stijl, alcohol en smaak",
+        "Vogelgeluiden Box met de echte actieprijs"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

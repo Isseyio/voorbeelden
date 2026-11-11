@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "numa-kxcu8",
+  "merk": "NÛMA Home Fragrance",
+  "domein": "numahomefragrance.nl",
+  "lead_id": "2026-10-30-numahomefragrance.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#b9955b",
+  "kop": "Thuiskomen, ook tijdens het scrollen.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team NÛMA, ik heb dit gemaakt omdat jullie zwarte potten met gouden letters zo herkenbaar zijn dat ze één beeld al sterk maken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1774:4",
+      "titel": "Met de hand gegoten",
+      "waarom": "Een close-up met korte labels laat in één beeld zien waar de €30 in zit: vegan sojawas, handwerk en circa 40 uur branden."
+    },
+    {
+      "node": "1774:5",
+      "titel": "Kaars of geurstokjes?",
+      "waarom": "Twee foto's naast elkaar helpen kiezen tussen de geurkaars en de geurstokjes, en laten zien dat Vanilla Noire er in beide vormen is."
+    },
+    {
+      "node": "1774:6",
+      "titel": "Thuiskomen belt je op",
+      "waarom": "Een herkenbaar telefoonscherm laat mensen even stoppen met scrollen en zet het gevoel van thuiskomen centraal."
+    }
+  ],
+  "waarom": {
+    "niche": "geur en kaarsen",
+    "kop": "Zo groeien geur- en kaarsenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kaarsenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. En omdat een kaars opbrandt, zorgt een vaste nieuwsbrief dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij geur- en kaarsenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Atelier Rebul nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1774:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in de NÛMA-familie",
+    "kop": "Welkom in de familie.",
+    "tekst": "Een welkomstmail voor wie zich aanmeldt voor de Private Collection: wat ze kunnen verwachten, de drie huisgeuren naast elkaar en de keuze tussen kaars en geurstokjes.",
+    "punten": [
+      "Aanmelding Private Collection krijgt meteen een warm welkom",
+      "Vanilla Noire, Premium Wood en Santal Royale in één oogopslag",
+      "Geurkaars €30 of geurstokjes €35, met de hand gemaakt in Nederland"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1774:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in de NÛMA-familie",
+      "kop": "Welkom in de familie.",
+      "tekst": "Een welkomstmail voor wie zich aanmeldt voor de Private Collection: wat ze kunnen verwachten, de drie huisgeuren naast elkaar en de keuze tussen kaars en geurstokjes.",
+      "punten": [
+        "Aanmelding Private Collection krijgt meteen een warm welkom",
+        "Vanilla Noire, Premium Wood en Santal Royale in één oogopslag",
+        "Geurkaars €30 of geurstokjes €35, met de hand gemaakt in Nederland"
+      ]
+    },
+    {
+      "node": "1774:8",
+      "type": "Merkverhaal",
+      "onderwerp": "Van beeld naar beleving",
+      "kop": "Sfeer maken we al jaren. Nu ook thuis.",
+      "tekst": "Een verhaalmail over de twee oprichters uit de event-, foto- en videowereld, de geurnoten van Premium Wood en de geursets als cadeau voor Sinterklaas.",
+      "punten": [
+        "Het verhaal van Alan en Glebs in een paar zinnen",
+        "Premium Wood uitgelegd: witte peper, benzoëhars, cederhout",
+        "Geurset van €60 als cadeau, op tijd voor 2 december"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

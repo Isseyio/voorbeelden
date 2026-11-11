@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "riverwood-h95ax",
+  "merk": "Riverwood Petfood",
+  "domein": "riverwoodpetfood.com",
+  "lead_id": "2026-11-11-riverwoodpetfood.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#AB642B",
+  "kop": "Drie nieuwe invalshoeken voor Riverwood",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Riverwood, ik heb dit gemaakt omdat jullie mono proteïne blikken zo'n duidelijk verhaal hebben: één vleessoort per blik. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1766:3",
+      "titel": "Veel vlees, geen granen",
+      "waarom": "Grote typografie met jullie eigen honden- en kattenfoto's vertelt in één blik waar Riverwood voor staat, met het droogvoer en de prijs eronder."
+    },
+    {
+      "node": "1766:53",
+      "titel": "Mono proteïne",
+      "waarom": "Eén groot woord en vier blikken naast elkaar laten zien dat je per vleessoort kiest, wat baasjes van gevoelige honden vaak zoeken."
+    },
+    {
+      "node": "1766:109",
+      "titel": "Etenstijd belt",
+      "waarom": "Een speelse belscherm-advertentie valt op tussen gewone productfoto's en zet één blik met prijs centraal."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien huisdierenmerken op Instagram.",
+    "tekst": "De meeste baasjes ontdekken een nieuw voermerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende zak of doos.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Edgard & Cooper nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1767:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Riverwood",
+    "kop": "Welkom bij Riverwood",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wat Riverwood is, waar jullie op letten en een uitnodiging om het assortiment te bekijken.",
+    "punten": [
+      "Veel vlees, geen granen of gluten",
+      "100% natuurlijk en hypoallergeen",
+      "De smaakgarantie als geruststelling bij een nieuwe smaak"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1767:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Riverwood",
+      "kop": "Welkom bij Riverwood",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wat Riverwood is, waar jullie op letten en een uitnodiging om het assortiment te bekijken.",
+      "punten": [
+        "Veel vlees, geen granen of gluten",
+        "100% natuurlijk en hypoallergeen",
+        "De smaakgarantie als geruststelling bij een nieuwe smaak"
+      ]
+    },
+    {
+      "node": "1767:98",
+      "type": "Merkverhaal",
+      "onderwerp": "Hoe Riverwood begon",
+      "kop": "Hoe Riverwood begon",
+      "tekst": "John and Son, het idee op de InterZoo in 2014 en de start in de speciaalzaak in 2016, gevolgd door wat er in Hert & Lam met Konijn zit.",
+      "punten": [
+        "Het verhaal achter Johnson Petfoods",
+        "Vier kenmerken rond het droogvoer",
+        "Afsluiting met prijs en bestelknop"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

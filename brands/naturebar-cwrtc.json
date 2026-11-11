@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "naturebar-cwrtc",
+  "merk": "Nature Bar",
+  "domein": "naturebar.nl",
+  "lead_id": "2026-10-29-naturebar.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#e98f63",
+  "kop": "Shampoo bars die opvallen tijdens het scrollen.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Nature Bar, ik heb dit gemaakt omdat jullie shampoo bars met bierbostel een verhaal hebben dat je in één beeld kunt vertellen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1769:4",
+      "titel": "Zo'n 90 wasbeurten",
+      "waarom": "Een weekstrip maakt in één oogopslag duidelijk hoe lang één bar meegaat, en dat maakt €9,95 tastbaar."
+    },
+    {
+      "node": "1769:5",
+      "titel": "Koop geen shampoo in een fles",
+      "waarom": "Een omgekeerde kop laat mensen stoppen met scrollen en zet plasticvrij direct centraal."
+    },
+    {
+      "node": "1769:6",
+      "titel": "Bierbostel wordt volume",
+      "waarom": "Het upcycled ingrediënt is een verhaal dat alleen Nature Bar heeft, verteld met jullie eigen beelden."
+    }
+  ],
+  "waarom": {
+    "niche": "verzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw verzorgingsmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. En omdat een shampoo bar opraakt, zorgt een vaste nieuwsbrief dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25+",
+        "label": "advertenties heeft HappySoaps nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1769:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Nature Bar",
+    "kop": "Verzorging zonder plastic, gewoon uit Amsterdam.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: het verhaal van de zeepstudio in De Hallen, drie redenen om te kiezen voor Nature Bar en een eerste stap naar de bestseller Strength & Volume.",
+    "punten": [
+      "Merkverhaal: met de hand gemaakt in De Hallen",
+      "100% natuurlijk, vrij van microplastics, vegan",
+      "Zo'n 90 wasbeurten uit één bar"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1769:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Nature Bar",
+      "kop": "Verzorging zonder plastic, gewoon uit Amsterdam.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: het verhaal van de zeepstudio in De Hallen, drie redenen om te kiezen voor Nature Bar en een eerste stap naar de bestseller Strength & Volume.",
+      "punten": [
+        "Merkverhaal: met de hand gemaakt in De Hallen",
+        "100% natuurlijk, vrij van microplastics, vegan",
+        "Zo'n 90 wasbeurten uit één bar"
+      ]
+    },
+    {
+      "node": "1769:8",
+      "type": "Vergelijking shampoo bars",
+      "onderwerp": "Welke shampoo bar past bij jou?",
+      "kop": "Drie bars, drie haartypes.",
+      "tekst": "Een keuzemail die de drie shampoo bars naast elkaar zet per haartype en geur, met Strength & Volume uitgelicht en een uitnodiging voor de zeepwinkel.",
+      "punten": [
+        "Vergelijking Nourish & Repair, Strength & Volume, Balance & Deep Cleanse",
+        "Upcycled bierbostel uitgelicht",
+        "Zeepwinkel en refill bar in De Hallen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

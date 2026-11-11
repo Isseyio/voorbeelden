@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "drupt-2fqb7",
+  "merk": "Drupt",
+  "domein": "drupt.nl",
+  "lead_id": "2026-10-29-drupt.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#a07c45",
+  "kop": "Echte bloemen, nieuwe invalshoeken.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Drupt, ik heb dit gemaakt omdat jullie vergeet-me-nietjes en de Koester hanger zo'n duidelijk verhaal hebben: klein, met de hand gemaakt en vol betekenis. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1764:4",
+      "titel": "Koester in de hand",
+      "waarom": "Een echte hand met de hanger op het strand laat meteen zien hoe klein en persoonlijk het sieraad is."
+    },
+    {
+      "node": "1764:5",
+      "titel": "Gemaakt met echte bloemen",
+      "waarom": "Vier bloemen naast elkaar laten in één beeld zien hoeveel keuze er is, en dat elke hanger echt uniek is."
+    },
+    {
+      "node": "1764:6",
+      "titel": "Goud of zilver?",
+      "waarom": "Een eenvoudige keuzevraag nodigt uit om te reageren en zet beide prijzen direct in beeld."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Jullie adverteren al; merken die daar elke week nieuwe invalshoeken testen, houden hun advertenties fris en hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1764:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Drupt, je 10% staat klaar",
+    "kop": "Een stukje natuur, altijd dichtbij.",
+    "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: de 10% welkomstkorting die jullie al geven, drie redenen om te kiezen voor Drupt en een eerste stap naar de bestsellers.",
+    "punten": [
+      "10% welkomstkorting duidelijk in beeld",
+      "Handgemaakt met echte bloemen, krasvast, in een cadeauverpakking",
+      "Direct door naar de bestsellers"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1764:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Drupt, je 10% staat klaar",
+      "kop": "Een stukje natuur, altijd dichtbij.",
+      "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: de 10% welkomstkorting die jullie al geven, drie redenen om te kiezen voor Drupt en een eerste stap naar de bestsellers.",
+      "punten": [
+        "10% welkomstkorting duidelijk in beeld",
+        "Handgemaakt met echte bloemen, krasvast, in een cadeauverpakking",
+        "Direct door naar de bestsellers"
+      ]
+    },
+    {
+      "node": "1764:8",
+      "type": "Merkverhaal + productspotlight",
+      "onderwerp": "Een bloem vol betekenis",
+      "kop": "Draag de natuur altijd bij je.",
+      "tekst": "Het verhaal van het atelier in Amsterdam, met de Hanger Drop vergeet-me-niet uitgelicht: echte bloem, verguld of verzilverd, en de keuze in kettinglengte.",
+      "punten": [
+        "Merkverhaal uit het atelier",
+        "Hanger Drop vergeet-me-niet met labels",
+        "Kettinglengte 45, 50 of 60 cm, vanaf €22,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
