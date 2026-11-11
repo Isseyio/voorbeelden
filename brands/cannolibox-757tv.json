@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "cannolibox-757tv",
+  "merk": "The Cannoli Box",
+  "domein": "cannolibox.com",
+  "lead_id": "2026-11-04-cannolibox.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B8833B",
+  "kop": "Drie nieuwe invalshoeken voor The Cannoli Box",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Cannoli Box, ik heb dit gemaakt omdat jullie roze doos met gouden strik zich zo goed leent voor beeld. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1755:3",
+      "titel": "Geen bloemen, geen wijn",
+      "waarom": "Zet de box direct naast de cadeaus waar mensen anders voor kiezen, met jullie eigen foto's tussen de woorden."
+    },
+    {
+      "node": "1755:17",
+      "titel": "Knapperig en romig",
+      "waarom": "Laat in één beeld zien hoe de cannoli eruitzien en voelen, zodat mensen de smaak al bijna proeven."
+    },
+    {
+      "node": "1755:29",
+      "titel": "Inkomend gesprek",
+      "waarom": "Een speels idee dat laat zien wat het cadeau met iemand doet, en dat valt op tussen gewone advertenties."
+    }
+  ],
+  "waarom": {
+    "niche": "food",
+    "kop": "Zo groeien foodmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw cadeau niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers bij het volgende cadeaumoment terugkomen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15+",
+        "label": "advertenties heeft The Brownie Box nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1755:42",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Cannoli Box",
+    "kop": "Welkom bij Cannoli Box",
+    "tekst": "Op de site zag ik nog geen inschrijving voor een nieuwsbrief. Zo kan de eerste mail eruitzien voor wie zich aanmeldt: kort welkom, waarom mensen de box geven en een makkelijke eerste bestelling.",
+    "punten": [
+      "Met de hand gemaakt, 8 weken houdbaar",
+      "Roze doos met gouden strik",
+      "€27,48 per box, gratis verzending vanaf 2 boxen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1755:42",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Cannoli Box",
+      "kop": "Welkom bij Cannoli Box",
+      "tekst": "Op de site zag ik nog geen inschrijving voor een nieuwsbrief. Zo kan de eerste mail eruitzien voor wie zich aanmeldt: kort welkom, waarom mensen de box geven en een makkelijke eerste bestelling.",
+      "punten": [
+        "Met de hand gemaakt, 8 weken houdbaar",
+        "Roze doos met gouden strik",
+        "€27,48 per box, gratis verzending vanaf 2 boxen"
+      ]
+    },
+    {
+      "node": "1755:71",
+      "type": "Merkverhaal",
+      "onderwerp": "Het cadeau dat ze echt onthouden",
+      "kop": "Het cadeau dat ze echt onthouden",
+      "tekst": "Een mail die uitlegt waarom een Cannoli Box beter werkt dan bloemen of wijn, en wat er in de doos zit.",
+      "punten": [
+        "Geen bloemen, geen wijn",
+        "Tien smaken in één doos",
+        "Vers gemaakt vlak voor verzending"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

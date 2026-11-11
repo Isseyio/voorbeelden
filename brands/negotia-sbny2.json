@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "negotia-sbny2",
+  "merk": "Negotia Leather",
+  "domein": "negotialeather.com",
+  "lead_id": "2026-11-10-negotialeather.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1A1612",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Negotia.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Negotia, ik heb dit gemaakt omdat jullie foto's van de Sorel Briefcase zo sterk zijn dat ze bijna vanzelf een advertentie worden. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1761:3",
+      "titel": "Klaar voor maandag",
+      "waarom": "Een echte hand met de tas en drie korte labels laten in één blik zien wat de Sorel kan."
+    },
+    {
+      "node": "1761:24",
+      "titel": "15% korting op alles",
+      "waarom": "Jullie echte actie bovenaan en het logo groot over de foto: herkenbaar en direct."
+    },
+    {
+      "node": "1761:33",
+      "titel": "Gemaakt om lang mee te gaan",
+      "waarom": "Leer, handwerk, indeling en garantie naast elkaar beantwoorden de vraag waarom deze tas zijn prijs waard is."
+    }
+  ],
+  "waarom": {
+    "niche": "tassen",
+    "kop": "Zo groeien tassenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe werktas niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de weekender of de toilettas.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij tassenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Time Resistance nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1763:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Negotia",
+    "kop": "Gebouwd voor werk. Gemaakt voor alles daarna.",
+    "tekst": "Wij maken leren tassen en accessoires voor werk, reizen en alles daartussen, met de hand gemaakt in ons eigen atelier in Kolkata van volnerf leer met LWG-certificaat.",
+    "punten": [
+      "Volnerf nappaleer",
+      "YKK-ritsen en beslag",
+      "Gevoerd laptopvak tot 16 inch",
+      "Levenslange garantie en 30 dagen zonder risico proberen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1763:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Negotia",
+      "kop": "Gebouwd voor werk. Gemaakt voor alles daarna.",
+      "tekst": "Wij maken leren tassen en accessoires voor werk, reizen en alles daartussen, met de hand gemaakt in ons eigen atelier in Kolkata van volnerf leer met LWG-certificaat.",
+      "punten": [
+        "Volnerf nappaleer",
+        "YKK-ritsen en beslag",
+        "Gevoerd laptopvak tot 16 inch",
+        "Levenslange garantie en 30 dagen zonder risico proberen"
+      ]
+    },
+    {
+      "node": "1763:41",
+      "type": "Assortiment",
+      "onderwerp": "Voor de reis. Voor elke bestemming.",
+      "kop": "Voor de reis. Voor elke bestemming.",
+      "tekst": "Vier stukken die je elke dag meeneemt: naar kantoor, op reis en alles daartussen.",
+      "punten": [
+        "Sorel Briefcase €143",
+        "Notion Folio vanaf €67",
+        "Marent Weekender €160",
+        "Caldre Wash bag €50"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "vylento-yh4vw",
+  "merk": "Vylento",
+  "domein": "vylento.com",
+  "lead_id": "2026-11-11-vylento.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#29344A",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Vylento.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Vylento, ik heb dit gemaakt omdat de Expedition met zijn twaalf pasjes en plat biljettenvak zich goed laat uitleggen in één beeld. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1757:3",
+      "titel": "Vijf kleuren, één prijs",
+      "waarom": "Eén groot getal en alle vijf kleuren naast elkaar laten in een seconde zien wat erin past en welke kleur bij je past."
+    },
+    {
+      "node": "1757:32",
+      "titel": "Biljetten plat",
+      "waarom": "Een echte hand met de portemonnee open plus twee korte labels beantwoordt de vraag of er echt genoeg in past."
+    },
+    {
+      "node": "1757:42",
+      "titel": "Je broekzak belt",
+      "waarom": "Een speels belscherm valt op tussen gewone productfoto's en brengt het voordeel van een compacte pasjeshouder met een knipoog."
+    }
+  ],
+  "waarom": {
+    "niche": "accessoires",
+    "kop": "Zo groeien accessoiremerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe pasjeshouder niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15+",
+        "label": "advertenties heeft Prowallet nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1759:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Vylento",
+    "kop": "Welkom bij Vylento",
+    "tekst": "Fijn dat je er bent. Meer dan 10.000 tevreden klanten gingen je voor met een compacte pasjeshouder van Vylento.",
+    "punten": [
+      "100 dagen gratis retourneren",
+      "100% geld-terug-garantie",
+      "Tijdelijk een luxe cadeaudoos gratis erbij",
+      "Eén klik en je meestgebruikte pasjes schuiven omhoog"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1759:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Vylento",
+      "kop": "Welkom bij Vylento",
+      "tekst": "Fijn dat je er bent. Meer dan 10.000 tevreden klanten gingen je voor met een compacte pasjeshouder van Vylento.",
+      "punten": [
+        "100 dagen gratis retourneren",
+        "100% geld-terug-garantie",
+        "Tijdelijk een luxe cadeaudoos gratis erbij",
+        "Eén klik en je meestgebruikte pasjes schuiven omhoog"
+      ]
+    },
+    {
+      "node": "1759:37",
+      "type": "Productvergelijking",
+      "onderwerp": "Expedition of Discovery?",
+      "kop": "Expedition of Discovery?",
+      "tekst": "Twee pasjeshouders, één vraag: hoeveel neem jij mee? Een korte vergelijking, met een cadeautip voor de feestdagen.",
+      "punten": [
+        "Expedition: 1 tot 12 pasjes, 10 biljetten en munten, €49,90",
+        "Discovery: 1 tot 10 pasjes, 5 biljetten en munten, €39,90",
+        "Tijdelijk met gratis luxe cadeaudoos"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
