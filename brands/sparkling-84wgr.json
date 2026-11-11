@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "sparkling-84wgr",
+  "merk": "Sparkling Jewels",
+  "domein": "sparkling-jewels.com",
+  "lead_id": "2026-10-31-sparkling-jewels.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1F4D3D",
+  "kop": "Mix & Match, ook in je feed",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Sparkling Jewels, ik heb dit gemaakt omdat jullie Mix & Match, zelf de steen in je oorbel of hanger wisselen, zich goed laat uitleggen in één beeld. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1463:3",
+      "titel": "Jouw eigen stapel",
+      "waarom": "Een echte draagfoto met de kenmerken eromheen laat in één beeld zien hoe de Core Armband om de pols valt en wat hem bijzonder maakt."
+    },
+    {
+      "node": "1463:24",
+      "titel": "Wissel de steen",
+      "waarom": "Mix & Match is lastig uit te leggen in tekst, maar met twee labels op een close-up van het oor snap je het meteen."
+    },
+    {
+      "node": "1463:41",
+      "titel": "Mix & Match",
+      "waarom": "Eén groot woord en drie armbanden met prijs werken als een etalage: kiezen gaat vanzelf en de prijs is meteen duidelijk."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live in Nederland"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1464:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Sparkling, je 10% staat klaar",
+    "kop": "Welkom bij Sparkling",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% korting op de eerste bestelling, Mix & Match uitgelegd in drie stappen en de Essentials als eerste aankoop.",
+    "punten": [
+      "Gaat direct uit na inschrijving voor de 10% korting",
+      "Legt Mix & Match uit: steen kiezen, zelf wisselen, mooi verpakt",
+      "Sluit af met de Essentials als instap"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1464:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Sparkling, je 10% staat klaar",
+      "kop": "Welkom bij Sparkling",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% korting op de eerste bestelling, Mix & Match uitgelegd in drie stappen en de Essentials als eerste aankoop.",
+      "punten": [
+        "Gaat direct uit na inschrijving voor de 10% korting",
+        "Legt Mix & Match uit: steen kiezen, zelf wisselen, mooi verpakt",
+        "Sluit af met de Essentials als instap"
+      ]
+    },
+    {
+      "node": "1464:31",
+      "type": "Productspotlight",
+      "onderwerp": "Goud of zilver? Dezelfde malachiet, twee looks",
+      "kop": "Goud of zilver?",
+      "tekst": "Een mail over één armband in twee varianten: de Core Armband Malachite in gold plated en zilver naast elkaar, met de verschillen in een kort overzicht.",
+      "punten": [
+        "Eén product, twee varianten naast elkaar",
+        "Helpt twijfelaars kiezen, zonder korting",
+        "Werkt ook voor de andere edelstenen uit de Core-lijn"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

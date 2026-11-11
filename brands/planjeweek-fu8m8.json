@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "planjeweek-fu8m8",
+  "merk": "Planjeweek.nl",
+  "domein": "planjeweek.nl",
+  "lead_id": "2026-11-11-planjeweek.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#936B74",
+  "kop": "Drie advertenties voor rustig plannen.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Planjeweek.nl, ik heb dit gemaakt omdat planners met voor elke dag dezelfde kwartierindeling zo'n herkenbaar idee zijn. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1462:4",
+      "titel": "Twee omslagen",
+      "waarom": "Bloesem en Naturel naast elkaar maken de keuze makkelijk en laten de planner zelf het werk doen."
+    },
+    {
+      "node": "1462:24",
+      "titel": "Per kwartier plannen",
+      "waarom": "Een hand die in de planner schrijft laat direct zien hoe de kwartierindeling werkt."
+    },
+    {
+      "node": "1462:43",
+      "titel": "Iedere dag gelijk",
+      "waarom": "Een weekstrip maakt het idee zichtbaar: elke dag hetzelfde overzicht, het hele jaar door."
+    }
+  ],
+  "waarom": {
+    "niche": "stationery",
+    "kop": "Zo groeien plannermerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw plannermerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij stationerymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "200+",
+        "label": "advertenties heeft Uitgeverij De Hobbit nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1462:75",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Planjeweek.nl",
+    "kop": "Welkom bij Planjeweek.nl",
+    "tekst": "Fijn dat je er bent. Je 10% welkomstkorting op je eerste ongedateerde planner staat voor je klaar.",
+    "punten": [
+      "Plannen per kwartier, elke dag hetzelfde overzicht",
+      "Binnen 2 werkdagen verzonden",
+      "Persoonlijke service en advies"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1462:75",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Planjeweek.nl",
+      "kop": "Welkom bij Planjeweek.nl",
+      "tekst": "Fijn dat je er bent. Je 10% welkomstkorting op je eerste ongedateerde planner staat voor je klaar.",
+      "punten": [
+        "Plannen per kwartier, elke dag hetzelfde overzicht",
+        "Binnen 2 werkdagen verzonden",
+        "Persoonlijke service en advies"
+      ]
+    },
+    {
+      "node": "1462:106",
+      "type": "Merkverhaal",
+      "onderwerp": "Hoe de eerste weekplanner ontstond",
+      "kop": "Ontworpen door Stefanie",
+      "tekst": "Stefanie vond geen planner met genoeg schrijfruimte en een helder weekoverzicht, dus ontwierp ze er als grafisch ontwerper zelf een. In oktober 2020 startte ze Planjeweek.nl.",
+      "punten": [
+        "184 pagina's crème Biotop papier",
+        "Genaaid ingebonden, blijft openliggen",
+        "Twee leeslinten, wit en beige",
+        "Planner 2027 in Bloesem of Naturel, €29,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
