@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "herqs-sfu2a",
+  "merk": "herQs",
+  "domein": "herqs.com",
+  "lead_id": "2026-11-11-herqs.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#D12E33",
+  "kop": "Drie nieuwe invalshoeken voor jullie rookvrije vuurkorven",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team herQs, ik heb dit gemaakt omdat jullie vuurkorven een duidelijke belofte hebben, wel vuur en geen rook, en dat leent zich voor veel verschillende advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1574:2",
+      "titel": "Koop geen vuurkorf die rookt",
+      "waarom": "Een kop die eerst tegenspreekt laat mensen stoppen met scrollen en zet de belofte van 90% minder rook groot neer."
+    },
+    {
+      "node": "1574:25",
+      "titel": "Mighty of Cozy",
+      "waarom": "Twee modellen naast elkaar met aantal personen en prijs helpen twijfelaars sneller kiezen."
+    },
+    {
+      "node": "1574:43",
+      "titel": "Rookvrij vuur vanaf €100",
+      "waarom": "Een echte instapprijs boven een sfeerfoto van een tuinfeest laat zien dat rookvrij vuur bereikbaar is."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en tuin",
+    "kop": "Zo groeien woon- en tuinmerken op Instagram.",
+    "tekst": "Jullie adverteren al, dus de basis staat. Wat vaak gebeurt: een paar advertenties doen het meeste werk en worden na een paar weken moe. Merken die elke week nieuwe invalshoeken testen, houden hun kosten per aankoop laag, en een welkomstmail helpt twijfelaars bij een aankoop van een paar honderd euro.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woon- en tuinmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft höfats nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1575:9",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij herQs",
+    "kop": "Welkom bij herQs",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wat herQs anders maakt, wat ze van jullie mogen verwachten en hoe snel het vuur brandt.",
+    "punten": [
+      "Herokaart met de Cozy en één duidelijke knop",
+      "Drie beloftes: 90% minder rook, levenslange garantie, morgen in huis",
+      "Direct uit de doos, met jullie eigen uitpakfoto"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1575:9",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij herQs",
+      "kop": "Welkom bij herQs",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wat herQs anders maakt, wat ze van jullie mogen verwachten en hoe snel het vuur brandt.",
+      "punten": [
+        "Herokaart met de Cozy en één duidelijke knop",
+        "Drie beloftes: 90% minder rook, levenslange garantie, morgen in huis",
+        "Direct uit de doos, met jullie eigen uitpakfoto"
+      ]
+    },
+    {
+      "node": "1575:51",
+      "type": "Assortimentsmail",
+      "onderwerp": "Welke vuurkorf past bij jou?",
+      "kop": "Welke vuurkorf past bij jou?",
+      "tekst": "Een keuzemail voor mensen die twijfelen tussen de vier modellen, met per model voor hoeveel personen hij is en de echte prijs.",
+      "punten": [
+        "Hero met jullie eigen sfeerfoto",
+        "Mighty, Cozy, Blaze en Chief met prijs en knop",
+        "Een echte Trustpilot-review als afsluiting"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

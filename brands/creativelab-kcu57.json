@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "creativelab-kcu57",
+  "merk": "Creative Lab Amsterdam",
+  "domein": "creativelabamsterdam.com",
+  "lead_id": "2026-11-11-creativelabamsterdam.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1A1A1A",
+  "kop": "Drie nieuwe invalshoeken voor jullie behang op maat",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Creative Lab Amsterdam, ik heb dit gemaakt omdat jullie kamerfoto's laten zien hoe één ontwerp een hele kamer verandert, en die sample van €3,50 een mooie eerste stap is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1578:4",
+      "titel": "Behang op maat",
+      "waarom": "Grote woorden met jullie eigen kamerfoto's ertussen vertellen in één blik wat jullie doen: behang dat precies op de muur past."
+    },
+    {
+      "node": "1578:17",
+      "titel": "Welke kamer eerst?",
+      "waarom": "Twee echte kamers naast elkaar laten zien dat jullie ontwerpen zowel in een babykamer als in een woonkamer werken, met de prijs per m² erbij."
+    },
+    {
+      "node": "1578:39",
+      "titel": "Sample voor €3,50",
+      "waarom": "Behang op maat is een grote stap; een sample van €3,50 is een kleine, en die drempel haalt de twijfel weg bij mensen die nog oriënteren."
+    }
+  ],
+  "waarom": {
+    "niche": "interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken nieuw behang niet via Google, maar tijdens het scrollen langs mooie kamers. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief brengt sample-bestellers terug voor de echte bestelling.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Photowall nu tegelijk live in Nederland"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1578:49",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Creative Lab Amsterdam",
+    "kop": "Welkom bij Creative Lab Amsterdam",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wat behang op maat bij jullie betekent, dat er eerst een gratis digitale proef komt en wie Nienke en Heleen zijn.",
+    "punten": [
+      "Herokaart met jullie eigen kamerfoto en één duidelijke knop",
+      "Drie iconen: op maat geprint, eerst een sample voor €3,50, PVC-vrij",
+      "Tweede kaart met jullie teamfoto en het verhaal sinds 2016"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1578:49",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Creative Lab Amsterdam",
+      "kop": "Welkom bij Creative Lab Amsterdam",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wat behang op maat bij jullie betekent, dat er eerst een gratis digitale proef komt en wie Nienke en Heleen zijn.",
+      "punten": [
+        "Herokaart met jullie eigen kamerfoto en één duidelijke knop",
+        "Drie iconen: op maat geprint, eerst een sample voor €3,50, PVC-vrij",
+        "Tweede kaart met jullie teamfoto en het verhaal sinds 2016"
+      ]
+    },
+    {
+      "node": "1578:80",
+      "type": "Productspotlight",
+      "onderwerp": "Onze bestsellers aan de muur",
+      "kop": "Onze bestsellers",
+      "tekst": "Een assortimentsmail met vier bestsellers in echte kamers, elk met prijs per m² en een eigen knop, en onderaan de sample van €3,50 voor wie nog twijfelt.",
+      "punten": [
+        "Hero met jullie eigen kinderkamerfoto",
+        "African Safari Sunset, Dancing Crane Birds, Oliver Teddy en Pink Oasis met echte prijzen",
+        "Afsluitend blok: eerst de kleuren zien met een sample"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

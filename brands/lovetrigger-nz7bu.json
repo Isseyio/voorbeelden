@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "lovetrigger-nz7bu",
+  "merk": "Lovetrigger",
+  "domein": "lovetrigger-clothing.com",
+  "lead_id": "2026-10-28-lovetrigger-clothing.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#EF1A25",
+  "kop": "Streetwear uit Amsterdam West, in beeld voor Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Lovetrigger, ik heb dit gemaakt omdat jullie zin Slow and ethical fashion zo duidelijk op de Harvey staat, dat hij zelf al een advertentie is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1575:4",
+      "titel": "Prijs en herkomst",
+      "waarom": "De echte prijs en Amsterdam groot in beeld: wie scrolt, weet in één seconde wat het is en waar het vandaan komt."
+    },
+    {
+      "node": "1575:5",
+      "titel": "Jullie eigen slogan",
+      "waarom": "Slow and ethical fashion staat al op de hoodie; als kop met jullie foto's ertussen vertelt het verhaal zichzelf."
+    },
+    {
+      "node": "1575:6",
+      "titel": "De hoodie belt",
+      "waarom": "Een speels idee dat opvalt tussen gewone modeposts en toch het product en de prijs centraal zet."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "250+",
+        "label": "advertenties heeft Axel Arigato nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1575:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Loveletter",
+    "kop": "Welkom bij de Loveletter",
+    "tekst": "Een welkomstmail voor iedereen die zich inschrijft: wie Lovetrigger is, waar jullie voor staan (Love Local, Love Earth, Love People) en een rustige eerste stap naar de Icons.",
+    "punten": [
+      "Jullie eigen productfoto's en iconen",
+      "Verhaal van streetwear uit Amsterdam in een paar zinnen",
+      "Gratis verzending vanaf €100 als duwtje"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1575:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Loveletter",
+      "kop": "Welkom bij de Loveletter",
+      "tekst": "Een welkomstmail voor iedereen die zich inschrijft: wie Lovetrigger is, waar jullie voor staan (Love Local, Love Earth, Love People) en een rustige eerste stap naar de Icons.",
+      "punten": [
+        "Jullie eigen productfoto's en iconen",
+        "Verhaal van streetwear uit Amsterdam in een paar zinnen",
+        "Gratis verzending vanaf €100 als duwtje"
+      ]
+    },
+    {
+      "node": "1575:8",
+      "type": "Merkverhaal",
+      "onderwerp": "Made in Amsterdam. Made to last.",
+      "kop": "Made in Amsterdam. Made to last.",
+      "tekst": "Een mail over Maarten en de hub in Amsterdam West, met de Harvey als voorbeeld van waar jullie op letten: materiaal, gewicht en vorm.",
+      "punten": [
+        "Ontwerper en maker als gezicht van het merk",
+        "Productkenmerken van de Harvey met labels",
+        "Afsluiting met jullie eigen zin: From a simple kiss to a better future"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
