@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "spiceclub-tpzxg",
+  "merk": "The Spice Club",
+  "domein": "thespiceclub.nl",
+  "lead_id": "2026-11-11-thespiceclub.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#03989E",
+  "kop": "Drie nieuwe invalshoeken voor jullie zoutvrije mixen",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team The Spice Club, ik heb dit gemaakt omdat jullie mixen echt zonder zout of suiker zijn en jullie potjes er zo vrolijk uitzien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1544:4",
+      "titel": "Zoutvrij",
+      "waarom": "Eén groot woord en een zoekbalk laten in een seconde zien waar jullie voor staan, met drie echte potjes en prijzen eronder."
+    },
+    {
+      "node": "1544:28",
+      "titel": "Elke avond een andere smaak",
+      "waarom": "Een weekstrip met een andere mix per dag laat zien hoe makkelijk het is om elke avond iets anders te koken."
+    },
+    {
+      "node": "1544:50",
+      "titel": "Taco Tuesday belt",
+      "waarom": "Een speels belscherm valt op tussen gewone productfoto's en zet één bestseller groot in beeld."
+    }
+  ],
+  "waarom": {
+    "niche": "food",
+    "kop": "Zo groeien foodmerken op Instagram.",
+    "tekst": "Jullie adverteren al, dus de basis staat. Wat vaak gebeurt: een paar advertenties doen het meeste werk en worden na een paar weken moe. Merken die elke week nieuwe invalshoeken testen, houden hun kosten per aankoop laag, en een vaste nieuwsbrief zorgt dat mensen terugkomen als hun potje leeg is.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij foodmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1544:63",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de club",
+    "kop": "Welkom bij de club",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers op 'Gratis recepten in je inbox': wat The Spice Club is, waar je begint en twee bestsellers.",
+    "punten": [
+      "Welkom met jullie eigen mixen en een knop naar de recepten",
+      "Begin hier: de Starter Set · 9-Pack voor €46,95",
+      "Twee bestsellers met prijs en een knop: Taco & Fajita en Pasta"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1544:63",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de club",
+      "kop": "Welkom bij de club",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers op 'Gratis recepten in je inbox': wat The Spice Club is, waar je begint en twee bestsellers.",
+      "punten": [
+        "Welkom met jullie eigen mixen en een knop naar de recepten",
+        "Begin hier: de Starter Set · 9-Pack voor €46,95",
+        "Twee bestsellers met prijs en een knop: Taco & Fajita en Pasta"
+      ]
+    },
+    {
+      "node": "1544:99",
+      "type": "Actiemail",
+      "onderwerp": "Herfst sale: de Starter Set voor €46,95",
+      "kop": "Herfst sale",
+      "tekst": "Een mail rond jullie echte Herfst sale, met de Starter Set · 9-Pack van €71,95 voor €46,95 en drie redenen om te kiezen.",
+      "punten": [
+        "Grote actiekop met de echte prijs en de echte van-prijs",
+        "Drie voordelen: 100% natuurlijk, 0% zout en suiker, 500+ recepten",
+        "De negen mixen uit de set in één beeld"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

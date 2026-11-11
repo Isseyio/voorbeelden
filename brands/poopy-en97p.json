@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "poopy-en97p",
+  "merk": "Poopy",
+  "domein": "poopy.co",
+  "lead_id": "2026-11-11-poopy.co",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5F6C96",
+  "kop": "Drie nieuwe invalshoeken voor de Nova Pro",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Poopy, ik heb dit gemaakt omdat jullie met een Nederlands team een product hebben waar kattenbaasjes elke dag iets aan hebben, en dat zie je terug in jullie foto's. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1549:3",
+      "titel": "Een schone kattenbak belt",
+      "waarom": "Een herkenbaar telefoonscherm met de Nova Pro in het midden laat mensen stoppen met scrollen en brengt het gemak met een knipoog."
+    },
+    {
+      "node": "1549:15",
+      "titel": "Nooit meer scheppen",
+      "waarom": "Een weekstrip met elke dag dezelfde schone kattenbak maakt in één blik duidelijk wat je elke dag niet meer hoeft te doen."
+    },
+    {
+      "node": "1549:41",
+      "titel": "Vijf kleuren",
+      "waarom": "Eén groot woord en alle vijf kleuren naast elkaar geven mensen die al twijfelen een reden om nu hun kleur te kiezen."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien huisdierenmerken op Instagram.",
+    "tekst": "Jullie adverteren al, dus de basis staat. Wat vaak gebeurt: een paar advertenties doen het meeste werk en worden na een paar weken moe. Merken die elke week nieuwe invalshoeken testen, houden hun kosten per aankoop laag, en een welkomstmail helpt twijfelaars over de streep bij een product van een paar honderd euro.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1550:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Poopy",
+    "kop": "Welkom bij Poopy",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wat Poopy doet, wat ze van jullie mogen verwachten en hoe de kattenbak werkt.",
+    "punten": [
+      "Herokaart met de Nova Pro en één duidelijke knop",
+      "Drie beloftes: 50 dagen proberen, 2 jaar garantie, een Nederlands team",
+      "Uitleg in een paar zinnen met jullie eigen foto"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1550:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Poopy",
+      "kop": "Welkom bij Poopy",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wat Poopy doet, wat ze van jullie mogen verwachten en hoe de kattenbak werkt.",
+      "punten": [
+        "Herokaart met de Nova Pro en één duidelijke knop",
+        "Drie beloftes: 50 dagen proberen, 2 jaar garantie, een Nederlands team",
+        "Uitleg in een paar zinnen met jullie eigen foto"
+      ]
+    },
+    {
+      "node": "1550:31",
+      "type": "Productspotlight",
+      "onderwerp": "Eén bezoek, één cyclus, klaar",
+      "kop": "Eén bezoek, één cyclus, klaar",
+      "tekst": "Een mail over de Nova Pro voor mensen die twijfelen, met het verhaal van het team en de belangrijkste kenmerken bij het product.",
+      "punten": [
+        "Jullie eigen foto van een kat die uit de Nova Pro stapt",
+        "Vier kenmerken bij het product: trommel, sensor, geluid en aantal katten",
+        "Afsluiting met de 50 dagen proefperiode en de Black Friday-prijs"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
