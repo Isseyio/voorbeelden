@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "wildthings-42j5j",
+  "merk": "Wildthings Collectables",
+  "domein": "wildthings-collectables.com",
+  "lead_id": "2026-11-11-wildthings-collectables.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Sieraden uit Amsterdam en Bali, elke week opnieuw in beeld",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Wildthings, ik heb dit gemaakt omdat jullie sieraden met hun slangen, sterren en medaillons van dichtbij veel verschillende verhalen geven voor advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1669:276",
+      "titel": "The Serpant van dichtbij",
+      "waarom": "Korte labels bij het medaillon en de dolk laten in één blik zien wat deze oorbel bijzonder maakt en waarom hij zijn prijs waard is."
+    },
+    {
+      "node": "1669:297",
+      "titel": "Eclipse Ear Cuff",
+      "waarom": "Een duidelijke prijs boven een sterke modelfoto werkt goed voor mensen die al aan het vergelijken zijn."
+    },
+    {
+      "node": "1669:306",
+      "titel": "Amsterdam en Bali",
+      "waarom": "Het verhaal achter het merk in een paar woorden geeft nieuwe mensen een reden om Wildthings te onthouden."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1686:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Wildthings",
+    "kop": "Fijn dat je er bent.",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie Wildthings is, wat je kunt verwachten en twee sieraden om mee te beginnen.",
+    "punten": [
+      "Ontworpen in Amsterdam, met de hand gemaakt op Bali, sinds 2016",
+      "Voor 18:00 besteld, dezelfde dag verzonden en 30 dagen retour",
+      "The Serpant Earring en de Eclipse Ear Cuff met prijs"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1686:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Wildthings",
+      "kop": "Fijn dat je er bent.",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie Wildthings is, wat je kunt verwachten en twee sieraden om mee te beginnen.",
+      "punten": [
+        "Ontworpen in Amsterdam, met de hand gemaakt op Bali, sinds 2016",
+        "Voor 18:00 besteld, dezelfde dag verzonden en 30 dagen retour",
+        "The Serpant Earring en de Eclipse Ear Cuff met prijs"
+      ]
+    },
+    {
+      "node": "1686:35",
+      "type": "Merkverhaal",
+      "onderwerp": "Ontworpen in Amsterdam, gemaakt op Bali",
+      "kop": "Ontworpen in Amsterdam, gemaakt op Bali.",
+      "tekst": "Een mail over het verhaal achter het merk: Leanne die sinds 2016 elke collectie ontwerpt, het handwerk op Bali en de gerecyclede materialen.",
+      "punten": [
+        "Jullie eigen sfeerfoto als groot beeld",
+        "Gerecycled zilver en messing met 18K goud uitgelegd",
+        "De winkel in Lissabon met permanent jewellery op afspraak"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

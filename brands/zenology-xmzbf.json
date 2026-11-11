@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "zenology-xmzbf",
+  "merk": "ZENOLOGY",
+  "domein": "zenology.com",
+  "lead_id": "2026-11-11-zenology.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5A3A2A",
+  "kop": "Drie nieuwe invalshoeken voor ZENOLOGY",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team ZENOLOGY, ik heb dit gemaakt omdat hotel luxury, home een idee is dat je in één beeld kunt laten voelen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1677:14",
+      "titel": "Hotel luxury, thuis",
+      "waarom": "Twee korte kenmerken naast de echte fles vertellen in één blik waarom deze roomspray meer is dan een luchtje."
+    },
+    {
+      "node": "1679:2",
+      "titel": "Sandelhout of groene thee?",
+      "waarom": "Een keuze tussen twee geuren laat mensen meteen kiezen welke bij hen past, met alle formaten en prijzen eronder."
+    },
+    {
+      "node": "1679:26",
+      "titel": "De hotelkamer belt",
+      "waarom": "Een belscherm valt op tussen gewone posts en zet de diffuser neer als de rust van een hotelkamer, maar dan thuis."
+    }
+  ],
+  "waarom": {
+    "niche": "geur & kaarsen",
+    "kop": "Zo groeien geurmerken op Instagram.",
+    "tekst": "Een geur kun je online niet ruiken, dus mensen kopen op sfeer en vertrouwen. Merken die elke week nieuwe advertenties testen, vinden sneller het beeld dat die sfeer overbrengt en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat kopers terugkomen als hun fles leeg is.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij geurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij geurmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1681:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij ZENOLOGY",
+    "kop": "Welkom bij ZENOLOGY",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: hotel luxury, home in één beeld, wat ZENOLOGY anders maakt en de travel spray als makkelijke eerste aankoop.",
+    "punten": [
+      "Herokaart met de Ambiance Triggers op het zilveren dienblad",
+      "Parfumeur in Zuid-Frankrijk, vegan en cruelty-free",
+      "Ambiance Travel Spray 75 ml voor €25",
+      "Doorklik naar de home fragrances"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1681:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij ZENOLOGY",
+      "kop": "Welkom bij ZENOLOGY",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: hotel luxury, home in één beeld, wat ZENOLOGY anders maakt en de travel spray als makkelijke eerste aankoop.",
+      "punten": [
+        "Herokaart met de Ambiance Triggers op het zilveren dienblad",
+        "Parfumeur in Zuid-Frankrijk, vegan en cruelty-free",
+        "Ambiance Travel Spray 75 ml voor €25",
+        "Doorklik naar de home fragrances"
+      ]
+    },
+    {
+      "node": "1682:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Begonnen in het hotel, nu bij jou thuis",
+      "kop": "Begonnen in het hotel, nu bij jou thuis",
+      "tekst": "Het verhaal van ZENOLOGY, van hotels in heel Europa naar huis, met de Ambiance Trigger uitgelicht en een uitnodiging voor de winkel aan de Grimburgwal.",
+      "punten": [
+        "Het verhaal achter ZENOLOGY",
+        "Ambiance Trigger 300 ml met labels",
+        "Winkel ONE THREE FIVE C, woensdag tot en met zaterdag",
+        "Foto's uit jullie eigen winkel"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

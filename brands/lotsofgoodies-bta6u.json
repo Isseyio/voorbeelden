@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "lotsofgoodies-bta6u",
+  "merk": "Lots of Goodies",
+  "domein": "lotsofgoodies.nl",
+  "lead_id": "2026-11-01-lotsofgoodies.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#FD89B9",
+  "kop": "Drie nieuwe invalshoeken voor Lots of Goodies",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Lots of Goodies, ik heb dit gemaakt omdat jullie Goodies Wide Leg Jeans in zoveel kleuren zo'n sterke basis is voor advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1678:4",
+      "titel": "Prijs voorop",
+      "waarom": "De prijs van €30 in plaats van €39,99 staat groot bovenaan, zodat iemand die scrolt meteen weet waarom ze moet klikken."
+    },
+    {
+      "node": "1678:5",
+      "titel": "Black of Denim Blue?",
+      "waarom": "Twee kleuren naast elkaar maken van de advertentie een keuze, en wie kiest, klikt sneller door."
+    },
+    {
+      "node": "1678:6",
+      "titel": "Eén jeans, hele week",
+      "waarom": "De kop laat met jullie eigen outfitfoto's zien dat één jeans bij veel verschillende looks past."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw modemerk niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe varianten testen, blijven nieuwe kopers vinden. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Loavies nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1678:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Fijn dat je er bent",
+    "kop": "Welkom bij de club",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, hoe snel jullie leveren en meteen de bestseller erbij.",
+    "punten": [
+      "Vandaag besteld = vandaag ingepakt",
+      "Eigen magazijn in Zoetermeer",
+      "Goodies Wide Leg Jeans als eerste stap"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1678:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Fijn dat je er bent",
+      "kop": "Welkom bij de club",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, hoe snel jullie leveren en meteen de bestseller erbij.",
+      "punten": [
+        "Vandaag besteld = vandaag ingepakt",
+        "Eigen magazijn in Zoetermeer",
+        "Goodies Wide Leg Jeans als eerste stap"
+      ]
+    },
+    {
+      "node": "1678:8",
+      "type": "Assortimentsmail",
+      "onderwerp": "Jouw wide leg, in jouw kleur",
+      "kop": "Lots of Denim",
+      "tekst": "Een mail die de Goodies Wide Leg Jeans in meerdere kleuren naast elkaar zet, met prijs en een directe knop per kleur.",
+      "punten": [
+        "Black, Denim Blue en Dark Blue naast elkaar",
+        "Prijs en korting per kleur",
+        "Hulp bij het kiezen van je maat"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
