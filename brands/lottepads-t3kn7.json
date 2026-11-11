@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "lottepads-t3kn7",
+  "merk": "LottePads",
+  "domein": "lottepads.nl",
+  "lead_id": "2026-10-31-lottepads.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#EC3D2C",
+  "kop": "Wasbaar maandverband, elke week opnieuw in beeld.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team LottePads, ik heb dit gemaakt omdat ik het mooi vind dat Lotte in 2015 met haar eerste inlegkruisjes begon en jullie alles nog steeds in Nederland maken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1724:3",
+      "titel": "Waar het van gemaakt is",
+      "waarom": "Laat in één beeld zien wat er in een verband zit, zodat twijfelaars snappen waarom het prettig draagt."
+    },
+    {
+      "node": "1724:22",
+      "titel": "Het juiste verband per dag",
+      "waarom": "Beantwoordt de grootste vraag van nieuwe klanten: welk verband heb ik op welke dag nodig."
+    },
+    {
+      "node": "1724:46",
+      "titel": "Je menstruatie belt",
+      "waarom": "Een speelse invalshoek die opvalt tussen de gewone advertenties en het product toch groot in beeld houdt."
+    }
+  ],
+  "waarom": {
+    "niche": "verzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende set.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Modibodi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1724:59",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij LottePads",
+    "kop": "Welkom bij LottePads",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: het proefpakket als eerste stap, drie redenen om over te stappen en het verhaal van Lotte, die in 2015 haar eerste inlegkruisjes maakte.",
+    "punten": [
+      "Proefpakket als eerste stap",
+      "Geen plastic, zacht voor je huid, handgemaakt in Nederland",
+      "Het verhaal van Lotte en Made by Lotte"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1724:59",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij LottePads",
+      "kop": "Welkom bij LottePads",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: het proefpakket als eerste stap, drie redenen om over te stappen en het verhaal van Lotte, die in 2015 haar eerste inlegkruisjes maakte.",
+      "punten": [
+        "Proefpakket als eerste stap",
+        "Geen plastic, zacht voor je huid, handgemaakt in Nederland",
+        "Het verhaal van Lotte en Made by Lotte"
+      ]
+    },
+    {
+      "node": "1724:88",
+      "type": "Productspotlight",
+      "onderwerp": "Eén verband dat 3 tot 5 jaar meegaat",
+      "kop": "Eén verband dat 3 tot 5 jaar meegaat",
+      "tekst": "Een mail die uitlegt waarom wasbaar verband werkt, laat zien hoe het is opgebouwd en twijfelaars naar de Mystery box stuurt.",
+      "punten": [
+        "Waarom wasbaar: 300+ wegwerpproducten per jaar bespaard",
+        "Opbouw: print, absorberende kern, ademende achterzijde",
+        "Mystery box voor €59 als makkelijke start"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

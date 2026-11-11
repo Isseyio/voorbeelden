@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "idyart-3q9sj",
+  "merk": "Idy Art",
+  "domein": "idyart.nl",
+  "lead_id": "2026-10-29-idyart.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E52776",
+  "kop": "Colliers uit Leeuwarden, elke week opnieuw in beeld.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Idy Art, ik heb dit gemaakt omdat ik het mooi vind dat jullie alle colliers zelf ontwerpen, van keramiek tot barokke zoetwaterparels. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1725:3",
+      "titel": "Zoetwaterparels",
+      "waarom": "Eén groot woord en twee echte colliers met prijs: in een seconde duidelijk wat je bij Idy Art koopt."
+    },
+    {
+      "node": "1725:18",
+      "titel": "Handgemaakt in Leeuwarden",
+      "waarom": "Laat de details van één collier zien, zodat je ziet dat het met de hand is gemaakt."
+    },
+    {
+      "node": "1725:36",
+      "titel": "Precies jouw stijl",
+      "waarom": "Zet de materialen centraal, waar sieradenkopers vaak als eerste naar kijken."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1725:53",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Idy Art",
+    "kop": "Welkom bij Idy Art",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de colliers die jullie zelf ontwerpen, sieraden op maat, de workshops en de winkel aan het Naauw.",
+    "punten": [
+      "Barokke zoetwaterparels als eerste beeld",
+      "Sieraden op maat, workshops en de winkel in Leeuwarden",
+      "Materialen: sterling silver, doublé, gold filled en nikkelvrij"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1725:53",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Idy Art",
+      "kop": "Welkom bij Idy Art",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: de colliers die jullie zelf ontwerpen, sieraden op maat, de workshops en de winkel aan het Naauw.",
+      "punten": [
+        "Barokke zoetwaterparels als eerste beeld",
+        "Sieraden op maat, workshops en de winkel in Leeuwarden",
+        "Materialen: sterling silver, doublé, gold filled en nikkelvrij"
+      ]
+    },
+    {
+      "node": "1725:83",
+      "type": "Productspotlight",
+      "onderwerp": "Colliers die we zelf ontwerpen",
+      "kop": "Colliers die we zelf ontwerpen",
+      "tekst": "Een assortimentsmail met vier colliers, van zoetwaterparels tot glaskralen, met prijs en knop per collier en de workshops als afsluiting.",
+      "punten": [
+        "Vier colliers met prijs en knop",
+        "Van €29,50 tot €149,50",
+        "Workshops als afsluiting"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
