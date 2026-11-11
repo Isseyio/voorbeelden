@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "rogelli-pfcza",
+  "merk": "Rogelli",
+  "domein": "rogelli.com",
+  "lead_id": "2026-10-31-rogelli.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3D52F2",
+  "kop": "Drie nieuwe invalshoeken en twee nieuwsbrieven voor Rogelli, rond fietsen in de winter.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Rogelli, ik heb dit gemaakt omdat jullie bij elk product de temperatuur vermelden, en dat is precies de vraag die fietsers zich nu stellen: wat trek ik aan als het koud wordt? Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1382:4",
+      "titel": "Welke laag bij welk weer?",
+      "waarom": "Jullie eigen temperatuurlabels als schakelaars beantwoorden de vraag die elke fietser in de winter heeft, met drie producten en prijzen erbij."
+    },
+    {
+      "node": "1382:29",
+      "titel": "Winterklaar",
+      "waarom": "Eén groot woord met een zoekbalk sluit aan op waar mensen nu op zoeken, en laat in één beeld een complete winteroutfit zien."
+    },
+    {
+      "node": "1382:48",
+      "titel": "Fietsen stop je niet",
+      "waarom": "Een grote kop met jullie eigen ritfoto's tussen de woorden valt op tussen gewone productposts en eindigt bij één jack met één prijs."
+    }
+  ],
+  "waarom": {
+    "niche": "sport en outdoor",
+    "kop": "Zo groeien sportmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sportmerk niet via Google, maar tijdens het scrollen. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe invalshoeken testen houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat rijders terugkomen als het seizoen omslaat.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sportmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25+",
+        "label": "advertenties heeft AGU nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1383:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de joyride",
+    "kop": "Welkom bij de joyride.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers via Join the Joyride: wie jullie zijn, waarom rijders voor Rogelli kiezen en meteen de 10% die jullie bij inschrijving beloven.",
+    "punten": [
+      "Herokaart in jullie blauw met jullie eigen foto van een rit in de bergen",
+      "Drie redenen: gratis verzending vanaf €50, 30 dagen gratis retour en 4,6 uit 5 op Trusted Shops",
+      "Tweede kaart met de 10% welkomstkorting en jullie detailfoto van het Core winterjack"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1383:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de joyride",
+      "kop": "Welkom bij de joyride.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers via Join the Joyride: wie jullie zijn, waarom rijders voor Rogelli kiezen en meteen de 10% die jullie bij inschrijving beloven.",
+      "punten": [
+        "Herokaart in jullie blauw met jullie eigen foto van een rit in de bergen",
+        "Drie redenen: gratis verzending vanaf €50, 30 dagen gratis retour en 4,6 uit 5 op Trusted Shops",
+        "Tweede kaart met de 10% welkomstkorting en jullie detailfoto van het Core winterjack"
+      ]
+    },
+    {
+      "node": "1383:30",
+      "type": "Assortimentsmail",
+      "onderwerp": "Klaar voor de winter",
+      "kop": "Klaar voor de winter.",
+      "tekst": "Een assortimentsmail met vier stukken voor koude ritten, elk met packshot, korte tekst, prijs en knop.",
+      "punten": [
+        "Hero met jullie eigen modelfoto van het Core winterjack",
+        "Core winterjack, Nova winterhandschoenen, Essential overschoenen en de Core lange fietsbroek",
+        "Afsluiting met jullie 4,6 uit 5 van meer dan 2.500 klanten op Trusted Shops"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

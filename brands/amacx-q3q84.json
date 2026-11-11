@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "amacx-q3q84",
+  "merk": "Amacx",
+  "domein": "amacx.com",
+  "lead_id": "2026-11-01-amacx.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#00325B",
+  "kop": "Drie nieuwe invalshoeken en twee nieuwsbrieven voor Amacx, rond de Turbo Line, de Try Out Bundle en een raceplan in drie stappen.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Amacx, ik heb dit gemaakt omdat jullie Turbo Line met drie smaken in dezelfde 1:0.8 verhouding zich goed leent voor steeds nieuwe advertenties naast wat jullie nu al draaien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1380:154",
+      "titel": "Jouw brandstof, jouw smaak",
+      "waarom": "Een echte foto van iemand die jullie gels en repen vasthoudt voelt als een tip van een andere sporter, en de Try Out Bundle maakt de eerste aankoop klein."
+    },
+    {
+      "node": "1380:166",
+      "titel": "Turbo Drink",
+      "waarom": "Eén groot woord en drie smaken naast elkaar vallen op in de feed en laten in één blik zien wat de Turbo Line is."
+    },
+    {
+      "node": "1380:179",
+      "titel": "Raceplan in drie stappen",
+      "waarom": "Een plan voor de start, onderweg en na de finish helpt twijfelaars kiezen en verkoopt drie producten tegelijk."
+    }
+  ],
+  "waarom": {
+    "niche": "sportvoeding",
+    "kop": "Zo groeien sportvoedingsmerken op Instagram.",
+    "tekst": "De meeste sporters ontdekken een nieuw merk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag, omdat een advertentie na een paar weken moe wordt. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende doos gels.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sportvoedingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sportvoedingsmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1380:200",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Team Amacx, hier is je 10%",
+    "kop": "Welkom bij Team Amacx",
+    "tekst": "Een welkomstmail die de 10% welkomstkorting meteen bruikbaar maakt en nieuwe inschrijvers laat zien waar de meeste sporters mee beginnen.",
+    "punten": [
+      "10% welkomstkorting in een duidelijk vak",
+      "Energy Try Out Bundle, Turbo Drink en Cherry Juice + als startpunt",
+      "Knoppen en kleuren in jullie eigen stijl"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1380:200",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Team Amacx, hier is je 10%",
+      "kop": "Welkom bij Team Amacx",
+      "tekst": "Een welkomstmail die de 10% welkomstkorting meteen bruikbaar maakt en nieuwe inschrijvers laat zien waar de meeste sporters mee beginnen.",
+      "punten": [
+        "10% welkomstkorting in een duidelijk vak",
+        "Energy Try Out Bundle, Turbo Drink en Cherry Juice + als startpunt",
+        "Knoppen en kleuren in jullie eigen stijl"
+      ]
+    },
+    {
+      "node": "1380:246",
+      "type": "Productspotlight",
+      "onderwerp": "Drinken wat je in de koers ook echt opmaakt",
+      "kop": "Turbo Drink in de spotlight",
+      "tekst": "Een productmail over de Turbo Line: de 1:0.8 verhouding, drie smaken en het verhaal van jullie profpartners, met jullie eigen sportfoto's.",
+      "punten": [
+        "Hero met jullie eigen triathlonfoto",
+        "Product met vier kenmerken van de verpakking en productpagina",
+        "Afsluiting met prijs en knop naar Turbo Drink"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

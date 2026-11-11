@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "viadigioia-m65ck",
+  "merk": "Via di Gioia",
+  "domein": "viadigioia.nl",
+  "lead_id": "2026-11-11-viadigioia.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#125E63",
+  "kop": "Drie advertenties voor bikini's met een grote cup.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Via di Gioia, ik heb dit gemaakt omdat jullie elke top in drie pasvormen maken, tot en met cup G, en dat verhaal goed in beeld te brengen is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1380:4",
+      "titel": "De details",
+      "waarom": "Een close-up met korte labels laat in een paar seconden zien waarom deze top steun geeft en er toch mooi uitziet."
+    },
+    {
+      "node": "1380:29",
+      "titel": "Smaragd of zwart",
+      "waarom": "Twee kleuren naast elkaar op hetzelfde model maken kiezen makkelijk en laten de pasvorm zien."
+    },
+    {
+      "node": "1380:48",
+      "titel": "Nu vanaf onderband 65",
+      "waarom": "Een concreet getal valt op tijdens het scrollen en spreekt precies de vrouwen aan die moeilijk een passende bikini vinden."
+    }
+  ],
+  "waarom": {
+    "niche": "badmode",
+    "kop": "Zo groeien badmodemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw badmodemerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende set.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Hunkemöller nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1380:57",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Via di Gioia",
+    "kop": "Welkom bij Via di Gioia",
+    "tekst": "Een rustige eerste kennismaking: het verhaal van Charlotte, wat De Balconette bijzonder maakt en een duidelijke stap naar de matengids.",
+    "punten": [
+      "Bikini's voor een grote cup, van cup A tot G",
+      "Ontworpen door Charlotte van Oorschot, sinds 2022",
+      "Borduursel, beugel en gerecyclede ribstof uitgelegd",
+      "Gratis retour als je minstens één item houdt"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1380:57",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Via di Gioia",
+      "kop": "Welkom bij Via di Gioia",
+      "tekst": "Een rustige eerste kennismaking: het verhaal van Charlotte, wat De Balconette bijzonder maakt en een duidelijke stap naar de matengids.",
+      "punten": [
+        "Bikini's voor een grote cup, van cup A tot G",
+        "Ontworpen door Charlotte van Oorschot, sinds 2022",
+        "Borduursel, beugel en gerecyclede ribstof uitgelegd",
+        "Gratis retour als je minstens één item houdt"
+      ]
+    },
+    {
+      "node": "1380:102",
+      "type": "Productspotlight",
+      "onderwerp": "De Balconette drop II: nu vanaf onderband 65",
+      "kop": "De Balconette drop II",
+      "tekst": "De nieuwe drop uitgelicht, met de kenmerken bij het product en een korte vergelijking met De Balconette, zodat elke lezer ziet welke het best past.",
+      "punten": [
+        "Onderband vanaf 65 cm",
+        "Vergelijking: De Balconette en drop II naast elkaar",
+        "Beugel, borduursel en dekkend als hij nat is",
+        "€98,95, met een knop naar de shop"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

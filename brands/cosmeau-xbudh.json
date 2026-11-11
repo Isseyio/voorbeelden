@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "cosmeau-xbudh",
+  "merk": "Cosmeau",
+  "domein": "cosmeau.com",
+  "lead_id": "2026-10-31-cosmeau.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#9EA468",
+  "kop": "Drie nieuwe invalshoeken voor Cosmeau, rond de G6 wasstrips en de geurparels.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Cosmeau, ik heb dit gemaakt omdat jullie alles zelf ontwikkelen en steeds meer zelf maken in Velsen-Noord, en dat verhaal leent zich goed voor nieuwe advertenties naast de reeksen die nu lopen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1384:4",
+      "titel": "Fris zonder microplastics",
+      "waarom": "Jullie eigen foto van een hand die geurparels schept, met zes korte feiten eromheen, laat in één beeld zien wat het product doet en waarom het anders is."
+    },
+    {
+      "node": "1384:5",
+      "titel": "Wit of donker?",
+      "waarom": "Twee varianten naast elkaar laten mensen kiezen in plaats van twijfelen, en de Duo maakt de keuze nog makkelijker."
+    },
+    {
+      "node": "1384:6",
+      "titel": "Je was belt",
+      "waarom": "Een inkomende oproep valt op tussen gewone posts en past bij de speelse toon van jullie Enzym Crew, met de G6 en de prijs groot in beeld."
+    }
+  ],
+  "waarom": {
+    "niche": "huishouden",
+    "kop": "Zo groeien huishoudmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw wasmiddel niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun doos leeg is.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huishoudmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "400+",
+        "label": "advertenties heeft Mothers Earth nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1384:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Cosmeau",
+    "kop": "Welkom bij Cosmeau.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waar alles gemaakt wordt en waar ze het best kunnen beginnen, met de 5% korting die jullie site al belooft.",
+    "punten": [
+      "Herokaart in jullie salie-groen met de sampleset als eerste stap",
+      "Drie redenen: getest door SGS, eigen fabriek in Nederland en vegan",
+      "Tweede kaart over geurparels met jullie eigen foto, en de 5% korting op de eerste bestelling"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1384:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Cosmeau",
+      "kop": "Welkom bij Cosmeau.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waar alles gemaakt wordt en waar ze het best kunnen beginnen, met de 5% korting die jullie site al belooft.",
+      "punten": [
+        "Herokaart in jullie salie-groen met de sampleset als eerste stap",
+        "Drie redenen: getest door SGS, eigen fabriek in Nederland en vegan",
+        "Tweede kaart over geurparels met jullie eigen foto, en de 5% korting op de eerste bestelling"
+      ]
+    },
+    {
+      "node": "1384:8",
+      "type": "Merkverhaal",
+      "onderwerp": "Van formule tot eindproduct",
+      "kop": "Van formule tot eindproduct.",
+      "tekst": "Een merkverhaalmail met jullie eigen foto's uit het lab en de fabriek in Velsen-Noord, en daarna de G6 van dichtbij.",
+      "punten": [
+        "Hero met jullie eigen foto uit het lab",
+        "Kaart over zelf onderzoeken en zelf maken, met 2.000 m² fabriek, 2.500 m² magazijn en 200.000+ klanten",
+        "De wasstrips G6 met vier labels en een afsluiting over de geurparels uit eigen productie"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
