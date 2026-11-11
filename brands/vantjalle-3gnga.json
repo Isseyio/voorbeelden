@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "vantjalle-3gnga",
+  "merk": "Van Tjalle en Jasper",
+  "domein": "van-tjalle-en-jasper.com",
+  "lead_id": "2026-11-11-van-tjalle-en-jasper.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6F7D6D",
+  "kop": "Eén lamp, vijf kleuren: drie nieuwe invalshoeken voor Van Tjalle en Jasper.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Van Tjalle en Jasper, ik heb dit gemaakt omdat jullie de lampen in jullie eigen werkplaats lasersnijden en dat verhaal in één beeld past. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1486:3",
+      "titel": "Waar hij van gemaakt is",
+      "waarom": "Laat in één beeld zien wat je koopt: 3 mm MDF uit de eigen werkplaats, een bouwpakket en vier kleuren."
+    },
+    {
+      "node": "1486:27",
+      "titel": "Naturel of black",
+      "waarom": "Twee kleuren naast elkaar laten mensen kiezen in plaats van twijfelen."
+    },
+    {
+      "node": "1486:51",
+      "titel": "Sfeerlicht",
+      "waarom": "Eén groot woord en zes kleuren tafellampen vallen op tussen alle foto's in de feed."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen & interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw lampenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft lampenlicht.nl nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1486:65",
+    "type": "Actiemail",
+    "onderwerp": "Heel november 20% korting op de hele collectie",
+    "kop": "20% korting op de hele collectie",
+    "tekst": "Op onze houten lampen en woonaccessoires, ontworpen en gemaakt in Nederland. Geldig t/m 30 november.",
+    "punten": [
+      "In onze eigen werkplaats in de Haarlemmermeer gemaakt",
+      "Gratis verzending in Nederland vanaf €30",
+      "Klanten beoordelen ons met een 9,6"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1486:65",
+      "type": "Actiemail",
+      "onderwerp": "Heel november 20% korting op de hele collectie",
+      "kop": "20% korting op de hele collectie",
+      "tekst": "Op onze houten lampen en woonaccessoires, ontworpen en gemaakt in Nederland. Geldig t/m 30 november.",
+      "punten": [
+        "In onze eigen werkplaats in de Haarlemmermeer gemaakt",
+        "Gratis verzending in Nederland vanaf €30",
+        "Klanten beoordelen ons met een 9,6"
+      ]
+    },
+    {
+      "node": "1486:94",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Van Tjalle en Jasper",
+      "kop": "Welkom bij Van Tjalle en Jasper",
+      "tekst": "Fijn dat je er bent. Wij ontwerpen en maken lampen en woonaccessoires in onze eigen werkplaats in de Haarlemmermeer.",
+      "punten": [
+        "Lokaal gemaakt",
+        "Zelf in elkaar, alles zit in de doos",
+        "Duurzame materialen die lang meegaan"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
