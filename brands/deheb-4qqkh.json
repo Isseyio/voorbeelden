@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "deheb-4qqkh",
+  "merk": "DEHEB",
+  "domein": "deheb.nl",
+  "lead_id": "2026-11-11-deheb.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B08D57",
+  "kop": "Drie nieuwe invalshoeken voor DEHEB",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team DEHEB, ik heb dit gemaakt omdat jullie ruim dertig jaar salonervaring in een eigen krullenlijn hebben gestopt, en dat verhaal verdient meer dan één advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1583:86",
+      "titel": "De krulroutine in 3 stappen",
+      "waarom": "Laat zien hoe shampoo, leave-in en Curl Cream Gel samenwerken, zodat iemand meteen een hele routine koopt in plaats van één product."
+    },
+    {
+      "node": "1583:87",
+      "titel": "Definitie zonder pluis",
+      "waarom": "Een echte modelfoto met krullen stopt de duim tijdens het scrollen, met prijs en verzenddrempel direct in beeld."
+    },
+    {
+      "node": "1583:88",
+      "titel": "Koop deze crème niet",
+      "waarom": "Een omgekeerde kop maakt nieuwsgierig en zet de drie redenen om wél te kopen (zonder sulfaten, zonder siliconen, vegan) daarna in één oogopslag neer."
+    }
+  ],
+  "waarom": {
+    "niche": "haarverzorging",
+    "kop": "Zo groeien haarverzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw haarmerk niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe: dezelfde mensen zien hem steeds weer en klikken minder. Merken die elke week nieuwe varianten testen, houden hun kosten per aankoop laag, en een vaste nieuwsbrief zorgt dat kopers terugkomen voor een nieuwe fles.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij haarverzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Bouclème nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1583:89",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij DEHEB, fijn dat je er bent",
+    "kop": "Fijn dat je er bent, krullenkop",
+    "tekst": "Sinds 1990 staan we in onze kapsalon in Utrecht. Alles wat we daar leerden over krullen en golven, zit in onze eigen lijn.",
+    "punten": [
+      "CG-vriendelijk: zonder sulfaten en siliconen",
+      "Met arganolie in veel van onze formules",
+      "Sets voor jouw krultype, van 2A tot 3C"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1583:89",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij DEHEB, fijn dat je er bent",
+      "kop": "Fijn dat je er bent, krullenkop",
+      "tekst": "Sinds 1990 staan we in onze kapsalon in Utrecht. Alles wat we daar leerden over krullen en golven, zit in onze eigen lijn.",
+      "punten": [
+        "CG-vriendelijk: zonder sulfaten en siliconen",
+        "Met arganolie in veel van onze formules",
+        "Sets voor jouw krultype, van 2A tot 3C"
+      ]
+    },
+    {
+      "node": "1583:90",
+      "type": "Merkverhaal",
+      "onderwerp": "Van de salonstoel naar jouw badkamer",
+      "kop": "Van de salonstoel naar jouw badkamer",
+      "tekst": "Ruim dertig jaar knippen en verzorgen in Utrecht, sinds 2012 in een eigen lijn. Uitgelicht: de Curl Cream Gel met arganolie, voor zachte definitie.",
+      "punten": [
+        "DEHEB betekent goud",
+        "Zonder sulfaten, siliconen en parabenen",
+        "Curl Cream Gel, 250 ml voor €29,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

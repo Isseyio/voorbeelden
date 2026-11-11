@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "bamboosa-h95s2",
+  "merk": "Bamboosa",
+  "domein": "bamboosa.nl",
+  "lead_id": "2026-11-11-bamboosa.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#10302A",
+  "kop": "Zachte sokken, nieuwe invalshoeken",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Bamboosa, ik heb dit gemaakt omdat jullie bundels met prijs per paar zo'n duidelijk verhaal zijn voor een advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1586:4",
+      "titel": "Elke dag een vers paar",
+      "waarom": "Een weekstrip maakt de 8-pack concreet: voor elke dag een paar, met de prijs per paar groot in beeld."
+    },
+    {
+      "node": "1586:5",
+      "titel": "Van kantoor tot sneaker",
+      "waarom": "Twee echte draagfoto's laten zien dat er voor elk moment een Bamboosa-sok is, met model en prijs erbij."
+    },
+    {
+      "node": "1586:6",
+      "titel": "Koop geen sokken die zakken",
+      "waarom": "Een tegendraadse kop raakt een herkenbare ergernis en de drie vinkjes beantwoorden die meteen."
+    }
+  ],
+  "waarom": {
+    "niche": "sokken en ondergoed",
+    "kop": "Zo groeien sokkenmerken op Instagram.",
+    "tekst": "Bij basics als sokken en ondergoed kopen mensen vaak opnieuw, als ze tevreden zijn. Merken die elke week nieuwe advertenties testen, houden hun kosten per aankoop laag, en een vaste nieuwsbrief zorgt dat kopers terugkomen voor de volgende bundel.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sokken- en ondergoedmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Bamigo nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1586:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Bamboosa, hier is je 10%",
+    "kop": "Fijn dat je er bent.",
+    "tekst": "Een welkomstmail die de 10% korting op de eerste bestelling uit jullie nieuwsbriefblok meteen waarmaakt, met de vier sokmodellen naast elkaar en de Starterbundel als makkelijke eerste stap.",
+    "punten": [
+      "10% korting op de eerste bestelling, zoals in jullie aanmeldblok",
+      "Jason, Jordan, Joshua en Steve met prijs en knop",
+      "Starterbundel als eerste kennismaking"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1586:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Bamboosa, hier is je 10%",
+      "kop": "Fijn dat je er bent.",
+      "tekst": "Een welkomstmail die de 10% korting op de eerste bestelling uit jullie nieuwsbriefblok meteen waarmaakt, met de vier sokmodellen naast elkaar en de Starterbundel als makkelijke eerste stap.",
+      "punten": [
+        "10% korting op de eerste bestelling, zoals in jullie aanmeldblok",
+        "Jason, Jordan, Joshua en Steve met prijs en knop",
+        "Starterbundel als eerste kennismaking"
+      ]
+    },
+    {
+      "node": "1586:8",
+      "type": "Productspotlight",
+      "onderwerp": "Welke bundel past bij jou?",
+      "kop": "Welke bundel past bij jou?",
+      "tekst": "Een spotlight op de Steve sokken: vier echte kenmerken bij de productfoto en een tabel die 4, 8 en 12 paar naast elkaar zet, met de prijs per paar.",
+      "punten": [
+        "Kenmerken uit jullie productpagina",
+        "Vergelijkingstabel 4, 8 en 12 paar",
+        "Meest gekozen en Beste deal zoals op de site"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
