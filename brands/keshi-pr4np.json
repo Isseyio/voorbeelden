@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "keshi-pr4np",
+  "merk": "KESHI studio",
+  "domein": "keshistudio.nl",
+  "lead_id": "2026-10-29-keshistudio.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#f2b311",
+  "kop": "Kraal voor kraal, nu ook in je feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team KESHI studio, ik heb dit gemaakt omdat jullie foto's van de kleurrijke geweven oorbellen op een felle achtergrond zo uit de feed springen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1776:4",
+      "titel": "Kraal voor kraal",
+      "waarom": "Een hand met de oorbellen en een paar handgeschreven pijlen laat meteen zien hoe het gemaakt is en wat het kost."
+    },
+    {
+      "node": "1776:5",
+      "titel": "CHECK.",
+      "waarom": "Eén groot woord en een zoekbalk vallen op tussen foto's en sluiten aan op hoe mensen zoeken naar handgemaakte oorbellen."
+    },
+    {
+      "node": "1776:6",
+      "titel": "Hollands blauw aan je oren",
+      "waarom": "Een speelse kop met foto's tussen de woorden zet de Holland Collectie neer als iets typisch Nederlands om te dragen of te geven."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1776:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij KESHI studio",
+    "kop": "Welkom bij KESHI studio.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers op de nieuwsbrief: wat ze kunnen verwachten, hoe elk paar kraal voor kraal ontstaat en wie erachter zit.",
+    "punten": [
+      "Als eerste nieuws over collecties, sales en kortingen",
+      "Kraal voor kraal, 100% handgemaakt in Nederland",
+      "Marieke als one woman show, met een foto uit het atelier"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1776:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij KESHI studio",
+      "kop": "Welkom bij KESHI studio.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers op de nieuwsbrief: wat ze kunnen verwachten, hoe elk paar kraal voor kraal ontstaat en wie erachter zit.",
+      "punten": [
+        "Als eerste nieuws over collecties, sales en kortingen",
+        "Kraal voor kraal, 100% handgemaakt in Nederland",
+        "Marieke als one woman show, met een foto uit het atelier"
+      ]
+    },
+    {
+      "node": "1776:8",
+      "type": "Assortimentsmail",
+      "onderwerp": "Vier favorieten, elk met de hand geweven",
+      "kop": "Vier favorieten, elk met de hand geweven.",
+      "tekst": "Een mail die vier oorbellen naast elkaar zet, van grafisch zwart-wit tot Hollands blauw, met prijs en een knop per paar.",
+      "punten": [
+        "Sunrise mini, CHECK 5, Fabien-K en Mary In Blue",
+        "Per paar één korte zin en de prijs",
+        "Afsluiter met Marieke uit het atelier"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

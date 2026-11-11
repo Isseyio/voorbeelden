@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "palais-8k2wg",
+  "merk": "Palais",
+  "domein": "palais.com",
+  "lead_id": "2026-11-11-palais.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4F1F00",
+  "kop": "Palais op Instagram: drie nieuwe invalshoeken en twee nieuwsbrieven",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Palais, ik heb dit gemaakt omdat jullie eigen weefsels, van fijne ruit tot franjes, zich heel goed lenen voor advertenties die opvallen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1775:4",
+      "titel": "Kleur",
+      "waarom": "Eén groot woord en vier echte kleuren van de Sofia-kussen laten in één oogopslag zien hoeveel keus er is, met de prijs erbij."
+    },
+    {
+      "node": "1775:20",
+      "titel": "Van terras tot bank",
+      "waarom": "Foto's in de kop vertellen het all-season verhaal zonder uitleg: hetzelfde kussen binnen en buiten."
+    },
+    {
+      "node": "1775:36",
+      "titel": "Een extra zitplek belt",
+      "waarom": "Een speelse inkomende oproep laat mensen stoppen met scrollen en zet de Janis-poef groot in beeld."
+    }
+  ],
+  "waarom": {
+    "niche": "interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw interieurmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende collectie.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15+",
+        "label": "advertenties heeft Rivièra Maison nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1775:48",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Palais",
+    "kop": "Fijn dat je er bent.",
+    "tekst": "Een rustige welkomstmail voor iedereen die zich aanmeldt voor de 5% korting op de eerste bestelling: wie Palais is, wat je kunt verwachten en een duwtje richting het eerste kussen.",
+    "punten": [
+      "Herokaart in jullie bruin met de Janis-kussen en de 5% voor de eerste bestelling",
+      "Handgemaakt, Made in Europe en 30 dagen retour in drie iconen",
+      "Mix en match: prints, kleuren en texturen combineren"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1775:48",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Palais",
+      "kop": "Fijn dat je er bent.",
+      "tekst": "Een rustige welkomstmail voor iedereen die zich aanmeldt voor de 5% korting op de eerste bestelling: wie Palais is, wat je kunt verwachten en een duwtje richting het eerste kussen.",
+      "punten": [
+        "Herokaart in jullie bruin met de Janis-kussen en de 5% voor de eerste bestelling",
+        "Handgemaakt, Made in Europe en 30 dagen retour in drie iconen",
+        "Mix en match: prints, kleuren en texturen combineren"
+      ]
+    },
+    {
+      "node": "1775:82",
+      "type": "Merkverhaal",
+      "onderwerp": "Kussens met karakter, sinds 2018",
+      "kop": "Kussens met karakter.",
+      "tekst": "Een merkverhaal-mail: waar Palais sinds 2018 voor staat, een kussen uitgelicht met zijn echte eigenschappen en de nieuwe lampvoeten als afsluiter.",
+      "punten": [
+        "Jullie eigen buitenfoto met rotan bank als hero",
+        "Cushion Sofia Sand met labels: polypropyleen, all-season, ritssluiting, Made in Europe",
+        "Nieuw: lampvoeten van mondgeblazen glas, vanaf €129"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "nadinekieft-jq87k",
+  "merk": "Nadine Kieft Jewelry",
+  "domein": "nadinekieft.com",
+  "lead_id": "2026-11-11-nadinekieft.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A8834A",
+  "kop": "Ringen om door te geven, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Nadine Kieft, ik heb dit gemaakt omdat jullie ringen met ruwe stenen en het atelier in het oude schoolgebouw zo'n eigen verhaal hebben. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1764:11",
+      "titel": "Ringen om door te geven",
+      "waarom": "De ringen zelf in beeld, met labels voor massief goud en het eigen atelier, zodat meteen duidelijk is waarom ze meer kosten dan een gewone ring."
+    },
+    {
+      "node": "1764:12",
+      "titel": "Verlovingsring op maat",
+      "waarom": "Spreekt stellen aan die een verlovingsring zoeken en laat in vier korte punten zien hoe maatwerk bij jullie werkt."
+    },
+    {
+      "node": "1764:13",
+      "titel": "Kom langs in het atelier",
+      "waarom": "Nodigt uit voor een afspraak in het atelier; voor sieraden van een paar honderd euro of meer is dat persoonlijke contact vaak de stap die het verschil maakt."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1764:14",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom op de VIP-lijst van Nadine Kieft",
+    "kop": "Welkom, fijn dat je er bent.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers op de VIP-lijst: wie jullie zijn, waar je sieraden gemaakt worden en hoe je een afspraak in het atelier plant.",
+    "punten": [
+      "Massief 14 en 18 karaat goud",
+      "Eigen goudsmeden in Amsterdam",
+      "Maatwerk op afspraak"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1764:14",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom op de VIP-lijst van Nadine Kieft",
+      "kop": "Welkom, fijn dat je er bent.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers op de VIP-lijst: wie jullie zijn, waar je sieraden gemaakt worden en hoe je een afspraak in het atelier plant.",
+      "punten": [
+        "Massief 14 en 18 karaat goud",
+        "Eigen goudsmeden in Amsterdam",
+        "Maatwerk op afspraak"
+      ]
+    },
+    {
+      "node": "1764:15",
+      "type": "Merkverhaal",
+      "onderwerp": "Een kijkje in het atelier",
+      "kop": "Waar je sieraad gemaakt wordt.",
+      "tekst": "Een mail over het atelier in het oude schoolgebouw, de ringen met ruwe stenen en een uitnodiging om langs te komen.",
+      "punten": [
+        "Het atelier en het team",
+        "Ringen met labels: steen, goud, handwerk",
+        "Afsluiting met afspraakknop"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

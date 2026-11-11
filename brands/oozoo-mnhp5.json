@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "oozoo-mnhp5",
+  "merk": "OOZOO",
+  "domein": "oozoo.com",
+  "lead_id": "2026-10-31-oozoo.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B8975A",
+  "kop": "OOZOO op Instagram: drie nieuwe invalshoeken en twee nieuwsbrieven",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team OOZOO, ik heb dit gemaakt omdat jullie smartwatches er echt uitzien als sieraden, en dat laat zich goed zien in een advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1774:10",
+      "titel": "-50% op smartwatches",
+      "waarom": "Een grote prijs bovenaan over een echte polsfoto maakt in één seconde duidelijk wat de actie is."
+    },
+    {
+      "node": "1774:20",
+      "titel": "Een smartwatch als sieraad",
+      "waarom": "Een macrofoto met vier korte kenmerken laat zien dat de Q00121 er luxe uitziet en toch slim is."
+    },
+    {
+      "node": "1774:46",
+      "titel": "Los en om de pols",
+      "waarom": "Het horloge los en om de pols naast elkaar helpt mensen zich voor te stellen hoe het staat, met het gratis sieraad als extra."
+    }
+  ],
+  "waarom": {
+    "niche": "horloges en sieraden",
+    "kop": "Zo groeien horloge- en sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw horloge niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een tweede horloge of een sieraad.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij horloge- en sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "18–28%",
+        "label": "van de online omzet komt bij horloge- en sieradenmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1778:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij OOZOO",
+    "kop": "Horloges die je elke dag draagt.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie OOZOO is, wat je kunt verwachten en een duwtje richting het eerste horloge.",
+    "punten": [
+      "Sinds 2000 uit Leiden, met de Q00121 als hero",
+      "2 jaar garantie, voor 16:00 besteld zelfde dag verzonden, gratis sieraad",
+      "De C1099 om de pols als tweede blok"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1778:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij OOZOO",
+      "kop": "Horloges die je elke dag draagt.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie OOZOO is, wat je kunt verwachten en een duwtje richting het eerste horloge.",
+      "punten": [
+        "Sinds 2000 uit Leiden, met de Q00121 als hero",
+        "2 jaar garantie, voor 16:00 besteld zelfde dag verzonden, gratis sieraad",
+        "De C1099 om de pols als tweede blok"
+      ]
+    },
+    {
+      "node": "1778:37",
+      "type": "Vergelijking",
+      "onderwerp": "Slim of klassiek?",
+      "kop": "Slim of klassiek?",
+      "tekst": "Een mail die twee manieren van dragen naast elkaar zet: de smartwatch Q00121 en het klassieke C1099, met een korte vergelijkingstabel.",
+      "punten": [
+        "Jullie eigen polsfoto als hero",
+        "Q00121 en C1099 naast elkaar: prijs, kast, band en extra's",
+        "Afsluiting met knoppen naar smartwatches en horloges"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
