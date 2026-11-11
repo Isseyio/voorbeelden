@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "fraenck-q2ja9",
+  "merk": "Fraenck",
+  "domein": "fraenck.com",
+  "lead_id": "2026-11-11-fraenck.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#404040",
+  "kop": "Fietstassen van restmateriaal, in beeld voor Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Fraenck, ik heb dit gemaakt omdat jullie fietstassen van upcycled zeildoek uit de eigen werkplaats in Arnhem een verhaal hebben dat goed werkt op Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1535:53",
+      "titel": "Van afval naar fietstas",
+      "waarom": "Laat in één beeld zien waar de Dakota van gemaakt is, en dat verhaal is precies wat Fraenck anders maakt."
+    },
+    {
+      "node": "1535:73",
+      "titel": "Een tas met een verhaal",
+      "waarom": "Een grote, rustige kop met echte foto's valt op tussen drukke advertenties en vertelt in vijf woorden waarom je voor Fraenck kiest."
+    },
+    {
+      "node": "1535:92",
+      "titel": "Oprollen, vastklikken, fietsen",
+      "waarom": "Toont hoe de tas werkt met jullie eigen foto, zodat twijfel over gebruik en formaat meteen weg is."
+    }
+  ],
+  "waarom": {
+    "niche": "tassen",
+    "kop": "Zo groeien tassenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw tassenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij tassenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "18–28%",
+        "label": "van de online omzet komt bij tassenmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1536:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Fraenck",
+    "kop": "Welkom bij Fraenck",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie Fraenck is, waarom alles in Arnhem met de hand wordt gemaakt, en een duidelijke stap naar de fietstassen.",
+    "punten": [
+      "Lokaal: met de hand gemaakt in Arnhem",
+      "Duurzaam: van restmateriaal, in de sociale werkplaats",
+      "Gratis verzending vanaf €49"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1536:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Fraenck",
+      "kop": "Welkom bij Fraenck",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie Fraenck is, waarom alles in Arnhem met de hand wordt gemaakt, en een duidelijke stap naar de fietstassen.",
+      "punten": [
+        "Lokaal: met de hand gemaakt in Arnhem",
+        "Duurzaam: van restmateriaal, in de sociale werkplaats",
+        "Gratis verzending vanaf €49"
+      ]
+    },
+    {
+      "node": "1536:38",
+      "type": "Merkverhaal",
+      "onderwerp": "Van afval naar hoogwaardig product",
+      "kop": "Van afval naar hoogwaardig product",
+      "tekst": "Het verhaal achter Fraenck, met de werkplaats, het ontwerp en de Dakota als voorbeeld van wat er van restmateriaal gemaakt wordt.",
+      "punten": [
+        "Bij Fraenck staat een goed ontwerp centraal",
+        "Fietstas Dakota: rolsluiting met clip, voorvak 25 x 29 cm",
+        "Circa 16 tot 20 liter, €99"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}

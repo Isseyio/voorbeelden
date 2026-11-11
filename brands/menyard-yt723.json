@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "menyard-yt723",
+  "merk": "Menyard",
+  "domein": "menyardhomme.com",
+  "lead_id": "2026-10-31-menyardhomme.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Drie nieuwe invalshoeken voor Menyard.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Menyard, ik heb dit gemaakt omdat jullie tagline 'Minimal by design, Powerful by presence' zich goed leent voor advertenties die meer doen dan alleen een nieuwe collectie tonen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1532:2",
+      "titel": "De tagline als beeld",
+      "waarom": "Jullie eigen tagline met foto's tussen de woorden valt op in de feed en vertelt in één blik waar Menyard voor staat."
+    },
+    {
+      "node": "1532:19",
+      "titel": "Eén look, twee basics",
+      "waarom": "Twee items als complete look laten zien maakt het makkelijk om meer dan één stuk te kopen."
+    },
+    {
+      "node": "1532:40",
+      "titel": "De winter belt",
+      "waarom": "Een speels concept rond de Brixton laat mensen stoppen met scrollen, precies op het moment dat ze een warme trui zoeken."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe invalshoeken testen houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij modemerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1533:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in de Menyard community",
+    "kop": "Welkom in de community",
+    "tekst": "Een welkomstmail die de aanmelding voor de community direct opvolgt: wat je kunt verwachten, de vaste voordelen en het verhaal van Job.",
+    "punten": [
+      "Opvolging van 'Join the Menyard community' in de footer",
+      "Vóór 23:30 besteld vandaag verzonden, gratis vanaf €150, 14 dagen retour",
+      "Citaat van de oprichter als persoonlijke afsluiter"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1533:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in de Menyard community",
+      "kop": "Welkom in de community",
+      "tekst": "Een welkomstmail die de aanmelding voor de community direct opvolgt: wat je kunt verwachten, de vaste voordelen en het verhaal van Job.",
+      "punten": [
+        "Opvolging van 'Join the Menyard community' in de footer",
+        "Vóór 23:30 besteld vandaag verzonden, gratis vanaf €150, 14 dagen retour",
+        "Citaat van de oprichter als persoonlijke afsluiter"
+      ]
+    },
+    {
+      "node": "1533:36",
+      "type": "Merkverhaal",
+      "onderwerp": "Chapter 3 is live, en het idee erachter",
+      "kop": "Chapter 3 is live",
+      "tekst": "Een lanceringsmail voor FW Chapter 3 met het verhaal achter Menyard, de Brixton uitgelicht met zijn details en een complete look als afsluiter.",
+      "punten": [
+        "Hero met de echte Chapter 3-campagnefoto",
+        "Brixton met vier kenmerken: wolmix, oversized, geribde boorden, 530 GSM",
+        "Look met Menton Jeans verhoogt de orderwaarde richting de €150-grens"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
