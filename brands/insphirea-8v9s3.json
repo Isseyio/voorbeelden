@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "insphirea-8v9s3",
+  "merk": "Insphirea",
+  "domein": "insphirea.com",
+  "lead_id": "2026-11-11-insphirea.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B8934A",
+  "kop": "Geurkaarsen en geurstokjes van Insphirea, voor elke dag.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Insphirea, ik heb dit gemaakt omdat ik het mooi vind dat jullie kaarsen met de hand gegoten worden, in zonnebloemwas. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1718:4",
+      "titel": "Koop deze kaars niet",
+      "waarom": "Een kop die tegen de verwachting in gaat laat mensen stoppen met scrollen, en de drie vinkjes geven daarna de echte redenen."
+    },
+    {
+      "node": "1718:5",
+      "titel": "Fris of warm?",
+      "waarom": "Twee geuren naast elkaar maken de keuze makkelijk, en dezelfde prijs haalt de twijfel weg."
+    },
+    {
+      "node": "1718:6",
+      "titel": "De complete set",
+      "waarom": "Een grote, echte prijs met jullie eigen sfeerfoto laat in één keer zien wat je krijgt voor € 88."
+    }
+  ],
+  "waarom": {
+    "niche": "geurkaarsen",
+    "kop": "Zo groeien geurkaarsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw geurmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij geurkaarsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Marie-Stella-Maris nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1718:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Insphirea",
+    "kop": "Geuren voor elke dag.",
+    "tekst": "Onze geurkaarsen, geurstokjes en roomsprays worden met de hand gemaakt in België, met geurolieën uit Grasse. Drie geuren, voor elk moment.",
+    "punten": [
+      "100% zonnebloemwas, zonder paraffine",
+      "Navulbare geurstokjes",
+      "Twijfel je? Begin met een Discovery Set vanaf € 58"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1718:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Insphirea",
+      "kop": "Geuren voor elke dag.",
+      "tekst": "Onze geurkaarsen, geurstokjes en roomsprays worden met de hand gemaakt in België, met geurolieën uit Grasse. Drie geuren, voor elk moment.",
+      "punten": [
+        "100% zonnebloemwas, zonder paraffine",
+        "Navulbare geurstokjes",
+        "Twijfel je? Begin met een Discovery Set vanaf € 58"
+      ]
+    },
+    {
+      "node": "1718:8",
+      "type": "Productspotlight",
+      "onderwerp": "Invigorea: vurig en houtig",
+      "kop": "Vurig & houtig.",
+      "tekst": "Amber, sandelhout, den en ceder. De grote fles van 250 ml geurt tot zes maanden, dag en nacht, zonder vlam.",
+      "punten": [
+        "Boventonen amber en sandelhout",
+        "Hart van den, ceder en balsem",
+        "Cadeauklaar met de luxe cadeautas"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
