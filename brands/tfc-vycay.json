@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "tfc-vycay",
+  "merk": "The Favorite Club",
+  "domein": "thefavoriteclub.nl",
+  "lead_id": "2026-10-29-thefavoriteclub.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#D29A9E",
+  "kop": "Iedere maand een nieuwe favoriet, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team The Favorite Club, ik heb dit gemaakt omdat jullie sieradenabonnement en de pakketjes in roze en goud zo mooi in beeld komen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1550:75",
+      "titel": "Nieuwe favorieten",
+      "waarom": "Drie nieuwe oorbellen naast elkaar laten in één oogopslag zien hoe breed het aanbod is en dat het vanaf €14,99 begint."
+    },
+    {
+      "node": "1550:92",
+      "titel": "Eén ring uitgelicht",
+      "waarom": "Eén product groot in beeld met drie kenmerken werkt goed bij mensen die het merk nog niet kennen."
+    },
+    {
+      "node": "1550:109",
+      "titel": "Het abonnement belt aan",
+      "waarom": "Een speels format dat opvalt tussen gewone posts en het maandelijkse pakketje als verrassing neerzet."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 11-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1551:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij The Favorite Club",
+    "kop": "Welkom bij The Favorite Club",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, wat ze kunnen verwachten en het sieradenabonnement als volgende stap.",
+    "punten": [
+      "Iedere maand nieuwe favorieten",
+      "Retour binnen 14 dagen",
+      "Abonnement vanaf €19,99 per maand"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1551:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij The Favorite Club",
+      "kop": "Welkom bij The Favorite Club",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, wat ze kunnen verwachten en het sieradenabonnement als volgende stap.",
+      "punten": [
+        "Iedere maand nieuwe favorieten",
+        "Retour binnen 14 dagen",
+        "Abonnement vanaf €19,99 per maand"
+      ]
+    },
+    {
+      "node": "1551:35",
+      "type": "Productspotlight",
+      "onderwerp": "Nieuwe favorieten: onze eerste handgemaakte oorbellen",
+      "kop": "Nieuwe favorieten",
+      "tekst": "Vier nieuwe items met een korte uitleg en een knop per product, afgesloten met jullie reviewscore.",
+      "punten": [
+        "TFC Handmade-oorbellen uitgelicht",
+        "Vier producten met een eigen knop",
+        "4.9 / 5 sterren als geruststelling"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-11"
+}
