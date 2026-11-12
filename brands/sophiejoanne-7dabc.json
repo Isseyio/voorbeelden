@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "sophiejoanne-7dabc",
+  "merk": "Sophie Joanne",
+  "domein": "sophiejoanne.com",
+  "lead_id": "2026-11-12-sophiejoanne.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5B5FA8",
+  "kop": "Bloemen die nooit verwelken, nu ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Sophie, ik heb dit gemaakt omdat de Island Flower in tanzaniet zo'n sterk verhaal heeft, van Warhol tot jullie atelier in Amsterdam. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1962:3",
+      "titel": "Waar hij van gemaakt is",
+      "waarom": "Bij een sieraad van €1.550 wil een koper weten wat erin zit; tanzaniet, diamant en gerecycled goud op een rij geven dat vertrouwen."
+    },
+    {
+      "node": "1963:2",
+      "titel": "Een bloem die je draagt",
+      "waarom": "Een echte hand met de ring laat meteen zien hoe groot en hoe draagbaar het stuk is, met de bespoke-optie als extra haakje."
+    },
+    {
+      "node": "1964:2",
+      "titel": "Bloemen die niet verwelken",
+      "waarom": "Een korte, typografische kop met jullie eigen sfeerfoto's valt op tussen gewone productfoto's en vertelt het merk in één zin."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, ook voor een tweede stuk of een bespoke ontwerp.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Monica Vinader nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1965:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Sophie Joanne",
+    "kop": "Welkom bij Sophie Joanne",
+    "tekst": "Fijn dat je er bent. Elk stuk maken we met de hand in ons atelier in Amsterdam, van 100% gerecycled goud.",
+    "punten": [
+      "Gerecycled goud: 14, 18 of 22 karaat",
+      "Gratis verzekerd verzonden, wereldwijd",
+      "Bespoke: elk ontwerp met stenen naar jouw keuze"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1965:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Sophie Joanne",
+      "kop": "Welkom bij Sophie Joanne",
+      "tekst": "Fijn dat je er bent. Elk stuk maken we met de hand in ons atelier in Amsterdam, van 100% gerecycled goud.",
+      "punten": [
+        "Gerecycled goud: 14, 18 of 22 karaat",
+        "Gratis verzekerd verzonden, wereldwijd",
+        "Bespoke: elk ontwerp met stenen naar jouw keuze"
+      ]
+    },
+    {
+      "node": "1966:2",
+      "type": "Productspotlight",
+      "onderwerp": "De Island Flower in tanzaniet",
+      "kop": "Island Flower in tanzaniet",
+      "tekst": "Geïnspireerd op de bloemenserie van Andy Warhol uit 1964: een met de hand gesneden tanzaniet bloem met een VVS-diamant in het hart, gezet in 14 karaat gerecycled goud.",
+      "punten": [
+        "Tanzaniet, met de hand gesneden",
+        "Top Wesselton VVS-diamant",
+        "€1.550 per stuk, €3.100 per paar"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
