@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "furmey-c5stq",
+  "merk": "Furmey",
+  "domein": "furmey.com",
+  "lead_id": "2026-11-12-furmey.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#7A3A16",
+  "kop": "Drie ideeën voor Furmey op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Furmey, ik heb dit gemaakt omdat jullie tuigjes, halsbanden en riemen in dezelfde kleuren zo mooi bij elkaar passen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1824:3",
+      "titel": "Welke kleur past?",
+      "waarom": "Twee kleuren naast elkaar laten kiezen maakt het makkelijk om meteen een favoriet te hebben, en toont de echte foto's van het tuig."
+    },
+    {
+      "node": "1824:21",
+      "titel": "De prijs voorop",
+      "waarom": "Een duidelijke prijs boven een warme foto verlaagt de drempel voor wie Furmey nog niet kent."
+    },
+    {
+      "node": "1824:31",
+      "titel": "De wandeling belt",
+      "waarom": "Een speelse oproep valt op tussen gewone posts en zet het Y-tuig groot in beeld."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien huisdierenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk voor hun hond niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende drop.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1825:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Furmey",
+    "kop": "Welkom bij Furmey",
+    "tekst": "Een welkomstmail die nieuwe aanmelders meteen het Y-tuig laat zien, met de drie redenen om bij Furmey te bestellen.",
+    "punten": [
+      "Designed in the Netherlands",
+      "Gratis verzending NL & BE vanaf €50",
+      "14 dagen geld terug"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1825:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Furmey",
+      "kop": "Welkom bij Furmey",
+      "tekst": "Een welkomstmail die nieuwe aanmelders meteen het Y-tuig laat zien, met de drie redenen om bij Furmey te bestellen.",
+      "punten": [
+        "Designed in the Netherlands",
+        "Gratis verzending NL & BE vanaf €50",
+        "14 dagen geld terug"
+      ]
+    },
+    {
+      "node": "1825:35",
+      "type": "Assortiment",
+      "onderwerp": "Alles voor de wandeling",
+      "kop": "Alles voor de wandeling",
+      "tekst": "Een mail die het assortiment laat zien: de Y-tuigen, de Toffifee-collectie en speelgoed, elk met een eigen knop.",
+      "punten": [
+        "Matcha Green en Latte Brown Y-tuig, €30,95",
+        "Toffifee x Furmey",
+        "Speelgoed voor na de wandeling"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
