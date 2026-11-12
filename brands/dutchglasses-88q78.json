@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "dutchglasses-88q78",
+  "merk": "Dutchglasses",
+  "domein": "dutchglasses.nl",
+  "lead_id": "2026-11-12-dutchglasses.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#171717",
+  "kop": "Gepolariseerd voor €19,95, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Dutchglasses, ik heb dit gemaakt omdat jullie gepolariseerde spiegelglazen voor €19,95 verkopen, en dat laat zich goed zien in een advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1859:4",
+      "titel": "Spiegelglazen",
+      "waarom": "Eén groot woord en drie modellen naast elkaar laten in een seconde zien wat jullie verkopen."
+    },
+    {
+      "node": "1859:26",
+      "titel": "Zwart of transparant?",
+      "waarom": "Een keuzevraag tussen twee varianten zet mensen aan het vergelijken, en dan kijken ze langer."
+    },
+    {
+      "node": "1859:47",
+      "titel": "€19,95 en jullie naam",
+      "waarom": "De prijs en de merknaam groot boven een echte modelfoto: wie scrolt, weet meteen wat het kost."
+    }
+  ],
+  "waarom": {
+    "niche": "accessoires",
+    "kop": "Zo groeien accessoiremerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe zonnebril niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun tweede bril.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "300+",
+        "label": "advertenties heeft Kapten & Son nu tegelijk live in Nederland"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1860:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Dutchglasses",
+    "kop": "Welkom bij Dutchglasses",
+    "tekst": "Een welkomstmail voor nieuwe leden: wat ze van jullie kunnen verwachten en een eerste product om mee te beginnen.",
+    "punten": [
+      "Gepolariseerde spiegelglazen met UV400",
+      "Binnen 1-2 werkdagen in huis",
+      "Altijd korting op je tweede zonnebril",
+      "Afsluiting met de Hero voor €19,95"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1860:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Dutchglasses",
+      "kop": "Welkom bij Dutchglasses",
+      "tekst": "Een welkomstmail voor nieuwe leden: wat ze van jullie kunnen verwachten en een eerste product om mee te beginnen.",
+      "punten": [
+        "Gepolariseerde spiegelglazen met UV400",
+        "Binnen 1-2 werkdagen in huis",
+        "Altijd korting op je tweede zonnebril",
+        "Afsluiting met de Hero voor €19,95"
+      ]
+    },
+    {
+      "node": "1860:49",
+      "type": "Assortiment",
+      "onderwerp": "Vijf modellen, één prijs",
+      "kop": "Vijf modellen, één prijs",
+      "tekst": "Een nieuwsbrief die de Originals naast elkaar zet, zodat lezers snel hun model kiezen.",
+      "punten": [
+        "Hero, Boss, Dude en Captain met kleuren en prijs",
+        "Jullie eigen modelfoto's",
+        "Meer dan 100.000 tevreden klanten als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
