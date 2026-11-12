@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "maxenmand-6uykx",
+  "merk": "Max&Mand",
+  "domein": "maxenmand.nl",
+  "lead_id": "2026-11-12-maxenmand.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2F3A2B",
+  "kop": "Orthopedische manden, steeds met een nieuwe invalshoek.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Max&Mand, ik heb dit gemaakt omdat jullie met Boss, Diva en Bobby echte honden in jullie eigen manden laten zien, en dat werkt goed in advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1936:4",
+      "titel": "Het aanbod voorop",
+      "waarom": "De echte besparing op de LED-set staat groot bovenaan, met Diva in het donker als bewijs dat het licht werkt."
+    },
+    {
+      "node": "1936:5",
+      "titel": "Zelfde mand, jouw kleur",
+      "waarom": "Twee kleuren naast elkaar met dezelfde hond laten mensen kiezen in plaats van twijfelen."
+    },
+    {
+      "node": "1936:6",
+      "titel": "De mand belt",
+      "waarom": "Een speels belscherm valt op tussen gewone productfoto's en zet de mand en de prijs centraal."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien huisdierenmerken op Instagram.",
+    "tekst": "Hondenbaasjes ontdekken een nieuwe mand of riem meestal tijdens het scrollen, niet via Google. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een tweede hoes of de LED-set.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "200+",
+        "label": "advertenties heeft BuddyBeds nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1936:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Max&Mand, je 10% staat klaar",
+    "kop": "Welkom bij Max&Mand",
+    "tekst": "Een rustige welkomstmail die de bestaande pop-upcode TIRZA10 meteen laat zien, uitlegt wat de mand anders maakt en de wasbare hoes in beeld brengt.",
+    "punten": [
+      "Code TIRZA10 bovenaan, zodat niemand hem kwijtraakt",
+      "Drie redenen in één oogopslag: wasbare hoes, gel-traagschuim, antislip bodem",
+      "Tweede blok over de hoes die zo de wasmachine in kan"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1936:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Max&Mand, je 10% staat klaar",
+      "kop": "Welkom bij Max&Mand",
+      "tekst": "Een rustige welkomstmail die de bestaande pop-upcode TIRZA10 meteen laat zien, uitlegt wat de mand anders maakt en de wasbare hoes in beeld brengt.",
+      "punten": [
+        "Code TIRZA10 bovenaan, zodat niemand hem kwijtraakt",
+        "Drie redenen in één oogopslag: wasbare hoes, gel-traagschuim, antislip bodem",
+        "Tweede blok over de hoes die zo de wasmachine in kan"
+      ]
+    },
+    {
+      "node": "1936:8",
+      "type": "Merkverhaal",
+      "onderwerp": "Het begon met Boss",
+      "kop": "Het begon met Boss",
+      "tekst": "Een merkverhaal over Niek en Boss, gevolgd door wat er in elke mand zit en een maatwijzer, zodat lezers zonder twijfel de goede maat kiezen.",
+      "punten": [
+        "Jullie eigen verhaal en foto van Boss als opening",
+        "De mand met labels: rand, gel-traagschuim, hoes en bodem",
+        "Maatwijzer S tot XL met de echte afmetingen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
