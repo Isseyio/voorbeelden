@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "monks-apbpt",
+  "merk": "Monks Coffee Roasters",
+  "domein": "monkscoffee.nl",
+  "lead_id": "2026-11-11-monkscoffee.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#0B3A44",
+  "kop": "Vers gebrand in Amsterdam, elke week in beeld.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Monks Coffee Roasters, ik heb dit gemaakt omdat jullie elke week vers branden aan de Westhavenweg, en dat verhaal leent zich goed voor Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1884:3",
+      "titel": "Vers gebrand",
+      "waarom": "Eén groot woord en drie zakken koffie: in een seconde duidelijk wat Monks doet en waar het vandaan komt."
+    },
+    {
+      "node": "1884:18",
+      "titel": "Espresso of filter",
+      "waarom": "Twee koffies naast elkaar helpen mensen kiezen, en dat haalt de drempel voor een eerste bestelling weg."
+    },
+    {
+      "node": "1884:40",
+      "titel": "Prijs en branderij",
+      "waarom": "Een echte prijs naast de branderij en de brander zelf maakt specialty koffie tastbaar en betaalbaar."
+    }
+  ],
+  "waarom": {
+    "niche": "koffie",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe koffiebrander niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende zak.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinkmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij food- en drinkmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1885:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Monks: zo haal je het meeste uit je koffie",
+    "kop": "Welkom bij Monks",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, hoe je de koffie kiest die bij je past, en een uitnodiging voor de Monks Coffee Lab.",
+    "punten": [
+      "Elke week vers gebrand op de 12 kg Probat",
+      "Bonen of gemalen, voor filter of espresso",
+      "Subscribe & Save en de cursussen als tweede stap"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1885:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Monks: zo haal je het meeste uit je koffie",
+      "kop": "Welkom bij Monks",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, hoe je de koffie kiest die bij je past, en een uitnodiging voor de Monks Coffee Lab.",
+      "punten": [
+        "Elke week vers gebrand op de 12 kg Probat",
+        "Bonen of gemalen, voor filter of espresso",
+        "Subscribe & Save en de cursussen als tweede stap"
+      ]
+    },
+    {
+      "node": "1885:33",
+      "type": "Merkverhaal",
+      "onderwerp": "Vers gebrand, elke week",
+      "kop": "Het verhaal achter Monks",
+      "tekst": "Een mail die laat zien waar de koffie vandaan komt: de branderij aan de Westhavenweg, één koffie uitgelicht met herkomst en smaak, en het abonnement als logische volgende stap.",
+      "punten": [
+        "Branderij en Probat als herkenbaar beeld",
+        "Colombia uitgelicht: Castillo, washed, medium roast",
+        "Afsluiten met Subscribe & Save"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}

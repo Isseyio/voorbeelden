@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "superkop-7kexg",
+  "merk": "Superkop",
+  "domein": "superkop.com",
+  "lead_id": "2026-11-12-superkop.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#171717",
+  "kop": "Een espresso-ritueel dat je kunt laten zien.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Superkop, ik heb dit gemaakt omdat een espressomaker zonder stroom die je zelf kunt repareren een verhaal is dat mensen op Instagram willen zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1887:4",
+      "titel": "Ritueel in drie kleuren",
+      "waarom": "Eén groot woord en de drie kleuren naast elkaar laten in een seconde zien wat de Superkop is en wat hij kost."
+    },
+    {
+      "node": "1887:23",
+      "titel": "Je ochtend in drie stappen",
+      "waarom": "Een routinekaart maakt een handmatige machine simpel: twijfelaars zien dat het maar drie stappen zijn."
+    },
+    {
+      "node": "1887:49",
+      "titel": "Mechanisch tot in detail",
+      "waarom": "Een echte gebruiksfoto met korte labels beantwoordt de vragen die mensen bij €699 hebben: stroom, gemak en reparatie."
+    }
+  ],
+  "waarom": {
+    "niche": "keuken",
+    "kop": "Zo groeien keukenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw keukenmerk niet via Google, maar tijdens het scrollen op Instagram. Bij een product van €699 zien ze het vaak een paar keer voordat ze kopen, dus wisselende advertenties en een welkomstmail helpen die twijfel weg te nemen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij keukenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij keukenmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1888:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij het ritueel",
+    "kop": "Welkom bij het ritueel.",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wat de Superkop is, waarom hij mechanisch is en hoe je in drie stappen je eerste espresso maakt.",
+    "punten": [
+      "Herokaart met de rode Superkop en één duidelijke knop",
+      "De drie principes van het merk: ritueel, repareerbaar, gaat lang mee",
+      "Zo werkt het, met een link naar de video"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1888:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij het ritueel",
+      "kop": "Welkom bij het ritueel.",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wat de Superkop is, waarom hij mechanisch is en hoe je in drie stappen je eerste espresso maakt.",
+      "punten": [
+        "Herokaart met de rode Superkop en één duidelijke knop",
+        "De drie principes van het merk: ritueel, repareerbaar, gaat lang mee",
+        "Zo werkt het, met een link naar de video"
+      ]
+    },
+    {
+      "node": "1888:41",
+      "type": "Merkverhaal",
+      "onderwerp": "Goede koffie is een ritueel",
+      "kop": "Goede koffie is geen bestemming.",
+      "tekst": "Een mail over waarom Sabine en Geert de Superkop volledig mechanisch maakten, met de onderdelen uitgelegd en een echte klantreactie.",
+      "punten": [
+        "Verhaal van de oprichters in een paar zinnen",
+        "De machine met labels: hendel, cilinder, portafilter, houten voet",
+        "Afsluiting over repareerbaarheid met een quote van een klant"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
