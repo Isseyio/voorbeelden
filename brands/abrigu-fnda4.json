@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "abrigu-fnda4",
+  "merk": "Abrigu",
+  "domein": "abrigu.nl",
+  "lead_id": "2026-11-12-abrigu.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#7F5F61",
+  "kop": "Een dekbed zonder overtrek, ook in je feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Abrigu, ik heb dit gemaakt omdat een dekbed dat je zonder overtrek gewoon in de wasmachine stopt een idee is dat je in één beeld kunt laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1817:3",
+      "titel": "Wat erin zit",
+      "waarom": "Vier ronde foto's met korte uitleg laten zien waarom dit dekbed anders is, zonder dat iemand de productpagina hoeft te lezen."
+    },
+    {
+      "node": "1817:25",
+      "titel": "Minder gedoe, elke week",
+      "waarom": "Een weekschema met schakelaars maakt het voordeel herkenbaar: opmaken, wassen en drogen zonder losse hoes."
+    },
+    {
+      "node": "1817:57",
+      "titel": "1+1 gratis",
+      "waarom": "De echte actie van deze maand groot bovenaan, met een sfeerfoto eronder, werkt goed bij mensen die al twijfelen."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en textiel",
+    "kop": "Zo groeien beddengoedmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw beddengoedmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een tweede dekbed of hoeslaken.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij wonen- en textielmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Dekbed-Discounter nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1817:68",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Abrigu, hier is je 5% korting",
+    "kop": "Welkom bij Abrigu",
+    "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: de 5% korting op de eerste bestelling, de drie dingen die Abrigu anders maken en 30 dagen bedenktijd.",
+    "punten": [
+      "5% korting op de eerste bestelling",
+      "Volledig wasbaar, geen losse hoes, binnen 1–3 werkdagen in huis",
+      "30 dagen bedenktijd en gratis verzending vanaf € 70"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1817:68",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Abrigu, hier is je 5% korting",
+      "kop": "Welkom bij Abrigu",
+      "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: de 5% korting op de eerste bestelling, de drie dingen die Abrigu anders maken en 30 dagen bedenktijd.",
+      "punten": [
+        "5% korting op de eerste bestelling",
+        "Volledig wasbaar, geen losse hoes, binnen 1–3 werkdagen in huis",
+        "30 dagen bedenktijd en gratis verzending vanaf € 70"
+      ]
+    },
+    {
+      "node": "1817:93",
+      "type": "Productspotlight",
+      "onderwerp": "Je bed opmaken in één beweging",
+      "kop": "Opgemaakt in één beweging",
+      "tekst": "Een productmail rond het Almond & Cocoa-dekbed: waarom een dekbed zonder losse overtrek handig is, wat erin zit en de 1+1-actie van deze maand.",
+      "punten": [
+        "Uitleg zonder overtrek: uitschudden en klaar",
+        "Vier labels bij het product: microvezel, Syndonfill®, dubbelzijdig, wasbaar",
+        "Afsluiting met de 1+1-actie op geselecteerde dekbedden"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
