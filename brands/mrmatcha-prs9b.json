@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "mrmatcha-prs9b",
+  "merk": "Mr.MATCHA",
+  "domein": "mrmatcha.nl",
+  "lead_id": "2026-11-12-mrmatcha.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B5257C",
+  "kop": "Echte matcha, elke week in beeld.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Mr.MATCHA, ik heb dit gemaakt omdat jullie matcha per kop in een sachet verpakken, en dat laat zich goed zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1863:3",
+      "titel": "Elke dag een kop",
+      "waarom": "Een weekstrip laat zien dat één sachet per dag past, en de kennismakingsbox van €14,95 maakt de eerste stap klein."
+    },
+    {
+      "node": "1863:29",
+      "titel": "Echte matcha",
+      "waarom": "Eén groot woord en een zoekbalk vangen de mensen die al naar ceremoniële matcha zoeken, met het hele assortiment in beeld."
+    },
+    {
+      "node": "1863:46",
+      "titel": "€1,62 per kop",
+      "waarom": "De prijs per kop maakt de doos van 40 voor €64,95 begrijpelijk, naast een echte foto van iemand die matcha drinkt."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien thee- en matchamerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw matchamerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun doos op is.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Spiruella nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1864:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Mr.MATCHA, hier is je 10%",
+    "kop": "Welkom bij Mr.MATCHA",
+    "tekst": "Na de aanmelding via de pop-up volgt een welkomstmail met de code, uitleg in drie stappen en de kennismakingsbox als makkelijke eerste stap.",
+    "punten": [
+      "Code MRMATCHAMOMENTS direct in beeld",
+      "Zo maak je matcha in drie stappen",
+      "Kennismakingsbox: 7 koppen voor €14,95"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1864:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Mr.MATCHA, hier is je 10%",
+      "kop": "Welkom bij Mr.MATCHA",
+      "tekst": "Na de aanmelding via de pop-up volgt een welkomstmail met de code, uitleg in drie stappen en de kennismakingsbox als makkelijke eerste stap.",
+      "punten": [
+        "Code MRMATCHAMOMENTS direct in beeld",
+        "Zo maak je matcha in drie stappen",
+        "Kennismakingsbox: 7 koppen voor €14,95"
+      ]
+    },
+    {
+      "node": "1864:40",
+      "type": "Merkverhaal",
+      "onderwerp": "Van Shizuoka naar je kom",
+      "kop": "Het verhaal achter Mr.MATCHA",
+      "tekst": "Het verhaal van Erwin en de theeboeren in Japan, met wat er in elk sachet zit en waar matcha in je dag past.",
+      "punten": [
+        "Eerste oogst, 3 weken schaduw",
+        "1,2 gram per sachet, geen toevoegingen",
+        "Starterkit vanaf €44,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
