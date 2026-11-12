@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "yarnzoo-cwddm",
+  "merk": "YarnZoo",
+  "domein": "yarnzoocrochet.com",
+  "lead_id": "2026-11-12-yarnzoocrochet.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E74016",
+  "kop": "Een idee voor YarnZoo: haakdieren op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team YarnZoo, ik heb dit gemaakt omdat jullie gehaakte dieren tussen die houten palmbomen meteen herkenbaar zijn. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1976:3",
+      "titel": "Haak je eigen dierentuin",
+      "waarom": "Een grote kop met jullie eigen dierenfoto's ertussen valt op tussen andere posts en laat meteen zien wat je kunt maken."
+    },
+    {
+      "node": "1976:17",
+      "titel": "De starterkit",
+      "waarom": "Voor mensen die nog nooit gehaakt hebben: in één beeld zien ze wat er in het pakket zit en welke dieren er zijn."
+    },
+    {
+      "node": "1976:33",
+      "titel": "Bee Dizzy belt je op",
+      "waarom": "Een speels idee als een inkomend gesprek laat mensen stoppen met scrollen en zet één patroon centraal."
+    }
+  ],
+  "waarom": {
+    "niche": "hobby en cadeaus",
+    "kop": "Zo groeien hobbymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw haakpatroon niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe makers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die makers terugkomen voor het volgende dier.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij hobby- en cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "300+",
+        "label": "advertenties heeft Hobbii nu tegelijk live in Nederland"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1977:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij YarnZoo",
+    "kop": "Welkom bij YarnZoo",
+    "tekst": "Fijn dat je er bent. Bij ons haak je dieren uit de hele wereld, met patronen die we zelf ontwerpen.",
+    "punten": [
+      "Patroon als PDF, direct te downloaden",
+      "Video's en tutorials als je vastloopt",
+      "Samen ontworpen door moeder en dochter",
+      "Nog nooit gehaakt? Begin met een starterkit"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1977:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij YarnZoo",
+      "kop": "Welkom bij YarnZoo",
+      "tekst": "Fijn dat je er bent. Bij ons haak je dieren uit de hele wereld, met patronen die we zelf ontwerpen.",
+      "punten": [
+        "Patroon als PDF, direct te downloaden",
+        "Video's en tutorials als je vastloopt",
+        "Samen ontworpen door moeder en dochter",
+        "Nog nooit gehaakt? Begin met een starterkit"
+      ]
+    },
+    {
+      "node": "1977:47",
+      "type": "Productspotlight",
+      "onderwerp": "Je eerste knuffel, stap voor stap",
+      "kop": "Je eerste knuffel, stap voor stap.",
+      "tekst": "In de starterkit zitten garen, een haaknaald en een stap-voor-stap videocursus. Kies je dier: capybara, zeeschildpad of walvis.",
+      "punten": [
+        "Garen en haaknaald in het pakket",
+        "Videocursus die elke stap laat zien",
+        "Drie dieren om uit te kiezen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
