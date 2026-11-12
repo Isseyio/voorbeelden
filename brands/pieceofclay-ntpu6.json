@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "pieceofclay-ntpu6",
+  "merk": "Piece of Clay",
+  "domein": "pieceofclay.nl",
+  "lead_id": "2026-10-29-pieceofclay.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C98F8B",
+  "kop": "Geen twee hetzelfde: drie ideeën voor Piece of Clay.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met je eigen foto's en productinformatie.",
+  "noot": "Hoi Natalie, ik heb dit gemaakt omdat je ikebana's, vazen en paddenstoelen met al die kleuren precies het soort beeld zijn dat op Instagram blijft hangen. Alles is gemaakt met je eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1808:2",
+      "titel": "Zo is hij gemaakt",
+      "waarom": "Ronde foto's per kenmerk laten in één beeld zien waarom een handgemaakte ikebana van €29,50 de moeite waard is."
+    },
+    {
+      "node": "1808:26",
+      "titel": "De paddenstoel belt",
+      "waarom": "Een speels belscherm valt op tussen gewone posts en maakt van een product van €19,95 een klein moment."
+    },
+    {
+      "node": "1808:41",
+      "titel": "Geen twee vazen gelijk",
+      "waarom": "Een grote kop met je eigen vaasfoto's ertussen vertelt meteen wat handwerk anders maakt."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen",
+    "kop": "Zo groeien woonmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw keramiekmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als er nieuw werk is.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woonmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Xenos nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1809:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Piece of Clay",
+    "kop": "Welkom bij Piece of Clay",
+    "tekst": "Een welkomstmail voor wie zich aanmeldt voor updates: wie Natalie is, wat je van haar keramiek kunt verwachten, en meteen één product om te bekijken.",
+    "punten": [
+      "Persoonlijk welkom van Natalie uit het atelier in Amersfoort",
+      "Met de hand gemaakt, wabi-sabi en ongeveer elke twee maanden nieuw werk",
+      "Het fruit vergietje van €22,50 uitgelicht"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1809:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Piece of Clay",
+      "kop": "Welkom bij Piece of Clay",
+      "tekst": "Een welkomstmail voor wie zich aanmeldt voor updates: wie Natalie is, wat je van haar keramiek kunt verwachten, en meteen één product om te bekijken.",
+      "punten": [
+        "Persoonlijk welkom van Natalie uit het atelier in Amersfoort",
+        "Met de hand gemaakt, wabi-sabi en ongeveer elke twee maanden nieuw werk",
+        "Het fruit vergietje van €22,50 uitgelicht"
+      ]
+    },
+    {
+      "node": "1809:29",
+      "type": "Merkverhaal",
+      "onderwerp": "Van hobby naar atelier",
+      "kop": "Van hobby naar atelier",
+      "tekst": "Een merkverhaal-mail: van hobby in 2013 naar Piece of Clay in 2017, de Kurinuki-techniek en wabi-sabi, een product met labels en de sets op maat met 10% korting vanaf €150.",
+      "punten": [
+        "Het verhaal van Natalie in een paar zinnen",
+        "Fruit vergietje uitgelicht: handgemaakt, hoog gestookt, vaatwasser- en magnetronbestendig",
+        "Sets op maat met 10% korting vanaf €150, zoals op je site"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
