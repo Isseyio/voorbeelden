@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "relooped-yxy96",
+  "merk": "Relooped by You",
+  "domein": "relooped.nl",
+  "lead_id": "2026-11-12-relooped.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#7741F6",
+  "kop": "Drie nieuwe invalshoeken voor jullie gebreide tekeningen",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Relooped, ik heb dit gemaakt omdat jullie op de site zo mooi de tekening naast de gebreide plaid of sjaal laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1956:25",
+      "titel": "Van tekening naar plaid",
+      "waarom": "De tekening en de plaid naast elkaar laten in één beeld zien wat jullie doen, met prijs en maat erbij."
+    },
+    {
+      "node": "1956:41",
+      "titel": "Jij tekent, wij breien",
+      "waarom": "Echte reviews rond een kind met zijn eigen sjaal geven vertrouwen bij een cadeau dat je niet kunt terugsturen."
+    },
+    {
+      "node": "1956:86",
+      "titel": "Oma en opa aan de lijn",
+      "waarom": "Een herkenbaar belscherm maakt van de sjaal voor opa en oma een speels cadeau-idee voor de feestdagen."
+    }
+  ],
+  "waarom": {
+    "niche": "cadeau",
+    "kop": "Zo groeien cadeaumerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een persoonlijk cadeau niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag, juist richting Sinterklaas en kerst. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende verjaardag.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft YourSurprise nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1956:100",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Relooped by You",
+    "kop": "Welkom bij Relooped by You.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: in drie stappen van een tekening naar een gebreide sjaal, plaid of deken.",
+    "punten": [
+      "Teken: print de tekenmal of teken digitaal",
+      "Upload je tekening en kies twee kleuren garen",
+      "Binnen 10 werkdagen gebreid en verstuurd",
+      "100% biologisch katoen, echt gebreid en geen print"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1956:100",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Relooped by You",
+      "kop": "Welkom bij Relooped by You.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: in drie stappen van een tekening naar een gebreide sjaal, plaid of deken.",
+      "punten": [
+        "Teken: print de tekenmal of teken digitaal",
+        "Upload je tekening en kies twee kleuren garen",
+        "Binnen 10 werkdagen gebreid en verstuurd",
+        "100% biologisch katoen, echt gebreid en geen print"
+      ]
+    },
+    {
+      "node": "1956:127",
+      "type": "Assortiment",
+      "onderwerp": "Eén tekening, zes cadeaus",
+      "kop": "Eén tekening, zes cadeaus.",
+      "tekst": "Een assortimentsmail met vier producten op een rij en een echte review als afsluiter.",
+      "punten": [
+        "Kindersjaal vanaf €59,95, in drie maten",
+        "Plaid 180 × 100 cm voor €159,95",
+        "Sjaal voor oma en opa voor €94,95",
+        "Kleurstalen om de garenkleuren thuis te kiezen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}

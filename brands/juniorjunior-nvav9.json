@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "juniorjunior-nvav9",
+  "merk": "Junior & Junior",
+  "domein": "juniorandjunior.com",
+  "lead_id": "2026-11-12-juniorandjunior.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#0414A3",
+  "kop": "Drie ideeën voor Junior & Junior op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Junior & Junior, ik heb dit gemaakt omdat jullie ouders eerst vier brillen thuis laten passen, en dat is een sterk verhaal voor advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1956:214",
+      "titel": "Een bril die ze zelf kiezen",
+      "waarom": "Kinderfoto's tussen de woorden laten meteen zien voor wie de bril is, met het montuur en de prijs eronder."
+    },
+    {
+      "node": "1956:229",
+      "titel": "Goud of zwart?",
+      "waarom": "Hetzelfde kind met twee varianten maakt kiezen makkelijk en nodigt uit om eerst thuis te passen."
+    },
+    {
+      "node": "1956:250",
+      "titel": "Tegen een stootje",
+      "waarom": "Een close-up van de scharnieren beantwoordt de grootste zorg van ouders en leidt naar de gratis pasbox."
+    }
+  ],
+  "waarom": {
+    "niche": "kinderbrillen",
+    "kop": "Zo groeien kindermerken op Instagram.",
+    "tekst": "Ouders ontdekken een nieuw kindermerk zelden via Google, maar wel tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe gezinnen en houden hun kosten per aankoop laag. Een vaste nieuwsbrief helpt om van een pasbox een bestelling te maken.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kindermerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25+",
+        "label": "advertenties heeft Hans Anders nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1958:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Junior & Junior",
+    "kop": "Welkom bij Junior & Junior.",
+    "tekst": "Een confidence-boost voor kids in brilvorm. Kies 4 favoriete monturen en pas ze in alle rust thuis met de Try Me Box.",
+    "punten": [
+      "4 brillen thuis passen: gratis verzending, geen verplichting",
+      "Oersterk titanium: licht, flexibel en hypoallergeen",
+      "In-house ontworpen, met 100% focus op kinderen",
+      "Liever in de winkel? Pas bij een partneropticien"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1958:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Junior & Junior",
+      "kop": "Welkom bij Junior & Junior.",
+      "tekst": "Een confidence-boost voor kids in brilvorm. Kies 4 favoriete monturen en pas ze in alle rust thuis met de Try Me Box.",
+      "punten": [
+        "4 brillen thuis passen: gratis verzending, geen verplichting",
+        "Oersterk titanium: licht, flexibel en hypoallergeen",
+        "In-house ontworpen, met 100% focus op kinderen",
+        "Liever in de winkel? Pas bij een partneropticien"
+      ]
+    },
+    {
+      "node": "1958:46",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom we zelf kinderbrillen ontwerpen",
+      "kop": "Een confidence-boost voor kids in brilvorm.",
+      "tekst": "Jasmine en Marieke begonnen Junior & Junior uit de nodige frustratie en ervaring. Marieke ontwierp zelf de hele collectie.",
+      "punten": [
+        "Stockholm S: oersterk titanium",
+        "Flexibele scharnieren, kan tegen een stootje",
+        "Zachte, afstelbare oortips",
+        "Op sterkte, vanaf €210"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
