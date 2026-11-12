@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "horsesoap-j9e83",
+  "merk": "Horse Soap",
+  "domein": "horsesoap.nl",
+  "lead_id": "2026-11-04-horsesoap.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#585134",
+  "kop": "Natuurlijke shampoobars, in beeld bij het paard.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Horse Soap, ik heb dit gemaakt omdat jullie foto's van de bars bij het paard zo goed laten zien wat het product doet. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1891:3",
+      "titel": "Hand en bar",
+      "waarom": "Een echte bar in een hand bij het paard, met vier korte kenmerken: in een paar tellen zie je wat het is en waarom het anders is."
+    },
+    {
+      "node": "1891:20",
+      "titel": "Welke bar past",
+      "waarom": "Twee bars naast elkaar met elk een duidelijk doel helpen ruiters kiezen, en dat maakt de eerste bestelling makkelijker."
+    },
+    {
+      "node": "1891:42",
+      "titel": "Detail en prijs",
+      "waarom": "De wasbeurt van dichtbij met korte uitleg en de echte actieprijs: zo voelt een natuurlijke shampoobar meteen tastbaar."
+    }
+  ],
+  "waarom": {
+    "niche": "paardenverzorging",
+    "kop": "Zo groeien merken voor dieren op Instagram.",
+    "tekst": "De meeste ruiters ontdekken een nieuw verzorgingsproduct niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als de bar op is.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij merken voor dieren vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft paardensportwinkel Epplejeck nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1892:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Horse Soap",
+    "kop": "Welkom bij Horse Soap",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wat een shampoobar is, waarom die natuurlijk, plasticvrij en sociaal gemaakt is, en een handige tip voor het zeepzakje.",
+    "punten": [
+      "Honey & Care als eerste kennismaking",
+      "Drie redenen: natuurlijk, plasticvrij, sociaal",
+      "Het zeepzakje als kleine extra bij de eerste bestelling"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1892:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Horse Soap",
+      "kop": "Welkom bij Horse Soap",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wat een shampoobar is, waarom die natuurlijk, plasticvrij en sociaal gemaakt is, en een handige tip voor het zeepzakje.",
+      "punten": [
+        "Honey & Care als eerste kennismaking",
+        "Drie redenen: natuurlijk, plasticvrij, sociaal",
+        "Het zeepzakje als kleine extra bij de eerste bestelling"
+      ]
+    },
+    {
+      "node": "1892:33",
+      "type": "Merkverhaal",
+      "onderwerp": "Het verhaal achter Horse Soap",
+      "kop": "Zachte verzorging, zonder plastic",
+      "tekst": "Een mail over wie er achter Horse Soap zitten: Iris en Lise-lott, de sociale werkplaats waar de bars gemaakt worden, en de drie geuren naast elkaar.",
+      "punten": [
+        "Iris en Lise-lott stellen zich voor",
+        "De drie bars met gewicht, verpakking en geur",
+        "Afsluiten met de sociale werkplaats"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}

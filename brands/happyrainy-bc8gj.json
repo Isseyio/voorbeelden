@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "happyrainy-bc8gj",
+  "merk": "Happy Rainy Days",
+  "domein": "happyrainydays.nl",
+  "lead_id": "2026-11-12-happyrainydays.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#D46F36",
+  "kop": "Regenjassen die je op Instagram laat zien.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Happy Rainy Days, ik heb dit gemaakt omdat een regenjas met een extra flap voor droge benen op de fiets precies is wat Nederlanders willen zien als het weer giet. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1894:4",
+      "titel": "Droog op de fiets belt",
+      "waarom": "Een herkenbaar belscherm laat mensen even stoppen met scrollen, en de rode Toronto staat groot in beeld."
+    },
+    {
+      "node": "1894:16",
+      "titel": "Voorjaar of winter",
+      "waarom": "Twee jassen naast elkaar met prijs maken de keuze makkelijk voor wie twijfelt welke jas past."
+    },
+    {
+      "node": "1894:37",
+      "titel": "Gemaakt voor Hollands weer",
+      "waarom": "Een detailfoto met korte labels laat zien waarom de Rome droog blijft, zonder lange uitleg."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw jassenmerk niet via Google, maar tijdens het scrollen op Instagram. Regenjassen verkopen vooral als het weer omslaat, dus merken die elke week nieuwe advertenties klaar hebben staan, zijn er precies op dat moment. Een welkomstmail zorgt dat nieuwe inschrijvers ook echt bestellen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Maium nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1895:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Happy Rainy Days",
+    "kop": "Welkom bij Happy Rainy Days.",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn, waarom je jassen echt droog houden en de 10% korting die ze bij de aanmelding beloofd kregen.",
+    "punten": [
+      "Oranje herokaart met de Toronto en één duidelijke knop",
+      "Waterdicht, winddicht en ademend in drie iconen",
+      "Kaart met de 10% welkomstkorting en de Rome"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1895:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Happy Rainy Days",
+      "kop": "Welkom bij Happy Rainy Days.",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn, waarom je jassen echt droog houden en de 10% korting die ze bij de aanmelding beloofd kregen.",
+      "punten": [
+        "Oranje herokaart met de Toronto en één duidelijke knop",
+        "Waterdicht, winddicht en ademend in drie iconen",
+        "Kaart met de 10% welkomstkorting en de Rome"
+      ]
+    },
+    {
+      "node": "1895:44",
+      "type": "Productvergelijking",
+      "onderwerp": "Rome of Toronto?",
+      "kop": "Rome of Toronto?",
+      "tekst": "Een mail die twijfelaars helpt kiezen tussen de lichte Rome en de gewatteerde Toronto, met de verschillen in één overzicht.",
+      "punten": [
+        "Modelfoto van de Toronto als opening",
+        "Vergelijkingstabel: seizoen, voering, waterkolom en extra's",
+        "Afsluiting met beide jassen en een knop naar de shop"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
