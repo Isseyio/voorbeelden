@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "baanwoods-ynm8e",
+  "merk": "Baan Woods",
+  "domein": "baanwoods.nl",
+  "lead_id": "2026-11-12-baanwoods.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#406B41",
+  "kop": "Een idee voor Baan Woods: handgemaakte meubels op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Baan Woods, ik heb dit gemaakt omdat je bij jullie meubels zelf de lengte en diepte kiest, en dat verdient meer aandacht. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1997:58",
+      "titel": "Waar Sidetable Baan van gemaakt is",
+      "waarom": "Vurenhout, stevige verbindingen, vier kleuren beits en Maarten zelf in één beeld: dat laat zien waarom een handgemaakt meubel zijn prijs waard is."
+    },
+    {
+      "node": "1997:80",
+      "titel": "Welke kleur past bij jou?",
+      "waarom": "Twee kleuren naast elkaar maken de keuze concreet en nodigen uit om de andere kleuren op de site te bekijken."
+    },
+    {
+      "node": "1997:94",
+      "titel": "Bankje Bee van dichtbij",
+      "waarom": "Een close-up van het hout en de schuine poten met korte uitleg laat het vakmanschap zien dat je op een gewone productfoto mist."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw meubelmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag, omdat een advertentie na een paar weken moe wordt. Een vaste nieuwsbrief zorgt dat mensen die nog twijfelen over maat of kleur later terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft WOOOD nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1998:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Baan Woods",
+    "kop": "Welkom bij Baan Woods",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie er achter de meubels zit, hoe maatwerk werkt en een makkelijk eerste product om mee te beginnen.",
+    "punten": [
+      "Alle maten mogelijk: kies zelf lengte en diepte",
+      "Gratis bezorgd in heel Nederland",
+      "Kruk Bo vanaf €79,95 als eerste kennismaking"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1998:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Baan Woods",
+      "kop": "Welkom bij Baan Woods",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie er achter de meubels zit, hoe maatwerk werkt en een makkelijk eerste product om mee te beginnen.",
+      "punten": [
+        "Alle maten mogelijk: kies zelf lengte en diepte",
+        "Gratis bezorgd in heel Nederland",
+        "Kruk Bo vanaf €79,95 als eerste kennismaking"
+      ]
+    },
+    {
+      "node": "1998:36",
+      "type": "Merkverhaal",
+      "onderwerp": "Van de garage van zijn ouders naar een eigen werkplaats",
+      "kop": "Het verhaal achter Baan Woods",
+      "tekst": "Maarten begon in 2019 in de garage van zijn ouders en maakt nu alles in een eigen werkplaats in Rijssen. Deze mail vertelt dat verhaal en zet Sidetable Baan in de spotlight.",
+      "punten": [
+        "Het verhaal van Maarten en de werkplaats",
+        "Sidetable Baan met blad van 3 cm en vier kleuren beits",
+        "Offerte op maat als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
