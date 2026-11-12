@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "bonne-d44aa",
+  "merk": "BONNE",
+  "domein": "bonnelife.com",
+  "lead_id": "2026-11-12-bonnelife.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1F3A2B",
+  "kop": "Eén pak voor elke dag, steeds met een nieuwe invalshoek.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team BONNE, ik heb dit gemaakt omdat jullie één pak al ruim tien jaar zo consequent als uniform neerzetten, van de Warmoesstraat tot de Sally Suit. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1941:2",
+      "titel": "Eén pak, elke dag",
+      "waarom": "Een grote typografische kop met jullie eigen straatfoto's valt op tussen gewone productfoto's en vertelt in één zin waar BONNE voor staat."
+    },
+    {
+      "node": "1942:2",
+      "titel": "Twee karakters",
+      "waarom": "De Bonne Suit en de Sally Suit naast elkaar met prijs helpen iemand meteen kiezen, in plaats van alleen één campagnebeeld te zien."
+    },
+    {
+      "node": "1942:23",
+      "titel": "Van dichtbij",
+      "waarom": "Een close-up met de echte details (380 g/m² twill, dubbel gestikte zakken) laat zien waarom een pak van €300 zijn prijs waard is."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, ook als een maat weer op voorraad is.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Carhartt WIP nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1944:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij BONNE",
+    "kop": "Welkom bij BONNE",
+    "tekst": "Fijn dat je erbij bent. Wij maken één ding goed: een katoenen pak dat je elke dag draagt, sinds 2014 vanuit Amsterdam.",
+    "punten": [
+      "100% katoen, wasbaar op 30 graden",
+      "Genderless fit, van XXXS tot XXL",
+      "Handgemaakt in kleine oplages",
+      "Uitgelicht: de Sally Suit met brandweergesp"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1944:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij BONNE",
+      "kop": "Welkom bij BONNE",
+      "tekst": "Fijn dat je erbij bent. Wij maken één ding goed: een katoenen pak dat je elke dag draagt, sinds 2014 vanuit Amsterdam.",
+      "punten": [
+        "100% katoen, wasbaar op 30 graden",
+        "Genderless fit, van XXXS tot XXL",
+        "Handgemaakt in kleine oplages",
+        "Uitgelicht: de Sally Suit met brandweergesp"
+      ]
+    },
+    {
+      "node": "1945:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Het verhaal achter het uniform",
+      "kop": "Het verhaal achter het uniform",
+      "tekst": "Begin 2014 ontwierp Bonne Reijn een kleine batch zwart-witte tweedelige pakken en noemde ze BONNE. Inmiddels in verschillende kleuren en stoffen, nog steeds van 100% katoen.",
+      "punten": [
+        "Het idee van Bonne Reijn",
+        "Het uniform van dichtbij: knopenrij, vier zakken, 380 g/m² twill",
+        "Kom langs op de Warmoesstraat 67"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
