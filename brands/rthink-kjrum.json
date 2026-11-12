@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "rthink-kjrum",
+  "merk": "RTHINK",
+  "domein": "rthink.shop",
+  "lead_id": "2026-11-12-rthink.shop",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#EE7C66",
+  "kop": "Drie advertenties voor jullie plasticvrije bars",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team RTHINK, ik heb dit gemaakt omdat jullie foto van de badkamer met en zonder plastic in één beeld laat zien waarom een bar werkt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1970:3",
+      "titel": "Met flessen of met RTHINK",
+      "waarom": "Jullie eigen voor-en-na-foto van de badkamer maakt in één oogopslag duidelijk dat één bar 3 tot 4 flessen vervangt."
+    },
+    {
+      "node": "1971:2",
+      "titel": "Eén bar, drie redenen",
+      "waarom": "Een echte foto van de bar in handen met drie korte kenmerken laat zien hoe makkelijk de overstap is."
+    },
+    {
+      "node": "1971:27",
+      "titel": "Your daily routine",
+      "waarom": "Een weekstrip met jullie shampoobar sluit aan op jullie eigen slogan en laat zien dat één bar lang meegaat."
+    }
+  ],
+  "waarom": {
+    "niche": "verzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw verzorgingsmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun bar op is.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "90+",
+        "label": "advertenties heeft HappySoaps nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1972:21",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij RTHINK",
+    "kop": "Welkom bij RTHINK.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie RTHINK is, drie redenen om een bar te proberen en hoe je hem gebruikt.",
+    "punten": [
+      "Vegan shampoo- en verzorgingsbars, handgemaakt in Nederland",
+      "Zonder plastic verpakking, palmolie en SLS",
+      "Een bar gaat minimaal drie keer langer mee dan een fles",
+      "Stap voor stap: schuimen, inzepen, afspoelen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1972:21",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij RTHINK",
+      "kop": "Welkom bij RTHINK.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie RTHINK is, drie redenen om een bar te proberen en hoe je hem gebruikt.",
+      "punten": [
+        "Vegan shampoo- en verzorgingsbars, handgemaakt in Nederland",
+        "Zonder plastic verpakking, palmolie en SLS",
+        "Een bar gaat minimaal drie keer langer mee dan een fles",
+        "Stap voor stap: schuimen, inzepen, afspoelen"
+      ]
+    },
+    {
+      "node": "1973:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Doe normaal.",
+      "kop": "Doe normaal.",
+      "tekst": "Een mail over jullie missie: waarom een shampoofles vooral water is, en het complete verzorgingspakket als volgende stap.",
+      "punten": [
+        "Een shampoofles bestaat voor 80% uit water",
+        "Eén bar vervangt wel 3 tot 4 plastic flessen",
+        "Shampoo, conditioner, bodywash en facewash in één pakket",
+        "Cadeaupakket verzorging voor €20,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
