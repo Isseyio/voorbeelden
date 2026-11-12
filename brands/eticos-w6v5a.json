@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "eticos-w6v5a",
+  "merk": "ÉTICOS",
+  "domein": "eticos.care",
+  "lead_id": "2026-11-12-eticos.care",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2B5A87",
+  "kop": "Drie nieuwe invalshoeken voor jullie navulbare deodorant",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team ÉTICOS, ik heb dit gemaakt omdat jullie case in drie kleuren en die foto's onder de blauwe lucht meteen herkenbaar zijn. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1980:3",
+      "titel": "Elk ingrediënt telt",
+      "waarom": "Een hand met de case en vijf korte kenmerken laat in één beeld zien waarom ÉTICOS anders is dan een gewone deodorant."
+    },
+    {
+      "node": "1980:20",
+      "titel": "Black Friday",
+      "waarom": "Jullie echte Black Friday-actie bovenaan en een groot merkwoord boven jullie eigen foto onder de blauwe lucht."
+    },
+    {
+      "node": "1980:28",
+      "titel": "Refill, reuse",
+      "waarom": "De drie kleuren naast elkaar met een zoekbalk zoals mensen echt zoeken, zodat de navulbare case meteen duidelijk is."
+    }
+  ],
+  "waarom": {
+    "niche": "verzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "Jullie adverteren al, dus het kanaal werkt. Een advertentie wordt na een paar weken moe: dezelfde mensen zien hem steeds weer en klikken minder. Merken die elke week nieuwe varianten testen, houden hun kosten per aankoop laag, en een vaste nieuwsbrief zorgt dat klanten op tijd een nieuwe refill bestellen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "80+",
+        "label": "advertenties heeft Nuud nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1980:46",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij ÉTICOS",
+    "kop": "Welkom bij ÉTICOS",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie ÉTICOS is, hoe de navulbare case werkt en de Discovery Set als eerste stap.",
+    "punten": [
+      "Natuurlijke deodorant met een case die blijft",
+      "Zo werkt het: openen, navullen, gebruiken",
+      "Elke refill gaat 4 tot 6 weken mee",
+      "Begin met de Discovery Set: één case en drie refills"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1980:46",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij ÉTICOS",
+      "kop": "Welkom bij ÉTICOS",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie ÉTICOS is, hoe de navulbare case werkt en de Discovery Set als eerste stap.",
+      "punten": [
+        "Natuurlijke deodorant met een case die blijft",
+        "Zo werkt het: openen, navullen, gebruiken",
+        "Elke refill gaat 4 tot 6 weken mee",
+        "Begin met de Discovery Set: één case en drie refills"
+      ]
+    },
+    {
+      "node": "1980:75",
+      "type": "Refill-herinnering",
+      "onderwerp": "Tijd voor een nieuwe refill?",
+      "kop": "Tijd voor een nieuwe refill?",
+      "tekst": "Een mail die klanten herinnert aan hun volgende refill, met wat erin zit en het abonnement als makkelijke vervolgstap.",
+      "punten": [
+        "Een refill gaat 4 tot 6 weken mee",
+        "COSMOS Organic, vegan en gemaakt in Frankrijk",
+        "Dode Zee-zout, babassu-, kokos- en jojobaolie",
+        "€14,95 per refill, of €12,70 met een abonnement"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
