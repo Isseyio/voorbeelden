@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "sev-r38a3",
+  "merk": "SEV Plantenbakken",
+  "domein": "sevplantenbakken.nl",
+  "lead_id": "2026-11-11-sevplantenbakken.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4FBC51",
+  "kop": "Stalen plantenbakken, elke week een nieuwe invalshoek.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team SEV Plantenbakken, ik heb dit gemaakt omdat jullie bakken in vijf kleuren zo mooi in jullie eigen tuinfoto's staan. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1867:3",
+      "titel": "Antraciet of wit",
+      "waarom": "Twee kleuren naast elkaar in dezelfde tuin helpen mensen kiezen, en de 10 jaar kleurgarantie neemt twijfel weg."
+    },
+    {
+      "node": "1867:19",
+      "titel": "Vakwerk in staal",
+      "waarom": "Callouts op een echte foto laten zien waarom een stalen bak van SEV meer kost dan een bak uit het tuincentrum."
+    },
+    {
+      "node": "1867:43",
+      "titel": "Vanaf €155",
+      "waarom": "Een duidelijke instapprijs boven het merk en een sterke tuinfoto maken de stap naar de site klein."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen & tuin",
+    "kop": "Zo groeien tuin- en woonmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw tuinmerk niet via Google, maar tijdens het scrollen op Instagram, vaak al maanden voor ze gaan verbouwen. Merken die daar elke week nieuwe advertenties testen, blijven in beeld en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die mensen terugkomen als het voorjaar begint.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woon- en tuinmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft MySteel nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1868:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij SEV, hier is je code",
+    "kop": "Welkom bij SEV",
+    "tekst": "Na de kraskaart-pop-up volgt een welkomstmail met de code WIN5, wat SEV anders maakt en de route naar maatwerk.",
+    "punten": [
+      "Code WIN5 direct in beeld",
+      "Eigen productie, eigen bezorging, 10 jaar kleurgarantie",
+      "Maatwerk in meer dan 150 RAL-kleuren"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1868:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij SEV, hier is je code",
+      "kop": "Welkom bij SEV",
+      "tekst": "Na de kraskaart-pop-up volgt een welkomstmail met de code WIN5, wat SEV anders maakt en de route naar maatwerk.",
+      "punten": [
+        "Code WIN5 direct in beeld",
+        "Eigen productie, eigen bezorging, 10 jaar kleurgarantie",
+        "Maatwerk in meer dan 150 RAL-kleuren"
+      ]
+    },
+    {
+      "node": "1868:41",
+      "type": "Assortiment",
+      "onderwerp": "Een plantenbak voor elke tuin",
+      "kop": "Een plantenbak voor elke tuin",
+      "tekst": "Drie populaire maten met prijs, plus maatwerk, en de Trustpilot-score als bewijs.",
+      "punten": [
+        "60 × 60 × 40 vanaf €155",
+        "80 × 80 × 50 en 200 × 40 × 40",
+        "4,8 op Trustpilot uit 711 reviews"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
