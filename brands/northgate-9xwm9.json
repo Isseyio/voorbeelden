@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "northgate-9xwm9",
+  "merk": "Northgate Watches",
+  "domein": "northgatewatches.com",
+  "lead_id": "2026-11-12-northgatewatches.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1F3FBF",
+  "kop": "Swiss Made, slank staal en een verhaal van twintig jaar ontwerpen.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Northgate, ik heb dit gemaakt omdat de Club 40 met 9 mm staal en saffierglas voor €349 een verhaal is dat op Instagram meteen werkt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1852:4",
+      "titel": "Slank staal, Swiss Made",
+      "waarom": "De kop leest als één zin en laat in drie beelden zien hoe de Club 40 om de pols zit."
+    },
+    {
+      "node": "1852:5",
+      "titel": "€349 bovenaan",
+      "waarom": "Een duidelijke prijs boven een polsfoto haalt mensen over die denken dat Swiss Made onbetaalbaar is."
+    },
+    {
+      "node": "1852:6",
+      "titel": "Club Chrono in detail",
+      "waarom": "Callouts bij saffierglas, waterdichtheid en lume beantwoorden de vragen die horlogekopers vóór een aankoop hebben."
+    }
+  ],
+  "waarom": {
+    "niche": "horloges",
+    "kop": "Zo groeien horlogemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw horlogemerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "5+",
+        "label": "advertenties heeft Nordgreen nu tegelijk live in Nederland"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1852:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Northgate",
+    "kop": "Fijn dat je er bent.",
+    "tekst": "Horloges zonder experimenten, zonder overdaad en zonder compromis. Slank staal, saffierglas en een uurwerk dat gewoon doorloopt.",
+    "punten": [
+      "Gratis wereldwijde FedEx-verzending vanuit Amsterdam",
+      "24 maanden garantie op elk horloge",
+      "Gravure op de achterkant voor €45"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1852:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Northgate",
+      "kop": "Fijn dat je er bent.",
+      "tekst": "Horloges zonder experimenten, zonder overdaad en zonder compromis. Slank staal, saffierglas en een uurwerk dat gewoon doorloopt.",
+      "punten": [
+        "Gratis wereldwijde FedEx-verzending vanuit Amsterdam",
+        "24 maanden garantie op elk horloge",
+        "Gravure op de achterkant voor €45"
+      ]
+    },
+    {
+      "node": "1852:8",
+      "type": "Merkverhaal",
+      "onderwerp": "Twintig jaar ontwerpen, in één horloge",
+      "kop": "Geen experimenten. Geen overdaad. Geen compromis.",
+      "tekst": "Willem Kamerman ontwerpt al meer dan twintig jaar horloges. In 2020 begon hij Northgate in Amsterdam, met één regel: een horloge hoort nooit terug te hoeven.",
+      "punten": [
+        "Saffierglas met antireflectie",
+        "Schroefkroon, tot 100 m waterdicht",
+        "316L staal, 9 mm dun",
+        "Super-LumiNova op wijzers en indexen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
