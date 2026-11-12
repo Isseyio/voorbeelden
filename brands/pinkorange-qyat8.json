@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "pinkorange-qyat8",
+  "merk": "Pinkorange",
+  "domein": "pinkorange.eu",
+  "lead_id": "2026-11-12-pinkorange.eu",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E2652F",
+  "kop": "Een idee voor de collecties van Pinkorange",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Pinkorange, ik heb dit gemaakt omdat het verhaal van de kunstenaars op Vlieland zich goed leent voor korte advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1987:3",
+      "titel": "Eén prijs, groot logo",
+      "waarom": "De prijs en gratis verzending bovenaan en jullie logo groot boven een close-up van het white fitted t-shirt: in één keer duidelijk wat het kost en van wie het is."
+    },
+    {
+      "node": "1987:12",
+      "titel": "Elk detail uitgelegd",
+      "waarom": "Een close-up van de ACE knitted polo met korte labels laat de stof, de kraag en de samenwerking met Daan Rietbergen zien, waar een prijs van € 225 om vraagt."
+    },
+    {
+      "node": "1987:36",
+      "titel": "Van eiland naar kast",
+      "waarom": "Vlieland naast de jacket met het artwork op de rug vertelt in één beeld waarom Pinkorange anders is dan een gewoon kledingmerk."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen bij elke nieuwe collectie.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Stieglitz nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1989:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Pinkorange",
+    "kop": "Welkom bij Pinkorange.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: het verhaal van Vlieland en de kunstenaars, en drie stukken uit de collectie als eerste kennismaking.",
+    "punten": [
+      "Vernoemd naar de kleuren van de zonsondergang",
+      "Elke collectie begint bij een kunstenaar op Vlieland",
+      "White fitted t-shirt, ACE knitted polo en ACE full zip jacket",
+      "Gratis verzending binnen Nederland"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1989:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Pinkorange",
+      "kop": "Welkom bij Pinkorange.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: het verhaal van Vlieland en de kunstenaars, en drie stukken uit de collectie als eerste kennismaking.",
+      "punten": [
+        "Vernoemd naar de kleuren van de zonsondergang",
+        "Elke collectie begint bij een kunstenaar op Vlieland",
+        "White fitted t-shirt, ACE knitted polo en ACE full zip jacket",
+        "Gratis verzending binnen Nederland"
+      ]
+    },
+    {
+      "node": "1989:44",
+      "type": "Merkverhaal",
+      "onderwerp": "Ontworpen op Vlieland",
+      "kop": "Ontworpen op Vlieland.",
+      "tekst": "Een mail over de artist-in-residence op het eiland, met de ACE full zip jacket en het artwork van Daan Rietbergen uitgelicht.",
+      "punten": [
+        "Het idee achter de residency op Vlieland",
+        "ACE full zip jacket: 88% nylon, 12% lycra, YKK-rits",
+        "Artwork van Daan Rietbergen op de rug",
+        "Gratis verzending binnen Nederland"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}

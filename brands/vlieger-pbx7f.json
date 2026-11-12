@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "vlieger-pbx7f",
+  "merk": "Vlieger & Vandam",
+  "domein": "vliegervandam.com",
+  "lead_id": "2026-11-12-vliegervandam.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#9E1B22",
+  "kop": "Een idee voor de tassen met reliëf van Vlieger & Vandam",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Vlieger & Vandam, ik heb dit gemaakt omdat jullie reliëf in het leer meteen herkenbaar is, ook in een kleine advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1990:3",
+      "titel": "Elk detail uitgelegd",
+      "waarom": "Een grote foto van de nieuwe Camera Bag Gun met korte labels laat in één oogopslag zien wat je voor €350 krijgt: het reliëf, de riem, het leer en de maat."
+    },
+    {
+      "node": "1990:30",
+      "titel": "Gratis verzending vooraan",
+      "waarom": "Gratis verzending vanaf €100 en invoerrechten die jullie betalen nemen twijfel weg, en jullie eigen foto van de rode tas maakt het merk direct herkenbaar."
+    },
+    {
+      "node": "1990:40",
+      "titel": "Vier kleuren, één vorm",
+      "waarom": "De Soft Mini Gun in rood, taupe, donkerblauw en zwart naast elkaar helpt mensen kiezen, met de prijs er meteen bij."
+    }
+  ],
+  "waarom": {
+    "niche": "tassen",
+    "kop": "Zo groeien tassenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw tassenmerk niet via Google, maar tijdens het scrollen. Bij een tas van een paar honderd euro kijken ze vaak een paar keer voordat ze kopen, dus wie elke week nieuwe advertenties test, blijft in die periode zichtbaar. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende collectie.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij tassenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft O My Bag nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1990:65",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Vlieger & Vandam",
+    "kop": "Welkom bij Vlieger & Vandam",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Carolien en Hein zijn, waar de tassen gemaakt worden en de Camera Bag Gun als eerste kennismaking.",
+    "punten": [
+      "Gemaakt in gespecialiseerde Europese leerateliers",
+      "Leer van Italiaanse en Spaanse looierijen",
+      "Wereldwijde verzending, invoerrechten inbegrepen",
+      "Het verhaal van de Guardian Angel Handbag uit 2002"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1990:65",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Vlieger & Vandam",
+      "kop": "Welkom bij Vlieger & Vandam",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Carolien en Hein zijn, waar de tassen gemaakt worden en de Camera Bag Gun als eerste kennismaking.",
+      "punten": [
+        "Gemaakt in gespecialiseerde Europese leerateliers",
+        "Leer van Italiaanse en Spaanse looierijen",
+        "Wereldwijde verzending, invoerrechten inbegrepen",
+        "Het verhaal van de Guardian Angel Handbag uit 2002"
+      ]
+    },
+    {
+      "node": "1990:95",
+      "type": "Merkverhaal",
+      "onderwerp": "Het verhaal achter het reliëf",
+      "kop": "Het verhaal achter het reliëf",
+      "tekst": "Een mail over hoe het reliëf begon, van de Guardian Angel Handbag tot het MoMA, met de nieuwe Camera Bag Gun uitgelicht en de nieuwe collectie als afsluiter.",
+      "punten": [
+        "Van de Guardian Angel Handbag (2002) naar SAFE in het MoMA (2005)",
+        "Camera Bag Gun: 20 × 14 × 5 cm, afneembare leren riem",
+        "Old nickel hardware en een handig vakje",
+        "Afsluiter met de nieuwe collectie"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}

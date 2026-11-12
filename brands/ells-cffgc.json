@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "ells-cffgc",
+  "merk": "Ell's Petisserie",
+  "domein": "ellspetisserie.nl",
+  "lead_id": "2026-11-12-ellspetisserie.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#DCBF9A",
+  "kop": "Handgebakken hondenkoekjes, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Ellen, ik heb dit gemaakt omdat jullie foto's van de koekjes op die donkere achtergrond zo goed werken, en omdat het verhaal van Lu mensen raakt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1991:3",
+      "titel": "Met de hand gebakken",
+      "waarom": "Laat in één beeld zien wat Ell's anders maakt: Ellen bakt elk koekje zelf in Ulft, plantaardig en zonder gluten."
+    },
+    {
+      "node": "1991:24",
+      "titel": "Lu's XXL Koek",
+      "waarom": "Eén product van dichtbij met de ingrediënten erbij, zodat baasjes meteen zien wat hun hond eet."
+    },
+    {
+      "node": "1991:51",
+      "titel": "Vier soorten sprinkels",
+      "waarom": "De vier kruidenmixen naast elkaar laten zien maakt kiezen makkelijk en past bij mensen die bewust met voeding bezig zijn."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien huisdierenmerken op Instagram.",
+    "tekst": "De meeste baasjes ontdekken een nieuw snackmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die baasjes terugkomen als de zak leeg is.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Edgard & Cooper nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1993:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Ell's, hondgenoot",
+    "kop": "Welkom, hondgenoot",
+    "tekst": "Een welkomstmail die vertelt wie er achter de koekjes zit: Ellen, die alles zelf met de hand bakt in Ulft. Met een korte uitleg over plantaardig, glutenvrij en handgemaakt, en het verhaal van Lu.",
+    "punten": [
+      "Gaat automatisch uit zodra iemand zich inschrijft",
+      "Stelt Ellen en de bakkerij voor",
+      "Eindigt bij het verhaal van Lu en een knop naar het assortiment"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1993:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Ell's, hondgenoot",
+      "kop": "Welkom, hondgenoot",
+      "tekst": "Een welkomstmail die vertelt wie er achter de koekjes zit: Ellen, die alles zelf met de hand bakt in Ulft. Met een korte uitleg over plantaardig, glutenvrij en handgemaakt, en het verhaal van Lu.",
+      "punten": [
+        "Gaat automatisch uit zodra iemand zich inschrijft",
+        "Stelt Ellen en de bakkerij voor",
+        "Eindigt bij het verhaal van Lu en een knop naar het assortiment"
+      ]
+    },
+    {
+      "node": "1993:44",
+      "type": "Productspotlight",
+      "onderwerp": "Van trainer tot megakoek",
+      "kop": "Van trainer tot megakoek",
+      "tekst": "Een assortimentsmail met vier favorieten, elk met prijs en gewicht, en de 273 reviews onderaan als bewijs. Goed voor de periode rond de feestdagen of als tweede mail na inschrijving.",
+      "punten": [
+        "Vier producten met echte prijzen",
+        "Zoete Pieper Pups, zoete aardappelsnacks, pindakaas en de herfstkoek",
+        "4,9 uit 273 reviews als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
