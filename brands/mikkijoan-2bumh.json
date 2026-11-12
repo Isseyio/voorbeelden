@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "mikkijoan-2bumh",
+  "merk": "Mikki Joan",
+  "domein": "mikkijoan.nl",
+  "lead_id": "2026-11-12-mikkijoan.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1F461A",
+  "kop": "Een idee voor Mikki Joan: groeimeters en memoryboxen op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Mikki Joan, ik heb dit gemaakt omdat jullie groeimeters met naam echt een plek in de kinderkamer krijgen, en dat zie je op jullie foto's meteen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2009:4",
+      "titel": "Elke centimeter een herinnering",
+      "waarom": "Een grote kop met kleine foto’s van een kind dat zich meet stopt de duim en laat in één zin zien waar de groeimeter om draait."
+    },
+    {
+      "node": "2009:22",
+      "titel": "Kies jullie hout",
+      "waarom": "Drie houtsoorten met prijs naast elkaar helpen ouders en opa’s en oma’s meteen kiezen, ook als cadeau."
+    },
+    {
+      "node": "2009:42",
+      "titel": "Bewaar de eerste dagen",
+      "waarom": "Labels bij de echte memorybox laten zien wat je krijgt: gravure, eigen ontwerp en drie maten, zonder dat iemand hoeft door te klikken."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien kids- en babymerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw kraamcadeau niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen bij de volgende verjaardag of geboorte.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids- en babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Tadaaz nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2009:68",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Mikki Joan",
+    "kop": "Welkom bij Mikki Joan",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie er achter Mikki Joan zit, wat ze maken en waar ze kunnen beginnen.",
+    "punten": [
+      "Houten cadeaus met naam, handgemaakt in Nederland",
+      "Verzonden in 1–3 werkdagen",
+      "De groeimeter als eerste kennismaking"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2009:68",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Mikki Joan",
+      "kop": "Welkom bij Mikki Joan",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie er achter Mikki Joan zit, wat ze maken en waar ze kunnen beginnen.",
+      "punten": [
+        "Houten cadeaus met naam, handgemaakt in Nederland",
+        "Verzonden in 1–3 werkdagen",
+        "De groeimeter als eerste kennismaking"
+      ]
+    },
+    {
+      "node": "2009:97",
+      "type": "Merkverhaal",
+      "onderwerp": "Wie er achter Mikki Joan zitten",
+      "kop": "Achter Mikki Joan zitten Joost en Anouk",
+      "tekst": "Een mail over het verhaal achter het merk, met de groeimeter met naam uitgelicht en de memoryboxen als afsluiting.",
+      "punten": [
+        "Het verhaal van Joost en Anouk",
+        "Groeimeter: naam, 150 of 200 cm, drie houtsoorten",
+        "Memoryboxen voor het geboortekaartje"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
