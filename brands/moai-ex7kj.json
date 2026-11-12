@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "moai-ex7kj",
+  "merk": "MOAI",
+  "domein": "moaithebrand.com",
+  "lead_id": "2026-11-11-moaithebrand.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#EB7823",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor MOAI",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team MOAI, ik heb dit gemaakt omdat jullie boards als complete set komen, met een trolleyrugzak erbij. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1929:3",
+      "titel": "Kies je kleur",
+      "waarom": "Twee kleuren naast elkaar laten mensen al kiezen voordat ze op de site zijn."
+    },
+    {
+      "node": "1929:21",
+      "titel": "Het water belt",
+      "waarom": "Een speels beeld valt op tussen de winterse posts en zet de complete set centraal."
+    },
+    {
+      "node": "1929:32",
+      "titel": "Testwinnaar met een 8,5",
+      "waarom": "Een onafhankelijk oordeel van Kassa geeft twijfelaars een concrete reden om te kopen."
+    }
+  ],
+  "waarom": {
+    "niche": "sport & outdoor",
+    "kop": "Zo groeien sport- en outdoormerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw SUP-merk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers in het voorjaar terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sport- en outdoormerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "60+",
+        "label": "advertenties heeft GONG nu tegelijk live in Nederland"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1929:40",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij MOAI",
+    "kop": "Welkom bij MOAI",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, wat er in elke set zit en hoe snel een board de deur uit gaat.",
+    "punten": [
+      "Herokaart met het Sand-board uit jullie eigen packshots",
+      "Alles zit in de tas: pomp, trolleyrugzak, peddel en vin",
+      "Bestellen vóór 14:00 en 3 jaar garantie als laatste duwtje"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1929:40",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij MOAI",
+      "kop": "Welkom bij MOAI",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, wat er in elke set zit en hoe snel een board de deur uit gaat.",
+      "punten": [
+        "Herokaart met het Sand-board uit jullie eigen packshots",
+        "Alles zit in de tas: pomp, trolleyrugzak, peddel en vin",
+        "Bestellen vóór 14:00 en 3 jaar garantie als laatste duwtje"
+      ]
+    },
+    {
+      "node": "1929:66",
+      "type": "Merkverhaal",
+      "onderwerp": "Opgegroeid op het water",
+      "kop": "Opgegroeid op het water",
+      "tekst": "Het verhaal van importeur sinds 2009 naar eigen merk in 2017, met de Yoga SUP uitgelicht en de Kassa-test als afsluiter.",
+      "punten": [
+        "Jullie eigen foto bij de kliffen als hero",
+        "De Yoga SUP 10'8 met vier kenmerken van de productpagina",
+        "Afsluiter met de 8,5 uit de SUP-test van Kassa"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}

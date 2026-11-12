@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "junelie-39829",
+  "merk": "Junelie",
+  "domein": "junelie.nl",
+  "lead_id": "2026-11-04-junelie.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A88B6E",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor de Junelie Wikkelzak",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Junelie, ik heb dit gemaakt omdat de Wikkelzak een probleem oplost dat elke ouder in de winter kent: de dikke jas in de autostoel. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1928:3",
+      "titel": "Colorful Friday",
+      "waarom": "Jullie echte actie tot 30 november groot in beeld, met de lachende baby in Lovely Pink eronder: prijs en product in één oogopslag."
+    },
+    {
+      "node": "1928:14",
+      "titel": "Alles in één",
+      "waarom": "Labels op de foto laten in een paar seconden zien wat de Wikkelzak anders maakt dan een gewone voetenzak."
+    },
+    {
+      "node": "1928:38",
+      "titel": "4,8 uit 32 reviews",
+      "waarom": "Jullie reviewscore en de belangrijkste voordelen als kaartjes over een echte buitenfoto: vertrouwen voor ouders die jullie nog niet kennen."
+    }
+  ],
+  "waarom": {
+    "niche": "baby",
+    "kop": "Zo groeien babymerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw babymerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die ouders terugkomen, bijvoorbeeld voor een kraamcadeau.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Kraam-cadeau.nl nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1928:59",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Junelie (en je 5% korting)",
+    "kop": "Welkom bij Junelie",
+    "tekst": "Een warme welkomstmail die Marloes en Pauline voorstelt, laat zien waarom de Wikkelzak werkt en de 5% korting van de pop-up meteen bruikbaar maakt.",
+    "punten": [
+      "Het verhaal van twee moeders als opening",
+      "Drie redenen: veilig in de autostoel, 1 item in plaats van 7, past overal",
+      "5% welkomstkorting met een duidelijke knop"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1928:59",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Junelie (en je 5% korting)",
+      "kop": "Welkom bij Junelie",
+      "tekst": "Een warme welkomstmail die Marloes en Pauline voorstelt, laat zien waarom de Wikkelzak werkt en de 5% korting van de pop-up meteen bruikbaar maakt.",
+      "punten": [
+        "Het verhaal van twee moeders als opening",
+        "Drie redenen: veilig in de autostoel, 1 item in plaats van 7, past overal",
+        "5% welkomstkorting met een duidelijke knop"
+      ]
+    },
+    {
+      "node": "1928:87",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom we de Junelie Wikkelzak bedachten",
+      "kop": "Bedacht door twee moeders",
+      "tekst": "Een mail over het ontstaan van Junelie, met de onderdelen van de Wikkelzak uitgelegd en de vier edities als afsluiting.",
+      "punten": [
+        "June en Charlie: het verhaal achter de naam",
+        "Capuchon, wantjes, openingen en opbergvak in één beeld",
+        "Alle edities met de vanaf-prijs"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}

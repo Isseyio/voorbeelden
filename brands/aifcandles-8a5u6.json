@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "aifcandles-8a5u6",
+  "merk": "Aifcandles",
+  "domein": "aifcandles.nl",
+  "lead_id": "2026-11-11-aifcandles.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C8582F",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor de LED kaarsen van Aifcandles",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Aifcandles, ik heb dit gemaakt omdat jullie LED kaarsen van echte wax precies passen bij de donkere maanden en de cadeautijd. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1934:3",
+      "titel": "Koop geen gewone kaars",
+      "waarom": "Een tegendraadse kop laat mensen stoppen met scrollen, en de drie vinkjes leggen in één blik uit wat jullie kaars anders maakt."
+    },
+    {
+      "node": "1934:20",
+      "titel": "Een cadeau met sfeer",
+      "waarom": "Handgeschreven pijlen laten zien wat er in de Wildflower-set zit, met de echte actieprijs erbij: sterk in de cadeauweken."
+    },
+    {
+      "node": "1934:38",
+      "titel": "Gezellig licht belt aan",
+      "waarom": "Een herkenbaar belscherm als speelse knipoog naar de afstandsbediening: opvallend tussen de gewone kaarsadvertenties."
+    }
+  ],
+  "waarom": {
+    "niche": "kaarsen",
+    "kop": "Zo groeien kaarsenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kaarsenmerk niet via Google, maar tijdens het scrollen, zeker richting de feestdagen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor het volgende cadeau.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kaarsenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "35+",
+        "label": "advertenties heeft DeluxeHomeart nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1934:50",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Aifcandles, hier is je 10%",
+    "kop": "Welkom bij Aifcandles",
+    "tekst": "Een welkomstmail die Evie en het atelier voorstelt, uitlegt waarom LED van echte wax werkt en de 10% van de inschrijving meteen bruikbaar maakt.",
+    "punten": [
+      "Het verhaal van Evie als opening",
+      "Drie redenen: flikkerende vlam, timer en remote, veilig in huis",
+      "10% welkomstkorting en gratis verzending vanaf €60"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1934:50",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Aifcandles, hier is je 10%",
+      "kop": "Welkom bij Aifcandles",
+      "tekst": "Een welkomstmail die Evie en het atelier voorstelt, uitlegt waarom LED van echte wax werkt en de 10% van de inschrijving meteen bruikbaar maakt.",
+      "punten": [
+        "Het verhaal van Evie als opening",
+        "Drie redenen: flikkerende vlam, timer en remote, veilig in huis",
+        "10% welkomstkorting en gratis verzending vanaf €60"
+      ]
+    },
+    {
+      "node": "1934:78",
+      "type": "Assortimentsmail",
+      "onderwerp": "Kies jouw kleur voor de feestdagen",
+      "kop": "Kies jouw kleur voor de feestdagen",
+      "tekst": "Een assortimentsmail met vier LED kaarsen en sets naast elkaar, elk met prijs en een eigen knop, als opmaat naar de cadeaumaand.",
+      "punten": [
+        "Burgundy Burst, Lilac Sand, Hartjes Pink en de Wildflower-set",
+        "Prijs en knop per product",
+        "Giftbox als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
