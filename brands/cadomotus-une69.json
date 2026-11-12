@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "cadomotus-une69",
+  "merk": "Cádomotus",
+  "domein": "cadomotus.com",
+  "lead_id": "2026-11-12-cadomotus.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Gemaakt voor de wissel, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Cádomotus, ik heb dit gemaakt omdat jullie schoenen draaien om die ene snelle wissel, en dat laat zich goed zien in een korte advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1849:4",
+      "titel": "Lange afstand of sprint?",
+      "waarom": "Twee schoenen naast elkaar helpen een triathleet snel kiezen tussen draaiknop en klittenband."
+    },
+    {
+      "node": "1849:28",
+      "titel": "Eén draai en je rijdt",
+      "waarom": "Een close-up van de draaiknop met drie harde cijfers laat zien waarom de Chronos zijn prijs waard is."
+    },
+    {
+      "node": "1849:49",
+      "titel": "Een snelle T1 belt",
+      "waarom": "Een speels belscherm valt op tussen de trainingsvideo's en zet de blauwe Chronos groot in beeld."
+    }
+  ],
+  "waarom": {
+    "niche": "sport & outdoor",
+    "kop": "Zo groeien sportmerken op Instagram.",
+    "tekst": "De meeste triathleten ontdekken nieuwe uitrusting niet via Google, maar tijdens het scrollen tussen trainingen door. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende race.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sportmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij sportmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1849:62",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Cádomotus",
+    "kop": "Welkom bij Cádomotus",
+    "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waarom triathleten voor de carbon shell kiezen en hoe ze hun maat vinden.",
+    "punten": [
+      "Carbon shell: 4× stijver en 3 mm dunner",
+      "Thuis met warmte op maat te vormen",
+      "Hulp bij de maat met de voetscan"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1849:62",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Cádomotus",
+      "kop": "Welkom bij Cádomotus",
+      "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waarom triathleten voor de carbon shell kiezen en hoe ze hun maat vinden.",
+      "punten": [
+        "Carbon shell: 4× stijver en 3 mm dunner",
+        "Thuis met warmte op maat te vormen",
+        "Hulp bij de maat met de voetscan"
+      ]
+    },
+    {
+      "node": "1849:88",
+      "type": "Merkverhaal",
+      "onderwerp": "Van schaatsijs naar de wissel",
+      "kop": "Van schaatsijs naar de wissel",
+      "tekst": "Het verhaal achter de shell: begonnen in 2006 met schaatsen, nu in triathlonschoenen uit Apeldoorn. Daarna de Worldcup T2 uitgelicht.",
+      "punten": [
+        "Merkverhaal sinds 2006",
+        "Worldcup T2 met vier kenmerken",
+        "Afsluiting met één duidelijke knop"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
