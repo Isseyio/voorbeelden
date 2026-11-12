@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "roobol-a3m56",
+  "merk": "DENISE ROOBOL",
+  "domein": "deniseroobol.com",
+  "lead_id": "2026-11-12-deniseroobol.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4A4038",
+  "kop": "Vegan tassen uit Rotterdam, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team DENISE ROOBOL, ik heb dit gemaakt omdat jullie straatfoto's van de Mini Rosie nu al aanvoelen als advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1911:3",
+      "titel": "Ruim van binnen",
+      "waarom": "Laat in één beeld zien wat er in de Mini Rosie past, met de materialen als kleine labels erbij."
+    },
+    {
+      "node": "1911:44",
+      "titel": "Welkomstkorting",
+      "waarom": "Jullie bestaande 5% voor nieuwe inschrijvers als duidelijk aanbod, boven een sterke modelfoto."
+    },
+    {
+      "node": "1911:56",
+      "titel": "Eén tas voor alles",
+      "waarom": "Een typografische kop met jullie straatfoto's maakt de tas herkenbaar als tas voor elke dag."
+    }
+  ],
+  "waarom": {
+    "niche": "tassen",
+    "kop": "Zo groeien tassenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw tassenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij tassenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft O My Bag nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1914:3",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de DR club",
+    "kop": "Welkom bij de DR club",
+    "tekst": "Een rustige welkomstmail met je 5% welkomstkorting, wat jullie tassen vegan maakt en de Mini Rosie als eerste tas om te bekijken.",
+    "punten": [
+      "5% welkomstkorting voor de eerste bestelling",
+      "Vegan microfiber leather, voering van gerecyclede PET-flessen, PETA-approved",
+      "Mini Rosie: handtas of crossbody"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1914:3",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de DR club",
+      "kop": "Welkom bij de DR club",
+      "tekst": "Een rustige welkomstmail met je 5% welkomstkorting, wat jullie tassen vegan maakt en de Mini Rosie als eerste tas om te bekijken.",
+      "punten": [
+        "5% welkomstkorting voor de eerste bestelling",
+        "Vegan microfiber leather, voering van gerecyclede PET-flessen, PETA-approved",
+        "Mini Rosie: handtas of crossbody"
+      ]
+    },
+    {
+      "node": "1914:41",
+      "type": "Merkverhaal",
+      "onderwerp": "Ontworpen in Rotterdam, vegan sinds dag één",
+      "kop": "Ontworpen in Rotterdam, vegan sinds dag één",
+      "tekst": "Het verhaal van Denise, van de kunstacademie in Rotterdam tot de Mini Rosie, met de materialen uitgelicht.",
+      "punten": [
+        "Gestart in 2013, kort na de kunstacademie",
+        "De Mini Rosie met vier kenmerken",
+        "Afsluiting met de studiofoto van Denise"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}

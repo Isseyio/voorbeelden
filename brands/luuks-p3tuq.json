@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "luuks-p3tuq",
+  "merk": "Luuk's Coffee",
+  "domein": "luukscoffee.com",
+  "lead_id": "2026-11-12-luukscoffee.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#63758B",
+  "kop": "Drie nieuwe invalshoeken voor Luuk's Coffee.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Luuk's Coffee, ik heb dit gemaakt omdat jullie koffie eerst in de cafés wordt getest, en dat verhaal hoort ook online. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1912:2",
+      "titel": "Vers gebrand",
+      "waarom": "Eén groot woord en een zoekbalk vertellen in een seconde wat jullie doen, met de Line Up als duidelijk instapproduct."
+    },
+    {
+      "node": "1912:16",
+      "titel": "Je dagelijkse kop",
+      "waarom": "De weekstrip laat zien dat koffie elke dag terugkomt, precies het verhaal achter een abonnement."
+    },
+    {
+      "node": "1912:43",
+      "titel": "10% op je eerste zak",
+      "waarom": "Jullie bestaande code FIRST bovenaan, met een echte foto uit het café eronder, geeft nieuwe mensen een reden om nu te bestellen."
+    }
+  ],
+  "waarom": {
+    "niche": "koffie",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe koffiebrander niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag. Omdat koffie steeds opraakt, zorgt een vaste nieuwsbrief ervoor dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1914:86",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Luuk's, hier is je code",
+    "kop": "Welkom bij Luuk's.",
+    "tekst": "Een welkomstmail rond jullie bestaande code FIRST, zodat de 10% korting bij een inschrijving hoort en niet alleen in de balk bovenaan de site staat.",
+    "punten": [
+      "Code FIRST groot in beeld",
+      "Drie favorieten: House Blend, Ethiopia Filter en Kenya Filter",
+      "Luuk's Line Up als instapbundel"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1914:86",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Luuk's, hier is je code",
+      "kop": "Welkom bij Luuk's.",
+      "tekst": "Een welkomstmail rond jullie bestaande code FIRST, zodat de 10% korting bij een inschrijving hoort en niet alleen in de balk bovenaan de site staat.",
+      "punten": [
+        "Code FIRST groot in beeld",
+        "Drie favorieten: House Blend, Ethiopia Filter en Kenya Filter",
+        "Luuk's Line Up als instapbundel"
+      ]
+    },
+    {
+      "node": "1914:144",
+      "type": "Merkverhaal",
+      "onderwerp": "Eerst in het café, dan in de zak",
+      "kop": "Eerst in het café, dan in de zak.",
+      "tekst": "Een mail die vertelt hoe jullie werken: koffie die in de twee cafés wordt getest en elke week in kleine batches in Amsterdam wordt gebrand.",
+      "punten": [
+        "Verhaal van de cafés aan de Noordermarkt en de Vijzelgracht",
+        "House Blend met herkomst, proces, branding en smaak",
+        "Afsluiting met de zetgids"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}

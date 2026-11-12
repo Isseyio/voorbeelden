@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "lisamarin-5jcfb",
+  "merk": "Lisa Marin",
+  "domein": "lisamarin.com",
+  "lead_id": "2026-11-12-lisamarin.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1A1A1A",
+  "kop": "Vegan tassen van appelschil, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Lisa Marin, ik heb dit gemaakt omdat een tas van appelschil die met de hand in Italië wordt gemaakt een verhaal is dat mensen tijdens het scrollen willen zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1916:3",
+      "titel": "De Luna, vanaf €470",
+      "waarom": "Een grote sfeerfoto met prijs en logo laat in één blik zien wat de Luna is en wat hij kost."
+    },
+    {
+      "node": "1916:12",
+      "titel": "Zwart of mocca",
+      "waarom": "Twee kleuren naast elkaar maken de keuze makkelijk en laten zien dat de Lava er in meer uitvoeringen is."
+    },
+    {
+      "node": "1916:27",
+      "titel": "Gemaakt van appels",
+      "waarom": "Korte labels op de echte productfoto leggen uit waarom deze tas vegan is, zonder lange tekst."
+    }
+  ],
+  "waarom": {
+    "niche": "tassen",
+    "kop": "Zo groeien tassenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw tassenmerk niet via Google, maar tijdens het scrollen op Instagram. Bij tassen vanaf een paar honderd euro kijken mensen vaak een paar keer voordat ze kopen, dus merken die elke week nieuwe advertenties testen blijven in beeld. Een welkomstmail en een vaste nieuwsbrief zorgen dat die interesse niet verloren gaat.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij tassen- en accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft O My Bag nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1918:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Lisa Marin, hier is je 10% korting",
+      "kop": "Make no concessions.",
+      "tekst": "Fijn dat je er bent. Onze tassen worden met de hand gemaakt in Italië, van appelschil in plaats van leer. Als welkom krijg je 10% korting op je eerste tas.",
+      "punten": [
+        "Appelschil: plantaardig en 100% vegan",
+        "Handgemaakt in een Italiaans atelier",
+        "Gratis verzending op alle tassen in NL"
+      ]
+    },
+    {
+      "node": "1918:53",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom wij tassen van appels maken",
+      "kop": "Waarom appels?",
+      "tekst": "Lisa Marijn Eggen begon Lisa Marin in 2020 in Amsterdam, samen met haar zus. Elke tas wordt met de hand gemaakt in Italië, met een buitenkant van appelschil die overblijft uit de voedselindustrie.",
+      "punten": [
+        "Buitenkant van appelschil",
+        "Voering van gerecycled en biologisch katoen",
+        "4,5× minder CO₂ dan dierlijk leer (levenscyclusanalyse van de Pam)"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12",
+  "nieuwsbrief": {
+    "node": "1918:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Lisa Marin, hier is je 10% korting",
+    "kop": "Make no concessions.",
+    "tekst": "Fijn dat je er bent. Onze tassen worden met de hand gemaakt in Italië, van appelschil in plaats van leer. Als welkom krijg je 10% korting op je eerste tas.",
+    "punten": [
+      "Appelschil: plantaardig en 100% vegan",
+      "Handgemaakt in een Italiaans atelier",
+      "Gratis verzending op alle tassen in NL"
+    ]
+  }
+}
