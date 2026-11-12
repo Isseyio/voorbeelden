@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "bain-9uwbs",
+  "merk": "BAIN Brewing",
+  "domein": "bainbrewing.com",
+  "lead_id": "2026-11-12-bainbrewing.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6E3814",
+  "kop": "Kombucha uit Rotterdam, elke week opnieuw in beeld.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team BAIN, ik heb dit gemaakt omdat ik het mooi vind dat jullie elke smaak zelf ontwikkelen, van jasmijnthee uit Fujian tot koffie van Shokunin. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1833:2",
+      "titel": "Gebrouwen met",
+      "waarom": "Laat per smaak zien waar de thee of koffie vandaan komt, zodat nieuwe mensen meteen snappen waarom BAIN anders smaakt."
+    },
+    {
+      "node": "1832:25",
+      "titel": "Jasmijn of oolong",
+      "waarom": "Twee smaken naast elkaar maken kiezen makkelijk en nodigen uit om allebei te proberen."
+    },
+    {
+      "node": "1833:25",
+      "titel": "Proef drie smaken",
+      "waarom": "De Mix Box is een laagdrempelige eerste bestelling voor mensen die BAIN nog niet kennen."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien drankmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw drankje niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende box.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij drankmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft YAYA Kombucha nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1835:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij BAIN",
+    "kop": "Welkom bij BAIN",
+    "tekst": "Fijn dat je er bent. Wij brouwen kombucha in Rotterdam, biologisch en niet gepasteuriseerd, met smaken die we zelf bedenken.",
+    "punten": [
+      "Alleen biologische ingrediënten",
+      "Niet gepasteuriseerd, dus vol smaak",
+      "Flessen terugsturen levert korting op",
+      "Begin met de Ginger Lemon Shot, vanaf €4,00"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1835:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij BAIN",
+      "kop": "Welkom bij BAIN",
+      "tekst": "Fijn dat je er bent. Wij brouwen kombucha in Rotterdam, biologisch en niet gepasteuriseerd, met smaken die we zelf bedenken.",
+      "punten": [
+        "Alleen biologische ingrediënten",
+        "Niet gepasteuriseerd, dus vol smaak",
+        "Flessen terugsturen levert korting op",
+        "Begin met de Ginger Lemon Shot, vanaf €4,00"
+      ]
+    },
+    {
+      "node": "1835:38",
+      "type": "Merkverhaal",
+      "onderwerp": "Het begon met 10 liter per week",
+      "kop": "Het begon met 10 liter per week",
+      "tekst": "Een café-eigenaar vroeg Dusty waar hij zijn kombucha haalde. \"Ik maak het thuis,\" zei hij. Zo begon eind 2018 BAIN Brewing.",
+      "punten": [
+        "Uitgelicht: Coffee Kombucha met Ethiopische bonen, licht gebrand door Shokunin",
+        "Traditionele fermentatie en biologische ingrediënten",
+        "Flessen terug, korting erbij"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
