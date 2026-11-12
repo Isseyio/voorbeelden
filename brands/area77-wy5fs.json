@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "area77-wy5fs",
+  "merk": "AREA77 Interior",
+  "domein": "area77.nl",
+  "lead_id": "2026-11-12-area77.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5B3F2B",
+  "kop": "Een idee voor de tv-wanden van AREA77",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team AREA77, ik heb dit gemaakt omdat jullie wanden met haard op de foto's meteen een woonkamer neerzetten. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1983:3",
+      "titel": "Elk detail uitgelegd",
+      "waarom": "Een close-up van de Flatbox Solo met Haard met korte labels laat zien wat je voor € 3.799 krijgt: plek voor de tv, een 60 inch haard en maar 25 cm diep."
+    },
+    {
+      "node": "1983:29",
+      "titel": "Met of zonder haard",
+      "waarom": "Twee echte opstellingen naast elkaar helpen mensen kiezen, en de prijzen erbij nemen twijfel weg voordat ze doorklikken."
+    },
+    {
+      "node": "1983:50",
+      "titel": "Maak een statement",
+      "waarom": "Jullie eigen kop van de homepage met foto's uit de werkplaats, de kleurstalen en de showroom, plus een uitnodiging om langs te komen."
+    }
+  ],
+  "waarom": {
+    "niche": "interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw interieurmerk niet via Google, maar tijdens het scrollen. Bij een tv-wand van een paar duizend euro kijken ze vaak een paar keer voordat ze een afspraak maken, dus wie elke week nieuwe advertenties test, blijft in die periode zichtbaar. Een vaste nieuwsbrief houdt het contact warm tot ze klaar zijn om te kiezen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Tv-kasten.nl nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1984:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij AREA77",
+    "kop": "Welkom bij AREA77",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie AREA77 is, hoe een tv-wand op maat tot stand komt en de kleurstalen als eerste stap.",
+    "punten": [
+      "Tv-wanden en wandkasten uit de eigen werkplaats",
+      "Op maat: breedte, diepte en kleur",
+      "Eerst een tekening, dan pas maken",
+      "Kleurstalen bestellen en thuis bekijken"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1984:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij AREA77",
+      "kop": "Welkom bij AREA77",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie AREA77 is, hoe een tv-wand op maat tot stand komt en de kleurstalen als eerste stap.",
+      "punten": [
+        "Tv-wanden en wandkasten uit de eigen werkplaats",
+        "Op maat: breedte, diepte en kleur",
+        "Eerst een tekening, dan pas maken",
+        "Kleurstalen bestellen en thuis bekijken"
+      ]
+    },
+    {
+      "node": "1984:34",
+      "type": "Merkverhaal",
+      "onderwerp": "Zo maken we jouw tv-wand",
+      "kop": "Ontworpen en gemaakt in Hillegom",
+      "tekst": "Een mail over de werkplaats en het idee erachter, met de Flatbox Solo met Haard uitgelicht en een uitnodiging voor de showroom.",
+      "punten": [
+        "Een kijkje in de werkplaats",
+        "Flatbox Solo met Haard: 180 × 200 cm, 25 cm diep",
+        "Levertijd circa 8 tot 10 weken",
+        "Showroom open van maandag tot en met zaterdag"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
