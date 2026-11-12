@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "ikkai-8v57h",
+  "merk": "IKKAI Ceramics",
+  "domein": "ikkaiceramics.nl",
+  "lead_id": "2026-11-11-ikkaiceramics.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3E4A2E",
+  "kop": "Handgemaakte keramiek, elke week in beeld.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team IKKAI, ik heb dit gemaakt omdat jullie shop updates met early access voor de mailinglijst zich heel goed lenen voor advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1903:4",
+      "titel": "Elke kom gedraaid in Beverwijk",
+      "waarom": "Een grote kop met kleine foto's van de draaischijf en de kom vertelt in één blik dat alles met de hand gemaakt is."
+    },
+    {
+      "node": "1904:2",
+      "titel": "Detail met callouts",
+      "waarom": "De matchakom van dichtbij met vier korte labels laat zien waarom hij bijzonder is, en de datum van de shop update geeft een reden om nu in te schrijven."
+    },
+    {
+      "node": "1904:36",
+      "titel": "Je nieuwe matchakom belt",
+      "waarom": "Een speelse belscherm-advertentie die naar de shop update van 29 november leidt en mensen op de mailinglijst zet voor early access."
+    }
+  ],
+  "waarom": {
+    "niche": "keramiek & servies",
+    "kop": "Zo groeien keramiekmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw keramiekmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Bij werken met shop updates zorgt een vaste nieuwsbrief dat die kopers er bij de volgende update als eerste bij zijn.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij merken in wonen en keuken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Motel a Miio nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1904:49",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom op de lijst",
+    "kop": "Welkom op de lijst",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers die meteen uitlegt hoe early access werkt, zodat ze bij de volgende shop update klaarstaan.",
+    "punten": [
+      "Een week vooraf een mail, de avond ervoor een preview, een dag vooraf het wachtwoord",
+      "Kort waarom er telkens maar kleine aantallen online komen",
+      "Elke kom begint op de draaischijf, met een link naar hoe Abel werkt"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1904:49",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom op de lijst",
+      "kop": "Welkom op de lijst",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers die meteen uitlegt hoe early access werkt, zodat ze bij de volgende shop update klaarstaan.",
+      "punten": [
+        "Een week vooraf een mail, de avond ervoor een preview, een dag vooraf het wachtwoord",
+        "Kort waarom er telkens maar kleine aantallen online komen",
+        "Elke kom begint op de draaischijf, met een link naar hoe Abel werkt"
+      ]
+    },
+    {
+      "node": "1904:84",
+      "type": "Merkverhaal",
+      "onderwerp": "Twintig jaar chef-kok, nu aan de draaischijf",
+      "kop": "Twintig jaar chef-kok, nu aan de draaischijf",
+      "tekst": "Het verhaal van Abel, van de keuken naar zijn thuisstudio in Beverwijk, met de Faceted Matcha Bowl uitgelicht en de privélessen als afsluiting.",
+      "punten": [
+        "Merkverhaal over Abel en zijn studio",
+        "Faceted Matcha Bowl met vier labels: draaischijf, eigen glazuur, schenktuit, uniek",
+        "Afsluiting met de privélessen pottenbakken"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}

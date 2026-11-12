@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "yumeyume-hqgyc",
+  "merk": "YUME YUME",
+  "domein": "yumeyume.eu",
+  "lead_id": "2026-11-05-yumeyume.eu",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1C1C1C",
+  "kop": "Drie advertenties voor de dream builders.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team YUME YUME, ik heb dit gemaakt omdat jullie hakken zelf het verhaal vertellen, van de bol onder de Ball boot tot het hart onder de Love boot. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1905:5",
+      "titel": "Voor wie durft te dromen",
+      "waarom": "Jullie eigen gedachte over dream builders als grote kop met catwalkbeelden ertussen valt op tussen gewone productfoto's."
+    },
+    {
+      "node": "1905:18",
+      "titel": "Twee manieren",
+      "waarom": "Twee modellen naast elkaar met prijs laten in één blik zien hoe breed de collectie is, van statement tot elke dag."
+    },
+    {
+      "node": "1905:37",
+      "titel": "Je nieuwe hak belt",
+      "waarom": "Een inkomende oproep is een speels format waardoor mensen stoppen met scrollen, en de harthak is meteen herkenbaar."
+    }
+  ],
+  "waarom": {
+    "niche": "schoenen",
+    "kop": "Zo groeien schoenenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw schoenenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen bij elke nieuwe collectie.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij schoenenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Shabbies Amsterdam nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1908:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij YUME YUME",
+    "kop": "Welkom bij YUME YUME",
+    "tekst": "Een welkomstmail die nieuwe inschrijvers meteen laat zien waar het merk voor staat: eigen vormen, Amsterdam en de catwalk.",
+    "punten": [
+      "De Ball boot als eerste beeld",
+      "Drie kenmerken: ontworpen in Amsterdam, sinds 2018, wereldwijd verkrijgbaar",
+      "Catwalkblok met de Flora Fantasia-show"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1908:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij YUME YUME",
+      "kop": "Welkom bij YUME YUME",
+      "tekst": "Een welkomstmail die nieuwe inschrijvers meteen laat zien waar het merk voor staat: eigen vormen, Amsterdam en de catwalk.",
+      "punten": [
+        "De Ball boot als eerste beeld",
+        "Drie kenmerken: ontworpen in Amsterdam, sinds 2018, wereldwijd verkrijgbaar",
+        "Catwalkblok met de Flora Fantasia-show"
+      ]
+    },
+    {
+      "node": "1908:52",
+      "type": "Productspotlight",
+      "onderwerp": "Vier ontwerpen om in te stappen",
+      "kop": "Stap erin.",
+      "tekst": "Een assortimentsmail met vier modellen, elk met prijs en knop, zodat lezers direct doorklikken naar het model dat bij ze past.",
+      "punten": [
+        "Ball boot €690, Love boot €595, Truck slide €290, Camp shoe low €250",
+        "Catwalkfoto als opener",
+        "Afsluiting met Amsterdam Fashion Week"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
