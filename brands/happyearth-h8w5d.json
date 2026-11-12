@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "happyearth-h8w5d",
+  "merk": "Happy Earth",
+  "domein": "happyearthcare.com",
+  "lead_id": "2026-11-11-happyearthcare.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#008655",
+  "kop": "100% natuurlijk, nu ook in je advertenties.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Happy Earth, ik heb dit gemaakt omdat jullie roze deo tussen de bloemen precies laat zien waar jullie voor staan. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1814:4",
+      "titel": "Natuurlijk fris",
+      "waarom": "Een echte foto van de deo in de hand met drie duidelijke kenmerken voelt eerlijk en is in één seconde te lezen."
+    },
+    {
+      "node": "1814:23",
+      "titel": "Geen aluminium",
+      "waarom": "Een grote, eerlijke kop beantwoordt meteen de vraag die mensen bij een natuurlijke deo hebben: werkt het wel?"
+    },
+    {
+      "node": "1814:46",
+      "titel": "Van top tot teen",
+      "waarom": "Douchegel en deo in dezelfde geur naast elkaar maken het makkelijk om meer dan één product mee te nemen."
+    }
+  ],
+  "waarom": {
+    "niche": "verzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw verzorgingsmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun deo of douchegel op is.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15+",
+        "label": "advertenties heeft Beesha nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1814:66",
+    "type": "Actiemail",
+    "onderwerp": "Gratis handzeep bij je bestelling",
+    "kop": "Gratis handzeep bij elke bestelling",
+    "tekst": "Een actiemail rond jullie lopende actie: bij elke bestelling een handzeep naar keuze erbij, met de drie redenen waarom klanten voor Happy Earth kiezen.",
+    "punten": [
+      "Gratis handzeep naar keuze bij elke bestelling",
+      "100% natuurlijk, gecertificeerd door NATRUE en COSMOS",
+      "Vegan en zonder microplastics"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1814:66",
+      "type": "Actiemail",
+      "onderwerp": "Gratis handzeep bij je bestelling",
+      "kop": "Gratis handzeep bij elke bestelling",
+      "tekst": "Een actiemail rond jullie lopende actie: bij elke bestelling een handzeep naar keuze erbij, met de drie redenen waarom klanten voor Happy Earth kiezen.",
+      "punten": [
+        "Gratis handzeep naar keuze bij elke bestelling",
+        "100% natuurlijk, gecertificeerd door NATRUE en COSMOS",
+        "Vegan en zonder microplastics"
+      ]
+    },
+    {
+      "node": "1814:92",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom wij Happy Earth begonnen",
+      "kop": "Verzorging waar je blij van wordt",
+      "tekst": "Een merkverhaal met Niels en Martijn, de Lavender Ylang-douchegel uitgelicht en een afsluiting voor het hele gezin, van deo tot Baby & Kids.",
+      "punten": [
+        "Het verhaal van Niels en Martijn",
+        "Douchegel Lavender Ylang uitgelicht",
+        "Van deo en douchegel tot Baby & Kids"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}

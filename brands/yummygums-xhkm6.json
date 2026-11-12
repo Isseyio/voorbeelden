@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "yummygums-xhkm6",
+  "merk": "Yummygums",
+  "domein": "yummygums.com",
+  "lead_id": "2026-11-11-yummygums.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4B148B",
+  "kop": "Supplementen die je wél volhoudt, in drie nieuwe advertenties.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Yummygums, ik heb dit gemaakt omdat jullie een heel herkenbare stijl hebben: elke pot een eigen kleur en echte mensen met jullie gummies in de hand. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1811:4",
+      "titel": "Wél volhouden",
+      "waarom": "Een echte klantfoto met de belangrijkste kenmerken eromheen voelt als een aanbeveling en niet als reclame."
+    },
+    {
+      "node": "1811:21",
+      "titel": "Twee per dag",
+      "waarom": "Het dagritme laten zien maakt duidelijk hoe makkelijk het is, en de prijs per pot haalt twijfel weg."
+    },
+    {
+      "node": "1811:43",
+      "titel": "Voor elke behoefte",
+      "waarom": "Vier potten in hun eigen kleur plus de vitaminetest helpen mensen die nog niet weten welke gummie bij ze past."
+    }
+  ],
+  "waarom": {
+    "niche": "supplementen",
+    "kop": "Zo groeien supplementenmerken op Instagram.",
+    "tekst": "Supplementen koop je steeds opnieuw, dus de eerste aankoop is pas het begin. Merken die elke week nieuwe advertenties testen vinden steeds nieuwe kopers, en een goede welkomstmail en vaste nieuwsbrief zorgen dat die kopers hun volgende pot ook bij jullie halen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij supplementenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij supplementenmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1811:68",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Yummygums, je cadeautje staat klaar",
+    "kop": "Welkom bij Yummygums",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: waar Yummygums voor staat, waarom de gummies suikervrij en vegan zijn, en het cadeautje bij de eerste bestelling.",
+    "punten": [
+      "Supplementen die je wél volhoudt",
+      "Suikervrij, vegan en geproduceerd in Europa",
+      "Een cadeautje bij de eerste bestelling"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1811:68",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Yummygums, je cadeautje staat klaar",
+      "kop": "Welkom bij Yummygums",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: waar Yummygums voor staat, waarom de gummies suikervrij en vegan zijn, en het cadeautje bij de eerste bestelling.",
+      "punten": [
+        "Supplementen die je wél volhoudt",
+        "Suikervrij, vegan en geproduceerd in Europa",
+        "Een cadeautje bij de eerste bestelling"
+      ]
+    },
+    {
+      "node": "1811:99",
+      "type": "Assortimentsmail",
+      "onderwerp": "Welke gummie past bij jou?",
+      "kop": "Vind jouw dagelijkse gummie",
+      "tekst": "Een mail die helpt kiezen: de vitaminetest, vier populaire gummies met prijs en de reviewscore van jullie klanten.",
+      "punten": [
+        "Doe de vitaminetest",
+        "Multi, Hair, Omega-3 Vegan en Kids Multi",
+        "Gemiddeld een 4,7 uit 6.355 reviews"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
