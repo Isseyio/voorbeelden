@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "roeloffs-6a9us",
+  "merk": "Roeloffs Candles & Home Decor",
+  "domein": "roeloffscandles.nl",
+  "lead_id": "2026-11-12-roeloffscandles.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#47704C",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor jullie rustmomenten.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Roeloffs, ik heb dit gemaakt omdat jullie geuren niet om een lekkere lucht draaien maar om een rustmoment, en dat leent zich goed voor Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1829:4",
+      "titel": "Koop deze kaars niet",
+      "waarom": "Een kop die tegen de verwachting in gaat laat mensen stoppen met scrollen, en de kaars zelf staat groot in beeld."
+    },
+    {
+      "node": "1829:20",
+      "titel": "Welk rustmoment past bij jou",
+      "waarom": "Twee geuren naast elkaar laten mensen kiezen in plaats van twijfelen, en de geurquiz maakt die keuze makkelijk."
+    },
+    {
+      "node": "1829:35",
+      "titel": "Drie momenten per dag",
+      "waarom": "Een herkenbare dagroutine laat zien wanneer je de kaars aansteekt, zodat het product een vaste plek in iemands dag krijgt."
+    }
+  ],
+  "waarom": {
+    "niche": "geurkaarsen",
+    "kop": "Zo groeien geurkaarsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kaarsenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende geur.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij geurkaarsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "600+",
+        "label": "advertenties heeft Parfumello nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1830:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Roeloffs",
+      "kop": "Welkom bij Roeloffs",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, hoe de kaarsen gemaakt worden en een directe link naar de geurquiz.",
+      "punten": [
+        "Geurquiz als eerste stap",
+        "Handgemaakt, koolzaadwas, snel in huis",
+        "Geurkaarsen vanaf €17,95"
+      ]
+    },
+    {
+      "node": "1830:35",
+      "type": "Productspotlight",
+      "onderwerp": "Voor de avonden waarop je hoofd nog aan staat",
+      "kop": "Soft Landing",
+      "tekst": "Eén geur in de hoofdrol: Soft Landing met cederhout en jasmijn, het verhaal uit Druten en de details van de pot.",
+      "punten": [
+        "Kurken deksel en amberen glas",
+        "160 gram, handgemaakt",
+        "Doorklik naar alle geurkaarsen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12",
+  "nieuwsbrief": {
+    "node": "1830:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Roeloffs",
+    "kop": "Welkom bij Roeloffs",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, hoe de kaarsen gemaakt worden en een directe link naar de geurquiz.",
+    "punten": [
+      "Geurquiz als eerste stap",
+      "Handgemaakt, koolzaadwas, snel in huis",
+      "Geurkaarsen vanaf €17,95"
+    ]
+  }
+}

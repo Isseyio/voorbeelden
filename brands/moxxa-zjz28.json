@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "moxxa-zjz28",
+  "merk": "Moxxa",
+  "domein": "moxxa.store",
+  "lead_id": "2026-11-12-moxxa.store",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4E5A42",
+  "kop": "Drie ideeën voor Moxxa op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Moxxa, ik heb dit gemaakt omdat het verhaal van de Artemisia-plant in jullie sokken zo goed te vertellen is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1827:3",
+      "titel": "Wat er in de sok zit",
+      "waarom": "Een lijst met de echte materialen en foto's van de plant laat zien waarom deze sok anders is dan een gewone sok."
+    },
+    {
+      "node": "1827:25",
+      "titel": "Elke dag een frisse sok",
+      "waarom": "Een week met een sok per dag maakt het voordeel van 5 paar tastbaar, samen met de donatie aan het Leger des Heils."
+    },
+    {
+      "node": "1827:50",
+      "titel": "De kracht van de natuur",
+      "waarom": "Een grote kop met kleine foto's ertussen valt op tijdens het scrollen en vertelt het merkverhaal in één zin."
+    }
+  ],
+  "waarom": {
+    "niche": "sokken",
+    "kop": "Zo groeien sokkenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sokkenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun sokken aan vervanging toe zijn.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sokkenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sokkenmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1828:2",
+    "type": "Merkverhaal",
+    "onderwerp": "Wat er in een Moxxa-sok zit",
+    "kop": "Wat er in een Moxxa-sok zit",
+    "tekst": "Een mail over de Artemisia-plant en hoe die in de sok komt, met de Crew Socks van dichtbij en de actie met het Leger des Heils.",
+    "punten": [
+      "21% Moxxa-Artemisia",
+      "In het lab getest op antibacterieel effect",
+      "Koop 5 paar, doneer 1 paar"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1828:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Wat er in een Moxxa-sok zit",
+      "kop": "Wat er in een Moxxa-sok zit",
+      "tekst": "Een mail over de Artemisia-plant en hoe die in de sok komt, met de Crew Socks van dichtbij en de actie met het Leger des Heils.",
+      "punten": [
+        "21% Moxxa-Artemisia",
+        "In het lab getest op antibacterieel effect",
+        "Koop 5 paar, doneer 1 paar"
+      ]
+    },
+    {
+      "node": "1828:38",
+      "type": "Vergelijking",
+      "onderwerp": "Crew of Footies?",
+      "kop": "Crew of Footies?",
+      "tekst": "Een mail die de twee sokken naast elkaar zet, zodat je in één keer ziet welke bij je past.",
+      "punten": [
+        "Crew Socks €9,95, onder de knie",
+        "Footies €8,95, onzichtbaar in de schoen",
+        "Allebei met Artemisia-vezel"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
