@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "cdm-txbmm",
+  "merk": "CDM Pretty Cool Things",
+  "domein": "cdmprettycoolthings.nl",
+  "lead_id": "2026-11-12-cdmprettycoolthings.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#FF2E8A",
+  "kop": "Kleurrijke tegeltjes, gezien tijdens het scrollen.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team CDM Pretty Cool Things, ik heb dit gemaakt omdat jullie stadstegeltjes met die twee verstopte hartjes precies het soort cadeau zijn dat mensen op Instagram doorsturen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2020:4",
+      "titel": "Jouw stad op een tegeltje",
+      "waarom": "De hand met beide formaten laat in één beeld zien wat je koopt en dat je kunt kiezen."
+    },
+    {
+      "node": "2020:37",
+      "titel": "Klein cadeau",
+      "waarom": "Spreekt mensen aan die een cadeautje zoeken en laat drie bestsellers met prijs tegelijk zien."
+    },
+    {
+      "node": "2020:68",
+      "titel": "Happy new home belt",
+      "waarom": "Een speels idee dat opvalt tussen gewone posts en één concreet cadeaumoment koppelt aan één product."
+    }
+  ],
+  "waarom": {
+    "niche": "cadeau",
+    "kop": "Zo groeien cadeaumerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw cadeaumerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers bij de volgende verjaardag terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Label2X nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2020:81",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij CDM, fijn dat je er bent",
+    "kop": "Welkom bij CDM!",
+    "tekst": "Fijn dat je er bent. Wij maken kleurrijke tegeltjes, spiegels en woondeco, met de hand in Wijk bij Duurstede. In de mail laat je meteen zien hoe je een eigen tegeltje laat maken.",
+    "punten": [
+      "2 speelse hartjes in elk ontwerp",
+      "Handgemaakt in ons eigen atelier",
+      "Gratis verzending vanaf €49",
+      "Ontwerp je eigen tegeltje: foto sturen, 10x10 of 15x15 cm kiezen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2020:81",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij CDM, fijn dat je er bent",
+      "kop": "Welkom bij CDM!",
+      "tekst": "Fijn dat je er bent. Wij maken kleurrijke tegeltjes, spiegels en woondeco, met de hand in Wijk bij Duurstede. In de mail laat je meteen zien hoe je een eigen tegeltje laat maken.",
+      "punten": [
+        "2 speelse hartjes in elk ontwerp",
+        "Handgemaakt in ons eigen atelier",
+        "Gratis verzending vanaf €49",
+        "Ontwerp je eigen tegeltje: foto sturen, 10x10 of 15x15 cm kiezen"
+      ]
+    },
+    {
+      "node": "2020:109",
+      "type": "Productspotlight",
+      "onderwerp": "Cadeautjes waar je blij van wordt",
+      "kop": "Cadeautjes waar je blij van wordt",
+      "tekst": "De bestsellers op een rij voor collega’s, vrienden en iemand met een nieuw huis, met een echte klantreview erbij.",
+      "punten": [
+        "Tegel Happy new home · €12,95",
+        "Tegel Coffee to go please · €12,95",
+        "Spiegel You look amazing · €14,99",
+        "Cartoon tegeltje met eigen foto · €16,99"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
