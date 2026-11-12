@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "armbnd-26btc",
+  "merk": "ARMBND",
+  "domein": "armbnd.com",
+  "lead_id": "2026-11-12-armbnd.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Drie nieuwe invalshoeken voor ARMBND.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team ARMBND, ik heb dit gemaakt omdat jullie foto's van armbanden om de pols zo goed werken, en omdat het stalen blik een sterk cadeauverhaal is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2000:4",
+      "titel": "Black Friday, groot logo",
+      "waarom": "De echte actie bovenaan en jullie logo groot over een polsfoto: in één blik duidelijk wat het kost en van wie het is."
+    },
+    {
+      "node": "2000:21",
+      "titel": "Cadeau voor hem",
+      "waarom": "Richt zich op de mensen die nu een cadeau zoeken, met het stalen blik als reden om voor ARMBND te kiezen."
+    },
+    {
+      "node": "2000:44",
+      "titel": "8 mm of 6 mm",
+      "waarom": "Twee modellen naast elkaar maken de keuze makkelijk en halen twijfel over de maat en dikte weg."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, bijvoorbeeld voor een tweede kleur.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "700+",
+        "label": "advertenties heeft Trendhim nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2001:2",
+    "type": "Actiemail",
+    "onderwerp": "Black Friday: 20% op alles",
+    "kop": "20% korting op alles",
+    "tekst": "Een actiemail voor jullie echte Black Friday-actie: drie bestsellers met oude en nieuwe prijs, de drie vaste beloftes en de cadeauverpakking als reden om nu al voor de feestdagen te kopen.",
+    "punten": [
+      "The Black Double en The Navy Double €30,36 (was €37,95)",
+      "Handgemaakt in Nederland, gratis verzending in NL & BE",
+      "30 dagen ruilen of retour",
+      "Luxe cadeauverpakking voor Sinterklaas en kerst"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2001:2",
+      "type": "Actiemail",
+      "onderwerp": "Black Friday: 20% op alles",
+      "kop": "20% korting op alles",
+      "tekst": "Een actiemail voor jullie echte Black Friday-actie: drie bestsellers met oude en nieuwe prijs, de drie vaste beloftes en de cadeauverpakking als reden om nu al voor de feestdagen te kopen.",
+      "punten": [
+        "The Black Double en The Navy Double €30,36 (was €37,95)",
+        "Handgemaakt in Nederland, gratis verzending in NL & BE",
+        "30 dagen ruilen of retour",
+        "Luxe cadeauverpakking voor Sinterklaas en kerst"
+      ]
+    },
+    {
+      "node": "2001:42",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom ARMBND bestaat",
+      "kop": "Waarom ARMBND bestaat",
+      "tekst": "Een mail over Danny, die als industrieel ontwerper geen strakke herenarmband kon vinden en hem zelf ging maken. Met The Original uitgelicht en het stalen blik als afsluiter.",
+      "punten": [
+        "Het verhaal van Danny in Rotterdam",
+        "The Original: 8 mm touw, magneetsluiting van staal, 6 maten",
+        "Afsluiter met het stalen blik"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}

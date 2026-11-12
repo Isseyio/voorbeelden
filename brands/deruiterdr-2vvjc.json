@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "deruiterdr-2vvjc",
+  "merk": "DeRuiterDR",
+  "domein": "deruiterdr.nl",
+  "lead_id": "2026-11-07-deruiterdr.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B8954A",
+  "kop": "Een idee voor DeRuiterDR: nieuwe advertenties voor herensieraden",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team DeRuiterDR, ik heb dit gemaakt omdat Nick elk sieraad eerst zelf test onder de douche en in de gym, en dat verhaal zie je nog weinig terug in de advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2002:4",
+      "titel": "Draag hem elke dag",
+      "waarom": "Een close-up van de armband om de pols met vier korte voordelen laat in één beeld zien waarom dit staal anders is dan goedkope sieraden."
+    },
+    {
+      "node": "2002:20",
+      "titel": "De tweede is gratis",
+      "waarom": "Jullie Black Friday-actie in één heldere zin bovenaan, met het merk groot in beeld, werkt goed voor mensen die jullie al eens zagen."
+    },
+    {
+      "node": "2002:29",
+      "titel": "Cuban chain, gezocht en gevonden",
+      "waarom": "Een zoekbalk met precies wat mensen intypen, plus goud en zilver naast elkaar, maakt de keuze makkelijk voor wie al weet wat hij wil."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mannen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag, want een advertentie wordt na een paar weken moe. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun tweede stuk.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft iXXXi Jewelry nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2002:44",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij DeRuiterDR",
+    "kop": "Welkom bij DeRuiterDR",
+    "tekst": "De eerste mail na een aanmelding: waarom de sieraden blijven, wie Nick is en een duidelijke knop naar de collectie.",
+    "punten": [
+      "Waterdicht 316L staal met PVD-laag",
+      "Levenslange garantie: verkleurt het, dan vervangen jullie het",
+      "Het verhaal van Nick, die elk stuk eerst zelf test"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2002:44",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij DeRuiterDR",
+      "kop": "Welkom bij DeRuiterDR",
+      "tekst": "De eerste mail na een aanmelding: waarom de sieraden blijven, wie Nick is en een duidelijke knop naar de collectie.",
+      "punten": [
+        "Waterdicht 316L staal met PVD-laag",
+        "Levenslange garantie: verkleurt het, dan vervangen jullie het",
+        "Het verhaal van Nick, die elk stuk eerst zelf test"
+      ]
+    },
+    {
+      "node": "2002:75",
+      "type": "Assortiment",
+      "onderwerp": "Vier sieraden die bijna elke man goed staan",
+      "kop": "Vind jouw stijl",
+      "tekst": "Een productmail met vier bestsellers naast elkaar, elk met één zin uitleg, en jullie reviewscore als afsluiter.",
+      "punten": [
+        "Cuban Chain 2MM, Small Cross Pendant, Rolex Bracelet en Rope Chain 5MM",
+        "Gemiddeld 4,7 uit meer dan 900 reviews",
+        "Voor 18:00 besteld, dezelfde dag verzonden"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}

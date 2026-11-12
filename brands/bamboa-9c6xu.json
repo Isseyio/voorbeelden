@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "bamboa-9c6xu",
+  "merk": "Bamboa",
+  "domein": "bamboa-yoga.com",
+  "lead_id": "2026-11-04-bamboa-yoga.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6A4A2E",
+  "kop": "Kurk, foam en een groene studio op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Bamboa, ik heb dit gemaakt omdat jullie foto's in die groene studio meteen rust uitstralen, en omdat jullie blog over kurk en foam een mooi verhaal is voor een advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1997:133",
+      "titel": "Eén woord: kurk",
+      "waarom": "Eén groot woord en de echte set maken in een seconde duidelijk wat je koopt en voor welke prijs."
+    },
+    {
+      "node": "1997:149",
+      "titel": "Kurk of foam?",
+      "waarom": "Veel mensen twijfelen tussen kurk en foam. Deze advertentie beantwoordt die vraag met jullie eigen uitleg."
+    },
+    {
+      "node": "1997:179",
+      "titel": "Vanaf € 23,95",
+      "waarom": "Een duidelijke prijs met een herkenbare studiofoto werkt goed voor mensen die thuis met yoga willen beginnen."
+    }
+  ],
+  "waarom": {
+    "niche": "sport & yoga",
+    "kop": "Zo groeien sport- en yogamerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw yogamerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een mat of een riem.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sport- en yogamerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Manduka nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1998:75",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Bamboa",
+    "kop": "Welkom bij Bamboa",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, met de foto's uit jullie eigen studio. Hij laat zien waar Bamboa voor staat en sluit af met de kurkset als goed begin.",
+    "punten": [
+      "Gaat automatisch uit na inschrijving in de footer",
+      "Drie redenen om voor Bamboa te kiezen: kurk, grip en snelle verzending",
+      "Eindigt met de kurkset van €34,95"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1998:75",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Bamboa",
+      "kop": "Welkom bij Bamboa",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers, met de foto's uit jullie eigen studio. Hij laat zien waar Bamboa voor staat en sluit af met de kurkset als goed begin.",
+      "punten": [
+        "Gaat automatisch uit na inschrijving in de footer",
+        "Drie redenen om voor Bamboa te kiezen: kurk, grip en snelle verzending",
+        "Eindigt met de kurkset van €34,95"
+      ]
+    },
+    {
+      "node": "1998:120",
+      "type": "Productspotlight",
+      "onderwerp": "Kurk of foam: welk blok past bij jou?",
+      "kop": "Welk yogablok past bij jou?",
+      "tekst": "Een vergelijkingsmail op basis van jullie eigen blog over kurk en EVA-foam. Mensen die twijfelen zien in één tabel welk blok bij hun yoga past.",
+      "punten": [
+        "Kurk en foam naast elkaar: gevoel, gewicht, soort yoga en prijs",
+        "Uitleg over de kurkset met de echte maten en het gewicht",
+        "Afsluiter: wisselen tussen kurk en foam"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}

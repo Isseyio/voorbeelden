@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "krak-n9bhz",
+  "merk": "Krak Chocolade",
+  "domein": "krakchocolade.nl",
+  "lead_id": "2026-11-12-krakchocolade.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3B2418",
+  "kop": "Chocolade van één boerderij, verteld in drie advertenties.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Mark, ik heb dit gemaakt omdat op elke Krak-reep staat van welke boerderij de cacao komt, en dat verhaal zie je online nog weinig terug. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1996:4",
+      "titel": "Eén boerderij, één reep",
+      "waarom": "De herkomst is jullie sterkste punt; de kenmerken rond de reep maken in één blik duidelijk waarom hij anders is dan een supermarktreep."
+    },
+    {
+      "node": "1996:24",
+      "titel": "Van boon tot reep",
+      "waarom": "Drie foto's uit jullie eigen werkplaats laten zien hoeveel werk er in de bekroonde Don Moisés zit, en dat maakt de prijs logisch."
+    },
+    {
+      "node": "1996:44",
+      "titel": "Kies je herkomst",
+      "waarom": "Vier repen met prijs naast elkaar nodigen uit om te kiezen, wat goed werkt voor mensen die craft chocolade nog niet kennen."
+    }
+  ],
+  "waarom": {
+    "niche": "chocolade",
+    "kop": "Zo groeien chocolademerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw chocolademerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende reep.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Tony's Chocolonely nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1997:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Krak",
+    "kop": "Welkom bij Krak",
+    "tekst": "Een rustige welkomstmail die laat zien hoe jullie chocolade maken: één herkomst per reep, van boon tot reep, en het goud van de Academy of Chocolate. Daarna een eerste reep om mee te beginnen.",
+    "punten": [
+      "Eén herkomst per reep",
+      "Van boon tot reep",
+      "Gold, Academy of Chocolate 2023",
+      "Start met de Don Moisés (€9,95)"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1997:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Krak",
+      "kop": "Welkom bij Krak",
+      "tekst": "Een rustige welkomstmail die laat zien hoe jullie chocolade maken: één herkomst per reep, van boon tot reep, en het goud van de Academy of Chocolate. Daarna een eerste reep om mee te beginnen.",
+      "punten": [
+        "Eén herkomst per reep",
+        "Van boon tot reep",
+        "Gold, Academy of Chocolate 2023",
+        "Start met de Don Moisés (€9,95)"
+      ]
+    },
+    {
+      "node": "1997:27",
+      "type": "Productspotlight",
+      "onderwerp": "Eén boerderij, één smaak",
+      "kop": "Eén boerderij, één smaak",
+      "tekst": "Een mail over één reep: de Don Moisés van Finca la Rioja in Chiapas. Met Mark aan het werk, de award en wat er op de wikkel staat.",
+      "punten": [
+        "Foto van de bonen in de hand",
+        "Gold, Academy of Chocolate 2023",
+        "70% cacao, 80 gram, nano lot"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
