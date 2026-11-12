@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "mineralissima-y6eqb",
+  "merk": "Mineralissima",
+  "domein": "mineralissima.nl",
+  "lead_id": "2026-11-12-mineralissima.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B5715A",
+  "kop": "Drie nieuwe invalshoeken voor de minerale foundation",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Mineralissima, ik heb dit gemaakt omdat jullie met de testset, de tintenquiz en het kleuradvies in de studio veel doen om mensen de juiste tint te laten vinden. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1952:4",
+      "titel": "Koop deze niet",
+      "waarom": "Een omgekeerde kop laat mensen stoppen met scrollen, en de regel eronder zegt meteen voor wie de foundation wel is."
+    },
+    {
+      "node": "1952:24",
+      "titel": "Je huid blijft van jou",
+      "waarom": "Jullie eigen foto's tussen de woorden vertellen het merkverhaal in één beeld, met de pot en de prijs erbij."
+    },
+    {
+      "node": "1952:38",
+      "titel": "Je nieuwe tint belt",
+      "waarom": "Een herkenbaar belscherm maakt de stap naar de testset of het kleuradvies speels en laagdrempelig."
+    }
+  ],
+  "waarom": {
+    "niche": "beauty",
+    "kop": "Zo groeien beautymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw make-upmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag omdat een advertentie na een paar weken moe wordt. Een vaste nieuwsbrief zorgt dat kopers terugkomen als hun pot leeg is.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij beautymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij beautymerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1952:51",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Mineralissima",
+    "kop": "Welkom bij Mineralissima.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: minerale make-up sinds 2007, en meteen drie manieren om de juiste tint te vinden.",
+    "punten": [
+      "Tintenquiz: een paar vragen en je weet welke tint past",
+      "Testset met drie foundationtinten in kleine potjes",
+      "Gratis kleuradvies in de studio in Alphen aan den Rijn",
+      "Vegan en cruelty-free"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1952:51",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Mineralissima",
+      "kop": "Welkom bij Mineralissima.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: minerale make-up sinds 2007, en meteen drie manieren om de juiste tint te vinden.",
+      "punten": [
+        "Tintenquiz: een paar vragen en je weet welke tint past",
+        "Testset met drie foundationtinten in kleine potjes",
+        "Gratis kleuradvies in de studio in Alphen aan den Rijn",
+        "Vegan en cruelty-free"
+      ]
+    },
+    {
+      "node": "1952:89",
+      "type": "Merkverhaal",
+      "onderwerp": "Je huid blijft op jou lijken",
+      "kop": "Je huid blijft op jou lijken.",
+      "tekst": "Het verhaal van Kati en Mirella, met de losse minerale foundation van dichtbij en de testset als volgende stap.",
+      "punten": [
+        "Sinds 2007, begonnen na een ontdekking in de VS",
+        "15 tinten, van licht tot donker",
+        "Matte finish, licht en opbouwbaar",
+        "Zonder parfum, parabenen of talk"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}

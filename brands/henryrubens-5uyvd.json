@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "henryrubens-5uyvd",
+  "merk": "Henry Rubens",
+  "domein": "henryrubens.nl",
+  "lead_id": "2026-11-12-henryrubens.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#0B3954",
+  "kop": "Drie ideeën voor Henry Rubens op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Henry Rubens, ik heb dit gemaakt omdat jullie bij elke set eerlijk laten zien wat één boxer kost, en dat leent zich goed voor advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1953:3",
+      "titel": "Bespaar tot 15%",
+      "waarom": "De bundelkorting die jullie al hebben staat groot bovenaan, zodat iemand meteen ziet waarom een grotere set slimmer is."
+    },
+    {
+      "node": "1953:14",
+      "titel": "Katoen of microfiber?",
+      "waarom": "Twee stoffen naast elkaar laten mensen kiezen in plaats van twijfelen, met materiaal en prijs er direct bij."
+    },
+    {
+      "node": "1953:34",
+      "titel": "Je ondergoedla belt",
+      "waarom": "Een knipoog valt op tussen alle gewone posts en maakt de 6-pack een logische herhaalaankoop."
+    }
+  ],
+  "waarom": {
+    "niche": "ondergoed en sokken",
+    "kop": "Zo groeien ondergoedmerken op Instagram.",
+    "tekst": "Ondergoed koop je zelden na een zoekopdracht, maar wel als je tijdens het scrollen bedenkt dat je la aan vervanging toe is. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag omdat een advertentie na een paar weken moe wordt. Een vaste nieuwsbrief zorgt dat kopers terugkomen voor de volgende set.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij ondergoedmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Muchachomalo nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1954:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Henry Rubens Club",
+    "kop": "Welkom bij de Henry Rubens Club.",
+    "tekst": "Fijn dat je erbij bent. Als lid krijg je 5% welkomstkorting en hoor je als eerste over nieuwe packs en acties.",
+    "punten": [
+      "95% biologisch katoen, 5% elastaan",
+      "OEKO-TEX: getest op schadelijke stoffen",
+      "Eerlijke prijs: geen opslag voor een logo",
+      "Bundelkorting: 2 stuks 10%, 3 of meer 15%"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1954:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Henry Rubens Club",
+      "kop": "Welkom bij de Henry Rubens Club.",
+      "tekst": "Fijn dat je erbij bent. Als lid krijg je 5% welkomstkorting en hoor je als eerste over nieuwe packs en acties.",
+      "punten": [
+        "95% biologisch katoen, 5% elastaan",
+        "OEKO-TEX: getest op schadelijke stoffen",
+        "Eerlijke prijs: geen opslag voor een logo",
+        "Bundelkorting: 2 stuks 10%, 3 of meer 15%"
+      ]
+    },
+    {
+      "node": "1954:53",
+      "type": "Assortimentsmail",
+      "onderwerp": "Kies je set",
+      "kop": "Kies je set.",
+      "tekst": "Van een 3-pack boxers tot 12 paar sokken. Hoe meer je pakt, hoe minder je per stuk betaalt.",
+      "punten": [
+        "Boxer Briefs 3-Pack Mix: €19,95, €6,65 per stuk",
+        "Boxer Briefs 6-Pack Mix: €34,95, €5,82 per stuk",
+        "Microfiber Boxershort 10-Pack: €19,99, €1,99 per stuk",
+        "Sneaker Socks 12-Pack: €24,95, €2,07 per paar"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
