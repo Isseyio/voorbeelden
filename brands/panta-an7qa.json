@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "panta-an7qa",
+  "merk": "Panta Sandals",
+  "domein": "pantasandals.com",
+  "lead_id": "2026-11-12-pantasandals.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Drie advertenties voor sandalen uit Haarlem",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Panta Sandals, ik heb dit gemaakt omdat sandalen die zo dun zijn en met de hand in Haarlem worden gemaakt een verhaal hebben dat op Instagram goed werkt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1949:4",
+      "titel": "Barefoot in één woord",
+      "waarom": "Eén groot woord en een zoekbalk laten in een seconde zien waar het om gaat, met drie modellen en de vanafprijs erbij."
+    },
+    {
+      "node": "1949:23",
+      "titel": "Waar de Lykaios van gemaakt is",
+      "waarom": "Zool, leer, band en gewicht met close-ups uitgelegd maakt duidelijk waarom een sandaal van €94 die prijs waard is."
+    },
+    {
+      "node": "1949:47",
+      "titel": "Zelfde sandaal, twee kleuren",
+      "waarom": "Twee kleuren naast elkaar laten mensen kiezen in plaats van twijfelen, en de prijs met verzending staat er meteen bij."
+    }
+  ],
+  "waarom": {
+    "niche": "sport en outdoor",
+    "kop": "Zo groeien sport- en outdoormerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe hardlopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun tweede paar.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sport- en outdoormerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Xero Shoes nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1949:71",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Panta",
+    "kop": "Welkom bij Panta.",
+    "tekst": "Barefoot als het kan, sandalen als het moet. Een welkomstmail voor nieuwe inschrijvers die meteen laat zien hoe de sandalen gemaakt worden, met de Lykaios als eerste tip.",
+    "punten": [
+      "Barefoot: dun, flexibel en zero drop",
+      "Vibram uit Italië, band uit Duitsland, gemaakt in Haarlem",
+      "De Nemeas 2.0 weegt 170 gram per paar",
+      "Lykaios: leren voetbed op een Vibram-zool van 5 mm, €94"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1949:71",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Panta",
+      "kop": "Welkom bij Panta.",
+      "tekst": "Barefoot als het kan, sandalen als het moet. Een welkomstmail voor nieuwe inschrijvers die meteen laat zien hoe de sandalen gemaakt worden, met de Lykaios als eerste tip.",
+      "punten": [
+        "Barefoot: dun, flexibel en zero drop",
+        "Vibram uit Italië, band uit Duitsland, gemaakt in Haarlem",
+        "De Nemeas 2.0 weegt 170 gram per paar",
+        "Lykaios: leren voetbed op een Vibram-zool van 5 mm, €94"
+      ]
+    },
+    {
+      "node": "1949:109",
+      "type": "Productspotlight",
+      "onderwerp": "Met de hand gemaakt in Haarlem",
+      "kop": "Met de hand gemaakt in Haarlem.",
+      "tekst": "Het verhaal van Roald en Bram, met de Lykaios van dichtbij: wat elk onderdeel doet en de twee kleuren naast elkaar.",
+      "punten": [
+        "Sinds 2016, begonnen op zolder",
+        "Vibram Lisk Newflex-zool van 5 mm",
+        "Voetbed van 1,3 mm plantaardig gelooid leer",
+        "Kastanje of naturel, €94 met verzending"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
