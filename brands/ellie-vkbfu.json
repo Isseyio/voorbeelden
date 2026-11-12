@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "ellie-vkbfu",
+  "merk": "ELLIE Studio",
+  "domein": "ellie-studio.nl",
+  "lead_id": "2026-11-12-ellie-studio.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#AF7787",
+  "kop": "Een idee voor ELLIE Studio: kinderkamers op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team ELLIE Studio, ik heb dit gemaakt omdat jullie posters zelf maken, printen en inpakken in jullie eigen studio, en dat zie je aan de details. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2015:4",
+      "titel": "Zelfde hoekje, ander verhaal",
+      "waarom": "Hetzelfde kinderhoekje met twee behangdessins naast elkaar laat ouders in één blik zien hoeveel een wand verandert, en helpt ze kiezen."
+    },
+    {
+      "node": "2015:24",
+      "titel": "Bespaar 25% op posters",
+      "waarom": "Jullie echte actie groot bovenaan, met een kind dat trots zijn maanstand poster vasthoudt, maakt het aanbod meteen persoonlijk."
+    },
+    {
+      "node": "2015:34",
+      "titel": "Een kamer met eigen naam",
+      "waarom": "Een speels 'inkomend gesprek' met de naamposter valt op tussen de gewone posts en past bij het vrolijke karakter van jullie merk."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien kids- en babymerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken nieuwe kinderkamerdecoratie niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die ouders terugkomen, bijvoorbeeld voor een geboorteposter of de volgende kamer.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids- en babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Tadaaz nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2015:46",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij ELLIE Studio, hier is je 10% korting",
+    "kop": "Welkom bij ELLIE Studio",
+    "tekst": "Een warme welkomstmail die de 10% welkomstkorting uit jullie pop-up meteen bezorgt, met jullie favorieten en het verhaal van Lisanne en Evy.",
+    "punten": [
+      "10% korting op de eerste bestelling, groot en duidelijk",
+      "Drie favorieten: Wavy Stripes in vintage green en terra pink, en de maanstand poster",
+      "Kort blok over Lisanne en Evy en jullie eigen studio"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2015:46",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij ELLIE Studio, hier is je 10% korting",
+      "kop": "Welkom bij ELLIE Studio",
+      "tekst": "Een warme welkomstmail die de 10% welkomstkorting uit jullie pop-up meteen bezorgt, met jullie favorieten en het verhaal van Lisanne en Evy.",
+      "punten": [
+        "10% korting op de eerste bestelling, groot en duidelijk",
+        "Drie favorieten: Wavy Stripes in vintage green en terra pink, en de maanstand poster",
+        "Kort blok over Lisanne en Evy en jullie eigen studio"
+      ]
+    },
+    {
+      "node": "2015:84",
+      "type": "Collectiemail",
+      "onderwerp": "Zacht behang voor kleine werelden",
+      "kop": "Zacht behang voor kleine werelden",
+      "tekst": "Een rustige collectiemail met vier behangdessins naast elkaar, zodat ouders makkelijk kiezen, en een blok over behang voor hoge muren.",
+      "punten": [
+        "Vier dessins met foto, korte tekst en prijs",
+        "Echte kinderkamerfoto's als hero",
+        "Afsluiter: ook verkrijgbaar voor hoge muren"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}

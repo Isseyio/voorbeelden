@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "volpracht-7n839",
+  "merk": "Volpracht",
+  "domein": "volpracht.com",
+  "lead_id": "2026-11-12-volpracht.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8E3B3B",
+  "kop": "Een idee voor Volpracht: kinderkamerbehang op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Volpracht, ik heb dit gemaakt omdat jullie kamerfoto's zo rustig en warm zijn, en omdat Manon al het behang zelf ontwerpt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2015:125",
+      "titel": "Zachte kleuren, blije kamers",
+      "waarom": "Een grote typografische kop met kleine fotocapsules laat in één beeld de sfeer en drie ontwerpen zien, anders dan de kamerfoto's die nu lopen."
+    },
+    {
+      "node": "2015:144",
+      "titel": "Jongens- of meidenkamer",
+      "waarom": "Twee kamers naast elkaar laten ouders meteen kiezen en tonen dat elk ontwerp in meerdere kleuren bestaat."
+    },
+    {
+      "node": "2015:164",
+      "titel": "Eerst een staal",
+      "waarom": "Een staal van €3,50 als instap haalt de twijfel weg voordat iemand een rol van €79,95 bestelt."
+    }
+  ],
+  "waarom": {
+    "niche": "kinderkamer",
+    "kop": "Zo groeien kinderkamermerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw behangmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag, omdat een advertentie na een paar weken moe wordt. Een vaste nieuwsbrief zorgt dat stalenkopers ook echt een rol bestellen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kinderkamermerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Photowall nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2017:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Volpracht",
+    "kop": "Welkom bij Volpracht",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers en stalenkopers: wie Manon en Martijn zijn, hoe je met een staal van €3,50 de juiste kleur kiest en welke ontwerpen het vaakst gekozen worden.",
+    "punten": [
+      "Eerst een staal voor €3,50",
+      "FSC-gecertificeerd en PVC-vrij behang",
+      "Hartjeslijn, Happy Shapes en Vintage Flowers"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2017:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Volpracht",
+      "kop": "Welkom bij Volpracht",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers en stalenkopers: wie Manon en Martijn zijn, hoe je met een staal van €3,50 de juiste kleur kiest en welke ontwerpen het vaakst gekozen worden.",
+      "punten": [
+        "Eerst een staal voor €3,50",
+        "FSC-gecertificeerd en PVC-vrij behang",
+        "Hartjeslijn, Happy Shapes en Vintage Flowers"
+      ]
+    },
+    {
+      "node": "2017:61",
+      "type": "Merkverhaal",
+      "onderwerp": "Wat wij willen voor hun kamer",
+      "kop": "Wat wij willen voor hun kamer",
+      "tekst": "Een mail over het verhaal achter Volpracht: Manon ontwerpt al het behang zelf en Martijn zorgt dat alles klopt. Met de Hartjeslijn van dichtbij en een staal als volgende stap.",
+      "punten": [
+        "Al het behang zelf ontworpen",
+        "Geen plaktafel nodig",
+        "Twee banen van 50 × 270 cm per rol"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
