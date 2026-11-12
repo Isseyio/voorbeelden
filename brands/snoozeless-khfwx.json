@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "snoozeless-khfwx",
+  "merk": "Snoozeless",
+  "domein": "snoozeless.nl",
+  "lead_id": "2026-11-12-snoozeless.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#05233E",
+  "kop": "Drie nieuwe invalshoeken voor Snoozeless",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Snoozeless, ik heb dit gemaakt omdat jullie foto's zo duidelijk laten zien hoe een neusstrip en mondtape zitten. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1820:3",
+      "titel": "Neus open, mond dicht",
+      "waarom": "De foto waarin de mondtape wordt aangedrukt laat in één beeld zien hoe het werkt, en de vier pillen geven de redenen om het te proberen."
+    },
+    {
+      "node": "1820:18",
+      "titel": "Een vaste avondroutine",
+      "waarom": "Een routinekaart maakt van twee producten één gewoonte en laat zien hoe makkelijk de Deep Sleep Duo in je avond past."
+    },
+    {
+      "node": "1820:41",
+      "titel": "De prijs voorop",
+      "waarom": "Een lage instapprijs met een groot logo verlaagt de drempel voor wie Snoozeless nog niet kent, en spreekt ook sporters aan."
+    }
+  ],
+  "waarom": {
+    "niche": "wellness",
+    "kop": "Zo groeien wellnessmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw slaapproduct niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun strips op zijn.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij wellnessmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij wellnessmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1821:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Snoozeless, zo begin je",
+    "kop": "Welkom bij Snoozeless",
+    "tekst": "Een welkomstmail die uitlegt hoe je de eerste nacht begint, met de 60 nachten testen en gratis verzending vanaf €25 er meteen bij.",
+    "punten": [
+      "Gratis verzending vanaf €25",
+      "60 nachten testen",
+      "Geen effect? Geld terug"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1821:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Snoozeless, zo begin je",
+      "kop": "Welkom bij Snoozeless",
+      "tekst": "Een welkomstmail die uitlegt hoe je de eerste nacht begint, met de 60 nachten testen en gratis verzending vanaf €25 er meteen bij.",
+      "punten": [
+        "Gratis verzending vanaf €25",
+        "60 nachten testen",
+        "Geen effect? Geld terug"
+      ]
+    },
+    {
+      "node": "1821:33",
+      "type": "Productspotlight",
+      "onderwerp": "Neus open, mond dicht: de Deep Sleep Duo",
+      "kop": "De kracht van neusademhaling",
+      "tekst": "Een spotlight op de Deep Sleep Duo: wat de neusstrip en de mondtape elk doen en waarom ze samen goed werken.",
+      "punten": [
+        "Neusstrip en mondtape in één set",
+        "30 strips per zakje",
+        "€32,99 in plaats van €38,98"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
