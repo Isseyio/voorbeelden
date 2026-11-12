@@ -185,11 +185,12 @@ h2{font-size:clamp(30px,4.6vw,46px)}
 .small,.hint,.foot p{color:var(--ink3)}
 strong,b{font-weight:500}
 
-/* bovenbalk zoals de site: donkerblauw, woordmerk in kleine letters, witte pil */
-.top{background:rgba(15,20,51,.94);border-bottom:0;color:#fff}
-.logo{font-weight:400;font-size:21px;letter-spacing:-.04em;text-transform:lowercase;color:#fff}
+/* bovenbalk zoals de aankondigingsbalk van de site: crème, woordmerk in kleine letters, witte pil */
+.top{background:var(--cream);border-bottom:0;color:var(--navy);-webkit-backdrop-filter:none;backdrop-filter:none}
+.top-in{height:56px}
+.logo{font-weight:400;font-size:21px;letter-spacing:-.04em;text-transform:lowercase;color:var(--navy)}
 .pill{font-weight:400;font-size:15px;padding:8px 16px}
-.pill-wa{background:#fff;color:var(--navy)}
+.pill-wa{background:#fff;color:var(--navy);box-shadow:0 1px 2px rgba(15,20,51,.06)}
 
 /* knoppen: pillen, normaal gewicht */
 .btn{border-radius:999px;font-weight:400;font-size:17px;min-height:52px;padding:0 26px;letter-spacing:-.01em}
@@ -197,14 +198,14 @@ strong,b{font-weight:500}
 .btn-ghost{background:#fff;color:var(--navy);box-shadow:inset 0 0 0 1px var(--line)}
 .btn-meet{background:var(--blue)}
 
-/* hero: donkerblauw vlak, witte kop, gele hoofdknop */
-.hero{background:var(--navy);color:#fff;border-radius:0 0 32px 32px}
-.hero h1{color:#fff}
-.hero .lead{color:rgba(255,255,255,.72)}
-.hero .eyebrow{color:rgba(255,255,255,.62)}
-.hero .btn-dark{background:var(--yellow);color:var(--navy)}
-.hero .btn-ghost{background:rgba(255,255,255,.14);color:#fff;box-shadow:none}
-.fan img{border-radius:20px;box-shadow:0 2px 6px rgba(0,0,0,.25),0 28px 56px rgba(0,0,0,.40)}
+/* hero: licht vlak met ronde bovenhoeken op de crème balk (loopt erin over, zoals op de site);
+   het blok eronder schuift er met ronde hoeken overheen */
+main{background:linear-gradient(var(--cream) 0 160px,var(--bg) 160px)}
+.hero{background:linear-gradient(180deg,#E3E8FB 0%,#ECEFFD 55%,#F4F6FE 100%);border-radius:32px 32px 0 0;
+  padding-bottom:calc(clamp(28px,5vw,56px) + 32px)}
+.hero+.sec{position:relative;margin-top:-32px;background:var(--bg);border-radius:32px 32px 0 0}
+.hero .eyebrow{color:var(--ink2)}
+.fan img{border-radius:20px;box-shadow:0 2px 6px rgba(15,20,51,.10),0 26px 52px rgba(15,20,51,.22)}
 
 /* kaarten en vlakken in het zachte lavendelverloop van de site */
 .note,.stats div,.week li{background:var(--soft)}
@@ -232,3 +233,24 @@ strong,b{font-weight:500}
 
 /* lightbox in donkerblauw */
 .lb{background:#070919}
+
+/* Rekenblok: schuifbalken voor nieuwsbrief- en advertentie-omzet (ingevoegd door site.js) */
+.calc-grid{display:grid;gap:14px;margin-top:28px}
+@media (min-width:800px){.calc-grid{grid-template-columns:1fr 1fr}}
+.calc{background:var(--soft);border-radius:24px;padding:24px 24px 22px;display:flex;flex-direction:column}
+.calc-tag{display:inline-flex;align-self:flex-start;align-items:center;gap:8px;background:#fff;border-radius:999px;padding:6px 12px;font-size:14px;color:var(--ink2);box-shadow:0 1px 2px rgba(15,20,51,.06)}
+.calc-tag i{width:8px;height:8px;border-radius:50%;background:var(--blue)}
+.calc-tag.adv i{background:#E5B53A}
+.calc label{display:flex;justify-content:space-between;align-items:baseline;gap:12px;margin:22px 0 12px;font-size:15px;color:var(--ink2)}
+.calc label output{font-size:20px;color:var(--ink);letter-spacing:-.02em;font-variant-numeric:tabular-nums}
+.calc input[type=range]{-webkit-appearance:none;appearance:none;width:100%;height:10px;border-radius:999px;margin:6px 0;cursor:pointer;touch-action:pan-y;
+  background:linear-gradient(90deg,var(--navy) 0 var(--p,50%),rgba(15,20,51,.10) var(--p,50%) 100%)}
+.calc input[type=range]:focus-visible{outline:3px solid var(--blue);outline-offset:4px}
+.calc input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:30px;height:30px;border-radius:50%;background:#fff;border:0;box-shadow:0 1px 3px rgba(15,20,51,.25),0 6px 16px rgba(15,20,51,.18)}
+.calc input[type=range]::-moz-range-thumb{width:30px;height:30px;border-radius:50%;background:#fff;border:0;box-shadow:0 1px 3px rgba(15,20,51,.25),0 6px 16px rgba(15,20,51,.18)}
+.calc .scale{display:flex;justify-content:space-between;font-size:13px;color:var(--ink3);margin-top:4px}
+.calc-out{margin-top:22px;padding-top:18px;border-top:1px solid var(--line)}
+.calc-out strong{display:block;font-weight:400;font-size:clamp(34px,5vw,46px);letter-spacing:-.04em;line-height:1.05;font-variant-numeric:tabular-nums}
+.calc-out span{display:block;font-size:15px;color:var(--ink2);margin-top:4px}
+.calc-out em{font-style:normal;display:block;font-size:14px;color:var(--ink3);margin-top:10px}
+.calc-sec .small{max-width:80ch}
