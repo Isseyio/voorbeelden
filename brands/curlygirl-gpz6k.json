@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "curlygirl-gpz6k",
+  "merk": "Curlygirlmovement",
+  "domein": "curlygirlmovement.com",
+  "lead_id": "2026-11-12-curlygirlmovement.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E270A8",
+  "kop": "Krullen die mogen ademen, ook in je feed",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Curlygirlmovement, ik heb dit gemaakt omdat jullie fotoshoot met al die verschillende krultypes zo sterk is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1842:3",
+      "titel": "Krullen die mogen ademen",
+      "waarom": "Een typografische kop met jullie modelfoto's erin valt op tussen gewone productposts en legt meteen uit waar de gel voor staat."
+    },
+    {
+      "node": "1842:27",
+      "titel": "Krulzorg in vier stappen",
+      "waarom": "De hele routine in één beeld helpt nieuwe klanten kiezen en verhoogt de kans dat ze meer dan één product bestellen."
+    },
+    {
+      "node": "1842:51",
+      "titel": "Prijs en krullen voorop",
+      "waarom": "Een duidelijke prijs boven een sterke modelfoto werkt goed voor mensen die jullie al eens gezien hebben en nu willen kopen."
+    }
+  ],
+  "waarom": {
+    "niche": "haarverzorging",
+    "kop": "Zo groeien haarverzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw haarmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag omdat een advertentie na een paar weken moe wordt. Een vaste nieuwsbrief zorgt dat nieuwe kopers terugkomen voor hun volgende fles.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij haarverzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "150+",
+        "label": "advertenties heeft Eve Curls nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1842:63",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de movement",
+    "kop": "Welkom bij de movement",
+    "tekst": "Een welkomstmail die nieuwe inschrijvers via de krullenquiz naar de juiste basisproducten leidt, met hun krultype als ingang.",
+    "punten": [
+      "Krullenquiz als eerste stap",
+      "Co-Wash, Conditioner Heavy en Curl Defining Gel met prijs",
+      "Kies je krultype: wavy, curly of coily"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1842:63",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de movement",
+      "kop": "Welkom bij de movement",
+      "tekst": "Een welkomstmail die nieuwe inschrijvers via de krullenquiz naar de juiste basisproducten leidt, met hun krultype als ingang.",
+      "punten": [
+        "Krullenquiz als eerste stap",
+        "Co-Wash, Conditioner Heavy en Curl Defining Gel met prijs",
+        "Kies je krultype: wavy, curly of coily"
+      ]
+    },
+    {
+      "node": "1842:127",
+      "type": "Merkverhaal",
+      "onderwerp": "Ooit verstuurd vanuit huis",
+      "kop": "Ooit verstuurd vanuit huis",
+      "tekst": "Het verhaal van Shamilla en de eerste gel, met de ingrediënten uitgelicht en een uitnodiging voor de Curly Hair Spa & Store.",
+      "punten": [
+        "Van platform in 2014 naar eigen producten sinds 2018",
+        "Curl Defining Gel met aloë vera, jojobaolie en granaatappelpitolie",
+        "Afsluiting met de Spa & Store in Amsterdam"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
