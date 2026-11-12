@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "aptiq-euzg9",
+  "merk": "Aptiq",
+  "domein": "aptiq.com",
+  "lead_id": "2026-11-12-aptiq.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#425D84",
+  "kop": "Een idee voor Aptiq: de thuiswerkplek op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Aptiq, ik heb dit gemaakt omdat jullie laptopstandaard, bureaumat en muis zo mooi in dezelfde kleur bij elkaar passen, en dat zie je op jullie foto's meteen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2012:4",
+      "titel": "Geen stapel tijdschriften",
+      "waarom": "Het herkenbare probleem van thuiswerkers in een grote kop, met kleine sfeerfoto's ertussen, laat in één blik zien waar de laptopstandaard voor is."
+    },
+    {
+      "node": "2012:25",
+      "titel": "Bespaar €51 op de set",
+      "waarom": "Een echt prijsvoordeel bovenaan en jullie logo groot over een sfeerfoto maakt de complete set meteen aantrekkelijk voor wie zijn hele werkplek wil aanpakken."
+    },
+    {
+      "node": "2012:35",
+      "titel": "Jouw kleur",
+      "waarom": "Eén groot woord met de bureaumatten en standaard in verschillende kleuren speelt in op wat Aptiq bijzonder maakt: alles past bij elkaar en bij je interieur."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen & interieur",
+    "kop": "Zo groeien wonen- en interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk voor hun thuiswerkplek niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de rest van de set.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij wonen- en interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "300+",
+        "label": "advertenties heeft Balolo nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2012:50",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Aptiq",
+    "kop": "Welkom bij Aptiq",
+    "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: wie Aptiq is, waarom de producten je thuiswerkplek gezonder maken, en een zachte duw naar de sets.",
+    "punten": [
+      "Herokaart in jullie blauw met een echte sfeerfoto",
+      "Drie redenen: scherm 16 cm hoger, 4 mm aluminium, kleuren die matchen",
+      "Tweede kaart met de laptop set (€169 in plaats van €202)"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2012:50",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Aptiq",
+      "kop": "Welkom bij Aptiq",
+      "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: wie Aptiq is, waarom de producten je thuiswerkplek gezonder maken, en een zachte duw naar de sets.",
+      "punten": [
+        "Herokaart in jullie blauw met een echte sfeerfoto",
+        "Drie redenen: scherm 16 cm hoger, 4 mm aluminium, kleuren die matchen",
+        "Tweede kaart met de laptop set (€169 in plaats van €202)"
+      ]
+    },
+    {
+      "node": "2012:84",
+      "type": "Merkverhaal",
+      "onderwerp": "Hoe Aptiq begon met een stapel tijdschriften",
+      "kop": "Stop working, start creating.",
+      "tekst": "Het verhaal van Bart Jan en de stapel tijdschriften onder zijn laptop, gevolgd door de laptop set uitgelegd per onderdeel.",
+      "punten": [
+        "Verhaalkaart over de start van Aptiq",
+        "De laptop set met korte specificaties per onderdeel",
+        "Afsluiting in donkerblauw met de vier kleuren en een knop naar de set"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
