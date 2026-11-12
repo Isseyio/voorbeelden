@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "hotmess-fnpb2",
+  "merk": "Hot Mess Candle",
+  "domein": "hotmesscandle.nl",
+  "lead_id": "2026-10-28-hotmesscandle.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#AB0000",
+  "kop": "Kaarsen met karakter, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Irina, ik heb dit gemaakt omdat kaarsen als je grachtenhuisjes en de appelstrudelkaars meteen opvallen, en dat zie ik nog niet terug in advertenties. Alles is gemaakt met je eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1881:14",
+      "titel": "Koop deze kaars niet",
+      "waarom": "Een omgekeerde kop met een knipoog past bij de naam Hot Mess en laat mensen stoppen met scrollen, met de drie wasvoordelen eronder."
+    },
+    {
+      "node": "1881:34",
+      "titel": "Wit of roze?",
+      "waarom": "Twee kleuren naast elkaar laten kiezen voelt als een spelletje en laat meteen zien dat de grachtenhuisjes in meerdere kleuren bestaan."
+    },
+    {
+      "node": "1881:52",
+      "titel": "Een avond op de bank belt",
+      "waarom": "Een speels telefoonscherm maakt van Vanille Katoenen Dromen een gevoel in plaats van een product."
+    }
+  ],
+  "waarom": {
+    "niche": "kaarsen",
+    "kop": "Zo groeien kaarsenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kaarsenmerk niet via Google, maar tijdens het scrollen, zeker in de cadeauweken voor de feestdagen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende geur.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kaarsenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Rituals nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1881:152",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Hot Mess Club",
+    "kop": "Welkom bij de Hot Mess Club",
+    "tekst": "Een welkomstmail voor nieuwe leden van de Hot Mess Club: wat ze kunnen verwachten, waarmee je kaarsen gegoten worden en een uitnodiging voor de kerst cocktailkaars workshop.",
+    "punten": [
+      "Direct na inschrijving: wie zich net aanmeldt, is het meest geïnteresseerd",
+      "Koolzaad- en kokos-abrikozenwas, zonder paraffine of palmolie",
+      "Workshop op 21 en 22 november als reden om meteen te boeken"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1881:152",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Hot Mess Club",
+      "kop": "Welkom bij de Hot Mess Club",
+      "tekst": "Een welkomstmail voor nieuwe leden van de Hot Mess Club: wat ze kunnen verwachten, waarmee je kaarsen gegoten worden en een uitnodiging voor de kerst cocktailkaars workshop.",
+      "punten": [
+        "Direct na inschrijving: wie zich net aanmeldt, is het meest geïnteresseerd",
+        "Koolzaad- en kokos-abrikozenwas, zonder paraffine of palmolie",
+        "Workshop op 21 en 22 november als reden om meteen te boeken"
+      ]
+    },
+    {
+      "node": "1881:183",
+      "type": "Merkverhaal",
+      "onderwerp": "Hallo, ik ben Irina",
+      "kop": "Meltdown. But in a good way.",
+      "tekst": "Een merkverhaal vanuit Irina en het atelier in Den Helder, met de Amsterdamse Grachtenhuis Kaarsen uitgelicht en kaarsen op maat als afsluiting.",
+      "punten": [
+        "Laat zien wie de kaarsen maakt",
+        "Grachtenhuisjes met kleuren, prijs en cadeauverpakking rond de foto",
+        "Kaarsen op maat voor bruiloft of bedrijf, vanaf 20 stuks"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}

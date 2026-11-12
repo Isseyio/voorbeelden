@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "happinote-wsprx",
+  "merk": "Happinote",
+  "domein": "happinote.nl",
+  "lead_id": "2026-11-04-happinote.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#282526",
+  "kop": "Uitwisbare notitieboeken, zichtbaar op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Happinote, ik heb dit gemaakt omdat een notitieboek dat je met water uitwist precies het soort product is dat mensen tijdens het scrollen willen zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1881:65",
+      "titel": "Schrijf, wis, opnieuw",
+      "waarom": "Laat in één oogopslag zien wat een Happinote anders maakt dan een gewoon notitieboek."
+    },
+    {
+      "node": "1881:83",
+      "titel": "Welke kleur past bij jou?",
+      "waarom": "Jullie kleurrijke designs zijn het sterkste beeld; de handgeschreven labels leggen de kenmerken uit zonder een lap tekst."
+    },
+    {
+      "node": "1881:95",
+      "titel": "Vanaf €27,99",
+      "waarom": "Een duidelijke prijs met de memberprijs helpt twijfelaars over de streep, zeker richting de cadeaumaanden."
+    }
+  ],
+  "waarom": {
+    "niche": "stationery",
+    "kop": "Zo groeien stationerymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw notitieboek niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor vullingen, pennen en een tweede design.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij stationerymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "250+",
+        "label": "advertenties heeft Tom's Studio (duurzame schrijfwaren) nu tegelijk live in Nederland"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1881:104",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Happinote: je 5% staat klaar",
+    "kop": "Welkom bij Happinote",
+    "tekst": "Een welkomstmail voor iedereen die zich inschrijft via de pop-up. De 5% korting staat bovenaan, daarna leggen drie korte punten uit waarom een uitwisbaar notitieboek van steenpapier anders is.",
+    "punten": [
+      "5% korting op de eerste bestelling, zoals in jullie pop-up",
+      "Steenpapier, wissen met water en water- en scheurbestendig in drie blokken",
+      "Tweede kaart met de designs, van Green Forest tot Lucky Cat"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1881:104",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Happinote: je 5% staat klaar",
+      "kop": "Welkom bij Happinote",
+      "tekst": "Een welkomstmail voor iedereen die zich inschrijft via de pop-up. De 5% korting staat bovenaan, daarna leggen drie korte punten uit waarom een uitwisbaar notitieboek van steenpapier anders is.",
+      "punten": [
+        "5% korting op de eerste bestelling, zoals in jullie pop-up",
+        "Steenpapier, wissen met water en water- en scheurbestendig in drie blokken",
+        "Tweede kaart met de designs, van Green Forest tot Lucky Cat"
+      ]
+    },
+    {
+      "node": "1881:132",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom Suus en Steph Happinote begonnen",
+      "kop": "Niet zomaar een notitieboek.",
+      "tekst": "Een merkverhaal over Suus en Steph, de start op 29 september 2022 en de samenwerking met Stichting Het Vergeten Kind. Daaronder laat de mail zien wat er in de set met etui zit.",
+      "punten": [
+        "Jullie eigen verhaal en foto's",
+        "Wat er in de set zit: notitieboek, etui, pen, waterspray en doekje",
+        "Afsluiting: 1x Happinote = jaren gebruik"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
