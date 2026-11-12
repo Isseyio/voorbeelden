@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "dsvgames-kyd42",
+  "merk": "DSV Games",
+  "domein": "dsvgames.nl",
+  "lead_id": "2026-11-12-dsvgames.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4A1E16",
+  "kop": "Een idee voor DSV Games: bordspellen op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team DSV Games, ik heb dit gemaakt omdat SETI zowel de Nederlandse Spellenprijs als de Gouden Ludo won, en dat verdient een groter publiek. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2004:3",
+      "titel": "Inkomend signaal",
+      "waarom": "Een herkenbaar belscherm met het SETI-thema laat mensen stoppen met scrollen en maakt nieuwsgierig naar het spel."
+    },
+    {
+      "node": "2004:29",
+      "titel": "Wat SETI bijzonder maakt",
+      "waarom": "Vier echte spelfoto's met korte uitleg laten in een paar seconden zien waarom dit expertspel prijzen won."
+    },
+    {
+      "node": "2004:52",
+      "titel": "Iets nieuws voor op tafel",
+      "waarom": "Drie spellen naast elkaar met prijs spreken mensen aan die een spelavond plannen of een cadeau zoeken."
+    }
+  ],
+  "waarom": {
+    "niche": "spellen",
+    "kop": "Zo groeien spellenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw bordspel niet via Google, maar tijdens het scrollen op Instagram. Uitgevers die daar elke week nieuwe advertenties testen, vinden steeds nieuwe spelers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die spelers terugkomen bij elke nieuwe release.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij spellen- en cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft 999 Games nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2006:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom aan tafel bij DSV Games",
+    "kop": "Welkom aan tafel",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie er achter DSV Games zit, wat ze in hun mails kunnen verwachten en waar ze het demoteam op beurzen tegenkomen.",
+    "punten": [
+      "Als eerste weten welke spellen er uitkomen",
+      "Pre-orders en nieuwe releases",
+      "Een kijkje achter de schermen bij de uitgeverij"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2006:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom aan tafel bij DSV Games",
+      "kop": "Welkom aan tafel",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie er achter DSV Games zit, wat ze in hun mails kunnen verwachten en waar ze het demoteam op beurzen tegenkomen.",
+      "punten": [
+        "Als eerste weten welke spellen er uitkomen",
+        "Pre-orders en nieuwe releases",
+        "Een kijkje achter de schermen bij de uitgeverij"
+      ]
+    },
+    {
+      "node": "2006:39",
+      "type": "Productspotlight",
+      "onderwerp": "Het expertspel van 2025 ligt klaar",
+      "kop": "Het expertspel van 2025",
+      "tekst": "Een mail rond SETI: waarom het spel de Nederlandse Spellenprijs en de Gouden Ludo won, wat er in de doos zit en hoe snel het in huis is.",
+      "punten": [
+        "216 kaarten, extreem veel variatie",
+        "Elk spel 2 van de 5 aliens",
+        "Solomodus tegen een rivaliserend instituut",
+        "Voor 15:00 besteld = vandaag verzonden"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
