@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "annindriya-8b3az",
+  "merk": "Annindriya",
+  "domein": "annindriya.com",
+  "lead_id": "2026-11-11-annindriya.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2433B5",
+  "kop": "Niche parfum uit Amsterdam, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Annindriya, ik heb dit gemaakt omdat elke geur bij jullie door een andere parfumeur is gemaakt, en dat verhaal zie ik nog niet op Instagram terug. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1878:27",
+      "titel": "Koop dit parfum niet",
+      "waarom": "Een kop die verrast laat mensen stoppen met scrollen, en de vinkjes zeggen meteen wat ze krijgen."
+    },
+    {
+      "node": "1878:50",
+      "titel": "Niche parfum",
+      "waarom": "Drie flacons naast elkaar laten zien dat er een hele collectie is, met de prijs er direct bij."
+    },
+    {
+      "node": "1878:67",
+      "titel": "Een Dutch Beauty Award",
+      "waarom": "Een echte prijs is het sterkste bewijs dat je kunt laten zien aan iemand die jullie nog niet kent."
+    }
+  ],
+  "waarom": {
+    "niche": "parfum",
+    "kop": "Zo groeien parfummerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw parfummerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat iemand na de discovery set ook een grote flacon koopt.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij geurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "60+",
+        "label": "advertenties heeft Byredo nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1878:102",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Annindriya",
+    "kop": "Welkom bij Annindriya",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn, wat ze bij elke bestelling krijgen en waarom de discovery set een goed begin is.",
+    "punten": [
+      "Gratis samples, cadeauverpakking en wereldwijde verzending in drie iconen",
+      "De discovery set als eerste stap, met tegoed op een grote flacon",
+      "Nu staat er alleen een aanmeldveld in de footer, zonder welkomstmail erachter"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1878:102",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Annindriya",
+      "kop": "Welkom bij Annindriya",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn, wat ze bij elke bestelling krijgen en waarom de discovery set een goed begin is.",
+      "punten": [
+        "Gratis samples, cadeauverpakking en wereldwijde verzending in drie iconen",
+        "De discovery set als eerste stap, met tegoed op een grote flacon",
+        "Nu staat er alleen een aanmeldveld in de footer, zonder welkomstmail erachter"
+      ]
+    },
+    {
+      "node": "1878:136",
+      "type": "Assortiment",
+      "onderwerp": "Welke geur past bij jou?",
+      "kop": "Welke geur past bij jou?",
+      "tekst": "Vier geuren naast elkaar, elk met de parfumeur en één zin over de geur, en afsluitend het verhaal van Tanja.",
+      "punten": [
+        "Le Glossy Escape, Orris Soyeux, Walk with Me en Vetiver Rain",
+        "Per geur één knop naar de productpagina",
+        "Het verhaal sinds 2007 als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}

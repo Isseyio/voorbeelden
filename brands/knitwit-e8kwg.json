@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "knitwit-e8kwg",
+  "merk": "The Knitwit Stable",
+  "domein": "theknitwitstable.nl",
+  "lead_id": "2026-10-28-theknitwitstable.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#69663B",
+  "kop": "Van Nederlandse wol naar Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team The Knitwit Stable, ik heb dit gemaakt omdat jullie elk stuk vanuit de wol zelf ontwikkelen, en dat verhaal zie ik graag vaker voorbijkomen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1878:2",
+      "titel": "Eerst de wol",
+      "waarom": "Nederlandse wol, merino, alpaca en mohair met jullie eigen dierenfoto's laten in één beeld zien waarom jullie breiwerk anders is."
+    },
+    {
+      "node": "1878:85",
+      "titel": "Van grond tot breiwerk",
+      "waarom": "Een grote kop met kleine landschapsfoto's vertelt jullie herkomst in drie seconden, met Oever en de prijs eronder."
+    },
+    {
+      "node": "1878:178",
+      "titel": "IJssel voor €59",
+      "waarom": "Een echte prijsverlaging bovenaan en een close-up van de muts trekken de aandacht van mensen die nog twijfelen."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als het volgende seizoen begint.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft DILLING nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1879:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in The Knitwit Circle",
+    "kop": "Welkom in The Knitwit Circle",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers van The Knitwit Circle: wat ze kunnen verwachten, waar jullie breiwerk van gemaakt is en een uitnodiging om op de boerderij te komen passen.",
+    "punten": [
+      "Direct na inschrijving: wie zich net aanmeldt, is het meest geïnteresseerd",
+      "Karakter, zachtheid en vorm uitgelegd met jullie eigen beelden",
+      "Pasdagen en het wolpakketje als drempelverlager voor een eerste aankoop"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1879:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in The Knitwit Circle",
+      "kop": "Welkom in The Knitwit Circle",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers van The Knitwit Circle: wat ze kunnen verwachten, waar jullie breiwerk van gemaakt is en een uitnodiging om op de boerderij te komen passen.",
+      "punten": [
+        "Direct na inschrijving: wie zich net aanmeldt, is het meest geïnteresseerd",
+        "Karakter, zachtheid en vorm uitgelegd met jullie eigen beelden",
+        "Pasdagen en het wolpakketje als drempelverlager voor een eerste aankoop"
+      ]
+    },
+    {
+      "node": "1880:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Gevormd door het weer",
+      "kop": "Gevormd door het weer",
+      "tekst": "Een merkverhaal rond de Lowlands-collectie: eerst de wol, dan de vorm, met Ember uitgelicht en Shelter als afsluiting voor de koudste dagen.",
+      "punten": [
+        "Vertelt jullie verhaal van landschap naar breiwerk",
+        "Ember met prijs en kenmerken rond de foto",
+        "Shelter als tweede reden om door te klikken"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
