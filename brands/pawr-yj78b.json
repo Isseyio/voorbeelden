@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "pawr-yj78b",
+  "merk": "PAWR",
+  "domein": "pawr.nl",
+  "lead_id": "2026-11-12-pawr.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#115740",
+  "kop": "Drie ideeën voor PAWR op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team PAWR, ik heb dit gemaakt omdat jullie hondenvoer bedacht is door een vader en dochter met kennis van dieren en voeding, en dat verhaal leent zich goed voor Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1839:4",
+      "titel": "Wat erin zit",
+      "waarom": "Ronde foto's van de echte groenten met hun percentage laten in één oogopslag zien wat er in de Beet Booster zit."
+    },
+    {
+      "node": "1839:28",
+      "titel": "Warm water erbij",
+      "waarom": "Een hand die de bak onder de kraan houdt laat zien hoe makkelijk het is, en de drie kenmerken nemen twijfel weg."
+    },
+    {
+      "node": "1839:46",
+      "titel": "Een blije buik belt",
+      "waarom": "Een speels telefoonscherm valt op tussen gewone posts en zet Healthy Habits groot in beeld."
+    }
+  ],
+  "waarom": {
+    "niche": "hondenvoer",
+    "kop": "Zo groeien hondenvoermerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw hondenvoermerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als de zak bijna leeg is.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij hondenvoermerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Edgard & Cooper nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1840:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij PAWR",
+    "kop": "Welkom bij PAWR",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Erik en Fia zijn, waar PAWR voor staat en het proefpakket als eerste stap, met daarna uitleg hoe je hond overstapt.",
+    "punten": [
+      "Proefpakket met alle 4 smaken voor €5,95",
+      "Langere levensduur, jeuk & darm vriendelijk, optimale gezondheid",
+      "Overstappen in stappen van 25%"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1840:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij PAWR",
+      "kop": "Welkom bij PAWR",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Erik en Fia zijn, waar PAWR voor staat en het proefpakket als eerste stap, met daarna uitleg hoe je hond overstapt.",
+      "punten": [
+        "Proefpakket met alle 4 smaken voor €5,95",
+        "Langere levensduur, jeuk & darm vriendelijk, optimale gezondheid",
+        "Overstappen in stappen van 25%"
+      ]
+    },
+    {
+      "node": "1840:28",
+      "type": "Assortiment",
+      "onderwerp": "Vier smaken voor in de bak",
+      "kop": "Varieer smaken",
+      "tekst": "Een mail die alle vier de smaken naast elkaar zet, met wat erin zit en wat ze kosten, en het proefpakket voor wie nog twijfelt.",
+      "punten": [
+        "Healthy Habits, Beet Booster, Green Glory en Golden Glow",
+        "Allemaal plantaardig, hypoallergeen en glutenvrij",
+        "97% van de klanten zou PAWR aanraden"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
