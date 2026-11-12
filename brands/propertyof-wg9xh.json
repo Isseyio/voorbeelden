@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "propertyof-wg9xh",
+  "merk": "Property Of…",
+  "domein": "thepropertyof.com",
+  "lead_id": "2026-11-12-thepropertyof.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6E4B34",
+  "kop": "Drie advertenties en twee nieuwsbrieven rond de Charlie.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Property Of, ik heb dit gemaakt omdat jullie persoonlijke ID-tag met Lost & Found-service iets is wat je zelden ziet bij een tassenmerk. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1870:3",
+      "titel": "Levenslange garantie",
+      "waarom": "Een belofte die weinig tassenmerken durven te doen, groot in beeld met een echte draagfoto uit Amsterdam."
+    },
+    {
+      "node": "1870:14",
+      "titel": "Dezelfde Charlie, jouw kleur",
+      "waarom": "Twee kleuren naast elkaar laten mensen kiezen in plaats van twijfelen, en elke kleur is een nieuwe variant om te testen."
+    },
+    {
+      "node": "1870:35",
+      "titel": "Klein van buiten, slim van binnen",
+      "waarom": "Een close-up met uitleg laat zien wat je op een productfoto mist: het binnenvak en het materiaal."
+    }
+  ],
+  "waarom": {
+    "niche": "tassen",
+    "kop": "Zo groeien tassenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw tassenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij tassenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Bellroy nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1872:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Property Of…",
+    "kop": "Welkom bij Property Of…",
+    "tekst": "Tassen uit onze studio in Amsterdam, gemaakt om jarenlang mee te gaan. In deze eerste mail: wat je van ons krijgt en hoe je je tas nooit meer kwijtraakt.",
+    "punten": [
+      "Gemaakt van gerecycled PET",
+      "Levenslange garantie",
+      "Persoonlijke ID-tag met wereldwijde Lost & Found-service"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1872:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Property Of…",
+      "kop": "Welkom bij Property Of…",
+      "tekst": "Tassen uit onze studio in Amsterdam, gemaakt om jarenlang mee te gaan. In deze eerste mail: wat je van ons krijgt en hoe je je tas nooit meer kwijtraakt.",
+      "punten": [
+        "Gemaakt van gerecycled PET",
+        "Levenslange garantie",
+        "Persoonlijke ID-tag met wereldwijde Lost & Found-service"
+      ]
+    },
+    {
+      "node": "1872:33",
+      "type": "Productspotlight",
+      "onderwerp": "De Charlie: klein van buiten, slim van binnen",
+      "kop": "Ontworpen in Amsterdam. Gemaakt voor elke dag.",
+      "tekst": "Een mail rond één rugzak: het idee achter de Charlie, wat erin past en waarom hij een leven lang meegaat.",
+      "punten": [
+        "Laptopvak tot 14 inch",
+        "Opent extra wijd",
+        "9 liter, 800 gram",
+        "Levenslange garantie en 30 dagen retour"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
