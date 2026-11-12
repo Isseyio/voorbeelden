@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "maisondeux-w35pv",
+  "merk": "Maison Deux",
+  "domein": "maisondeux.com",
+  "lead_id": "2026-11-12-maisondeux.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8C2A35",
+  "kop": "Drie nieuwe invalshoeken voor de Swirl Blanket",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Maison Deux, ik heb dit gemaakt omdat de Swirl Blanket met zijn gespiegelde achterkant zich zo goed leent voor beeld. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1947:4",
+      "titel": "Welke swirl past bij jou?",
+      "waarom": "Twee kleuren naast elkaar laten mensen kiezen in plaats van twijfelen, en de prijs en maat staan er meteen bij."
+    },
+    {
+      "node": "1947:5",
+      "titel": "Dik, zacht en blijvend",
+      "waarom": "Een close-up van wol en franjes met korte uitleg maakt duidelijk waarom een deken van €169 die prijs waard is."
+    },
+    {
+      "node": "1947:6",
+      "titel": "Beter dan ik had gedacht",
+      "waarom": "Echte reviews en de 4,9 uit 427 beoordelingen nemen de twijfel weg bij iemand die het merk nog niet kent."
+    }
+  ],
+  "waarom": {
+    "niche": "woontextiel",
+    "kop": "Zo groeien woontextielmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw woonmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag omdat een advertentie na een paar weken moe wordt. Een vaste nieuwsbrief zorgt dat nieuwe kopers terugkomen voor de volgende deken of deurmat.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woontextielmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Tekla nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1947:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de club",
+    "kop": "Welkom bij de club.",
+    "tekst": "Zachte dingen, uitgesproken kleuren. Nieuwe inschrijvers horen als eerste over elke drop en krijgen 5% korting op hun eerste bestelling.",
+    "punten": [
+      "100% Nieuw-Zeelandse wol, Woolmark en OEKO-TEX",
+      "Made in Europe, jacquard geweven",
+      "Binnen 24 uur verzonden als het op voorraad is",
+      "Vind je kleur: de Swirl Blanket in vijf kleuren"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1947:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de club",
+      "kop": "Welkom bij de club.",
+      "tekst": "Zachte dingen, uitgesproken kleuren. Nieuwe inschrijvers horen als eerste over elke drop en krijgen 5% korting op hun eerste bestelling.",
+      "punten": [
+        "100% Nieuw-Zeelandse wol, Woolmark en OEKO-TEX",
+        "Made in Europe, jacquard geweven",
+        "Binnen 24 uur verzonden als het op voorraad is",
+        "Vind je kleur: de Swirl Blanket in vijf kleuren"
+      ]
+    },
+    {
+      "node": "1947:8",
+      "type": "Productspotlight",
+      "onderwerp": "Een slaapkamer die wakker wordt",
+      "kop": "Een slaapkamer die wakker wordt.",
+      "tekst": "De Swirl Blanket uitgelicht: een speelse golf in wol die een kamer meteen een andere sfeer geeft, met het merkverhaal van Maison Deux erbij.",
+      "punten": [
+        "100% wol uit Nieuw-Zeeland, 480 g/m²",
+        "Achterkant in omgekeerde kleuren",
+        "130 × 200 cm, groot genoeg voor twee",
+        "Warm zonder gewicht, €169"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
