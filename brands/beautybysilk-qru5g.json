@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "beautybysilk-qru5g",
+  "merk": "BeautyBySilk",
+  "domein": "beautybysilk.nl",
+  "lead_id": "2026-11-11-beautybysilk.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1AC3DD",
+  "kop": "Zijde voor je huid en haar, elke week opnieuw in beeld.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team BeautyBySilk, ik heb dit gemaakt omdat jullie kussenslopen met de geschenkdoos en zes kleuren veel meer verhalen geven dan één advertentie kan vertellen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1921:32",
+      "titel": "Slaap hier niet op",
+      "waarom": "Een kop die even tegendraads is, laat mensen stoppen met scrollen en leest het voordeel pas daarna."
+    },
+    {
+      "node": "1922:2",
+      "titel": "Echte zijde, van dichtbij",
+      "waarom": "22 momme, zilverionen, rits en geschenkdoos in één beeld beantwoorden de vraag waarom deze kussensloop zijn prijs waard is."
+    },
+    {
+      "node": "1922:84",
+      "titel": "15.000+ tevreden klanten",
+      "waarom": "Een echte review en de 4,8 uit 101 reviews geven twijfelaars het laatste zetje, vooral rond de feestdagen."
+    }
+  ],
+  "waarom": {
+    "niche": "beauty",
+    "kop": "Zo groeien beautymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw beautymerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij beautymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Silk Heaven nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1923:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij BeautyBySilk",
+    "kop": "Welkom bij BeautyBySilk",
+    "tekst": "Een schoonheidsbehandeling terwijl je slaapt: drie redenen om op zijde te slapen en een kussensloop die klaar is om te geven.",
+    "punten": [
+      "Minder pluis, klitten en haarbreuk",
+      "Hypoallergeen door de zilverionen in de stof",
+      "Elke kussensloop in een luxe geschenkdoos"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1923:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij BeautyBySilk",
+      "kop": "Welkom bij BeautyBySilk",
+      "tekst": "Een schoonheidsbehandeling terwijl je slaapt: drie redenen om op zijde te slapen en een kussensloop die klaar is om te geven.",
+      "punten": [
+        "Minder pluis, klitten en haarbreuk",
+        "Hypoallergeen door de zilverionen in de stof",
+        "Elke kussensloop in een luxe geschenkdoos"
+      ]
+    },
+    {
+      "node": "1923:117",
+      "type": "Productspotlight",
+      "onderwerp": "Zachtroze of Parelwit?",
+      "kop": "Zachtroze of Parelwit?",
+      "tekst": "Twee kleuren naast elkaar, met een korte vergelijking, en een duo-blok voor wie er twee wil.",
+      "punten": [
+        "Vergelijking: kleur, zijde, sluiting, maten, prijs",
+        "Echte modelfoto en packshots van de site",
+        "Duo-blok: 2 stuks voor €42,95 per stuk, gratis bezorgd"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}

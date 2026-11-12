@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "pepperwall-8382j",
+  "merk": "Pepperwall",
+  "domein": "pepperwall.nl",
+  "lead_id": "2026-11-04-pepperwall.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#181818",
+  "kop": "Oude Meesters op de hele muur, elke week in een nieuwe advertentie.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Pepperwall, ik heb dit gemaakt omdat jullie ontwerpen, van Vermeer tot kinderbehang met planeten, zo sterk zijn dat ze bijna vanzelf opvallen tussen de rest op Instagram. Alles is gemaakt met jullie eigen beelden en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1924:20",
+      "titel": "Een hele muur vol Oude Meesters",
+      "waarom": "Grote woorden met kleine stukjes schilderij ertussen laten in één oogopslag zien wat jullie verkopen en hoe groot het wordt."
+    },
+    {
+      "node": "1925:2",
+      "titel": "Kies je behang",
+      "waarom": "Vinyl, Airtex en Walltex met prijs per m² naast elkaar halen de grootste vraag voor een eerste bestelling weg."
+    },
+    {
+      "node": "1926:2",
+      "titel": "Vincent belt",
+      "waarom": "Een speels belscherm zorgt dat mensen stoppen met scrollen, terwijl Amandelbloesem groot in beeld blijft."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen",
+    "kop": "Zo groeien woonmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken nieuw behang niet via Google, maar tijdens het scrollen op Instagram en Pinterest. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende muur.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woonmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15+",
+        "label": "advertenties heeft Muralas nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1927:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Pepperwall",
+    "kop": "Welkom bij Pepperwall",
+    "tekst": "Een welkomstmail die laat zien hoe je muur tot stand komt: ontwerp kiezen, muur meten, op maat gemaakt in Nederland.",
+    "punten": [
+      "Het Melkmeisje als hero, met jullie eigen tagline",
+      "Drie stappen: kiezen, meten, maken in 5-8 werkdagen",
+      "Tweede blok voor kinderbehang"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1927:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Pepperwall",
+      "kop": "Welkom bij Pepperwall",
+      "tekst": "Een welkomstmail die laat zien hoe je muur tot stand komt: ontwerp kiezen, muur meten, op maat gemaakt in Nederland.",
+      "punten": [
+        "Het Melkmeisje als hero, met jullie eigen tagline",
+        "Drie stappen: kiezen, meten, maken in 5-8 werkdagen",
+        "Tweede blok voor kinderbehang"
+      ]
+    },
+    {
+      "node": "1927:37",
+      "type": "Productspotlight",
+      "onderwerp": "Je muur mist een meester",
+      "kop": "Je muur mist een meester",
+      "tekst": "Vier Oude Meesters op een rij, elk met een korte tip voor welke ruimte, en de editoropties spiegelen en zwart-wit.",
+      "punten": [
+        "De Nachtwacht als hero",
+        "Melkmeisje, Gezicht op Delft, Het straatje en Bloemstilleven",
+        "Vanaf €24,95 per m², met knop per ontwerp"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
