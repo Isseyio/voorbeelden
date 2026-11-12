@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "feudemer-9hgbx",
+  "merk": "Feu de Mer",
+  "domein": "feudemer.com",
+  "lead_id": "2026-11-11-feudemer.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#98864C",
+  "kop": "De Zeeuwse kust, elke week in beeld.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Feu de Mer, ik heb dit gemaakt omdat jullie kaarsen echt in het Zeeuwse duinzand op de foto staan, en dat werkt goed in een advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1897:4",
+      "titel": "Gemaakt met",
+      "waarom": "Vier ronde detailfoto's laten zien waar de kaars van gemaakt is: sojawas, de geur van de kust, kleine batches en 45 tot 55 uur branden."
+    },
+    {
+      "node": "1897:28",
+      "titel": "Groot of onderweg",
+      "waarom": "De kaars van 220 gram en de travel tin van 90 gram naast elkaar, met de prijs erbij, maken de keuze makkelijk en de eerste aankoop klein."
+    },
+    {
+      "node": "1897:52",
+      "titel": "Koop deze kaars niet",
+      "waarom": "Een omgekeerde kop laat mensen stoppen met scrollen, en de regel eronder maakt duidelijk waarom ze hem juist wel willen."
+    }
+  ],
+  "waarom": {
+    "niche": "geur & kaarsen",
+    "kop": "Zo groeien kaarsenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kaarsenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun kaars op is.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kaarsenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25+",
+        "label": "advertenties heeft Baobab Collection nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1898:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom aan de kust",
+    "kop": "Welkom aan de kust",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: hoe de kaarsen in Breskens met de hand gegoten worden, en met welke geur je het best kunt beginnen.",
+    "punten": [
+      "Sojawas, houten lont en kleine batches in drie iconen",
+      "Tip om te beginnen met Sea salt & Driftwood of een travel tin van €13,50",
+      "Gratis verzending vanaf €50 bovenaan de mail"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1898:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom aan de kust",
+      "kop": "Welkom aan de kust",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: hoe de kaarsen in Breskens met de hand gegoten worden, en met welke geur je het best kunt beginnen.",
+      "punten": [
+        "Sojawas, houten lont en kleine batches in drie iconen",
+        "Tip om te beginnen met Sea salt & Driftwood of een travel tin van €13,50",
+        "Gratis verzending vanaf €50 bovenaan de mail"
+      ]
+    },
+    {
+      "node": "1899:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Van hobby tot boutique in Breskens",
+      "kop": "Van hobby tot boutique aan de kust",
+      "tekst": "Het verhaal van Feu de Mer, van hobby tot eigen boutique in Breskens, met Sunlit Shores uitgelicht en een uitnodiging om langs te komen voor een workshop.",
+      "punten": [
+        "Merkverhaal ondertekend door Marie-Claire",
+        "Sunlit Shores met vier labels: houten lont, sojawas, geurnoten en zwart glas",
+        "Afsluiting met de boutique en de workshops"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}

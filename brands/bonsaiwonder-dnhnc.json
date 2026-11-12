@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "bonsaiwonder-dnhnc",
+  "merk": "Bonsaiwonder",
+  "domein": "bonsaiwonder.com",
+  "lead_id": "2026-11-11-bonsaiwonder.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3A7140",
+  "kop": "Echte bonsai die op Instagram opvallen.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Bonsaiwonder, ik heb dit gemaakt omdat jullie productfoto's op die donkere achtergrond met het houten blad al bijna advertenties zijn. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1901:43",
+      "titel": "Je Carmona belt",
+      "waarom": "Een herkenbaar belscherm laat mensen even stoppen met scrollen, en de Carmona katachi staat groot in beeld met een verzorgingstip."
+    },
+    {
+      "node": "1901:44",
+      "titel": "Alles in één doos",
+      "waarom": "Pijltjes naar de boom, de schaar en de voeding laten in één blik zien wat er in de starterset zit."
+    },
+    {
+      "node": "1901:45",
+      "titel": "Twaalf jaar gegroeid",
+      "waarom": "Een close-up van de stam met korte labels laat zien waarom een echte bonsai zijn prijs waard is."
+    }
+  ],
+  "waarom": {
+    "niche": "kamerplanten en bonsai",
+    "kop": "Zo groeien plantenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe bonsaiwinkel niet via Google, maar tijdens het scrollen op Instagram. Een bonsai is vaak een cadeau of een impulsaankoop, dus merken die elke week nieuwe advertenties testen, vinden steeds nieuwe kopers. Een welkomstmail en verzorgingstips zorgen dat die kopers terugkomen voor voeding, grond en hun volgende boom.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij plantenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij plantenmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "1901:46",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Bonsaiwonder",
+    "kop": "Fijn dat je er bent.",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie Bonsaiwonder is, waarom elke boom met zorg wordt uitgekozen en hoe je een bonsai gezond houdt.",
+    "punten": [
+      "Groene herokaart met de Zelkova Sensai en één duidelijke knop",
+      "60 dagen garantie, gratis verzending vanaf €50 en de verzorgingsgids in drie iconen",
+      "Drie korte verzorgingstips naast de foto met de gieter"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1901:46",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Bonsaiwonder",
+      "kop": "Fijn dat je er bent.",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie Bonsaiwonder is, waarom elke boom met zorg wordt uitgekozen en hoe je een bonsai gezond houdt.",
+      "punten": [
+        "Groene herokaart met de Zelkova Sensai en één duidelijke knop",
+        "60 dagen garantie, gratis verzending vanaf €50 en de verzorgingsgids in drie iconen",
+        "Drie korte verzorgingstips naast de foto met de gieter"
+      ]
+    },
+    {
+      "node": "1901:47",
+      "type": "Merkverhaal",
+      "onderwerp": "Elke boom met de hand uitgekozen",
+      "kop": "Elke boom met de hand uitgekozen.",
+      "tekst": "Een mail over hoe jullie bomen kiezen op vorm, gezondheid en karakter, met de Carmona katachi als bestseller en de Carmona Starterset voor wie wil beginnen.",
+      "punten": [
+        "Sfeerfoto met handen om de bonsai als opening",
+        "Carmona katachi met vier korte labels",
+        "Afsluiting in donkergroen met de starterset"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}

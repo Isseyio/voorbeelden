@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "knitted-f587n",
+  "merk": "Knit-ted",
+  "domein": "knit-ted.com",
+  "lead_id": "2026-11-04-knit-ted.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5B4636",
+  "kop": "Rustige elegantie, elke week opnieuw.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Knit-ted, ik heb dit gemaakt omdat jullie materialen, van geborstelde wol tot yak, een verhaal zijn dat je op Instagram kunt laten voelen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "1901:4",
+      "titel": "Warm zonder gewicht",
+      "waarom": "Een korte typografische zin met kleine campagnefoto's valt op tussen gewone productfoto's, met de Kim groot eronder."
+    },
+    {
+      "node": "1901:15",
+      "titel": "Kim Pullover, €169,90",
+      "waarom": "Prijs en product meteen bovenaan helpen mensen die al twijfelen om door te klikken."
+    },
+    {
+      "node": "1901:24",
+      "titel": "Het begint bij de stof",
+      "waarom": "De materialen uitlichten laat zien waarom een trui van Knit-ted zijn prijs waard is."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "Bij modemerken doen een paar advertenties vaak het meeste werk, en na een paar weken worden ze moe: dezelfde mensen zien ze steeds weer. Merken die elke week nieuwe varianten testen, houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat kopers terugkomen voor het volgende seizoen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "80+",
+        "label": "advertenties heeft JOSH V nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 12-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "1902:2",
+    "type": "Merkverhaal",
+    "onderwerp": "Elegantie in elke laag",
+    "kop": "Elegantie in elke laag.",
+    "tekst": "Een rustige mail over waar Knit-ted voor staat: sinds 2009 uit Amsterdam, en elk seizoen beginnen bij de stof. Met de Kim Pullover als voorbeeld.",
+    "punten": [
+      "Hero met een sfeerfoto uit de AW26-campagne",
+      "Kort merkverhaal over Petra Stapper en de materialen",
+      "De Kim Pullover met vier labels: kraag, schouders, wolmix en mouwdetail"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "1902:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Elegantie in elke laag",
+      "kop": "Elegantie in elke laag.",
+      "tekst": "Een rustige mail over waar Knit-ted voor staat: sinds 2009 uit Amsterdam, en elk seizoen beginnen bij de stof. Met de Kim Pullover als voorbeeld.",
+      "punten": [
+        "Hero met een sfeerfoto uit de AW26-campagne",
+        "Kort merkverhaal over Petra Stapper en de materialen",
+        "De Kim Pullover met vier labels: kraag, schouders, wolmix en mouwdetail"
+      ]
+    },
+    {
+      "node": "1902:53",
+      "type": "Assortiment",
+      "onderwerp": "Je wintertruien, op een rij",
+      "kop": "Je wintertruien, op een rij.",
+      "tekst": "Een overzichtsmail met vier pullovers, elk met een korte uitleg, prijs en knop, plus hulp bij het kiezen van je maat.",
+      "punten": [
+        "Campagnefoto als opening",
+        "Kim, Wolf, Lucile en Saar met prijs en knop",
+        "Afsluiting over maattabel en retourneren voor €1,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-12"
+}
