@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "sioriginals-z8y9z",
+  "merk": "S.I. Originals",
+  "domein": "si-originals.nl",
+  "lead_id": "2026-11-16-si-originals.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B67E8D",
+  "kop": "Jullie kerst- en Sinterklaascutters op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team S.I. Originals, ik heb dit gemaakt omdat jullie bij elke cutter ook de afdruk in klei laten zien, en dat is precies wat makers tijdens het scrollen willen zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2250:3",
+      "titel": "Kerstcutters",
+      "waarom": "Eén groot woord en drie cutters met hun afdruk laten in een seconde zien wat je koopt en dat het vanaf €4,75 kan."
+    },
+    {
+      "node": "2250:18",
+      "titel": "Pinguïn en sneeuwpop",
+      "waarom": "Twee designs naast elkaar maken kiezen makkelijk en laten zien dat je in één keer uitsteekt en een afdruk maakt."
+    },
+    {
+      "node": "2250:36",
+      "titel": "Sinterklaas belt",
+      "waarom": "Een speels belscherm valt op tussen gewone posts en brengt de nieuwe Sinterklaascollectie precies op het goede moment."
+    }
+  ],
+  "waarom": {
+    "niche": "hobby & cadeaus",
+    "kop": "Zo groeien hobby- en cadeaumerken op Instagram.",
+    "tekst": "De meeste makers ontdekken nieuwe cutters niet via Google, maar tijdens het scrollen op Instagram, tussen andere kleiprojecten. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die makers terugkomen voor de volgende collectie.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij hobby- en cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "5+",
+        "label": "advertenties heeft Yambillo (polymeerklei-sets) nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2250:48",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij S.I. Originals",
+    "kop": "Welkom bij S.I. Originals",
+    "tekst": "Cutters voor makers, door een maker. Nu er nog geen nieuwsbrief op de site staat, is dit de eerste mail die nieuwe makers zouden krijgen: wie jullie zijn en waar ze moeten beginnen.",
+    "punten": [
+      "Elke cutter is in de eigen studio ontworpen",
+      "Met liefde gemaakt in Hoogezand",
+      "Custom cutter van je eigen tekening",
+      "Als eerste de nieuwe collecties zien"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2250:48",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij S.I. Originals",
+      "kop": "Welkom bij S.I. Originals",
+      "tekst": "Cutters voor makers, door een maker. Nu er nog geen nieuwsbrief op de site staat, is dit de eerste mail die nieuwe makers zouden krijgen: wie jullie zijn en waar ze moeten beginnen.",
+      "punten": [
+        "Elke cutter is in de eigen studio ontworpen",
+        "Met liefde gemaakt in Hoogezand",
+        "Custom cutter van je eigen tekening",
+        "Als eerste de nieuwe collecties zien"
+      ]
+    },
+    {
+      "node": "2250:79",
+      "type": "Productspotlight",
+      "onderwerp": "De nieuwe Sinterklaascollectie is er",
+      "kop": "De nieuwe Sinterklaascollectie",
+      "tekst": "Sint, Piet, de staf en de zak van Sinterklaas als imprint cutters, met de zak van Sinterklaas uitgelicht en een afsluiting richting pakjesavond.",
+      "punten": [
+        "Imprint cutters vanaf €4,25",
+        "Eigen ontwerpen uit de studio",
+        "3D-geprint van duurzaam filament",
+        "Klaar voor zelfgemaakte cadeautjes"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

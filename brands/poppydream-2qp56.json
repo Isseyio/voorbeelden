@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "poppydream-2qp56",
+  "merk": "Poppy Dream",
+  "domein": "poppydream.com",
+  "lead_id": "2026-11-16-poppydream.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#D9932B",
+  "kop": "Jullie handbedrukte quilts op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Poppy Dream, ik heb dit gemaakt omdat jullie quilts op de foto's zo rustig en warm ogen dat ze in een feed meteen opvallen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2256:4",
+      "titel": "Met de hand gedrukt",
+      "waarom": "Een grote kop met kleine fotostroken vertelt het ambacht in één zin en laat daarna het echte product zien."
+    },
+    {
+      "node": "2256:17",
+      "titel": "Twee prints",
+      "waarom": "Twee quilts naast elkaar maken kiezen makkelijk en laten zien dat er voor elke slaapkamer een print is."
+    },
+    {
+      "node": "2256:34",
+      "titel": "€250 met kussenslopen",
+      "waarom": "Een duidelijke prijs met wat je erbij krijgt neemt twijfel weg bij een aankoop van dit bedrag."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen & textiel",
+    "kop": "Zo groeien woon- en textielmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw woonmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor het kussen of de tafelloper erbij.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woon- en textielmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "5+",
+        "label": "advertenties heeft Urban Nature Culture nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2256:42",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Poppy Dream (en je 5% korting)",
+    "kop": "Welkom bij Poppy Dream",
+    "tekst": "Nu staat er alleen een aanmeldveld met 5% korting in de footer. Deze welkomstmail vertelt nieuwe inschrijvers meteen hoe jullie quilts gemaakt worden en geeft de korting een gezicht.",
+    "punten": [
+      "Blokprint met houten stempels uit Rajasthan",
+      "Kantha- en crewelsteken uit Bengalen en Kashmir",
+      "Alleen katoen, wol, linnen en jute",
+      "5% korting op de eerste bestelling"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2256:42",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Poppy Dream (en je 5% korting)",
+      "kop": "Welkom bij Poppy Dream",
+      "tekst": "Nu staat er alleen een aanmeldveld met 5% korting in de footer. Deze welkomstmail vertelt nieuwe inschrijvers meteen hoe jullie quilts gemaakt worden en geeft de korting een gezicht.",
+      "punten": [
+        "Blokprint met houten stempels uit Rajasthan",
+        "Kantha- en crewelsteken uit Bengalen en Kashmir",
+        "Alleen katoen, wol, linnen en jute",
+        "5% korting op de eerste bestelling"
+      ]
+    },
+    {
+      "node": "2256:74",
+      "type": "Productspotlight",
+      "onderwerp": "Je bed toe aan iets met een verhaal?",
+      "kop": "Drie quilts op een rij",
+      "tekst": "Een rustige assortimentsmail met Jaipur Bloom, Moon Threads en Poppy Dream, elk met prijs en knop, en een echte review als afsluiter.",
+      "punten": [
+        "Jaipur Bloom, €250",
+        "Moon Threads, €250 met 2 kussenslopen",
+        "Poppy Dream, 1- of 2-persoons",
+        "Review: “Really soft and love the colors on it”"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

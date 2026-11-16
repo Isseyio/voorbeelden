@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "beocca-5j3ke",
+  "merk": "Beocca",
+  "domein": "beocca.com",
+  "lead_id": "2026-11-16-beocca.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A8582A",
+  "kop": "Leren tassen die mooier worden, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Beocca, ik heb dit gemaakt omdat jullie keuze voor alleen plantaardig gelooid leer een verhaal is dat je goed kunt laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2252:3",
+      "titel": "Welke Mavis past bij jou?",
+      "waarom": "Twee kleuren naast elkaar, gedragen door echte mensen, helpen twijfelaars kiezen en laten meteen zien hoe de tas valt."
+    },
+    {
+      "node": "2252:24",
+      "titel": "Leer dat mooier wordt",
+      "waarom": "Een close-up van het leer met korte uitleg maakt duidelijk waarom een tas van €199 de prijs waard is."
+    },
+    {
+      "node": "2252:53",
+      "titel": "Leer, vanaf €69",
+      "waarom": "Eén groot woord en de hele lijn op een rij laten in één oogopslag zien wat Beocca maakt, met een instapprijs die drempels weghaalt."
+    }
+  ],
+  "waarom": {
+    "niche": "tassen en accessoires",
+    "kop": "Zo groeien tassenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw tassenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een tweede tas of een pasjeshouder.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij tassenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Burkely nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2252:70",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Beocca, je 10% staat klaar",
+      "kop": "Welkom bij Beocca",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: de 10% korting op de eerste bestelling, wat Beocca maakt en de drie zekerheden die twijfel wegnemen.",
+      "punten": [
+        "Korting op de eerste bestelling direct in beeld",
+        "Gratis verzending, 30 dagen retour en 2 jaar garantie",
+        "Tweede blok met de Niba van €79 als instapper"
+      ]
+    },
+    {
+      "node": "2252:100",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom wij alleen plantaardig gelooid leer gebruiken",
+      "kop": "Leer dat met je meegroeit",
+      "tekst": "Het verhaal van Lisa en Sven, broer en zus uit Doetinchem, met de Mavis van dichtbij en een afsluiting met jullie eigen foto.",
+      "punten": [
+        "Merkverhaal in een paar zinnen",
+        "Mavis met labels: roltop, vier vakken, laptopvak",
+        "Afsluiter met de oprichters en de Mavis van €199"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17",
+  "nieuwsbrief": {
+    "node": "2252:70",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Beocca, je 10% staat klaar",
+    "kop": "Welkom bij Beocca",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: de 10% korting op de eerste bestelling, wat Beocca maakt en de drie zekerheden die twijfel wegnemen.",
+    "punten": [
+      "Korting op de eerste bestelling direct in beeld",
+      "Gratis verzending, 30 dagen retour en 2 jaar garantie",
+      "Tweede blok met de Niba van €79 als instapper"
+    ]
+  }
+}
