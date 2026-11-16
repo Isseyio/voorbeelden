@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "petitcomite-sdr7d",
+  "merk": "Petit Comité",
+  "domein": "petitcomite.nl",
+  "lead_id": "2026-11-16-petitcomite.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8A7A62",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Petit Comité",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Petit Comité, ik heb dit gemaakt omdat jullie geboortestenen en de handgezette Elodie-oorhangers zich heel goed lenen voor Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2028:2",
+      "titel": "Jouw maand, jouw kleur",
+      "waarom": "Elke maand een eigen steen geeft mensen meteen een persoonlijke reden om te kopen, voor zichzelf of als cadeau."
+    },
+    {
+      "node": "2030:2",
+      "titel": "Handgezet",
+      "waarom": "Een close-up met de details erbij laat zien waarom een oorhanger van €89,95 die prijs waard is."
+    },
+    {
+      "node": "2031:2",
+      "titel": "Welke kleur kies jij?",
+      "waarom": "Twee kleuren naast elkaar maken kiezen makkelijk, en een vraag in de kop zorgt dat mensen blijven kijken."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, zeker rond verjaardagen en feestdagen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "80+",
+        "label": "advertenties heeft MAMALOVES nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2032:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij het Petit Comité",
+    "kop": "Welkom bij het Petit Comité",
+    "tekst": "Een eerste mail voor iedereen die zich aanmeldt voor de 10% korting: de korting groot in beeld, het verhaal achter de naam en twee favorieten.",
+    "punten": [
+      "De 10% korting op de eerste bestelling direct bovenaan, met een duidelijke knop",
+      "Het verhaal van Eline en de vriendinnengroep van haar moeder, met jullie eigen foto",
+      "Twee favorieten met prijs, en gratis sieradendoosje, 30 dagen retour en 6 maanden garantie op een rij"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2032:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij het Petit Comité",
+      "kop": "Welkom bij het Petit Comité",
+      "tekst": "Een eerste mail voor iedereen die zich aanmeldt voor de 10% korting: de korting groot in beeld, het verhaal achter de naam en twee favorieten.",
+      "punten": [
+        "De 10% korting op de eerste bestelling direct bovenaan, met een duidelijke knop",
+        "Het verhaal van Eline en de vriendinnengroep van haar moeder, met jullie eigen foto",
+        "Twee favorieten met prijs, en gratis sieradendoosje, 30 dagen retour en 6 maanden garantie op een rij"
+      ]
+    },
+    {
+      "node": "2032:57",
+      "type": "Cadeaumail",
+      "onderwerp": "Een cadeau met haar eigen steen",
+      "kop": "Een cadeau met haar eigen steen",
+      "tekst": "Een mail voor de cadeaumaanden: vier sieraden met een geboortesteen of klaver, elk met prijs en een eigen knop.",
+      "punten": [
+        "Jullie eigen modelfoto groot in beeld",
+        "Vier producten van €29,95 tot €49,95 onder elkaar",
+        "Het sieradendoosje en verzending voor 17:00 als reden om nu te bestellen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
