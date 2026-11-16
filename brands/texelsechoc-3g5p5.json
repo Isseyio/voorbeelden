@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "texelsechoc-3g5p5",
+  "merk": "De Texelse Chocolaterie",
+  "domein": "detexelsechocolaterie.nl",
+  "lead_id": "2026-11-16-detexelsechocolaterie.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A76022",
+  "kop": "Texelse bonbons op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team De Texelse Chocolaterie, ik heb dit gemaakt omdat jullie de bonbons zelf maken in een eigen productieruimte in Den Burg. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2090:4",
+      "titel": "Gemaakt met",
+      "waarom": "Laat in één beeld zien waar jullie bonbons van gemaakt worden en waar ze vandaan komen."
+    },
+    {
+      "node": "2090:24",
+      "titel": "Huisgemaakt op Texel",
+      "waarom": "Jullie eigen zin over het eiland als grote kop valt op tussen de gewone productfoto's in een feed."
+    },
+    {
+      "node": "2090:44",
+      "titel": "Texel of met alcohol",
+      "waarom": "Een keuzevraag tussen twee mixen nodigt uit om te reageren en door te klikken."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien chocolademerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe chocolaterie niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, ook buiten het seizoen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Tony's Chocolonely nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2091:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij De Texelse Chocolaterie",
+    "kop": "Welkom bij De Texelse Chocolaterie",
+    "tekst": "Fijn dat je er bent. Wij maken bonbons en chocolade in onze eigen productieruimte in Den Burg, met zorg bereid en geïnspireerd op het eiland.",
+    "punten": [
+      "Met zorg bereid in onze eigen productieruimte",
+      "Callebaut-chocolade van 100% duurzame cacao",
+      "Kom proeven in onze winkel aan de Spinbaan"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2091:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij De Texelse Chocolaterie",
+      "kop": "Welkom bij De Texelse Chocolaterie",
+      "tekst": "Fijn dat je er bent. Wij maken bonbons en chocolade in onze eigen productieruimte in Den Burg, met zorg bereid en geïnspireerd op het eiland.",
+      "punten": [
+        "Met zorg bereid in onze eigen productieruimte",
+        "Callebaut-chocolade van 100% duurzame cacao",
+        "Kom proeven in onze winkel aan de Spinbaan"
+      ]
+    },
+    {
+      "node": "2091:39",
+      "type": "Merkverhaal",
+      "onderwerp": "Een droom kwam in vervulling",
+      "kop": "Een droom kwam in vervulling",
+      "tekst": "Sinds 3 februari 2022 staat Esmay, geboren en getogen Tesselaar, in de chocolaterie aan de Spinbaan. De producten en het concept zijn hetzelfde gebleven.",
+      "punten": [
+        "Bonbons gesorteerd, vanaf €17,60",
+        "Callebaut-chocolade, gemaakt in Den Burg",
+        "Een deel van de opbrengst gaat naar de cacaoboeren"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

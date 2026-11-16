@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "limonada-w9q44",
+  "merk": "Studio Limonada",
+  "domein": "studiolimonada.nl",
+  "lead_id": "2026-11-16-studiolimonada.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2F4F35",
+  "kop": "Lampenkappen vol kleur, gemaakt in Den Haag.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Studio Limonada, ik heb dit gemaakt omdat jullie kappen met stoffen van Pierre Frey en Manuel Canovas op Instagram meteen opvallen tussen alle witte lampen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2091:96",
+      "titel": "Kleur",
+      "waarom": "Eén groot woord en vier kappen naast elkaar laten in één blik zien waar Studio Limonada om draait, met op maat als zoekterm."
+    },
+    {
+      "node": "2091:112",
+      "titel": "Geel of roze?",
+      "waarom": "Twee draadloze lampenvoeten naast elkaar laten kiezen voelt als een spelletje en de prijs staat er meteen bij."
+    },
+    {
+      "node": "2091:134",
+      "titel": "Koop geen standaard lampenkap",
+      "waarom": "Een kop die even tegen de verwachting in gaat, met de olifantkap groot in beeld en drie redenen waarom handgemaakt anders is."
+    }
+  ],
+  "waarom": {
+    "niche": "interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw interieurmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende kap of lampenvoet.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "90+",
+        "label": "advertenties heeft Vintlux nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2092:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Studio Limonada",
+    "kop": "Welkom bij Studio Limonada",
+    "tekst": "Op de site zag ik nog geen nieuwsbriefinschrijving. Met een aanmelding en deze welkomstmail maken nieuwe bezoekers meteen kennis met Ysabel, het atelier en het op maat laten maken van een kap.",
+    "punten": [
+      "De Alexander Jaune als eerste beeld",
+      "Uniek, echt handgemaakt en met respect voor de wereld",
+      "Uitnodiging voor de winkel aan de Franklinstraat"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2092:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Studio Limonada",
+      "kop": "Welkom bij Studio Limonada",
+      "tekst": "Op de site zag ik nog geen nieuwsbriefinschrijving. Met een aanmelding en deze welkomstmail maken nieuwe bezoekers meteen kennis met Ysabel, het atelier en het op maat laten maken van een kap.",
+      "punten": [
+        "De Alexander Jaune als eerste beeld",
+        "Uniek, echt handgemaakt en met respect voor de wereld",
+        "Uitnodiging voor de winkel aan de Franklinstraat"
+      ]
+    },
+    {
+      "node": "2092:38",
+      "type": "Assortimentsmail",
+      "onderwerp": "Vier kappen uit de studio",
+      "kop": "Vier kappen uit de studio",
+      "tekst": "Een mail met vier lampenkappen naast elkaar, elk met stof, maat en prijs, en als afsluiter het op maat laten maken.",
+      "punten": [
+        "Wiggle, Daya, Aziatische olifant en Tibet Tiger",
+        "Prijs en maat direct zichtbaar",
+        "Op maat binnen drie weken"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

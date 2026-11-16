@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "koffiemeester-czumb",
+  "merk": "De Koffiemeester",
+  "domein": "dekoffiemeester.nl",
+  "lead_id": "2026-11-16-dekoffiemeester.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#D0B06E",
+  "kop": "Vers gebrand in Schiedam, klaar voor Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team De Koffiemeester, ik heb dit gemaakt omdat jullie op elke zak de branddatum zetten, en dat is precies het soort eerlijk detail dat op Instagram opvalt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2093:4",
+      "titel": "Vers gebrand",
+      "waarom": "Eén groot woord met jullie vier zakken eronder laat in een seconde zien waar De Koffiemeester om draait: verse bonen met de branddatum erop."
+    },
+    {
+      "node": "2093:21",
+      "titel": "Vier bonen, vier karakters",
+      "waarom": "Elke origin met zijn eigen smaaktonen naast elkaar helpt mensen die jullie nog niet kennen meteen een koffie te kiezen."
+    },
+    {
+      "node": "2093:43",
+      "titel": "Nooit meer een lege zak",
+      "waarom": "Het abonnement als routine met schakelaars maakt het voordeel concreet: vers verzonden, in jouw ritme en 10% korting op elke levering."
+    }
+  ],
+  "waarom": {
+    "niche": "koffie",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe koffiebrander niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe proevers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die proevers terugkomen als hun zak leeg is.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij koffiemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft De Koffiejongens nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2094:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij De Koffiemeester",
+    "kop": "Welkom bij De Koffiemeester",
+    "tekst": "Op de site kun je je aanmelden voor nieuwe koffies en aanbiedingen, maar er komt nog geen welkomstmail. Deze mail stelt de branderij in Schiedam voor en helpt nieuwe inschrijvers hun eerste koffie te kiezen.",
+    "punten": [
+      "Jullie vier zakken als eerste beeld",
+      "Vers gebrand, branddatum en vóór 12:00 verzonden in drie iconen",
+      "Brasil Mantiqueira, de meest gekozen koffie, als makkelijke start"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2094:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij De Koffiemeester",
+      "kop": "Welkom bij De Koffiemeester",
+      "tekst": "Op de site kun je je aanmelden voor nieuwe koffies en aanbiedingen, maar er komt nog geen welkomstmail. Deze mail stelt de branderij in Schiedam voor en helpt nieuwe inschrijvers hun eerste koffie te kiezen.",
+      "punten": [
+        "Jullie vier zakken als eerste beeld",
+        "Vers gebrand, branddatum en vóór 12:00 verzonden in drie iconen",
+        "Brasil Mantiqueira, de meest gekozen koffie, als makkelijke start"
+      ]
+    },
+    {
+      "node": "2094:44",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom wij elke dag branden",
+      "kop": "Gebrand in Schiedam",
+      "tekst": "Een mail over de eigen branderij en waarom vers gebrand beter smaakt, met de koffie van de maand uitgelicht en het abonnement als afsluiter.",
+      "punten": [
+        "Jullie eigen foto van de brander als opening",
+        "Peru met vier echte kenmerken rond de zak",
+        "Het abonnement met 10% korting op elke levering"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
