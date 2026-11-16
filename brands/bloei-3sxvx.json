@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "bloei-3sxvx",
+  "merk": "Studio Bloei",
+  "domein": "studiobloei.nl",
+  "lead_id": "2026-11-16-studiobloei.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5E4A36",
+  "kop": "Handgemaakte keramiek uit het atelier, ook online.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Studio Bloei, ik heb dit gemaakt omdat jullie kaarsenhouders en het atelier op Landgoed Eikenburg zo'n rustig, eerlijk beeld geven. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2195:2",
+      "titel": "Van klei tot kaarsenhouder",
+      "waarom": "Laat in drie stappen zien hoe een stuk in het atelier ontstaat, en dat verhaal maakt een prijs van €26 logisch."
+    },
+    {
+      "node": "2195:22",
+      "titel": "Elke houder net even anders",
+      "waarom": "Een close-up met korte labels laat de gespikkelde klei en de maten zien, precies wat iemand wil weten voor hij klikt."
+    },
+    {
+      "node": "2195:43",
+      "titel": "Licht aan",
+      "waarom": "Grote typografie en brandende kaarsen stoppen de duim in de feed, zeker in de donkere maanden."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en keramiek",
+    "kop": "Zo groeien keramiekmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw keramiekmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat workshopdeelnemers en kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woon- en keramiekmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Motel a Miio nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2196:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Studio Bloei",
+    "kop": "Welkom bij Studio Bloei",
+    "tekst": "Een welkomstmail voor iedereen die zich inschrijft: wie jullie zijn, wat ze kunnen verwachten (nieuwe workshopdata, shop updates, The Clay Club) en een eerste product om mee te beginnen.",
+    "punten": [
+      "Nu is er alleen een inschrijfveld in de footer, zonder welkomstmail",
+      "Workshopdeelnemers worden zo ook webshopkopers",
+      "Kaarsenhouder als rustige eerste aankoop"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2196:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Studio Bloei",
+      "kop": "Welkom bij Studio Bloei",
+      "tekst": "Een welkomstmail voor iedereen die zich inschrijft: wie jullie zijn, wat ze kunnen verwachten (nieuwe workshopdata, shop updates, The Clay Club) en een eerste product om mee te beginnen.",
+      "punten": [
+        "Nu is er alleen een inschrijfveld in de footer, zonder welkomstmail",
+        "Workshopdeelnemers worden zo ook webshopkopers",
+        "Kaarsenhouder als rustige eerste aankoop"
+      ]
+    },
+    {
+      "node": "2196:30",
+      "type": "Merkverhaal",
+      "onderwerp": "Een kijkje in ons atelier",
+      "kop": "Een kijkje in ons atelier",
+      "tekst": "Het verhaal achter Studio Bloei: het atelier op Landgoed Eikenburg, Robin en haar team, de kaarsenhouder uitgelicht en de workshops aan de draaischijf.",
+      "punten": [
+        "Laat zien wie er achter de keramiek zit",
+        "Product met labels: maten, tinten, klei",
+        "Verbindt de shop met de workshops"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
