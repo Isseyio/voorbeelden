@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "wallster-5wcb7",
+  "merk": "Wallster",
+  "domein": "wallster.nl",
+  "lead_id": "2026-11-16-wallster.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Drie advertenties voor de fiets aan de muur",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Wallster, ik heb dit gemaakt omdat jullie beugel meer doet dan een fiets ophangen: helm, schoenen en bril krijgen er meteen een plek bij. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2236:112",
+      "titel": "Eén beugel, alles erop",
+      "waarom": "Laat in één beeld zien wat Wallster anders maakt dan een gewone muurbeugel: helm, schoenen en bril hangen erbij."
+    },
+    {
+      "node": "2236:137",
+      "titel": "De fiets in huis",
+      "waarom": "Een grote kop met echte woonkamerfoto's spreekt wielrenners aan die hun racefiets liever laten zien dan wegzetten."
+    },
+    {
+      "node": "2236:154",
+      "titel": "Twee kleuren",
+      "waarom": "Twee varianten naast elkaar helpen mensen kiezen en geven een vaste prijs en een duidelijke knop."
+    }
+  ],
+  "waarom": {
+    "niche": "sport en outdoor",
+    "kop": "Zo groeien sport- en outdoormerken op Instagram.",
+    "tekst": "Wielrenners ontdekken nieuwe spullen vooral tijdens het scrollen, niet via Google. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen en een review achterlaten.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sport- en outdoormerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Stasdock nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2236:170",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Wallster",
+    "kop": "Welkom bij Wallster",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wat Wallster is, waarom wielrenners ervoor kiezen en hoe de fiets er aan de muur uitziet.",
+    "punten": [
+      "Gemaakt in Nederland, van gepoedercoat staal",
+      "Fiets, helm en schoenen op één plek",
+      "Sfeerfoto uit een echte woonkamer als tweede blok"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2236:170",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Wallster",
+      "kop": "Welkom bij Wallster",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wat Wallster is, waarom wielrenners ervoor kiezen en hoe de fiets er aan de muur uitziet.",
+      "punten": [
+        "Gemaakt in Nederland, van gepoedercoat staal",
+        "Fiets, helm en schoenen op één plek",
+        "Sfeerfoto uit een echte woonkamer als tweede blok"
+      ]
+    },
+    {
+      "node": "2236:202",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom we Wallster maakten",
+      "kop": "Gemaakt door twee fietsliefhebbers",
+      "tekst": "Het verhaal van Stephan en Tom, gevolgd door het product met korte labels en een donkere afsluiting met de knop naar de shop.",
+      "punten": [
+        "Verhaal van de oprichters als opening",
+        "Product met labels: helm, bril, schoenen, staal",
+        "Montage in een paar minuten als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

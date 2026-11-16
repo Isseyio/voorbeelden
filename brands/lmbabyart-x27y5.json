@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "lmbabyart-x27y5",
+  "merk": "LM Baby Art",
+  "domein": "lmbabyart.nl",
+  "lead_id": "2026-11-16-lmbabyart.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8C5A4E",
+  "kop": "Een konijntje in een bloemenveld, op Instagram in beeld.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team LM Baby Art, ik heb dit gemaakt omdat een wandlamp die overdag een konijntje is en 's avonds een nachtlampje eigenlijk al de hele advertentie is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2235:3",
+      "titel": "Overdag en 's avonds",
+      "waarom": "Twee foto's naast elkaar laten in één blik zien dat de wandlamp een mooi object is én een nachtlampje."
+    },
+    {
+      "node": "2235:26",
+      "titel": "Eén konijntje, de hele kamer",
+      "waarom": "Ouders richten een kamertje in één thema in, en deze lijst met ronde foto's en prijzen laat zien wat er allemaal bij past."
+    },
+    {
+      "node": "2235:53",
+      "titel": "Met de hand getekend",
+      "waarom": "Grote woorden met jullie eigen kamerfoto's ertussen vertellen in één zin wat LM Baby Art anders maakt: alles uit eigen studio."
+    }
+  ],
+  "waarom": {
+    "niche": "kids en baby",
+    "kop": "Zo groeien babykamermerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw merk voor de babykamer niet via Google, maar tijdens het scrollen, vaak al tijdens de zwangerschap. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de rest van het kamertje.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids- en babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Ik en mijn mama nu tegelijk live, Little Dutch meer dan 5"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2236:38",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij LM Baby Art",
+    "kop": "Welkom bij LM Baby Art",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, wat jullie maken en de gratis babykamerplanner als eerste stap. Op de site zag ik nog geen inschrijving voor een nieuwsbrief; dit is wat nieuwe inschrijvers dan meteen zouden krijgen.",
+    "punten": [
+      "Jullie eigen foto van de wandlamp in de babykamer",
+      "Drie redenen: eigen studio, gratis verzending, gratis planner",
+      "Eén duidelijke volgende stap: de babykamerplanner downloaden"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2236:38",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij LM Baby Art",
+      "kop": "Welkom bij LM Baby Art",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, wat jullie maken en de gratis babykamerplanner als eerste stap. Op de site zag ik nog geen inschrijving voor een nieuwsbrief; dit is wat nieuwe inschrijvers dan meteen zouden krijgen.",
+      "punten": [
+        "Jullie eigen foto van de wandlamp in de babykamer",
+        "Drie redenen: eigen studio, gratis verzending, gratis planner",
+        "Eén duidelijke volgende stap: de babykamerplanner downloaden"
+      ]
+    },
+    {
+      "node": "2236:70",
+      "type": "Merkverhaal",
+      "onderwerp": "Een konijntje in een bloemenveld",
+      "kop": "Een konijntje in een bloemenveld",
+      "tekst": "Een mail over de nieuwste collectie: Laura's aquarel van het konijntje, de muurcirkel met de feiten van de productpagina en de lampen als manier om de set compleet te maken.",
+      "punten": [
+        "Het verhaal van de eigen studio in één blik",
+        "Muurcirkel met vier labels: forex, maten, ophangen, aquarel",
+        "Afsluiting met de wandlamp en hanglamp en hun prijzen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

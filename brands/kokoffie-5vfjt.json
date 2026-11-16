@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "kokoffie-5vfjt",
+  "merk": "Ko Koffie",
+  "domein": "kokoffie.nl",
+  "lead_id": "2026-11-16-kokoffie.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#DB6C9E",
+  "kop": "Vers gebrand in Enschede, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Ko Koffie, ik heb dit gemaakt omdat ik het mooi vind dat jullie bonen elke woensdag vers gebrand worden en in Enschede op de fiets komen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2235:70",
+      "titel": "Ko Koffie belt",
+      "waarom": "Een speels inkomend gesprek valt op tussen gewone posts en zet de verse LOKO-zak groot in beeld."
+    },
+    {
+      "node": "2235:85",
+      "titel": "Van boer tot bakkie",
+      "waarom": "Laat in één oogopslag zien waarom LOKO anders is: geplukt, direct trade, vers gebrand en op de fiets bezorgd."
+    },
+    {
+      "node": "2235:109",
+      "titel": "Elke woensdag vers",
+      "waarom": "Het vaste brandritme is jullie sterkste belofte; met echte foto's tussen de woorden blijft het hangen."
+    }
+  ],
+  "waarom": {
+    "niche": "koffie",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe branderij niet via Google, maar tijdens het scrollen. Koffiemerken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe thuisbarista's en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers elke maand terugkomen voor een nieuwe zak.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "80+",
+        "label": "advertenties heeft Wakuli nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2235:129",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Ko Koffie",
+    "kop": "Welkom bij Ko",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: specialty coffee, vers gebrand in Enschede, en meteen uitleg hoe bestellen en bezorgen werkt.",
+    "punten": [
+      "Elke woensdag vers gebrand, bestellen tot 12:00",
+      "Gratis fietsbezorging in Enschede vanaf €25",
+      "Kaart met de keuze filter of espresso en een knop naar de koffie"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2235:129",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Ko Koffie",
+      "kop": "Welkom bij Ko",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: specialty coffee, vers gebrand in Enschede, en meteen uitleg hoe bestellen en bezorgen werkt.",
+      "punten": [
+        "Elke woensdag vers gebrand, bestellen tot 12:00",
+        "Gratis fietsbezorging in Enschede vanaf €25",
+        "Kaart met de keuze filter of espresso en een knop naar de koffie"
+      ]
+    },
+    {
+      "node": "2236:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Waar je koffie vandaan komt",
+      "kop": "Koffie van Ko. Zo duurzaam mogelijk.",
+      "tekst": "Het verhaal achter de branderij: direct trade, lokaal gebrand in de Spinnerij en bezorgd op de fiets, met de LOKO-huisblend uitgelicht.",
+      "punten": [
+        "Direct gekocht bij boeren, vaak via een coöperatie",
+        "LOKO met labels: arabica uit Brazilië en Peru, een beetje robusta uit Vietnam",
+        "Afsluiting met Eivy van Finca Abarim"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
