@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "koffiebrander-7zpv5",
+  "merk": "De Koffiebrander",
+  "domein": "dekoffiebrander.com",
+  "lead_id": "2026-11-16-dekoffiebrander.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#141211",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor De Koffiebrander",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team De Koffiebrander, ik heb dit gemaakt omdat jullie bij elke koffie laten zien waar de bonen vandaan komen, en dat leent zich heel goed voor Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2034:2",
+      "titel": "Wat er in je kop zit",
+      "waarom": "Herkomst, verwerking en smaaktonen met echte foto's laten in één beeld zien waarom specialty koffie meer is dan gewone koffie."
+    },
+    {
+      "node": "2034:26",
+      "titel": "Van groene boon tot jouw kop",
+      "waarom": "Rowèn en Melissa zelf in beeld maakt het merk persoonlijk, en dat is precies wat een kleine brander onderscheidt van de supermarkt."
+    },
+    {
+      "node": "2034:49",
+      "titel": "De Ontdekbox belt",
+      "waarom": "Een speels beeld met een lage instapprijs van €13,95 maakt de eerste bestelling makkelijk voor mensen die het merk nog niet kennen."
+    }
+  ],
+  "waarom": {
+    "niche": "koffie",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe koffiebrander niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe proevers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die proevers terugkomen als hun zak leeg is.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij koffiemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft De Koffiejongens nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2035:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij De Koffiebrander",
+    "kop": "Welkom bij De Koffiebrander",
+    "tekst": "Een eerste mail voor iedereen die zich aanmeldt: wie Rowèn en Melissa zijn, de drie koffies op een rij en de Ontdekbox om mee te beginnen.",
+    "punten": [
+      "Jullie eigen teamfoto met de zakken groene koffie, direct onder de welkomst",
+      "De drie koffies met smaaktonen, prijs en een eigen knop",
+      "De Ontdekbox van €13,95 als makkelijke eerste bestelling"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2035:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij De Koffiebrander",
+      "kop": "Welkom bij De Koffiebrander",
+      "tekst": "Een eerste mail voor iedereen die zich aanmeldt: wie Rowèn en Melissa zijn, de drie koffies op een rij en de Ontdekbox om mee te beginnen.",
+      "punten": [
+        "Jullie eigen teamfoto met de zakken groene koffie, direct onder de welkomst",
+        "De drie koffies met smaaktonen, prijs en een eigen knop",
+        "De Ontdekbox van €13,95 als makkelijke eerste bestelling"
+      ]
+    },
+    {
+      "node": "2036:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Waar jouw koffie vandaan komt",
+      "kop": "De kracht van herkomst",
+      "tekst": "Een mail over herkomst: geen tussenpartijen, de Nicaragua Red Catuai uitgelicht met zijn kenmerken, en vers gebrand in Hengelo.",
+      "punten": [
+        "Jullie eigen foto's van de plantages en de boeren",
+        "De Nicaragua Red Catuai met herkomst, hoogte en smaaktonen erbij",
+        "Een afsluiting over vers branden en verpakken, met een knop naar de shop"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
