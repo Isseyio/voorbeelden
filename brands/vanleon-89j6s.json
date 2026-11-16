@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "vanleon-89j6s",
+  "merk": "Distilleerderij Leon",
+  "domein": "vanleon.nl",
+  "lead_id": "2026-11-16-vanleon.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E51B1B",
+  "kop": "Van eigen boomgaard tot glas, in het rood van Leon.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Distilleerderij Leon, ik heb dit gemaakt omdat jullie verhaal van gewas tot glas zo mooi in beeld te brengen is, met de boomgaard, de koperen ketel en Leon zelf. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2212:2",
+      "titel": "Van gewas tot glas",
+      "waarom": "Drie ronde foto's van boomgaard, ketel en Leon laten in één oogopslag zien waarom deze appellikeur anders is dan een fles uit het schap."
+    },
+    {
+      "node": "2213:2",
+      "titel": "Proost met de miniset",
+      "waarom": "Eén groot woord en drie smaken in één doosje maken het instapproduct voor nieuwe proevers meteen duidelijk, met een prijs onder de €13."
+    },
+    {
+      "node": "2213:19",
+      "titel": "Leon belt",
+      "waarom": "Een speels belscherm valt op tussen gewone posts en zet de kersenlikeur in geschenkkist neer als kerstcadeau, met de verzending op dezelfde dag erbij."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien drankmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe likeur niet via Google, maar tijdens het scrollen, zeker in de weken voor de feestdagen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "5+",
+        "label": "advertenties heeft Hooghoudt nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2214:4",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Leon",
+    "kop": "Welkom bij Leon",
+    "tekst": "Een warme welkomstmail die vertelt wie Leon is, waarom elke fles goedgekeurd is en die nieuwe inschrijvers uitnodigt voor een rondleiding met proeverij.",
+    "punten": [
+      "Eigen fruit, zelf gestookt, elke fles goedgekeurd",
+      "Directe knop naar de likeuren",
+      "Rondleiding en winactie als tweede reden om te klikken"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2214:4",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Leon",
+      "kop": "Welkom bij Leon",
+      "tekst": "Een warme welkomstmail die vertelt wie Leon is, waarom elke fles goedgekeurd is en die nieuwe inschrijvers uitnodigt voor een rondleiding met proeverij.",
+      "punten": [
+        "Eigen fruit, zelf gestookt, elke fles goedgekeurd",
+        "Directe knop naar de likeuren",
+        "Rondleiding en winactie als tweede reden om te klikken"
+      ]
+    },
+    {
+      "node": "2214:38",
+      "type": "Productspotlight",
+      "onderwerp": "Een likeur van de lekkerste kersen",
+      "kop": "Leon No.8 Kersenlikeur",
+      "tekst": "Het familieverhaal van drie generaties fruittelers, de No.8 met vier korte labels en een afsluiter met de geschenkkist voor de kerst.",
+      "punten": [
+        "Merkverhaal sinds 1989 in Stevensbeek",
+        "Product met labels: kersen, 500 ml, 19%, goedgekeurd",
+        "Geschenkkist van €22,99 als kerstcadeau"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

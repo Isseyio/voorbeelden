@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "boskoop-xkege",
+  "merk": "Boskoopse Fruitbomen",
+  "domein": "boskoopsefruitbomen.nl",
+  "lead_id": "2026-11-16-boskoopsefruitbomen.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C01818",
+  "kop": "Fruitbomen van de eigen kwekerij, klaar voor tuin en terras.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Boskoopse Fruitbomen, ik heb dit gemaakt omdat jullie bomen direct van de eigen kwekerij in Boskoop komen, en dat is een mooi verhaal om te vertellen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2215:2",
+      "titel": "Wat je krijgt",
+      "waarom": "Eén boom met vier ronde foto's beantwoordt de vragen die kopers hebben: welk fruit, hoe groot, waar hij past en hoe hij aankomt."
+    },
+    {
+      "node": "2215:28",
+      "titel": "Appel of pruim?",
+      "waarom": "Twee bomen naast elkaar op een terras maken kiezen makkelijk en laten zien dat een fruitboom ook in een pot past."
+    },
+    {
+      "node": "2215:51",
+      "titel": "Je fruitboom belt",
+      "waarom": "Een speelse 'inkomende oproep' valt op tussen gewone posts en zet de pruimenboom groot in beeld."
+    }
+  ],
+  "waarom": {
+    "niche": "huis en tuin",
+    "kop": "Zo groeien tuinmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe kwekerij niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers in het volgende plantseizoen terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij tuinmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Oudefruitbomen.nl nu tegelijk live, Boomkwekerij M. van de Wouw meer dan 5"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2217:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Boskoopse Fruitbomen",
+    "kop": "Welkom bij Boskoopse Fruitbomen",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn (eigen kwekerij in Boskoop), hoe een boom bij de klant aankomt en hoe je er een cadeau van maakt.",
+    "punten": [
+      "Nu is er alleen een inschrijfveld in de footer, zonder welkomstmail",
+      "Drie dingen die vertrouwen geven: eigen kweek, netjes verpakt, verzorgingstips",
+      "Cadeau-blok met de jute zak en het handgeschreven kaartje"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2217:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Boskoopse Fruitbomen",
+      "kop": "Welkom bij Boskoopse Fruitbomen",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn (eigen kwekerij in Boskoop), hoe een boom bij de klant aankomt en hoe je er een cadeau van maakt.",
+      "punten": [
+        "Nu is er alleen een inschrijfveld in de footer, zonder welkomstmail",
+        "Drie dingen die vertrouwen geven: eigen kweek, netjes verpakt, verzorgingstips",
+        "Cadeau-blok met de jute zak en het handgeschreven kaartje"
+      ]
+    },
+    {
+      "node": "2218:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Fruit uit je eigen tuin",
+      "kop": "Fruit uit je eigen tuin",
+      "tekst": "Het verhaal van de kwekerij van Ronald en Sandra, met de appelboom Elstar uitgelicht: oogst, hoogte, pot en bestuiving in één oogopslag.",
+      "punten": [
+        "Terrasfoto als opening: een fruitboom past ook in een pot",
+        "Productblok met vier labels in plaats van een lange tekst",
+        "Afsluiting met prijs en waar de boom past"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

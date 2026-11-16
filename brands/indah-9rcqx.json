@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "indah-9rcqx",
+  "merk": "by Indah",
+  "domein": "byindah.nl",
+  "lead_id": "2026-11-16-byindah.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5E7F73",
+  "kop": "Natuursteen sieraden, met de hand gemaakt in Hengelo.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team by Indah, ik heb dit gemaakt omdat de foto's van de nieuwe collectie zo mooi laten zien hoe jullie sieraden gedragen worden. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2209:5",
+      "titel": "Enkelbandjes",
+      "waarom": "Eén groot woord en drie kleuren naast elkaar laten in een seconde zien wat er nieuw is, en de zoekbalk sluit aan bij hoe mensen zoeken."
+    },
+    {
+      "node": "2209:22",
+      "titel": "Met de hand geregen",
+      "waarom": "Een close-up van een hand met een enkelbandje vertelt dat alles handwerk is, met de belangrijkste kenmerken eromheen."
+    },
+    {
+      "node": "2209:44",
+      "titel": "Vanaf €19,95",
+      "waarom": "Een duidelijke prijs en het merk groot in beeld boven een echte modelfoto werken goed voor mensen die jullie nog niet kennen."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Notbranded nu tegelijk live, Jouw-juweeltjes meer dan 15"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2209:52",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij by Indah",
+    "kop": "Welkom bij by Indah",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Lieselotte is, waarom natuursteen en kleurvast rvs, en één sieraad als eerste stap.",
+    "punten": [
+      "Nu is er op de site nog geen inschrijving; deze mail is de eerste stap van een welkomstflow",
+      "Drie redenen in een oogopslag: natuursteen, kleurvast rvs, 30 dagen geld terug",
+      "Eén duidelijke volgende stap: de Juwita-armband"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2209:52",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij by Indah",
+      "kop": "Welkom bij by Indah",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Lieselotte is, waarom natuursteen en kleurvast rvs, en één sieraad als eerste stap.",
+      "punten": [
+        "Nu is er op de site nog geen inschrijving; deze mail is de eerste stap van een welkomstflow",
+        "Drie redenen in een oogopslag: natuursteen, kleurvast rvs, 30 dagen geld terug",
+        "Eén duidelijke volgende stap: de Juwita-armband"
+      ]
+    },
+    {
+      "node": "2209:91",
+      "type": "Assortimentsmail",
+      "onderwerp": "Nieuw: de Talisa-enkelbandjes",
+      "kop": "Nieuw: de Talisa-enkelbandjes",
+      "tekst": "Een mail bij de nieuwe collectie: één sfeerfoto van de enkelbandjes en vier sieraden om te combineren, elk met een eigen knop.",
+      "punten": [
+        "De nieuwe collectie krijgt een eigen moment in de inbox",
+        "Vier producten met prijs en knop, zodat kiezen makkelijk is",
+        "Afsluiten met gratis verzending vanaf €40 en 30 dagen geld terug"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

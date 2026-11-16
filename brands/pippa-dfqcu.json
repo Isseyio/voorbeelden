@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "pippa-dfqcu",
+  "merk": "PIPPA Equestrian Soap",
+  "domein": "pippa-equestrian.com",
+  "lead_id": "2026-11-16-pippa-equestrian.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2D5A50",
+  "kop": "Natuurlijke verzorging, op Instagram in beeld",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team PIPPA, ik heb dit gemaakt omdat een paard dat aan een shampoobar in je hand snuffelt eigenlijk al de hele advertentie is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2210:3",
+      "titel": "Alleen wat erin hoort",
+      "waarom": "Vijf herkenbare ingrediënten naast een echt paard laten in één blik zien waarom een shampoobar anders is dan een fles."
+    },
+    {
+      "node": "2210:24",
+      "titel": "Gemaakt met",
+      "waarom": "Wie iets op de huid van zijn paard gebruikt, wil weten wat erin zit, en deze opbouw legt dat rustig uit met jullie eigen iconen."
+    },
+    {
+      "node": "2210:48",
+      "titel": "Je paard belt",
+      "waarom": "Een speels idee dat het scrollen even stopt en eindigt bij de prijs en de gratis verzending."
+    }
+  ],
+  "waarom": {
+    "niche": "paard en hond",
+    "kop": "Zo groeien merken voor paard en hond op Instagram.",
+    "tekst": "De meeste ruiters en hondenbaasjes ontdekken een nieuw verzorgingsmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun bar op is.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij merken voor paard en hond vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Eerlijck & Natuurlijk nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2211:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij PIPPA",
+    "kop": "Welkom bij PIPPA.",
+    "tekst": "Een welkomstmail die laat zien hoe een shampoobar werkt, met een opstapje naar de hondenbars.",
+    "punten": [
+      "Handgemaakt in Nederland, zonder SLS, plastic of palmolie",
+      "Zo werkt een shampoobar in drie stappen",
+      "Ook voor je hond, vanaf € 7,95"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2211:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij PIPPA",
+      "kop": "Welkom bij PIPPA.",
+      "tekst": "Een welkomstmail die laat zien hoe een shampoobar werkt, met een opstapje naar de hondenbars.",
+      "punten": [
+        "Handgemaakt in Nederland, zonder SLS, plastic of palmolie",
+        "Zo werkt een shampoobar in drie stappen",
+        "Ook voor je hond, vanaf € 7,95"
+      ]
+    },
+    {
+      "node": "2211:33",
+      "type": "Merkverhaal",
+      "onderwerp": "Begonnen voor één paard",
+      "kop": "Begonnen voor één paard.",
+      "tekst": "Het verhaal van Odette en de Honey & Propolis bar, met wat erin zit en de honingzalf als vervolgstap.",
+      "punten": [
+        "In 2021 gemaakt voor haar eigen paard",
+        "Rauwe BIO honing, BIO propolis en drie milde oliën",
+        "180 gram, goed voor 10 tot 15 wasbeurten"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
