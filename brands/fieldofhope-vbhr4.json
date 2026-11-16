@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "fieldofhope-vbhr4",
+  "merk": "Field of Hope",
+  "domein": "fieldofhope.nl",
+  "lead_id": "2026-11-16-fieldofhope.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B28787",
+  "kop": "Bloemen met een verhaal, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Field of Hope, ik heb dit gemaakt omdat het verhaal achter jullie werk, bloem voor bloem gedroogd en in een vintage lijst gezet, zich heel goed laat zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2240:4",
+      "titel": "Elke bloem apart",
+      "waarom": "Een detailfoto met korte uitleg laat zien hoeveel vakmanschap erin zit, en dat is precies waarom iemand zijn bruidsboeket aan jullie toevertrouwt."
+    },
+    {
+      "node": "2240:24",
+      "titel": "Kunst die blijft",
+      "waarom": "Jullie eigen belofte als grote kop, met echte werkfoto's ertussen, valt op tussen alle bloemenfoto's in de feed."
+    },
+    {
+      "node": "2240:44",
+      "titel": "Zo werkt het",
+      "waarom": "Wie een bruidsboeket wil laten bewaren, wil vooral weten wat er gebeurt; vier duidelijke stappen nemen die twijfel weg."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een merk als Field of Hope niet via Google, maar tijdens het scrollen, vaak rond een bruiloft of een afscheid. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe klanten en houden hun kosten per aanvraag laag. Een vaste nieuwsbrief zorgt dat mensen jullie onthouden tot het moment daar is.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij interieurmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "2240:76",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Field of Hope",
+    "kop": "Welkom bij Field of Hope",
+    "tekst": "Een warme eerste mail voor nieuwe inschrijvers: wat Field of Hope maakt, hoe het atelier werkt en waar je terecht kunt met bloemen die je wilt bewaren.",
+    "punten": [
+      "Met de hand gedroogd, elke bloem apart",
+      "80% gerecycled glas en vintage lijsten",
+      "Tweede blok voor bruidsboeketten en afscheidsbloemen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2240:76",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Field of Hope",
+      "kop": "Welkom bij Field of Hope",
+      "tekst": "Een warme eerste mail voor nieuwe inschrijvers: wat Field of Hope maakt, hoe het atelier werkt en waar je terecht kunt met bloemen die je wilt bewaren.",
+      "punten": [
+        "Met de hand gedroogd, elke bloem apart",
+        "80% gerecycled glas en vintage lijsten",
+        "Tweede blok voor bruidsboeketten en afscheidsbloemen"
+      ]
+    },
+    {
+      "node": "2240:108",
+      "type": "Werkwijze",
+      "onderwerp": "Hoe jouw bloemen kunst worden",
+      "kop": "Hoe jouw bloemen kunst worden",
+      "tekst": "De werkwijze van het atelier in één mail: drogen in de droogkamer, drie lijstvoorstellen en het ontwerp vooraf zien, met een afsluiting voor bruidsboeketten vanaf €250.",
+      "punten": [
+        "Werkwijze als verhaal",
+        "Lijst met labels: vintage lijst, nieuw glas, zuurvrij papier, wax zegel",
+        "Duidelijke afsluiter met prijs vanaf €250"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

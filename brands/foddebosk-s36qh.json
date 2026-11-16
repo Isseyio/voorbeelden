@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "foddebosk-s36qh",
+  "merk": "De Foddebosk",
+  "domein": "defoddebosk.nl",
+  "lead_id": "2026-11-16-defoddebosk.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2B466C",
+  "kop": "Schapenvachtmanden die op Instagram verkopen",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team De Foddebosk, ik heb dit gemaakt omdat een kat of hond die in jullie mand ligt eigenlijk al de beste advertentie is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2243:3",
+      "titel": "Gemaakt van restvachten",
+      "waarom": "Ronde detailfoto's van wol, rand en bodem laten zien waarom deze mand anders is dan een gewone hondenmand."
+    },
+    {
+      "node": "2243:106",
+      "titel": "Hier gaan ze in wonen",
+      "waarom": "Echte reviewzinnen rond een foto van een hond in de mand geven vertrouwen, met de 4,95 uit 129 reviews als bewijs."
+    },
+    {
+      "node": "2243:150",
+      "titel": "Voor kat én hond",
+      "waarom": "Twee foto's naast elkaar maken in één oogopslag duidelijk dat de mand voor katten en honden past."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien huisdierenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe mand of vacht voor hun huisdier niet via Google, maar tijdens het scrollen, vaak met een foto van een hond of kat die er al in ligt. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een tweede mand of vacht.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft BuddyBeds nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2244:3",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij De Foddebosk",
+    "kop": "Welkom bij De Foddebosk",
+    "tekst": "Een welkomstmail die de 10%-code welkom laat zien, die nu alleen in de footer staat, met de drie redenen voor een schapenvacht en de mogelijkheid om op afspraak af te halen.",
+    "punten": [
+      "10% welkomstkorting met code welkom",
+      "Warm in de winter, koel in de zomer",
+      "Afhalen op afspraak in De Westereen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2244:3",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij De Foddebosk",
+      "kop": "Welkom bij De Foddebosk",
+      "tekst": "Een welkomstmail die de 10%-code welkom laat zien, die nu alleen in de footer staat, met de drie redenen voor een schapenvacht en de mogelijkheid om op afspraak af te halen.",
+      "punten": [
+        "10% welkomstkorting met code welkom",
+        "Warm in de winter, koel in de zomer",
+        "Afhalen op afspraak in De Westereen"
+      ]
+    },
+    {
+      "node": "2244:34",
+      "type": "Merkverhaal",
+      "onderwerp": "Hoi, wij zijn Michael en Nieske",
+      "kop": "Van restvacht tot lievelingsplek",
+      "tekst": "Een mail over wie er achter De Foddebosk zit, met de schapenvachtmand uitgelicht en wat elke mand bijzonder maakt.",
+      "punten": [
+        "Restvachten, duurzaam en 100% ecologisch gelooid",
+        "Elke mand is uniek en hand gemaakt",
+        "Schapenvachtmand 75 cm voor € 109,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
