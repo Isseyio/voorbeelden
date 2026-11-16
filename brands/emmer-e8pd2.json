@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "emmer-e8pd2",
+  "merk": "Mevrouw Emmer",
+  "domein": "mevrouwemmer.nl",
+  "lead_id": "2026-11-16-mevrouwemmer.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#BA94C4",
+  "kop": "Teckel Frits op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Marieke, ik heb dit gemaakt omdat Frits op de nieuwe kerstkaart zijn kerstpost zelf komt bezorgen, en zo'n eigenwijze teckel valt op tussen al het scrollen. Alles is gemaakt met je eigen beelden en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2192:4",
+      "titel": "31 keer 5 sterren",
+      "waarom": "Echte reviews naast het doosje kerstkaarten geven vertrouwen op het moment dat mensen kerstkaarten zoeken."
+    },
+    {
+      "node": "2192:40",
+      "titel": "Frits belt",
+      "waarom": "Een inkomend gesprek van de teckel zelf laat mensen stoppen met scrollen en past bij de eigenwijze toon."
+    },
+    {
+      "node": "2192:57",
+      "titel": "Elke week overzicht",
+      "waarom": "Een herkenbare gezinsweek laat in één blik zien waarom de familieplanner handig is."
+    }
+  ],
+  "waarom": {
+    "niche": "kaarten en cadeaus",
+    "kop": "Zo groeien kaarten- en cadeaumerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kaartenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen bij elke verjaardag en elke kerst.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kaarten- en cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Kaartje2go nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2192:85",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Mevrouw Emmer",
+    "kop": "Welkom bij Mevrouw Emmer",
+    "tekst": "Fijn dat je er bent. Je krijgt 10% korting op je eerste kaartjes van Frits of Hardop denken. Daarna vertelt Marieke hoe alles bij haar wordt getekend en geschreven.",
+    "punten": [
+      "Zelf getekend door Marieke, sinds 2012",
+      "Voor 23.59 uur besteld, morgen verzonden",
+      "Gratis verzenden vanaf € 40 (NL)"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2192:85",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Mevrouw Emmer",
+      "kop": "Welkom bij Mevrouw Emmer",
+      "tekst": "Fijn dat je er bent. Je krijgt 10% korting op je eerste kaartjes van Frits of Hardop denken. Daarna vertelt Marieke hoe alles bij haar wordt getekend en geschreven.",
+      "punten": [
+        "Zelf getekend door Marieke, sinds 2012",
+        "Voor 23.59 uur besteld, morgen verzonden",
+        "Gratis verzenden vanaf € 40 (NL)"
+      ]
+    },
+    {
+      "node": "2192:118",
+      "type": "Assortimentsmail",
+      "onderwerp": "Kerstpost van Frits",
+      "kop": "Kerstpost van Frits",
+      "tekst": "Vier favorieten in één mail: het doosje kerstkaarten, de familieplanner 2027, de verjaardagskalender en een Hardop denken-kaart, met een echte review erbij.",
+      "punten": [
+        "Doosje kerstkaarten Teckel · € 12,99",
+        "Familieplanner 2027 · € 19,95",
+        "Verjaardagskalender · € 16,95",
+        "Hardop denken. 'Hoera. Of zoiets.' · € 2,75"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

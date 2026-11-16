@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "ribbon-7f6v4",
+  "merk": "RIBBON",
+  "domein": "ribbonsportgrip.com",
+  "lead_id": "2026-11-16-ribbonsportgrip.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E9468B",
+  "kop": "Een nieuwe grip, elke week in beeld",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team RIBBON, ik heb dit gemaakt omdat jullie voor- en na-foto's van versleten grips zo goed laten zien waarom een nieuwe grip het verschil maakt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2192:173",
+      "titel": "Voor en na",
+      "waarom": "Elke hockeyspeler herkent een kapotte grip meteen, en de foto ernaast laat in één blik zien wat de Sleeve oplost."
+    },
+    {
+      "node": "2192:188",
+      "titel": "Spelers over de Sleeve",
+      "waarom": "Echte reviews van spelers overtuigen mensen die RIBBON nog niet kennen, met de 30 dagen zonder risico als laatste duwtje."
+    },
+    {
+      "node": "2192:230",
+      "titel": "Je stick belt",
+      "waarom": "Een speelse belscherm-grap valt op tussen de gewone sportadvertenties en zet de Sleeve groot in beeld."
+    }
+  ],
+  "waarom": {
+    "niche": "hockey",
+    "kop": "Zo groeien sportmerken op Instagram.",
+    "tekst": "De meeste hockeyspelers ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram en TikTok. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe spelers en houden hun kosten per aankoop laag. Omdat een grip na een paar maanden slijt, zorgt een vaste nieuwsbrief dat spelers bij jullie terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sportmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Osaka nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2193:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Team RIBBON",
+    "kop": "Welkom bij Team RIBBON",
+    "tekst": "Een welkomstmail voor iedereen die zich via de footer aanmeldt, met jullie eigen belofte van een gratis End Tape bij de eerste grip en de drie redenen waarom spelers overstappen.",
+    "punten": [
+      "Jullie echte welkomstcadeau: gratis End Tape bij de eerste grip",
+      "Drie redenen in één oogopslag: binnen 24 uur verzonden, 30 dagen zonder risico, 4,8 op Trustpilot",
+      "Doorklik naar de Sleeve met de heet-waterfoto"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2193:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Team RIBBON",
+      "kop": "Welkom bij Team RIBBON",
+      "tekst": "Een welkomstmail voor iedereen die zich via de footer aanmeldt, met jullie eigen belofte van een gratis End Tape bij de eerste grip en de drie redenen waarom spelers overstappen.",
+      "punten": [
+        "Jullie echte welkomstcadeau: gratis End Tape bij de eerste grip",
+        "Drie redenen in één oogopslag: binnen 24 uur verzonden, 30 dagen zonder risico, 4,8 op Trustpilot",
+        "Doorklik naar de Sleeve met de heet-waterfoto"
+      ]
+    },
+    {
+      "node": "2193:34",
+      "type": "Productvergelijking",
+      "onderwerp": "Cork of Sleeve?",
+      "kop": "Cork of Sleeve? Of allebei.",
+      "tekst": "Een mail die spelers helpt kiezen: de Cork Grip uitgelicht met korte labels, Cork en Sleeve naast elkaar in een tabel, en de Starter Kit als afsluiting.",
+      "punten": [
+        "Cork Grip met vier labels uit jullie eigen productinfo",
+        "Vergelijkingstabel: soort, gevoel, aanbrengen en prijs",
+        "Afsluiting met de Starter Kit voor €34,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
