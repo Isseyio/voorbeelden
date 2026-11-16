@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "runes-faye9",
+  "merk": "Runes Movement",
+  "domein": "runesmovement.com",
+  "lead_id": "2026-11-16-runesmovement.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B23414",
+  "kop": "Sportondergoed met een eerlijk verhaal, klaar voor Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Runes Movement, ik heb dit gemaakt omdat jullie zo eerlijk zijn over plassen tijdens het sporten, en dat soort openheid valt op Instagram meteen op. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2104:3",
+      "titel": "Bloed, zweet en plas",
+      "waarom": "Jullie eigen foto met de handen en het broekje, plus drie korte kenmerken, laat in één blik zien wat het broekje doet."
+    },
+    {
+      "node": "2104:21",
+      "titel": "Squat zo diep als je wilt",
+      "waarom": "Een grote kop met jullie sportfoto's tussen de woorden spreekt vrouwen aan op het moment dat het misgaat: midden in een training."
+    },
+    {
+      "node": "2104:40",
+      "titel": "Sweat-free of super absorbent?",
+      "waarom": "Twee broekjes naast elkaar met prijs maakt kiezen makkelijk, en de merkbalk vertelt waar ze van gemaakt zijn."
+    }
+  ],
+  "waarom": {
+    "niche": "sportondergoed",
+    "kop": "Zo groeien ondergoedmerken op Instagram.",
+    "tekst": "De meeste vrouwen ontdekken een nieuw ondergoedmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een welkomstmail na de inschrijving zorgt dat twijfelaars terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij ondergoedmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Moodies Undies nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2106:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de movement",
+    "kop": "Welkom bij de movement",
+    "tekst": "Op de site staat nog geen nieuwsbriefinschrijving. Met een aanmelding en deze welkomstmail maken nieuwe bezoekers meteen kennis met Runes Movement en waar jullie voor staan.",
+    "punten": [
+      "Jullie eigen modelfoto als eerste beeld",
+      "Droog, Italiaanse stof en eerlijke prijzen in drie iconen",
+      "De absorberende sports undies van €39 als makkelijke start"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2106:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de movement",
+      "kop": "Welkom bij de movement",
+      "tekst": "Op de site staat nog geen nieuwsbriefinschrijving. Met een aanmelding en deze welkomstmail maken nieuwe bezoekers meteen kennis met Runes Movement en waar jullie voor staan.",
+      "punten": [
+        "Jullie eigen modelfoto als eerste beeld",
+        "Droog, Italiaanse stof en eerlijke prijzen in drie iconen",
+        "De absorberende sports undies van €39 als makkelijke start"
+      ]
+    },
+    {
+      "node": "2106:40",
+      "type": "Vergelijking",
+      "onderwerp": "Sweat-free of super absorbent?",
+      "kop": "Droog blijven, op jouw manier",
+      "tekst": "Een mail die de twee soorten sportondergoed naast elkaar zet, zodat lezers in één blik zien welk broekje bij hun training past.",
+      "punten": [
+        "De Wide Waist met vier echte kenmerken eromheen",
+        "Vergelijkingstabel met prijs, gebruik en modellen",
+        "Afsluiting met jullie foto van twee sportende vrouwen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

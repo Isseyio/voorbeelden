@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "husk-5kbyk",
+  "merk": "HUSK Ceramics",
+  "domein": "huskceramics.com",
+  "lead_id": "2026-11-16-huskceramics.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1F2021",
+  "kop": "Handgemaakt porselein uit Utrecht, klaar voor Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team HUSK, ik heb dit gemaakt omdat jullie elk stuk van begin tot eind zelf maken in jullie atelier in Utrecht, en dat zie je terug in elke foto. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2114:16",
+      "titel": "Porselein",
+      "waarom": "Eén rustig woord met drie van jullie stukken en hun prijs laat in een paar seconden zien wat HUSK maakt."
+    },
+    {
+      "node": "2114:39",
+      "titel": "De Sommar jug van dichtbij",
+      "waarom": "Jullie detailfoto met korte labels maakt het vakmanschap zichtbaar: geglazuurd, gepolijst en geschikt voor elke dag."
+    },
+    {
+      "node": "2114:63",
+      "titel": "Plato plate vanaf €32",
+      "waarom": "Een duidelijke instapprijs boven jullie eigen foto van de borden, met de naam groot in beeld, maakt de stap naar de shop klein."
+    }
+  ],
+  "waarom": {
+    "niche": "servies",
+    "kop": "Zo groeien keukenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken nieuw servies niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een welkomstmail na de inschrijving zorgt dat die kopers terugkomen voor het volgende stuk.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij keukenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij keukenmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "2115:67",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij HUSK",
+    "kop": "Welkom bij HUSK",
+    "tekst": "Op de site kun je je aanmelden voor de mailinglijst, maar er volgt nog geen welkomstmail. Deze mail stelt het atelier in Utrecht voor en laat nieuwe inschrijvers meteen jullie porselein zien.",
+    "punten": [
+      "Jullie Plato plates als eerste beeld",
+      "Handgemaakt, voor elke dag en op bestelling gemaakt in drie blokken",
+      "De Sommar jug met jullie eigen foto van het schenken"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2115:67",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij HUSK",
+      "kop": "Welkom bij HUSK",
+      "tekst": "Op de site kun je je aanmelden voor de mailinglijst, maar er volgt nog geen welkomstmail. Deze mail stelt het atelier in Utrecht voor en laat nieuwe inschrijvers meteen jullie porselein zien.",
+      "punten": [
+        "Jullie Plato plates als eerste beeld",
+        "Handgemaakt, voor elke dag en op bestelling gemaakt in drie blokken",
+        "De Sommar jug met jullie eigen foto van het schenken"
+      ]
+    },
+    {
+      "node": "2115:107",
+      "type": "Merkverhaal",
+      "onderwerp": "Van gips tot glazuur",
+      "kop": "Van gips tot glazuur, alles in ons atelier",
+      "tekst": "Een mail over Suzan en de studio aan de Gietijzerstraat, met de Sommar jug van dichtbij en een uitnodiging voor een bezoek of workshop als afsluiter.",
+      "punten": [
+        "Jullie studiofoto als opening",
+        "De Sommar jug met vier echte kenmerken",
+        "Atelierbezoek op afspraak en de workshops"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

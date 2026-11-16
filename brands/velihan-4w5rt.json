@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "velihan-4w5rt",
+  "merk": "Velihan Beardcare",
+  "domein": "velihanbeardcare.com",
+  "lead_id": "2026-11-16-velihanbeardcare.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#CCA834",
+  "kop": "Velihan Beardcare op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Velihan Beardcare, ik heb dit gemaakt omdat het merk begon met een student die baardverzorging zocht die echt werkt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2109:2",
+      "titel": "Eén druppel",
+      "waarom": "Een close-up van de pipet laat in één beeld zien hoe licht de olie is, met de prijs er direct bij."
+    },
+    {
+      "node": "2109:22",
+      "titel": "Olie of balsem",
+      "waarom": "Twee producten naast elkaar helpen nieuwe kopers kiezen, en de 2+1-actie geeft een reden om meteen te bestellen."
+    },
+    {
+      "node": "2109:47",
+      "titel": "Een cadeau voor elke baard",
+      "waarom": "Richting de feestdagen zoeken veel mensen een cadeau, en de sets en de mystery gift maken die keuze makkelijk."
+    }
+  ],
+  "waarom": {
+    "niche": "baardverzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "De meeste mannen ontdekken een nieuw baardmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun olie op is.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft The Alpha Men nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2111:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Velihan Beardcare",
+    "kop": "Welkom bij Velihan Beardcare",
+    "tekst": "Fijn dat je er bent. Als welkom krijg je 10% korting op je eerste bestelling met de code baard10.",
+    "punten": [
+      "Begonnen tijdens de studie van oprichter Velihan Dur",
+      "Baardolie Sandalwood, 30 ml, €14,99",
+      "Baardbalsem Vanilla Glow, 30 g, €11,99",
+      "Baardborstel, €9,99"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2111:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Velihan Beardcare",
+      "kop": "Welkom bij Velihan Beardcare",
+      "tekst": "Fijn dat je er bent. Als welkom krijg je 10% korting op je eerste bestelling met de code baard10.",
+      "punten": [
+        "Begonnen tijdens de studie van oprichter Velihan Dur",
+        "Baardolie Sandalwood, 30 ml, €14,99",
+        "Baardbalsem Vanilla Glow, 30 g, €11,99",
+        "Baardborstel, €9,99"
+      ]
+    },
+    {
+      "node": "2111:51",
+      "type": "Productspotlight",
+      "onderwerp": "Wat maakt onze baardolie zo goed?",
+      "kop": "Wat maakt onze baardolie zo goed?",
+      "tekst": "Een lichte, frisse baardolie voor elke baard en elk seizoen, met het verhaal achter het merk en de geuren op een rij.",
+      "punten": [
+        "Natuurlijke ingrediënten, cruelty free",
+        "Licht en fris, voor korte en lange baarden",
+        "30 ml voor €14,99, ook in 100 ml",
+        "Sandalwood, Cedar Pine, Clary Sage, Ocean Blue Wave of Unscented"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
