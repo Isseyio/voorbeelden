@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "wijgraverenhout-v2se5",
+  "merk": "Wij Graveren Hout",
+  "domein": "wijgraverenhout.nl",
+  "lead_id": "2026-11-16-wijgraverenhout.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B5633A",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Wij Graveren Hout",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Wij Graveren Hout, ik heb dit gemaakt omdat jullie borrelplanken met namen, stadskaarten en tekeningen precies het soort cadeau zijn dat mensen op Instagram willen bewaren en delen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2047:3",
+      "titel": "Cadeaus met een verhaal",
+      "waarom": "Jullie eigen sfeerfoto's in de kop laten in één beeld zien hoe breed het aanbod is, en de borrelplank met namen maakt meteen duidelijk wat je kunt laten graveren."
+    },
+    {
+      "node": "2048:2",
+      "titel": "Zo maken we jullie plank",
+      "waarom": "Laten zien dat alles in jullie eigen werkplaats in Ermelo wordt gemaakt geeft vertrouwen bij een persoonlijk cadeau dat je niet kunt retourneren."
+    },
+    {
+      "node": "2048:25",
+      "titel": "Koop geen bos bloemen",
+      "waarom": "Een kop die even tegen de verwachting ingaat laat mensen stoppen met scrollen, en de zonnebloem op de plank geeft direct het antwoord."
+    }
+  ],
+  "waarom": {
+    "niche": "cadeaus",
+    "kop": "Zo groeien cadeaumerken op Instagram.",
+    "tekst": "De meeste mensen zoeken niet actief naar een gegraveerde borrelplank, ze komen hem tegen tijdens het scrollen, vaak vlak voor een verjaardag, bruiloft of de feestdagen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers bij het volgende cadeaumoment terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Namensmij nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2049:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Wij Graveren Hout",
+    "kop": "Welkom bij Wij Graveren Hout",
+    "tekst": "Een eerste mail voor iedereen die zich inschrijft: wie Jasper en Mandy zijn, hoe jullie werken en een uitnodiging om een eigen hexagonwand samen te stellen.",
+    "punten": [
+      "Jullie eigen lijntekening-foto groot in de welkomstkaart",
+      "Gemaakt in Ermelo, FSC-hout uit Europa en verzonden in 1–3 dagen in drie blokjes",
+      "De hexagons met de echte stapelkorting op sets van 3 of 5"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2049:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Wij Graveren Hout",
+      "kop": "Welkom bij Wij Graveren Hout",
+      "tekst": "Een eerste mail voor iedereen die zich inschrijft: wie Jasper en Mandy zijn, hoe jullie werken en een uitnodiging om een eigen hexagonwand samen te stellen.",
+      "punten": [
+        "Jullie eigen lijntekening-foto groot in de welkomstkaart",
+        "Gemaakt in Ermelo, FSC-hout uit Europa en verzonden in 1–3 dagen in drie blokjes",
+        "De hexagons met de echte stapelkorting op sets van 3 of 5"
+      ]
+    },
+    {
+      "node": "2050:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Hoe een krans voor Moederdag Wij Graveren Hout werd",
+      "kop": "Hout dat je verhaal vertelt.",
+      "tekst": "Een mail over hoe het begon, met jullie eigen foto van Jasper en Mandy, de stadskaart-borrelplank uitgelicht en een uitnodiging om zelf een plank te ontwerpen.",
+      "punten": [
+        "Het verhaal van de eerste laser en de kransen voor Moederdag",
+        "De stadskaart op borrelplank met vier kenmerken uitgelicht",
+        "Afsluiting met de ontwerptool en een foto uit de werkplaats"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
