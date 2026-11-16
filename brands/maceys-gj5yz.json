@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "maceys-gj5yz",
+  "merk": "Macey's Candles & Decorations",
+  "domein": "maceyscandles.nl",
+  "lead_id": "2026-11-16-maceyscandles.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#96777D",
+  "kop": "Handgegoten in Heemskerk, klaar voor de kerstdrukte",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Macey's, ik heb dit gemaakt omdat jullie waxmelts zo mooi in seizoenen denken, van Home for Autumn tot de Grote Advent Waxmelt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2137:2",
+      "titel": "24 dagen kerst",
+      "waarom": "De advent-waxmelt als dagstrip laat in één blik zien wat je koopt, en de pre-order geeft een reden om nu te bestellen."
+    },
+    {
+      "node": "2137:27",
+      "titel": "Wat zit erin",
+      "waarom": "Ronde close-ups van de bloemen maken Secret Garden tastbaar en vertellen tegelijk dat alles met de hand gegoten is."
+    },
+    {
+      "node": "2137:49",
+      "titel": "Zo ruikt jouw huis",
+      "waarom": "Een grote kop met jullie eigen sfeerfoto's ertussen stopt het scrollen, en de waxmelts van €5,95 maken de stap klein."
+    }
+  ],
+  "waarom": {
+    "niche": "kaarsen en waxmelts",
+    "kop": "Zo groeien kaarsenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kaarsenmerk niet via Google, maar tijdens het scrollen. Zeker rond kerst zoekt iedereen cadeaus en sfeer, en merken die dan elke week nieuwe advertenties testen, houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kaarsenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "5+",
+        "label": "advertenties hebben Geurvoorjehuis en Kiesgeurig.nl nu elk tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2138:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Macey's, fijn dat je er bent",
+    "kop": "Welkom bij Macey's",
+    "tekst": "Een warme welkomstmail die de 10% korting uit jullie aankondigingsbalk echt aflevert en meteen vertelt wie Regina en Macey zijn.",
+    "punten": [
+      "Moeder en dochter uit Heemskerk als haakje",
+      "10% korting op de eerste bestelling, zoals in de balk",
+      "Een concrete tip om mee te beginnen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2138:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Macey's, fijn dat je er bent",
+      "kop": "Welkom bij Macey's",
+      "tekst": "Een warme welkomstmail die de 10% korting uit jullie aankondigingsbalk echt aflevert en meteen vertelt wie Regina en Macey zijn.",
+      "punten": [
+        "Moeder en dochter uit Heemskerk als haakje",
+        "10% korting op de eerste bestelling, zoals in de balk",
+        "Een concrete tip om mee te beginnen"
+      ]
+    },
+    {
+      "node": "2138:40",
+      "type": "Productspotlight",
+      "onderwerp": "Zo ruikt december bij Macey's",
+      "kop": "Zo ruikt december bij Macey's",
+      "tekst": "Een kerstmail met vier favorieten, van de Grote Advent Waxmelt tot een setje geurkaarsjes voor onder de boom.",
+      "punten": [
+        "Vier producten met prijs en knop",
+        "Gratis verzending vanaf €24,96 bovenaan",
+        "Afsluiter naar de geschenksets"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

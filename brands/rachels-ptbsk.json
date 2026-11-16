@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "rachels-ptbsk",
+  "merk": "Rachels Borduurkado",
+  "domein": "rachelsborduurkado.nl",
+  "lead_id": "2026-11-16-rachelsborduurkado.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#9D0607",
+  "kop": "Geborduurd met naam, voor Rachels Borduurkado.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Rachels Borduurkado, ik heb dit gemaakt omdat jullie elk cadeau zelf borduren in het atelier in Veenendaal, met de naam van de baby erop. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2135:3",
+      "titel": "Met naam",
+      "waarom": "Een groot woord en een zoekbalk sluiten aan op waar mensen naar zoeken: een kraamcadeau met naam."
+    },
+    {
+      "node": "2135:23",
+      "titel": "Uit het atelier",
+      "waarom": "De borduurmachine, het atelier en de snelle verzending laten zien waarom een geborduurd cadeau de moeite waard is."
+    },
+    {
+      "node": "2135:46",
+      "titel": "Het eerste mutsje",
+      "waarom": "Een echte babyfoto met één duidelijke prijs maakt de eerste aankoop klein en concreet."
+    }
+  ],
+  "waarom": {
+    "niche": "cadeaus",
+    "kop": "Zo groeien cadeaumerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw cadeaumerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen bij de volgende geboorte.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10",
+        "label": "advertenties heeft SX Gifts (kraamcadeaus met naam) nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2136:11",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Rachels Borduurkado",
+    "kop": "Welkom bij Rachels Borduurkado",
+    "tekst": "Fijn dat je er bent. Je 10% korting op je eerste bestelling staat klaar, en zo maak je een cadeau persoonlijk.",
+    "punten": [
+      "Kies je cadeau: muts, slab, badcape of knuffel",
+      "Typ de naam en kies lettertype en borduurkleur",
+      "Rachel borduurt het in haar atelier in Veenendaal"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2136:11",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Rachels Borduurkado",
+      "kop": "Welkom bij Rachels Borduurkado",
+      "tekst": "Fijn dat je er bent. Je 10% korting op je eerste bestelling staat klaar, en zo maak je een cadeau persoonlijk.",
+      "punten": [
+        "Kies je cadeau: muts, slab, badcape of knuffel",
+        "Typ de naam en kies lettertype en borduurkleur",
+        "Rachel borduurt het in haar atelier in Veenendaal"
+      ]
+    },
+    {
+      "node": "2136:42",
+      "type": "Assortimentsmail",
+      "onderwerp": "Kraampakketten met naam",
+      "kop": "Kraampakketten met naam",
+      "tekst": "Vier cadeaus die bij een geboorte passen, allemaal geborduurd met de naam van de baby, met de 9,9 van WebwinkelKeur als afsluiter.",
+      "punten": [
+        "Kraampakket 2-delig, muts en slab (€19,95)",
+        "Kraampakket met badjas, slab, muts en knuffelaapje (€53,95)",
+        "Badcape met naam (€18,49) en knuffel konijn Richie (€21,95)"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

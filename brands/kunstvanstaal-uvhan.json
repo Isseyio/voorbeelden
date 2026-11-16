@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "kunstvanstaal-uvhan",
+  "merk": "Kunst van Staal",
+  "domein": "kunstvanstaal.nl",
+  "lead_id": "2026-11-16-kunstvanstaal.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#EC7800",
+  "kop": "Stalen wandplanken op maat, nieuwe invalshoeken",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Kunst van Staal, ik heb dit gemaakt omdat jullie wandplanken echt op de centimeter op maat zijn, tot aan de schroeven in dezelfde kleur. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2139:28",
+      "titel": "Op maat",
+      "waarom": "Eén groot woord en een zoekbalk met een echte maat maken in één seconde duidelijk wat jullie anders doen dan een plank uit de bouwmarkt."
+    },
+    {
+      "node": "2139:46",
+      "titel": "2 mm staal",
+      "waarom": "Een close-up met uitleg bij de details laat de kwaliteit zien die je op een kleine productfoto mist."
+    },
+    {
+      "node": "2139:73",
+      "titel": "Zwart of koperbruin",
+      "waarom": "Twee kleuren naast elkaar zetten de kijker aan het kiezen, en een kleurstaal van €1,95 maakt de eerste stap klein."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "Jullie adverteren al, en dat werkt. Wat vaak gebeurt: een paar advertenties doen het meeste werk en worden na een paar weken moe. Merken die elke week nieuwe invalshoeken testen, betalen vaak 20 tot 30 procent minder per aankoop, en een vaste nieuwsbrief zorgt dat twijfelaars terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10",
+        "label": "advertenties heeft Wood & Work nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2139:156",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Kunst van Staal",
+    "kop": "Welkom bij Kunst van Staal",
+    "tekst": "Nu staat er alleen een inschrijving in de footer. Deze welkomstmail vertelt wie jullie zijn, waarom staal van jullie anders is en helpt twijfelaars met een kleurstaal van €1,95.",
+    "punten": [
+      "Sinds 2020, gemaakt in Nederland",
+      "Gratis verzending, 5 jaar garantie en de showroom in Heiloo",
+      "Kleurstaal als kleine eerste stap"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2139:156",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Kunst van Staal",
+      "kop": "Welkom bij Kunst van Staal",
+      "tekst": "Nu staat er alleen een inschrijving in de footer. Deze welkomstmail vertelt wie jullie zijn, waarom staal van jullie anders is en helpt twijfelaars met een kleurstaal van €1,95.",
+      "punten": [
+        "Sinds 2020, gemaakt in Nederland",
+        "Gratis verzending, 5 jaar garantie en de showroom in Heiloo",
+        "Kleurstaal als kleine eerste stap"
+      ]
+    },
+    {
+      "node": "2139:198",
+      "type": "Productspotlight",
+      "onderwerp": "Een plank die precies past",
+      "kop": "Een plank die precies past",
+      "tekst": "Een productmail over de wandplank op maat: wat je kiest, wat je krijgt en hoe het van configurator tot aan je muur gaat.",
+      "punten": [
+        "Vier kenmerken bij een close-up van de plank",
+        "De vier stappen van jullie eigen productpagina",
+        "Levertijd eerlijk benoemd"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
