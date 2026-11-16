@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "bloeminjethee-32ekm",
+  "merk": "Bloem in je Thee",
+  "domein": "bloeminjethee.nl",
+  "lead_id": "2026-11-16-bloeminjethee.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6E7A5A",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Bloem in je Thee",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Bloem in je Thee, ik heb dit gemaakt omdat een theebloem die zich in de pot ontvouwt precies het soort beeld is waar mensen op Instagram voor stoppen met scrollen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2053:4",
+      "titel": "Een bloem in je hand",
+      "waarom": "Jullie eigen foto van de theebloem in een glas laat in één beeld zien wat het product doet, en de korte kenmerken eromheen beantwoorden meteen de vragen die mensen hebben."
+    },
+    {
+      "node": "2053:23",
+      "titel": "Welke bloem kies jij",
+      "waarom": "Twee theebloemen naast elkaar maken nieuwsgierig naar de rest van de collectie en laten zien dat elke bloem anders opengaat, met de echte prijs erbij."
+    },
+    {
+      "node": "2053:38",
+      "titel": "Elke dag een andere bloem",
+      "waarom": "Een weekstrip maakt van een losse theebloem een vast moment op de dag en leidt vanzelf naar het brievenbuspakketje met elf bloemen."
+    }
+  ],
+  "waarom": {
+    "niche": "thee",
+    "kop": "Zo groeien theemerken op Instagram.",
+    "tekst": "De meeste mensen zoeken niet actief naar theebloemen, ze zien er een opengaan tijdens het scrollen en willen het zelf proberen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een nieuwe melange of een cadeau.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en theemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25+",
+        "label": "advertenties heeft TwisTea nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2053:62",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Bloem in je Thee",
+    "kop": "Welkom bij Bloem in je Thee",
+    "tekst": "Een eerste mail voor iedereen die zich inschrijft: wie er achter de winkel zit, hoe elk zakje met de hand wordt gevuld en hoe je een theebloem zet.",
+    "punten": [
+      "Jullie eigen foto van de theebloem in de glazen pot als welkomstkaart",
+      "Drie korte beloftes: met de hand gevuld, verzonden binnen 1-2 werkdagen, tot twee liter uit één bloem",
+      "Een uitleg in drie stappen naast de foto van de bloem in de hand"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2053:62",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Bloem in je Thee",
+      "kop": "Welkom bij Bloem in je Thee",
+      "tekst": "Een eerste mail voor iedereen die zich inschrijft: wie er achter de winkel zit, hoe elk zakje met de hand wordt gevuld en hoe je een theebloem zet.",
+      "punten": [
+        "Jullie eigen foto van de theebloem in de glazen pot als welkomstkaart",
+        "Drie korte beloftes: met de hand gevuld, verzonden binnen 1-2 werkdagen, tot twee liter uit één bloem",
+        "Een uitleg in drie stappen naast de foto van de bloem in de hand"
+      ]
+    },
+    {
+      "node": "2053:83",
+      "type": "Assortiment",
+      "onderwerp": "Thee voor de koude dagen",
+      "kop": "Thee voor de koude dagen",
+      "tekst": "Een seizoensmail met vier eigen melanges en kruiden voor de winter, elk met foto, korte smaakomschrijving, prijs en een knop.",
+      "punten": [
+        "Zoete Winterbries, Golden Blend, Glühwein kruiden en Honingbos met hun echte prijzen",
+        "De theebloem in de glazen pot als openingsbeeld",
+        "Afsluiting met het brievenbuspakketje als cadeau-idee"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

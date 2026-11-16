@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "thediystore-xzd5d",
+  "merk": "The DIY Store",
+  "domein": "thediystore.nl",
+  "lead_id": "2026-11-16-thediystore.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2890A8",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor The DIY Store",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Peter en Rosalinda, ik heb dit gemaakt omdat jullie pakketten met de fun time en de moeilijkheid per project zo duidelijk laten zien wat je gaat doen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2052:4",
+      "titel": "Wat zit er in de doos",
+      "waarom": "Bij een DIY pakket wil je eerst weten wat je krijgt, dus de inhoud van de Houten Beer staat er stuk voor stuk in."
+    },
+    {
+      "node": "2052:5",
+      "titel": "Geen ervaring nodig",
+      "waarom": "Echte handen met de klei-oorbellen laten zien dat iedereen het kan, en de callouts vertellen wat er in het pakket zit."
+    },
+    {
+      "node": "2052:6",
+      "titel": "Je zondag belt",
+      "waarom": "Een speelse invalshoek die de kuksa beker verkoopt als een middag zonder scherm, juist het moment waarop mensen scrollen."
+    }
+  ],
+  "waarom": {
+    "niche": "hobby en DIY",
+    "kop": "Zo groeien hobbymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw DIY pakket niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe makers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die makers voor hun volgende project terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij hobby- en cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Rolife nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2052:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij The DIY Store",
+    "kop": "Welkom bij The DIY Store",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: in elk pakket zit alles wat je nodig hebt, met een stap-voor-stap handleiding, en een makkelijk eerste pakket om mee te beginnen.",
+    "punten": [
+      "Alles in 1 pakket: materiaal, gereedschap en handleiding",
+      "Sieraden van klei (€28) als laagdrempelige start",
+      "4,7/5 op Trustpilot onderaan als vertrouwen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2052:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij The DIY Store",
+      "kop": "Welkom bij The DIY Store",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: in elk pakket zit alles wat je nodig hebt, met een stap-voor-stap handleiding, en een makkelijk eerste pakket om mee te beginnen.",
+      "punten": [
+        "Alles in 1 pakket: materiaal, gereedschap en handleiding",
+        "Sieraden van klei (€28) als laagdrempelige start",
+        "4,7/5 op Trustpilot onderaan als vertrouwen"
+      ]
+    },
+    {
+      "node": "2052:8",
+      "type": "Merkverhaal",
+      "onderwerp": "Wij zijn Rosalinda en Peter",
+      "kop": "Lekker bezig met je handen",
+      "tekst": "Een mail over wie er achter The DIY Store zit, met de inhoud van de Houten Beer uitgelicht en de kuksa beker als volgende stap.",
+      "punten": [
+        "Rosalinda en Peter, broer en zus, sinds 2021",
+        "Inhoud van de Houten Beer met labels",
+        "Kuksa beker (€55) voor wie meer uitdaging zoekt"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
