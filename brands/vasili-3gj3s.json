@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "vasili-3gj3s",
+  "merk": "Vasili Lights",
+  "domein": "vasililights.com",
+  "lead_id": "2026-11-16-vasililights.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1F5A85",
+  "kop": "Papieren zeedieren, op Instagram in beeld",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Vasili Lights, ik heb dit gemaakt omdat een dolfijn die overdag van papier is en 's avonds een nachtlampje eigenlijk al de hele advertentie is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2225:3",
+      "titel": "Overdag en 's avonds",
+      "waarom": "Twee foto's naast elkaar laten in één blik zien dat het een mooi object is én een nachtlampje."
+    },
+    {
+      "node": "2225:27",
+      "titel": "Een lamp die je samen vouwt",
+      "waarom": "Ouders willen weten wat er in de doos zit en wat ze samen gaan doen, en deze opbouw legt dat rustig uit."
+    },
+    {
+      "node": "2225:50",
+      "titel": "Nachtlampje",
+      "waarom": "Eén groot woord en een zoekbalk sluiten aan bij waar ouders al naar zoeken, met de kleuren als keuze."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en verlichting",
+    "kop": "Zo groeien wonen- en verlichtingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw lampenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een tweede zeedier.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij wonen- en verlichtingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Callie nu tegelijk live, onder andere voor nachtlampjes"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2225:68",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Vasili Lights",
+    "kop": "Welkom bij Vasili Lights.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Vasili en Lidiya zijn, hoe een kit werkt en een opstapje naar de eerste kit.",
+    "punten": [
+      "Papieren zeedieren, ontworpen in Amsterdam",
+      "Zo werkt het: kies, vouw en hang op",
+      "Elke kit € 69, de tweede met 50% korting"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2225:68",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Vasili Lights",
+      "kop": "Welkom bij Vasili Lights.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Vasili en Lidiya zijn, hoe een kit werkt en een opstapje naar de eerste kit.",
+      "punten": [
+        "Papieren zeedieren, ontworpen in Amsterdam",
+        "Zo werkt het: kies, vouw en hang op",
+        "Elke kit € 69, de tweede met 50% korting"
+      ]
+    },
+    {
+      "node": "2225:98",
+      "type": "Assortiment",
+      "onderwerp": "Welk zeedier wordt het?",
+      "kop": "Welk zeedier wordt het?",
+      "tekst": "Een mail die vier kits naast elkaar zet, van de dolfijn tot de kant-en-klare Lapu Lapu, met de reviews als bewijs.",
+      "punten": [
+        "Bubble Dolphin, Coral Jellyfish en Bubble Goldfish",
+        "Lapu Lapu als kant-en-klare hanglamp",
+        "4,92 van 5 uit 277 reviews"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "prosocks-svck9",
+  "merk": "ProSocks",
+  "domein": "prosocks.nl",
+  "lead_id": "2026-11-16-prosocks.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Een idee voor de Deluxe Pack op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team ProSocks, ik heb dit gemaakt omdat de Deluxe Pack een probleem oplost dat elke voetballer kent: afzakkende scheenbeschermers. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2227:3",
+      "titel": "Eén pakket, drie kenmerken",
+      "waarom": "Laat in één beeld zien wat er in de Deluxe Pack zit en waarom hij blijft zitten."
+    },
+    {
+      "node": "2228:2",
+      "titel": "Anti-slip en pocket",
+      "waarom": "Twee echte close-ups maken de twee vindingen meteen duidelijk, ook als het geluid uit staat."
+    },
+    {
+      "node": "2228:31",
+      "titel": "De wedstrijd belt",
+      "waarom": "Een speels format dat opvalt tussen de gewone sportadvertenties en eindigt bij het product."
+    }
+  ],
+  "waarom": {
+    "niche": "sport en outdoor",
+    "kop": "Zo groeien sportmerken op Instagram.",
+    "tekst": "De meeste voetballers en ouders ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, bijvoorbeeld bij de start van een nieuw seizoen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sportmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Unisport nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2229:188",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de club",
+    "kop": "Welkom bij de club.",
+    "tekst": "Een welkomstmail voor iedereen die zich inschrijft via 'Word lid van de club': wat ProSocks anders maakt, en daarna direct de Deluxe Pack.",
+    "punten": [
+      "Gaat automatisch weg na inschrijving",
+      "Drie kenmerken: anti-slip rand, pocket systeem en hoge bescherming",
+      "Sluit af met de Deluxe Pack, de prijs en de maten"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2229:188",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de club",
+      "kop": "Welkom bij de club.",
+      "tekst": "Een welkomstmail voor iedereen die zich inschrijft via 'Word lid van de club': wat ProSocks anders maakt, en daarna direct de Deluxe Pack.",
+      "punten": [
+        "Gaat automatisch weg na inschrijving",
+        "Drie kenmerken: anti-slip rand, pocket systeem en hoge bescherming",
+        "Sluit af met de Deluxe Pack, de prijs en de maten"
+      ]
+    },
+    {
+      "node": "2229:232",
+      "type": "Productspotlight",
+      "onderwerp": "Wat zit er in de Deluxe Pack?",
+      "kop": "Klaar voor de wedstrijd.",
+      "tekst": "Een spotlight op de Deluxe Pack: wat erin zit, waarom ProSocks in de KVK Innovatie Top 100 kwam en welke maat bij je past.",
+      "punten": [
+        "Inhoud van het pakket met labels",
+        "KVK Innovatie Top 100 en Shin Guard Brand of the Year 2025",
+        "Maattabel S, M en L op basis van je kuitomvang"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

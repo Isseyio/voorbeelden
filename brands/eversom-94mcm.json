@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "eversom-94mcm",
+  "merk": "Eversom",
+  "domein": "eversom.nl",
+  "lead_id": "2026-11-16-eversom.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#AB1917",
+  "kop": "Van brandweerslang tot riem, clutch en lichtje.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Eversom, ik heb dit gemaakt omdat een riem van een echte brandweerslang een verhaal is dat op Instagram vanzelf blijft hangen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2221:3",
+      "titel": "Eén riem, drie kenmerken",
+      "waarom": "Een hand die de riem vasthoudt met drie korte kenmerken laat in één blik zien wat je krijgt en waarom hij anders is dan een gewone riem."
+    },
+    {
+      "node": "2221:29",
+      "titel": "Rood of geel?",
+      "waarom": "Twee kleuren naast elkaar maakt van twijfelen een keuze, en de merkbalk met maten en prijs haalt de laatste vraag weg."
+    },
+    {
+      "node": "2221:53",
+      "titel": "Van brandslang tot clutch",
+      "waarom": "Het upcyclingverhaal met drie producten en hun prijzen laat zien dat Eversom meer maakt dan riemen, voor elk budget."
+    }
+  ],
+  "waarom": {
+    "niche": "tassen en accessoires",
+    "kop": "Zo groeien accessoiremerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw tassen- of riemenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25+",
+        "label": "advertenties heeft O My Bag nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2222:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Eversom",
+    "kop": "Welkom bij Eversom",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waarom brandweerslang, en een OMriem op maat als eerste stap. Op de site zag ik nog geen inschrijving voor een nieuwsbrief; dit is wat nieuwe inschrijvers dan meteen zouden krijgen.",
+    "punten": [
+      "Het verhaal van de brandweerslang in één blik",
+      "Drie redenen: tweede leven, met de hand gemaakt, vegan",
+      "Eén duidelijke volgende stap: een riem op jouw maat"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2222:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Eversom",
+      "kop": "Welkom bij Eversom",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waarom brandweerslang, en een OMriem op maat als eerste stap. Op de site zag ik nog geen inschrijving voor een nieuwsbrief; dit is wat nieuwe inschrijvers dan meteen zouden krijgen.",
+      "punten": [
+        "Het verhaal van de brandweerslang in één blik",
+        "Drie redenen: tweede leven, met de hand gemaakt, vegan",
+        "Eén duidelijke volgende stap: een riem op jouw maat"
+      ]
+    },
+    {
+      "node": "2222:29",
+      "type": "Productspotlight",
+      "onderwerp": "De ClutchOM gaat mee uit",
+      "kop": "De ClutchOM gaat mee uit",
+      "tekst": "Een mail rond één product: de ClutchOM, met de maten, het binnenvak en de keuze tussen pols- en schouderband, zodat lezers zonder zoeken kunnen bestellen.",
+      "punten": [
+        "Foto's uit jullie eigen shop, geen AI",
+        "Vier labels met de feiten van de productpagina",
+        "Afsluiting met de prijs en de optie voor beide banden"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

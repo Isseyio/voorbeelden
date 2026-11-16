@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "savara-kxyem",
+  "merk": "Savara Intimates",
+  "domein": "savaraintimates.com",
+  "lead_id": "2026-11-16-savaraintimates.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A8664F",
+  "kop": "Zachte lingerie zonder beugel, voor elke fase.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Savara Intimates, ik heb dit gemaakt omdat een bh zonder beugel die ook als voedings- of prothesebh bestaat een verhaal is dat veel vrouwen nog niet kennen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2228:44",
+      "titel": "Zonder beugel, wel met steun",
+      "waarom": "Een close-up van de Aveline met drie korte labels beantwoordt de grootste twijfel bij een bh zonder beugel: geeft hij wel steun?"
+    },
+    {
+      "node": "2228:70",
+      "titel": "Roze of blauw?",
+      "waarom": "Twee kleuren naast elkaar met de echte aanbiedingsprijs maakt van twijfelen een keuze."
+    },
+    {
+      "node": "2228:91",
+      "titel": "Voor elke fase",
+      "waarom": "Een typografische advertentie met foto's tussen de woorden laat in één beeld zien dat Savara er ook is voor borstvoeding en een prothese."
+    }
+  ],
+  "waarom": {
+    "niche": "lingerie en ondergoed",
+    "kop": "Zo groeien lingeriemerken op Instagram.",
+    "tekst": "De meeste vrouwen ontdekken een nieuw lingeriemerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij lingeriemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15+",
+        "label": "advertenties heeft Hunkemöller nu tegelijk live, marlies dekkers meer dan 10"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2228:110",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Savara Sisters",
+    "kop": "Welkom bij de Savara Sisters",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers van de Savara Sister Community: wie jullie zijn, waarom zonder beugel, en de beloofde 10% voor de eerste bestelling.",
+    "punten": [
+      "Levert de beloofde 10% meteen af",
+      "Drie redenen in één blik: zonder beugel, verstelbaar, 30 dagen ruilen",
+      "Het verhaal van de kleine ateliers in Europa"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2228:110",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Savara Sisters",
+      "kop": "Welkom bij de Savara Sisters",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers van de Savara Sister Community: wie jullie zijn, waarom zonder beugel, en de beloofde 10% voor de eerste bestelling.",
+      "punten": [
+        "Levert de beloofde 10% meteen af",
+        "Drie redenen in één blik: zonder beugel, verstelbaar, 30 dagen ruilen",
+        "Het verhaal van de kleine ateliers in Europa"
+      ]
+    },
+    {
+      "node": "2228:142",
+      "type": "Assortimentsmail",
+      "onderwerp": "Een bh voor elke fase van je leven",
+      "kop": "Een bh voor elke fase van je leven",
+      "tekst": "Een mail die het hele aanbod laat zien: de Aveline voor elke dag, de Rosa BH voor een prothese en de Linden voedingsbh, met prijzen en jullie reviewscore.",
+      "punten": [
+        "Vier producten met foto, korte tekst en knop",
+        "Echte prijzen, ook de lopende aanbiedingen",
+        "Jullie 4,91 uit 185 reviews als bewijs"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
