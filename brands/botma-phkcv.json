@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "botma-phkcv",
+  "merk": "BOTMA & van BENNEKOM",
+  "domein": "botmaenvanbennekom.nl",
+  "lead_id": "2026-11-16-botmaenvanbennekom.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A9634A",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor BOTMA & van BENNEKOM",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team BOTMA & van BENNEKOM, ik heb dit gemaakt omdat jullie verhaal over minder producten en een atelier waar je van alle kanten mee kunt kijken zo goed werkt op Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2056:168",
+      "titel": "Waar je zeep van gemaakt is",
+      "waarom": "Mensen die bewust kopen willen weten wat er in hun zeep zit, dus de Kruidenzeep staat er met atelier, verpakking en gebruiksduur naast."
+    },
+    {
+      "node": "2056:194",
+      "titel": "Met minder juist meer",
+      "waarom": "Jullie eigen gedachte als kop, met een echte hand die de balsem opent, voelt rustig en past bij hoe jullie praten."
+    },
+    {
+      "node": "2056:211",
+      "titel": "Een routine van vier",
+      "waarom": "De routinekaart laat in één oogopslag zien dat vier producten genoeg zijn, en verkoopt zo de Basis Verzorgingsbundel."
+    }
+  ],
+  "waarom": {
+    "niche": "natuurlijke verzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw verzorgingsmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun zeep op is.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft HappySoaps nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2056:377",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in ons atelier",
+    "kop": "Welkom in ons atelier",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Rianne en Niels zijn, wat ze in het atelier in Arnhem maken en waar je het best mee begint.",
+    "punten": [
+      "Persoonlijke welkom van Rianne en Niels uit het atelier",
+      "Drie redenen: handgemaakt, lokale grondstoffen, plasticvrij",
+      "De Basis Verzorgingsbundel (€70,00) als makkelijke eerste stap"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2056:377",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in ons atelier",
+      "kop": "Welkom in ons atelier",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Rianne en Niels zijn, wat ze in het atelier in Arnhem maken en waar je het best mee begint.",
+      "punten": [
+        "Persoonlijke welkom van Rianne en Niels uit het atelier",
+        "Drie redenen: handgemaakt, lokale grondstoffen, plasticvrij",
+        "De Basis Verzorgingsbundel (€70,00) als makkelijke eerste stap"
+      ]
+    },
+    {
+      "node": "2056:404",
+      "type": "Merkverhaal",
+      "onderwerp": "Kijk met ons mee in het atelier",
+      "kop": "Kijk met ons mee in winkel en atelier",
+      "tekst": "Een mail over het atelier aan de Sonsbeeksingel en de Inheemse Haarzeep met lokaal geslagen raapzaadolie, met de ingrediënten rond het product uitgelegd.",
+      "punten": [
+        "Het atelier waar je van alle kanten mee kunt kijken",
+        "Inheemse Haarzeep met vier kenmerken rond de verpakking",
+        "Afsluiting over lokale grondstoffen, met de molen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

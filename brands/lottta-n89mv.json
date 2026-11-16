@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "lottta-n89mv",
+  "merk": "Lottta",
+  "domein": "lottta.nl",
+  "lead_id": "2026-11-16-lottta.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#445A3A",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Lottta",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Lottta, ik heb dit gemaakt omdat er 75+ nieuwe soorten biologische bloemzaden online staan, een mooi moment om het zaaiseizoen goed te beginnen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2056:3",
+      "titel": "Je eigen plukboeket",
+      "waarom": "Mensen kopen geen zakje zaad maar een vaas vol bloemen, dus de advertentie laat per soort zien wat je straks plukt."
+    },
+    {
+      "node": "2056:27",
+      "titel": "Korenbloem met hommel",
+      "waarom": "Een echte macrofoto met korte uitleg over bijen en biologisch zaad stopt de duim en vertelt meteen waarom Lottta anders is."
+    },
+    {
+      "node": "2056:63",
+      "titel": "75+ nieuwe soorten",
+      "waarom": "Een grote, speelse kop met foto's tussen de woorden kondigt de nieuwkomers aan op het moment dat mensen hun zaaiplannen maken."
+    }
+  ],
+  "waarom": {
+    "niche": "tuin en bloemzaden",
+    "kop": "Zo groeien tuinmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw zadenmerk niet via Google, maar tijdens het scrollen, als ze foto's van bloeiende tuinen zien. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe zaaiers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief met de zaaikalender zorgt dat die zaaiers elk seizoen terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij tuin- en cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Blossombs nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2056:83",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Lottta, hier is je zaaigids",
+    "kop": "Welkom bij Lottta",
+    "tekst": "Een welkomstmail achter de bestaande aanmelding voor de gratis gids met de 5 stappen van het voorzaaien: de gids meteen in de mail, waarom biologisch zaaien, en een eerste stap naar het assortiment.",
+    "punten": [
+      "De beloofde voorzaaigids direct als knop",
+      "Biologisch, insectvriendelijk en plastic-vrij in drie iconen",
+      "4,9 uit 5 op Trustpilot onderaan als vertrouwen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2056:83",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Lottta, hier is je zaaigids",
+      "kop": "Welkom bij Lottta",
+      "tekst": "Een welkomstmail achter de bestaande aanmelding voor de gratis gids met de 5 stappen van het voorzaaien: de gids meteen in de mail, waarom biologisch zaaien, en een eerste stap naar het assortiment.",
+      "punten": [
+        "De beloofde voorzaaigids direct als knop",
+        "Biologisch, insectvriendelijk en plastic-vrij in drie iconen",
+        "4,9 uit 5 op Trustpilot onderaan als vertrouwen"
+      ]
+    },
+    {
+      "node": "2056:117",
+      "type": "Productspotlight",
+      "onderwerp": "75+ nieuwe soorten bloemzaden",
+      "kop": "75+ nieuwe soorten",
+      "tekst": "Een mail over de 75+ nieuwe soorten die nu online staan, met vier plukbloemen uitgelicht en een knop naar de nieuwkomers.",
+      "punten": [
+        "Aankondiging bovenaan, net als op de site",
+        "Vier soorten met foto en korte uitleg",
+        "Echte reviewscore als afsluiting"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

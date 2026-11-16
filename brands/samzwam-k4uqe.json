@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "samzwam-k4uqe",
+  "merk": "Samzwam",
+  "domein": "samzwam.nl",
+  "lead_id": "2026-11-16-samzwam.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B5341F",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Samzwam",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Samzwam, ik heb dit gemaakt omdat jullie oogstfoto's van de gele oesterzwam en de pruikzwam echt opvallen tussen alles wat je op Instagram ziet. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2055:4",
+      "titel": "Koop ze niet",
+      "waarom": "Een prikkelende kop die stopt met scrollen en direct uitlegt dat je oesterzwammen ook zelf kunt kweken."
+    },
+    {
+      "node": "2055:5",
+      "titel": "Van blok tot oogst",
+      "waarom": "Laat in één beeld zien hoe snel en simpel het gaat, de grootste twijfel bij mensen die nog nooit iets kweekten."
+    },
+    {
+      "node": "2055:6",
+      "titel": "Kweek je eigen paddenstoelen",
+      "waarom": "Jullie sterkste oogstfoto's in de kop zelf, zodat het assortiment meteen zichtbaar is."
+    }
+  ],
+  "waarom": {
+    "niche": "food",
+    "kop": "Zo groeien foodmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een kweekset niet via Google, maar tijdens het scrollen, vaak als cadeau-idee. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat kwekers terugkomen voor hun volgende soort.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij foodmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "2055:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Samzwam",
+    "kop": "Welkom bij Samzwam",
+    "tekst": "Een welkomstmail voor wie zich inschrijft via het formulier in de footer: wat Samzwam zelf maakt, hoe simpel kweken is en de oesterzwam als beste start.",
+    "punten": [
+      "Uit eigen kwekerij, alles zit erin, handleiding met QR-code",
+      "Oesterzwam als veilige eerste kweekset",
+      "4,9 uit 232 reviews op Trustpilot als vertrouwen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2055:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Samzwam",
+      "kop": "Welkom bij Samzwam",
+      "tekst": "Een welkomstmail voor wie zich inschrijft via het formulier in de footer: wat Samzwam zelf maakt, hoe simpel kweken is en de oesterzwam als beste start.",
+      "punten": [
+        "Uit eigen kwekerij, alles zit erin, handleiding met QR-code",
+        "Oesterzwam als veilige eerste kweekset",
+        "4,9 uit 232 reviews op Trustpilot als vertrouwen"
+      ]
+    },
+    {
+      "node": "2055:8",
+      "type": "Assortiment",
+      "onderwerp": "Welke paddenstoel kweek jij?",
+      "kop": "Welke paddenstoel kweek jij?",
+      "tekst": "Een assortimentsmail die laat zien dat Samzwam meer is dan één kweekset: van kweeksets tot pluggen en graanbroed, met een echte klantreview.",
+      "punten": [
+        "Gele oesterzwam en oesterzwam kweekset XL",
+        "Pluggen en graanbroed voor gevorderde kwekers",
+        "Echte review over de eerste en tweede oogst"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
