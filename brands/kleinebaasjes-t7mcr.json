@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "kleinebaasjes-t7mcr",
+  "merk": "Kleine Baasjes",
+  "domein": "kleinebaasjes.nl",
+  "lead_id": "2026-11-16-kleinebaasjes.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A8653A",
+  "kop": "Handgemaakt in Gouda, klaar voor Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Kleine Baasjes, ik heb dit gemaakt omdat babykleding die met de hand in een eigen atelier in Gouda wordt gemaakt, precies het soort verhaal is dat op Instagram opvalt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2085:3",
+      "titel": "Eén jumpsuit",
+      "waarom": "De Croissant jumpsuit groot in beeld met prijs en drie kenmerken: in één blik zie je wat het is en waarom het anders is dan winkelkleding."
+    },
+    {
+      "node": "2085:24",
+      "titel": "Kersjes of olifantjes?",
+      "waarom": "Twee newborn setjes naast elkaar laten kiezen werkt goed bij kraamcadeaus, en de prijzen staan er meteen bij."
+    },
+    {
+      "node": "2085:49",
+      "titel": "Newborn vanaf €18,95",
+      "waarom": "Een duidelijke instapprijs boven jullie eigen newbornfoto maakt nieuwsgierig en voelt meteen vertrouwd."
+    }
+  ],
+  "waarom": {
+    "niche": "babykleding",
+    "kop": "Zo groeien babykledingmerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw babymerk niet via Google, maar tijdens het scrollen op Instagram, zeker als ze een kraamcadeau zoeken. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die ouders terugkomen als hun kleine baas weer een maatje groter is.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids- en babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Konges Sløjd nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2087:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Kleine Baasjes",
+    "kop": "Welkom bij Kleine Baasjes",
+    "tekst": "Op de site kun je je aanmelden voor de Kleine Baasjes Mail, maar zonder welkomstcadeau. Deze welkomstmail stelt Priscilla en het atelier in Gouda voor en laat zien hoe alles gemaakt wordt.",
+    "punten": [
+      "Newborn setje gansjes als eerste beeld",
+      "Handgemaakt, duurzaam en op maat in drie blokken",
+      "Uitnodiging voor de winkel aan de Turfmarkt"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2087:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Kleine Baasjes",
+      "kop": "Welkom bij Kleine Baasjes",
+      "tekst": "Op de site kun je je aanmelden voor de Kleine Baasjes Mail, maar zonder welkomstcadeau. Deze welkomstmail stelt Priscilla en het atelier in Gouda voor en laat zien hoe alles gemaakt wordt.",
+      "punten": [
+        "Newborn setje gansjes als eerste beeld",
+        "Handgemaakt, duurzaam en op maat in drie blokken",
+        "Uitnodiging voor de winkel aan de Turfmarkt"
+      ]
+    },
+    {
+      "node": "2087:37",
+      "type": "Merkverhaal",
+      "onderwerp": "Gemaakt voor kleine baasjes",
+      "kop": "Gemaakt voor kleine baasjes",
+      "tekst": "Een merkverhaal over Priscilla die sinds 2016 alle kleding zelf maakt, met de Croissant jumpsuit van dichtbij en de nieuwe collectie als afsluiter.",
+      "punten": [
+        "Het verhaal achter het atelier",
+        "De Croissant jumpsuit met vier echte details",
+        "De nieuwe collectie van 150 items"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
