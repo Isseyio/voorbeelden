@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "augustine-6vz9g",
+  "merk": "Augustine Amsterdam",
+  "domein": "augustineamsterdam.com",
+  "lead_id": "2026-11-16-augustineamsterdam.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6B5A3E",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Augustine Amsterdam",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Augustine Amsterdam, ik heb dit gemaakt omdat jullie badpakken met die strakke lijn en jullie eigen campagnefoto's zich heel goed lenen voor Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2022:3",
+      "titel": "Vanaf €139",
+      "waarom": "Een duidelijke prijs met jullie logo groot in beeld laat in één keer zien wat het merk is en waar je instapt."
+    },
+    {
+      "node": "2022:13",
+      "titel": "Uit oude visnetten",
+      "waarom": "Het verhaal achter het garen is een sterke reden om voor een badpak van €179 te kiezen, en past in één zin."
+    },
+    {
+      "node": "2022:26",
+      "titel": "Twee tinten",
+      "waarom": "Twee varianten naast elkaar helpen mensen kiezen, en het blok eronder geeft prijs en kenmerken zonder te klikken."
+    }
+  ],
+  "waarom": {
+    "niche": "badmode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw badmodemerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als het seizoen weer begint.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft CYELL nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2022:48",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Augustine",
+    "kop": "Welkom bij Augustine",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, waar jullie op letten en hulp bij het kiezen van de juiste maat.",
+    "punten": [
+      "Gerecycled garen, kleine familieateliers en gratis ruilen vanaf €200 in één oogopslag",
+      "Een blok over maat en pasvorm, de grootste twijfel bij badmode van €139 tot €179",
+      "Strakke knoppen en Montserrat, net als op jullie site"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2022:48",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Augustine",
+      "kop": "Welkom bij Augustine",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, waar jullie op letten en hulp bij het kiezen van de juiste maat.",
+      "punten": [
+        "Gerecycled garen, kleine familieateliers en gratis ruilen vanaf €200 in één oogopslag",
+        "Een blok over maat en pasvorm, de grootste twijfel bij badmode van €139 tot €179",
+        "Strakke knoppen en Montserrat, net als op jullie site"
+      ]
+    },
+    {
+      "node": "2022:77",
+      "type": "Productspotlight",
+      "onderwerp": "De Halter: open rug, rechte lijn",
+      "kop": "De Halter",
+      "tekst": "Eén badpak centraal, met jullie eigen campagnefoto's en de details die het verschil maken.",
+      "punten": [
+        "Hero met jullie eigen campagnefoto",
+        "Productfoto met vier kenmerken: racerback, UPF50+, gerecyclede stof en twee tinten",
+        "Afsluiting met prijs, maten en een duidelijke knop"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
