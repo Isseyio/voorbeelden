@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "sadesign-sf5w8",
+  "merk": "SA Design",
+  "domein": "sa-design.nl",
+  "lead_id": "2026-11-16-sa-design.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C9942D",
+  "kop": "Jullie tassen, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team SA Design, ik heb dit gemaakt omdat jullie foto's van de Madrid Bambú aan zee precies het soort beeld zijn waar mensen bij het scrollen voor stoppen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2078:4",
+      "titel": "Eén tas, acht weken handwerk",
+      "waarom": "De hand met de Madrid boven zee en drie korte kenmerken leggen in één beeld uit waarom deze tas € 699 kost."
+    },
+    {
+      "node": "2078:25",
+      "titel": "Welke kleur wordt het?",
+      "waarom": "Twee kleuren naast elkaar laten mensen meteen kiezen, en wie kiest denkt al na over kopen."
+    },
+    {
+      "node": "2078:47",
+      "titel": "Sevilla vanaf € 189",
+      "waarom": "Een duidelijke prijs boven een echte foto van iemand met de tas maakt de instap laag voor nieuwe kopers."
+    }
+  ],
+  "waarom": {
+    "niche": "tassen en accessoires",
+    "kop": "Zo groeien merken in tassen en accessoires op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw tassenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een welkomstmail na de aanmelding zorgt dat twijfelaars bij een tas van een paar honderd euro toch terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij merken in tassen en accessoires vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft O My Bag nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2080:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij SA Design",
+    "kop": "Welkom bij SA Design",
+    "tekst": "De mail die iemand krijgt na de aanmelding voor de nieuwsbrief: wie Nina en Sofia zijn, hoe jullie werken en dat je ook zelf een leren tas kunt leren maken.",
+    "punten": [
+      "Jullie eigen foto van de Madrid Bambú in lichtblauw op het strand als welkomstbeeld",
+      "Zo maken wij het: Toscaans leer, met de hand gemaakt, altijd verpakt als cadeau",
+      "Een blok over de workshop leren tas met jullie eigen workshopfoto"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2080:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij SA Design",
+      "kop": "Welkom bij SA Design",
+      "tekst": "De mail die iemand krijgt na de aanmelding voor de nieuwsbrief: wie Nina en Sofia zijn, hoe jullie werken en dat je ook zelf een leren tas kunt leren maken.",
+      "punten": [
+        "Jullie eigen foto van de Madrid Bambú in lichtblauw op het strand als welkomstbeeld",
+        "Zo maken wij het: Toscaans leer, met de hand gemaakt, altijd verpakt als cadeau",
+        "Een blok over de workshop leren tas met jullie eigen workshopfoto"
+      ]
+    },
+    {
+      "node": "2080:36",
+      "type": "Merkverhaal",
+      "onderwerp": "Van een reis door Spanje naar ons eigen atelier",
+      "kop": "Van een reis door Spanje naar ons eigen atelier",
+      "tekst": "Het verhaal achter SA Design: het idee uit 2017, de naam van Sofia en haar overgrootmoeder Andrea, en waarom jullie liever één goede tas maken dan tien snelle.",
+      "punten": [
+        "Jullie foto van Nina en Sofia als hero",
+        "De Madrid Bambú van dichtbij: bamboe hengsel, gouden sluiting, Toscaans kalfsleer, 22 × 15 × 10 cm",
+        "Afsluiting met jullie foto uit het atelier en een knop naar de Madrid"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
