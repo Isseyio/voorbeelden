@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "studiopie-ntu2g",
+  "merk": "StudioPie",
+  "domein": "studiopieshop.nl",
+  "lead_id": "2026-11-16-studiopieshop.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A7AC7F",
+  "kop": "Handgetekende dieren, op het moment dat iemand een kaartje zoekt.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team StudioPie, ik heb dit gemaakt omdat jullie kaartjes begonnen met één getekend dier per dag, en dat karakter zie je in elke kaart terug. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2147:4",
+      "titel": "Je beste vriendin is jarig",
+      "waarom": "Een inkomend gesprek voelt herkenbaar en laat in één blik zien waarom je net op tijd een kaartje wilt sturen."
+    },
+    {
+      "node": "2147:5",
+      "titel": "Ons ontwerp, jullie versie",
+      "waarom": "Twee geboortekaartjes naast elkaar laten direct zien dat je een eigen illustratie helemaal persoonlijk kunt maken."
+    },
+    {
+      "node": "2147:6",
+      "titel": "Kaartjes voor elke gelegenheid",
+      "waarom": "Eén groot woord, een zoekbalk en drie kaarten maken de keuze makkelijk en zetten de 5 voor €7,50 vooraan."
+    }
+  ],
+  "waarom": {
+    "niche": "stationery",
+    "kop": "Zo groeien stationerymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kaartenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers bij de volgende verjaardag of geboorte terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij stationerymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Kaartje2go nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2147:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij StudioPie",
+    "kop": "Welkom bij StudioPie",
+    "tekst": "Fijn dat je er bent. Hier vind je handgetekende kaartjes met dieren die net zo eigenwijs zijn als de mensen voor wie je ze koopt.",
+    "punten": [
+      "Handgetekend: elke illustratie tekent Marieke zelf in Paterswolde",
+      "Duurzaam: FSC-papier, niet-giftige inkt en zo min mogelijk plastic",
+      "Kies 5 ansichtkaarten voor €7,50"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2147:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij StudioPie",
+      "kop": "Welkom bij StudioPie",
+      "tekst": "Fijn dat je er bent. Hier vind je handgetekende kaartjes met dieren die net zo eigenwijs zijn als de mensen voor wie je ze koopt.",
+      "punten": [
+        "Handgetekend: elke illustratie tekent Marieke zelf in Paterswolde",
+        "Duurzaam: FSC-papier, niet-giftige inkt en zo min mogelijk plastic",
+        "Kies 5 ansichtkaarten voor €7,50"
+      ]
+    },
+    {
+      "node": "2147:8",
+      "type": "Merkverhaal",
+      "onderwerp": "Het begon met één dier per dag",
+      "kop": "Een boek voor alle eerste keren",
+      "tekst": "In 2016 begon Marieke met een dagelijks dierentekenproject. Uit die schetsen groeiden kaartjes, posters en nu ook een babyinvulboek vol bosdieren.",
+      "punten": [
+        "Babyinvulboek met handgetekende bosdieren, €39,50",
+        "Beoordeeld met 4,8 sterren",
+        "Nieuw: tegeltjes van keramiek, 10 bij 10 cm"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
