@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "sunnybaskets-9zdxd",
+  "merk": "Sunny Baskets",
+  "domein": "sunnybaskets.nl",
+  "lead_id": "2026-11-16-sunnybaskets.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C06A45",
+  "kop": "Handgehaakte kattenmanden, gezien op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Sunny Baskets, ik heb dit gemaakt omdat elke mand door Daniëlle met de hand wordt gehaakt, onder toezicht van Sunny, en dat zie je terug in jullie foto's. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2143:4",
+      "titel": "1000+ blije katten",
+      "waarom": "Echte reviews rond een kat in de mand laten in één blik zien dat andere kattenbaasjes jullie al vertrouwen."
+    },
+    {
+      "node": "2143:43",
+      "titel": "Steek voor steek",
+      "waarom": "Een close-up met korte uitleg over katoen en label laat zien waarom een handgehaakte mand zijn prijs waard is."
+    },
+    {
+      "node": "2143:67",
+      "titel": "Gehaakt in jouw kleur",
+      "waarom": "Een grote kop met kleurfoto's tussen de woorden nodigt uit om zelf kleuren en maat te kiezen."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien huisdierenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk voor hun kat niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een matje of een tweede mand.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft WoolNest nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2145:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Sunny Baskets",
+    "kop": "Welkom bij Sunny Baskets",
+    "tekst": "Fijn dat je er bent. Elke mand en elk matje wordt met de hand gehaakt, op bestelling, onder toezicht van Sunny.",
+    "punten": [
+      "Op bestelling gehaakt, binnen 1 à 2 weken onderweg",
+      "Gerecycled katoen, OEKO-TEX gecertificeerd",
+      "Mand + matje: 20% korting op je Sunny Mat"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2145:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Sunny Baskets",
+      "kop": "Welkom bij Sunny Baskets",
+      "tekst": "Fijn dat je er bent. Elke mand en elk matje wordt met de hand gehaakt, op bestelling, onder toezicht van Sunny.",
+      "punten": [
+        "Op bestelling gehaakt, binnen 1 à 2 weken onderweg",
+        "Gerecycled katoen, OEKO-TEX gecertificeerd",
+        "Mand + matje: 20% korting op je Sunny Mat"
+      ]
+    },
+    {
+      "node": "2145:37",
+      "type": "Merkverhaal",
+      "onderwerp": "Gehaakt door Daniëlle, goedgekeurd door Sunny",
+      "kop": "Gehaakt door Daniëlle, goedgekeurd door Sunny.",
+      "tekst": "Het begon met kat Sunny, die in 2018 bij ons kwam. Inmiddels haakt Daniëlle manden en matjes voor meer dan 1000 blije katten, elk stuk met de hand en op bestelling.",
+      "punten": [
+        "Gerecycled katoen, OEKO-TEX",
+        "Leren of kurken label",
+        "4 maten, S t/m XL, of op maat",
+        "11 kleuren of two-tone"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

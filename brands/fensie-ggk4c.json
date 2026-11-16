@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "fensie-ggk4c",
+  "merk": "FensieVogels",
+  "domein": "fensievogels.nl",
+  "lead_id": "2026-11-16-fensievogels.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2F6B4F",
+  "kop": "Handgemaakt vogelspeelgoed, getest door jullie eigen vogels",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team FensieVogels, ik heb dit gemaakt omdat elk speeltje bij jullie eerst langs Peewee, Grumpy en de kaketoes moet voordat het in de webshop komt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2146:4",
+      "titel": "Kurk Knaagtoren",
+      "waarom": "Door per materiaal te laten zien waar het speeltje van gemaakt is, ziet een vogelbaasje meteen dat het veilig en met de hand gemaakt is."
+    },
+    {
+      "node": "2146:5",
+      "titel": "Sloopplezier",
+      "waarom": "Eén groot woord dat elke papegaaieneigenaar herkent, met de hele Shred-serie in beeld, maakt in een seconde duidelijk wat je koopt."
+    },
+    {
+      "node": "2146:6",
+      "titel": "Je vogel belt",
+      "waarom": "Een speels belscherm met jullie eigen foto van een papegaai aan de Snacktoren valt op tussen de gewone posts en maakt nieuwsgierig."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien huisdierenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk voor hun dier niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor het volgende speeltje.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft zooplus nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2146:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij FensieVogels",
+    "kop": "Welkom bij FensieVogels",
+    "tekst": "Nu staat er alleen een inschrijving in de footer, zonder welkomstmail. Deze mail vertelt wie Wendy en René zijn, waarom alles met de hand gemaakt en door jullie eigen vogels getest wordt, en wijst op de gratis verzending.",
+    "punten": [
+      "Handgemaakt in de knutselkamer in Spijkenisse",
+      "Veilige materialen: hout, balsa, kurk, papiertouw en RVS",
+      "Gratis verzending vanaf €75 (NL) en €100 (BE)"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2146:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij FensieVogels",
+      "kop": "Welkom bij FensieVogels",
+      "tekst": "Nu staat er alleen een inschrijving in de footer, zonder welkomstmail. Deze mail vertelt wie Wendy en René zijn, waarom alles met de hand gemaakt en door jullie eigen vogels getest wordt, en wijst op de gratis verzending.",
+      "punten": [
+        "Handgemaakt in de knutselkamer in Spijkenisse",
+        "Veilige materialen: hout, balsa, kurk, papiertouw en RVS",
+        "Gratis verzending vanaf €75 (NL) en €100 (BE)"
+      ]
+    },
+    {
+      "node": "2146:8",
+      "type": "Merkverhaal",
+      "onderwerp": "Het testteam heeft gesproken",
+      "kop": "Het testteam heeft gesproken",
+      "tekst": "Een mail over Peewee, Grumpy, Quincy, Misty en Joey: pas als zij een speeltje goedkeuren, komt het in de webshop. Met de Kurk Knaagtoren uitgelicht en de Shred-serie voor vogels die graag slopen.",
+      "punten": [
+        "Het testteam als gezicht van het merk",
+        "Kurk Knaagtoren met uitleg per materiaal",
+        "Shred-serie vanaf €23,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
