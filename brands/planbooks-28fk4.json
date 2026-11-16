@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "planbooks-28fk4",
+  "merk": "Planbooks",
+  "domein": "planbooks.nl",
+  "lead_id": "2026-11-16-planbooks.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#0F1B2D",
+  "kop": "Planners en invulboeken die op Instagram opvallen.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Planbooks, ik heb dit gemaakt omdat jullie producten precies het soort cadeau zijn dat mensen tijdens het scrollen ontdekken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2176:4",
+      "titel": "Koop geen kookboek",
+      "waarom": "Een omgekeerde kop stopt de duim en maakt meteen duidelijk dat je met het invulboek je eigen kookboek schrijft."
+    },
+    {
+      "node": "2176:21",
+      "titel": "Elke avond even stilstaan",
+      "waarom": "Een weekstrip laat zien hoe het dagboek in een gewone week past, en dat maakt het gebruik heel concreet."
+    },
+    {
+      "node": "2176:47",
+      "titel": "Plan je volgende reis",
+      "waarom": "Een echte prijs bovenaan en een groot logo over jullie eigen sfeerfoto zetten het merk en het aanbod in één beeld neer."
+    }
+  ],
+  "waarom": {
+    "niche": "stationery",
+    "kop": "Zo groeien stationerymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een planner of invulboek niet via Google, maar tijdens het scrollen, vaak op zoek naar een cadeau. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij stationerymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "80+",
+        "label": "advertenties heeft Invulboekjes.nl nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2177:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Planbooks, met €5 korting",
+    "kop": "Welkom bij Planbooks. Fijn dat je er bent.",
+    "tekst": "Een welkomstmail die jullie bestaande €5 welkomstkorting meteen laat zien, met het recepten invulboek als blikvanger en drie bestsellers eronder.",
+    "punten": [
+      "Jullie eigen €5 welkomstkorting duidelijk bovenaan",
+      "Recepten invulboek uitgelicht, met prijs en knop",
+      "Bestsellers en de belofte: voor 17:00 besteld, morgen in huis"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2177:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Planbooks, met €5 korting",
+      "kop": "Welkom bij Planbooks. Fijn dat je er bent.",
+      "tekst": "Een welkomstmail die jullie bestaande €5 welkomstkorting meteen laat zien, met het recepten invulboek als blikvanger en drie bestsellers eronder.",
+      "punten": [
+        "Jullie eigen €5 welkomstkorting duidelijk bovenaan",
+        "Recepten invulboek uitgelicht, met prijs en knop",
+        "Bestsellers en de belofte: voor 17:00 besteld, morgen in huis"
+      ]
+    },
+    {
+      "node": "2177:56",
+      "type": "Merkverhaal",
+      "onderwerp": "Het begon met pen en papier",
+      "kop": "Het begon met pen en papier.",
+      "tekst": "Een mail over hoe Kevin in 2019 het eerste Planbooks-product ontwierp, met het recepten invulboek in detail en een afsluiter om direct te bestellen.",
+      "punten": [
+        "Het verhaal van Kevin in een paar zinnen",
+        "Recepten invulboek met labels: 190 pagina's, hardcover, leeslint, A5",
+        "Afsluiter met prijs en leverbelofte"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
