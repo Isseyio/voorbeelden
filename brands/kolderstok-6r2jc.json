@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "kolderstok-6r2jc",
+  "merk": "Kolderstok",
+  "domein": "kolderstok.com",
+  "lead_id": "2026-11-16-kolderstok.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C9452E",
+  "kop": "Hollandse schepen, op Instagram in beeld",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Kolderstok, ik heb dit gemaakt omdat jullie modellen zo gedetailleerd zijn dat een close-up van D'Halve Maen eigenlijk al genoeg zegt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2205:151",
+      "titel": "Koop dit schip niet",
+      "waarom": "Een kop die eerst verrast en dan duidelijk maakt dat het om zelf bouwen gaat, precies wat een modelbouwer zoekt."
+    },
+    {
+      "node": "2205:169",
+      "titel": "Tot in de spiegel",
+      "waarom": "Een close-up met uitleg laat het detail zien dat een bouwer overtuigt, en zet het nieuwe model in de spotlight."
+    },
+    {
+      "node": "2205:189",
+      "titel": "Begin klein",
+      "waarom": "Twee modellen naast elkaar geven nieuwe bouwers een makkelijke eerste stap en laten zien dat er een vervolg is."
+    }
+  ],
+  "waarom": {
+    "niche": "modelbouw",
+    "kop": "Zo groeien hobbymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw bouwpakket niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe bouwers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die bouwers terugkomen voor hun volgende schip.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij hobbymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft OcCre nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2206:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom aan boord",
+    "kop": "Welkom aan boord.",
+    "tekst": "Een welkomstmail die laat zien wat Kolderstok is en waar je het makkelijkst begint: met de Speel-jaght.",
+    "punten": [
+      "Bouwpakketten van 17e-eeuwse Nederlandse schepen in eigen ontwerp",
+      "Lasergesneden spanten, instructies in NL, EN en DE, niveau 1 tot 4",
+      "Het verhaal van Hans, van de eigen Batavia tot Kolderstok"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2206:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom aan boord",
+      "kop": "Welkom aan boord.",
+      "tekst": "Een welkomstmail die laat zien wat Kolderstok is en waar je het makkelijkst begint: met de Speel-jaght.",
+      "punten": [
+        "Bouwpakketten van 17e-eeuwse Nederlandse schepen in eigen ontwerp",
+        "Lasergesneden spanten, instructies in NL, EN en DE, niveau 1 tot 4",
+        "Het verhaal van Hans, van de eigen Batavia tot Kolderstok"
+      ]
+    },
+    {
+      "node": "2206:28",
+      "type": "Merkverhaal",
+      "onderwerp": "Gebouwd naar de Gouden Eeuw",
+      "kop": "Gebouwd naar de Gouden Eeuw.",
+      "tekst": "Het verhaal achter Kolderstok, gevolgd door D'Halve Maen uitgelicht met wat er in het bouwpakket zit.",
+      "punten": [
+        "Van een zelfgebouwde Batavia in 2013 naar Kolderstok in 2015",
+        "D'Halve Maen: schaal 1:50, ca. 60 cm, niveau 2 van 4",
+        "Eiken of notenhout, vanaf € 235"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

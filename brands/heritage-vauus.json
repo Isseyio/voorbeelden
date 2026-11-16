@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "heritage-vauus",
+  "merk": "Dutch Heritage Cosmetics",
+  "domein": "dutchheritagecosmetics.com",
+  "lead_id": "2026-11-16-dutchheritagecosmetics.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#17306B",
+  "kop": "Tallow uit een Nederlandse werkplaats, in Delfts blauw.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Dutch Heritage Cosmetics, ik heb dit gemaakt omdat jullie productfoto's met die Delfts blauwe etiketten zo herkenbaar zijn. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2207:4",
+      "titel": "Puur tallow",
+      "waarom": "Een close-up van de balm met twee korte labels laat zien hoe kort de ingrediëntenlijst is, precies waar tallow-kopers op letten."
+    },
+    {
+      "node": "2207:27",
+      "titel": "Welke crème past bij jou?",
+      "waarom": "Twee crèmes naast elkaar met de huid waarvoor ze zijn, maakt kiezen makkelijk en verkoopt de hele lijn."
+    },
+    {
+      "node": "2207:47",
+      "titel": "Je oksels bellen",
+      "waarom": "Een speels belscherm valt op tussen gewone posts en zet de deodorant zonder aluminium in één zin neer."
+    }
+  ],
+  "waarom": {
+    "niche": "beauty en verzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw verzorgingsmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun pot leeg is.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft MooBalm nu tegelijk live, Modern Native meer dan 500"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2207:61",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Dutch Heritage Cosmetics",
+    "kop": "Welkom bij Dutch Heritage Cosmetics",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waarom tallow van grasgevoerde koeien, en de 10% voor de eerste bestelling, met de Tallow Cream Original als eerste stap.",
+    "punten": [
+      "Jullie beloven 10% bij inschrijving; deze mail levert die meteen af",
+      "Drie redenen in een oogopslag: grasgevoerd, kleine batches, eerlijke lijst",
+      "Eén duidelijke volgende stap: de Tallow Cream Original"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2207:61",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Dutch Heritage Cosmetics",
+      "kop": "Welkom bij Dutch Heritage Cosmetics",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waarom tallow van grasgevoerde koeien, en de 10% voor de eerste bestelling, met de Tallow Cream Original als eerste stap.",
+      "punten": [
+        "Jullie beloven 10% bij inschrijving; deze mail levert die meteen af",
+        "Drie redenen in een oogopslag: grasgevoerd, kleine batches, eerlijke lijst",
+        "Eén duidelijke volgende stap: de Tallow Cream Original"
+      ]
+    },
+    {
+      "node": "2207:100",
+      "type": "Merkverhaal",
+      "onderwerp": "Begonnen aan de keukentafel",
+      "kop": "Begonnen aan de keukentafel.",
+      "tekst": "Een mail over het verhaal van Bianca, van de keuken in 2021 naar een eigen werkruimte van 180 m², met de Tallow Soap en zijn ingrediënten als product in de hoofdrol.",
+      "punten": [
+        "Het oprichtersverhaal is jullie sterkste punt en staat nu alleen op de over-ons-pagina",
+        "Ingrediënten met labels bij het product, zoals op de verpakking",
+        "Afsluiten met één product en één knop"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

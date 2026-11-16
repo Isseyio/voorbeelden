@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "rephousz-mq9dg",
+  "merk": "Rephousz",
+  "domein": "rephousz.nl",
+  "lead_id": "2026-11-16-rephousz.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#22302A",
+  "kop": "Terrariums op maat, zichtbaar op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Rephousz, ik heb dit gemaakt omdat jullie elk terrarium met de hand bouwen, in elke maat, en dat zie je nog bijna nergens terug in advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2205:4",
+      "titel": "Elk terrarium op maat",
+      "waarom": "Echte opstellingen uit huiskamers laten in één oogopslag zien dat elke maat kan."
+    },
+    {
+      "node": "2205:21",
+      "titel": "Houtkleur of zwart",
+      "waarom": "Twee varianten naast elkaar met een vanaf-prijs maken de keuze makkelijk en halen twijfel over de prijs weg."
+    },
+    {
+      "node": "2205:41",
+      "titel": "Je reptiel belt",
+      "waarom": "Een speelse invalshoek valt op tussen de vele productfoto's en zet de tv-kast in de hoofdrol."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien huisdierenmerken op Instagram.",
+    "tekst": "De meeste reptielenhouders ontdekken een nieuwe terrariumbouwer niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor verlichting en accessoires.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Frits Kuiper Aqua- & Terraria nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2205:53",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Rephousz",
+    "kop": "Welkom bij Rephousz",
+    "tekst": "Fijn dat je er bent. Wij bouwen elk terrarium met de hand, van OSB3 hout, in de maat die past bij jouw dier en jouw kamer.",
+    "punten": [
+      "Handgemaakt van OSB3 hout",
+      "Elke maat: staat jouw maat er niet bij? Vraag het ons",
+      "Ophalen in Rijen of bezorgd tegen meerprijs"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2205:53",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Rephousz",
+      "kop": "Welkom bij Rephousz",
+      "tekst": "Fijn dat je er bent. Wij bouwen elk terrarium met de hand, van OSB3 hout, in de maat die past bij jouw dier en jouw kamer.",
+      "punten": [
+        "Handgemaakt van OSB3 hout",
+        "Elke maat: staat jouw maat er niet bij? Vraag het ons",
+        "Ophalen in Rijen of bezorgd tegen meerprijs"
+      ]
+    },
+    {
+      "node": "2205:86",
+      "type": "Assortimentsmail",
+      "onderwerp": "Welk terrarium past bij jouw dier?",
+      "kop": "Welk terrarium past bij jouw dier?",
+      "tekst": "Van een klein terrarium voor je eerste gekko tot een tv-kast met terrarium erin. Alles handgemaakt, ook in jouw maat.",
+      "punten": [
+        "Terrarium houtkleur klein, vanaf €65",
+        "Extra hoog glas houtkleur, vanaf €110",
+        "Terrarium met tussenwand, €185",
+        "Terrarium TV Kast, vanaf €245"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
