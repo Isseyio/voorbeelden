@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "stalendesign-fj8sb",
+  "merk": "Stalen Design",
+  "domein": "stalendesign.nl",
+  "lead_id": "2026-11-16-stalendesign.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A94F1D",
+  "kop": "Cortenstaal dat elke week opvalt in de feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Stalen Design, ik heb dit gemaakt omdat jullie voederhuisjes ook zonder vogels al iets toevoegen aan een tuin, en dat zie je meteen op jullie foto's. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2168:4",
+      "titel": "Cortenstaal",
+      "waarom": "Eén groot woord en drie voederhuisjes met prijs laten in één blik zien wat jullie maken en wat het kost."
+    },
+    {
+      "node": "2168:28",
+      "titel": "Ontworpen met aandacht",
+      "waarom": "Labels op een echte foto van LUMOS vertellen het verhaal van het materiaal en het ontwerp, zonder lange tekst."
+    },
+    {
+      "node": "2168:51",
+      "titel": "Er belt een roodborstje",
+      "waarom": "Een inkomend gesprek is speels en herkenbaar, en zet NIDO groot in beeld met jullie eigen roodborstje."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en tuin",
+    "kop": "Zo groeien tuinmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw tuinmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een paal, een tweede voederhuisje of iets voor binnen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij tuin- en woonmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Steelhouet nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2168:65",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Stalen Design",
+    "kop": "Fijn dat je erbij bent.",
+    "tekst": "Wij ontwerpen stalen producten voor huis en tuin, volledig gemaakt in Nederland. Als welkom krijg je 5% korting op je eerste bestelling.",
+    "punten": [
+      "Lokaal gemaakt: Nederlands staalwerk",
+      "Klantscore 9,8 uit 150+ reviews",
+      "Gratis bezorging vanaf €95 in Nederland"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2168:65",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Stalen Design",
+      "kop": "Fijn dat je erbij bent.",
+      "tekst": "Wij ontwerpen stalen producten voor huis en tuin, volledig gemaakt in Nederland. Als welkom krijg je 5% korting op je eerste bestelling.",
+      "punten": [
+        "Lokaal gemaakt: Nederlands staalwerk",
+        "Klantscore 9,8 uit 150+ reviews",
+        "Gratis bezorging vanaf €95 in Nederland"
+      ]
+    },
+    {
+      "node": "2168:109",
+      "type": "Productspotlight",
+      "onderwerp": "Een krachtig silhouet",
+      "kop": "Een krachtig silhouet.",
+      "tekst": "Vogelvoederhuisje STORM: een paalmodel van 1,5 mm cortenstaal met een geïntegreerde houten zitstok, dat ook zonder vogelbezoek indruk maakt.",
+      "punten": [
+        "Cortenstaal 1,5 mm, ca. 25 x 25 x 30 cm",
+        "Houten zitstok van 16 mm en 3 RVS schroeven",
+        "Maak hem compleet met de PaalCORTEN van 167,5 cm"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

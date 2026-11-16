@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "steenvoorden-39h4u",
+  "merk": "Chocolaterie Steenvoorden",
+  "domein": "chocolateriesteenvoorden.nl",
+  "lead_id": "2026-11-16-chocolateriesteenvoorden.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5A3B2E",
+  "kop": "Handgemaakte bonbons, klaar voor de feestdagen.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Chocolaterie Steenvoorden, ik heb dit gemaakt omdat elk doosje bij jullie een bijpassend lintje krijgt en dat zie je meteen terug in jullie foto's. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2168:151",
+      "titel": "Cadeau onder de boom",
+      "waarom": "Jullie eigen foto van een doosje bij de kerstboom, met korte labels, laat in één blik zien wat je krijgt en waarom het een goed cadeau is."
+    },
+    {
+      "node": "2168:169",
+      "titel": "KERST. in vier maten",
+      "waarom": "Eén groot woord en de vier doosjes met prijs maken kiezen makkelijk, precies wat mensen in december zoeken."
+    },
+    {
+      "node": "2168:188",
+      "titel": "Sinterklaas belt",
+      "waarom": "Een speels belscherm met de pakjes-bonbons valt op tussen de gewone advertenties en herinnert aan pakjesavond."
+    }
+  ],
+  "waarom": {
+    "niche": "chocolade en bonbons",
+    "kop": "Zo groeien chocolademerken op Instagram.",
+    "tekst": "Rond Sinterklaas en kerst zoeken veel mensen een cadeau, en dat begint vaak tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers bij de volgende feestdag terugkomen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food-merken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Tony's Chocolonely nu tegelijk live in Nederland"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2169:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom! Je 10% welkomstkorting staat klaar",
+    "kop": "Welkom bij Chocolaterie Steenvoorden",
+    "tekst": "Een welkomstmail die direct volgt op de inschrijving in de footer, met de beloofde 10% korting, drie favorieten en het grote doosje.",
+    "punten": [
+      "De 10% korting die jullie al beloven, nu in een echte welkomstmail",
+      "Drie favorieten met prijs, waaronder de nieuwe kerstsmaken",
+      "Het doosje van 25 als cadeau-optie voor de feestdagen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2169:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom! Je 10% welkomstkorting staat klaar",
+      "kop": "Welkom bij Chocolaterie Steenvoorden",
+      "tekst": "Een welkomstmail die direct volgt op de inschrijving in de footer, met de beloofde 10% korting, drie favorieten en het grote doosje.",
+      "punten": [
+        "De 10% korting die jullie al beloven, nu in een echte welkomstmail",
+        "Drie favorieten met prijs, waaronder de nieuwe kerstsmaken",
+        "Het doosje van 25 als cadeau-optie voor de feestdagen"
+      ]
+    },
+    {
+      "node": "2169:46",
+      "type": "Productspotlight",
+      "onderwerp": "Twee nieuwe kerstbonbons",
+      "kop": "Twee nieuwe kerstbonbons",
+      "tekst": "Een nieuwsbrief rond de nieuwe seizoenssmaken: Green Velvet en Sinaasappel Marsepein naast elkaar, met daarna het zelf samengestelde doosje.",
+      "punten": [
+        "De nieuwe smaken als aanleiding om te mailen",
+        "Twee varianten naast elkaar, zodat kiezen makkelijk is",
+        "Afsluiter met Doosje samenstellen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

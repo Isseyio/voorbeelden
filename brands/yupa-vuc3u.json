@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "yupa-vuc3u",
+  "merk": "Yupa Studio",
+  "domein": "yupastudio.com",
+  "lead_id": "2026-11-16-yupastudio.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1A4A44",
+  "kop": "Haakpatronen van Paula, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Yupa Studio, ik heb dit gemaakt omdat jullie eigen garen uit gerecycled textielafval wordt gemaakt en de patronen er zo vrolijk uitzien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2164:162",
+      "titel": "Haak je eigen Nora vest",
+      "waarom": "Een grote kop met foto's tussen de woorden stopt de duim en laat in één beeld zien wat je gaat maken, met Paula erbij."
+    },
+    {
+      "node": "2165:2",
+      "titel": "Yupa Eco Cotton",
+      "waarom": "Het eigen garen uit gerecycled textiel is iets wat grote garenwinkels niet hebben, dus dat verdient een eigen advertentie."
+    },
+    {
+      "node": "2165:20",
+      "titel": "Eén patroon, jouw kleuren",
+      "waarom": "Twee echte Baby Bucket Hats van haaksters naast elkaar laten zien dat het patroon werkt en nodigen uit om zelf kleuren te kiezen."
+    }
+  ],
+  "waarom": {
+    "niche": "haken en handwerk",
+    "kop": "Zo groeien handwerkmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw haakpatroon niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe haaksters en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die haaksters terugkomen voor het volgende patroon.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij handwerkmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Hobbii nu tegelijk live in Nederland"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2166:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Yupa Studio (met je gratis e-book)",
+    "kop": "Welkom bij Yupa Studio",
+    "tekst": "Een warme welkomstmail van Paula voor nieuwe inschrijvers, met het gratis e-book als cadeautje en meteen een route voor beginners.",
+    "punten": [
+      "Gratis e-book als welkom, in plaats van een losse nieuwsupdate",
+      "Moderne patronen, gratis haakhulp en eigen garen in één oogopslag",
+      "Beginners direct naar de haakpakketten met moeilijkheidsgraad 1"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2166:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Yupa Studio (met je gratis e-book)",
+      "kop": "Welkom bij Yupa Studio",
+      "tekst": "Een warme welkomstmail van Paula voor nieuwe inschrijvers, met het gratis e-book als cadeautje en meteen een route voor beginners.",
+      "punten": [
+        "Gratis e-book als welkom, in plaats van een losse nieuwsupdate",
+        "Moderne patronen, gratis haakhulp en eigen garen in één oogopslag",
+        "Beginners direct naar de haakpakketten met moeilijkheidsgraad 1"
+      ]
+    },
+    {
+      "node": "2166:35",
+      "type": "Productspotlight",
+      "onderwerp": "Haak mee met de Nora Vest CAL",
+      "kop": "De Nora Vest CAL",
+      "tekst": "Een nieuwsbrief rond de Nora Vest CAL, met daaronder de meest geliefde patronen en het verhaal van Paula en Laurens.",
+      "punten": [
+        "De CAL als aanleiding om te mailen",
+        "Vier bestsellers met prijs en een knop per patroon",
+        "Het camperverhaal als persoonlijke afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "zandjuweel-pk3gm",
+  "merk": "Zandjuweel",
+  "domein": "zandjuweel.nl",
+  "lead_id": "2026-11-16-zandjuweel.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#7D6D58",
+  "kop": "Het strand van Terschelling, in je feed.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Zandjuweel, ik heb dit gemaakt omdat jullie echt zand van Terschelling in zilver verwerken, en dat verhaal zie je in één foto. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2170:4",
+      "titel": "Draag het strand",
+      "waarom": "Jullie eigen kop met foto's tussen de woorden laat in één beeld zien wat een zandjuweel is en hoe het gedragen staat."
+    },
+    {
+      "node": "2170:23",
+      "titel": "Een stukje strand om je vinger",
+      "waarom": "Een gedragen ring met korte kenmerken vertelt meteen waar het van gemaakt is, zonder dat iemand hoeft te klikken."
+    },
+    {
+      "node": "2170:40",
+      "titel": "Zand en zilver",
+      "waarom": "Vier ronde foto's leggen uit waar elk sieraad uit bestaat, en dat maakt de prijs van handwerk begrijpelijk."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2174:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Zandjuweel",
+    "kop": "Welkom bij Zandjuweel",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie Lisa is, hoe een zandjuweel in haar atelier op Terschelling ontstaat en dat je ook je eigen zand kunt laten inleggen.",
+    "punten": [
+      "Echt zand van Terschelling, ingelegd in 925 zilver",
+      "Met de hand gemaakt in het eigen atelier",
+      "Eigen zand inleggen voor €30 per bestelling"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2174:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Zandjuweel",
+      "kop": "Welkom bij Zandjuweel",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie Lisa is, hoe een zandjuweel in haar atelier op Terschelling ontstaat en dat je ook je eigen zand kunt laten inleggen.",
+      "punten": [
+        "Echt zand van Terschelling, ingelegd in 925 zilver",
+        "Met de hand gemaakt in het eigen atelier",
+        "Eigen zand inleggen voor €30 per bestelling"
+      ]
+    },
+    {
+      "node": "2174:48",
+      "type": "Assortiment",
+      "onderwerp": "Vier manieren om het strand te dragen",
+      "kop": "Vier manieren om het strand te dragen",
+      "tekst": "Een mail die vier zandjuwelen naast elkaar zet, van de bungels voor €59 tot de smalle zandring, afgesloten met een echte review van een klant.",
+      "punten": [
+        "Minimalistische bungels, hanger, armbandje en ring",
+        "Elk product met prijs en een korte uitleg",
+        "Afsluiter met een Trustpilot-review (4,8 uit 44)"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
