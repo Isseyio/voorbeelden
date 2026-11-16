@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "tessentobi-rfp5c",
+  "merk": "Tess & Tobi",
+  "domein": "tessentobi.nl",
+  "lead_id": "2026-11-16-tessentobi.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2F4A3A",
+  "kop": "Vrolijke boterhamzakjes en zachte doeken, gemaakt door Pim en Laura",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Tess & Tobi, ik heb dit gemaakt omdat jullie begonnen met de zoektocht naar een hydrofiele doek die zacht blijft, en dat verhaal hoort in beeld. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2150:4",
+      "titel": "Lunchtijd",
+      "waarom": "Eén groot woord en een zoekbalk met precies wat ouders intikken, met drie prints in beeld, maakt in een seconde duidelijk wat je koopt."
+    },
+    {
+      "node": "2150:5",
+      "titel": "Elke dag een ander zakje",
+      "waarom": "Een weekstrip met elke schooldag een andere print laat zien hoeveel keuze er is en maakt van één zakje er al snel vijf."
+    },
+    {
+      "node": "2150:6",
+      "titel": "Koop dit zakje niet",
+      "waarom": "Een kop die eerst tegenspreekt valt op tussen de posts, en de drie vinkjes eronder geven meteen de redenen om wel te kopen."
+    }
+  ],
+  "waarom": {
+    "niche": "kids en baby",
+    "kop": "Zo groeien kids- en babymerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw merk voor hun kind niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die ouders terugkomen voor de volgende print.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids- en babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "5+",
+        "label": "advertenties heeft Little Dutch nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2150:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Tess & Tobi",
+    "kop": "Welkom bij Tess & Tobi",
+    "tekst": "Op de site staat nu geen inschrijving voor een nieuwsbrief. Deze welkomstmail stelt Pim en Laura voor, laat de boterhamzakjes in 4 maten zien en wijst op de hydrofiele doeken die zacht blijven.",
+    "punten": [
+      "Pim en Laura stellen zich voor",
+      "Boterhamzakjes in 4 maten, vanaf €11,95",
+      "Hydrofiele doeken van bamboe en biologisch katoen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2150:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Tess & Tobi",
+      "kop": "Welkom bij Tess & Tobi",
+      "tekst": "Op de site staat nu geen inschrijving voor een nieuwsbrief. Deze welkomstmail stelt Pim en Laura voor, laat de boterhamzakjes in 4 maten zien en wijst op de hydrofiele doeken die zacht blijven.",
+      "punten": [
+        "Pim en Laura stellen zich voor",
+        "Boterhamzakjes in 4 maten, vanaf €11,95",
+        "Hydrofiele doeken van bamboe en biologisch katoen"
+      ]
+    },
+    {
+      "node": "2150:8",
+      "type": "Merkverhaal",
+      "onderwerp": "Het begon met één zachte doek",
+      "kop": "Het begon met één zachte doek",
+      "tekst": "Een mail over waarom Tess & Tobi bestaat: als kersverse ouders zochten Pim en Laura een doek die zacht blijft na het wassen. Met de hydrofiele doek XL uitgelicht en de boterhamzakjes als afsluiter.",
+      "punten": [
+        "Het verhaal van Pim en Laura",
+        "Hydrofiele doek XL met uitleg per materiaal",
+        "Boterhamzakjes in tientallen prints"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

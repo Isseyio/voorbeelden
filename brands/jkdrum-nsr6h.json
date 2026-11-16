@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "jkdrum-nsr6h",
+  "merk": "JK Drum Systems",
+  "domein": "jkdrumsystems.com",
+  "lead_id": "2026-11-16-jkdrumsystems.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C9A227",
+  "kop": "Een kit die blijft staan, van soundcheck tot toegift.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team JK Drum Systems, ik heb dit gemaakt omdat jullie een probleem oplossen dat elke drummer kent: een bassdrum die tijdens het spelen wegkruipt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2156:4",
+      "titel": "Een kit die blijft staan belt",
+      "waarom": "Een inkomend gesprek is speels en herkenbaar, en zet de JK Hoove groot in beeld voor drummers die scrollen."
+    },
+    {
+      "node": "2157:2",
+      "titel": "Koop deze Hooves niet",
+      "waarom": "Een omgekeerde kop valt op in de feed en maakt met drie vinkjes meteen duidelijk wat een Hoove doet."
+    },
+    {
+      "node": "2157:25",
+      "titel": "Nul creep",
+      "waarom": "Eén groot woord uit de drumwereld en een zoekbalk met het probleem laten zien dat Hooves en drumkleden samen de oplossing zijn."
+    }
+  ],
+  "waarom": {
+    "niche": "drumaccessoires",
+    "kop": "Zo groeien gear-merken op Instagram.",
+    "tekst": "De meeste drummers ontdekken nieuwe gear niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die drummers terugkomen voor een drumkleed of extra Hooves.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij gear-merken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "150+",
+        "label": "advertenties heeft Bax Music nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2157:48",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij JK Drum Systems",
+    "kop": "Welkom bij JK Drum Systems",
+    "tekst": "Fijn dat je er bent. Wij maken stabiliteitssystemen voor drummers en drumtechs, zodat je setup blijft staan waar je hem neerzet.",
+    "punten": [
+      "Handmade in Megen: gemaakt en gecontroleerd in Nederland",
+      "Geen gereedschap: geen schroeven, niets permanent aan je hardware",
+      "Hoeveel Hooves? Eén per contactpunt, 2-pack vanaf €19,95"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2157:48",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij JK Drum Systems",
+      "kop": "Welkom bij JK Drum Systems",
+      "tekst": "Fijn dat je er bent. Wij maken stabiliteitssystemen voor drummers en drumtechs, zodat je setup blijft staan waar je hem neerzet.",
+      "punten": [
+        "Handmade in Megen: gemaakt en gecontroleerd in Nederland",
+        "Geen gereedschap: geen schroeven, niets permanent aan je hardware",
+        "Hoeveel Hooves? Eén per contactpunt, 2-pack vanaf €19,95"
+      ]
+    },
+    {
+      "node": "2158:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Gebouwd door een drummer",
+      "kop": "Van een terugkerend probleem naar een betere setup",
+      "tekst": "Joost Koopmans zag steeds weer bassdrums, pedalen en standaards wegkruipen tijdens het spelen. Rond 2017 ontstonden in Megen de eerste ideeën voor JK Drum Systems, getest in repetitieruimtes, studio's en op het podium.",
+      "punten": [
+        "90° open hoek die om je pedaal of hi-hat sluit",
+        "Klittenband aan de onderkant en een labelvlak bovenop",
+        "Drumkleed met 15 JK Hooves vanaf €99,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
