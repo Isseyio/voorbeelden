@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "gussta-gvzsr",
+  "merk": "GUSSTA",
+  "domein": "gussta.nl",
+  "lead_id": "2026-11-16-gussta.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4E3B2B",
+  "kop": "Massief eiken, met de hand gemaakt, gezien op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team GUSSTA, ik heb dit gemaakt omdat het eerste GUSSTA-bed door Christian en zijn vader is bedacht, en dat verhaal zie je terug in elk bed uit de eigen werkplaats. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2139:115",
+      "titel": "Met de hand gemaakt",
+      "waarom": "Een grote kop met foto's uit de werkplaats tussen de woorden vertelt in één blik dat elk bed in Nederland met de hand gemaakt wordt."
+    },
+    {
+      "node": "2139:135",
+      "titel": "Waar Bootsma van gemaakt is",
+      "waarom": "Vier ronde foto's met korte uitleg laten zien waarom een bed van massief eiken zijn prijs waard is, voordat iemand doorklikt."
+    },
+    {
+      "node": "2139:250",
+      "titel": "Rustiek of oud eiken?",
+      "waarom": "Twee bedden naast elkaar maken kiezen makkelijk en laten het verschil in hout direct zien."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen",
+    "kop": "Zo groeien woonmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw meubelmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Bij een bed dat mensen weken overwegen, zorgt een vaste nieuwsbrief dat ze jullie niet vergeten.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woonmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft WOOOD nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2140:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij GUSSTA",
+    "kop": "Welkom bij GUSSTA",
+    "tekst": "Fijn dat je er bent. Al sinds 2007 maken wij massief houten bedden en meubels, in onze eigen werkplaats en samen met andere Nederlandse makers.",
+    "punten": [
+      "Gemaakt in Nederland, in onze eigen werkplaats",
+      "3 jaar garantie op eigen GUSSTA-producten",
+      "60 dagen bedenktijd en gratis retourneren"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2140:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij GUSSTA",
+      "kop": "Welkom bij GUSSTA",
+      "tekst": "Fijn dat je er bent. Al sinds 2007 maken wij massief houten bedden en meubels, in onze eigen werkplaats en samen met andere Nederlandse makers.",
+      "punten": [
+        "Gemaakt in Nederland, in onze eigen werkplaats",
+        "3 jaar garantie op eigen GUSSTA-producten",
+        "60 dagen bedenktijd en gratis retourneren"
+      ]
+    },
+    {
+      "node": "2141:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Het bed waar het mee begon",
+      "kop": "Het bed waar het mee begon.",
+      "tekst": "Christian Gilles maakte het eerste GUSSTA-bed samen met zijn vader: het zwevende bed Stealth van oud steigerhout. Daarna volgt Bedframe Bootsma van massief eiken, met de details die het verschil maken.",
+      "punten": [
+        "Massief eiken, 4 cm dik",
+        "18,5 cm ruimte onder het bed",
+        "Hoofdbord 78 of 98 cm, recht of schuin",
+        "Te combineren met een boxspringset"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
