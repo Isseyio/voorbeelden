@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "eerlijkeboontjes-vrcsf",
+  "merk": "Eerlijke Boontjes",
+  "domein": "eerlijkeboontjes.nl",
+  "lead_id": "2026-11-16-eerlijkeboontjes.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3E5530",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Eerlijke Boontjes",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Eerlijke Boontjes, ik heb dit gemaakt omdat jullie verhaal van boer tot kopje en Linda's eigen branderij zich heel goed lenen voor Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2024:3",
+      "titel": "Van plant tot kop",
+      "waarom": "Drie ronde foto's laten in één oogopslag zien waar de Velvet Toffee vandaan komt, en dat verhaal is precies waarom mensen specialty koffie kopen."
+    },
+    {
+      "node": "2024:24",
+      "titel": "Vers gebrand",
+      "waarom": "Eén groot woord maakt het verschil met supermarktkoffie meteen duidelijk, met drie zakken eronder om uit te kiezen."
+    },
+    {
+      "node": "2024:40",
+      "titel": "Vanaf €9,85",
+      "waarom": "Een duidelijke instapprijs met Linda in beeld laat zien dat er een echt mens achter de branderij zit."
+    }
+  ],
+  "waarom": {
+    "niche": "koffie",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe koffiebrander niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe koffiedrinkers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief en een abonnement zorgen dat die kopers elke maand terugkomen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en koffiemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Koffie Kenner nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2025:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Eerlijke Boontjes",
+    "kop": "Welkom bij Eerlijke Boontjes",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn, hoe direct trade werkt en waarom een abonnement handig is.",
+    "punten": [
+      "Velvet Toffee groot in beeld met een duidelijke knop naar de koffie",
+      "Drie punten: direct trade, nooit donker gebrand en 10% korting met een abonnement",
+      "De boeren in beeld, met een knop naar jullie reis van plantage tot kopje"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2025:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Eerlijke Boontjes",
+      "kop": "Welkom bij Eerlijke Boontjes",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn, hoe direct trade werkt en waarom een abonnement handig is.",
+      "punten": [
+        "Velvet Toffee groot in beeld met een duidelijke knop naar de koffie",
+        "Drie punten: direct trade, nooit donker gebrand en 10% korting met een abonnement",
+        "De boeren in beeld, met een knop naar jullie reis van plantage tot kopje"
+      ]
+    },
+    {
+      "node": "2025:46",
+      "type": "Assortimentsmail",
+      "onderwerp": "Vier koffies om mee te beginnen",
+      "kop": "Zes koffies, elk met een verhaal",
+      "tekst": "Linda in beeld, met vier koffies naast elkaar en het proefpakket voor wie niet kan kiezen.",
+      "punten": [
+        "Elke koffie met herkomst, prijs en een eigen knop",
+        "Het proefpakket als uitweg voor twijfelaars",
+        "Rustige kleuren en het groen uit jullie logo"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
