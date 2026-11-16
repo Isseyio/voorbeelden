@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "kontoer-g6nz2",
+  "merk": "Kontoer Design",
+  "domein": "kontoerdesign.nl",
+  "lead_id": "2026-11-16-kontoerdesign.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#231F20",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Kontoer Design",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Kontoer Design, ik heb dit gemaakt omdat jullie interieurfoto's al precies laten zien hoe een ontwerp uit jullie studio aan de muur hangt, en dat is het beeld dat op Instagram werkt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2069:4",
+      "titel": "Licht of donker?",
+      "waarom": "Twee kleurstellingen van de Amandelbloesem naast elkaar laten mensen meteen kiezen, en wie kiest, klikt door om het formaat samen te stellen."
+    },
+    {
+      "node": "2069:18",
+      "titel": "Kunst uit eigen studio",
+      "waarom": "Een grote kop met jullie ontwerpen tussen de woorden valt op in een feed vol posters, en vertelt meteen wat jullie anders maakt: alles komt uit jullie eigen studio."
+    },
+    {
+      "node": "2069:38",
+      "titel": "Je kale muur belt",
+      "waarom": "Een herkenbaar telefoonscherm met de Kraanvogels in het midden is een speelse manier om te zeggen dat die lege muur al te lang wacht."
+    }
+  ],
+  "waarom": {
+    "niche": "wanddecoratie",
+    "kop": "Zo groeien merken in wanddecoratie op Instagram.",
+    "tekst": "Mensen kopen een schilderij vaak pas als ze hem al aan een muur zien hangen, en dat gebeurt tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, laten steeds een ander ontwerp in een ander interieur zien en vinden zo nieuwe kopers. Een welkomstmail na de aanmelding zorgt dat twijfelaars terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij merken in wonen en interieur vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Desenio nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2069:49",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Kontoer Design",
+    "kop": "Welkom bij Kontoer Design",
+    "tekst": "De mail die iemand krijgt na de aanmelding voor de 5% korting: wie Joyce en Hendrik zijn, hoe je een schilderij samenstelt en dat je gratis advies kunt vragen.",
+    "punten": [
+      "Jullie eigen interieurfoto met de Amandelbloesem als welkomstbeeld",
+      "Drie punten: eigen studio, 8 materialen, gratis advies met digitale preview",
+      "Jullie foto van Joyce bij 'Even voorstellen'"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2069:49",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Kontoer Design",
+      "kop": "Welkom bij Kontoer Design",
+      "tekst": "De mail die iemand krijgt na de aanmelding voor de 5% korting: wie Joyce en Hendrik zijn, hoe je een schilderij samenstelt en dat je gratis advies kunt vragen.",
+      "punten": [
+        "Jullie eigen interieurfoto met de Amandelbloesem als welkomstbeeld",
+        "Drie punten: eigen studio, 8 materialen, gratis advies met digitale preview",
+        "Jullie foto van Joyce bij 'Even voorstellen'"
+      ]
+    },
+    {
+      "node": "2069:76",
+      "type": "Collectiemail",
+      "onderwerp": "Drie ontwerpen uit onze studio",
+      "kop": "Kunst uit eigen studio",
+      "tekst": "Een mail met drie ontwerpen naast elkaar, elk met een korte regel en de vanafprijs, en onderaan de sample voor wie twijfelt over het formaat.",
+      "punten": [
+        "Jullie interieurfoto met de Schotse hooglander als opening",
+        "Sour Times, Amandelbloesem en Kraanvogels, elk vanaf €39,99",
+        "Het sampleblok: het bedrag krijg je terug als korting"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "nynke-75rwh",
+  "merk": "NynkeOntwerpt",
+  "domein": "nynkeontwerpt.nl",
+  "lead_id": "2026-11-16-nynkeontwerpt.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A86C4A",
+  "kop": "Kaartjes en printables voor de echte momenten, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Nynke, ik heb dit gemaakt omdat je ontwerpen zo goed passen bij wat moeders op Instagram de hele dag zien: zindelijkheid, verjaardagen en kleine helpers. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2064:3",
+      "titel": "Kleine handjes, grote hulp",
+      "waarom": "De nieuwe Ik help mee planner in actie, met korte labels, laat in één blik zien wat je krijgt en wat het kost."
+    },
+    {
+      "node": "2065:2",
+      "titel": "Lief klein",
+      "waarom": "Grote woorden uit jullie eigen kaartjes trekken de aandacht tijdens het scrollen, de echte kaarten en de prijs vanaf €1,75 doen de rest."
+    },
+    {
+      "node": "2066:2",
+      "titel": "Knutselmiddag belt aan",
+      "waarom": "Een speels 'inkomend gesprek' rond de Sinterklaas raamstickers past precies in deze weken en voelt niet als een gewone advertentie."
+    }
+  ],
+  "waarom": {
+    "niche": "stationery",
+    "kop": "Zo groeien stationerymerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw kaartjes- of printablemerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, bijvoorbeeld bij de volgende verjaardag of mijlpaal.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij stationerymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Kaartje2go nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2067:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Nynke Ontwerpt",
+    "kop": "Welkom bij Nynke Ontwerpt",
+    "tekst": "Een warme welkomstmail direct na de inschrijving: wie Nynke is, wat je bij haar vindt en de 10% korting voor de eerste bestelling, met de gratis planner als makkelijke eerste stap.",
+    "punten": [
+      "Komt binnen op het moment dat iemand zich inschrijft",
+      "Laat de 10% welkomstkorting meteen zien",
+      "De gratis Ik help mee planner als eerste kennismaking"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2067:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Nynke Ontwerpt",
+      "kop": "Welkom bij Nynke Ontwerpt",
+      "tekst": "Een warme welkomstmail direct na de inschrijving: wie Nynke is, wat je bij haar vindt en de 10% korting voor de eerste bestelling, met de gratis planner als makkelijke eerste stap.",
+      "punten": [
+        "Komt binnen op het moment dat iemand zich inschrijft",
+        "Laat de 10% welkomstkorting meteen zien",
+        "De gratis Ik help mee planner als eerste kennismaking"
+      ]
+    },
+    {
+      "node": "2068:2",
+      "type": "Productspotlight",
+      "onderwerp": "Vier favorieten voor de echte momenten",
+      "kop": "Voor de echte momenten",
+      "tekst": "Een assortimentsmail met vier producten van kaartje tot planner, een echte reactie van een klant en een kort stukje over Nynke zelf.",
+      "punten": [
+        "Vier producten met prijs en knop",
+        "Een echte klantreactie van de site",
+        "Persoonlijk blokje over Nynke"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

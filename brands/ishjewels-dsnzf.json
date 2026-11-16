@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "ishjewels-dsnzf",
+  "merk": "ISH Jewels",
+  "domein": "ish-jewels.com",
+  "lead_id": "2026-11-16-ish-jewels.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#624A1E",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor ISH Jewels",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team ISH Jewels, ik heb dit gemaakt omdat jullie ruwe stenen en Mandy's werkbank in Rotterdam precies het soort beeld zijn waar mensen op Instagram voor blijven hangen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2061:4",
+      "titel": "Met de hand gemaakt",
+      "waarom": "Jullie eigen foto van een ring tussen de vingers aan de werkbank laat zien dat er echte mensen achter het merk zitten, met de kenmerken er direct omheen."
+    },
+    {
+      "node": "2061:20",
+      "titel": "Watermeloen toermalijn",
+      "waarom": "Eén ring met daaronder waar hij van gemaakt is: de ruwe steen, gerecycled goud en de handen van Mandy en Pien. Dat verklaart de prijs zonder korting te geven."
+    },
+    {
+      "node": "2061:37",
+      "titel": "Eén steen, één ring",
+      "waarom": "Een close-up met labels laat zien wat je op een kleine productfoto mist, en 'uniek stuk' geeft een reden om nu te kijken in plaats van later."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, bijvoorbeeld voor een geboortesteen of een cadeau.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "5",
+        "label": "advertenties heeft Sparkling Jewels nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2061:56",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij ISH Jewels",
+    "kop": "Welkom bij ISH Jewels",
+    "tekst": "Een eerste mail voor iedereen die zich inschrijft: wie jullie zijn, waarom elke steen ruw blijft en waar je je eigen steen vindt. Nu staat er alleen een inschrijfveld onderaan de site, zonder opvolging.",
+    "punten": [
+      "Jullie eigen foto van het ISH-doosje als welkomstbeeld",
+      "Drie redenen: ruwe stenen, gerecycled zilver en goud, met de hand gemaakt in Rotterdam",
+      "Jullie handfoto met de toermalijnring bij 'Vind jouw steen'"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2061:56",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij ISH Jewels",
+      "kop": "Welkom bij ISH Jewels",
+      "tekst": "Een eerste mail voor iedereen die zich inschrijft: wie jullie zijn, waarom elke steen ruw blijft en waar je je eigen steen vindt. Nu staat er alleen een inschrijfveld onderaan de site, zonder opvolging.",
+      "punten": [
+        "Jullie eigen foto van het ISH-doosje als welkomstbeeld",
+        "Drie redenen: ruwe stenen, gerecycled zilver en goud, met de hand gemaakt in Rotterdam",
+        "Jullie handfoto met de toermalijnring bij 'Vind jouw steen'"
+      ]
+    },
+    {
+      "node": "2061:83",
+      "type": "Merkverhaal",
+      "onderwerp": "Het verhaal achter ISH Jewels",
+      "kop": "Sieraden met betekenis",
+      "tekst": "Een mail over Mandy en Pien en hoe elk sieraad in Rotterdam ontstaat, met daarna één product uitgelicht: de Herkimer Diamant Oorringen.",
+      "punten": [
+        "Jullie portret van Mandy in de studio",
+        "De Herkimer Diamant Oorringen met vier labels: ruwe steen van ±8 mm, 14kt goud, geboortesteen april, cadeauklaar",
+        "Afsluiting met jullie draagfoto en de echte prijs van €425"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
