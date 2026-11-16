@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "lereve-qd9ut",
+  "merk": "Le Rêve Amsterdam",
+  "domein": "lereveamsterdam.nl",
+  "lead_id": "2026-11-02-lereveamsterdam.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A8834A",
+  "kop": "Drie nieuwe invalshoeken voor Le Rêve Amsterdam",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Le Rêve Amsterdam, ik heb dit gemaakt omdat jullie oorbellen in Amsterdam worden ontworpen en dat verhaal in advertenties goed kan werken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2161:4",
+      "titel": "De parel in detail",
+      "waarom": "Korte labels laten in één oogopslag zien waar het handwerk zit, zonder dat iemand hoeft te klikken."
+    },
+    {
+      "node": "2161:30",
+      "titel": "Prijs en gedragen",
+      "waarom": "Een echte prijs bovenaan en een gedragen oorbel maken meteen duidelijk wat je krijgt en hoe het staat."
+    },
+    {
+      "node": "2161:38",
+      "titel": "Subtiel of statement",
+      "waarom": "Een keuzevraag nodigt uit om te reageren en zet twee stijlen en prijzen naast elkaar."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2162:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Le Rêve, met 10% op je eerste bestelling",
+    "kop": "Welkom bij Le Rêve",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie Le Rêve is, waar de sieraden vandaan komen en de 10% welkomstkorting die jullie al geven.",
+    "punten": [
+      "Ontworpen in Amsterdam, met de hand gemaakt in Europa",
+      "24 karaat verguld, met een extra beschermlaag",
+      "Elke werkdag vóór 16u besteld, dezelfde dag verzonden"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2162:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Le Rêve, met 10% op je eerste bestelling",
+      "kop": "Welkom bij Le Rêve",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie Le Rêve is, waar de sieraden vandaan komen en de 10% welkomstkorting die jullie al geven.",
+      "punten": [
+        "Ontworpen in Amsterdam, met de hand gemaakt in Europa",
+        "24 karaat verguld, met een extra beschermlaag",
+        "Elke werkdag vóór 16u besteld, dezelfde dag verzonden"
+      ]
+    },
+    {
+      "node": "2162:36",
+      "type": "Merkverhaal",
+      "onderwerp": "Het idee achter Le Rêve",
+      "kop": "Meer dan sieraden",
+      "tekst": "Een mail over Geneviève, de studio aan het Museumplein en waar een paar oorbellen uit bestaat, met de Classic statement drop in detail.",
+      "punten": [
+        "Merkverhaal in een paar zinnen",
+        "Product uitgelicht met parel, kristal en verguldsel",
+        "Afsluiter met gedragen oorbellen en een duidelijke knop"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
