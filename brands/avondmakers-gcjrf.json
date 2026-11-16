@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "avondmakers-gcjrf",
+  "merk": "Avondmakers",
+  "domein": "avondmakers.nl",
+  "lead_id": "2026-11-16-avondmakers.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#FFC000",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor jullie spellen.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Avondmakers, ik heb dit gemaakt omdat jullie spellen al een eigen gezicht hebben, van Paardenrace tot Virals. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2179:3",
+      "titel": "Inkomende oproep",
+      "waarom": "Een herkenbaar belscherm laat de duim stoppen, en Virals staat groot en echt in beeld."
+    },
+    {
+      "node": "2179:15",
+      "titel": "Spellenavond-zoekbalk",
+      "waarom": "Sluit aan op wat mensen zelf zoeken en laat in één beeld zien dat een bundel tot €80 scheelt."
+    },
+    {
+      "node": "2179:35",
+      "titel": "Koop dit spel niet",
+      "waarom": "Een omgekeerde kop past bij jullie humor en maakt nieuwsgierig naar Gecanceld."
+    }
+  ],
+  "waarom": {
+    "niche": "spellen en cadeaus",
+    "kop": "Zo groeien spellenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw spel niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe spelers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die spelers terugkomen voor het volgende spel.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij spellen- en cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Little Secret nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2180:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Avondmakers",
+    "kop": "Welkom bij de Avondmakers",
+    "tekst": "Een welkomstmail die direct volgt op de dobbelsteen-pop-up: de korting staat klaar, daarna de vier spellen en de complete bundel.",
+    "punten": [
+      "Volgt de welkomstkorting uit de dobbelsteen-pop-up op",
+      "Vier spellen, elk met een eigen kleurvlak",
+      "De complete bundel: €119,99 in plaats van €199,95"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2180:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Avondmakers",
+      "kop": "Welkom bij de Avondmakers",
+      "tekst": "Een welkomstmail die direct volgt op de dobbelsteen-pop-up: de korting staat klaar, daarna de vier spellen en de complete bundel.",
+      "punten": [
+        "Volgt de welkomstkorting uit de dobbelsteen-pop-up op",
+        "Vier spellen, elk met een eigen kleurvlak",
+        "De complete bundel: €119,99 in plaats van €199,95"
+      ]
+    },
+    {
+      "node": "2180:65",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom we zelf spellen maken",
+      "kop": "Waarom we zelf spellen maken",
+      "tekst": "Jullie eigen verhaal, van Kutfluencers in 2021 tot Virals in 2026, met het nieuwste spel uitgelicht.",
+      "punten": [
+        "Jullie eigen zin: 'Dus besloten we ze te maken.'",
+        "Tijdlijn van 2021 tot 2026",
+        "Virals uitgelicht: gratis webapp, niets te downloaden"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
