@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "sixsenses-nk2va",
+  "merk": "Six Senses",
+  "domein": "six-senses.nl",
+  "lead_id": "2026-11-16-six-senses.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3A2D22",
+  "kop": "Handgemaakt in Maastricht, klaar voor Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Luca, ik heb dit gemaakt omdat jullie alles zelf met de hand maken in kleine oplages, en dat verhaal van jou en Manon zie je nog weinig terug in advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2121:3",
+      "titel": "Koop deze niet",
+      "waarom": "Een kop die tegen de verwachting ingaat laat mensen stoppen met scrollen, en jullie eigen foto van de geurstokjes Sun doet de rest."
+    },
+    {
+      "node": "2121:20",
+      "titel": "Body Cream van dichtbij",
+      "waarom": "Jullie close-up met korte labels laat in één oogopslag zien wat erin zit en hoe rijk de crème is."
+    },
+    {
+      "node": "2121:45",
+      "titel": "Gemaakt door Luca & Manon",
+      "waarom": "Mensen kopen graag van makers die ze kennen: jullie eigen foto's tussen de woorden maken het verhaal persoonlijk."
+    }
+  ],
+  "waarom": {
+    "niche": "geur en verzorging",
+    "kop": "Zo groeien geurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw geur- of verzorgingsmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een welkomstmail na de inschrijving zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij geurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Rituals nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2123:132",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Six Senses",
+    "kop": "Welkom bij Six Senses",
+    "tekst": "Een welkomstmail die direct na de inschrijving voor de Selfcare Story kan worden verstuurd. Hij stelt jullie atelier voor en wijst nieuwe inschrijvers meteen de weg naar de Sun-lijn.",
+    "punten": [
+      "Jullie eigen productfoto als opening",
+      "Handgemaakt, natuurlijk en morgen in huis in drie blokken",
+      "Luca aan het werk als bruggetje naar de Sun-lijn"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2123:132",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Six Senses",
+      "kop": "Welkom bij Six Senses",
+      "tekst": "Een welkomstmail die direct na de inschrijving voor de Selfcare Story kan worden verstuurd. Hij stelt jullie atelier voor en wijst nieuwe inschrijvers meteen de weg naar de Sun-lijn.",
+      "punten": [
+        "Jullie eigen productfoto als opening",
+        "Handgemaakt, natuurlijk en morgen in huis in drie blokken",
+        "Luca aan het werk als bruggetje naar de Sun-lijn"
+      ]
+    },
+    {
+      "node": "2123:168",
+      "type": "Merkverhaal",
+      "onderwerp": "Doe wat goed voelt",
+      "kop": "Het verhaal achter Six Senses",
+      "tekst": "Een mail over hoe Luca en Manon eind zomer 2022 voor een andere weg kozen, met de geurstokjes Sun van dichtbij en een uitnodiging voor de boutique in Maastricht als afsluiter.",
+      "punten": [
+        "Jullie foto van Luca en Manon als opening",
+        "De geurstokjes Sun met vier kenmerken",
+        "De boutique aan Achter Het Vleeshuis als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

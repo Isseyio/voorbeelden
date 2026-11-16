@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "otter-ezy8a",
+  "merk": "Undercover Otter",
+  "domein": "undercoverotter.com",
+  "lead_id": "2026-11-16-undercoverotter.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#00B2AA",
+  "kop": "Handgeverfd garen uit Zaandam, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Undercover Otter, ik heb dit gemaakt omdat jullie kleuren in een feed meteen opvallen, van Achilles tot A Wounded Fawn. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2123:4",
+      "titel": "Spellbound in het groot",
+      "waarom": "Een nieuwe update als groot woord werkt als vast advertentiemoment bij elke yarn drop."
+    },
+    {
+      "node": "2123:18",
+      "titel": "Vier bases",
+      "waarom": "Breiers kiezen eerst een dikte; zo zien ze in één beeld welke base bij hun patroon past."
+    },
+    {
+      "node": "2123:42",
+      "titel": "Twee kleuren naast elkaar",
+      "waarom": "Een keuzevraag tussen twee echte kleuren nodigt uit om te reageren en door te klikken."
+    }
+  ],
+  "waarom": {
+    "niche": "garen en hobby",
+    "kop": "Zo groeien garen- en hobbymerken op Instagram.",
+    "tekst": "De meeste breiers ontdekken een nieuwe verver niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief rond elke yarn drop zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij garen- en hobbymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Hobbii nu tegelijk live in Nederland"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2123:62",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Undercover Otter",
+    "kop": "Welkom bij Undercover Otter",
+    "tekst": "Een rustige eerste mail na inschrijving: wie jullie zijn, dat het garen met de hand geverfd wordt in Zaandam, en dat nieuwe kleuren in yarn drops komen.",
+    "punten": [
+      "Handgeverfd sinds 2011",
+      "Yarn drops als vast moment",
+      "Doorklikken naar de bases"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2123:62",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Undercover Otter",
+      "kop": "Welkom bij Undercover Otter",
+      "tekst": "Een rustige eerste mail na inschrijving: wie jullie zijn, dat het garen met de hand geverfd wordt in Zaandam, en dat nieuwe kleuren in yarn drops komen.",
+      "punten": [
+        "Handgeverfd sinds 2011",
+        "Yarn drops als vast moment",
+        "Doorklikken naar de bases"
+      ]
+    },
+    {
+      "node": "2123:90",
+      "type": "Merkverhaal",
+      "onderwerp": "Sinds 2011 in de verfpotten",
+      "kop": "Sinds 2011 in de verfpotten",
+      "tekst": "Het verhaal achter de studio, gekoppeld aan de lopende actie op Folklore DK en de Sweater Quantities voor grotere projecten.",
+      "punten": [
+        "Merkverhaal en verkooppunten wereldwijd",
+        "Folklore DK uitgelicht met de echte actie",
+        "Sweater Quantities als volgende stap"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "likestationery-z33mm",
+  "merk": "Likestationery",
+  "domein": "likestationery.com",
+  "lead_id": "2026-11-16-likestationery.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#D3031C",
+  "kop": "Kaarten uit Amsterdam, gezien tijdens het scrollen.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Likestationery, ik heb dit gemaakt omdat jullie eigen kaarten, zoals de Casual Cards en de Folded Cards, zo herkenbaar zijn dat ze bijna zichzelf verkopen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2115:4",
+      "titel": "Koop deze kaart niet",
+      "waarom": "Een omgekeerde kop met een knipoog laat mensen stoppen met scrollen en past bij de humor van de Casual Cards."
+    },
+    {
+      "node": "2115:27",
+      "titel": "Een kaartje maakt iemands week",
+      "waarom": "Een grote typografische zin met foto's uit de winkel vertelt in één blik wat een kaart doet, met de Folded Card en prijs eronder."
+    },
+    {
+      "node": "2115:44",
+      "titel": "Blauw of roze?",
+      "waarom": "Twee kleuren naast elkaar maken kiezen makkelijk en leiden direct naar de Swimming Pool 2.0 van €3,95."
+    }
+  ],
+  "waarom": {
+    "niche": "stationery",
+    "kop": "Zo groeien stationerymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kaarten- of papiermerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, ook voor de winkel.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij stationerymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Kaartje2go nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2115:155",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Likestationery",
+    "kop": "Welkom bij Likestationery",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: als eerste nieuwe kaarten uit de eigen studio, pennen en papier die jullie zelf graag gebruiken, en een uitnodiging voor de winkel aan de Prinsenstraat.",
+    "punten": [
+      "Herokaart in jullie roze met de Casual Card A Thousand Kisses",
+      "Drie redenen om te blijven lezen, in jullie rood",
+      "Winkelblok met openingstijden en een knop om langs te komen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2115:155",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Likestationery",
+      "kop": "Welkom bij Likestationery",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: als eerste nieuwe kaarten uit de eigen studio, pennen en papier die jullie zelf graag gebruiken, en een uitnodiging voor de winkel aan de Prinsenstraat.",
+      "punten": [
+        "Herokaart in jullie roze met de Casual Card A Thousand Kisses",
+        "Drie redenen om te blijven lezen, in jullie rood",
+        "Winkelblok met openingstijden en een knop om langs te komen"
+      ]
+    },
+    {
+      "node": "2115:197",
+      "type": "Merkverhaal",
+      "onderwerp": "Van de Rietveld Academie naar de Prinsenstraat",
+      "kop": "Het verhaal achter Likestationery",
+      "tekst": "Een mail over Sanne en de studio, met de Folded Card Firework Nightsky uitgelicht en Shop the Box als afsluiter.",
+      "punten": [
+        "Verhaal van Sanne in een kaart over een foto uit de winkel",
+        "Folded Card met vier korte labels",
+        "Afsluiter in jullie rood: Shop the Box vanaf €14,90"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

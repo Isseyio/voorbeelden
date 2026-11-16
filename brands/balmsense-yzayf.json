@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "balmsense-yzayf",
+  "merk": "Balmsense",
+  "domein": "balmsense.com",
+  "lead_id": "2026-11-16-balmsense.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1E373C",
+  "kop": "Balsem in plaats van crème, voor Balmsense.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Balmsense, ik heb dit gemaakt omdat jullie balsems zo'n duidelijk verhaal hebben: geen toegevoegd water en een halve erwt is genoeg. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2127:2",
+      "titel": "Koop geen crème",
+      "waarom": "Een omgekeerde kop laat mensen stoppen met scrollen en legt in één zin uit waarom een balsem anders is."
+    },
+    {
+      "node": "2127:36",
+      "titel": "Eerst voelen",
+      "waarom": "Het proefduo van €8,95 maakt de eerste stap klein voor wie een balsem van €59,95 nog niet kent."
+    },
+    {
+      "node": "2127:73",
+      "titel": "Zo werkt de balsem",
+      "waarom": "De echte textuur met korte uitleg beantwoordt de vragen die mensen bij een nieuwe huidverzorging hebben."
+    }
+  ],
+  "waarom": {
+    "niche": "huidverzorging",
+    "kop": "Zo groeien huidverzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw verzorgingsmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een navulling.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Puur Geluk (zalven en balsems) nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2129:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Balmsense",
+    "kop": "Welkom bij Balmsense",
+    "tekst": "Fijn dat je er bent. Balsems zonder toegevoegd water, met alleen werkzame bestanddelen, ontwikkeld en getest in de eigen salon in Enkhuizen.",
+    "punten": [
+      "Jouw huid in twee stappen: reinigen en verzorgen",
+      "Navullen: €5 retourkorting op het RVS-potje",
+      "Eerst proberen met het Mini Essentials Duo (€8,95)"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2129:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Balmsense",
+      "kop": "Welkom bij Balmsense",
+      "tekst": "Fijn dat je er bent. Balsems zonder toegevoegd water, met alleen werkzame bestanddelen, ontwikkeld en getest in de eigen salon in Enkhuizen.",
+      "punten": [
+        "Jouw huid in twee stappen: reinigen en verzorgen",
+        "Navullen: €5 retourkorting op het RVS-potje",
+        "Eerst proberen met het Mini Essentials Duo (€8,95)"
+      ]
+    },
+    {
+      "node": "2129:77",
+      "type": "Merkverhaal",
+      "onderwerp": "Ontwikkeld in de salon",
+      "kop": "Ontwikkeld in de salon, getest op echte huid.",
+      "tekst": "Het verhaal van Wanda en haar salon in Enkhuizen, wat er in de Face Balm zit en een uitnodiging voor een gratis huidanalyse.",
+      "punten": [
+        "Merkverhaal: van salon naar eigen formule",
+        "Rozenbottel, granaatappel, jojoba en argan uitgelicht",
+        "Afsluiting met de huidanalyse bij The Gift Lab"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
