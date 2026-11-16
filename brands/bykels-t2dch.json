@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "bykels-t2dch",
+  "merk": "By Kels",
+  "domein": "bykels.nl",
+  "lead_id": "2026-11-16-bykels.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B98E6A",
+  "kop": "By Kels op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team By Kels, ik heb dit gemaakt omdat jullie alles met de hand maken in Nederland en namen zelf borduren. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2095:4",
+      "titel": "Badcape met naam",
+      "waarom": "Zes kleuren naast elkaar laten in één beeld zien hoeveel keuze er is, met de prijs er direct bij."
+    },
+    {
+      "node": "2095:22",
+      "titel": "Het eerste pakje",
+      "waarom": "Een close-up van het borduurwerk laat zien waarom dit een cadeau is om te bewaren."
+    },
+    {
+      "node": "2095:40",
+      "titel": "Stapelkorting",
+      "waarom": "Een duidelijk aanbod bovenaan met jullie eigen foto eronder werkt goed voor mensen die jullie nog niet kennen."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien kindermerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw kindermerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die ouders terugkomen, bijvoorbeeld voor het volgende kraamcadeau.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids- en babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Kraam-cadeau.nl nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2096:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij By Kels",
+    "kop": "Welkom bij By Kels",
+    "tekst": "Fijn dat je er bent. Alles wat je bij ons vindt, is met de hand gemaakt in Nederland, met oog voor detail. Van broekjes tot een badcape met naam.",
+    "punten": [
+      "Handgemaakt in ons eigen naaiatelier",
+      "Met naam geborduurd in jouw lettertype en kleur",
+      "Elke bestelling ingepakt als een klein cadeautje"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2096:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij By Kels",
+      "kop": "Welkom bij By Kels",
+      "tekst": "Fijn dat je er bent. Alles wat je bij ons vindt, is met de hand gemaakt in Nederland, met oog voor detail. Van broekjes tot een badcape met naam.",
+      "punten": [
+        "Handgemaakt in ons eigen naaiatelier",
+        "Met naam geborduurd in jouw lettertype en kleur",
+        "Elke bestelling ingepakt als een klein cadeautje"
+      ]
+    },
+    {
+      "node": "2096:39",
+      "type": "Favorieten",
+      "onderwerp": "Een broek voor iedereen",
+      "kop": "Een broek voor iedereen",
+      "tekst": "Flareds en leggings op maat, in een stof die jij kiest. Voor je mini en voor jezelf, met daaronder vier favorieten uit de shop.",
+      "punten": [
+        "Kids Flared of Legging, €34,95",
+        "Badcape met naam, €17,95",
+        "Boxpakje Small Soft Rib Ruffle, €36,95",
+        "Baby broekje Small sof rib, €19,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

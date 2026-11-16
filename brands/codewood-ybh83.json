@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "codewood-ybh83",
+  "merk": "studio code+wood",
+  "domein": "codeandwood.art",
+  "lead_id": "2026-11-05-codeandwood.art",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2E4636",
+  "kop": "Puzzels zonder plaatje, in drie advertenties.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Matthijs, ik heb dit gemaakt omdat een puzzel zonder plaatje, met stukjes in de vorm van eikenbladeren, precies het soort verhaal is dat op Instagram blijft hangen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2098:3",
+      "titel": "Koop deze puzzel niet",
+      "waarom": "Een omgekeerde kop laat mensen stoppen met scrollen en maakt de uitdaging van 150 stukjes zonder plaatje meteen duidelijk."
+    },
+    {
+      "node": "2098:22",
+      "titel": "Het hout doet de rest",
+      "waarom": "Een close-up van de stukjes met korte labels laat zien wat je niet op een gewone puzzel ziet: bladvormige stukjes en berkenhout zonder print."
+    },
+    {
+      "node": "2098:42",
+      "titel": "Eik of Badeend",
+      "waarom": "Twee puzzels naast elkaar met stukjes en prijs helpen mensen kiezen, en werkt goed als cadeau-advertentie richting de feestdagen."
+    }
+  ],
+  "waarom": {
+    "niche": "puzzels",
+    "kop": "Zo groeien puzzelmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw puzzelmerk niet via Google, maar tijdens het scrollen, vaak op zoek naar een cadeau. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die puzzelaars terugkomen voor de volgende uitdaging.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij cadeau- en puzzelmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25+",
+        "label": "advertenties heeft Lubiwood nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2100:67",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij studio code+wood",
+    "kop": "Welkom bij studio code+wood",
+    "tekst": "Een rustige welkomstmail die uitlegt wat jullie puzzels anders maakt: geen plaatje, stukjes die de code bedenkt en de laser uit berkenhout snijdt. Daarna meteen de Eik als eerste puzzel om mee te beginnen.",
+    "punten": [
+      "Natuurlijk berkenhout, zonder print",
+      "Alleen het silhouet als hint",
+      "Alle stukjes in een linnen zakje"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2100:67",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij studio code+wood",
+      "kop": "Welkom bij studio code+wood",
+      "tekst": "Een rustige welkomstmail die uitlegt wat jullie puzzels anders maakt: geen plaatje, stukjes die de code bedenkt en de laser uit berkenhout snijdt. Daarna meteen de Eik als eerste puzzel om mee te beginnen.",
+      "punten": [
+        "Natuurlijk berkenhout, zonder print",
+        "Alleen het silhouet als hint",
+        "Alle stukjes in een linnen zakje"
+      ]
+    },
+    {
+      "node": "2100:111",
+      "type": "Assortiment",
+      "onderwerp": "Vier puzzels, nul plaatjes",
+      "kop": "Vier puzzels, nul plaatjes",
+      "tekst": "Een assortimentsmail met de vier puzzels naast elkaar, van 121 tot 400 stukjes, zodat iedere puzzelaar zijn eigen uitdaging kiest. Handig in de cadeaumaanden.",
+      "punten": [
+        "Eik · 150 stukjes · €79",
+        "Eekhoorn · 301 stukjes · €99",
+        "Badeend · 400 stukjes · €119",
+        "Pieces of Love · 121 stukjes · €69"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

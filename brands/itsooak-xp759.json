@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "itsooak-xp759",
+  "merk": "It's OOAK",
+  "domein": "itsooak.nl",
+  "lead_id": "2026-11-16-itsooak.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#DB72AA",
+  "kop": "Van oude stropdas tot haarband, klaar voor Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team It's OOAK, ik heb dit gemaakt omdat haarbanden van echte designer stropdassen, waarvan er van elke print maar één is, precies het soort verhaal zijn dat op Instagram opvalt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2100:4",
+      "titel": "Echte zijden stropdas",
+      "waarom": "Het Escher-label van dichtbij met twee korte uitleggen laat meteen zien dat dit geen gewone haarband is, en de prijs staat er direct bij."
+    },
+    {
+      "node": "2100:28",
+      "titel": "Escher of Versace?",
+      "waarom": "Twee haarbanden naast elkaar laten kiezen werkt goed bij unieke stukken: mensen klikken door om te zien welke er nog is."
+    },
+    {
+      "node": "2100:49",
+      "titel": "Van stropdas tot haarband",
+      "waarom": "Het hele verhaal in één zin, met kleine foto's van de stropdassen en Willemijn erin, maakt nieuwsgierig naar hoe het gemaakt wordt."
+    }
+  ],
+  "waarom": {
+    "niche": "accessoires",
+    "kop": "Zo groeien accessoiremerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw accessoiremerk niet via Google, maar tijdens het scrollen. Bij unieke stukken werkt dat extra goed: elke nieuwe print is een nieuwe reden om te kijken. Merken die elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en een vaste nieuwsbrief zorgt dat die terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "18–28%",
+        "label": "van de online omzet komt bij accessoiremerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "2101:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij It's OOAK",
+    "kop": "Welkom bij It's OOAK",
+    "tekst": "Op de site krijg je 10% korting als je je inschrijft, maar dat staat alleen in de footer. Deze welkomstmail bedankt nieuwe inschrijvers, legt uit wat OOAK anders maakt en stelt Willemijn voor.",
+    "punten": [
+      "Jullie eigen foto van Willemijn als opening",
+      "Pre-loved stropdassen, one of a kind en handgemaakt in Tilburg in drie iconen",
+      "Een persoonlijk blok over hoe It's OOAK in 2019 begon"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2101:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij It's OOAK",
+      "kop": "Welkom bij It's OOAK",
+      "tekst": "Op de site krijg je 10% korting als je je inschrijft, maar dat staat alleen in de footer. Deze welkomstmail bedankt nieuwe inschrijvers, legt uit wat OOAK anders maakt en stelt Willemijn voor.",
+      "punten": [
+        "Jullie eigen foto van Willemijn als opening",
+        "Pre-loved stropdassen, one of a kind en handgemaakt in Tilburg in drie iconen",
+        "Een persoonlijk blok over hoe It's OOAK in 2019 begon"
+      ]
+    },
+    {
+      "node": "2101:43",
+      "type": "Assortiment",
+      "onderwerp": "Designer haarbanden nu €44,95",
+      "kop": "Designer haarbanden",
+      "tekst": "Een mail rond de designer en art haarbanden die nu in de aanbieding zijn, met vier haarbanden die op voorraad zijn en jullie eigen tagline als afsluiter.",
+      "punten": [
+        "Willemijn met een haarstrik als grote foto",
+        "Vier haarbanden met korte tekst, prijs en knop",
+        "De tagline 'What makes you different is what makes you awesome'"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
