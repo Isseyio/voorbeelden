@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "dutchd-ngyup",
+  "merk": "Dutch'D",
+  "domein": "dutchdstore.com",
+  "lead_id": "2026-11-16-dutchdstore.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#585E71",
+  "kop": "Drie nieuwe invalshoeken en twee nieuwsbrieven voor Dutch'D.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Dutch'D, ik heb dit gemaakt omdat jullie sneakers al sterk gefotografeerd zijn, zoals de gespiegelde beelden van de Charm Era. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2182:3",
+      "titel": "Ontworpen in Nederland",
+      "waarom": "Vertelt jullie verhaal in één zin, met echte foto's in de tekst en de Charm Era groot in beeld."
+    },
+    {
+      "node": "2182:18",
+      "titel": "Nieuw seizoen in detail",
+      "waarom": "Een close-up met callouts laat het leer en het handwerk zien, wat bij schoenen van €100+ het verschil maakt."
+    },
+    {
+      "node": "2182:36",
+      "titel": "Strak of stoer?",
+      "waarom": "Twee modellen naast elkaar helpen mensen kiezen en laten de prijs meteen zien."
+    }
+  ],
+  "waarom": {
+    "niche": "schoenen",
+    "kop": "Zo groeien schoenenmerken op Instagram.",
+    "tekst": "Jullie adverteren al, dus de basis staat. Advertenties worden na een paar weken moe: dezelfde mensen zien ze steeds weer en klikken minder. Merken die elke week nieuwe varianten testen, houden hun kosten per aankoop laag, en een vaste nieuwsbrief zorgt dat kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij schoenen- en modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Mason Garments nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2182:222",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Dutch'D",
+    "kop": "Welkom bij Dutch'D",
+    "tekst": "Een rustige welkomstmail die de THANKYOU-code van jullie pop-up opvolgt en meteen de Charm Era laat zien.",
+    "punten": [
+      "Volgt de 10% THANKYOU-code uit de pop-up op",
+      "Drie redenen: handgemaakt, morgen in huis, gratis retour",
+      "Eerste product: de Charm Era"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2182:222",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Dutch'D",
+      "kop": "Welkom bij Dutch'D",
+      "tekst": "Een rustige welkomstmail die de THANKYOU-code van jullie pop-up opvolgt en meteen de Charm Era laat zien.",
+      "punten": [
+        "Volgt de 10% THANKYOU-code uit de pop-up op",
+        "Drie redenen: handgemaakt, morgen in huis, gratis retour",
+        "Eerste product: de Charm Era"
+      ]
+    },
+    {
+      "node": "2182:258",
+      "type": "Productvergelijking",
+      "onderwerp": "Strak of stoer?",
+      "kop": "Charm Era vs. Rune",
+      "tekst": "Twee modellen naast elkaar, met prijs, maten en kleuren, en de suède Chelsea Boot als afsluiter.",
+      "punten": [
+        "Charm Era uitgelicht met vier kenmerken",
+        "Vergelijking op prijs, maten en kleuren",
+        "Chelsea Boot van Italiaans leer als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "happywoods-36mcz",
+  "merk": "HappyWoods",
+  "domein": "thehappywoods.com",
+  "lead_id": "2026-11-16-thehappywoods.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4F3523",
+  "kop": "Olijfhout dat op Instagram opvalt.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team HappyWoods, ik heb dit gemaakt omdat het verhaal achter jullie hout, oude olijfbomen die geen vruchten meer dragen, precies is wat mensen tijdens het scrollen laat stoppen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2183:3",
+      "titel": "Van oude olijfboom",
+      "waarom": "Vier ronde detailfoto's leggen in één beeld uit waarom jullie keukengerei anders is dan een gewone houten lepel."
+    },
+    {
+      "node": "2183:26",
+      "titel": "Rond of vierkant?",
+      "waarom": "Twee varianten naast elkaar maken kiezen makkelijk en laten de nerf van beide houders goed zien."
+    },
+    {
+      "node": "2183:48",
+      "titel": "Pizzaplaat van €39,95",
+      "waarom": "Een echte prijs bovenaan en een groot logo over jullie eigen pizzafoto zetten het product en het merk in één beeld neer."
+    }
+  ],
+  "waarom": {
+    "niche": "keuken en wonen",
+    "kop": "Zo groeien keukenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een mooi keukenmerk niet via Google, maar tijdens het scrollen, vaak op zoek naar een cadeau. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij keuken- en woonmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij keuken- en woonmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "2183:58",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij HappyWoods",
+    "kop": "Welkom bij HappyWoods",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, met de keukengerei-set als blikvanger en in drie punten waarom jullie olijfhout bijzonder is.",
+    "punten": [
+      "De 5-delige keukengerei-set uitgelicht, met knop naar de collectie",
+      "Oude olijfbomen, handwerk en bijenwas in drie korte blokken",
+      "Een tweede blok over de nerf: elk stuk is uniek"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2183:58",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij HappyWoods",
+      "kop": "Welkom bij HappyWoods",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers, met de keukengerei-set als blikvanger en in drie punten waarom jullie olijfhout bijzonder is.",
+      "punten": [
+        "De 5-delige keukengerei-set uitgelicht, met knop naar de collectie",
+        "Oude olijfbomen, handwerk en bijenwas in drie korte blokken",
+        "Een tweede blok over de nerf: elk stuk is uniek"
+      ]
+    },
+    {
+      "node": "2183:83",
+      "type": "Merkverhaal",
+      "onderwerp": "Van oude olijfbomen naar jouw tafel",
+      "kop": "Van oude olijfbomen naar jouw tafel.",
+      "tekst": "Een mail over waar jullie hout vandaan komt en wie het maakt, met het schaakbord met opberglades uitgelicht en de pollepels als cadeau.",
+      "punten": [
+        "Jullie eigen verhaal: oude bomen, ambachtslieden en een eerlijk loon",
+        "Schaakbord met opberglades met vier korte labels",
+        "Afsluiter met de set van 3 pollepels als cadeau"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

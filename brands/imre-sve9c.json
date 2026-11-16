@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "imre-sve9c",
+  "merk": "Design by Imre Bergmann",
+  "domein": "imrebergmann.nl",
+  "lead_id": "2026-11-16-imrebergmann.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#D9967E",
+  "kop": "Handgemaakte keramiek, elke week in beeld",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Design by Imre Bergmann, ik heb dit gemaakt omdat jullie foto's het handwerk zo rustig en echt laten zien, van de draaischijf tot de ochtendkoffie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2182:61",
+      "titel": "Drie glazuren",
+      "waarom": "Laat zien dat elke lepel anders is en maakt de lage instapprijs van €12,95 zichtbaar."
+    },
+    {
+      "node": "2182:82",
+      "titel": "Koop geen nieuw servies",
+      "waarom": "Een omgekeerde kop valt op tijdens het scrollen en zet handgedraaide borden tegenover gewoon servies."
+    },
+    {
+      "node": "2182:100",
+      "titel": "Echte reviews",
+      "waarom": "Jullie eigen reviews werken als bewijs voor mensen die het merk nog niet kennen."
+    }
+  ],
+  "waarom": {
+    "niche": "keramiek",
+    "kop": "Zo groeien keramiekmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw keramiekmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woon- en keukenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Motel a Miio nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2182:136",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in het atelier",
+    "kop": "Welkom in het atelier",
+    "tekst": "Een warme welkomstmail die jullie 10% korting op de eerste aankoop meteen laat zien, met het verhaal achter het handwerk.",
+    "punten": [
+      "Jullie echte welkomstkorting van 10% centraal",
+      "Drie redenen in één oogopslag: handgedraaid, elk stuk uniek, snel verzonden",
+      "Doorklik naar het verhaal van Imre"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2182:136",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in het atelier",
+      "kop": "Welkom in het atelier",
+      "tekst": "Een warme welkomstmail die jullie 10% korting op de eerste aankoop meteen laat zien, met het verhaal achter het handwerk.",
+      "punten": [
+        "Jullie echte welkomstkorting van 10% centraal",
+        "Drie redenen in één oogopslag: handgedraaid, elk stuk uniek, snel verzonden",
+        "Doorklik naar het verhaal van Imre"
+      ]
+    },
+    {
+      "node": "2182:179",
+      "type": "Merkverhaal",
+      "onderwerp": "Van marketing naar de draaischijf",
+      "kop": "Van marketing naar de draaischijf",
+      "tekst": "Imre vertelt zelf hoe ze van marketing naar keramiek ging, met de handgemaakte kandelaar in de hoofdrol en de pers als bewijs.",
+      "punten": [
+        "Persoonlijk verhaal met haar eigen quote",
+        "Product uitgelicht met korte labels",
+        "Afsluiting met VT wonen, Flow en Margriet"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
