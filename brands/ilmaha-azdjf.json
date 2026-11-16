@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "ilmaha-azdjf",
+  "merk": "Ilmaha",
+  "domein": "ilmaha.com",
+  "lead_id": "2026-11-16-ilmaha.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8C7B6B",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Ilmaha",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Ilmaha, ik heb dit gemaakt omdat jullie draagfoto's zo rustig en echt zijn, en dat werkt heel goed op Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2040:2",
+      "titel": "Zacht voor je baby",
+      "waarom": "Een echte draagfoto met de kenmerken erbij beantwoordt meteen de vragen die ouders hebben: is het comfortabel, en vanaf wanneer kan het?"
+    },
+    {
+      "node": "2042:2",
+      "titel": "Uni of marble?",
+      "waarom": "Twee stoffen naast elkaar met prijs maken kiezen makkelijk, en een vraag in de kop zorgt dat mensen blijven kijken."
+    },
+    {
+      "node": "2043:11",
+      "titel": "Wat ouders zeggen",
+      "waarom": "Echte reviews van andere ouders geven vertrouwen bij een aankoop van €149,95, en jullie 4,8 uit 615 reviews is een sterk bewijs."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien babymerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw babymerk niet via Google, maar tijdens het scrollen, vaak al in de zwangerschap. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe ouders en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die ouders terugkomen voor het volgende product.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft MamaLoes nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2044:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom, Ilmaatje",
+    "kop": "Welkom, Ilmaatje",
+    "tekst": "Een eerste mail voor iedereen die zich aanmeldt als Ilmaatje: de kans op €200 shoptegoed, waar Ilmaha voor staat en het verhaal van Karina en Daphne.",
+    "punten": [
+      "De echte aanmelding met de maandelijkse kans op €200 shoptegoed direct bovenaan",
+      "Handgemaakt, natuurlijk materiaal en tijdloos in drie blokjes",
+      "Het verhaal van moeder en dochter met jullie eigen foto, plus drie favorieten"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2044:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom, Ilmaatje",
+      "kop": "Welkom, Ilmaatje",
+      "tekst": "Een eerste mail voor iedereen die zich aanmeldt als Ilmaatje: de kans op €200 shoptegoed, waar Ilmaha voor staat en het verhaal van Karina en Daphne.",
+      "punten": [
+        "De echte aanmelding met de maandelijkse kans op €200 shoptegoed direct bovenaan",
+        "Handgemaakt, natuurlijk materiaal en tijdloos in drie blokjes",
+        "Het verhaal van moeder en dochter met jullie eigen foto, plus drie favorieten"
+      ]
+    },
+    {
+      "node": "2045:2",
+      "type": "Productspotlight",
+      "onderwerp": "Uni of marble?",
+      "kop": "Dichtbij dragen, vanaf dag één",
+      "tekst": "Een mail over de mei tai: hoe hij in elkaar zit, en uni en marble naast elkaar zodat kiezen makkelijk wordt.",
+      "punten": [
+        "Jullie eigen draagfoto groot in beeld",
+        "De mei tai met mutsje, brede banden, hydrofiel katoen en heupband uitgelicht",
+        "Een vergelijking van uni en marble op prijs, stof en kleuren"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
