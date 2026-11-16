@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "archive-u9fdb",
+  "merk": "Archive Studio",
+  "domein": "archivestudio.nl",
+  "lead_id": "2026-11-16-archivestudio.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2B2926",
+  "kop": "Servies voor elke dag, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Archive Studio, ik heb dit gemaakt omdat de ribbels van jullie Column-mokken op de foto's bijna voelbaar zijn, en dat zie je in een advertentie graag terug. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2187:80",
+      "titel": "Koffiemokken",
+      "waarom": "Eén groot woord en een zoekbalk laten in een seconde zien wat je verkoopt, met drie echte mokken eronder."
+    },
+    {
+      "node": "2187:96",
+      "titel": "Ribbels die je voelt",
+      "waarom": "Materiaal en maakproces in vier korte regels geven een reden om voor handgemaakt steengoed te kiezen."
+    },
+    {
+      "node": "2187:118",
+      "titel": "Glad of met ribbels?",
+      "waarom": "Een vraag met twee collecties naast elkaar nodigt uit om te kiezen en laat meteen het assortiment zien."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en keuken",
+    "kop": "Zo groeien woon- en keukenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken nieuw servies niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, zeker als er een restock aankomt.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woon- en keukenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Serax nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2187:136",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Archive Studio",
+    "kop": "Welkom bij Archive Studio",
+    "tekst": "Fijn dat je er bent. Als welkom krijg je 10% korting op je eerste bestelling vanaf € 50. Omdat alles in kleine series wordt gemaakt, hoor je als abonnee als eerste wanneer iets terug is.",
+    "punten": [
+      "Steengoed, handgemaakt en sterk",
+      "Gebakken op 1.250 °C",
+      "Vaatwasserbestendig",
+      "Restocks als eerste in je inbox"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2187:136",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Archive Studio",
+      "kop": "Welkom bij Archive Studio",
+      "tekst": "Fijn dat je er bent. Als welkom krijg je 10% korting op je eerste bestelling vanaf € 50. Omdat alles in kleine series wordt gemaakt, hoor je als abonnee als eerste wanneer iets terug is.",
+      "punten": [
+        "Steengoed, handgemaakt en sterk",
+        "Gebakken op 1.250 °C",
+        "Vaatwasserbestendig",
+        "Restocks als eerste in je inbox"
+      ]
+    },
+    {
+      "node": "2187:170",
+      "type": "Merkverhaal",
+      "onderwerp": "Begin klein, groei langzaam",
+      "kop": "Begin klein, groei langzaam.",
+      "tekst": "Lynn en Wouter ontwerpen elk stuk zelf. Een werkplaats in Noord-Vietnam maakt het in kleine series, daarna wordt alles in Nederland opnieuw ingepakt. Verder de Column-mok uitgelicht en de drie collecties die je makkelijk combineert.",
+      "punten": [
+        "Ribbels die je voelt",
+        "Binnen geglazuurd, buiten mat",
+        "Forme, Column en Segmented combineren"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "blackbloom-62a9a",
+  "merk": "Black & Bloom",
+  "domein": "blackandbloom.nl",
+  "lead_id": "2026-11-16-blackandbloom.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2B4F3E",
+  "kop": "Vier landen in je kopje, vers gebrand in Groningen.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Gerben, ik heb dit gemaakt omdat jullie bij elke koffie laten zien van welke boer en welke regio hij komt, en dat verhaal leent zich goed voor Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2186:3",
+      "titel": "Van de boer naar Groningen",
+      "waarom": "Een grote kop met jullie eigen oogstfoto's erin vertelt in één blik wat jullie doen: zelf branden, met herkomst."
+    },
+    {
+      "node": "2187:2",
+      "titel": "Vier landen in je kopje",
+      "waarom": "Het hele aanbod met smaaknoten en prijs in één beeld, zodat iemand meteen een koffie kan kiezen die bij hem past."
+    },
+    {
+      "node": "2187:44",
+      "titel": "Espresso of filter",
+      "waarom": "Twee duidelijke keuzes naast elkaar maken het makkelijk om door te klikken, ook voor wie nog nooit bij jullie bestelde."
+    }
+  ],
+  "waarom": {
+    "niche": "koffie",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe koffiebrander niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun zak bonen leeg is.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en koffiemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft De Koffiejongens nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2187:213",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Black & Bloom",
+    "kop": "Welkom bij Black & Bloom",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, sinds 2012 vers gebrand in Groningen, en direct de weg naar de bonen. Nu staat er nog geen inschrijving op de site, dus dit is ook een reden om die toe te voegen.",
+    "punten": [
+      "Welkom met de latte art uit jullie eigen bar",
+      "Drie redenen: vers gebrand, single origins, gratis verzending vanaf €50",
+      "Espresso of filter, met een knop naar de shop"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2187:213",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Black & Bloom",
+      "kop": "Welkom bij Black & Bloom",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, sinds 2012 vers gebrand in Groningen, en direct de weg naar de bonen. Nu staat er nog geen inschrijving op de site, dus dit is ook een reden om die toe te voegen.",
+      "punten": [
+        "Welkom met de latte art uit jullie eigen bar",
+        "Drie redenen: vers gebrand, single origins, gratis verzending vanaf €50",
+        "Espresso of filter, met een knop naar de shop"
+      ]
+    },
+    {
+      "node": "2187:304",
+      "type": "Merkverhaal",
+      "onderwerp": "Van de boer naar Groningen",
+      "kop": "Van de boer naar Groningen",
+      "tekst": "Een mail over het verhaal achter Black & Bloom: de eerste artisan espressobar van Groningen, Gerben achter de Synesso en één koffie uitgelicht met herkomst, proces en smaak.",
+      "punten": [
+        "Merkverhaal sinds 2 augustus 2012",
+        "Ethiopia Limu-2 Wolemso uitgelicht met vier labels",
+        "Afsluiting met de vaste zetmethodes: V60, Kalita, Aeropress"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

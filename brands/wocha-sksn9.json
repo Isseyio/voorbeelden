@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "wocha-sksn9",
+  "merk": "Wocha",
+  "domein": "wocha.nl",
+  "lead_id": "2026-11-16-wocha.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6B5F52",
+  "kop": "Gewassen linnen dat je wilt aanraken",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Wocha, ik heb dit gemaakt omdat jullie foto's van het gewassen linnen zo goed laten zien hoe zacht het is, en omdat jullie alles met z'n tweeën doen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2187:248",
+      "titel": "Linnen van dichtbij",
+      "waarom": "Een close-up met een hand laat voelen hoe het linnen valt, en de labels geven in één blik de redenen om te kopen."
+    },
+    {
+      "node": "2187:282",
+      "titel": "Wit of beige?",
+      "waarom": "Een simpele keuzevraag zet mensen aan het denken over hun eigen bed en laat beide kleuren met de echte prijs zien."
+    },
+    {
+      "node": "2187:357",
+      "titel": "Slaap zacht",
+      "waarom": "Grote letters vallen op tijdens het scrollen en laten het katoen satijn in meerdere kleuren zien, vanaf €99."
+    }
+  ],
+  "waarom": {
+    "niche": "beddengoed",
+    "kop": "Zo groeien beddengoedmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw beddengoedmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een tweede set of extra kussenslopen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woon- en textielmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft HappyBed nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2188:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Wocha",
+    "kop": "Welkom bij Wocha",
+    "tekst": "Een rustige welkomstmail voor nieuwe aanmelders via het footerformulier: Wouter en Charlotte stellen zich voor, met de redenen om bij Wocha te kopen en het linnen om te voelen.",
+    "punten": [
+      "Persoonlijke welkomst van Wouter en Charlotte",
+      "Drie redenen in één oogopslag: voor 15:00 besteld zelfde dag verzonden, 14 dagen gratis retour, 5000+ tevreden klanten",
+      "Doorklik naar het gewassen linnen met de handfoto"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2188:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Wocha",
+      "kop": "Welkom bij Wocha",
+      "tekst": "Een rustige welkomstmail voor nieuwe aanmelders via het footerformulier: Wouter en Charlotte stellen zich voor, met de redenen om bij Wocha te kopen en het linnen om te voelen.",
+      "punten": [
+        "Persoonlijke welkomst van Wouter en Charlotte",
+        "Drie redenen in één oogopslag: voor 15:00 besteld zelfde dag verzonden, 14 dagen gratis retour, 5000+ tevreden klanten",
+        "Doorklik naar het gewassen linnen met de handfoto"
+      ]
+    },
+    {
+      "node": "2189:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Hoi, wij zijn Wouter en Charlotte",
+      "kop": "Van ons tweeën",
+      "tekst": "Het verhaal achter Wocha met jullie eigen foto van de stand, de linnen set uitgelicht met korte labels en een afsluiting met de echte prijs.",
+      "punten": [
+        "Merkverhaal met de foto van Wouter en Charlotte",
+        "Linnen set met vier labels: Frans linnen, 195 g/m², instopstrook, OEKO-TEX",
+        "Afsluiting met de 2-persoons set voor €269"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
