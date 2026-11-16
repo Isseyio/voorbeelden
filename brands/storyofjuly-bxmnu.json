@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "storyofjuly-bxmnu",
+  "merk": "Story of July",
+  "domein": "storyofjuly.nl",
+  "lead_id": "2026-11-16-storyofjuly.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B9573F",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Story of July",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Story of July, ik heb dit gemaakt omdat handgetekende kaartjes als Otis en Bosdieren precies het soort beeld zijn waar aanstaande ouders op Instagram voor stoppen met scrollen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2059:141",
+      "titel": "Welk verhaal past bij jullie?",
+      "waarom": "Twee ontwerpen naast elkaar laten aanstaande ouders meteen kiezen en vergelijken, met de echte staffelprijs en het gratis digitale voorbeeld erbij."
+    },
+    {
+      "node": "2059:158",
+      "titel": "Met de hand getekend",
+      "waarom": "Jullie eigen foto van het kaartje in de hand laat het papier en de details zien, en de labels vertellen waarom het meer is dan een standaardkaartje."
+    },
+    {
+      "node": "2059:176",
+      "titel": "Hallo, Otis.",
+      "waarom": "Een grote naam en een zoekbalk sluiten aan op het moment dat ouders zelf gaan zoeken, met drie ontwerpen onderaan als keuze."
+    }
+  ],
+  "waarom": {
+    "niche": "geboortekaartjes",
+    "kop": "Zo groeien merken in geboortekaartjes op Instagram.",
+    "tekst": "Aanstaande ouders zoeken weken voor de geboorte al naar het kaartje, en ze ontdekken nieuwe ontwerpers vooral tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, blijven in beeld tijdens die hele zoektocht. Een welkomstmail na inschrijving zorgt dat ouders terugkomen als het zover is.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij merken in kaarten en stationery vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "60+",
+        "label": "advertenties heeft Made for Moments nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2059:192",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Story of July",
+    "kop": "Welkom bij Story of July",
+    "tekst": "Een eerste mail voor iedereen die zich inschrijft: hoe elk ontwerp met de hand begint, wat je precies in handen krijgt en hoe het gratis digitale voorbeeld werkt.",
+    "punten": [
+      "Jullie eigen foto van het Bobbie-kaartje als welkomstbeeld",
+      "De making-of uit jullie studio bij 'Elk ontwerp begint met de hand'",
+      "Het Otis-kaartje met vier labels: met de hand geïllustreerd, 350 grams Tintoretto Gesso, 12,5 × 17,5 cm, geen merkvermelding"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2059:192",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Story of July",
+      "kop": "Welkom bij Story of July",
+      "tekst": "Een eerste mail voor iedereen die zich inschrijft: hoe elk ontwerp met de hand begint, wat je precies in handen krijgt en hoe het gratis digitale voorbeeld werkt.",
+      "punten": [
+        "Jullie eigen foto van het Bobbie-kaartje als welkomstbeeld",
+        "De making-of uit jullie studio bij 'Elk ontwerp begint met de hand'",
+        "Het Otis-kaartje met vier labels: met de hand geïllustreerd, 350 grams Tintoretto Gesso, 12,5 × 17,5 cm, geen merkvermelding"
+      ]
+    },
+    {
+      "node": "2059:243",
+      "type": "Assortimentsmail",
+      "onderwerp": "Vier verhalen om jullie kindje mee te verwelkomen",
+      "kop": "Vier verhalen om jullie kindje mee te verwelkomen",
+      "tekst": "Vier ontwerpen naast elkaar, elk met een korte omschrijving en prijs, en een uitnodiging om eerst een sample te bestellen.",
+      "punten": [
+        "Bosdieren, Moonchild Lightgreen, Oh Deer Blue en Wild Rose met jullie eigen kaartbeelden",
+        "Vanaf € 2,69 per stuk bij elk ontwerp",
+        "Afsluiting met de sample van € 2,00 en jullie eigen foto van het Doeke-kaartje"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

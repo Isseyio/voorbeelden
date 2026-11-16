@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "demgoodchai-s9zrz",
+  "merk": "DEM GOOD CHAI",
+  "domein": "demgoodchai.com",
+  "lead_id": "2026-11-16-demgoodchai.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8C4222",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Dem Good Chai",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Dem Good Chai, ik heb dit gemaakt omdat een echte chai latte in één minuut, uit een recept uit Zuid-India, precies is wat mensen op Instagram willen proberen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2059:135",
+      "titel": "Bestel geen chai latte",
+      "waarom": "Een omgekeerde kop stopt het scrollen en legt meteen uit waarom je de chai latte van het café niet meer nodig hebt."
+    },
+    {
+      "node": "2059:136",
+      "titel": "Wat er in de fles zit",
+      "waarom": "Ronde foto's per ingrediënt laten zien dat het om echte thee en kruiden gaat, het grootste verschil met siroop uit de supermarkt."
+    },
+    {
+      "node": "2059:137",
+      "titel": "2 flessen, 10% korting",
+      "waarom": "Jullie echte flessenkorting boven een warme sfeerfoto geeft vaste chaidrinkers een reden om meteen voor twee flessen te gaan."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien drinkmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw drinkmerk niet via Google, maar tijdens het scrollen, als ze een romige chai latte voorbij zien komen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers een nieuwe fles bestellen als de eerste op is.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinkmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft HouseofChi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2059:138",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Dem Good Chai, hier is je ebook",
+    "kop": "Welkom bij Dem Good Chai",
+    "tekst": "Een welkomstmail achter de bestaande aanmelding voor het gratis ebook met 55+ recepten: het ebook meteen als knop, wat de Signature Blend zo makkelijk maakt, en een eerste chai latte om mee te beginnen.",
+    "punten": [
+      "Het beloofde ebook met 55+ recepten direct als knop",
+      "In één minuut, 35 kopjes per fles en vegan in drie iconen",
+      "Recept voor je eerste chai latte met de echte prijs en de flessenkorting"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2059:138",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Dem Good Chai, hier is je ebook",
+      "kop": "Welkom bij Dem Good Chai",
+      "tekst": "Een welkomstmail achter de bestaande aanmelding voor het gratis ebook met 55+ recepten: het ebook meteen als knop, wat de Signature Blend zo makkelijk maakt, en een eerste chai latte om mee te beginnen.",
+      "punten": [
+        "Het beloofde ebook met 55+ recepten direct als knop",
+        "In één minuut, 35 kopjes per fles en vegan in drie iconen",
+        "Recept voor je eerste chai latte met de echte prijs en de flessenkorting"
+      ]
+    },
+    {
+      "node": "2059:139",
+      "type": "Merkverhaal",
+      "onderwerp": "Een recept uit Zuid-India",
+      "kop": "Een recept uit Zuid-India",
+      "tekst": "Een mail over het verhaal achter de fles: Bob die chai leerde zetten van een chaimeester in Zuid-India, het recept dat hij in een restaurant verfijnde, en wat er in de Signature Blend zit.",
+      "punten": [
+        "Bob en zijn reis door India als opening",
+        "De fles met vier labels: CTC Assam, kaneel en gember, kardemom en peper, 35 kopjes",
+        "Afsluiting 'Try it. It's Dem Good.' met warm, koud en als cocktail"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "koekenkruimels-82vkh",
+  "merk": "Koek & Kruimels",
+  "domein": "koekenkruimels.nl",
+  "lead_id": "2026-11-16-koekenkruimels.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#FF7CA8",
+  "kop": "Drie advertenties en twee nieuwsbrieven voor Koek & Kruimels",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Koek & Kruimels, ik heb dit gemaakt omdat een doorgebroken koek met zo'n vulling precies het beeld is waar mensen op Instagram voor stoppen met scrollen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2057:3",
+      "titel": "Elke week vers",
+      "waarom": "Een weekstrip laat in één beeld zien hoe het werkt, bestellen tot dinsdagavond en woensdag vers op de post, en maakt van een koek een vast moment in de week."
+    },
+    {
+      "node": "2057:34",
+      "titel": "De koek belt op",
+      "waarom": "Een speelse inkomende oproep met de Speculoos Framboos stopt het scrollen, en prijs, gewicht en bestelmoment staan er meteen onder."
+    },
+    {
+      "node": "2057:46",
+      "titel": "Match made in cookie heaven",
+      "waarom": "Jullie eigen foto van de doorgebroken koek laat de vulling zien, en de pillen eromheen vertellen meteen wat erin zit."
+    }
+  ],
+  "waarom": {
+    "niche": "koek",
+    "kop": "Zo groeien koekmerken op Instagram.",
+    "tekst": "De meeste mensen zoeken niet actief naar een vegan koek, ze zien er een doorbreken tijdens het scrollen en willen hem proeven. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de nieuwe smaken of een cadeaubox.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en koekmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij foodmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "2057:67",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom op het Kruimelspoor",
+    "kop": "Welkom op het Kruimelspoor",
+    "tekst": "Een eerste mail voor iedereen die zich via de pop-up inschrijft: de 10% korting op de eerste bestelling, waarom mensen voor jullie kiezen en wie er achter de koeken zit.",
+    "punten": [
+      "Jullie eigen foto van de opengebroken verjaardagskoeken als welkomstkaart",
+      "Drie redenen in het kort: 100% plantaardig, elke week vers, past door de brievenbus",
+      "Het verhaal van Greet en Rianne, van een bakruimte van 2 bij 2 meter tot meer dan 50 smaken"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2057:67",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom op het Kruimelspoor",
+      "kop": "Welkom op het Kruimelspoor",
+      "tekst": "Een eerste mail voor iedereen die zich via de pop-up inschrijft: de 10% korting op de eerste bestelling, waarom mensen voor jullie kiezen en wie er achter de koeken zit.",
+      "punten": [
+        "Jullie eigen foto van de opengebroken verjaardagskoeken als welkomstkaart",
+        "Drie redenen in het kort: 100% plantaardig, elke week vers, past door de brievenbus",
+        "Het verhaal van Greet en Rianne, van een bakruimte van 2 bij 2 meter tot meer dan 50 smaken"
+      ]
+    },
+    {
+      "node": "2057:112",
+      "type": "Productspotlight",
+      "onderwerp": "Speculoos ontmoet framboos",
+      "kop": "Speculoos en framboos? Een match made in cookie heaven.",
+      "tekst": "Eén smaak in de hoofdrol, met jullie eigen foto en een kort overzicht van wat erin zit.",
+      "punten": [
+        "Jullie foto van de doorgebroken Speculoos Framboos",
+        "Witte chocolade, Lotus speculoos, speculoospasta en framboos uitgelicht rond de koek",
+        "Een duidelijke knop naar de smaak, met prijs en gewicht erbij"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
