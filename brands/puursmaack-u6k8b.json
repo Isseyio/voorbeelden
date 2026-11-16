@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "puursmaack-u6k8b",
+  "merk": "PuurSmaack",
+  "domein": "puursmaack.nl",
+  "lead_id": "2026-11-16-puursmaack.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B8611C",
+  "kop": "Likeur uit Apeldoorn, met een gouden verhaal.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team PuurSmaack, ik heb dit gemaakt omdat een Dropk!ck met IWSC-goud en citrus van een biologische teler in Valencia verhalen zijn die op Instagram echt opvallen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2071:17",
+      "titel": "Goud op de IWSC",
+      "waarom": "De Dropk!ck met medaille in de hand en drie smaken in pillen: in één blik zie je wat het is en waarom het bijzonder is."
+    },
+    {
+      "node": "2072:2",
+      "titel": "Arancello, gemaakt met",
+      "waarom": "Drie echte ingrediëntfoto's laten zien waar de smaak vandaan komt, precies wat een ambachtelijke stokerij onderscheidt van de supermarkt."
+    },
+    {
+      "node": "2073:2",
+      "titel": "Proef de winter",
+      "waarom": "Een duidelijke prijs bovenaan en een warme sfeerfoto van de Winterlikeur passen bij de weken waarin mensen cadeaus en drankjes voor de feestdagen zoeken."
+    }
+  ],
+  "waarom": {
+    "niche": "likeur",
+    "kop": "Zo groeien drankmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe likeur of whiskey niet via Google, maar tijdens het scrollen op Instagram, zeker richting de feestdagen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende fles.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "60+",
+        "label": "advertenties heeft Tasting Collection nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2075:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Puur Smaack",
+    "kop": "Welkom bij Puur Smaack",
+    "tekst": "Op de site staat nog geen nieuwsbriefinschrijving. Met een aanmelding en deze welkomstmail maken nieuwe bezoekers meteen kennis met André en Jack, de stokerij en de bekroonde Dropk!ck.",
+    "punten": [
+      "Stelt André en Jack en de stokerij voor",
+      "Drie redenen waarom het anders smaakt",
+      "De IWSC-winnaar als eerste aanrader"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2075:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Puur Smaack",
+      "kop": "Welkom bij Puur Smaack",
+      "tekst": "Op de site staat nog geen nieuwsbriefinschrijving. Met een aanmelding en deze welkomstmail maken nieuwe bezoekers meteen kennis met André en Jack, de stokerij en de bekroonde Dropk!ck.",
+      "punten": [
+        "Stelt André en Jack en de stokerij voor",
+        "Drie redenen waarom het anders smaakt",
+        "De IWSC-winnaar als eerste aanrader"
+      ]
+    },
+    {
+      "node": "2075:124",
+      "type": "Merkverhaal",
+      "onderwerp": "Van boomgaard tot fles",
+      "kop": "Van boomgaard tot fles",
+      "tekst": "Een merkverhaal over de biologische citrus uit Burriana en de zelf gestookte alcohol, met de limoncello in de hoofdrol en de whiskey van lokale bieren als afsluiter.",
+      "punten": [
+        "Het verhaal achter de ingrediënten",
+        "Productblok met vier echte kenmerken",
+        "De whiskey van Puik en Chamaven als tweede product"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

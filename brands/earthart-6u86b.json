@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "earthart-6u86b",
+  "merk": "Earth Art",
+  "domein": "earthart.nl",
+  "lead_id": "2026-11-16-earthart.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#181040",
+  "kop": "Jouw plek van boven, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Earth Art, ik heb dit gemaakt omdat een luchtfoto van iemands eigen woonplaats precies het soort beeld is waar mensen bij het scrollen voor stoppen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2075:50",
+      "titel": "Jouw plek van boven",
+      "waarom": "Een grote kop met jullie luchtfoto's tussen de woorden valt op in een feed vol gewone posters en zegt meteen wat jullie anders maken."
+    },
+    {
+      "node": "2075:68",
+      "titel": "Zoek je woonplaats",
+      "waarom": "De zoekbalk laat in één oogopslag zien dat elke Nederlandse gemeente erbij zit, dus iedereen denkt meteen aan zijn eigen plek."
+    },
+    {
+      "node": "2075:87",
+      "titel": "Van satelliet naar muur",
+      "waarom": "Het satellietbeeld naast dezelfde foto aan de muur laat zien hoe het eruitziet als het eenmaal hangt, en dat neemt twijfel weg."
+    }
+  ],
+  "waarom": {
+    "niche": "posters en wanddecoratie",
+    "kop": "Zo groeien merken in posters en wanddecoratie op Instagram.",
+    "tekst": "Mensen kopen wanddecoratie vaak pas als ze het al aan een muur zien hangen, en dat zien ze tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, laten steeds een andere plek in een ander interieur zien en vinden zo nieuwe kopers. Een welkomstmail na de aanmelding zorgt dat twijfelaars terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij merken in posters en wanddecoratie vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Desenio nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2076:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Earth Art",
+    "kop": "Welkom bij Earth Art",
+    "tekst": "De mail die iemand krijgt na de aanmelding voor de nieuwsbrief: wat Earth Art maakt, hoe je in drie stappen je eigen plek aan de muur hangt en dat een luchtfoto op maat kan.",
+    "punten": [
+      "Jullie eigen foto van de Waddeneilanden aan de muur als welkomstbeeld",
+      "Drie stappen: kies je plek, kies je materiaal, binnen 2 tot 5 werkdagen in huis",
+      "Jullie foto van het ophangen bij 'Luchtfoto op maat'"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2076:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Earth Art",
+      "kop": "Welkom bij Earth Art",
+      "tekst": "De mail die iemand krijgt na de aanmelding voor de nieuwsbrief: wat Earth Art maakt, hoe je in drie stappen je eigen plek aan de muur hangt en dat een luchtfoto op maat kan.",
+      "punten": [
+        "Jullie eigen foto van de Waddeneilanden aan de muur als welkomstbeeld",
+        "Drie stappen: kies je plek, kies je materiaal, binnen 2 tot 5 werkdagen in huis",
+        "Jullie foto van het ophangen bij 'Luchtfoto op maat'"
+      ]
+    },
+    {
+      "node": "2076:44",
+      "type": "Productspotlight",
+      "onderwerp": "Nederland van boven",
+      "kop": "Nederland van boven",
+      "tekst": "Een mail rond de collectie Nederland van boven: waar het gemaakt wordt, welke vier materialen er zijn en dat de posters in een gewone lijst passen.",
+      "punten": [
+        "Jullie interieurfoto met Amsterdam aan de muur als opening",
+        "Utrecht centrum met de vier materialen: poster, forex, dibond en acrylglas",
+        "Afsluiting met de standaardmaten voor IKEA- en Hornbach-lijsten, vanaf €19,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
