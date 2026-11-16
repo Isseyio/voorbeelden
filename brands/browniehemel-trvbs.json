@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "browniehemel-trvbs",
+  "merk": "De Browniehemel",
+  "domein": "debrowniehemel.nl",
+  "lead_id": "2026-11-16-debrowniehemel.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#D9576B",
+  "kop": "Brownies uit de Browniehemel, gezien tijdens het scrollen",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team De Browniehemel, ik heb dit gemaakt omdat jullie brievenbusbrownies precies het soort cadeau zijn dat mensen op Instagram ontdekken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2129:160",
+      "titel": "Grote brokken chocola",
+      "waarom": "Jullie eigen zin over grote brokken chocola met foto's tussen de woorden laat in één blik zien waarom deze brownie anders is."
+    },
+    {
+      "node": "2129:178",
+      "titel": "Wat erin zit",
+      "waarom": "Belcolade, roomboter en 12 weken houdbaar zijn sterke redenen om te kopen; met jullie eigen detailfoto's worden ze tastbaar."
+    },
+    {
+      "node": "2129:205",
+      "titel": "Brievenbus Brownies €28,95",
+      "waarom": "Een duidelijke prijs met de echte korting en het doosje groot in beeld maakt de stap naar een cadeau klein, zeker richting december."
+    }
+  ],
+  "waarom": {
+    "niche": "food",
+    "kop": "Zo groeien foodmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw lekker cadeau niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief rond Sinterklaas, kerst en verjaardagen zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10",
+        "label": "advertenties heeft Brownies.nl nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2129:213",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in de Browniehemel",
+    "kop": "Welkom in de Browniehemel",
+    "tekst": "Na inschrijving voor het brownienieuws volgt nu nog geen welkomstmail. Deze mail stelt jullie voor, noemt de nieuwe smaken en laat Paula en Bram zien.",
+    "punten": [
+      "De Original als eerste beeld",
+      "Belcolade chocola, 12 weken houdbaar en door de brievenbus",
+      "Het verhaal van Paula, Bram en Tibbe"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2129:213",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in de Browniehemel",
+      "kop": "Welkom in de Browniehemel",
+      "tekst": "Na inschrijving voor het brownienieuws volgt nu nog geen welkomstmail. Deze mail stelt jullie voor, noemt de nieuwe smaken en laat Paula en Bram zien.",
+      "punten": [
+        "De Original als eerste beeld",
+        "Belcolade chocola, 12 weken houdbaar en door de brievenbus",
+        "Het verhaal van Paula, Bram en Tibbe"
+      ]
+    },
+    {
+      "node": "2129:242",
+      "type": "Assortimentsmail",
+      "onderwerp": "Sinterklaas komt eraan",
+      "kop": "Sinterklaas komt eraan",
+      "tekst": "Een seizoensmail met jullie Sint-producten op een rij en een echte klantreactie, zodat lezers in één keer een cadeau kiezen.",
+      "punten": [
+        "Sint Pepernoten Brownie, Sint-giftbox, Sinterklaas Tasje en Brievenbus Brownies",
+        "Gratis kaartje met eigen boodschap",
+        "Reactie van een klant met jullie feestfoto"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

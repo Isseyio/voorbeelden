@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "handmade-d8337",
+  "merk": "Handmade Amsterdam",
+  "domein": "handmade-amsterdam.nl",
+  "lead_id": "2026-11-16-handmade-amsterdam.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#7D93B2",
+  "kop": "Echte stenen, met de hand gemaakt, gezien op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Handmade Amsterdam, ik heb dit gemaakt omdat jullie foto's van sieraden met echte edelstenen zo goed laten zien wat er met de hand gemaakt wordt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2132:2",
+      "titel": "Met de hand gemaakt",
+      "waarom": "Een grote kop met jullie eigen foto's tussen de woorden vertelt in één blik dat elk sieraad in Amsterdam met de hand gemaakt wordt."
+    },
+    {
+      "node": "2132:18",
+      "titel": "Goud of zilver?",
+      "waarom": "Twee versies naast elkaar maken kiezen makkelijk en laten de stenen van Daphne goed zien."
+    },
+    {
+      "node": "2132:42",
+      "titel": "Mix & Match",
+      "waarom": "Een groot woord met de echte hangers maakt meteen duidelijk dat je hier je eigen oorbellen samenstelt."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2134:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Handmade Amsterdam",
+    "kop": "Welkom, fijn dat je er bent.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers, met de 10% korting die jullie al beloven bij de inschrijving en drie favorieten om mee te beginnen.",
+    "punten": [
+      "Kettingen met geboortestenen als opening",
+      "Welkomstkorting van 10% in een eigen blok",
+      "Daphne, de geboortestenen armband en Mix & Match uitgelicht"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2134:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Handmade Amsterdam",
+      "kop": "Welkom, fijn dat je er bent.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers, met de 10% korting die jullie al beloven bij de inschrijving en drie favorieten om mee te beginnen.",
+      "punten": [
+        "Kettingen met geboortestenen als opening",
+        "Welkomstkorting van 10% in een eigen blok",
+        "Daphne, de geboortestenen armband en Mix & Match uitgelicht"
+      ]
+    },
+    {
+      "node": "2134:44",
+      "type": "Assortiment",
+      "onderwerp": "Echte edelstenen, voor elke dag",
+      "kop": "Echte edelstenen, voor elke dag.",
+      "tekst": "Een mail met vier sieraden uit de collectie, elk met een korte tekst en knop, en Nathalie aan het werk naast jullie Trustpilot-score.",
+      "punten": [
+        "Granaatsteen ketting gedragen als opening",
+        "Maya, Daphne zilver, losse hangertjes en Mix & Match",
+        "Afsluiter met handen aan het werk en 4,9/5 op Trustpilot"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
