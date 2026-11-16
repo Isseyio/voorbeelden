@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "bookstyle-d5ejh",
+  "merk": "Bookstyle Studio",
+  "domein": "bookstylestudio.nl",
+  "lead_id": "2026-11-16-bookstylestudio.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#0097B2",
+  "kop": "Handgemaakte sleeves en omslagen voor elke lezer",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Bookstyle Studio, ik heb dit gemaakt omdat elke sleeve bij jullie met de hand wordt gemaakt, in een stof die Chardé-Milou zelf ontwerpt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2148:4",
+      "titel": "Welke print past bij jou?",
+      "waarom": "Twee prints naast elkaar zetten de kijker aan het kiezen, en wie kiest, klikt sneller door."
+    },
+    {
+      "node": "2148:5",
+      "titel": "Gemaakt voor jouw verhaal",
+      "waarom": "Een close-up met uitleg bij de details laat zien wat je op een kleine productfoto mist: je eigen tekst, de RVS-sluiting en het katoen."
+    },
+    {
+      "node": "2148:6",
+      "titel": "Bespaar €9",
+      "waarom": "Een echte prijsverlaging op de Booklover, groot in beeld met jullie eigen foto, geeft twijfelaars een reden om nu te bestellen."
+    }
+  ],
+  "waarom": {
+    "niche": "cadeaus en boekaccessoires",
+    "kop": "Zo groeien cadeaumerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram, zeker bij iets persoonlijks als boekaccessoires. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe lezers en houden hun kosten per aankoop laag. Een welkomstmail met de 5%-code zorgt dat die lezers ook echt bestellen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij cadeaumerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "2148:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom, booklover",
+    "kop": "Welkom, booklover. Fijn dat je er bent.",
+    "tekst": "De 5%-code ILOVETHISSTUFF staat nu openbaar op de homepage, los van de inschrijving. In deze welkomstmail krijgen nieuwe inschrijvers de code, het verhaal achter de handgemaakte sleeves en de favorieten om mee te beginnen.",
+    "punten": [
+      "Code ILOVETHISSTUFF als welkomstcadeau",
+      "Personaliseren met je eigen tekst in zes kleuren",
+      "Favorieten en de e-reader voordeelsets"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2148:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom, booklover",
+      "kop": "Welkom, booklover. Fijn dat je er bent.",
+      "tekst": "De 5%-code ILOVETHISSTUFF staat nu openbaar op de homepage, los van de inschrijving. In deze welkomstmail krijgen nieuwe inschrijvers de code, het verhaal achter de handgemaakte sleeves en de favorieten om mee te beginnen.",
+      "punten": [
+        "Code ILOVETHISSTUFF als welkomstcadeau",
+        "Personaliseren met je eigen tekst in zes kleuren",
+        "Favorieten en de e-reader voordeelsets"
+      ]
+    },
+    {
+      "node": "2148:8",
+      "type": "Merkverhaal",
+      "onderwerp": "Lezen is persoonlijk, jouw omslag dus ook",
+      "kop": "Lezen is persoonlijk, jouw omslag dus ook",
+      "tekst": "Een mail over Chardé-Milou: zelf ontworpen stoffen op gecertificeerd katoen, alles met de hand gemaakt. Met de Boekomslag Magical World uitgelicht en de restjes stof die boekenleggers worden.",
+      "punten": [
+        "Chardé-Milou en haar eigen prints",
+        "Boekomslag met leeslint, tekst en bedeltje",
+        "Restjes stof worden boekenleggers"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
