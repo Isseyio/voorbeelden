@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "kut-5ae9h",
+  "merk": "KUT.illustraties",
+  "domein": "kutillustraties.com",
+  "lead_id": "2026-11-16-kutillustraties.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E0668A",
+  "kop": "Kaarten met een knipoog, op Instagram in beeld",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team KUT.illustraties, ik heb dit gemaakt omdat een poster met de tekst Super Kut eigenlijk al een advertentie is die mensen willen delen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2232:2",
+      "titel": "Koop geen saaie poster",
+      "waarom": "Een omgekeerde kop past bij jullie humor en laat de poster zelf het werk doen, met drie feiten eronder."
+    },
+    {
+      "node": "2232:22",
+      "titel": "Kaartjes in de hand",
+      "waarom": "Een echte hand met een waaier kaarten en handgeschreven pijltjes laat zien voor welke momenten je een kaartje stuurt."
+    },
+    {
+      "node": "2232:34",
+      "titel": "Je beste vriendin belt",
+      "waarom": "Een speelse belscherm-opbouw maakt van de poster een cadeau-idee, met de verzenddagen als duwtje."
+    }
+  ],
+  "waarom": {
+    "niche": "cadeaus, kaarten en posters",
+    "kop": "Zo groeien cadeau- en postermerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kaarten- of postermerk niet via Google, maar tijdens het scrollen, vaak op zoek naar een cadeau. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende verjaardag.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij cadeau- en postermerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Desenio nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2233:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij KUT.",
+    "kop": "Welkom bij KUT.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers (nu is er op de site nog geen inschrijving): wie jullie zijn, waar alles gemaakt wordt en een opstapje naar het eerste kaartje.",
+    "punten": [
+      "Alles getekend in de studio in Delft en gedrukt in Nederland",
+      "Op de post op woensdag en vrijdag",
+      "A6 kaarten vanaf € 2,60"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2233:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij KUT.",
+      "kop": "Welkom bij KUT.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers (nu is er op de site nog geen inschrijving): wie jullie zijn, waar alles gemaakt wordt en een opstapje naar het eerste kaartje.",
+      "punten": [
+        "Alles getekend in de studio in Delft en gedrukt in Nederland",
+        "Op de post op woensdag en vrijdag",
+        "A6 kaarten vanaf € 2,60"
+      ]
+    },
+    {
+      "node": "2233:34",
+      "type": "Merkverhaal",
+      "onderwerp": "Hoi, ik ben Fien en ik teken kutten",
+      "kop": "Hoi, ik ben Fien en ik teken kutten.",
+      "tekst": "Een mail die het verhaal achter KUT vertelt, van kaarten voor vrienden tot de studio in Delft, met de Super Kut poster uitgelicht.",
+      "punten": [
+        "Van docent beeldend tot een hele collectie",
+        "Super Kut A4 poster voor € 17,50, gedrukt in Nederland",
+        "Kom langs in de studio aan de Verwersdijk"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
