@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "candle-vvbbq",
+  "merk": "Candlelighton",
+  "domein": "candlelighton.com",
+  "lead_id": "2026-11-16-candlelighton.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#CC603C",
+  "kop": "Kaarsen met een verhaal, elke week in beeld",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Candlelighton, ik heb dit gemaakt omdat elke kaars bij jullie een eigen tekst en eigen edelstenen heeft, en dat verhaal leent zich goed voor Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2198:2",
+      "titel": "Maagd, uitgelegd",
+      "waarom": "Laat zien wat er in de kaars zit, zodat iemand die zijn sterrenbeeld ziet meteen begrijpt waarom deze kaars bij hem past."
+    },
+    {
+      "node": "2199:6",
+      "titel": "Niet voor jezelf",
+      "waarom": "Een kop die stopt met scrollen en de kaars direct als cadeau voor een aanstaande moeder neerzet."
+    },
+    {
+      "node": "2199:35",
+      "titel": "Welke past bij jou?",
+      "waarom": "Twee kaarsen naast elkaar maken kiezen makkelijk en laten zien dat er voor elk moment een kaars is."
+    }
+  ],
+  "waarom": {
+    "niche": "kaarsen",
+    "kop": "Zo groeien kaarsenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kaarsenmerk niet via Google, maar tijdens het scrollen, vaak als ze een cadeau zoeken. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kaarsenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "5+",
+        "label": "advertenties hebben Geurvoorjehuis en Kiesgeurig.nl nu elk tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2199:73",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Candlelighton",
+    "kop": "Welkom bij Candlelighton",
+    "tekst": "Kim en Ilse stellen zich voor en laten zien hoe hun kaarsen gemaakt worden, met de DIY pakketten als eerste stap.",
+    "punten": [
+      "Persoonlijke welkomst van Kim en Ilse",
+      "Sojawas, edelstenen en zelf gekweekte droogbloemen uitgelegd",
+      "Een uitje thuis met een DIY pakket, gratis verzending vanaf € 35"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2199:73",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Candlelighton",
+      "kop": "Welkom bij Candlelighton",
+      "tekst": "Kim en Ilse stellen zich voor en laten zien hoe hun kaarsen gemaakt worden, met de DIY pakketten als eerste stap.",
+      "punten": [
+        "Persoonlijke welkomst van Kim en Ilse",
+        "Sojawas, edelstenen en zelf gekweekte droogbloemen uitgelegd",
+        "Een uitje thuis met een DIY pakket, gratis verzending vanaf € 35"
+      ]
+    },
+    {
+      "node": "2199:114",
+      "type": "Merkverhaal",
+      "onderwerp": "Kan het licht aan?",
+      "kop": "Inspiratie uit de natuur",
+      "tekst": "Het verhaal achter Candlelighton, gevolgd door één kaars uitgelicht: Wonder onderweg, met de stenen en geur erbij uitgelegd.",
+      "punten": [
+        "Ons verhaal: sinds 2023 in het Westland",
+        "Wonder onderweg met rozenkwarts, blauwe agaat en baby-olie",
+        "Cadeautips voor sterrenbeeld en maandbloem"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

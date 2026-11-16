@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "lilii-zndhq",
+  "merk": "Lilii Flora",
+  "domein": "liliiflora.nl",
+  "lead_id": "2026-11-16-liliiflora.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#9C7E65",
+  "kop": "Een dekentje met een naam erop, gemaakt om te bewaren.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Lilii Flora, ik heb dit gemaakt omdat jullie foto's met geborduurde namen precies laten zien waarom dit zo'n mooi kraamcadeau is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2199:152",
+      "titel": "Een deken met haar eigen naam",
+      "waarom": "Grote typografie met foto's tussen de woorden vertelt in één zin wat jullie doen, en laat de geborduurde namen zien."
+    },
+    {
+      "node": "2199:167",
+      "titel": "Gebreid of hydrofiel?",
+      "waarom": "Twee dekens naast elkaar maken kiezen makkelijk en laten zien dat elk model met naam kan."
+    },
+    {
+      "node": "2199:187",
+      "titel": "Een cadeau dat blijft",
+      "waarom": "De echte korting en een close-up van een naam spreken kraamcadeau-kopers aan, juist rond de feestdagen."
+    }
+  ],
+  "waarom": {
+    "niche": "kids en baby",
+    "kop": "Zo groeien babymerken op Instagram.",
+    "tekst": "De meeste ouders en kraamcadeau-kopers ontdekken een nieuw babymerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor het volgende cadeau.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Callie nu tegelijk live, Jollein meer dan 10"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2199:198",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Lilii Flora",
+    "kop": "Welkom bij Lilii Flora",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waarom ouders voor jullie kiezen (geborduurde naam, zachte materialen, 9,8 bij WebwinkelKeur) en een eerste deken om te ontwerpen.",
+    "punten": [
+      "Nu is er alleen een inschrijfveld in de footer, zonder welkomstmail",
+      "Laat de 9,8 van 136 beoordelingen meteen zien",
+      "Eén duidelijke volgende stap: ontwerp een deken met naam"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2199:198",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Lilii Flora",
+      "kop": "Welkom bij Lilii Flora",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waarom ouders voor jullie kiezen (geborduurde naam, zachte materialen, 9,8 bij WebwinkelKeur) en een eerste deken om te ontwerpen.",
+      "punten": [
+        "Nu is er alleen een inschrijfveld in de footer, zonder welkomstmail",
+        "Laat de 9,8 van 136 beoordelingen meteen zien",
+        "Eén duidelijke volgende stap: ontwerp een deken met naam"
+      ]
+    },
+    {
+      "node": "2199:231",
+      "type": "Assortimentsmail",
+      "onderwerp": "Voor het allereerste dekentje",
+      "kop": "Voor het allereerste dekentje",
+      "tekst": "Vier favoriete dekens naast elkaar, elk met materiaal, maat en prijs, zodat ouders en kraamcadeau-kopers snel kiezen.",
+      "punten": [
+        "Ruffle deken, Moon and Stars, wikkeldeken en gebreide deken",
+        "Elke kaart met een eigen knop 'Met naam'",
+        "Afsluiting met de WebwinkelKeur-score"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

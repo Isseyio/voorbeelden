@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "joline-yyj3k",
+  "merk": "Joline",
+  "domein": "joline.shop",
+  "lead_id": "2026-11-16-joline.shop",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#BE5A32",
+  "kop": "Een complete set in jouw kleur, elke week in beeld",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Joline, ik heb dit gemaakt omdat jullie zadeldekjes, oornetjes en rijkleding in precies dezelfde kleur zo goed laten zien wat een complete set is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2201:3",
+      "titel": "Amber, groot in beeld",
+      "waarom": "Een sterke foto van de nieuwe collectie met jullie naam groot erover maakt in één blik duidelijk wie jullie zijn en wat het kost."
+    },
+    {
+      "node": "2201:15",
+      "titel": "Alles in één kleur",
+      "waarom": "Vier producten in dezelfde kleur laten zien dat je bij Joline een complete set koopt, en niet één los item."
+    },
+    {
+      "node": "2201:37",
+      "titel": "Je pony belt",
+      "waarom": "Een speelse inkomende oproep van de pony zelf stopt de duim en past bij een jonge, enthousiaste doelgroep."
+    }
+  ],
+  "waarom": {
+    "niche": "paardensport",
+    "kop": "Zo groeien paardensportmerken op Instagram.",
+    "tekst": "De meeste ruiters ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen bij elke nieuwe kleur.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sport- en paardensportmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Equestrian Stockholm nu tegelijk live in Nederland"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2201:108",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Joline",
+    "kop": "Welkom bij Joline",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wat Joline maakt, waarom ruiters voor de matchende sets kiezen en een eerste stap naar de nieuwe collectie.",
+    "punten": [
+      "Nu is er nog geen inschrijfformulier of welkomstmail",
+      "Alles matcht, van Small Pony tot Very Big Pony",
+      "Kies jouw kleur, met 1000+ tevreden klanten als bewijs"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2201:108",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Joline",
+      "kop": "Welkom bij Joline",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wat Joline maakt, waarom ruiters voor de matchende sets kiezen en een eerste stap naar de nieuwe collectie.",
+      "punten": [
+        "Nu is er nog geen inschrijfformulier of welkomstmail",
+        "Alles matcht, van Small Pony tot Very Big Pony",
+        "Kies jouw kleur, met 1000+ tevreden klanten als bewijs"
+      ]
+    },
+    {
+      "node": "2201:154",
+      "type": "Productspotlight",
+      "onderwerp": "De Amber collectie is er",
+      "kop": "De Amber collectie",
+      "tekst": "De nieuwe Amber collectie als complete set: zadeldekje, oornetje, showshirt en rijbroek, elk met prijs en een eigen knop.",
+      "punten": [
+        "Zadeldekje Lotte Amber · € 89,95",
+        "Oornetje Lotte Amber · € 64,95",
+        "Showshirt en rijbroek Josephine Amber",
+        "Afsluiting met de andere kleuren"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}

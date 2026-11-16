@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "happywhatever-prvws",
+  "merk": "Happy Whatever",
+  "domein": "happywhatever.nl",
+  "lead_id": "2026-11-16-happywhatever.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#FF6371",
+  "kop": "Een vaas en een regenboog door de brievenbus",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Happy Whatever, ik heb dit gemaakt omdat een kaart die een vaas wordt zich bijna vanzelf uitlegt in een korte advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2201:62",
+      "titel": "Eerst een kaart, dan een vaas",
+      "waarom": "Twee foto's naast elkaar laten in één oogopslag zien wat een vaaskaart doet, zonder uitleg."
+    },
+    {
+      "node": "2201:80",
+      "titel": "Regenboog door de brievenbus",
+      "waarom": "Een grote kop met foto's tussen de woorden stopt het scrollen en maakt van de Rainbowmaker meteen een cadeau-idee."
+    },
+    {
+      "node": "2201:99",
+      "titel": "Vanaf € 7,50",
+      "waarom": "Een duidelijke prijs bovenaan helpt mensen die een klein cadeau zoeken om sneller te kiezen."
+    }
+  ],
+  "waarom": {
+    "niche": "cadeaus en kaarten",
+    "kop": "Zo groeien cadeaumerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw cadeaumerk niet via Google, maar tijdens het scrollen, vaak op het moment dat ze iemand willen verrassen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag, omdat een advertentie na een paar weken moe wordt. Een vaste nieuwsbrief zorgt dat kopers terugkomen bij de volgende verjaardag.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Kaartje2go nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 16-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2202:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Happy Whatever",
+    "kop": "Welkom bij Happy Whatever",
+    "tekst": "Een warme welkomst die meteen laat zien wat Happy Whatever anders maakt: kaarten die een vaas worden en stickers die regenbogen maken.",
+    "punten": [
+      "Brievenbuscadeaus in één zin uitgelegd",
+      "Past door de brievenbus, FSC-papier, opnieuw te gebruiken",
+      "Zo werkt een vaaskaart, in vier stappen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2202:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Happy Whatever",
+      "kop": "Welkom bij Happy Whatever",
+      "tekst": "Een warme welkomst die meteen laat zien wat Happy Whatever anders maakt: kaarten die een vaas worden en stickers die regenbogen maken.",
+      "punten": [
+        "Brievenbuscadeaus in één zin uitgelegd",
+        "Past door de brievenbus, FSC-papier, opnieuw te gebruiken",
+        "Zo werkt een vaaskaart, in vier stappen"
+      ]
+    },
+    {
+      "node": "2202:28",
+      "type": "Productspotlight",
+      "onderwerp": "Meer regenboog, minder grijs",
+      "kop": "Meer regenboog, minder grijs.",
+      "tekst": "De Rainbowmaker uitgelicht, met daarna de Crystal set van 3 en wat er precies in zit.",
+      "punten": [
+        "Herbruikbare raamsticker zonder lijmresten",
+        "Crystal set: drie A5-kaarten met sticker van 15,3 × 12 cm",
+        "Met envelop, 40 gram (2 postzegels), € 17,50"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-16"
+}
