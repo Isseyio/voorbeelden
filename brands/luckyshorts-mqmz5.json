@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "luckyshorts-mqmz5",
+  "merk": "LuckyShorts",
+  "domein": "lucky-shorts.com",
+  "lead_id": "2026-11-17-lucky-shorts.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#D16575",
+  "kop": "Boxershorts met een langere pijp, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team LuckyShorts, ik heb dit gemaakt omdat jullie de boxershort met langere pijp die jullie nergens konden vinden gewoon zelf zijn gaan maken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2262:3",
+      "titel": "Langere pijpjes",
+      "waarom": "Eén groot woord en een zoekbalk sluiten aan bij waar vrouwen echt naar zoeken, met drie kleuren erbij."
+    },
+    {
+      "node": "2262:24",
+      "titel": "Kies je lengte",
+      "waarom": "Twee lengtes naast elkaar laten in één oogopslag zien wat LuckyShorts anders maakt."
+    },
+    {
+      "node": "2262:44",
+      "titel": "Bundle & save",
+      "waarom": "De bestaande bundelkorting groot in beeld, op een echte foto van jullie eigen shoot."
+    }
+  ],
+  "waarom": {
+    "niche": "ondergoed",
+    "kop": "Zo groeien ondergoedmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw ondergoedmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende paar.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij ondergoedmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties hebben Muchachomalo en Boody nu allebei tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2262:52",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de LuckyShorts club",
+    "kop": "Welkom bij de LuckyShorts club",
+    "tekst": "Een welkomstmail voor iedereen die zich aanmeldt: de 10% op de eerste bestelling, waarom de pijp niet opkruipt en een maatadvies, zodat de eerste bestelling meteen goed zit.",
+    "punten": [
+      "Zacht micromodal, kruipt niet op",
+      "Maatadvies: één maat groter",
+      "Eerste bestelling gratis ruilen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2262:52",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de LuckyShorts club",
+      "kop": "Welkom bij de LuckyShorts club",
+      "tekst": "Een welkomstmail voor iedereen die zich aanmeldt: de 10% op de eerste bestelling, waarom de pijp niet opkruipt en een maatadvies, zodat de eerste bestelling meteen goed zit.",
+      "punten": [
+        "Zacht micromodal, kruipt niet op",
+        "Maatadvies: één maat groter",
+        "Eerste bestelling gratis ruilen"
+      ]
+    },
+    {
+      "node": "2262:82",
+      "type": "Productvergelijking",
+      "onderwerp": "Lucky of High Waisted?",
+      "kop": "Lucky of High Waisted?",
+      "tekst": "Een mail die de twee pasvormen naast elkaar zet: taille, pijplengte, kleuren en prijs, met de bundelkorting als afsluiter.",
+      "punten": [
+        "Gewone taille of hoge taille",
+        "22 en 10 kleuren",
+        "Vanaf 6 paar automatisch 10% korting"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

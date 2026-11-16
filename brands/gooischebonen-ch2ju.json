@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "gooischebonen-ch2ju",
+  "merk": "Gooische Bonen",
+  "domein": "gooischebonen.nl",
+  "lead_id": "2026-11-16-gooischebonen.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C9A57A",
+  "kop": "Koffie met een goed verhaal, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Gooische Bonen, ik heb dit gemaakt omdat cups die gewoon bij het GFT mogen precies het soort verhaal zijn dat mensen tijdens het scrollen onthouden. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2259:4",
+      "titel": "Koffie met een goed verhaal",
+      "waarom": "Jullie eigen belofte als grote kop met echte foto's tussen de woorden valt op in de feed en vertelt in één keer waar Gooische Bonen voor staat."
+    },
+    {
+      "node": "2259:20",
+      "titel": "Gooische Koning belt",
+      "waarom": "Een herkenbaar belscherm is speels en laat de cups zien op het moment dat iemand aan zijn eerste koffie denkt."
+    },
+    {
+      "node": "2259:33",
+      "titel": "Jouw dag, kop voor kop",
+      "waarom": "Een dagritme met koffie en thee laat het hele assortiment zien en maakt van één aankoop een vaste gewoonte."
+    }
+  ],
+  "waarom": {
+    "niche": "food en drinks",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw koffiemerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe drinkers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die drinkers terugkomen zodra de zak of doos leeg is.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij koffie- en theemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Wakuli nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2259:59",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Gooische Bonen, je 5% staat klaar",
+      "kop": "Welkom bij Gooische Bonen",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers met de bestaande code WELKOM, de drie redenen waarom het goed voelt en een blok over de cups die bij het GFT mogen.",
+      "punten": [
+        "Code WELKOM voor 5% korting direct in beeld",
+        "Gratis bezorging vanaf €40 en in 2-3 werkdagen in huis",
+        "Tweede blok over de composteerbare cups"
+      ]
+    },
+    {
+      "node": "2259:89",
+      "type": "Merkverhaal",
+      "onderwerp": "Wat zit er eigenlijk in jouw kopje?",
+      "kop": "Koffie met een goed verhaal",
+      "tekst": "Het verhaal achter Gooische Bonen in drie punten, de Gooische Koning van dichtbij en een afsluiter met de vier blends en een echte klantreactie.",
+      "punten": [
+        "Kwaliteit, eerlijk betaald, minder belasting voor het milieu",
+        "Gooische Koning met labels: Arabica, intensiteit, Nespresso, GFT",
+        "Afsluiter met de vier blends en een klantquote"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17",
+  "nieuwsbrief": {
+    "node": "2259:59",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Gooische Bonen, je 5% staat klaar",
+    "kop": "Welkom bij Gooische Bonen",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers met de bestaande code WELKOM, de drie redenen waarom het goed voelt en een blok over de cups die bij het GFT mogen.",
+    "punten": [
+      "Code WELKOM voor 5% korting direct in beeld",
+      "Gratis bezorging vanaf €40 en in 2-3 werkdagen in huis",
+      "Tweede blok over de composteerbare cups"
+    ]
+  }
+}
