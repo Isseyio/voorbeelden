@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "allenbrands-2ffkp",
+  "merk": "Allenbrand's Popcorn",
+  "domein": "allenbrands.nl",
+  "lead_id": "2026-11-17-allenbrands.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#801818",
+  "kop": "Amerikaanse popcorn uit Heinenoord, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Allenbrand's, ik heb dit gemaakt omdat jullie bakjes met hun vrolijke etiketten en smaken als Stroopwafel en Caramel Sea Salt precies zijn wat mensen tijdens het scrollen laat stoppen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2304:4",
+      "titel": "Filmavond",
+      "waarom": "Eén groot woord en een zoekbalk sluiten aan bij waar mensen aan denken als ze popcorn willen, met drie echte bakjes en jullie sample pack-aanbod eronder."
+    },
+    {
+      "node": "2304:19",
+      "titel": "Zoet of zout?",
+      "waarom": "Twee smaken naast elkaar maken kiezen speels, en Sweet and Salty geeft meteen het antwoord voor wie het allebei wil."
+    },
+    {
+      "node": "2304:48",
+      "titel": "Je filmavond belt",
+      "waarom": "Een herkenbaar belscherm met de grote Butter & Salt-emmer maakt van een gewone snack een moment, met de echte prijs erbij."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien snackmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw snackmerk niet in de supermarkt, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers na hun sample pack terugkomen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "2305:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de familie: 8 smaken voor €15",
+    "kop": "Welkom bij de familie",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers met jullie echte sample pack-aanbod: code 8415, acht smaken voor €15, met gratis suikerspin en verzending.",
+    "punten": [
+      "Code 8415 groot in beeld, met het sample pack van acht bakjes eronder",
+      "Vier favorieten met prijs: Butter & Salt, Caramel Coffee, Stroopwafel en Cheddar",
+      "Afsluiter: het familieverhaal sinds 1995, van Kansas City naar Nederland"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2305:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de familie: 8 smaken voor €15",
+      "kop": "Welkom bij de familie",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers met jullie echte sample pack-aanbod: code 8415, acht smaken voor €15, met gratis suikerspin en verzending.",
+      "punten": [
+        "Code 8415 groot in beeld, met het sample pack van acht bakjes eronder",
+        "Vier favorieten met prijs: Butter & Salt, Caramel Coffee, Stroopwafel en Cheddar",
+        "Afsluiter: het familieverhaal sinds 1995, van Kansas City naar Nederland"
+      ]
+    },
+    {
+      "node": "2305:73",
+      "type": "Actie",
+      "onderwerp": "Nieuw: popcorn bundels voor je filmavond",
+      "kop": "Popcorn Bundels",
+      "tekst": "Een mail rond jullie nieuwe bundels met hun echte prijzen en kortingen, plus drie redenen waarom mensen voor Allenbrand's kiezen.",
+      "punten": [
+        "Hero met drie bakjes en een knop naar de bundels",
+        "Drie voordelen: familietraditie, zelf gemaakt in Nederland, ook zakelijk met eigen logo",
+        "Movie Night €25,00, Caramel Lovers €18,95 en Extreme Caramel Lovers €35,00, met de oude prijs ernaast"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

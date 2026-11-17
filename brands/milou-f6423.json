@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "milou-f6423",
+  "merk": "Milou Broersen Ceramics",
+  "domein": "miloubroersen.com",
+  "lead_id": "2026-11-17-miloubroersen.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2546A8",
+  "kop": "Tien kleuren porselein, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Milou Broersen, ik heb dit gemaakt omdat je bij jullie per bord je eigen kleur kiest, en dat laat zich goed zien op Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2302:4",
+      "titel": "Tien kleuren",
+      "waarom": "Eén groot woord en een zoekbalk maken in een seconde duidelijk wat jullie anders doen: hetzelfde bord in tien kleuren."
+    },
+    {
+      "node": "2302:31",
+      "titel": "Twee karakters",
+      "waarom": "Cobalt en Cantaloupe onder elkaar laten zien hoeveel een kleur verandert, en nodigen uit om zelf te kiezen."
+    },
+    {
+      "node": "2302:44",
+      "titel": "Met de hand",
+      "waarom": "Jullie eigen foto uit het atelier met korte labels vertelt het verhaal achter de prijs: tot acht uur werk per stuk."
+    }
+  ],
+  "waarom": {
+    "niche": "servies en wonen",
+    "kop": "Zo groeien woonmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken nieuw servies niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen om hun set aan te vullen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woonmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Serax nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2303:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom aan tafel",
+    "kop": "Welkom aan tafel.",
+    "tekst": "De eerste mail direct na inschrijving: wat het servies bijzonder maakt en een uitnodiging voor het atelier.",
+    "punten": [
+      "Gaat automatisch uit na inschrijving via het formulier op de site",
+      "Drie punten: alleen porselein, met de hand gemaakt, tien kleuren",
+      "Uitnodiging voor een atelierbezoek op afspraak"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2303:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom aan tafel",
+      "kop": "Welkom aan tafel.",
+      "tekst": "De eerste mail direct na inschrijving: wat het servies bijzonder maakt en een uitnodiging voor het atelier.",
+      "punten": [
+        "Gaat automatisch uit na inschrijving via het formulier op de site",
+        "Drie punten: alleen porselein, met de hand gemaakt, tien kleuren",
+        "Uitnodiging voor een atelierbezoek op afspraak"
+      ]
+    },
+    {
+      "node": "2303:42",
+      "type": "Assortimentsmail",
+      "onderwerp": "Stel je eigen set samen",
+      "kop": "Stel je eigen set samen",
+      "tekst": "Een mail die de keuze makkelijk maakt: de vier borden naast elkaar, met prijs en een knop naar de kleuren.",
+      "punten": [
+        "Opening met jullie eigen foto van kommen en bekers",
+        "LEVEL plate 160, 215 en 260 en PETAL plate 235 met prijs",
+        "Afsluiting uit het atelier: tot acht uur werk per stuk"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
