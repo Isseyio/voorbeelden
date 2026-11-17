@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "justmarie-w28fj",
+  "merk": "Just Marie Jewellery",
+  "domein": "just-marie.nl",
+  "lead_id": "2026-11-17-just-marie.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A65F5E",
+  "kop": "Oorbellen en ringen uit Bali, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Just Marie, ik heb dit gemaakt omdat jullie sieraden stuk voor stuk met de hand op Bali worden gemaakt, en dat zie je op jullie foto's meteen terug. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2508:4",
+      "titel": "Welke draag jij?",
+      "waarom": "Twee oorbellen naast elkaar, gedragen door jullie eigen model, laten mensen meteen kiezen in plaats van doorscrollen."
+    },
+    {
+      "node": "2508:5",
+      "titel": "Nieuw: Liaison Ring",
+      "waarom": "Een close-up van gestapelde ringen met korte labels laat zien hoe een nieuw sieraad in het echt valt."
+    },
+    {
+      "node": "2508:6",
+      "titel": "Gemaakt op Bali",
+      "waarom": "Het handwerk achter de Perlee in drie beelden geeft een reden om meer te betalen dan bij een goedkoop alternatief."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2508:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in de club",
+    "kop": "Welkom in de club",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% korting die jullie aanmelding belooft, waarom Just Marie anders is en een eerste sieraad om mee te beginnen.",
+    "punten": [
+      "Jullie 10% voor het eerste sieraad meteen in beeld",
+      "18k verguld, handgemaakt op Bali en voor 15:00 besteld dezelfde dag verzonden",
+      "Jullie eigen modelfoto als tweede blok, solo of gestapeld"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2508:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in de club",
+      "kop": "Welkom in de club",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% korting die jullie aanmelding belooft, waarom Just Marie anders is en een eerste sieraad om mee te beginnen.",
+      "punten": [
+        "Jullie 10% voor het eerste sieraad meteen in beeld",
+        "18k verguld, handgemaakt op Bali en voor 15:00 besteld dezelfde dag verzonden",
+        "Jullie eigen modelfoto als tweede blok, solo of gestapeld"
+      ]
+    },
+    {
+      "node": "2508:8",
+      "type": "Merkverhaal",
+      "onderwerp": "Eerlijk gemaakt, met liefde gedragen",
+      "kop": "Eerlijk gemaakt. Met liefde gedragen.",
+      "tekst": "Een mail over de mensen achter de sieraden: Ketut en de vakmensen op Bali, en de Perlee van dichtbij.",
+      "punten": [
+        "Jullie eigen foto uit de werkplaats als opening",
+        "Ketut aan het woord, met jullie eigen citaat",
+        "Perlee met vier labels: 18k verguld, gouden bolletjes, geborsteld mat, nikkelvrij"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
