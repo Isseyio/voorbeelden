@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "phivi-hkwf8",
+  "merk": "PhiVi sieraden",
+  "domein": "phivi.nl",
+  "lead_id": "2026-11-17-phivi.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5E0A7A",
+  "kop": "Handgemaakte edelsteensieraden uit Angeren, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team PhiVi sieraden, ik heb dit gemaakt omdat jullie armbandjes met echte edelstenen met de hand worden gemaakt in Angeren, en dat verhaal leent zich goed voor Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2434:3",
+      "titel": "Gedragen om de pols",
+      "waarom": "Een echte foto van de armbandjes om de pols laat meteen zien hoe ze vallen, met de stenen en materialen eromheen."
+    },
+    {
+      "node": "2434:25",
+      "titel": "De stenen van dichtbij",
+      "waarom": "Een detailfoto met korte uitleg maakt het verschil met goedkope sieraden zichtbaar: echte edelstenen, nikkelvrij en verstelbaar."
+    },
+    {
+      "node": "2434:51",
+      "titel": "Welke past bij haar",
+      "waarom": "Twee kettingen naast elkaar met prijs maakt kiezen makkelijk voor iemand die een cadeau zoekt voor Sinterklaas of kerst."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2436:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij PhiVi, hier is je 10% korting",
+    "kop": "Welkom bij PhiVi",
+    "tekst": "De eerste mail na inschrijving: de beloofde 10% korting, hoe Mariël de sieraden maakt en een armbandje om mee te beginnen.",
+    "punten": [
+      "Echte edelstenen, met de hand gemaakt in Angeren",
+      "Nikkelvrij en kleurvast stainless steel",
+      "Armbandjes om te stapelen, vanaf €16,95"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2436:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij PhiVi, hier is je 10% korting",
+      "kop": "Welkom bij PhiVi",
+      "tekst": "De eerste mail na inschrijving: de beloofde 10% korting, hoe Mariël de sieraden maakt en een armbandje om mee te beginnen.",
+      "punten": [
+        "Echte edelstenen, met de hand gemaakt in Angeren",
+        "Nikkelvrij en kleurvast stainless steel",
+        "Armbandjes om te stapelen, vanaf €16,95"
+      ]
+    },
+    {
+      "node": "2436:40",
+      "type": "Cadeaumail",
+      "onderwerp": "Cadeautjes met een eigen verhaal",
+      "kop": "Cadeautjes met een eigen verhaal",
+      "tekst": "Een mail voor Sinterklaas en kerst met vier sieraden die je zo cadeau geeft, en jullie echte reviewscore.",
+      "punten": [
+        "Sieradenset, rozenkwarts schelp, parelketting en edelsteenketting",
+        "Vanaf €19,95, morgen verzonden",
+        "9,9 uit 114 reviews op WebwinkelKeur"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

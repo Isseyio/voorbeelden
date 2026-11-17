@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "twinnies-fym29",
+  "merk": "By Twinnies",
+  "domein": "bytwinnies.nl",
+  "lead_id": "2026-11-17-bytwinnies.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3A2E26",
+  "kop": "Kraamcadeaus met naam, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team By Twinnies, ik heb dit gemaakt omdat die geborduurde namen op de knuffels en mutsjes op een foto meteen opvallen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2429:2",
+      "titel": "De naam in beeld",
+      "waarom": "Een close-up van de geborduurde naam laat in één oogopslag zien wat jullie kraamcadeau persoonlijk maakt."
+    },
+    {
+      "node": "2429:22",
+      "titel": "Knuffel en mutsje",
+      "waarom": "Twee producten met elk een naam en een prijs naast elkaar laten zien hoe breed de collectie is."
+    },
+    {
+      "node": "2429:41",
+      "titel": "De kraamvisite belt",
+      "waarom": "Een speelse invalshoek die stopt tijdens het scrollen en precies het moment raakt waarop mensen een kraamcadeau zoeken."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien babymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Wie een kraamcadeau zoekt, beslist vaak snel, dus een advertentie met een echte naam erop werkt goed. Een vaste nieuwsbrief zorgt dat die kopers terugkomen bij het volgende kraambezoek of de eerste verjaardag.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "150+",
+        "label": "advertenties heeft Bella Mia nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2431:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij By Twinnies",
+    "kop": "Welkom bij By Twinnies",
+    "tekst": "Fijn dat je er bent. Hier vind je zachte knuffels, speendoekjes, dekentjes en truitjes met de naam van jouw kleintje.",
+    "punten": [
+      "Personalisatie inbegrepen",
+      "Gemaakt in eigen atelier",
+      "Verzonden binnen 1–3 werkdagen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2431:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij By Twinnies",
+      "kop": "Welkom bij By Twinnies",
+      "tekst": "Fijn dat je er bent. Hier vind je zachte knuffels, speendoekjes, dekentjes en truitjes met de naam van jouw kleintje.",
+      "punten": [
+        "Personalisatie inbegrepen",
+        "Gemaakt in eigen atelier",
+        "Verzonden binnen 1–3 werkdagen"
+      ]
+    },
+    {
+      "node": "2431:51",
+      "type": "Merkverhaal",
+      "onderwerp": "Het verhaal achter By Twinnies",
+      "kop": "Geen groot bedrijf, gewoon Fallon",
+      "tekst": "By Twinnies is vernoemd naar Fallons eigen tweeling. Ze kiest elk product zelf uit, en alles wat je bestelt gaat door haar handen.",
+      "punten": [
+        "Speendoekje teddy konijn met naam, €14,99",
+        "Badstof poncho met naam, €16,95",
+        "Je kiest zelf het lettertype en de kleur"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
