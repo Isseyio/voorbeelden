@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "lekkerny-9rhxw",
+  "merk": "LEKKERNY",
+  "domein": "lekkerny.eu",
+  "lead_id": "2026-11-17-lekkerny.eu",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#9860A8",
+  "kop": "Fruit met een twist van kruiden.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Lekkerny, ik heb dit gemaakt omdat jullie fruit dat de supermarkt laat liggen omzetten in snacks met kardemom, basilicum en chili. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2296:4",
+      "titel": "Appel & Kaneel uitgelegd",
+      "waarom": "Laat in één beeld zien wat er in het zakje zit, van klasse B-appel tot langzaam drogen op 58 °C, zodat nieuwe kopers snappen waarom het anders smaakt."
+    },
+    {
+      "node": "2296:23",
+      "titel": "Fruit met een twist",
+      "waarom": "Een grote, speelse kop met jullie eigen sfeerfoto's valt op tijdens het scrollen en maakt meteen duidelijk dat dit geen gewoon gedroogd fruit is."
+    },
+    {
+      "node": "2296:41",
+      "titel": "Elke dag een andere smaak",
+      "waarom": "Zet de zes smaken neer als vaste snack voor elke werkdag en stuurt naar de box van 12, wat de bestelwaarde verhoogt."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien foodmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe snack niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende smaak.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Every-Foods nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2297:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Lekkerny",
+    "kop": "Welkom bij Lekkerny",
+    "tekst": "De eerste mail direct na inschrijving: wie jullie zijn, waarom het anders smaakt en één smaak om mee te beginnen.",
+    "punten": [
+      "Gaat automatisch uit na inschrijving via het formulier op de site",
+      "Drie redenen: geen toegevoegde suikers, alleen natuurlijke ingrediënten, 9 tot 12 maanden houdbaar",
+      "Peer & Kardemom als eerste smaak om te proberen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2297:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Lekkerny",
+      "kop": "Welkom bij Lekkerny",
+      "tekst": "De eerste mail direct na inschrijving: wie jullie zijn, waarom het anders smaakt en één smaak om mee te beginnen.",
+      "punten": [
+        "Gaat automatisch uit na inschrijving via het formulier op de site",
+        "Drie redenen: geen toegevoegde suikers, alleen natuurlijke ingrediënten, 9 tot 12 maanden houdbaar",
+        "Peer & Kardemom als eerste smaak om te proberen"
+      ]
+    },
+    {
+      "node": "2297:39",
+      "type": "Merkverhaal",
+      "onderwerp": "Van klasse B naar klasse A",
+      "kop": "Van klasse B naar klasse A",
+      "tekst": "Het verhaal achter Lekkerny: fruit dat de supermarkt laat liggen, Jennifer, en wat er in een zakje zit.",
+      "punten": [
+        "Opening met het idee achter klasse B-fruit",
+        "Het verhaal van Jennifer, van Paramaribo tot de eerste fruitsnacks in 2022",
+        "Afsluiting met alle zes smaken, per zakje of in een box van 12"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
