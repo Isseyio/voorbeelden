@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "bullet-4frzy",
+  "merk": "Bullet Equestrian Design",
+  "domein": "bulletequestriandesign.com",
+  "lead_id": "2026-11-17-bulletequestriandesign.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1E2740",
+  "kop": "Rijbroeken van ruiters, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Bullet Equestrian Design, ik heb dit gemaakt omdat jullie shoots met paard en stal zo sterk zijn en ik ze nu nauwelijks in advertenties terugzie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2377:3",
+      "titel": "10% en een groot logo",
+      "waarom": "De echte welkomstkorting bovenaan en jullie naam groot over een foto van de stal: zo herkent een ruiter het merk in één keer tijdens het scrollen."
+    },
+    {
+      "node": "2378:2",
+      "titel": "Wat er in de broek zit",
+      "waarom": "Een close-up van de Original Navy met drie korte labels laat precies zien waar ruiters op letten: taille, stof en grip."
+    },
+    {
+      "node": "2378:24",
+      "titel": "Full grip of knee grip?",
+      "waarom": "Twee broeken naast elkaar maken de keuze simpel en sturen iedereen naar de variant die bij hun manier van rijden past."
+    }
+  ],
+  "waarom": {
+    "niche": "ruitersport",
+    "kop": "Zo groeien ruitersportmerken op Instagram.",
+    "tekst": "De meeste ruiters ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een welkomstmail en een vaste nieuwsbrief zorgen dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sport- en outdoormerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Equestrian Stockholm nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2380:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Bullet EQ, hier is je 10%",
+    "kop": "Welkom bij Bullet EQ",
+    "tekst": "De mail die direct na de aanmelding voor de 10% komt: de korting, een foto uit jullie eigen shoot en meteen de drie dingen waar ruiters op letten. Nu zie ik geen pop-up en geen welkomstmail achter dat formulier.",
+    "punten": [
+      "10% korting op de eerste bestelling",
+      "Binnen 1 werkdag verzonden, 30 dagen retour, gratis vanaf €150",
+      "Tweede blok: door ruiters, voor ruiters, sinds 2019",
+      "Knoppen naar de collectie en de tops"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2380:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Bullet EQ, hier is je 10%",
+      "kop": "Welkom bij Bullet EQ",
+      "tekst": "De mail die direct na de aanmelding voor de 10% komt: de korting, een foto uit jullie eigen shoot en meteen de drie dingen waar ruiters op letten. Nu zie ik geen pop-up en geen welkomstmail achter dat formulier.",
+      "punten": [
+        "10% korting op de eerste bestelling",
+        "Binnen 1 werkdag verzonden, 30 dagen retour, gratis vanaf €150",
+        "Tweede blok: door ruiters, voor ruiters, sinds 2019",
+        "Knoppen naar de collectie en de tops"
+      ]
+    },
+    {
+      "node": "2381:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Van ruiters, voor ruiters",
+      "kop": "Sportief comfort, tijdloze look",
+      "tekst": "Een mail voor nieuwe inschrijvers die nog twijfelen: het verhaal achter Bullet, de Original Navy met wat er in de broek zit, en een afsluiting voor wie liever knee grip rijdt.",
+      "punten": [
+        "Merkverhaal: begonnen in 2019, ontwikkeld door ruiters",
+        "'The Original' Navy met labels: hoge taille, 4-way stretch, full grip",
+        "Afsluiting: 'The Original' Macchiato in full grip én knee grip",
+        "Aankondigingsbalk met gratis verzending en retour"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
