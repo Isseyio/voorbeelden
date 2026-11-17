@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "kiekoe-xprhv",
+  "merk": "Studio KieKoe",
+  "domein": "studiokiekoe.nl",
+  "lead_id": "2026-11-17-studiokiekoe.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2B4B2F",
+  "kop": "Handgemaakt, in de stofjes die jij kiest.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Studio KieKoe, ik heb dit gemaakt omdat je bij jullie zelf de stofjes kiest voor een babynestje of dekentje. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2383:4",
+      "titel": "Kraamcadeau",
+      "waarom": "Eén groot woord sluit aan op waar mensen naar zoeken, met drie zelf samen te stellen producten en de prijs er direct onder."
+    },
+    {
+      "node": "2383:25",
+      "titel": "Vijf zakjes, vijf stofjes",
+      "waarom": "Laat zien waar de speelzakjes van gemaakt zijn, zodat je het verschil met een gewoon speeltje meteen ziet."
+    },
+    {
+      "node": "2383:48",
+      "titel": "Het kraambezoek is morgen",
+      "waarom": "Een herkenbaar moment met een knipoog: het speelse telefoonscherm valt op tussen de gewone posts."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien babymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw babymerk niet via Google, maar tijdens het scrollen op Instagram, vaak op zoek naar een kraamcadeau. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids- en babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Kraam-cadeau.nl nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2384:17",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Studio KieKoe",
+    "kop": "Welkom bij Studio KieKoe",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn en hoe zelf samenstellen werkt, in drie stappen.",
+    "punten": [
+      "Kies je product: dekentje, badcape, babynestje of speendoekje",
+      "Kies je stofjes aan de hand van foto's",
+      "Met de hand gemaakt en opgestuurd"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2384:17",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Studio KieKoe",
+      "kop": "Welkom bij Studio KieKoe",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn en hoe zelf samenstellen werkt, in drie stappen.",
+      "punten": [
+        "Kies je product: dekentje, badcape, babynestje of speendoekje",
+        "Kies je stofjes aan de hand van foto's",
+        "Met de hand gemaakt en opgestuurd"
+      ]
+    },
+    {
+      "node": "2384:46",
+      "type": "Merkverhaal",
+      "onderwerp": "Van moeder en dochter",
+      "kop": "Van moeder en dochter",
+      "tekst": "Het verhaal achter Studio KieKoe: Natascha ontwerpt en maakt alles zelf, Mèlodie doet de foto's en socials. Met de speelzakjes als voorbeeld.",
+      "punten": [
+        "Sinds begin 2021",
+        "Speelzakjes: set van 5 met kersenpitten",
+        "Andere stofjes op aanvraag"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

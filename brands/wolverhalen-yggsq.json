@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "wolverhalen-yggsq",
+  "merk": "Wol Verhalen",
+  "domein": "wolverhalen.com",
+  "lead_id": "2026-11-17-wolverhalen.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4F6B3A",
+  "kop": "Handgeverfd garen uit Tynaarlo, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Wol Verhalen, ik heb dit gemaakt omdat elke streng bij jullie een eigen kleur en verhaal heeft, en juist dat werkt goed op Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2384:88",
+      "titel": "Geen streng is hetzelfde",
+      "waarom": "Catharina met een armvol eigen strengen en drie korte kenmerken laat meteen zien dat dit handwerk is, en geen garen van de lopende band."
+    },
+    {
+      "node": "2384:112",
+      "titel": "Wat er in Silk Mohair zit",
+      "waarom": "Ronde foto's van de natuur, het verfbad, de vezels en het atelier vertellen het verhaal achter één streng, precies waar breiers nieuwsgierig naar zijn."
+    },
+    {
+      "node": "2384:134",
+      "titel": "Welke kleur wordt het?",
+      "waarom": "Twee kleuren naast elkaar maken van kiezen een spelletje en laten zien hoeveel kleuren er in de eigen lijn zitten."
+    }
+  ],
+  "waarom": {
+    "niche": "garen en textiel",
+    "kop": "Zo groeien garenmerken op Instagram.",
+    "tekst": "De meeste breiers ontdekken een nieuw garen niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een welkomstmail en een vaste nieuwsbrief over nieuwe kleuren zorgen dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij textielmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "5+",
+        "label": "advertenties heeft Caro's Atelier nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2385:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Wol Verhalen",
+    "kop": "Welkom bij Wol Verhalen",
+    "tekst": "De mail die direct na de aanmelding op de homepage komt: wat nieuwe inschrijvers kunnen verwachten, waar het garen vandaan komt en wie het verft. Nu staat er wel een formulier, maar zie ik geen welkomstmail of pop-up.",
+    "punten": [
+      "Hero met drie handgeverfde strengen",
+      "Handgeverfd in Tynaarlo, mulesing-vrij, gratis verzending vanaf €100",
+      "Tweede blok: Catharina die alles zelf verft en inpakt",
+      "Footer met de openingstijden van de winkel"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2385:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Wol Verhalen",
+      "kop": "Welkom bij Wol Verhalen",
+      "tekst": "De mail die direct na de aanmelding op de homepage komt: wat nieuwe inschrijvers kunnen verwachten, waar het garen vandaan komt en wie het verft. Nu staat er wel een formulier, maar zie ik geen welkomstmail of pop-up.",
+      "punten": [
+        "Hero met drie handgeverfde strengen",
+        "Handgeverfd in Tynaarlo, mulesing-vrij, gratis verzending vanaf €100",
+        "Tweede blok: Catharina die alles zelf verft en inpakt",
+        "Footer met de openingstijden van de winkel"
+      ]
+    },
+    {
+      "node": "2386:2",
+      "type": "Productvergelijking",
+      "onderwerp": "Merino Singles of Silk Mohair?",
+      "kop": "Welke basis kies jij?",
+      "tekst": "Een mail die twee garens uit de eigen lijn naast elkaar zet, zodat breiers sneller kiezen: Silk Mohair uitgelicht met labels en een vergelijking met Merino Singles.",
+      "punten": [
+        "Silk Mohair met labels: 64% kid mohair, ±420 meter, 39 kleuren",
+        "Vergelijkingstabel: vezel, gewicht, dikte, kleuren, prijs",
+        "Afsluiting: allebei mulesing-vrij en met de hand geverfd",
+        "Knoppen naar de handgeverfde garens"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
