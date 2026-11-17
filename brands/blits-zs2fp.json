@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "blits-zs2fp",
+  "merk": "Studio Blits",
+  "domein": "studioblits.nl",
+  "lead_id": "2026-11-17-studioblits.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5E1B2A",
+  "kop": "Kaarten met eigen illustraties, klaar voor de kerstpost.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Studio Blits, ik heb dit gemaakt omdat jullie kaarten met eigen illustraties precies zijn wat mensen in december zoeken, en de 5+1-actie al klaarstaat. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2329:3",
+      "titel": "Kerstpost",
+      "waarom": "In november zoeken mensen actief naar kerstkaarten; een grote kop en de echte set van 6 voor €9,00 maken meteen duidelijk wat je krijgt."
+    },
+    {
+      "node": "2329:19",
+      "titel": "Een kaartje is calling",
+      "waarom": "Een speelse belscherm-grap rond jullie kaart Even bellen valt op tussen de stories en laat de illustratie groot zien."
+    },
+    {
+      "node": "2329:30",
+      "titel": "Kies er zes, betaal er vijf",
+      "waarom": "Jullie eigen 5+1-actie bovenaan maakt van een kaart van €1,95 een set, en dat verhoogt de waarde per bestelling."
+    }
+  ],
+  "waarom": {
+    "niche": "kaarten en stationery",
+    "kop": "Zo groeien kaartenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kaartenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers bij elke verjaardag en feestdag terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kaarten- en cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Kaartje2go nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2329:40",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Studio Blits",
+      "kop": "Welkom bij Studio Blits",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Willemieke en Carolien zijn, waarom elke kaart zelf getekend is en de 5+1-actie op alle A6 kaarten.",
+      "punten": [
+        "Kerstkaarten als eerste beeld",
+        "Drie redenen: soft-touch A6, eigen illustraties, zes voor vijf",
+        "Jullie eigen duofoto voor het persoonlijke verhaal"
+      ]
+    },
+    {
+      "node": "2329:81",
+      "type": "Assortimentsmail",
+      "onderwerp": "Voor elk moment een kaart",
+      "kop": "Voor elk moment een kaart",
+      "tekst": "Een mail met vier favoriete kaarten van €1,95, elk met een korte regel waarvoor je hem stuurt, en afsluitend de 5+1-actie.",
+      "punten": [
+        "Croissant, Bow, Even bellen en Fruit",
+        "Per kaart een moment: zomaar, cadeau, iemand missen, beterschap",
+        "Afsluiter: kies er zes, betaal er vijf"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17",
+  "nieuwsbrief": {
+    "node": "2329:40",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Studio Blits",
+    "kop": "Welkom bij Studio Blits",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Willemieke en Carolien zijn, waarom elke kaart zelf getekend is en de 5+1-actie op alle A6 kaarten.",
+    "punten": [
+      "Kerstkaarten als eerste beeld",
+      "Drie redenen: soft-touch A6, eigen illustraties, zes voor vijf",
+      "Jullie eigen duofoto voor het persoonlijke verhaal"
+    ]
+  }
+}

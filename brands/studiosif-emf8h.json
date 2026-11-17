@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "studiosif-emf8h",
+  "merk": "Studio Sif",
+  "domein": "studiosif.com",
+  "lead_id": "2026-11-17-studiosif.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A9532E",
+  "kop": "Handgemaakte hondenmanden van Studio Sif, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Studio Sif, ik heb dit gemaakt omdat een mand die in een atelier in Bokhoven met de hand wordt genaaid een verhaal heeft dat op Instagram goed werkt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2332:4",
+      "titel": "Nieuw: Marrakesh Terra",
+      "waarom": "De nieuwe mand groot in beeld met kaders voor voering, hengsels en wassen beantwoordt de vragen die iemand heeft voordat hij koopt."
+    },
+    {
+      "node": "2332:27",
+      "titel": "Gemaakt voor elk interieur",
+      "waarom": "Een grote kop met foto's van het atelier, een teckel en de stofstalen tussen de woorden vertelt in één zin waarom deze mand anders is."
+    },
+    {
+      "node": "2332:41",
+      "titel": "9,6 uit 10",
+      "waarom": "Echte beoordelingen van klanten over jullie eigen foto van twee teckels in de Teddy-mand geven vertrouwen bij een mand van boven de €200."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien huisdierenmerken op Instagram.",
+    "tekst": "Jullie adverteren al, dus jullie weten dat het werkt. Een advertentie wordt na een paar weken moe: dezelfde mensen zien hem steeds weer en klikken minder. Merken die elke week nieuwe invalshoeken testen, betalen vaak 20 tot 30 procent minder per aankoop, en een vaste nieuwsbrief zorgt dat kopers terugkomen voor een deken of slaapzak.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Max&Mand nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2332:61",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Studio Sif",
+    "kop": "Welkom bij Studio Sif",
+    "tekst": "Een eerste mail voor wie zich inschrijft via 'Join our mailing pawty': wie Saskia is, hoe de manden gemaakt worden en waar je begint.",
+    "punten": [
+      "Herokaart in terracotta met de Marrakesh Olive en een knop naar de manden",
+      "Drie vaste punten: handgemaakt in Nederland, volledig wasbaar op 30°C, gratis verzending in NL vanaf €125",
+      "Tweede kaart met jullie eigen atelierfoto: van stofstaal tot mand"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2332:61",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Studio Sif",
+      "kop": "Welkom bij Studio Sif",
+      "tekst": "Een eerste mail voor wie zich inschrijft via 'Join our mailing pawty': wie Saskia is, hoe de manden gemaakt worden en waar je begint.",
+      "punten": [
+        "Herokaart in terracotta met de Marrakesh Olive en een knop naar de manden",
+        "Drie vaste punten: handgemaakt in Nederland, volledig wasbaar op 30°C, gratis verzending in NL vanaf €125",
+        "Tweede kaart met jullie eigen atelierfoto: van stofstaal tot mand"
+      ]
+    },
+    {
+      "node": "2332:86",
+      "type": "Merkverhaal",
+      "onderwerp": "Een mand voor Sif",
+      "kop": "Een mand voor Sif",
+      "tekst": "Het verhaal achter Studio Sif: de eerste mand voor teckel Sif in 2017, en een productblok met de Teddy Lamb.",
+      "punten": [
+        "Hero met de foto van Saskia en Sif en een kaart over hoe het begon",
+        "Teddy Lamb met labels: handgemaakt in Bokhoven, hengsels, wasbaar op 30°C, vanaf €225",
+        "Donkere afsluiter 'Voor elk interieur' met jullie sfeerfoto en een knop naar de collectie"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

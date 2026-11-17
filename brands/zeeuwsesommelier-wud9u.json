@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "zeeuwsesommelier-wud9u",
+  "merk": "De Zeeuwse Sommelier",
+  "domein": "dezeeuwsesommelier.nl",
+  "lead_id": "2026-11-17-dezeeuwsesommelier.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8F6A45",
+  "kop": "Losse thee met een Zeeuws tintje, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team De Zeeuwse Sommelier, ik heb dit gemaakt omdat genummerde melanges en een TeaBox van €7,95 precies het soort cadeau zijn waar mensen in december naar zoeken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2328:4",
+      "titel": "Wat zit erin",
+      "waarom": "De Kerstthee TeaBox met ronde foto's van wat erin zit laat in één oogopslag zien wat je cadeau doet."
+    },
+    {
+      "node": "2328:27",
+      "titel": "Winterthee",
+      "waarom": "Eén groot woord en drie echte melanges met hun prijs maken de limited editions meteen herkenbaar tijdens het scrollen."
+    },
+    {
+      "node": "2328:48",
+      "titel": "Een gratis monster",
+      "waarom": "Jullie bestaande aanbod groot bovenaan, met de naam over jullie eigen TeaBox-foto, geeft een concrete reden om nu te bestellen."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien theemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe thee niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, bijvoorbeeld als er weer een nieuwe limited edition is.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Simon Lévelt nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2328:59",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij De Zeeuwse Sommelier",
+    "kop": "Welkom bij De Zeeuwse Sommelier",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn, waar jullie voor staan en een cadeautip voor wie iets te vieren heeft.",
+    "punten": [
+      "Herokaart in kraftbruin met de Zeeuwse Thee TeaBox en een knop naar de losse thee",
+      "Drie vaste punten: 2 keer per week vers gebrand, 200 soorten thee, gratis monster bij losse thee",
+      "Tweede kaart met jullie eigen foto van de TeaBox-inhoud: losse thee, 5 theezakjes en Tea Bears voor €7,95"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2328:59",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij De Zeeuwse Sommelier",
+      "kop": "Welkom bij De Zeeuwse Sommelier",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn, waar jullie voor staan en een cadeautip voor wie iets te vieren heeft.",
+      "punten": [
+        "Herokaart in kraftbruin met de Zeeuwse Thee TeaBox en een knop naar de losse thee",
+        "Drie vaste punten: 2 keer per week vers gebrand, 200 soorten thee, gratis monster bij losse thee",
+        "Tweede kaart met jullie eigen foto van de TeaBox-inhoud: losse thee, 5 theezakjes en Tea Bears voor €7,95"
+      ]
+    },
+    {
+      "node": "2328:84",
+      "type": "Productspotlight",
+      "onderwerp": "Onze winterthee is binnen",
+      "kop": "Onze winterthee is binnen",
+      "tekst": "Een assortimentsmail met vier limited edition melanges, elk met een eigen knop, en de Kerstthee TeaBox als cadeautip.",
+      "punten": [
+        "Hero met jullie herfstfoto en een knop naar de limited editions",
+        "No. 312 Panettone, No. 409 Pear & Spice, No. 404 Rooibos Kaki & Gember en No. 403 Red Velvet Dream met hun echte vanaf-prijzen",
+        "Afsluiter in kraftbruin met de Kerstthee TeaBox: zo'n 25 kopjes voor €7,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
