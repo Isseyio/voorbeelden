@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "onepillow-gvhxe",
+  "merk": "OnePillow",
+  "domein": "onepillow.nl",
+  "lead_id": "2026-11-17-onepillow.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5A30B4",
+  "kop": "Eén kussen, afgesteld op hoe jij slaapt.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team OnePillow, ik heb dit gemaakt omdat een kussen dat je zelf afstelt, met 60 dagen proefslapen, zich goed laat uitleggen in een korte advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2354:3",
+      "titel": "Je nek belt",
+      "waarom": "Een speelse inkomende oproep valt op tussen gewone posts en zet het kussen groot in beeld."
+    },
+    {
+      "node": "2354:18",
+      "titel": "Warm of koel",
+      "waarom": "Twee hoezen naast elkaar laten in één oogopslag zien wat er allemaal bij het kussen zit."
+    },
+    {
+      "node": "2354:35",
+      "titel": "Zo vind je jouw hoogte",
+      "waarom": "De afstelroutine neemt de twijfel weg of een verstelbaar kussen wel bij jou past."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en textiel",
+    "kop": "Zo groeien wonen- en textielmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kussen niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij wonen- en textielmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Cloudpillo nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2357:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij OnePillow",
+    "kop": "Welkom bij OnePillow",
+    "tekst": "Fijn dat je er bent. Met één kussen dat je zelf afstelt, vind je de hoogte die past bij hoe jij slaapt: op je zij, rug of buik.",
+    "punten": [
+      "Zelf af te stellen: haal vulling eruit tot het klopt",
+      "Warm of koel: coolingcover met twee kanten",
+      "Hotelhoes van 100% katoen, wasbaar op 60°C",
+      "60 dagen proefslapen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2357:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij OnePillow",
+      "kop": "Welkom bij OnePillow",
+      "tekst": "Fijn dat je er bent. Met één kussen dat je zelf afstelt, vind je de hoogte die past bij hoe jij slaapt: op je zij, rug of buik.",
+      "punten": [
+        "Zelf af te stellen: haal vulling eruit tot het klopt",
+        "Warm of koel: coolingcover met twee kanten",
+        "Hotelhoes van 100% katoen, wasbaar op 60°C",
+        "60 dagen proefslapen"
+      ]
+    },
+    {
+      "node": "2357:30",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom je kussen gevuld is met restmateriaal",
+      "kop": "Gevuld met restmateriaal van kwaliteitsmatrassen",
+      "tekst": "Het verhaal achter OnePillow: vulling van restmateriaal, een doos die je opnieuw gebruikt en kussens voor de kledingbank. Daarna laten we zien wat er in de doos zit, en de Black Friday-prijs van november.",
+      "punten": [
+        "Afstelraam voor de juiste hoeveelheid vulling",
+        "Coolingcover en hotelhoes inbegrepen",
+        "70 × 50 cm, past in een standaard sloop",
+        "Black Friday: van €78,95 voor €55,25"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
