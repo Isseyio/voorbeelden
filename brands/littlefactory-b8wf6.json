@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "littlefactory-b8wf6",
+  "merk": "The Little Factory",
+  "domein": "thelittlefactory.nl",
+  "lead_id": "2026-11-17-thelittlefactory.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6B2538",
+  "kop": "Drie advertenties voor handgemaakt keramiek uit eigen studio.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team The Little Factory, ik heb dit gemaakt omdat een mok met je eigen naam erop precies het soort product is dat mensen op Instagram doorsturen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2404:132",
+      "titel": "Eén mok, met de hand",
+      "waarom": "De mok ligt letterlijk in een hand, met drie korte kenmerken eronder, zodat je in één oogopslag ziet hoe groot en hoe handgemaakt hij is."
+    },
+    {
+      "node": "2404:154",
+      "titel": "Blush of berry?",
+      "waarom": "Twee glazuurkleuren naast elkaar maken van kijken een keuze, en wie kiest, klikt sneller door."
+    },
+    {
+      "node": "2404:179",
+      "titel": "Bert belt",
+      "waarom": "Een inkomend gesprek met de naam op de mok valt op tussen gewone posts en laat meteen zien dat je je eigen naam kunt laten zetten."
+    }
+  ],
+  "waarom": {
+    "niche": "keramiek en servies",
+    "kop": "Zo groeien keramiekmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw keramiekmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een welkomstmail en een vaste nieuwsbrief zorgen dat die kopers terugkomen voor de volgende mok of kom.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij wonen- en serviesmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Serax nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2405:5",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij The Little Factory",
+    "kop": "Welkom bij The Little Factory",
+    "tekst": "De mail die nieuwe inschrijvers direct krijgen. Nu staat er een Engels aanmeldblok op de site en zie ik geen welkomstmail.",
+    "punten": [
+      "Herokaart in berry met de mok spikkel blush en een knop naar de mokken",
+      "Drie punten: met de hand gemaakt in de eigen studio, elk stuk uniek, ook op bestelling in ongeveer 4 weken",
+      "Tweede kaart met het mokje ribbels van €19,50 als eerste aankoop",
+      "Footer met Instagram en Pinterest"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2405:5",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij The Little Factory",
+      "kop": "Welkom bij The Little Factory",
+      "tekst": "De mail die nieuwe inschrijvers direct krijgen. Nu staat er een Engels aanmeldblok op de site en zie ik geen welkomstmail.",
+      "punten": [
+        "Herokaart in berry met de mok spikkel blush en een knop naar de mokken",
+        "Drie punten: met de hand gemaakt in de eigen studio, elk stuk uniek, ook op bestelling in ongeveer 4 weken",
+        "Tweede kaart met het mokje ribbels van €19,50 als eerste aankoop",
+        "Footer met Instagram en Pinterest"
+      ]
+    },
+    {
+      "node": "2405:40",
+      "type": "Merkverhaal",
+      "onderwerp": "Gegoten en geglazuurd in mijn studio",
+      "kop": "Gegoten en geglazuurd in mijn studio",
+      "tekst": "Een mail in de ik-vorm van Kristine: de kommen met spikkelglazuur, een kort verhaal over de studio en de grote schaal als afsluiter.",
+      "punten": [
+        "Hero met een stapel kommen en een knop naar de kommen",
+        "Kaart: Kristine vertelt dat ze elk stuk zelf ontwerpt, giet en glazuurt",
+        "Kom spikkels met vier labels: 14,5 cm, 6 cm hoog, spikkelglazuur, op bestelling",
+        "Afsluiting: grote schaal met spikkels van €48,00"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

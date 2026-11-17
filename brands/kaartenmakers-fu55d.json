@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "kaartenmakers-fu55d",
+  "merk": "De Kaartenmakers",
+  "domein": "dekaartenmakers.nl",
+  "lead_id": "2026-11-17-dekaartenmakers.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#DA3033",
+  "kop": "Kerstkaarten uit Haarlem, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team De Kaartenmakers, ik heb dit gemaakt omdat jullie kerstkaarten per stad precies het soort kaart zijn dat mensen op Instagram doorsturen naar familie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2404:196",
+      "titel": "Stuur geen standaardkaart",
+      "waarom": "Een grote, eigenwijze kop met de Haarlemse kaart erover valt op tussen de vele standaard kerstkaarten in de tijdlijn."
+    },
+    {
+      "node": "2404:230",
+      "titel": "Jouw stad",
+      "waarom": "Een zoekbalk met 'kerstkaart van mijn eigen stad' sluit aan op wat mensen echt zoeken, met de Gouda-set van €8,22 erbij."
+    },
+    {
+      "node": "2404:265",
+      "titel": "Goudfolie in detail",
+      "waarom": "Uitvergroot met labels zie je wat een foto op een telefoon anders mist: de goudfolie, de skyline en de kraft envelop."
+    }
+  ],
+  "waarom": {
+    "niche": "kaarten en stationery",
+    "kop": "Zo groeien kaarten- en stationerymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kaartenmerk niet via Google, maar tijdens het scrollen. Zeker rond kerst testen grotere merken daar elke week nieuwe advertenties, zodat ze steeds nieuwe kopers vinden tegen lage kosten per aankoop. Een vaste nieuwsbrief zorgt dat die kopers bij de volgende verjaardag of kerst terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kaarten- en cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Kaartje2go nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2405:78",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij De Kaartenmakers",
+    "kop": "Welkom bij De Kaartenmakers",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, dat bijna alles in Haarlem wordt ontworpen en gemaakt, en een eerste tip om altijd een kaart in huis te hebben.",
+    "punten": [
+      "Hero met de kerstkaarten in jullie rode merkkleur",
+      "Drie redenen om in te schrijven: zelf ontworpen, kerst per stad, snel in huis",
+      "Wenskaartenbox met 36 kaarten (€36,00) als afsluiter"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2405:78",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij De Kaartenmakers",
+      "kop": "Welkom bij De Kaartenmakers",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, dat bijna alles in Haarlem wordt ontworpen en gemaakt, en een eerste tip om altijd een kaart in huis te hebben.",
+      "punten": [
+        "Hero met de kerstkaarten in jullie rode merkkleur",
+        "Drie redenen om in te schrijven: zelf ontworpen, kerst per stad, snel in huis",
+        "Wenskaartenbox met 36 kaarten (€36,00) als afsluiter"
+      ]
+    },
+    {
+      "node": "2405:151",
+      "type": "Assortimentsmail",
+      "onderwerp": "Een kerstkaart van jouw stad",
+      "kop": "Een kerstkaart van jouw stad",
+      "tekst": "Een kerstmail met vier producten op een rij, van de Gouda-set in Delfts blauw tot de Haarlemse skyline met goudfolie, plus de drempel voor gratis verzending.",
+      "punten": [
+        "Kerstkaarten set Gouda (€8,22) en Haarlem skyline (€1,27)",
+        "Balk met gratis verzending vanaf €35 (NL) en €50 (BE)",
+        "Afsluiter met wenskaarten voor verjaardag, geboorte en beterschap"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

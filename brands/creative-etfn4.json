@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "creative-etfn4",
+  "merk": "Creative Cosmetics",
+  "domein": "creativecosmetics.nl",
+  "lead_id": "2026-11-17-creativecosmetics.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#522A44",
+  "kop": "Iedere huid verdient het om te stralen, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Creative Cosmetics, ik heb dit gemaakt omdat jullie minerale make-up voor iedere huid zo duidelijk uitleggen, van de kleurtest tot de korte formules voor gevoelige huid. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2404:4",
+      "titel": "Foundation voor €29,95",
+      "waarom": "Een duidelijke prijs boven een close-up van de tint op de huid laat in één keer zien wat je krijgt en wat het kost."
+    },
+    {
+      "node": "2404:13",
+      "titel": "Iedere huid",
+      "waarom": "Jullie eigen belofte als grote kop met foto's ertussen valt op tussen gewone productfoto's en past bij een publiek dat zich wil herkennen."
+    },
+    {
+      "node": "2404:31",
+      "titel": "Eén fluid",
+      "waarom": "Eén product in de hand met drie korte kenmerken werkt goed voor mensen met een gevoelige huid die snel willen weten of iets bij ze past."
+    }
+  ],
+  "waarom": {
+    "niche": "beauty",
+    "kop": "Zo groeien beautymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw beautymerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun foundation op is.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij beautymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10",
+        "label": "advertenties heeft Mineralissima nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2404:49",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Creative Cosmetics",
+    "kop": "Welkom bij Creative Cosmetics",
+    "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waar jullie voor staan en een eerste stap via de kleurtest, met daarna de Creative Cuties Club.",
+    "punten": [
+      "Kleurtest als eerste stap, zodat iemand meteen de juiste tint vindt",
+      "Bijna altijd vegan, dierproefvrij en gemaakt in Nederland in één oogopslag",
+      "Creative Cuties Club met Cutie Coins om terug te blijven komen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2404:49",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Creative Cosmetics",
+      "kop": "Welkom bij Creative Cosmetics",
+      "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waar jullie voor staan en een eerste stap via de kleurtest, met daarna de Creative Cuties Club.",
+      "punten": [
+        "Kleurtest als eerste stap, zodat iemand meteen de juiste tint vindt",
+        "Bijna altijd vegan, dierproefvrij en gemaakt in Nederland in één oogopslag",
+        "Creative Cuties Club met Cutie Coins om terug te blijven komen"
+      ]
+    },
+    {
+      "node": "2404:78",
+      "type": "Merkverhaal",
+      "onderwerp": "Zo maken wij minerale make-up",
+      "kop": "Minerale make-up, zonder poespas",
+      "tekst": "Een merkverhaal over wat er in jullie make-up zit, met het magnetische palet als voorbeeld en de foundationgids als afsluiter voor wie twijfelt over de tint.",
+      "punten": [
+        "Geen PFAS, mica via het Responsible Mica Initiative, productie in Nederland",
+        "Het palet met korte labels in plaats van lange tekst",
+        "Foundationgids voor wie twijfelt over de juiste tint"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
