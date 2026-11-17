@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "damaris-xj8d7",
+  "merk": "Damaris Jewellery",
+  "domein": "damarisjewellery.nl",
+  "lead_id": "2026-11-17-damarisjewellery.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Drie advertenties voor fidget ringen, waves en een kettinkje.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Damaris Jewellery, ik heb dit gemaakt omdat een fidget ring met een draaiend bloemetje of vlindertje precies het soort sieraad is dat mensen op Instagram laten zien aan een vriendin. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2412:2",
+      "titel": "Eén groot woord",
+      "waarom": "Een groot woord en een zoekbalk vertellen in één seconde wat een fidget ring is, met vier echte ringen en de prijs er direct onder."
+    },
+    {
+      "node": "2413:2",
+      "titel": "Goud of zilver?",
+      "waarom": "De ear party waves in goud en zilver naast elkaar maken van kijken een keuze, en wie kiest, klikt sneller door."
+    },
+    {
+      "node": "2414:2",
+      "titel": "Eén oorbel, twee kanten",
+      "waarom": "Een close-up in de hand met korte labels laat zien hoe het kettinkje valt, iets wat een packshot op wit niet vertelt."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een welkomstmail en een vaste nieuwsbrief zorgen dat die kopers terugkomen voor het volgende paar oorbellen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2416:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij damaris.",
+    "kop": "Welkom bij damaris.",
+    "tekst": "De mail die nieuwe inschrijvers direct krijgen na het aanmelden voor de nieuwsbrief op de site: wie jullie zijn, wat ze kunnen verwachten en een makkelijk eerste product.",
+    "punten": [
+      "Herokaart met jullie eigen modelfoto en een knop naar de collectie",
+      "Drie punten: altijd gratis verzending, in 1 tot 3 werkdagen in huis, 14 dagen retour",
+      "Tweede kaart met een fidget ring aan de hand, vanaf €17,95",
+      "Footer met Oorbellen, Ringen, Kettingen en Sale, plus Instagram, TikTok en Facebook"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2416:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij damaris.",
+      "kop": "Welkom bij damaris.",
+      "tekst": "De mail die nieuwe inschrijvers direct krijgen na het aanmelden voor de nieuwsbrief op de site: wie jullie zijn, wat ze kunnen verwachten en een makkelijk eerste product.",
+      "punten": [
+        "Herokaart met jullie eigen modelfoto en een knop naar de collectie",
+        "Drie punten: altijd gratis verzending, in 1 tot 3 werkdagen in huis, 14 dagen retour",
+        "Tweede kaart met een fidget ring aan de hand, vanaf €17,95",
+        "Footer met Oorbellen, Ringen, Kettingen en Sale, plus Instagram, TikTok en Facebook"
+      ]
+    },
+    {
+      "node": "2417:2",
+      "type": "Productspotlight",
+      "onderwerp": "Stel je eigen ear party samen",
+      "kop": "Stel je eigen ear party samen",
+      "tekst": "Een mail rond oorbellen die je los draagt of combineert, met vier favorieten, een echte review en jullie eigen foto's van oorbellen in het oor.",
+      "punten": [
+        "Grote modelfoto bovenaan met een knop naar alle oorbellen",
+        "Ear party waves, oorbellen met parelhanger, huggies met zirkonia en oorbellen met kettinkje, elk met prijs en knop",
+        "Review 'Uniek met de waves.' van jullie eigen productpagina",
+        "Afsluiting met gratis verzending en een knop om een ear party samen te stellen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

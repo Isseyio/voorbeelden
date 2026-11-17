@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "hannehaves-8s2gk",
+  "merk": "HanneHaves",
+  "domein": "hannehaves.nl",
+  "lead_id": "2026-11-17-hannehaves.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#47704C",
+  "kop": "Happy Hippie Jewelry, nu ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team HanneHaves, ik heb dit gemaakt omdat de kleurrijke sieraden en de stenen met hun betekenis zich goed lenen voor Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2420:4",
+      "titel": "Happy Hippie in één oogopslag",
+      "waarom": "Een groot woord en drie echte producten laten in een seconde zien waar HanneHaves voor staat."
+    },
+    {
+      "node": "2420:5",
+      "titel": "Draag de zon",
+      "waarom": "Een echte foto vol armbanden met korte kenmerken werkt goed bij mensen die het merk nog niet kennen."
+    },
+    {
+      "node": "2420:6",
+      "titel": "Armbanden met betekenis",
+      "waarom": "Uitleg per steen geeft een reden om te kopen, ook als cadeau."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft A Beautiful Story nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2420:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Happy Hippie club",
+    "kop": "Welkom bij de Happy Hippie club",
+    "tekst": "Een welkomstmail voor nieuwe aanmelders: nieuwe sieraden uit het atelier, de verhalen erachter en als eerste de mystery boxen. Nu staat er op de site alleen een aanmeldformulier zonder welkomstmail erachter.",
+    "punten": [
+      "Handgemaakt in eigen atelier",
+      "Gratis verzending (NL) vanaf € 35",
+      "Bijna alles is een unicum, dus snel zijn loont"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2420:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Happy Hippie club",
+      "kop": "Welkom bij de Happy Hippie club",
+      "tekst": "Een welkomstmail voor nieuwe aanmelders: nieuwe sieraden uit het atelier, de verhalen erachter en als eerste de mystery boxen. Nu staat er op de site alleen een aanmeldformulier zonder welkomstmail erachter.",
+      "punten": [
+        "Handgemaakt in eigen atelier",
+        "Gratis verzending (NL) vanaf € 35",
+        "Bijna alles is een unicum, dus snel zijn loont"
+      ]
+    },
+    {
+      "node": "2420:8",
+      "type": "Merkverhaal",
+      "onderwerp": "Elf jaar Happy Hippie Jewelry",
+      "kop": "Elf jaar Happy Hippie Jewelry",
+      "tekst": "Het verhaal van Hanneke: kralen sinds haar jeugd, kleuren uit India, Bali en Ibiza en een eigen atelier. Met de Gervaso-armband als voorbeeld van armbanden met betekenis.",
+      "punten": [
+        "Persoonlijk verhaal met eigen foto's",
+        "Stenen met hun betekenis uitgelicht",
+        "Afsluiting die naar de armbanden leidt"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
