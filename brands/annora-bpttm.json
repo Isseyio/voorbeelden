@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "annora-bpttm",
+  "merk": "Annora",
+  "domein": "annorapoppe.com",
+  "lead_id": "2026-11-17-annorapoppe.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5A5E40",
+  "kop": "Eerlijke sieraden uit Heerenveen, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Annora, ik heb dit gemaakt omdat sieraden van Fairmined goud, met de hand gemaakt in een atelier in Heerenveen, precies het verhaal zijn dat mensen tijdens het scrollen onthouden. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2286:2",
+      "titel": "Eén ring, één steen",
+      "waarom": "Een close-up van de ring aan de hand met korte uitleg laat zien wat dit sieraad bijzonder maakt: Fairmined goud, hamerslag en een watermeloen toermalijn."
+    },
+    {
+      "node": "2286:32",
+      "titel": "Twister, met de hand",
+      "waarom": "De Twister naast ronde foto's uit het atelier vertelt in één beeld waar de ring van gemaakt is en wie hem maakt."
+    },
+    {
+      "node": "2286:55",
+      "titel": "Kies bewust",
+      "waarom": "Een grote kop met jullie eigen sieraden tussen de woorden valt op in de feed en brengt de belofte van Annora in vier woorden over."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een workshop, maatwerk of het volgende sieraad.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "45+",
+        "label": "advertenties heeft Lucardi nu tegelijk live, A Beautiful Story meer dan 35"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2287:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Annora",
+    "kop": "Welkom bij Annora",
+    "tekst": "Een rustige eerste mail voor iedereen die zich aanmeldt: wat er na de inschrijving komt, waar Annora voor staat en een uitnodiging voor de workshops.",
+    "punten": [
+      "Hero met de gouden ring met watermeloen toermalijn en een duidelijke knop naar de collectie",
+      "Drie waarden in de kleuren van het logo: Fairmined goud en zilver, handwerk, een boom per sieraad",
+      "Tweede blok: zelf een ring maken tijdens een workshop"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2287:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Annora",
+      "kop": "Welkom bij Annora",
+      "tekst": "Een rustige eerste mail voor iedereen die zich aanmeldt: wat er na de inschrijving komt, waar Annora voor staat en een uitnodiging voor de workshops.",
+      "punten": [
+        "Hero met de gouden ring met watermeloen toermalijn en een duidelijke knop naar de collectie",
+        "Drie waarden in de kleuren van het logo: Fairmined goud en zilver, handwerk, een boom per sieraad",
+        "Tweede blok: zelf een ring maken tijdens een workshop"
+      ]
+    },
+    {
+      "node": "2288:2",
+      "type": "Assortimentsmail",
+      "onderwerp": "Nieuw uit het atelier",
+      "kop": "Uit het atelier",
+      "tekst": "Een mail die vier sieraden die nu klaarliggen naast elkaar zet, met prijs en knop per sieraad, en afsluit met maatwerk.",
+      "punten": [
+        "Modelfoto van de gouden oorhangers met unieke parels",
+        "Vier sieraden van €275 tot €1.495, elk met een korte regel en knop",
+        "Afsluiter: liever iets op maat? met een foto uit het atelier"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
