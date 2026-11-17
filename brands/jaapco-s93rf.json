@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "jaapco-s93rf",
+  "merk": "Jaap & Co Woof Wear",
+  "domein": "jaapcowoofwear.com",
+  "lead_id": "2026-11-17-jaapcowoofwear.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#234B46",
+  "kop": "Tuigjes met liefde ontworpen, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Jaap & Co, ik heb dit gemaakt omdat een merk met een Chief Sniff Officer en tuigjes met teddyvoering precies het soort verhaal is dat hondenbaasjes tijdens het scrollen onthouden. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2273:3",
+      "titel": "Cosy Days van dichtbij",
+      "waarom": "Een close-up met korte uitleg laat zien waarom dit tuigje warm en makkelijk is, met jullie echte score van 4.97 erbij."
+    },
+    {
+      "node": "2273:28",
+      "titel": "25% op alles",
+      "waarom": "Jullie echte Black Friday-actie groot bovenaan en een eigen wandelfoto eronder: wie scrolt ziet meteen het aanbod én de sfeer."
+    },
+    {
+      "node": "2273:39",
+      "titel": "Jaap belt",
+      "waarom": "Een herkenbaar belscherm met Jaap als beller is speels en zet het tuigje in beeld op het moment dat iemand aan de volgende wandeling denkt."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien merken voor honden op Instagram.",
+    "tekst": "De meeste baasjes ontdekken een nieuw merk voor hun hond niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die baasjes terugkomen voor de riem, de halsband of het volgende tuigje.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij merken voor huisdieren vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "35+",
+        "label": "advertenties hebben Chewies Choice en Mivero nu allebei tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2275:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Jaap & Co pack",
+    "kop": "Welkom bij de Jaap & Co pack",
+    "tekst": "Een warme eerste mail voor iedereen die zich aanmeldt: de 10% op de eerste bestelling, waar Jaap & Co voor staat en persoonlijk maatadvies voor wie twijfelt.",
+    "punten": [
+      "10% op de eerste bestelling direct in beeld",
+      "Verstelbare pasvorm, maatadvies en gratis verzending vanaf €49",
+      "Tweede blok: twijfel je over de maat? Stuur een WhatsApp"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2275:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Jaap & Co pack",
+      "kop": "Welkom bij de Jaap & Co pack",
+      "tekst": "Een warme eerste mail voor iedereen die zich aanmeldt: de 10% op de eerste bestelling, waar Jaap & Co voor staat en persoonlijk maatadvies voor wie twijfelt.",
+      "punten": [
+        "10% op de eerste bestelling direct in beeld",
+        "Verstelbare pasvorm, maatadvies en gratis verzending vanaf €49",
+        "Tweede blok: twijfel je over de maat? Stuur een WhatsApp"
+      ]
+    },
+    {
+      "node": "2275:35",
+      "type": "Productvergelijking",
+      "onderwerp": "Teddy of neopreen?",
+      "kop": "Teddy of neopreen?",
+      "tekst": "Een mail die Cosy Days en Snowy Leopard naast elkaar zet, zodat baasjes in één oogopslag zien welk tuigje bij hun wandelingen past.",
+      "punten": [
+        "Modelfoto van een echte Jaap & Co-hond",
+        "Vergelijking: binnenkant, wassen, maten en prijs",
+        "Afsluiter met maatadvies en gratis verzending vanaf €49"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
