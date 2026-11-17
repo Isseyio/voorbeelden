@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "sleutelhangerkoning-mrykf",
+  "merk": "Sleutelhangerkoning",
+  "domein": "sleutelhangerkoning.nl",
+  "lead_id": "2026-11-17-sleutelhangerkoning.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#193B54",
+  "kop": "Naamsleutelhangers van Sleutelhangerkoning op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Sleutelhangerkoning, ik heb dit gemaakt omdat een sleutelhanger met een naam erop precies het kleine cadeau is dat mensen rond Sinterklaas en Kerst zoeken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2466:4",
+      "titel": "Jouw naam",
+      "waarom": "Eén groot woord en een zoekbalk laten in een halve seconde zien wat je hier koopt: een sleutelhanger met jouw naam, vanaf €5,95."
+    },
+    {
+      "node": "2466:19",
+      "titel": "Een cadeau belt aan",
+      "waarom": "Een speelse inkomende oproep valt op tussen gewone posts en maakt van de prijs een knop om op te tikken."
+    },
+    {
+      "node": "2466:29",
+      "titel": "Kleine cadeautjes, groot gelijk",
+      "waarom": "De 9,7 van WebwinkelKeur, de snelle levering en het familieverhaal uit Nieuwkoop nemen twijfel weg bij nieuwe kopers."
+    }
+  ],
+  "waarom": {
+    "niche": "cadeaus",
+    "kop": "Zo groeien cadeaumerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw cadeaumerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers bij het volgende cadeau terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Callie nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2466:59",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Koning",
+    "kop": "Welkom bij de Koning",
+    "tekst": "Een rustige welkomstmail voor iedereen die zich inschrijft: wie Peter en Fay zijn, hoe je in drie stappen je eigen naamsleutelhanger maakt en een knop naar alle stijlen.",
+    "punten": [
+      "Gaat automatisch naar elke nieuwe inschrijver",
+      "Kies je stijl, typ de naam, binnen 1 tot 2 werkdagen verzonden",
+      "Laat de meer dan 30 kleuren zien"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2466:59",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Koning",
+      "kop": "Welkom bij de Koning",
+      "tekst": "Een rustige welkomstmail voor iedereen die zich inschrijft: wie Peter en Fay zijn, hoe je in drie stappen je eigen naamsleutelhanger maakt en een knop naar alle stijlen.",
+      "punten": [
+        "Gaat automatisch naar elke nieuwe inschrijver",
+        "Kies je stijl, typ de naam, binnen 1 tot 2 werkdagen verzonden",
+        "Laat de meer dan 30 kleuren zien"
+      ]
+    },
+    {
+      "node": "2466:87",
+      "type": "Productspotlight",
+      "onderwerp": "Een cadeautje met hun naam erop",
+      "kop": "Een cadeautje met hun naam erop",
+      "tekst": "Een mail voor Sinterklaas en Kerst met de toppers uit de shop, elk met prijs en een eigen knop, en de 9,7 van WebwinkelKeur als geruststelling.",
+      "punten": [
+        "Vier toppers met prijs en knop",
+        "Kerstbal met naam als sfeerbeeld",
+        "Reviewscore onderaan"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
