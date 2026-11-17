@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "grounded-zwdwy",
+  "merk": "Grounded Craft Coffee",
+  "domein": "groundedcoffee.nl",
+  "lead_id": "2026-11-17-groundedcoffee.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6CCBBE",
+  "kop": "Licht gebrande koffie uit Rotterdam, in de feed",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Grounded, ik heb dit gemaakt omdat jullie flessen met die gekleurde etiketten op Instagram meteen opvallen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2445:3",
+      "titel": "Koffie met een lichtere toets",
+      "waarom": "Jullie eigen zin, met foto's van de bar tussen de woorden: het voelt als jullie zaak, niet als een webshop."
+    },
+    {
+      "node": "2445:17",
+      "titel": "Filter of espresso?",
+      "waarom": "Twee flessen naast elkaar helpen iemand die twijfelt om meteen te kiezen."
+    },
+    {
+      "node": "2445:39",
+      "titel": "Eén koffie, de hele dag",
+      "waarom": "De omniroast laat in één beeld zien dat Guji Lion bij elk moment van de dag past."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe branderij niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende zak bonen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinkmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "80+",
+        "label": "advertenties heeft Wakuli nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2445:61",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Grounded",
+    "kop": "Welkom bij Grounded",
+    "tekst": "Wie zich inschrijft voor Stay grounded krijgt meteen een welkomstmail: wie jullie zijn, hoe jullie licht branden in Rotterdam, en hoe de refill werkt.",
+    "punten": [
+      "Geisha Valley als eerste kennismaking",
+      "Kleine batches, licht gebrand, vers per bestelling",
+      "Uitleg over de 250 gr refill en de zak van 1 kg"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2445:61",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Grounded",
+      "kop": "Welkom bij Grounded",
+      "tekst": "Wie zich inschrijft voor Stay grounded krijgt meteen een welkomstmail: wie jullie zijn, hoe jullie licht branden in Rotterdam, en hoe de refill werkt.",
+      "punten": [
+        "Geisha Valley als eerste kennismaking",
+        "Kleine batches, licht gebrand, vers per bestelling",
+        "Uitleg over de 250 gr refill en de zak van 1 kg"
+      ]
+    },
+    {
+      "node": "2446:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Begonnen in de woonkamer",
+      "kop": "Begonnen in de woonkamer",
+      "tekst": "Het verhaal van de sample-roaster in jullie woonkamer, waarom jullie lichter branden, en Guji Lion uitgelicht met herkomst en smaak.",
+      "punten": [
+        "Jullie eigen foto's van de bar en de schappen",
+        "Guji Lion met roast, proces, herkomst en smaak",
+        "Afsluiting met jullie eigen zin: koffie met een lichtere toets"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
