@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "irisfloor-u97nt",
+  "merk": "Iris Floor Ceramics",
+  "domein": "irisfloor.nl",
+  "lead_id": "2026-11-17-irisfloor.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3A302A",
+  "kop": "Handgemaakte keramiek uit Velsen-Noord, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Iris Floor Ceramics, ik heb dit gemaakt omdat jullie rustige productfoto's op kraftpapier en de mokken in twee glazuren precies het soort beeld zijn waar mensen op Instagram voor blijven hangen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2399:2",
+      "titel": "Welke mok wordt de jouwe?",
+      "waarom": "Twee glazuren naast elkaar laten mensen in een tel kiezen, en de prijs van €18,80 staat er direct bij."
+    },
+    {
+      "node": "2399:22",
+      "titel": "Zo ontstaat een vaas",
+      "waarom": "Draaischijf, Iris zelf en het matte glazuur in vier ronde foto's laten zien waarom een handgemaakte set van vijf zijn prijs waard is."
+    },
+    {
+      "node": "2399:46",
+      "titel": "Gemaakt met aandacht",
+      "waarom": "Een hand die de mok vasthoudt met korte kenmerken eromheen voelt als een rustig moment, niet als reclame."
+    }
+  ],
+  "waarom": {
+    "niche": "keramiek en wonen",
+    "kop": "Zo groeien keramiek- en woonmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw keramiekmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, bijvoorbeeld voor een nieuwe collectie of workshop.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woon- en keramiekmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Serax nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2401:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in de studio van Iris Floor",
+    "kop": "Welkom bij Iris Floor",
+    "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: wie Iris is, waar alles gemaakt wordt en wat je van de nieuwsbrief kunt verwachten, met de set vazen als eerste product.",
+    "punten": [
+      "Handfoto van de Mok L Velvet Beige als hero",
+      "Drie redenen om te blijven lezen: nieuwe collecties, workshops, open atelier",
+      "Afsluiting met de set vazen mat wit (€111,20)"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2401:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in de studio van Iris Floor",
+      "kop": "Welkom bij Iris Floor",
+      "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: wie Iris is, waar alles gemaakt wordt en wat je van de nieuwsbrief kunt verwachten, met de set vazen als eerste product.",
+      "punten": [
+        "Handfoto van de Mok L Velvet Beige als hero",
+        "Drie redenen om te blijven lezen: nieuwe collecties, workshops, open atelier",
+        "Afsluiting met de set vazen mat wit (€111,20)"
+      ]
+    },
+    {
+      "node": "2401:39",
+      "type": "Merkverhaal",
+      "onderwerp": "Elk stuk begint met een klomp klei",
+      "kop": "Elk stuk begint met een klomp klei",
+      "tekst": "Een merkverhaal over Iris en het atelier in de oude Melkfabriek, met de set vazen uitgelicht en een uitnodiging voor de workshops.",
+      "punten": [
+        "Portret van Iris in de studio",
+        "Set vazen mat wit met vier labels",
+        "Workshopblok met foto uit het atelier"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "lolaby-tee7q",
+  "merk": "Little Lolaby",
+  "domein": "littlelolaby.com",
+  "lead_id": "2026-11-17-littlelolaby.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8C7A68",
+  "kop": "Drie nieuwe invalshoeken voor Little Lolaby.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Little Lolaby, ik heb dit gemaakt omdat jullie foto's van slapende baby's in de eigen pakjes precies het rustige beeld zijn dat op Instagram blijft hangen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2393:4",
+      "titel": "7 jaar stapelkorting",
+      "waarom": "De echte jubileumactie staat bovenaan in drie duidelijke stappen, met een rustige foto eronder, zodat het aanbod meteen klopt en toch bij het merk past."
+    },
+    {
+      "node": "2393:23",
+      "titel": "Het babynestje met een 9,7",
+      "waarom": "Zwevende kaartjes met de echte 9,7 van 396 klanten en de belangrijkste kenmerken nemen twijfel weg bij een cadeau van bijna honderd euro."
+    },
+    {
+      "node": "2393:43",
+      "titel": "Navy of chocolate?",
+      "waarom": "Twee nieuwe kleuren naast elkaar maken van kiezen een spelletje en laten zien dat er steeds iets nieuws bij komt."
+    }
+  ],
+  "waarom": {
+    "niche": "babykleding",
+    "kop": "Zo groeien babymerken op Instagram.",
+    "tekst": "Aanstaande ouders en kraamvisite ontdekken nieuwe babymerken vooral tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag, omdat dezelfde advertentie na een paar weken moe wordt. Een welkomstmail en een vaste nieuwsbrief zorgen dat ouders terugkomen als hun kleintje groeit.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Jollein nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2396:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Little Lolaby",
+    "kop": "Welkom bij Little Lolaby",
+    "tekst": "De mail die nieuwe inschrijvers direct na de aanmelding in de footer krijgen. Nu staat er wel een aanmeldformulier, maar zie ik geen welkomstmail of pop-up.",
+    "punten": [
+      "Hero met een newborn setje en een knop naar de geboortepakjes",
+      "Drie punten: duurzaam en handgemaakt, levering in 1 tot 5 dagen of afhalen, 9,7 uit 396 reviews",
+      "Tweede blok over het overslagmodel, zonder trekken over het hoofdje",
+      "Footer met navigatie in de eigen stijl"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2396:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Little Lolaby",
+      "kop": "Welkom bij Little Lolaby",
+      "tekst": "De mail die nieuwe inschrijvers direct na de aanmelding in de footer krijgen. Nu staat er wel een aanmeldformulier, maar zie ik geen welkomstmail of pop-up.",
+      "punten": [
+        "Hero met een newborn setje en een knop naar de geboortepakjes",
+        "Drie punten: duurzaam en handgemaakt, levering in 1 tot 5 dagen of afhalen, 9,7 uit 396 reviews",
+        "Tweede blok over het overslagmodel, zonder trekken over het hoofdje",
+        "Footer met navigatie in de eigen stijl"
+      ]
+    },
+    {
+      "node": "2396:51",
+      "type": "Productspotlight",
+      "onderwerp": "Een zacht plekje voor de eerste maanden",
+      "kop": "Een zacht plekje",
+      "tekst": "Een mail rond het nieuwe Babynestje Moon & Stars: sfeerfoto, een kort merkverhaal bij 7 jaar Little Lolaby, het nestje met vier labels en een afsluiting met het bijpassende wikkeldoek.",
+      "punten": [
+        "Hero met de babynestjes op bed",
+        "Labels: bamboekatoen met linnen, 85 x 50 cm, OEKO-TEX-hoes, uitneembaar matrasje",
+        "Prijs €99,99 en knop naar de babynestjes",
+        "Afsluiting: wikkeldoek en deken in hetzelfde dessin"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
