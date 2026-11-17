@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "flirtjewels-wfwga",
+  "merk": "Flirt Jewels",
+  "domein": "flirtjewels.nl",
+  "lead_id": "2026-11-17-flirtjewels.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A47E4E",
+  "kop": "Handgemaakte sieraden van Flirt Jewels, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Corinne, ik heb dit gemaakt omdat je sieraden, zoals de Lothorien-ring met een blad van topaas tussen gouden takjes, precies het soort detail hebben dat tijdens het scrollen opvalt. Alles is gemaakt met je eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2323:3",
+      "titel": "Een blad van topaas",
+      "waarom": "Een close-up met korte labels laat het handwerk zien dat je op een kleine foto mist, en daar draait een sieraad uit eigen atelier om."
+    },
+    {
+      "node": "2323:24",
+      "titel": "Zilver of goud?",
+      "waarom": "Twee kroontjes naast elkaar maken kiezen makkelijk en laten in één beeld zien hoe breed de botanische lijn is."
+    },
+    {
+      "node": "2323:47",
+      "titel": "Op tijd voor kerst",
+      "waarom": "Een kerstmoment geeft mensen een reden om nu te bestellen, en het grote woordmerk over de close-up maakt het merk meteen herkenbaar."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2323:58",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Flirt Jewels",
+    "kop": "Welkom bij Flirt Jewels",
+    "tekst": "Fijn dat je er bent. Elk sieraad maak ik met de hand in mijn eigen atelier in Zoetermeer. Geen massaproductie, maar unieke stukken.",
+    "punten": [
+      "Met de hand gemaakt in eigen atelier",
+      "Goud en zilver, 14 en 18 karaat",
+      "Op maat, ook van erfstukken"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2323:58",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Flirt Jewels",
+      "kop": "Welkom bij Flirt Jewels",
+      "tekst": "Fijn dat je er bent. Elk sieraad maak ik met de hand in mijn eigen atelier in Zoetermeer. Geen massaproductie, maar unieke stukken.",
+      "punten": [
+        "Met de hand gemaakt in eigen atelier",
+        "Goud en zilver, 14 en 18 karaat",
+        "Op maat, ook van erfstukken"
+      ]
+    },
+    {
+      "node": "2323:88",
+      "type": "Merkverhaal",
+      "onderwerp": "Don't be like the rest of them, darling",
+      "kop": "Don't be like the rest of them, darling.",
+      "tekst": "Elk sieraad wordt met de hand gemaakt in het eigen atelier van Corinne. Geen massaproductie, maar unieke stukken, met een uitgelichte ring en een blok over erfstukken die opnieuw gesmeed worden.",
+      "punten": [
+        "Uitgelicht: Hidden forest ring met labradoriet",
+        "Erfstukken en trouwringen opnieuw gesmeed",
+        "Studio op afspraak in Zoetermeer"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
