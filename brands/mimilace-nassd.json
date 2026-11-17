@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "mimilace-nassd",
+  "merk": "Mimi & Lace",
+  "domein": "mimilace.nl",
+  "lead_id": "2026-11-17-mimilace.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B96C77",
+  "kop": "Pyjama's met kant, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Mimi & Lace, ik heb dit gemaakt omdat jullie pyjama's zoveel kleine details hebben, van het kraagje tot de satijnen strik, en die zie je pas goed van dichtbij. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2511:3",
+      "titel": "Nieuw: Winter droom",
+      "waarom": "Labels bij het kraagje, de kant en de boordjes laten zien waarom deze pyjama meer is dan een print, net op tijd voor Sint en kerst."
+    },
+    {
+      "node": "2511:31",
+      "titel": "Droom Badjas, €59,95",
+      "waarom": "Een duidelijke prijs boven jullie eigen modelfoto helpt ouders sneller kiezen, en het grote logo bouwt herkenning op."
+    },
+    {
+      "node": "2511:40",
+      "titel": "Pyjama of nachtjurk?",
+      "waarom": "Twee varianten uit dezelfde collectie naast elkaar laten mensen kiezen in plaats van doorscrollen."
+    }
+  ],
+  "waarom": {
+    "niche": "kinderkleding",
+    "kop": "Zo groeien kinderkledingmerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw kindermerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat ouders terugkomen voor de volgende maat of het volgende cadeau.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kinderkledingmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Little Label nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2514:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Mimi & Lace",
+    "kop": "Welkom bij Mimi & Lace",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: het verhaal achter de naam, de nieuwe collectie en waarom ouders voor jullie kiezen.",
+    "punten": [
+      "Mimi, de dochter van Margriet, als begin van het verhaal",
+      "Voor 13:00 besteld vandaag verzonden, gratis verzending vanaf €100 en 14 dagen retour",
+      "Jullie eigen detailfoto van kant en strik als tweede blok"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2514:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Mimi & Lace",
+      "kop": "Welkom bij Mimi & Lace",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: het verhaal achter de naam, de nieuwe collectie en waarom ouders voor jullie kiezen.",
+      "punten": [
+        "Mimi, de dochter van Margriet, als begin van het verhaal",
+        "Voor 13:00 besteld vandaag verzonden, gratis verzending vanaf €100 en 14 dagen retour",
+        "Jullie eigen detailfoto van kant en strik als tweede blok"
+      ]
+    },
+    {
+      "node": "2514:58",
+      "type": "Productspotlight",
+      "onderwerp": "Droomt jouw kleintje ook van de kermis?",
+      "kop": "Droomt jouw kleintje ook van de kermis?",
+      "tekst": "Een collectiemail rond de Droom Carrousel: pyjama, nachtjurkje, badjas en scrunchie in één overzicht, met jullie eigen foto's.",
+      "punten": [
+        "Vier producten met prijs en een knop per product",
+        "De 3 reviews met 5 sterren bij de pyjama als bewijs",
+        "Een tip voor zusjes, zodat er vaker twee stuks in het mandje komen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
