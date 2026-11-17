@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "pacamara-dxc5p",
+  "merk": "Pacamara Coffee Roasters",
+  "domein": "pacamaracoffee.nl",
+  "lead_id": "2026-11-17-pacamaracoffee.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1A8A6D",
+  "kop": "Verse koffie uit Halsteren, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Pacamara, ik heb dit gemaakt omdat jullie elke maandag en donderdag zelf branden op groene stroom, en dat verhaal zie je nog bijna nergens terug buiten jullie site. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2309:4",
+      "titel": "Samengesteld uit",
+      "waarom": "Ronde foto's van groene bonen, de branderij en een cappuccino laten in één oogopslag zien waar de Signature Blend vandaan komt en waar hij voor is."
+    },
+    {
+      "node": "2309:28",
+      "titel": "Je winterpakket belt",
+      "waarom": "Een herkenbaar belscherm met jullie echte winterpakket maakt er een cadeaumoment van, met de prijs er direct bij."
+    },
+    {
+      "node": "2309:40",
+      "titel": "Jouw koffieritme",
+      "waarom": "Schakelaars voor elke 2, 3 of 4 weken maken het abonnement tastbaar, met de 5% korting als duidelijk voordeel."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe branderij niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers hun volgende zak ook bij jullie bestellen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "80+",
+        "label": "advertenties heeft Wakuli nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2309:66",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Pacamara: zo werkt het bij ons",
+    "kop": "Welkom bij Pacamara",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers op het nieuwsbriefveld in de footer: wie jullie zijn, wanneer jullie branden en hoe bestellen en afhalen werkt.",
+    "punten": [
+      "Signature Blend groot in beeld met een knop naar de koffiebonen",
+      "Drie vaste punten: vers gebrand op maandag en donderdag, gratis verzending vanaf €40, afhalen in Halsteren of bij Lunchcafé Lies",
+      "Tweede blok over Vincent en de barista- en latte-artworkshops"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2309:66",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Pacamara: zo werkt het bij ons",
+      "kop": "Welkom bij Pacamara",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers op het nieuwsbriefveld in de footer: wie jullie zijn, wanneer jullie branden en hoe bestellen en afhalen werkt.",
+      "punten": [
+        "Signature Blend groot in beeld met een knop naar de koffiebonen",
+        "Drie vaste punten: vers gebrand op maandag en donderdag, gratis verzending vanaf €40, afhalen in Halsteren of bij Lunchcafé Lies",
+        "Tweede blok over Vincent en de barista- en latte-artworkshops"
+      ]
+    },
+    {
+      "node": "2309:107",
+      "type": "Merkverhaal",
+      "onderwerp": "De koffie die we zelf het liefst zetten",
+      "kop": "De koffie die we zelf het liefst zetten",
+      "tekst": "Een productspotlight voor de nieuwe Signature Blend met het verhaal achter de twee herkomsten en de echte specificaties van de productpagina.",
+      "punten": [
+        "Hero met de cappuccino's van jullie eigen werkblad",
+        "Rwanda natural en Colombia washed in gewone woorden uitgelegd",
+        "Herkomst, verwerking, hoogte en smaaktonen rond het label",
+        "Afsluiter met maling, 350 g €12,95, 1000 g €35,95 en 5% korting met een abonnement"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

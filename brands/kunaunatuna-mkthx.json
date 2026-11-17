@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "kunaunatuna-mkthx",
+  "merk": "Kuna Una Tuna Games",
+  "domein": "kunaunatuna.nl",
+  "lead_id": "2026-11-17-kunaunatuna.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#EE252B",
+  "kop": "Partygames die zelfs je oma snapt, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Kuna Una Tuna, ik heb dit gemaakt omdat jullie spellen dezelfde grappige, eigenwijze toon hebben als goede advertenties op Instagram. Alles is gemaakt met jullie eigen beelden en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2312:4",
+      "titel": "Koop dit spel niet",
+      "waarom": "Een omgekeerde kop past bij jullie humor en laat mensen stoppen met scrollen, met de echte prijs en drie redenen eronder."
+    },
+    {
+      "node": "2312:29",
+      "titel": "Welke spelavond word jij?",
+      "waarom": "Twee spellen naast elkaar maken kiezen speels: grof en grappig of snel en tactisch, elk met de echte prijs."
+    },
+    {
+      "node": "2312:50",
+      "titel": "Je spelavond belt",
+      "waarom": "Een herkenbaar belscherm met Feesboek en jullie eigen '40.000+ verkocht' maakt van een spel een avond waar je naar uitkijkt."
+    }
+  ],
+  "waarom": {
+    "niche": "spellen en cadeaus",
+    "kop": "Zo groeien spellenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw partyspel niet in de winkel, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe spelers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die spelers terugkomen voor de uitbreidingen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij spellen- en cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Little Secret nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2312:60",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de K.U.T. Club!",
+    "kop": "Welkom bij de K.U.T. Club!",
+    "tekst": "De eerste mail na inschrijving via jullie eigen 'Join de K.U.T. Club'-blok: wie jullie zijn en welke spellen het hardst gaan.",
+    "punten": [
+      "Opening met jullie eigen beeld van logo en drie spellen",
+      "Gaan het hardst: Feesboek, Dumpen of Daten, Shitfluencers en Kingsen 2.0 met prijs",
+      "Afsluiter in jullie eigen toon: geen spam of andere onzin"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2312:60",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de K.U.T. Club!",
+      "kop": "Welkom bij de K.U.T. Club!",
+      "tekst": "De eerste mail na inschrijving via jullie eigen 'Join de K.U.T. Club'-blok: wie jullie zijn en welke spellen het hardst gaan.",
+      "punten": [
+        "Opening met jullie eigen beeld van logo en drie spellen",
+        "Gaan het hardst: Feesboek, Dumpen of Daten, Shitfluencers en Kingsen 2.0 met prijs",
+        "Afsluiter in jullie eigen toon: geen spam of andere onzin"
+      ]
+    },
+    {
+      "node": "2312:104",
+      "type": "Merkverhaal",
+      "onderwerp": "Wie zitten er achter Kuna Una Tuna?",
+      "kop": "Wie zitten er achter Kuna Una Tuna?",
+      "tekst": "Een mail over Daan en Yerassimo, van KING ZEN tot Feesboek, met daarna de nieuwe Kakhiel-uitbreiding.",
+      "punten": [
+        "Opening met jullie eigen banner en het verhaal van de oprichters",
+        "Feesboek met labels: Nederlands, FSC-papier, 100% vrij van plastic, 40.000+ verkocht",
+        "Afsluiter: de Kakhiel-uitbreiding voor €11,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

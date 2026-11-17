@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "growly-drqbx",
+  "merk": "GrowlyGames",
+  "domein": "growlygames.com",
+  "lead_id": "2026-11-17-growlygames.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#F7941D",
+  "kop": "Schapen, bommen en chaos, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team GrowlyGames, ik heb dit gemaakt omdat Sheep Showdown precies het soort spel is dat mensen tijdens het scrollen willen hebben voor de volgende spelavond, zeker met jullie Sinterklaas-deal. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2313:4",
+      "titel": "Samen voor €25",
+      "waarom": "Jullie echte Sinterklaas-deal groot in beeld boven een foto van een spelavond, met een duidelijke einddatum die mensen laat beslissen."
+    },
+    {
+      "node": "2313:16",
+      "titel": "Kies je chaos",
+      "waarom": "Basisspel en uitbreiding naast elkaar met hun prijzen maken meteen duidelijk wat je koopt en waarom je ze allebei wilt."
+    },
+    {
+      "node": "2313:39",
+      "titel": "Schapen. Bommen. Chaos.",
+      "waarom": "Grote woorden met kleine fotootjes van het spel vertellen in drie seconden waar Sheep Showdown over gaat."
+    }
+  ],
+  "waarom": {
+    "niche": "spellen",
+    "kop": "Zo groeien spellenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw spel niet in de winkel, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe spelers en houden hun kosten per aankoop laag, zeker richting Sinterklaas en kerst. Een vaste nieuwsbrief zorgt dat die spelers ook de uitbreiding kopen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij spellen- en cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Little Secret nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2313:53",
+    "type": "Actie",
+    "onderwerp": "Sinterklaas-deal: Sheep Showdown + Woolini voor €25",
+    "kop": "Sinterklaas-deal",
+    "tekst": "Een actiemail rond jullie echte Sinterklaas-aanbod: het basisspel en de Woolini-uitbreiding samen voor €25 tot en met 5 december.",
+    "punten": [
+      "Hero met beide speldozen en een knop naar de deal",
+      "Drie redenen in één oogopslag: 2 tot 6 spelers, uitgelegd in 2 minuten, 15 minuten per potje",
+      "Afsluiter met de echte prijs (€30,94 voor €25,00) en gratis verzending"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2313:53",
+      "type": "Actie",
+      "onderwerp": "Sinterklaas-deal: Sheep Showdown + Woolini voor €25",
+      "kop": "Sinterklaas-deal",
+      "tekst": "Een actiemail rond jullie echte Sinterklaas-aanbod: het basisspel en de Woolini-uitbreiding samen voor €25 tot en met 5 december.",
+      "punten": [
+        "Hero met beide speldozen en een knop naar de deal",
+        "Drie redenen in één oogopslag: 2 tot 6 spelers, uitgelegd in 2 minuten, 15 minuten per potje",
+        "Afsluiter met de echte prijs (€30,94 voor €25,00) en gratis verzending"
+      ]
+    },
+    {
+      "node": "2313:91",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de kudde",
+      "kop": "Welkom bij de kudde",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers op 'Mis geen nieuw spel': wie Vincent en Jesse zijn, welke spellen er zijn en wat er nog aankomt.",
+      "punten": [
+        "Foto van Vincent en Jesse met het verhaal 'van keukentafel tot kudde'",
+        "Sheep Showdown, Woolini en de Chaos Combi met hun echte prijzen",
+        "Teaser voor Dr. BOOM'R, verwacht in 2027"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
