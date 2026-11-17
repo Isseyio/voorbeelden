@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "pootjes-p546z",
+  "merk": "Pootjes Plezier",
+  "domein": "pootjesplezier.nl",
+  "lead_id": "2026-11-17-pootjesplezier.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#375799",
+  "kop": "Handsfree wandelen, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Pootjes Plezier, ik heb dit gemaakt omdat je bij jullie zelf je riem samenstelt, en die keuze tussen handsfree en handvat laat zich mooi zien in een advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2498:4",
+      "titel": "Echte reviews",
+      "waarom": "Echte woorden van klanten over een wandelfoto geven vertrouwen aan iemand die jullie nog niet kent."
+    },
+    {
+      "node": "2498:55",
+      "titel": "Zo maak ik jouw riem",
+      "waarom": "Laat zien waar je uit kiest, touw, PawTex en afwerking, zodat maatwerk meteen concreet wordt."
+    },
+    {
+      "node": "2498:77",
+      "titel": "Handsfree of handvat",
+      "waarom": "Twee manieren naast elkaar maken de keuze makkelijk en laten de riem in gebruik zien."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien huisdierenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk voor hun hond niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Dierenoppas Amersfoort nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2498:98",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Pootjes Plezier",
+    "kop": "Welkom bij Pootjes Plezier",
+    "tekst": "Fijn dat je er bent. Ik ben Lianne. Sinds november 2023 maak ik hondenriemen op maat, met de hand, in Nederland. Hier krijg je praktische tips en een kijkje achter de schermen.",
+    "punten": [
+      "Handgemaakt door Lianne zelf",
+      "Op maat: lengte, kleur en materiaal",
+      "Meestal binnen 2–7 werkdagen gemaakt",
+      "Handsfree of met handvat, in touw of PawTex"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2498:98",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Pootjes Plezier",
+      "kop": "Welkom bij Pootjes Plezier",
+      "tekst": "Fijn dat je er bent. Ik ben Lianne. Sinds november 2023 maak ik hondenriemen op maat, met de hand, in Nederland. Hier krijg je praktische tips en een kijkje achter de schermen.",
+      "punten": [
+        "Handgemaakt door Lianne zelf",
+        "Op maat: lengte, kleur en materiaal",
+        "Meestal binnen 2–7 werkdagen gemaakt",
+        "Handsfree of met handvat, in touw of PawTex"
+      ]
+    },
+    {
+      "node": "2498:129",
+      "type": "Merkverhaal",
+      "onderwerp": "Een riem die bij jou past. Niet andersom.",
+      "kop": "Een riem die bij jou past. Niet andersom.",
+      "tekst": "Toen Tommie in 2022 bij Lianne kwam, merkte ze dat gewone riemen zwaar en onhandig waren. Als grafisch ontwerper besloot ze zelf een betere riem te ontwerpen en te maken. Sinds november 2023 maakt ze ze voor iedereen.",
+      "punten": [
+        "De handsfree riem: om je heupen of schouder, of met het handvat",
+        "PawTex in leerlook, waterafstotend, in veel kleuren",
+        "Vanaf €44,95",
+        "Gratis verzending vanaf €50 (NL)"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
