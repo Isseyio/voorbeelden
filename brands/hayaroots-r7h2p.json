@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "hayaroots-r7h2p",
+  "merk": "Haya Roots",
+  "domein": "hayaroots.com",
+  "lead_id": "2026-11-17-hayaroots.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#52572E",
+  "kop": "Mystic Rose, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Haya Roots, ik heb dit gemaakt omdat jullie eerste flesjes Mystic Rose nog met de hand gevuld werden, en dat verhaal zie je nog weinig terug in advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2345:3",
+      "titel": "Eén olie, geen crème",
+      "waarom": "De hand met het flesje laat meteen zien wat je koopt, met de drie hoofdingrediënten er direct onder."
+    },
+    {
+      "node": "2345:25",
+      "titel": "Echte reviews",
+      "waarom": "Drie reviews van echte klanten naast een herkenbaar gezicht geven twijfelaars het vertrouwen om door te klikken."
+    },
+    {
+      "node": "2345:55",
+      "titel": "Elke avond, één ritueel",
+      "waarom": "Een tijdlijn van direct tot week 4 laat zien dat het om een ritueel gaat, en maakt het abonnement logisch."
+    }
+  ],
+  "waarom": {
+    "niche": "beauty",
+    "kop": "Zo groeien beautymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw verzorgingsmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, zeker bij een product dat je elke paar maanden opnieuw nodig hebt.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij beautymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Loveli nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2348:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Haya Roots",
+    "kop": "Welkom bij Haya Roots",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wat Mystic Rose is, waarom er alleen pure, koudgeperste oliën in zitten, en hoe je je avondritueel begint.",
+    "punten": [
+      "100% natuurlijk, biologisch en koudgeperst",
+      "Dermatologisch getest op een gevoelige huid",
+      "Vegan, zonder parfum, parabenen en siliconen",
+      "Tweede blok: zo breng je de olie aan"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2348:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Haya Roots",
+      "kop": "Welkom bij Haya Roots",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wat Mystic Rose is, waarom er alleen pure, koudgeperste oliën in zitten, en hoe je je avondritueel begint.",
+      "punten": [
+        "100% natuurlijk, biologisch en koudgeperst",
+        "Dermatologisch getest op een gevoelige huid",
+        "Vegan, zonder parfum, parabenen en siliconen",
+        "Tweede blok: zo breng je de olie aan"
+      ]
+    },
+    {
+      "node": "2348:39",
+      "type": "Merkverhaal",
+      "onderwerp": "Van handgevuld naar jouw ritueel",
+      "kop": "Van handgevuld naar jouw ritueel",
+      "tekst": "Een mail over hoe Haya Roots begon: van met de hand gevulde flesjes in 2020 tot de nieuwe naam in 2025, met de ingrediënten van Mystic Rose en het abonnement als afsluiting.",
+      "punten": [
+        "Tijdlijn 2020, 2022, 2023 en 2025",
+        "Vier ingrediënten met uitleg rond het flesje",
+        "Eenmalig €44,95 of €38,21 met abonnement"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
