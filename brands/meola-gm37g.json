@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "meola-gm37g",
+  "merk": "Meola Leather Dogs",
+  "domein": "meolaleatherdogs.nl",
+  "lead_id": "2026-11-17-meolaleatherdogs.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#9A5B2E",
+  "kop": "Leren Y-tuigen op maat, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Meola Leather Dogs, ik heb dit gemaakt omdat jullie tuigen met een naamplaatje op de foto's meteen opvallen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2479:4",
+      "titel": "Op maat in 1 week",
+      "waarom": "Een echte, tijdelijke actie bovenaan geeft mensen een reden om nu te bestellen in plaats van later."
+    },
+    {
+      "node": "2479:14",
+      "titel": "Eerst passen",
+      "waarom": "Het gratis meetlinttuig haalt de grootste twijfel bij een tuig op maat weg: past het wel?"
+    },
+    {
+      "node": "2479:33",
+      "titel": "Met haar naam erop",
+      "waarom": "Een close-up met uitleg bij het naamplaatje, het leer en de gesp laat zien waarom het tuig zijn prijs waard is."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien huisdierenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk voor hun hond niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Dierenoppas Amersfoort nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2479:59",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Meola Leather Dogs",
+    "kop": "Welkom bij Meola Leather Dogs",
+    "tekst": "Fijn dat je er bent. Elk tuig, elke halsband en elke lijn maken we met de hand in ons atelier in Alblasserdam. Twijfel je over de maat? Vraag het gratis meetlinttuig aan.",
+    "punten": [
+      "Soepel leer dat voelt als een tweede huidje",
+      "Verstelbaar op 3 plekken",
+      "Personaliseren met naam en telefoonnummer"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2479:59",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Meola Leather Dogs",
+      "kop": "Welkom bij Meola Leather Dogs",
+      "tekst": "Fijn dat je er bent. Elk tuig, elke halsband en elke lijn maken we met de hand in ons atelier in Alblasserdam. Twijfel je over de maat? Vraag het gratis meetlinttuig aan.",
+      "punten": [
+        "Soepel leer dat voelt als een tweede huidje",
+        "Verstelbaar op 3 plekken",
+        "Personaliseren met naam en telefoonnummer"
+      ]
+    },
+    {
+      "node": "2479:89",
+      "type": "Merkverhaal",
+      "onderwerp": "Het begon met Moos",
+      "kop": "Het begon met Moos.",
+      "tekst": "Meola begon in 2018 met Moos, de hond van Amy. Een Y-tuig geeft je hond de meeste bewegingsvrijheid, en omdat elk tuig op maat wordt gemaakt van soepel leer, schuurt er niets.",
+      "punten": [
+        "Naamplaatje met naam en telefoonnummer",
+        "Twee lagen leer, gestikt",
+        "Klikgespen, makkelijk aan en uit",
+        "Op maat vanaf €80"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "sokkenmakers-6ypnm",
+  "merk": "Sokkenmakers",
+  "domein": "sokkenmakers.nl",
+  "lead_id": "2026-11-17-sokkenmakers.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#b8936a",
+  "kop": "Stedensokken uit Utrecht, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Sokkenmakers, ik heb dit gemaakt omdat jullie stedensokken een mooi verhaal hebben: de bekendste gebouwen van je eigen stad aan je voeten. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2480:17",
+      "titel": "Welke stad draag jij?",
+      "waarom": "Twee steden naast elkaar laten meteen zien dat er voor bijna iedereen een eigen sok is."
+    },
+    {
+      "node": "2480:39",
+      "titel": "Gratis vanaf 2 paar",
+      "waarom": "Het echte voordeel van twee paar groot in beeld verhoogt de orderwaarde, met een foto die laat zien hoe de sok gedragen staat."
+    },
+    {
+      "node": "2480:50",
+      "titel": "Zo is de Utrecht sok gemaakt",
+      "waarom": "De details op een rij (gebouwen, katoen, maten, retour) beantwoorden de vragen die iemand heeft voordat hij bestelt."
+    }
+  ],
+  "waarom": {
+    "niche": "sokken",
+    "kop": "Zo groeien sokkenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sokkenmerk niet via Google, maar tijdens het scrollen. Een advertentie wordt na een paar weken moe, dus merken die elke week nieuwe varianten testen houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat kopers terugkomen voor een tweede stad of een cadeau.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sokkenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Happy Socks nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2482:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Sokkenmakers",
+    "kop": "Welkom bij Sokkenmakers",
+    "tekst": "Een welkomstmail achter de bestaande pop-up met 10% korting op het eerste paar: de stad centraal, met de voordelen die nu nog verstopt zitten op de productpagina.",
+    "punten": [
+      "10% welkomstkorting op het eerste paar",
+      "Gratis verzending vanaf 2 paar en 30 dagen bedenktijd",
+      "Doorklik naar alle 25 steden"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2482:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Sokkenmakers",
+      "kop": "Welkom bij Sokkenmakers",
+      "tekst": "Een welkomstmail achter de bestaande pop-up met 10% korting op het eerste paar: de stad centraal, met de voordelen die nu nog verstopt zitten op de productpagina.",
+      "punten": [
+        "10% welkomstkorting op het eerste paar",
+        "Gratis verzending vanaf 2 paar en 30 dagen bedenktijd",
+        "Doorklik naar alle 25 steden"
+      ]
+    },
+    {
+      "node": "2482:43",
+      "type": "Stedenmail",
+      "onderwerp": "Welke stad is van jou?",
+      "kop": "Welke stad is van jou?",
+      "tekst": "Vier stedensokken op een rij, elk met de gebouwen die erop staan, en een cadeaublok voor de feestdagen.",
+      "punten": [
+        "Utrecht, Amsterdam, Den Haag en Den Bosch uitgelicht",
+        "Per sok de gebouwen en de prijs",
+        "Cadeautip met het kraftlabel"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
