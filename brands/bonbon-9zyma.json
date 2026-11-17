@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "bonbon-9zyma",
+  "merk": "BonBonButter",
+  "domein": "bonbonbutter.com",
+  "lead_id": "2026-11-17-bonbonbutter.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#483022",
+  "kop": "Pure cacaoboter, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team BonBonButter, ik heb dit gemaakt omdat jullie cacaoboter zoveel kan, van ganache tot body butter, en dat verhaal zie je nog nergens in advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2350:3",
+      "titel": "Eén emmer, vier toepassingen",
+      "waarom": "Vier ronde foto's laten in één oogopslag zien dat je dezelfde emmer gebruikt voor chocolade, bakken, huid en zeep."
+    },
+    {
+      "node": "2350:25",
+      "titel": "Gewoon puur",
+      "waarom": "Eén groot woord en een zoekbalk sluiten aan op waar mensen zelf naar zoeken, met alle drie de formaten eronder."
+    },
+    {
+      "node": "2350:43",
+      "titel": "Per kilo voordeliger",
+      "waarom": "Twee emmers naast elkaar maken het prijsverschil per kilo zichtbaar en duwen vaste bakkers naar de 2 kg."
+    }
+  ],
+  "waarom": {
+    "niche": "food",
+    "kop": "Zo groeien foodmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, met recepten en toepassingen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun emmer leeg is.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "80+",
+        "label": "advertenties heeft Baktotaal nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2351:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij BonBonButter",
+    "kop": "Welkom bij BonBonButter",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wat pure, ongeraffineerde cacaoboter is, waar die vandaan komt en waar je hem allemaal voor gebruikt.",
+    "punten": [
+      "100% puur, zonder toevoegingen en food grade",
+      "Veelzijdig: bakken, chocolade maken, huid en DIY",
+      "Snel in huis, vanuit Nederland verstuurd",
+      "Tweede blok: van boon tot emmer, elke batch getest"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2351:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij BonBonButter",
+      "kop": "Welkom bij BonBonButter",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wat pure, ongeraffineerde cacaoboter is, waar die vandaan komt en waar je hem allemaal voor gebruikt.",
+      "punten": [
+        "100% puur, zonder toevoegingen en food grade",
+        "Veelzijdig: bakken, chocolade maken, huid en DIY",
+        "Snel in huis, vanuit Nederland verstuurd",
+        "Tweede blok: van boon tot emmer, elke batch getest"
+      ]
+    },
+    {
+      "node": "2351:29",
+      "type": "Merkverhaal",
+      "onderwerp": "Waar onze cacaoboter vandaan komt",
+      "kop": "Pure cacaoboter, met herkomst Ghana",
+      "tekst": "Een mail over het verhaal achter het product: de plantages, de labtest per batch en de verzegelde emmer, met daarna een blok vol toepassingen.",
+      "punten": [
+        "Ons verhaal: van plantage tot jouw keuken",
+        "Eén ingrediënt, herkomst Ghana, food grade, ongeraffineerd",
+        "Afsluiter: één emmer, eindeloos veel recepten",
+        "Vanaf €15,95 voor 400 g, gratis verzending vanaf €35"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
