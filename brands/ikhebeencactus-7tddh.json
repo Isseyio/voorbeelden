@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "ikhebeencactus-7tddh",
+  "merk": "Ikhebeencactus",
+  "domein": "ikhebeencactus.nl",
+  "lead_id": "2026-11-17-ikhebeencactus.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3A2922",
+  "kop": "Cactussen uit eigen kas, op Instagram en in de mailbox.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Ikhebeencactus, ik heb dit gemaakt omdat elke plant bij jullie uit de eigen kas in de tuin komt, en dat zie je nu nog weinig terug in advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2463:4",
+      "titel": "Geen groene vingers nodig",
+      "waarom": "Een grote, eerlijke kop haalt de twijfel weg bij mensen die denken dat ze elke plant doodmaken."
+    },
+    {
+      "node": "2463:21",
+      "titel": "Drie aeoniums naast elkaar",
+      "waarom": "Drie soorten met prijs laten in één beeld zien hoeveel keuze er is, vanaf €7,95."
+    },
+    {
+      "node": "2463:45",
+      "titel": "Je agave belt",
+      "waarom": "Een speels beeld valt op tussen alle gewone plantenfoto's en laat de prijs van €6,50 meteen zien."
+    }
+  ],
+  "waarom": {
+    "niche": "planten",
+    "kop": "Zo groeien plantenwebshops op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe plantenwebshop niet via Google, maar tijdens het scrollen. Webshops die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende plant.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woon- en plantenwebshops vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "150+",
+        "label": "advertenties heeft Easyplants nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2464:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Ikhebeencactus",
+    "kop": "Welkom bij Ikhebeencactus",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, dat elke plant uit jullie eigen kas komt en hoe je goed begint met je nieuwe plant.",
+    "punten": [
+      "Vers uit de kas, zelfde dag verstuurd en het cadeauplantje als drie vaste beloftes",
+      "Echte productfoto als hero en een kaart met de cactus- en vetplantvoeding",
+      "Duidelijke knop naar alle planten als eerste stap"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2464:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Ikhebeencactus",
+      "kop": "Welkom bij Ikhebeencactus",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, dat elke plant uit jullie eigen kas komt en hoe je goed begint met je nieuwe plant.",
+      "punten": [
+        "Vers uit de kas, zelfde dag verstuurd en het cadeauplantje als drie vaste beloftes",
+        "Echte productfoto als hero en een kaart met de cactus- en vetplantvoeding",
+        "Duidelijke knop naar alle planten als eerste stap"
+      ]
+    },
+    {
+      "node": "2464:32",
+      "type": "Merkverhaal",
+      "onderwerp": "Van één cactus naar een hele kas",
+      "kop": "Van één cactus naar een hele kas",
+      "tekst": "Het verhaal van Bo's eerste cactus, de kas in de tuin en hoe Instagram uitgroeide tot een webshop, met de Aeonium 'Pink Witch' uitgelicht.",
+      "punten": [
+        "Merkverhaal over Bo en Chanel met jullie eigen sfeerfoto",
+        "Productblok met labels rond de Pink Witch van €12,95",
+        "Afsluiting in jullie donkerbruin met de gratis plantvoeding boven €55"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
