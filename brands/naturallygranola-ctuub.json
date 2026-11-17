@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "naturallygranola-ctuub",
+  "merk": "Naturally Granola",
+  "domein": "naturallygranola.com",
+  "lead_id": "2026-11-17-naturallygranola.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1A3A92",
+  "kop": "Award-winnende granola uit Rotterdam, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Naturally Granola, ik heb dit gemaakt omdat granola met twee Great Taste-sterren en grote chunks die je echt ziet precies is wat mensen tijdens het scrollen laat stoppen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2300:4",
+      "titel": "Wat zit erin",
+      "waarom": "Ronde foto's van de echte ingrediënten naast de navulzak laten in één blik zien waarom Belgian Dark Chocolate een Great Taste-ster kreeg."
+    },
+    {
+      "node": "2300:27",
+      "titel": "De hele dag",
+      "waarom": "Jullie eigen bowls tussen de woorden maken van de tagline een beeld, met de drie potten en de gratis-verzendgrens eronder."
+    },
+    {
+      "node": "2300:45",
+      "titel": "Bak het niet zelf",
+      "waarom": "Een omgekeerde kop met een knipoog laat stoppen met scrollen en verkoopt daarna het echte punt: tien jaar receptwerk in een zak Signature."
+    }
+  ],
+  "waarom": {
+    "niche": "granola",
+    "kop": "Zo groeien granolamerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw ontbijtmerk niet in de supermarkt, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een nieuwe pot.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Oot nu tegelijk live, Pal & Leo meer dan 20"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2301:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Naturally Granola",
+    "kop": "Welkom bij Naturally Granola",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: de drie potten in beeld, waarom mensen blijven terugkomen en het verhaal van hoe het met een ontbijt begon.",
+    "punten": [
+      "Herokaart in jullie blauw met de drie potten en een knop naar de smaken",
+      "Drie redenen: Great Taste-sterren, herbruikbare potten en gratis verzending vanaf €49",
+      "Afsluiter: het verhaal van Tiara, van schoolbestellingen tot de samenwerking met Gert De Mangeleer"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2301:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Naturally Granola",
+      "kop": "Welkom bij Naturally Granola",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: de drie potten in beeld, waarom mensen blijven terugkomen en het verhaal van hoe het met een ontbijt begon.",
+      "punten": [
+        "Herokaart in jullie blauw met de drie potten en een knop naar de smaken",
+        "Drie redenen: Great Taste-sterren, herbruikbare potten en gratis verzending vanaf €49",
+        "Afsluiter: het verhaal van Tiara, van schoolbestellingen tot de samenwerking met Gert De Mangeleer"
+      ]
+    },
+    {
+      "node": "2301:54",
+      "type": "Smakenoverzicht",
+      "onderwerp": "Welke granola past bij jou?",
+      "kop": "Welke granola past bij jou?",
+      "tekst": "Een mail die de drie smaken naast elkaar zet, elk met een eigen korte belofte, prijs en knop, en afsluit met jullie reviewscore.",
+      "punten": [
+        "Signature voor notenliefhebbers, Belgian Dark Chocolate voor de chocofans, Floral Fig notenvrij",
+        "Echte prijzen per 300 gram, met de Great Taste-sterren bij Signature en Belgian Dark Chocolate",
+        "Afsluiter: 4,82 van 5 uit 79 geverifieerde reviews"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
