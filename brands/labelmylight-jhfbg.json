@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "labelmylight-jhfbg",
+  "merk": "Label my Light",
+  "domein": "labelmylight.com",
+  "lead_id": "2026-11-17-labelmylight.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A9533F",
+  "kop": "Drie advertenties voor de geurkaarsworkshop van Label my Light",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Label my Light, ik heb dit gemaakt omdat die kaarsen met een handgeschreven label en 'Handmade by' me meteen bijbleven. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2370:149",
+      "titel": "Gemaakt met",
+      "waarom": "Laat in één beeld zien wat je in de workshop zelf doet: was, geurmix, lont en je eigen label."
+    },
+    {
+      "node": "2370:172",
+      "titel": "Prijs en uitje",
+      "waarom": "Een duidelijke prijs en het idee van een avond met vriendinnen maakt de keuze om te boeken klein."
+    },
+    {
+      "node": "2370:183",
+      "titel": "Kies je workshop",
+      "waarom": "Twee opties naast elkaar helpen mensen kiezen in plaats van twijfelen."
+    }
+  ],
+  "waarom": {
+    "niche": "geur & kaarsen",
+    "kop": "Zo groeien kaarsenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een workshop of kaarsenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe deelnemers en houden hun kosten per boeking laag. Een vaste nieuwsbrief zorgt dat mensen terugkomen als er nieuwe data zijn.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kaarsenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Kaarsenwas.nl nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2370:206",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Label my Light",
+      "kop": "Welkom bij Label my Light",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, hoe jullie werken en een directe weg naar de workshops.",
+      "punten": [
+        "Handgemaakt in Eindhoven, sinds 2019",
+        "Drie korte punten over hoe jullie werken",
+        "Knop naar de workshopdata"
+      ]
+    },
+    {
+      "node": "2370:231",
+      "type": "Merkverhaal",
+      "onderwerp": "Elke kaars met de hand gemaakt",
+      "kop": "Elke kaars met de hand gemaakt",
+      "tekst": "Het verhaal achter Label my Light, de kaars die je zelf maakt, en een aanmelding voor nieuwe workshopdata.",
+      "punten": [
+        "Het verhaal van het atelier",
+        "300 ml, 50 branduren, soja was en een eigen label",
+        "Aanmelden voor nieuwe data als jouw datum vol is"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17",
+  "nieuwsbrief": {
+    "node": "2370:206",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Label my Light",
+    "kop": "Welkom bij Label my Light",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, hoe jullie werken en een directe weg naar de workshops.",
+    "punten": [
+      "Handgemaakt in Eindhoven, sinds 2019",
+      "Drie korte punten over hoe jullie werken",
+      "Knop naar de workshopdata"
+    ]
+  }
+}
