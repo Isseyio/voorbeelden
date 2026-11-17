@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "anniebamboo-2sybq",
+  "merk": "Annie with the Bamboo",
+  "domein": "anniewiththebamboo.nl",
+  "lead_id": "2026-11-17-anniewiththebamboo.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B36C52",
+  "kop": "Kaarten van eigen ontwerp, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Annie with the Bamboo, ik heb dit gemaakt omdat kaarten met een zakje confetti of een starterspakket voor miljonairs precies het soort ontwerp zijn waar mensen tijdens het scrollen om glimlachen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2265:4",
+      "titel": "Party time, in een zakje",
+      "waarom": "Een close-up met korte labels laat zien wat er aan de kaart zit, zodat een kaart van €2,80 meteen als klein cadeautje voelt."
+    },
+    {
+      "node": "2265:27",
+      "titel": "Maak je eigen feestje",
+      "waarom": "Het hele assortiment op een rij, van wenskaart tot stickervel, laat in één keer zien dat alles eigen ontwerp is en maakt de bestelling groter."
+    },
+    {
+      "node": "2265:49",
+      "titel": "Groot nieuws belt",
+      "waarom": "Een herkenbaar belscherm is speels en koppelt de oom-en-tantekaart aan het moment dat iemand het nieuws hoort."
+    }
+  ],
+  "waarom": {
+    "niche": "kaarten en stationery",
+    "kop": "Zo groeien kaartenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kaartenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende verjaardag of geboorte.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kaarten- en cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Kaartje2go nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2265:61",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Annie with the Bamboo",
+    "kop": "Welkom bij Annie with the Bamboo",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie Annie is, de drie dingen die de winkel bijzonder maken en een bestseller om mee te beginnen.",
+    "punten": [
+      "Herokaart met jullie eigen kaarten en envelopjes",
+      "Gratis verzending vanaf €50, alles eigen ontwerp, persoonlijke service",
+      "Tweede blok met de wenskaart Party time + confetti van €2,80"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2265:61",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Annie with the Bamboo",
+      "kop": "Welkom bij Annie with the Bamboo",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie Annie is, de drie dingen die de winkel bijzonder maken en een bestseller om mee te beginnen.",
+      "punten": [
+        "Herokaart met jullie eigen kaarten en envelopjes",
+        "Gratis verzending vanaf €50, alles eigen ontwerp, persoonlijke service",
+        "Tweede blok met de wenskaart Party time + confetti van €2,80"
+      ]
+    },
+    {
+      "node": "2265:91",
+      "type": "Merkverhaal",
+      "onderwerp": "Hi! Ik ben Anne",
+      "kop": "Hi! Ik ben Anne, grafisch ontwerper",
+      "tekst": "Het verhaal achter de winkel in een paar zinnen, het stickervel Quotes kleur van dichtbij en een afsluiter met de cadeaubon.",
+      "punten": [
+        "Merkverhaal van Anne in haar eigen woorden",
+        "Stickervel met labels: 48 stickers, A4, 3 cm, brievenbuspakketje",
+        "Afsluiter met de cadeaubon van €5 tot €50"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
