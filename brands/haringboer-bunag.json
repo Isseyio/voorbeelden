@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "haringboer-bunag",
+  "merk": "Haringboer",
+  "domein": "haringboer.nl",
+  "lead_id": "2026-11-17-haringboer.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C8202A",
+  "kop": "Drie advertenties voor je haringen, klaar voor het kampeerseizoen.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Reinier, ik heb dit gemaakt omdat je haringen echt iets eigens hebben, van de PegPull® tot de namen als De President en De Grote Ster. Alles is gemaakt met je eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2495:3",
+      "titel": "Alles zit erbij",
+      "waarom": "Laat in één beeld zien wat je bij een set krijgt: PegPull®, haringzak en karabijnhaak."
+    },
+    {
+      "node": "2495:30",
+      "titel": "Grip overal",
+      "waarom": "Eén groot woord en vier haringen naast elkaar maken in een seconde duidelijk dat er voor elke ondergrond een haring is."
+    },
+    {
+      "node": "2495:55",
+      "titel": "De storm belt",
+      "waarom": "Een speels concept dat blijft hangen en precies het moment raakt waarop je aan goede haringen denkt."
+    }
+  ],
+  "waarom": {
+    "niche": "sport & outdoor",
+    "kop": "Zo groeien outdoormerken op Instagram.",
+    "tekst": "De meeste kampeerders ontdekken nieuwe spullen niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers voor het volgende seizoen terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij outdoormerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Bever nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2496:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Haringboer",
+    "kop": "Welkom bij Haringboer",
+    "tekst": "Fijn dat je er bent. Ik ben Reinier, de ontwerper achter Haringboer. In deze mails deel ik kampeertips en laat ik zien hoe je de juiste haring kiest.",
+    "punten": [
+      "PegPull®: trek elke haring moeiteloos los",
+      "Handgemaakte haringzak van katoen ripstop",
+      "Reflecterend rood koord",
+      "Keuzehulp op ondergrond en tentmaat"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2496:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Haringboer",
+      "kop": "Welkom bij Haringboer",
+      "tekst": "Fijn dat je er bent. Ik ben Reinier, de ontwerper achter Haringboer. In deze mails deel ik kampeertips en laat ik zien hoe je de juiste haring kiest.",
+      "punten": [
+        "PegPull®: trek elke haring moeiteloos los",
+        "Handgemaakte haringzak van katoen ripstop",
+        "Reflecterend rood koord",
+        "Keuzehulp op ondergrond en tentmaat"
+      ]
+    },
+    {
+      "node": "2496:36",
+      "type": "Productvergelijking",
+      "onderwerp": "Aluminium of titanium?",
+      "kop": "Aluminium of titanium?",
+      "tekst": "Twee materialen, allebei met PegPull®. De President en De Viking naast elkaar, met de bundel voor zachte én harde grond als afsluiter.",
+      "punten": [
+        "De President: 18 cm aluminium, 15,5 g, 12 stuks, €25",
+        "De Viking: 16,5 cm titanium, 22 g, 8 stuks, €39",
+        "Bundel 16,5 cm titanium: €73 (was €82)"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
