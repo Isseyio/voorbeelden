@@ -2,3 +2,6 @@
 .DS_Store
 __pycache__/
 _test/
+_eigen-ads/html2/
+_eigen-ads/png2/
+_eigen-ads/ads2.json
