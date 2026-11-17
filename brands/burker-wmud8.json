@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "burker-wmud8",
+  "merk": "BURKER",
+  "domein": "burkerwatches.com",
+  "lead_id": "2026-11-01-burkerwatches.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A47A4A",
+  "kop": "Diana en Victoria, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team BURKER, ik heb dit gemaakt omdat de Diana en de Victoria met hun eenvoudige vormen precies het soort product zijn dat je in één blik snapt tijdens het scrollen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2361:68",
+      "titel": "Black November",
+      "waarom": "Het aanbod staat bovenaan en het logo groot eronder, zodat iemand in één seconde ziet van wie de sale is en hoeveel het scheelt."
+    },
+    {
+      "node": "2361:76",
+      "titel": "Diana Petite in kleuren",
+      "waarom": "Eén groot woord en de echte packshots laten de vorm en de kleuren zien, zonder dat iemand veel hoeft te lezen."
+    },
+    {
+      "node": "2361:95",
+      "titel": "Victoria van dichtbij",
+      "waarom": "Een close-up met twee korte kaders laat details zien die je op een klein scherm anders mist, met de echte prijs erbij."
+    }
+  ],
+  "waarom": {
+    "niche": "horloges en sieraden",
+    "kop": "Zo groeien horlogemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw horloge- of sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, bijvoorbeeld voor een tweede horloge of een armband erbij.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieraden- en horlogemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft CLUSE nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2363:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij BURKER",
+    "kop": "Welkom bij BURKER",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie BURKER is, wat ze van jullie mogen verwachten en met welk horloge ze het best kunnen beginnen.",
+    "punten": [
+      "Gratis verzending wereldwijd",
+      "14 dagen retour",
+      "1 jaar garantie",
+      "Tweede blok: begin met de Diana Petite"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2363:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij BURKER",
+      "kop": "Welkom bij BURKER",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie BURKER is, wat ze van jullie mogen verwachten en met welk horloge ze het best kunnen beginnen.",
+      "punten": [
+        "Gratis verzending wereldwijd",
+        "14 dagen retour",
+        "1 jaar garantie",
+        "Tweede blok: begin met de Diana Petite"
+      ]
+    },
+    {
+      "node": "2363:32",
+      "type": "Productspotlight",
+      "onderwerp": "Diana: één lijn, een icoon",
+      "kop": "Diana: één lijn, een icoon",
+      "tekst": "Een mail die de Diana Petite van dichtbij laat zien, met de maten en details bij het product en een korte vergelijking met de Victoria.",
+      "punten": [
+        "Ovale kast van 25,5 x 19,5 mm",
+        "Smalle band van 5,8 mm, quartz-uurwerk, 3 ATM",
+        "Diana of Victoria: verschil in één tabel",
+        "Afsluiting: kies jouw favoriet"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

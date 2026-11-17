@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "mrsros-2qad3",
+  "merk": "Mrs. Ros",
+  "domein": "mrsros.nl",
+  "lead_id": "2026-11-17-mrsros.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Matchy voor paard en ruiter, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Mrs. Ros, ik heb dit gemaakt omdat jullie paard en ruiter zo mooi in dezelfde stijl aankleden, en dat zie je nu nog niet terug in advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2360:3",
+      "titel": "Gemaakt voor de details",
+      "waarom": "Een close-up van het gouden logo en de koordbies laat zien waarom een CHARMER-dekje €79,95 waard is, nog voordat iemand doorklikt."
+    },
+    {
+      "node": "2360:23",
+      "titel": "Zwart of navy?",
+      "waarom": "Twee kleuren naast elkaar maken de keuze makkelijk en laten zien dat de pasvorm hetzelfde blijft."
+    },
+    {
+      "node": "2360:48",
+      "titel": "Dark Forest, gratis verzonden",
+      "waarom": "Echte collectiefoto's met een duidelijk aanbod (gratis verzending vanaf €50) werken goed voor ruiters die al aan een nieuwe outfit denken."
+    }
+  ],
+  "waarom": {
+    "niche": "ruitersport",
+    "kop": "Zo groeien ruitersportmerken op Instagram.",
+    "tekst": "De meeste ruiters ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, met nieuwe kleuren en collecties, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen bij de volgende collectie.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij ruitersportmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Equestrian Stockholm nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2361:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Mrs. Ros: je eerste bestelling 10% voordeliger",
+    "kop": "Welkom bij Mrs. Ros",
+    "tekst": "Een rustige welkomstmail die meteen laat zien waar Mrs. Ros voor staat: matchy rijkleding en zadeldekjes voor ruiter en paard, met de 10% korting die nieuwe inschrijvers al krijgen.",
+    "punten": [
+      "Herokaart in Dark Forest-groen met jullie eigen foto",
+      "Gratis verzending, 30 dagen retour en persoonlijk advies als vertrouwensblok",
+      "Doorklik naar de CHARMER-dressuurcollectie"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2361:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Mrs. Ros: je eerste bestelling 10% voordeliger",
+      "kop": "Welkom bij Mrs. Ros",
+      "tekst": "Een rustige welkomstmail die meteen laat zien waar Mrs. Ros voor staat: matchy rijkleding en zadeldekjes voor ruiter en paard, met de 10% korting die nieuwe inschrijvers al krijgen.",
+      "punten": [
+        "Herokaart in Dark Forest-groen met jullie eigen foto",
+        "Gratis verzending, 30 dagen retour en persoonlijk advies als vertrouwensblok",
+        "Doorklik naar de CHARMER-dressuurcollectie"
+      ]
+    },
+    {
+      "node": "2361:29",
+      "type": "Collectiemail",
+      "onderwerp": "Dark Forest: de nieuwe collectie voor paard en ruiter",
+      "kop": "Dark Forest, voor paard en ruiter",
+      "tekst": "Een collectiemail rond Dark Forest, met de CHARMER als product in de hoofdrol en de details die ruiters belangrijk vinden uitgelicht.",
+      "punten": [
+        "Hero met de Dark Forest-look, ook in de Mini Ros-lijn",
+        "CHARMER-dekje met vier labels: logo, koordbies, wafelstructuur, schofvrijheid",
+        "Afsluiting die het matchy combineren met de rest van de collectie laat zien"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
