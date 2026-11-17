@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "bylieke-22dzf",
+  "merk": "ByLieke",
+  "domein": "bylieke.com",
+  "lead_id": "2026-11-18-bylieke.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#513217",
+  "kop": "Houten kraamcadeaus die blijven hangen",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team ByLieke, ik heb dit gemaakt omdat de geboorteslinger nu ook met een eigen foto kan, en dat laat zich mooi zien in een advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2508:24",
+      "titel": "Nieuw: bordje met foto",
+      "waarom": "Een nieuwigheid met de eigen foto van de baby trekt direct de aandacht van ouders en kraamvisite."
+    },
+    {
+      "node": "2508:41",
+      "titel": "Gemaakt door Lieke",
+      "waarom": "Laat zien hoe een bloemenset ontstaat, wat een groot merk niet kan vertellen."
+    },
+    {
+      "node": "2508:62",
+      "titel": "Kraamvisite belt aan",
+      "waarom": "Een speels telefoonscherm stopt de scroll en zet de luchtballon als cadeau in beeld."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en cadeaus",
+    "kop": "Zo groeien cadeaumerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw cadeaumerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Skuur nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2508:73",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij ByLieke",
+    "kop": "Welkom bij ByLieke",
+    "tekst": "Leuk dat je er bent. Ik ben Lieke en ik ontwerp en maak alles zelf, van geboorteslinger tot bloemenset.",
+    "punten": [
+      "Zelf ontworpen",
+      "Eigen laser: elk product zelf uitgesneden",
+      "Een boom erbij bij bestellingen vanaf €10"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2508:73",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij ByLieke",
+      "kop": "Welkom bij ByLieke",
+      "tekst": "Leuk dat je er bent. Ik ben Lieke en ik ontwerp en maak alles zelf, van geboorteslinger tot bloemenset.",
+      "punten": [
+        "Zelf ontworpen",
+        "Eigen laser: elk product zelf uitgesneden",
+        "Een boom erbij bij bestellingen vanaf €10"
+      ]
+    },
+    {
+      "node": "2508:101",
+      "type": "Assortimentsmail",
+      "onderwerp": "Voor de allerkleinste",
+      "kop": "Voor de allerkleinste",
+      "tekst": "Kraamcadeaus met naam, datum en foto, met vier geboortecadeaus op een rij en een echte review.",
+      "punten": [
+        "Geboorte - Slinger golf €13,95",
+        "Geboorte - Ladder €15,95",
+        "Geboorte - Luchtballon €19,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

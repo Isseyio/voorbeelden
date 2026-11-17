@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "bert-77wg3",
+  "merk": "BERT sieraden",
+  "domein": "bertsieraden.nl",
+  "lead_id": "2026-11-18-bertsieraden.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#FF65C3",
+  "kop": "Drie nieuwe invalshoeken voor de hartjesarmband",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team BERT sieraden, ik heb dit gemaakt omdat jullie hartjesarmband er ook in een mini voor kids is, en dat vraagt om meer dan alleen 'nieuwe collectie'. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2505:3",
+      "titel": "Met de hand geknoopt",
+      "waarom": "Laat zien wie de armbandjes maakt, iets wat een grote keten niet kan vertellen."
+    },
+    {
+      "node": "2505:20",
+      "titel": "Mama en mini",
+      "waarom": "Twee armbandjes naast elkaar maken het cadeau voor moeder en kind meteen concreet."
+    },
+    {
+      "node": "2505:36",
+      "titel": "Hartjes van edelsteen",
+      "waarom": "Eén groot woord en echte producten stoppen de scroll en laten direct het assortiment zien."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft A Beautiful Story nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2505:51",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij BERT",
+    "kop": "Welkom bij BERT",
+    "tekst": "Fijn dat je er bent. Wij zijn Bertie en Renée, twee zussen met een zwak voor kleur en hartjes.",
+    "punten": [
+      "Handgemaakt: elk armbandje knopen we zelf",
+      "Duurzaam: 925 zilver, 14k gold filled en edelsteen",
+      "Gratis verzending in NL vanaf €75, binnen 3 werkdagen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2505:51",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij BERT",
+      "kop": "Welkom bij BERT",
+      "tekst": "Fijn dat je er bent. Wij zijn Bertie en Renée, twee zussen met een zwak voor kleur en hartjes.",
+      "punten": [
+        "Handgemaakt: elk armbandje knopen we zelf",
+        "Duurzaam: 925 zilver, 14k gold filled en edelsteen",
+        "Gratis verzending in NL vanaf €75, binnen 3 werkdagen"
+      ]
+    },
+    {
+      "node": "2505:79",
+      "type": "Merkverhaal",
+      "onderwerp": "Twee zussen, één hartje",
+      "kop": "Twee zussen, één hartje",
+      "tekst": "Bertie ontwerpt de sieraden, Renée runt sinds 2021 de webshop. Daarna de hartjesarmband Naturel uitgelicht en een afsluiting rond cadeaus.",
+      "punten": [
+        "Echte hartjes in natuurtinten",
+        "Handgemaakt door Bertie",
+        "€21,95, ook in mini voor kids (€16,95)"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
