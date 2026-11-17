@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "wilderoe-dgu2r",
+  "merk": "Wilderoe",
+  "domein": "wilderoe.com",
+  "lead_id": "2026-11-17-wilderoe.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8A4B22",
+  "kop": "Handgemaakte leren tassen, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Wilderoe, ik heb dit gemaakt omdat de barokke krullen op de Bohemian-tassen en de drakenschubben iets zijn wat je in een feed meteen ziet. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2268:3",
+      "titel": "Barok in leer",
+      "waarom": "Een close-up van het reliëf met korte uitleg laat zien waarom een handgemaakte tas zijn prijs waard is."
+    },
+    {
+      "node": "2268:25",
+      "titel": "Vanaf €185",
+      "waarom": "Een echte prijs bovenaan en jullie eigen fotoshoot eronder: wie scrolt ziet meteen stijl én instapprijs."
+    },
+    {
+      "node": "2268:35",
+      "titel": "Eén draak, twee karakters",
+      "waarom": "Twee varianten naast elkaar maken kiezen makkelijk en laten zien hoe de tas gedragen wordt."
+    }
+  ],
+  "waarom": {
+    "niche": "tassen",
+    "kop": "Zo groeien tassenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw tassenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, ook bij een tas die je niet in één keer koopt.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij tassenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25+",
+        "label": "advertenties heeft O My Bag nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2270:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Wilderoe",
+    "kop": "Welkom bij Wilderoe",
+    "tekst": "Een welkomstmail voor iedereen die zich via de footer aanmeldt: wie Kateryna is, wat een Wilderoe-tas bijzonder maakt en een eerste tas om mee te beginnen, zonder verzonnen korting.",
+    "punten": [
+      "Italiaans leer, op oude wijze gelooid",
+      "Met de hand gemaakt in het eigen atelier",
+      "Een eerste tip: de Dragon Skin crossbody"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2270:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Wilderoe",
+      "kop": "Welkom bij Wilderoe",
+      "tekst": "Een welkomstmail voor iedereen die zich via de footer aanmeldt: wie Kateryna is, wat een Wilderoe-tas bijzonder maakt en een eerste tas om mee te beginnen, zonder verzonnen korting.",
+      "punten": [
+        "Italiaans leer, op oude wijze gelooid",
+        "Met de hand gemaakt in het eigen atelier",
+        "Een eerste tip: de Dragon Skin crossbody"
+      ]
+    },
+    {
+      "node": "2270:31",
+      "type": "Merkverhaal",
+      "onderwerp": "Het verhaal achter elke tas",
+      "kop": "Hoi, ik ben Kateryna.",
+      "tekst": "Een mail in de stem van Kateryna: van Oekraïne naar een eigen atelier in Nederland, met de Elegant Rectangular Bag uitgelicht en de Bohemian Collection als afsluiter.",
+      "punten": [
+        "Het verhaal van de oprichter",
+        "Eén tas met vier details uitgelicht",
+        "Bohemian Collection vanaf €449"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
