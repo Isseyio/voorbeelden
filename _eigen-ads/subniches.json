@@ -26,8 +26,8 @@
   "aov": "",
   "klant": "Mannen 25-45 die 'kwaliteit voor een eerlijke prijs' zoeken, rationele kopers en herhaalaankopen van basics.",
   "hook_idee": "Verkoop jij basics die mannen elk jaar opnieuw kopen, maar komt die herhaalaankoop niet vanzelf? Lees dit.",
-  "niche_key": null,
-  "status": "open"
+  "niche_key": "menswear",
+  "status": "ronde 2"
  },
  {
   "cluster": "Fashion & accessoires",
@@ -116,8 +116,8 @@
   "aov": "Indicatie €35-€80 (routines en abonnementen)",
   "klant": "Tieners en volwassenen (ook mannen) met acne of roodheid, vaak al veel geprobeerd, wantrouwig maar zeer gemotiveerd",
   "hook_idee": "Je klant stopt na 3 weken, terwijl je acne-routine na 6 weken pas werkt. Wij bouwen de flow die haar erdoorheen helpt.",
-  "niche_key": null,
-  "status": "open"
+  "niche_key": "acneskincare",
+  "status": "ronde 2"
  },
  {
   "cluster": "Beauty & verzorging",
