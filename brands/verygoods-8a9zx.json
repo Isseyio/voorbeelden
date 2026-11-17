@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "verygoods-8a9zx",
+  "merk": "Very Goods Studio",
+  "domein": "verygoods.studio",
+  "lead_id": "2026-11-17-verygoods.studio",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E5462A",
+  "kop": "Handgegoten in Amsterdam, gezien op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Very Goods Studio, ik heb dit gemaakt omdat jullie etiketten zo sterk zijn dat ze bijna zelf de advertentie zijn. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2439:3",
+      "titel": "Home Coming in het groot",
+      "waarom": "Eén groot woord en de pot zelf: in een snelle feed zie je in een halve seconde welke geur het is en dat hij er maar even is."
+    },
+    {
+      "node": "2440:2",
+      "titel": "Nieuw: Kyoto Gardens",
+      "waarom": "Een echte foto van de pot in de hand met de geurnoten erbij voelt als een tip van een vriend, niet als reclame."
+    },
+    {
+      "node": "2440:27",
+      "titel": "Koop deze kaars niet",
+      "waarom": "Een omgekeerde kop laat mensen stoppen met scrollen, en de drie vinkjes vertellen daarna in één oogopslag waarom Slow Morning anders is."
+    }
+  ],
+  "waarom": {
+    "niche": "geur & kaarsen",
+    "kop": "Zo groeien kaarsenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kaarsenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, zeker rond de feestdagen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kaarsenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Baobab Collection nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2441:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Very Goods Studio, je 15% staat klaar",
+    "kop": "Welkom bij Very Goods Studio",
+    "tekst": "Na inschrijving krijgen nieuwe lezers direct een warme welkomstmail: wie jullie zijn, hoe de kaarsen in de studio in Amsterdam worden gegoten, en de 15% korting die jullie al beloven op de site.",
+    "punten": [
+      "Sweater Weather als eerste kennismaking",
+      "100% koolzaadwas, handgemaakt, plasticvrij verpakt",
+      "Doorverwijzing naar de workshops in de studio"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2441:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Very Goods Studio, je 15% staat klaar",
+      "kop": "Welkom bij Very Goods Studio",
+      "tekst": "Na inschrijving krijgen nieuwe lezers direct een warme welkomstmail: wie jullie zijn, hoe de kaarsen in de studio in Amsterdam worden gegoten, en de 15% korting die jullie al beloven op de site.",
+      "punten": [
+        "Sweater Weather als eerste kennismaking",
+        "100% koolzaadwas, handgemaakt, plasticvrij verpakt",
+        "Doorverwijzing naar de workshops in de studio"
+      ]
+    },
+    {
+      "node": "2442:2",
+      "type": "Assortimentsmail",
+      "onderwerp": "Vier geuren voor lange avonden",
+      "kop": "Vier geuren voor lange avonden",
+      "tekst": "Een seizoensmail met de geuren die nu het meest gekocht worden, elk met de geurnoten en de prijs, plus een echte review van Slow Morning.",
+      "punten": [
+        "Sweater Weather, Home Coming, Kyoto Gardens en Stormur",
+        "Echte review: Finally found one I love",
+        "Eigen sfeerfoto's in plaats van stockbeeld"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
