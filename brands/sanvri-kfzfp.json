@@ -1,0 +1,21 @@
+{"v":7,"slug":"sanvri-kfzfp","merk":"SANVRI","domein":"sanvri.com","lead_id":"2026-11-12-sanvri.com","accent":"#A4532A",
+"kop":"Vijf nieuwe invalshoeken voor SANVRI, van eerste blik tot bestelling.",
+"intro":"Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+"noot":"Hoi team SANVRI, ik zag dat jullie al flink adverteren, en dat bijna al die advertenties hetzelfde vertellen: alles in één sachet. Dat is een goed verhaal, maar er zijn meer redenen waarom iemand jullie collageen koopt. Daarom heb ik er een paar uitgewerkt, met jullie eigen foto's. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+"product_zin":"Hetzelfde zakje collageen",
+"product":{"naam":"Marine Collagen Care Blend","tekst":"Hetzelfde zakje, vijf verschillende redenen om het te kopen. Elke reden wordt een eigen advertentie."},
+"fan":[4,5,1],
+"funnel_obs":"Wat ik zag: SANVRI heeft nu 17 advertenties live, en die draaien bijna allemaal om \"alles in één sachet\". Dat werkt voor een deel van de mensen. Met nieuwe invalshoeken in elke stap bereik je ook de rest.",
+"advertenties":[
+{"fase":"TOF","ref":"N01","titel":"Die vriendin die elke ochtend iets citrusgeels drinkt","alt":"Die vriendin","invalshoek":"iemand zoals ik","vraag":"Mijn vriendin drinkt het elke ochtend. Wat is dat?","waarom":"Een echt moment uit jullie eigen video's maakt nieuwsgierig. Kijkers denken: wat drinkt zij, dat wil ik ook."},
+{"fase":"TOF","ref":"N02","titel":"Minder potjes & meer routine","invalshoek":"het gevoel","vraag":"Ik wil een rustigere ochtend, met minder potjes.","waarom":"Twee echte momenten en één belofte. Je verkoopt geen ingrediënt, maar een rustigere ochtend."},
+{"fase":"MOF","ref":"N13","titel":"Losse potjes of één Care Blend","invalshoek":"vergelijken","vraag":"Waarom niet gewoon losse collageen en vitamines?","waarom":"In één beeld zien waarom één sachet handiger is dan collageen en vitamines apart."},
+{"fase":"MOF","ref":"N12","titel":"Collageen is geen quick fix","invalshoek":"eerlijkheid","vraag":"Werkt het wel, en wanneer merk ik iets?","waarom":"Wie twijfelt, wil weten wat hij kan verwachten. Een eerlijke tijdlijn en een echte review nemen die twijfel weg."},
+{"fase":"BOF","ref":"N16","titel":"Bespaar €40 op drie maanden","invalshoek":"een goede deal","vraag":"Ik wil het, maar liefst voordelig en zonder risico.","waarom":"Jullie 90-dagenbundel past precies bij een routine van drie maanden, met 60 dagen bedenktijd als vangnet."}],
+"waarom":{"niche":"supplementen","kop":"Zo groeien supplementenmerken op Instagram.","tekst":"De meeste mensen ontdekken een nieuw supplementenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe invalshoeken testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een nieuwe zak.",
+"stats":[{"getal":"25–35%","label":"van de online omzet komt bij supplementenmerken vaak via Instagram en Facebook"},{"getal":"100+","label":"advertenties heeft Vitakruid nu tegelijk live"},{"getal":"1× per week","label":"nieuwe advertenties testen houdt de kosten per aankoop laag"}],
+"bron":"Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."},
+"nieuwsbrieven":[
+{"ref":"RE05","type":"Welkomstmail","onderwerp":"Welkom bij SANVRI","kop":"Welkom bij SANVRI","tekst":"Volgens mij kun je je op jullie site nog niet inschrijven voor een nieuwsbrief. Dit is de eerste mail die nieuwe inschrijvers dan krijgen: een rustige kennismaking.","punten":["De drie sterkste feiten in één oogopslag: 6.000 mg, 17 ingrediënten, 30 seconden","Hoe het in je dag past, met jullie eigen foto uit Amsterdam","Een echte review als afsluiter"]},
+{"ref":"RE03","type":"Productspotlight","onderwerp":"Care of Performance?","kop":"Care of Performance?","tekst":"Wie twijfelt tussen jullie twee blends, krijgt een mail die helpt kiezen. Met de 60 dagen bedenktijd als laatste duwtje.","punten":["Beide blends naast elkaar: voor wie, welk collageen, wat extra","Twee echte reviews van klanten","Afsluiting met bedenktijd in plaats van korting"]}],
+"ai_sfeer":false,"gemaakt":"2026-11-17"}
