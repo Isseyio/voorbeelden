@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "jp22-nr5xt",
+  "merk": "JP22Designs",
+  "domein": "jp22designs.nl",
+  "lead_id": "2026-11-17-jp22designs.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#121212",
+  "kop": "Windspinners uit Houten, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team JP22Designs, ik heb dit gemaakt omdat een windspinner die in de tuin draait en het licht vangt precies het soort beeld is dat op Instagram opvalt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2314:3",
+      "titel": "Twee afwerkingen",
+      "waarom": "Dezelfde kolibri naast elkaar in blank staal en met hittebehandeling laat in één oogopslag zien waar je uit kunt kiezen."
+    },
+    {
+      "node": "2314:24",
+      "titel": "Uit eigen werkplaats",
+      "waarom": "Staal, hittebehandeling, de werkplaats in Houten en maatwerk op een rij: wie twijfelt, ziet meteen hoe en waar de Libelle gemaakt wordt."
+    },
+    {
+      "node": "2314:47",
+      "titel": "Vanaf €39,95",
+      "waarom": "Jullie echte prijs groot bovenaan en een kolibri in de tuin eronder: het voordeel en het effect in één beeld."
+    }
+  ],
+  "waarom": {
+    "niche": "tuindecoratie",
+    "kop": "Zo groeien tuindecoratiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk voor hun tuin niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, bijvoorbeeld voor een tweede motief of een windspinner met naam.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woon- en tuindecoratiemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Steelhouet nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2314:65",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij JP22Designs",
+    "kop": "Welkom bij JP22Designs",
+    "tekst": "De eerste mail na inschrijving: wie jullie zijn, hoe jullie windspinners gemaakt worden en een knop naar de collectie.",
+    "punten": [
+      "Opening met de vlinder in jullie eigen tuinfoto",
+      "Zo maken wij ze: ontworpen in Houten, 1,5 mm staal, op bestelling",
+      "Tweede blok: de windspinner met naam, vanaf €89,95"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2314:65",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij JP22Designs",
+      "kop": "Welkom bij JP22Designs",
+      "tekst": "De eerste mail na inschrijving: wie jullie zijn, hoe jullie windspinners gemaakt worden en een knop naar de collectie.",
+      "punten": [
+        "Opening met de vlinder in jullie eigen tuinfoto",
+        "Zo maken wij ze: ontworpen in Houten, 1,5 mm staal, op bestelling",
+        "Tweede blok: de windspinner met naam, vanaf €89,95"
+      ]
+    },
+    {
+      "node": "2314:233",
+      "type": "Merkverhaal",
+      "onderwerp": "Van plaat staal tot windspinner",
+      "kop": "Van plaat staal tot windspinner",
+      "tekst": "Een mail over het verhaal achter JP22Designs: vader en zoon, de werkplaats aan huis en het materiaal.",
+      "punten": [
+        "Jullie verhaal: hobbyproject, zonnestroom en restmateriaal uit de buurt",
+        "De kolibri met hittebehandeling, met vier labels over materiaal en maat",
+        "Afsluiter met alle negen motieven, vanaf €39,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

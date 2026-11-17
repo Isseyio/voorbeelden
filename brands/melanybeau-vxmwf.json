@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "melanybeau-vxmwf",
+  "merk": "Melany Beau",
+  "domein": "melanybeau.nl",
+  "lead_id": "2026-11-17-melanybeau.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#0B4248",
+  "kop": "Een klein hartje, met een eigen betekenis.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Melany Beau, ik heb dit gemaakt omdat de Heartstrings armbanden met hun kleine edelsteen hartje zo'n duidelijk verhaal vertellen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2318:4",
+      "titel": "Elke steen een betekenis",
+      "waarom": "Vier stenen met hun betekenis naast elkaar laten mensen in één blik kiezen welk hartje bij hen past."
+    },
+    {
+      "node": "2318:30",
+      "titel": "Van dichtbij bekeken",
+      "waarom": "Een close-up met de details laat zien hoe zorgvuldig de armband gemaakt is, nog voordat iemand doorklikt."
+    },
+    {
+      "node": "2318:52",
+      "titel": "Rust om je pols",
+      "waarom": "De woorden van Melany zelf, met haar eigen foto's, maken van een armband een herkenbaar moment voor gevoelige vrouwen."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "60+",
+        "label": "advertenties heeft My Bendel nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2318:70",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Melany Beau",
+    "kop": "Welkom bij Melany Beau",
+    "tekst": "Fijn dat je er bent. Hier krijg je rust in je inbox: edelsteen-inspiratie, nieuwe armbanden en momenten om even te vertragen.",
+    "punten": [
+      "Edelsteen van de maand: wat een steen voor je kan betekenen",
+      "Rust & reflectie: kleine momenten om te vertragen",
+      "Gratis verzending binnen Nederland vanaf €40"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2318:70",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Melany Beau",
+      "kop": "Welkom bij Melany Beau",
+      "tekst": "Fijn dat je er bent. Hier krijg je rust in je inbox: edelsteen-inspiratie, nieuwe armbanden en momenten om even te vertragen.",
+      "punten": [
+        "Edelsteen van de maand: wat een steen voor je kan betekenen",
+        "Rust & reflectie: kleine momenten om te vertragen",
+        "Gratis verzending binnen Nederland vanaf €40"
+      ]
+    },
+    {
+      "node": "2318:99",
+      "type": "Productspotlight",
+      "onderwerp": "Welke steen past bij jou?",
+      "kop": "Welke steen past bij jou?",
+      "tekst": "Vier Heartstrings armbanden met een klein edelsteen hartje. Elk met een eigen betekenis, met de hand gemaakt.",
+      "punten": [
+        "Amethist: een herinnering aan zachtheid (€23,95)",
+        "Citrien: lichtheid en vertrouwen (€27,95)",
+        "Maansteen: om naar jezelf te luisteren (€25,95)",
+        "Labradoriet: om op jezelf te vertrouwen (€25,95)"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "muurart-x2dt7",
+  "merk": "Muur Art",
+  "domein": "muur-art.nl",
+  "lead_id": "2026-11-17-muur-art.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3F2E22",
+  "kop": "Houten wereldkaarten van Muur Art, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Muur Art, ik heb dit gemaakt omdat een houten wereldkaart met je eigen reizen erop precies het soort beeld is dat op Instagram blijft hangen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2319:3",
+      "titel": "Gemaakt met",
+      "waarom": "Ronde foto's van het eikenhout, de markers en het ophangen laten in één oogopslag zien wat je krijgt en hoe het gemaakt is."
+    },
+    {
+      "node": "2319:22",
+      "titel": "Al je reizen aan de muur",
+      "waarom": "Kaders met lijnen naar de kaart op jullie eigen sfeerfoto beantwoorden de vragen die iemand heeft voordat hij koopt."
+    },
+    {
+      "node": "2319:44",
+      "titel": "Vanaf €149",
+      "waarom": "De echte prijs en gratis verzending groot bovenaan, met het logo over de sfeerfoto, maken het aanbod meteen duidelijk."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen & interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken nieuwe wanddecoratie niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, bijvoorbeeld voor een Europa-kaart of een tweede stuk voor aan de muur.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Woodwidecities nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2320:3",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Muur Art",
+    "kop": "Welkom bij Muur Art",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers op het nieuwsbriefveld in de footer: wie jullie zijn, hoe jullie werken en hoe je een wereldkaart ophangt.",
+    "punten": [
+      "Herokaart in donker hout met de Wereldkaart Eikenhout en een knop naar de wereldkaarten",
+      "Drie vaste punten: eigen werkplaats, gratis verzending binnen NL en België, binnen 1 werkdag verstuurd",
+      "Tweede kaart met jullie eigen montagefoto: foamtape, kartonnen mal en 20 markers"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2320:3",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Muur Art",
+      "kop": "Welkom bij Muur Art",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers op het nieuwsbriefveld in de footer: wie jullie zijn, hoe jullie werken en hoe je een wereldkaart ophangt.",
+      "punten": [
+        "Herokaart in donker hout met de Wereldkaart Eikenhout en een knop naar de wereldkaarten",
+        "Drie vaste punten: eigen werkplaats, gratis verzending binnen NL en België, binnen 1 werkdag verstuurd",
+        "Tweede kaart met jullie eigen montagefoto: foamtape, kartonnen mal en 20 markers"
+      ]
+    },
+    {
+      "node": "2321:2",
+      "type": "Productspotlight",
+      "onderwerp": "Je eigen wereld aan de muur",
+      "kop": "Je eigen wereld aan de muur",
+      "tekst": "Een spotlight op de Wereldkaart Eikenhout met het verhaal achter Muur Art en de drie formaten met hun echte prijzen.",
+      "punten": [
+        "Hero met jullie kantoorfoto en een kaart over 'direct van de maker'",
+        "Productfoto met vier labels: Mercator op schaal, 17 eilanden, geolied eikenhout, 20 markers",
+        "Afsluiter in donkerbruin met 105×50 cm €149, 155×75 cm €199 en 200×100 cm €279"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

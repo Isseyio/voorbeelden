@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "marysmagic-pphh2",
+  "merk": "Mary's Magic",
+  "domein": "marysmagic.nl",
+  "lead_id": "2026-11-17-marysmagic.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A8322D",
+  "kop": "Handgemaakte bonbons van Mary's Magic, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Mary's Magic, ik heb dit gemaakt omdat jullie bonbons zoet worden van Medjoul dadels in plaats van geraffineerde suiker, en dat verhaal leent zich heel goed voor korte advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2314:103",
+      "titel": "Puur gemaakt",
+      "waarom": "De foto met de bonbon in de hand trekt de aandacht tijdens het scrollen, en de pillen laten direct zien wat erin zit en wat er niet in zit."
+    },
+    {
+      "node": "2314:128",
+      "titel": "Gemaakt met",
+      "waarom": "Ronde foto's van dadels, cashews, chocolade en framboos maken de ingrediënten tastbaar, precies waar Mary's Magic zich mee onderscheidt."
+    },
+    {
+      "node": "2314:150",
+      "titel": "Feel-good bonbons",
+      "waarom": "Een grote kop met kleine foto's ertussen valt op in de feed en vertelt in vier woorden waar de bonbons voor zijn."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien chocolademerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw chocolademerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende box.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Tony's Chocolonely nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2314:164",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Mary's Magic",
+    "kop": "Welkom bij Mary's Magic",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers op het nieuwsbriefveld: wat Mary's Magic maakt, waarom zonder geraffineerde suiker, en wie Marije is.",
+    "punten": [
+      "Herokaart met de Cashew & Date-box en een knop naar de bonbons",
+      "Drie vaste punten: vegan, glutenvrij en lactosevrij, zonder geraffineerde suiker",
+      "Tweede blok 'Hi! Ik ben Marije' met haar verhaal sinds 2021 en een knop naar Over Mary"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2314:164",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Mary's Magic",
+      "kop": "Welkom bij Mary's Magic",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers op het nieuwsbriefveld: wat Mary's Magic maakt, waarom zonder geraffineerde suiker, en wie Marije is.",
+      "punten": [
+        "Herokaart met de Cashew & Date-box en een knop naar de bonbons",
+        "Drie vaste punten: vegan, glutenvrij en lactosevrij, zonder geraffineerde suiker",
+        "Tweede blok 'Hi! Ik ben Marije' met haar verhaal sinds 2021 en een knop naar Over Mary"
+      ]
+    },
+    {
+      "node": "2314:196",
+      "type": "Productspotlight",
+      "onderwerp": "Een letter vol speculaas voor in de schoen",
+      "kop": "Een letter vol speculaas",
+      "tekst": "Een seizoensmail rond de Gevulde Chocoladeletter Speculaas (€12,95), met daaronder de Speculaas Truffles als tip bij de koffie.",
+      "punten": [
+        "Chocoladeletter groot in beeld met een witte kaart en de prijs in de knop",
+        "Speculaas Truffles (80 g, €9,50) met vier labels: rauwe cacao, dadelstroop, speculaas, cashewnoot",
+        "Afsluiting in chocoladebruin met de foto van Marije en een knop naar de hele collectie"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
