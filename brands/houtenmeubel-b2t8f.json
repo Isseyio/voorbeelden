@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "houtenmeubel-b2t8f",
+  "merk": "Houtenmeubelshop",
+  "domein": "houtenmeubelshop.nl",
+  "lead_id": "2026-11-17-houtenmeubelshop.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3E4A38",
+  "kop": "Meubels uit eigen werkplaats, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Houtenmeubelshop, ik heb dit gemaakt omdat een massief eiken tafel die in jullie eigen werkplaats in Etten-Leur op maat wordt gemaakt een verhaal is dat mensen tijdens het scrollen willen zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2283:3",
+      "titel": "Eettafel Finland van dichtbij",
+      "waarom": "Drie ronde beelden met korte uitleg laten zien waar een tafel van €999 van gemaakt is: dik eiken, een stalen frame en jullie eigen werkplaats."
+    },
+    {
+      "node": "2283:23",
+      "titel": "Tijdloos en op maat",
+      "waarom": "Jullie eigen belofte als grote kop met interieurfoto's tussen de woorden valt op in de feed en vertelt in één keer waar Houtenmeubelshop voor staat."
+    },
+    {
+      "node": "2283:36",
+      "titel": "Koop geen tafel die bijna past",
+      "waarom": "Een omgedraaide kop prikkelt en maakt duidelijk waarom maatwerk zonder meerprijs en een vaste prijs binnen één werkdag het verschil maken."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en interieur",
+    "kop": "Zo groeien meubelmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe meubelmaker niet via Google, maar tijdens het scrollen op Instagram, lang voordat ze echt gaan kopen. Merken die daar elke week nieuwe advertenties testen, blijven in beeld tijdens die oriëntatie en houden hun kosten per aanvraag laag. Een vaste nieuwsbrief houdt die mensen warm tot ze klaar zijn voor hun tafel.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij meubel- en interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Mister Tafel nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2284:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Houtenmeubelshop",
+    "kop": "Welkom bij Houtenmeubelshop",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, waarom een meubel uit eigen werkplaats anders is en een uitnodiging voor de showroom, zonder verzonnen korting.",
+    "punten": [
+      "Hero met jullie eigen interieurfoto en het verhaal van de werkplaats",
+      "Perfect op maat, eigen werkplaats, in 3x zonder rente",
+      "Tweede blok: kom langs in de showroom in Etten-Leur"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2284:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Houtenmeubelshop",
+      "kop": "Welkom bij Houtenmeubelshop",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, waarom een meubel uit eigen werkplaats anders is en een uitnodiging voor de showroom, zonder verzonnen korting.",
+      "punten": [
+        "Hero met jullie eigen interieurfoto en het verhaal van de werkplaats",
+        "Perfect op maat, eigen werkplaats, in 3x zonder rente",
+        "Tweede blok: kom langs in de showroom in Etten-Leur"
+      ]
+    },
+    {
+      "node": "2284:36",
+      "type": "Assortimentsmail",
+      "onderwerp": "Vier tafels uit eigen werkplaats",
+      "kop": "Vier tafels uit eigen werkplaats",
+      "tekst": "Een mail die vier tafels naast elkaar zet, elk met een korte regel, de echte prijs en een knop, afgesloten met jullie Google-score.",
+      "punten": [
+        "Oslo, Finland, de vierkante tafel en de zwarte industriële tafel",
+        "Elke tafel met maat, materiaal en prijs",
+        "Afsluiter: 4,9 uit 428 Google-reviews en de showroom"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "snijplanken-5xcax",
+  "merk": "Houtensnijplankenmetlogo",
+  "domein": "houtensnijplankenmetlogo.nl",
+  "lead_id": "2026-11-17-houtensnijplankenmetlogo.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1F9D46",
+  "kop": "Jullie planken, elke week op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Houtensnijplankenmetlogo, ik heb dit gemaakt omdat de foto van Corné met 'Jouw logo hier?' eigenlijk al een advertentie is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2278:3",
+      "titel": "Jouw logo, gegraveerd",
+      "waarom": "Corné zelf met een plank laat zien dat er echte mensen achter zitten, en de labels leggen in één oogopslag uit wat je krijgt."
+    },
+    {
+      "node": "2278:24",
+      "titel": "Met jouw naam",
+      "waarom": "Zo zoeken mensen in de cadeautijd naar een plank met naam, en drie vormen met prijs maken de keuze makkelijk."
+    },
+    {
+      "node": "2278:44",
+      "titel": "Vanaf €25,95",
+      "waarom": "Een duidelijke prijs met gratis gravering en verzending haalt twijfel weg bij mensen die een cadeau zoeken."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en keuken",
+    "kop": "Zo groeien woon- en keukenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een gepersonaliseerd cadeau niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, bijvoorbeeld voor de volgende verjaardag of voor het hele team.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woon- en keukenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "60+",
+        "label": "advertenties heeft YourSurprise nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2281:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom! Zo maak je je eigen plank",
+    "kop": "Welkom!",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: hoe het werkt in drie stappen, en voor teams de staffelkorting vanaf 5 stuks.",
+    "punten": [
+      "Kies je plank, ontwerp online, wij graveren",
+      "Gravering en verzending gratis, al vanaf 1 stuk",
+      "Staffelkorting en offerte voor bedrijven"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2281:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom! Zo maak je je eigen plank",
+      "kop": "Welkom!",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: hoe het werkt in drie stappen, en voor teams de staffelkorting vanaf 5 stuks.",
+      "punten": [
+        "Kies je plank, ontwerp online, wij graveren",
+        "Gravering en verzending gratis, al vanaf 1 stuk",
+        "Staffelkorting en offerte voor bedrijven"
+      ]
+    },
+    {
+      "node": "2281:34",
+      "type": "Merkverhaal",
+      "onderwerp": "Gemaakt in Tholen, met jouw naam erop",
+      "kop": "Hoi, ik ben Corné",
+      "tekst": "Het verhaal achter de planken: Corné en zijn team in Tholen, en de Traditional Large van dichtbij.",
+      "punten": [
+        "Persoonlijk verhaal uit de werkplaats",
+        "Productuitleg: beukenhout, 2 cm dik, lasergravering",
+        "Afsluiting met contact voor maatwerk"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
