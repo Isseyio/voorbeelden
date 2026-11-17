@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "kidzkadooz-j8ee6",
+  "merk": "Kidzkadooz",
+  "domein": "kidzkadooz.com",
+  "lead_id": "2026-11-17-kidzkadooz.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#79c2c7",
+  "kop": "Handgemaakte kraamcadeaus uit Rumpt, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Kidzkadooz, ik heb dit gemaakt omdat jullie speelkleden en naamslingers al zo'n 15 jaar met de hand in Rumpt maken, en dat verhaal zie je online nog weinig terug. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2469:77",
+      "titel": "De stofjes van het Hart speelkleed",
+      "waarom": "Door de stofjes en het handwerk uit te lichten zie je meteen waarom een handgemaakt speelkleed meer is dan een gewoon speelkleed."
+    },
+    {
+      "node": "2469:97",
+      "titel": "Beoordeeld met een 9,8",
+      "waarom": "Echte reviews en de foto van een baby op het kleed geven twijfelaars het vertrouwen dat hun kraamcadeau goed aankomt."
+    },
+    {
+      "node": "2469:121",
+      "titel": "Vlaggetjes met naam",
+      "waarom": "Eén groot woord en een herkenbare zoekvraag vangen mensen die al op zoek zijn naar een naamslinger, met een lage instapprijs."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien kids- en babymerken op Instagram.",
+    "tekst": "Kraamcadeaus worden vaak gekocht door mensen die niet zelf zoeken, maar tijdens het scrollen iets moois zien voor een nieuwe baby in hun omgeving. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers bij het volgende kraambezoek terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids- en babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Kraam-cadeau.nl nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2469:142",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Kidzkadooz",
+    "kop": "Welkom bij Kidzkadooz",
+    "tekst": "Een rustige welkomstmail voor iedereen die zich via het formulier onderaan de site inschrijft: wie jullie zijn, waarom alles in Rumpt met de hand wordt gemaakt, en een eerste blik op de speelkleden.",
+    "punten": [
+      "Handgemaakt in het eigen atelier in Rumpt",
+      "Op maat maken als specialiteit",
+      "Cadeauservice: feestelijk ingepakt met kaartje",
+      "Echte foto van een speelkleed in gebruik"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2469:142",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Kidzkadooz",
+      "kop": "Welkom bij Kidzkadooz",
+      "tekst": "Een rustige welkomstmail voor iedereen die zich via het formulier onderaan de site inschrijft: wie jullie zijn, waarom alles in Rumpt met de hand wordt gemaakt, en een eerste blik op de speelkleden.",
+      "punten": [
+        "Handgemaakt in het eigen atelier in Rumpt",
+        "Op maat maken als specialiteit",
+        "Cadeauservice: feestelijk ingepakt met kaartje",
+        "Echte foto van een speelkleed in gebruik"
+      ]
+    },
+    {
+      "node": "2469:168",
+      "type": "Merkverhaal",
+      "onderwerp": "Zo maken we jouw speelkleed",
+      "kop": "Met de hand gemaakt, in Rumpt",
+      "tekst": "Een merkverhaal rond het atelier en het Hart speelkleed, met de stofjes uitgelicht en een afsluiting over de cadeauservice, voor ouders en kraamvisite die een cadeau zoeken dat niemand anders geeft.",
+      "punten": [
+        "Het verhaal van het atelier",
+        "Hart speelkleed met de stofjes uitgelicht",
+        "Cadeauservice als afsluiter"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

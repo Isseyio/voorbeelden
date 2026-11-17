@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "saitee-u3aex",
+  "merk": "Saitee",
+  "domein": "saitee.nl",
+  "lead_id": "2026-11-17-saitee.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8E1E4A",
+  "kop": "Saitee armbandjes op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Saitee, ik heb dit gemaakt omdat jullie armbandjes al meer dan 15 jaar aan de keukentafel in Warmenhuizen worden geregen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2468:3",
+      "titel": "Gemaakt aan de keukentafel",
+      "waarom": "Laat in één beeld zien wat Saitee anders maakt: handgeregen, nikkelvrij en gratis op maat."
+    },
+    {
+      "node": "2468:24",
+      "titel": "2 voor €30",
+      "waarom": "Jullie bestaande aanbod groot in beeld, met een echte foto van de armbandjes, zodat mensen er meteen twee kiezen."
+    },
+    {
+      "node": "2468:35",
+      "titel": "Goud of zilver?",
+      "waarom": "Een vraag waar iedereen meteen een antwoord op heeft, en die laat zien dat je zelf kiest."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft KAYA sieraden nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2469:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Saitee",
+    "kop": "Welkom bij Saitee",
+    "tekst": "Fijn dat je er bent. Sijtje maakt elk armbandje met de hand, bij ons thuis aan de keukentafel in Warmenhuizen.",
+    "punten": [
+      "Handgemaakt met liefde",
+      "Gratis op maat gemaakt",
+      "Snel verzonden in 1 tot 2 werkdagen",
+      "Je eerste armbandjes: 2 voor €30"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2469:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Saitee",
+      "kop": "Welkom bij Saitee",
+      "tekst": "Fijn dat je er bent. Sijtje maakt elk armbandje met de hand, bij ons thuis aan de keukentafel in Warmenhuizen.",
+      "punten": [
+        "Handgemaakt met liefde",
+        "Gratis op maat gemaakt",
+        "Snel verzonden in 1 tot 2 werkdagen",
+        "Je eerste armbandjes: 2 voor €30"
+      ]
+    },
+    {
+      "node": "2469:40",
+      "type": "Merkverhaal",
+      "onderwerp": "Al meer dan 15 jaar aan de keukentafel",
+      "kop": "Al meer dan 15 jaar aan de keukentafel",
+      "tekst": "Hoe Sijtje begon met armbandjes rijgen, hoe een Saitee armbandje is gemaakt en de geboortesteen oorbellen die er mooi bij passen.",
+      "punten": [
+        "Het verhaal van Sijtje en het gezin",
+        "Glaskralen, hartje met naam, nikkelvrije sluiting",
+        "€21,95 of 2 voor €30",
+        "Geboortesteen oorbellen van 925 zilver met echte edelstenen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
