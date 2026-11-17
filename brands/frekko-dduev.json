@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "frekko-dduev",
+  "merk": "FREKKO",
+  "domein": "frekko.nl",
+  "lead_id": "2026-11-17-frekko.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#DC5836",
+  "kop": "Elke dinsdag vers gebrand, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team FREKKO, ik heb dit gemaakt omdat jullie verhaal, van de branddag op dinsdag tot de oranje Panda, zich goed leent voor advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2366:3",
+      "titel": "Van boon tot kop",
+      "waarom": "Drie ronde foto's laten in één oogopslag zien waar Tracon vandaan komt en hoe vers hij is, met de prijs en een duidelijke knop eronder."
+    },
+    {
+      "node": "2366:25",
+      "titel": "Vers gebrand",
+      "waarom": "Eén groot woord en vier van jullie zakken naast elkaar maken meteen duidelijk wat FREKKO anders doet: alles wordt op bestelling gebrand."
+    },
+    {
+      "node": "2366:42",
+      "titel": "Je koffie belt aan",
+      "waarom": "Een speels inkomend-gesprekscherm valt op tussen gewone posts en maakt nieuwsgierig naar de koffie van deze week."
+    }
+  ],
+  "waarom": {
+    "niche": "koffie",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe koffiebrander niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe koffiedrinkers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende zak bonen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en koffiemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "80+",
+        "label": "advertenties heeft Wakuli nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2367:3",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij FREKKO: zo vind je jouw koffie",
+    "kop": "Welkom bij FREKKO",
+    "tekst": "Een warme welkomstmail voor nieuwe inschrijvers: wie FREKKO is, hoe de branddag op dinsdag werkt en waar je begint, met het proefpakket.",
+    "punten": [
+      "Oranje herokaart met jullie proefpakket",
+      "Drie kenmerken: wekelijks vers gebrand, binnen 48 uur verzonden, advies via WhatsApp",
+      "Tweede blok met jullie eigen foto dat uitnodigt om via WhatsApp hulp te vragen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2367:3",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij FREKKO: zo vind je jouw koffie",
+      "kop": "Welkom bij FREKKO",
+      "tekst": "Een warme welkomstmail voor nieuwe inschrijvers: wie FREKKO is, hoe de branddag op dinsdag werkt en waar je begint, met het proefpakket.",
+      "punten": [
+        "Oranje herokaart met jullie proefpakket",
+        "Drie kenmerken: wekelijks vers gebrand, binnen 48 uur verzonden, advies via WhatsApp",
+        "Tweede blok met jullie eigen foto dat uitnodigt om via WhatsApp hulp te vragen"
+      ]
+    },
+    {
+      "node": "2367:42",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom je ons in een oranje Panda ziet rijden",
+      "kop": "Verse koffie, bezorgd in een oranje Panda",
+      "tekst": "Een mail die het verhaal achter FREKKO vertelt, van de eigen branderij sinds 2022 tot de horeca die jullie koffie schenkt, met Tracon als koffie in de spotlight.",
+      "punten": [
+        "Hero met jullie eigen foto van de oranje Panda",
+        "Tracon met labels: Guji, 2100 m, washed, SCA 85, light roast",
+        "Donkere afsluiting over de branddag op dinsdag, met een knop naar alle koffies"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

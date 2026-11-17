@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "moto-hr54t",
+  "merk": "MOTO Coffee",
+  "domein": "motocoffee.nl",
+  "lead_id": "2026-11-17-motocoffee.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C8963A",
+  "kop": "Vers gebrand in Amersfoort, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team MOTO Coffee, ik heb dit gemaakt omdat jullie alle koffie zelf branden en biologisch werken, en dat verhaal zie ik nog nergens terug in advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2364:31",
+      "titel": "Nalu Blend uitgelegd",
+      "waarom": "Vier ronde foto's laten in één blik zien waar de bonen vandaan komen en hoe de blend smaakt, met de echte zak groot in beeld."
+    },
+    {
+      "node": "2364:56",
+      "titel": "Elke twee weken vers",
+      "waarom": "De weekstrip maakt het abonnement meteen duidelijk: je ziet dat er vanzelf een verse zak komt, zonder dat iemand een uitleg hoeft te lezen."
+    },
+    {
+      "node": "2364:85",
+      "titel": "Drie koffies voor €16,50",
+      "waarom": "Een grote kop met de prijs en foto's tussen de woorden valt op tijdens het scrollen en verlaagt de drempel om een nieuwe brander te proberen."
+    }
+  ],
+  "waarom": {
+    "niche": "koffie",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe koffiebrander niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe proevers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die proevers terugkomen en een abonnement nemen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en koffiemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Wakuli nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2366:55",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij MOTO",
+    "kop": "Welkom bij MOTO",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers op de site: wie MOTO is, hoe jullie werken en met welke koffie iemand het best kan beginnen. Nu staat er alleen een inschrijfveld in de footer, zonder welkomstmail erachter.",
+    "punten": [
+      "100% biologisch, Skal 108591",
+      "Zelf gebrand op de Loring in Amersfoort",
+      "Gratis verzending vanaf €50",
+      "Tweede blok: begin met het proefpakket van €16,50"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2366:55",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij MOTO",
+      "kop": "Welkom bij MOTO",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers op de site: wie MOTO is, hoe jullie werken en met welke koffie iemand het best kan beginnen. Nu staat er alleen een inschrijfveld in de footer, zonder welkomstmail erachter.",
+      "punten": [
+        "100% biologisch, Skal 108591",
+        "Zelf gebrand op de Loring in Amersfoort",
+        "Gratis verzending vanaf €50",
+        "Tweede blok: begin met het proefpakket van €16,50"
+      ]
+    },
+    {
+      "node": "2366:89",
+      "type": "Merkverhaal",
+      "onderwerp": "Van boon tot kop, in Amersfoort",
+      "kop": "Van boon tot kop, in Amersfoort",
+      "tekst": "Een mail die laat zien wie er achter de branderij staat: Tewis en Willem, de Loring Kestrel die zo'n 80 procent minder gas gebruikt en de Nalu Blend als huisblend, met een afsluiting voor thuis, kantoor en horeca.",
+      "punten": [
+        "Tewis en Willem achter de branderij",
+        "Nalu Blend: Guatemala + Sumatra, zoet en kruidig",
+        "1 kg voor €33,25 of 350 gram voor €11,75",
+        "Afsluiting: thuis, op kantoor of in je zaak"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
