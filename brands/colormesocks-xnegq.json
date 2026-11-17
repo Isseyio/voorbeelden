@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "colormesocks-xnegq",
+  "merk": "ColorMeSocks",
+  "domein": "colormesocks.nl",
+  "lead_id": "2026-11-17-colormesocks.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E6007E",
+  "kop": "48 kleuren en 90 hockeysokken, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team ColorMeSocks, ik heb dit gemaakt omdat jullie zoveel kleuren en modellen hebben en dat nu vooral in de shop laten zien, terwijl je het op Instagram juist in één beeld kunt vangen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2372:3",
+      "titel": "Happy Spring in drie punten",
+      "waarom": "De echte sok groot in beeld met drie korte kenmerken laat hockeyspelers meteen zien waarom deze sok anders is dan een standaard clubsok."
+    },
+    {
+      "node": "2372:27",
+      "titel": "Eén pak, 48 kleuren",
+      "waarom": "Dezelfde foto in twee kleuren laat in één blik zien dat je elke dag een andere kleur kunt kiezen, zonder dat iemand iets hoeft te lezen."
+    },
+    {
+      "node": "2372:52",
+      "titel": "Je week in kleur",
+      "waarom": "Een speelse weekplanner met schakelaars maakt van kleur kiezen een spelletje en nodigt uit om meerdere paren tegelijk te bestellen."
+    }
+  ],
+  "waarom": {
+    "niche": "sokken",
+    "kop": "Zo groeien sokkenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sokkenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een welkomstmail en een vaste nieuwsbrief zorgen dat die kopers terugkomen voor een volgend paar.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij mode- en sokkenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Happy Socks nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2374:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij ColorMeSocks, hier is je 10%",
+    "kop": "Welkom bij ColorMeSocks",
+    "tekst": "De mail die direct na de inschrijving onder in de site komt: de beloofde 10% korting, wat jullie sokken anders maakt en een snelle weg naar hockey, casual of sport. Nu zie ik geen pop-up en geen welkomstflow achter dat formulier.",
+    "punten": [
+      "10% korting op de eerste bestelling",
+      "Gemaakt in Nederland, elke sok gecontroleerd",
+      "Drie blokken: hockey, casual en sport",
+      "Afsluiting: eigen ontwerp vanaf 25 paar"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2374:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij ColorMeSocks, hier is je 10%",
+      "kop": "Welkom bij ColorMeSocks",
+      "tekst": "De mail die direct na de inschrijving onder in de site komt: de beloofde 10% korting, wat jullie sokken anders maakt en een snelle weg naar hockey, casual of sport. Nu zie ik geen pop-up en geen welkomstflow achter dat formulier.",
+      "punten": [
+        "10% korting op de eerste bestelling",
+        "Gemaakt in Nederland, elke sok gecontroleerd",
+        "Drie blokken: hockey, casual en sport",
+        "Afsluiting: eigen ontwerp vanaf 25 paar"
+      ]
+    },
+    {
+      "node": "2374:49",
+      "type": "Merkverhaal",
+      "onderwerp": "Wie er achter jullie sokken zit",
+      "kop": "Sokken met een eigen verhaal",
+      "tekst": "Een mail die het team laat zien (Bart, Claudia, Joost en Boris), uitlegt wat er in een hockeysok zit en eindigt met de teamsok op maat. Goed voor nieuwe inschrijvers die nog twijfelen.",
+      "punten": [
+        "Het team uit Lisserbroek",
+        "Happy Spring met vier kenmerken uitgelegd",
+        "Teamsok vanaf 25 paar, proefconcept binnen 12 uur",
+        "Prijzen: hockey vanaf €14,99, casual €10,99"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

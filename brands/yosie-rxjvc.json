@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "yosie-rxjvc",
+  "merk": "Yosie",
+  "domein": "yosie.nl",
+  "lead_id": "2026-11-17-yosie.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B4924E",
+  "kop": "Gouden blikken, houten lont, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Yosie, ik heb dit gemaakt omdat jullie gouden blikken met een houten lont op foto meteen opvallen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2374:114",
+      "titel": "Sojakaars",
+      "waarom": "Eén groot woord en een zoekbalk sluiten aan op waar mensen naar zoeken, met drie bestsellers en de prijs er direct onder."
+    },
+    {
+      "node": "2374:136",
+      "titel": "Met de hand gegoten",
+      "waarom": "Een close-up met korte labels laat zien waarom de kaars zijn prijs waard is: houten lont, sojawas en zo'n 30 uur brandtijd."
+    },
+    {
+      "node": "2374:157",
+      "titel": "Lievelingskaars",
+      "waarom": "Echte reviews van jullie eigen klanten maken nieuwe kopers zekerder dan elke claim die een merk zelf kan doen."
+    }
+  ],
+  "waarom": {
+    "niche": "geur en kaarsen",
+    "kop": "Zo groeien kaarsenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kaarsenmerk niet via Google, maar tijdens het scrollen op Instagram, vaak op zoek naar een cadeau. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kaarsen- en geurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Baobab Collection nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2374:199",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Yosie",
+    "kop": "Welkom bij Yosie",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: hoe de kaarsen gemaakt worden en dat je er een cadeau van kunt maken met een handgeschreven kaartje.",
+    "punten": [
+      "Biologische sojawas en een houten lont",
+      "± 30 uur brandtijd per kaars",
+      "Cadeauverpakking met handgeschreven kaartje"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2374:199",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Yosie",
+      "kop": "Welkom bij Yosie",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: hoe de kaarsen gemaakt worden en dat je er een cadeau van kunt maken met een handgeschreven kaartje.",
+      "punten": [
+        "Biologische sojawas en een houten lont",
+        "± 30 uur brandtijd per kaars",
+        "Cadeauverpakking met handgeschreven kaartje"
+      ]
+    },
+    {
+      "node": "2374:235",
+      "type": "Assortimentsmail",
+      "onderwerp": "Jouw huis mist nog een geur",
+      "kop": "Jouw huis mist nog een geur",
+      "tekst": "Vier bestsellers op een rij, elk met de echte reviewscore, en een klantquote als afsluiting.",
+      "punten": [
+        "Apple & Vanilla, Magnolia & Pear en Fresh Linen",
+        "Geurstokjes Magnolia & Pear",
+        "Review van Simone als afsluiting"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

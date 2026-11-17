@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "bestuiving-s4bd7",
+  "merk": "Bestuiving Brabant",
+  "domein": "bestuivingbrabant.nl",
+  "lead_id": "2026-11-17-bestuivingbrabant.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A8650F",
+  "kop": "Honing uit Brabant, van raat tot pot",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Bestuiving Brabant, ik heb dit gemaakt omdat elke honing bij jullie een eigen standplaats heeft, van de lindebomen in Dongen-Vaart tot de heide bij Riel. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2374:293",
+      "titel": "Van raat tot pot",
+      "waarom": "Laat in vier eigen foto's zien hoe de lindehoning gemaakt wordt, dat maakt 'puur van de imker' meteen geloofwaardig."
+    },
+    {
+      "node": "2374:317",
+      "titel": "Nieuw: crème honing",
+      "waarom": "Een nieuw product met een duidelijke reden om te proberen: romig en smeerbaar, met de prijs er direct bij."
+    },
+    {
+      "node": "2374:339",
+      "titel": "Elke dag een lepel",
+      "waarom": "Laat zien hoe vaak je honing gebruikt, zodat een pot een vast boodschapje wordt in plaats van een cadeautje."
+    }
+  ],
+  "waarom": {
+    "niche": "food",
+    "kop": "Zo groeien foodmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw foodmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als de pot leeg is.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15+",
+        "label": "advertenties heeft Honingwinkel nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2375:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de imkerij",
+    "kop": "Welkom bij de imkerij",
+    "tekst": "Fijn dat je erbij bent. Wij zijn Bestuiving Brabant: eigen bijenvolken, eigen honing, rechtstreeks van de imker naar jouw keukenkast.",
+    "punten": [
+      "100% pure honing uit Brabant",
+      "Rechtstreeks van de imker",
+      "Gratis verzending vanaf €50"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2375:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de imkerij",
+      "kop": "Welkom bij de imkerij",
+      "tekst": "Fijn dat je erbij bent. Wij zijn Bestuiving Brabant: eigen bijenvolken, eigen honing, rechtstreeks van de imker naar jouw keukenkast.",
+      "punten": [
+        "100% pure honing uit Brabant",
+        "Rechtstreeks van de imker",
+        "Gratis verzending vanaf €50"
+      ]
+    },
+    {
+      "node": "2375:30",
+      "type": "Merkverhaal",
+      "onderwerp": "Hier komt jouw honing vandaan",
+      "kop": "Hier komt jouw honing vandaan",
+      "tekst": "Begonnen als hobby in 2021, sinds 2022 een echt bedrijf. De kasten staan tussen de lindebomen in Dongen-Vaart, op de heide bij Riel en bij Hooge Zwaluwe, daarom smaakt elke soort anders.",
+      "punten": [
+        "Lindehoning met een frisse munttoets",
+        "Ook te koop in Kaatsheuvel, Oosterhout, Dongen en Hooge Zwaluwe",
+        "Bestel online, vanaf €7"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
