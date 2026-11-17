@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "nanas-avac4",
+  "merk": "Nana's Seamstress",
+  "domein": "nanasseamstress.nl",
+  "lead_id": "2026-11-17-nanasseamstress.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#CFA970",
+  "kop": "Afrikaanse prints uit Venray op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Nana's Seamstress, ik heb dit gemaakt omdat jullie elke jurk en set ook op maat naaien in het atelier in Venray. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2472:3",
+      "titel": "Kleding met een verhaal",
+      "waarom": "Een rustige merkadvertentie die laat zien waar de kleding vandaan komt: het atelier en de prints."
+    },
+    {
+      "node": "2472:19",
+      "titel": "Eén set, twee prints",
+      "waarom": "Twee kleuren naast elkaar met prijs maakt kiezen makkelijk en nodigt uit om door te klikken."
+    },
+    {
+      "node": "2472:37",
+      "titel": "Je jurk belt",
+      "waarom": "Een speelse invalshoek die maatwerk in één beeld uitlegt en opvalt tussen gewone modeadvertenties."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende print.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft AfricanFabs nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2473:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Nana's Seamstress",
+    "kop": "Welkom bij Nana's Seamstress",
+    "tekst": "Kleurrijke Afrikaanse prints, speciaal voor jou genaaid in ons atelier in Venray. Bij elke jurk en set kun je kiezen voor maatwerk.",
+    "punten": [
+      "Met liefde gemaakt in ons atelier",
+      "Persoonlijk maatwerk op jouw maten",
+      "Unieke Afrikaanse prints"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2473:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Nana's Seamstress",
+      "kop": "Welkom bij Nana's Seamstress",
+      "tekst": "Kleurrijke Afrikaanse prints, speciaal voor jou genaaid in ons atelier in Venray. Bij elke jurk en set kun je kiezen voor maatwerk.",
+      "punten": [
+        "Met liefde gemaakt in ons atelier",
+        "Persoonlijk maatwerk op jouw maten",
+        "Unieke Afrikaanse prints"
+      ]
+    },
+    {
+      "node": "2473:42",
+      "type": "Merkverhaal",
+      "onderwerp": "Van Kumasi naar Venray",
+      "kop": "Van Kumasi naar Venray.",
+      "tekst": "Nana Ama vertelt hoe ze van jongs af aan kleding maakt en nu in haar atelier in Venray jurken, sets en hoofddoeken van Afrikaanse print naait, met de off-shoulder co-ord set uitgelicht.",
+      "punten": [
+        "Off-shoulder co-ord set, €75",
+        "Ook op maat te maken",
+        "Hoofddoeken in bijpassende print, €15"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

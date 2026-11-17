@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "opgoudgeluk-jp6wh",
+  "merk": "Op Goud Geluk",
+  "domein": "opgoudgeluk.nl",
+  "lead_id": "2026-11-17-opgoudgeluk.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#9f7725",
+  "kop": "Handgemaakte sieraden uit Lelystad, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Op Goud Geluk, ik heb dit gemaakt omdat Astrid elk sieraad zelf ontwerpt en maakt, en dat verhaal online nog meer kan opvallen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2474:3",
+      "titel": "De Trefoil ring van dichtbij",
+      "waarom": "Een close-up aan de hand met de details erbij laat zien waarom een handgemaakte gouden ring zijn prijs waard is."
+    },
+    {
+      "node": "2474:24",
+      "titel": "De Leaves collectie",
+      "waarom": "Een echte modelfoto met de materialen en een lage instapprijs maakt de collectie meteen draagbaar voor nieuwe kopers."
+    },
+    {
+      "node": "2474:42",
+      "titel": "Gemaakt door Astrid",
+      "waarom": "Wie de maker ziet, koopt sneller een sieraad voor altijd; het atelier is jullie sterkste verschil met de grote ketens."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, bijvoorbeeld voor trouwringen of een cadeau.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2474:58",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Op Goud Geluk",
+    "kop": "Welkom bij Op Goud Geluk",
+    "tekst": "Een Nederlandstalige welkomstmail achter de bestaande 20%-pop-up: de code CODESALE20 meteen in beeld, daarna de collecties en het atelier van Astrid.",
+    "punten": [
+      "Kortingscode CODESALE20 bovenaan",
+      "Leaves, Trefoil en sieraden op maat uitgelicht",
+      "Gratis verzending vanaf €100"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2474:58",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Op Goud Geluk",
+      "kop": "Welkom bij Op Goud Geluk",
+      "tekst": "Een Nederlandstalige welkomstmail achter de bestaande 20%-pop-up: de code CODESALE20 meteen in beeld, daarna de collecties en het atelier van Astrid.",
+      "punten": [
+        "Kortingscode CODESALE20 bovenaan",
+        "Leaves, Trefoil en sieraden op maat uitgelicht",
+        "Gratis verzending vanaf €100"
+      ]
+    },
+    {
+      "node": "2474:93",
+      "type": "Productspotlight",
+      "onderwerp": "Kleurrijk en elegant: de Trefoil ring",
+      "kop": "Kleurrijk en elegant",
+      "tekst": "Eén ring in de hoofdrol: de Trefoil ring in 14 karaat geelgoud met rhodoliet granaat, aan de hand en met de details uitgelicht.",
+      "punten": [
+        "Echte foto aan de hand",
+        "Materiaal, steen en maat uitgelicht",
+        "Gratis ringmaat aanpassen binnen 3 weken"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
