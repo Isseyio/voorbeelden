@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "vormentaal-c9ptv",
+  "merk": "Studio Vormentaal",
+  "domein": "studiovormentaal.nl",
+  "lead_id": "2026-11-17-studiovormentaal.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5B4BB7",
+  "kop": "Kleurrijke kaarten en posters, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Studio Vormentaal, ik heb dit gemaakt omdat jullie vrolijke illustraties precies het soort beeld zijn waar mensen op Instagram voor stoppen met scrollen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2390:4",
+      "titel": "Kleur aan je muur",
+      "waarom": "Een grote kop met kleine stukjes van de posters ertussen maakt van de advertentie zelf een vrolijk ontwerp, en de prijs vanaf €7,95 staat er meteen bij."
+    },
+    {
+      "node": "2390:21",
+      "titel": "Een kaartje voor wie je mist",
+      "waarom": "Eén groot woord en een zoekbalk met een herkenbare zoekvraag laten in een tel zien waarvoor je hier een kaart koopt, met drie echte kaarten eronder."
+    },
+    {
+      "node": "2390:37",
+      "titel": "Je ochtendkoffie belt",
+      "waarom": "Een speels belscherm rond de Koffie Poster valt op tussen gewone posts en spreekt koffieliefhebbers direct aan."
+    }
+  ],
+  "waarom": {
+    "niche": "kaarten en posters",
+    "kop": "Zo groeien kaarten- en postermerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kaarten- of postermerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een welkomstmail en een vaste nieuwsbrief zorgen dat die kopers terugkomen, zeker rond de feestdagen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kaarten- en postermerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Kaartje2go nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2391:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Studio Vormentaal",
+    "kop": "Fijn dat je er bent",
+    "tekst": "De mail die nieuwe inschrijvers direct krijgen: wie Melanie is, wat Studio Vormentaal maakt en waar het gemaakt wordt. Op de site zag ik nog geen aanmelding voor een nieuwsbrief, dus dit is de eerste mail van een welkomstflow.",
+    "punten": [
+      "Hero met de eigen wenskaarten en een knop naar de nieuwste producten",
+      "Drie punten: eigen ontwerpen, lokale productie, verzonden binnen 1 tot 3 werkdagen",
+      "Tweede blok over wenskaarten met envelop en Directe Verzending",
+      "Footer met gratis verzending vanaf €40 binnen Nederland"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2391:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Studio Vormentaal",
+      "kop": "Fijn dat je er bent",
+      "tekst": "De mail die nieuwe inschrijvers direct krijgen: wie Melanie is, wat Studio Vormentaal maakt en waar het gemaakt wordt. Op de site zag ik nog geen aanmelding voor een nieuwsbrief, dus dit is de eerste mail van een welkomstflow.",
+      "punten": [
+        "Hero met de eigen wenskaarten en een knop naar de nieuwste producten",
+        "Drie punten: eigen ontwerpen, lokale productie, verzonden binnen 1 tot 3 werkdagen",
+        "Tweede blok over wenskaarten met envelop en Directe Verzending",
+        "Footer met gratis verzending vanaf €40 binnen Nederland"
+      ]
+    },
+    {
+      "node": "2391:45",
+      "type": "Productspotlight",
+      "onderwerp": "Kleur aan je muur",
+      "kop": "Kleur aan je muur",
+      "tekst": "Een mail die de posters uit de eigen collectie op een rij zet, elk met een korte regel, de prijs en een knop. Onderaan de uitnodiging voor de kraam op de Loonse Kerstklokkenloop.",
+      "punten": [
+        "Hero met de posters in de eigen stijl",
+        "Vier posters: Koffie, Cocktail, Citroen en Zomeravond, elk €7,95",
+        "A4 op 170 grams mat papier, gedrukt in Nederland",
+        "Blok over de markt op 13 december in Loon op Zand"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

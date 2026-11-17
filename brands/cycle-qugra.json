@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "cycle-qugra",
+  "merk": "Into the Cycle",
+  "domein": "intothecycle.com",
+  "lead_id": "2026-11-17-intothecycle.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4B1C82",
+  "kop": "Verse groenten uit de vensterbank, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Into the Cycle, ik heb dit gemaakt omdat je met jullie kiemzaden in vijf dagen verse groenten uit de vensterbank haalt, en dat laat zich mooi zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2388:4",
+      "titel": "In 5 dagen oogsten",
+      "waarom": "Een weekstrip laat in één oogopslag zien hoe makkelijk het is: weken, spoelen en op dag vijf oogsten."
+    },
+    {
+      "node": "2388:35",
+      "titel": "370 keer beoordeeld",
+      "waarom": "Echte Kiyoh-reviews van jullie eigen klanten maken nieuwe kopers zekerder dan elke claim die een merk zelf kan doen."
+    },
+    {
+      "node": "2388:73",
+      "titel": "Van zaadje tot microgroente",
+      "waarom": "Het zaadje naast het resultaat laat zien wat je krijgt, zonder dat er veel tekst nodig is."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien foodmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw foodmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als de zaadjes op zijn.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Simon Lévelt nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2389:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Into the Cycle",
+    "kop": "Welkom bij Into the Cycle",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wat jullie verkopen, waarom het biologisch is en hoe je in drie stappen begint met kiemen.",
+    "punten": [
+      "Biologische thee, kruiden en kiemzaden",
+      "Binnen 1-2 werkdagen in huis, gratis verzending vanaf €50",
+      "Zo begin je: weken, spoelen, na 5 dagen oogsten"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2389:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Into the Cycle",
+      "kop": "Welkom bij Into the Cycle",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wat jullie verkopen, waarom het biologisch is en hoe je in drie stappen begint met kiemen.",
+      "punten": [
+        "Biologische thee, kruiden en kiemzaden",
+        "Binnen 1-2 werkdagen in huis, gratis verzending vanaf €50",
+        "Zo begin je: weken, spoelen, na 5 dagen oogsten"
+      ]
+    },
+    {
+      "node": "2389:31",
+      "type": "Merkverhaal",
+      "onderwerp": "Vers van eigen grond, ook zonder tuin",
+      "kop": "Vers van eigen grond",
+      "tekst": "Het idee achter Into the Cycle in één mail: met een zakje zaden en een glazen pot kweek je je eigen verse groenten in de vensterbank. Met taugé als voorbeeld.",
+      "punten": [
+        "Taugé: in het donker, oogsten na 4 tot 6 dagen",
+        "Fris en knapperig, voor roerbak en salade",
+        "Biologisch, duurzaam en gezond"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
