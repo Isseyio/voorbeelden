@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "fiastra-w6sdk",
+  "merk": "Fiastra",
+  "domein": "fiastra.com",
+  "lead_id": "2026-11-17-fiastra.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#0A3FB8",
+  "kop": "Fruitschalen, vazen en hondenlampen met een eigen vorm, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Fiastra, ik heb dit gemaakt omdat jullie objecten op een tafel meteen opvallen, van de Numana-schaal in koningsblauw tot de Labrador die het licht vasthoudt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2491:4",
+      "titel": "Dezelfde schaal, andere kleur",
+      "waarom": "Twee kleuren naast elkaar laten mensen in één blik kiezen welke bij hun eigen tafel past."
+    },
+    {
+      "node": "2491:27",
+      "titel": "Je Labrador belt",
+      "waarom": "Een herkenbaar telefoonscherm stopt het scrollen, en de lamp met hond is het object dat mensen willen laten zien."
+    },
+    {
+      "node": "2491:40",
+      "titel": "Eén woord: kleur",
+      "waarom": "Een groot woord en drie echte objecten vertellen in twee seconden waar Fiastra voor staat."
+    }
+  ],
+  "waarom": {
+    "niche": "interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw interieurmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, zeker richting de feestdagen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10",
+        "label": "advertenties heeft Urban Nature Culture nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2491:60",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Fiastra",
+    "kop": "Welkom bij Fiastra",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie Fiastra is, wat ze kunnen verwachten en één object om mee te beginnen. Jullie inschrijfblok belooft exclusieve deals en early access; deze mail maakt dat meteen waar.",
+    "punten": [
+      "Handgemaakt in jullie eigen werkplaats in Nederland",
+      "De Fiastra Method: meerdere lagen coating",
+      "30 dagen retour en 2 jaar garantie",
+      "De Numana Fruit Bowl als eerste kennismaking"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2491:60",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Fiastra",
+      "kop": "Welkom bij Fiastra",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie Fiastra is, wat ze kunnen verwachten en één object om mee te beginnen. Jullie inschrijfblok belooft exclusieve deals en early access; deze mail maakt dat meteen waar.",
+      "punten": [
+        "Handgemaakt in jullie eigen werkplaats in Nederland",
+        "De Fiastra Method: meerdere lagen coating",
+        "30 dagen retour en 2 jaar garantie",
+        "De Numana Fruit Bowl als eerste kennismaking"
+      ]
+    },
+    {
+      "node": "2491:89",
+      "type": "Productspotlight",
+      "onderwerp": "Vier objecten voor een tafel met karakter",
+      "kop": "Een tafel met karakter",
+      "tekst": "Een assortimentsmail met een sfeerfoto bovenaan en vier objecten met elk een korte zin, prijs en knop. Werkt goed richting de feestdagen, als mensen een cadeau zoeken met een eigen vorm.",
+      "punten": [
+        "Numana Fruit Bowl · €39",
+        "Amandera Fruit Bowl · €59",
+        "Amandera Vase Large · €93",
+        "Labrador Retriever Table Lamp · €89"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
