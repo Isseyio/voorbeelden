@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "fiveways-fnx6c",
+  "merk": "Five Ways Coffee Roasters",
+  "domein": "fivewayscoffee.com",
+  "lead_id": "2026-11-17-fivewayscoffee.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#151515",
+  "kop": "Vers gebrande koffie uit Amsterdam-West, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Five Ways, ik heb dit gemaakt omdat koffie die elke week op bestelling gebrand wordt, in zakken die zo opvallen als die van jullie, precies is wat mensen tijdens het scrollen laat stoppen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2291:2",
+      "titel": "Je verse koffie belt",
+      "waarom": "Een herkenbaar belscherm met jullie zak in het midden maakt de Coffee Club speels en laat meteen zien dat overslaan of pauzeren altijd kan."
+    },
+    {
+      "node": "2291:28",
+      "titel": "Chocolade of framboos?",
+      "waarom": "Twee bonen naast elkaar met hun smaaknotities helpen mensen kiezen, en de onderbalk vertelt in één regel dat alles op jullie eigen Loring gebrand wordt."
+    },
+    {
+      "node": "2291:73",
+      "titel": "Vers",
+      "waarom": "Eén groot woord en een zoekbalk sluiten aan bij hoe mensen naar specialty koffie zoeken, met drie echte zakken en jullie code ROASTING eronder."
+    }
+  ],
+  "waarom": {
+    "niche": "koffie",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe branderij niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief en een abonnement zorgen dat die kopers elke maand terugkomen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties hebben Wakuli en De Koffiejongens nu allebei tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2292:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Five Ways",
+    "kop": "Welkom bij Five Ways",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers, met jullie bestaande code ROASTING voor gratis verzending vanaf €40, drie zakken in beeld en de Coffee Club als volgende stap.",
+    "punten": [
+      "Code ROASTING groot in beeld, met drie echte zakken eronder",
+      "Twee favorieten met smaaknotities en prijs: Moves Like Jagger en Da Bomb",
+      "Afsluiter: de Five Ways Coffee Club, overslaan of pauzeren kan altijd"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2292:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Five Ways",
+      "kop": "Welkom bij Five Ways",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers, met jullie bestaande code ROASTING voor gratis verzending vanaf €40, drie zakken in beeld en de Coffee Club als volgende stap.",
+      "punten": [
+        "Code ROASTING groot in beeld, met drie echte zakken eronder",
+        "Twee favorieten met smaaknotities en prijs: Moves Like Jagger en Da Bomb",
+        "Afsluiter: de Five Ways Coffee Club, overslaan of pauzeren kan altijd"
+      ]
+    },
+    {
+      "node": "2292:85",
+      "type": "Merkverhaal",
+      "onderwerp": "Vers gebrand in Amsterdam-West",
+      "kop": "Vers gebrand in Amsterdam-West",
+      "tekst": "Een mail die vertelt hoe jullie koffie gebrand en verstuurd wordt, één koffie uitlicht met herkomst en smaak, en afsluit met een uitnodiging voor de twee cafés.",
+      "punten": [
+        "Hero met jullie holografische zakken en het verhaal van de Loring S35",
+        "San Sebastian uitgelicht met regio, proces, smaak en hoogte",
+        "Afsluiter: kom langs in Oost of West"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

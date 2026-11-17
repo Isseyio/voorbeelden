@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "planable-vc5t7",
+  "merk": "Planable",
+  "domein": "planable.nl",
+  "lead_id": "2026-11-17-planable.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#DE1F1C",
+  "kop": "Planners zonder datum, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Planable, ik heb dit gemaakt omdat een planner die je start wanneer jij wilt precies is wat mensen rond de jaarwisseling zoeken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2291:57",
+      "titel": "Start 2027",
+      "waarom": "Een groot woord en een zoekbalk met 'planner zonder datum' sluiten aan op waar mensen rond de jaarwisseling naar zoeken, met drie Premium Planners in beeld."
+    },
+    {
+      "node": "2292:45",
+      "titel": "Eén overzicht",
+      "waarom": "Jullie eigen foto aan de cafétafel met korte labels laat in één blik zien hoe de weekspread werkt: agenda, to-do en elke 4 weken ruimte voor doelen."
+    },
+    {
+      "node": "2292:64",
+      "titel": "2027 belt",
+      "waarom": "Een speels scherm met een inkomend gesprek valt op tussen gewone posts en maakt van een planner kiezen een kleine, leuke beslissing."
+    }
+  ],
+  "waarom": {
+    "niche": "planners",
+    "kop": "Zo groeien plannermerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe planner niet via Google, maar tijdens het scrollen, zeker rond de jaarwisseling. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een volgende planner of een cadeau.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij plannermerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Selfspire nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2293:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Planable, je 5% staat klaar",
+    "kop": "Welkom bij Planable",
+    "tekst": "Een eerste mail voor iedereen die zich aanmeldt voor de 5% korting: wat de planner anders maakt en een duidelijke knop naar de planners.",
+    "punten": [
+      "Rode herokaart met de Premium Planner Paars en de 5% korting",
+      "Drie redenen in één oogopslag: niet datumgebonden, morgen in huis, gratis verzending vanaf €20",
+      "Tweede blok met jullie eigen foto: agenda en to-do in één week"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2293:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Planable, je 5% staat klaar",
+      "kop": "Welkom bij Planable",
+      "tekst": "Een eerste mail voor iedereen die zich aanmeldt voor de 5% korting: wat de planner anders maakt en een duidelijke knop naar de planners.",
+      "punten": [
+        "Rode herokaart met de Premium Planner Paars en de 5% korting",
+        "Drie redenen in één oogopslag: niet datumgebonden, morgen in huis, gratis verzending vanaf €20",
+        "Tweede blok met jullie eigen foto: agenda en to-do in één week"
+      ]
+    },
+    {
+      "node": "2294:2",
+      "type": "Assortimentsmail",
+      "onderwerp": "Welke planner past bij jouw week?",
+      "kop": "Welke planner past bij jouw week?",
+      "tekst": "Een mail die de keuze makkelijk maakt: Premium Planner, A5 Planner en A4 Deskplanner naast elkaar, met de Black Friday-prijzen en een echte review.",
+      "punten": [
+        "Sfeerfoto van de deskplanner als opening",
+        "Drie planners met formaat, korte uitleg en prijs",
+        "Review van Fabianne via Trustpilot en de score van 4,4 uit 156 reviews"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
