@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "fairbow-95esg",
+  "merk": "Fairbow",
+  "domein": "fairbowusa.com",
+  "lead_id": "2026-11-17-fairbowusa.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#14532D",
+  "kop": "Handgemaakte longbows, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Fairbow, ik heb dit gemaakt omdat handgemaakte bogen uit Friesland een verhaal hebben dat op Instagram goed werkt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2423:4",
+      "titel": "Welke longbow past bij jou?",
+      "waarom": "Twee bogen naast elkaar met prijs helpen twijfelaars kiezen tussen instap en signature."
+    },
+    {
+      "node": "2423:5",
+      "titel": "Je nieuwe longbow belt",
+      "waarom": "Een speels format valt op tussen de gewone posts en zet de bogen zelf centraal."
+    },
+    {
+      "node": "2423:6",
+      "titel": "Sherwood in detail",
+      "waarom": "Uitleg over kern, glasvezel en riser geeft schutters een reden om €589 uit te geven."
+    }
+  ],
+  "waarom": {
+    "niche": "sport & outdoor",
+    "kop": "Zo groeien sport- en outdoormerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe schutters en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor pijlen, kokers en hun volgende boog.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sport- en outdoormerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij sport- en outdoormerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "2423:7",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Fairbow",
+    "kop": "Welkom bij Fairbow",
+    "tekst": "Een welkomstmail voor nieuwe aanmelders van de nieuwsbrief: wie jullie zijn, hoe elke boog wordt getillerd en getest, en een uitnodiging om langs te komen in Oosterbierum. Nu staat er alleen een nieuwsbriefblok in de footer zonder welkomstmail erachter.",
+    "punten": [
+      "100% handgemaakt in eigen werkplaats",
+      "Levenslange garantie op de signature-bogen",
+      "Kennismaken met bogenmaker Magén"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2423:7",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Fairbow",
+      "kop": "Welkom bij Fairbow",
+      "tekst": "Een welkomstmail voor nieuwe aanmelders van de nieuwsbrief: wie jullie zijn, hoe elke boog wordt getillerd en getest, en een uitnodiging om langs te komen in Oosterbierum. Nu staat er alleen een nieuwsbriefblok in de footer zonder welkomstmail erachter.",
+      "punten": [
+        "100% handgemaakt in eigen werkplaats",
+        "Levenslange garantie op de signature-bogen",
+        "Kennismaken met bogenmaker Magén"
+      ]
+    },
+    {
+      "node": "2423:8",
+      "type": "Assortiment",
+      "onderwerp": "Jouw eerste of volgende longbow",
+      "kop": "Jouw eerste of volgende longbow",
+      "tekst": "Een assortimentsmail met vier bogen van instap tot warbow, elk met prijs en knop, en een reviewblok met de echte score van de Sentinel Excellent.",
+      "punten": [
+        "Sentinel Excellent, Sherwood, Greenheart en Warbow FTA",
+        "Echte prijzen van de site",
+        "Review: 4,9 uit 5 (15 reviews)"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
