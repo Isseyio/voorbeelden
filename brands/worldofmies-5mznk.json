@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "worldofmies-5mznk",
+  "merk": "World of Mies",
+  "domein": "worldofmies.com",
+  "lead_id": "2026-11-17-worldofmies.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2F4A3A",
+  "kop": "Handgeschilderde dieren, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team World of Mies, ik heb dit gemaakt omdat elk doek begint bij een aquarel die Mies zelf schildert, en dat verhaal zie je in een advertentie meteen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2488:113",
+      "titel": "Van aquarel tot doek",
+      "waarom": "Laat in één beeld zien hoe een doek ontstaat, zodat de prijs logisch voelt voor een handgeschilderd cadeau."
+    },
+    {
+      "node": "2488:137",
+      "titel": "Medium of XL",
+      "waarom": "Twee maten naast elkaar met prijs maakt de keuze makkelijk en haalt twijfel weg."
+    },
+    {
+      "node": "2488:162",
+      "titel": "Een bordje met naam",
+      "waarom": "Een speelse opzet die opvalt tussen de kraamcadeau-advertenties en het persoonlijke bordje centraal zet."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien babymerken op Instagram.",
+    "tekst": "De meeste mensen vinden een kraamcadeau niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Kraam-cadeau.nl nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2489:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in de wereld van Mies",
+    "kop": "Welkom in de wereld van Mies",
+    "tekst": "Fijn dat je er bent. Elk ontwerp begint bij een aquarel van een lief dier, met de hand geschilderd door Mies. Daar maakt ze zachte doeken, bordjes en groeimeters van.",
+    "punten": [
+      "2 hydrofiele doeken babyluipaard, €19,95",
+      "Kinderbordje met naam, €29,95",
+      "XL hydrofiele doek giraf, €24,95",
+      "Gratis cadeauverpakking, verzonden met PostNL"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2489:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in de wereld van Mies",
+      "kop": "Welkom in de wereld van Mies",
+      "tekst": "Fijn dat je er bent. Elk ontwerp begint bij een aquarel van een lief dier, met de hand geschilderd door Mies. Daar maakt ze zachte doeken, bordjes en groeimeters van.",
+      "punten": [
+        "2 hydrofiele doeken babyluipaard, €19,95",
+        "Kinderbordje met naam, €29,95",
+        "XL hydrofiele doek giraf, €24,95",
+        "Gratis cadeauverpakking, verzonden met PostNL"
+      ]
+    },
+    {
+      "node": "2489:62",
+      "type": "Merkverhaal",
+      "onderwerp": "Elk dier begint met een penseel",
+      "kop": "Elk dier begint met een penseel",
+      "tekst": "Mies is Michelle de Boer. Na vijftien jaar bij reclamebureaus in Amsterdam begon ze in de zomer van 2017 met een aquarelblok dieren te schilderen. Inmiddels zijn er meer dan 10.000 cadeaus gemaakt.",
+      "punten": [
+        "Handgeschilderd door Mies zelf",
+        "XL-doek van 120 cm",
+        "Gratis ingepakt",
+        "Eigen winkel in De Hallen, Amsterdam"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

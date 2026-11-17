@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "aya-9syd7",
+  "merk": "AYA Label",
+  "domein": "ayalabel.com",
+  "lead_id": "2026-11-04-ayalabel.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Zwemkleding van oceaanafval, ook in de winter op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team AYA Label, ik heb dit gemaakt omdat elk ontwerp van jullie de naam van een Griekse godin draagt, en dat verhaal leent zich goed voor advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2487:5",
+      "titel": "Gemaakt van oceaanafval",
+      "waarom": "Het materiaal is het verhaal: één duidelijke reden om voor AYA te kiezen, met jullie eigen foto's in de kop."
+    },
+    {
+      "node": "2487:27",
+      "titel": "Kies je godin",
+      "waarom": "Twee kleuren naast elkaar laten mensen kiezen in plaats van twijfelen, en dat houdt ze langer bij de advertentie."
+    },
+    {
+      "node": "2487:49",
+      "titel": "Winterzon vanaf €87",
+      "waarom": "In de winter boeken mensen hun zonvakantie: een echte prijs en een modelfoto spelen daar direct op in."
+    }
+  ],
+  "waarom": {
+    "niche": "zwemkleding",
+    "kop": "Zo groeien zwemkledingmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw zwemkledingmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende set.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25+",
+        "label": "advertenties heeft CYELL nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2488:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in de Goddess loop",
+    "kop": "Welkom in de Goddess loop",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie AYA is, waarom de bikini's van gerecycled oceaanafval zijn gemaakt en het verhaal achter de godinnennamen.",
+    "punten": [
+      "Hero met jullie eigen strandfoto",
+      "Drie redenen: oceaanafval, pasvorm voor elk lichaam, gratis verzending vanaf €70",
+      "Tweede kaart over de Griekse godinnen, met een knop naar de sets"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2488:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in de Goddess loop",
+      "kop": "Welkom in de Goddess loop",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie AYA is, waarom de bikini's van gerecycled oceaanafval zijn gemaakt en het verhaal achter de godinnennamen.",
+      "punten": [
+        "Hero met jullie eigen strandfoto",
+        "Drie redenen: oceaanafval, pasvorm voor elk lichaam, gratis verzending vanaf €70",
+        "Tweede kaart over de Griekse godinnen, met een knop naar de sets"
+      ]
+    },
+    {
+      "node": "2488:51",
+      "type": "Productspotlight",
+      "onderwerp": "Winterzon in zicht?",
+      "kop": "Vier sets voor je reis naar de zon",
+      "tekst": "Een assortimentsmail voor de winter: vier sets met prijs en een korte regel, en een look met de bijpassende mini skirt.",
+      "punten": [
+        "The Iris Set, Erato & Aphrodite Set, Pallas Set en Clio & Metis Set",
+        "Per set een eigen knop",
+        "Afsluiting met de Pallas Set en mini skirt"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
