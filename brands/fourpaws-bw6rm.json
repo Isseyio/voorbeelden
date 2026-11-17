@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "fourpaws-bw6rm",
+  "merk": "Four Paws Boutique",
+  "domein": "fourpawsboutique.nl",
+  "lead_id": "2026-11-17-fourpawsboutique.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2F3E2E",
+  "kop": "Handgemaakte riemen, in beeld gebracht met jullie eigen beagles.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Four Paws Boutique, ik heb dit gemaakt omdat het verhaal van Max en de zelfgemaakte riemen precies is wat hondenbaasjes willen horen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2334:71",
+      "titel": "Dezelfde riem, jouw kleur",
+      "waarom": "Twee kleuren naast elkaar laten de keuze zien en maken duidelijk dat je hem op maat krijgt, vanaf €11,00."
+    },
+    {
+      "node": "2334:91",
+      "titel": "Door baasjes goedgekeurd",
+      "waarom": "Twee echte reviews over jullie eigen beagle met de biothane riem geven vertrouwen aan iemand die jullie nog niet kent."
+    },
+    {
+      "node": "2334:121",
+      "titel": "Waarom biothane?",
+      "waarom": "Uitleg over materiaal, breedte, musketon en lengte beantwoordt de vragen die mensen hebben voordat ze een riem van €14,95 of meer kopen."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien huisdierenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk voor hun hond niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende riem, jas of likmat.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Mivero nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2334:142",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Four Paws Boutique",
+      "kop": "Welkom bij Four Paws Boutique",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Patty is, hoe een riem op maat gemaakt wordt en de actie met de gratis thermosbeker vanaf €40.",
+      "punten": [
+        "Jullie eigen beaglefoto als eerste beeld",
+        "Zo werkt het: kleur en lengte kiezen, handgemaakt in 4 tot 5 werkdagen, gratis verzending vanaf €75",
+        "De echte actie: gratis thermosbeker bij bestellingen vanaf €40"
+      ]
+    },
+    {
+      "node": "2334:181",
+      "type": "Merkverhaal",
+      "onderwerp": "Het begon met Max",
+      "kop": "Een riem voor elk weer",
+      "tekst": "Een mail over het ontstaan van de riemen en waarom biothane: geen vocht, schimmel of geur, met een tip over de juiste lengte.",
+      "punten": [
+        "Het verhaal van Max en Handmade by Patty",
+        "Biothane uitgelegd met vier labels",
+        "Lengtetip: neem bij twijfel de langere"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17",
+  "nieuwsbrief": {
+    "node": "2334:142",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Four Paws Boutique",
+    "kop": "Welkom bij Four Paws Boutique",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Patty is, hoe een riem op maat gemaakt wordt en de actie met de gratis thermosbeker vanaf €40.",
+    "punten": [
+      "Jullie eigen beaglefoto als eerste beeld",
+      "Zo werkt het: kleur en lengte kiezen, handgemaakt in 4 tot 5 werkdagen, gratis verzending vanaf €75",
+      "De echte actie: gratis thermosbeker bij bestellingen vanaf €40"
+    ]
+  }
+}

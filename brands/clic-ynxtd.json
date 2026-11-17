@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "clic-ynxtd",
+  "merk": "CLIC by Suzanne",
+  "domein": "clicbysuzanne.com",
+  "lead_id": "2026-11-17-clicbysuzanne.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E2672A",
+  "kop": "Kleurrijke aluminium sieraden van CLIC, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team CLIC by Suzanne, ik heb dit gemaakt omdat jullie de magneetsluiting in het sieraad zelf verwerken, en dat is iets wat je in een advertentie meteen kunt laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2334:4",
+      "titel": "Licht als een veertje",
+      "waarom": "Een close-up van de oorbel met korte labels laat zien wat je op een kleine productfoto mist: licht, nikkelvrij en met de hand gemaakt."
+    },
+    {
+      "node": "2334:27",
+      "titel": "Kies je kleur",
+      "waarom": "Twee kleuren van dezelfde ketting naast elkaar maken kiezen makkelijk en laten zien dat BELLE er in acht kleuren is."
+    },
+    {
+      "node": "2334:49",
+      "titel": "Leef kleurrijk",
+      "waarom": "Eén groot woord uit jullie eigen site en vijf ringen met een prijs: in een seconde duidelijk, en speels genoeg om te blijven kijken."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2334:224",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij CLIC",
+    "kop": "welkom bij CLIC",
+    "tekst": "Fijn dat je er bent. Wij maken sieraden van licht aluminium, met de magneetsluiting in het sieraad zelf. Elk stuk maken we met de hand in ons eigen atelier.",
+    "punten": [
+      "Onzichtbare magneetsluiting",
+      "Licht aluminium",
+      "Nikkelvrij en kleurvast"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2334:224",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij CLIC",
+      "kop": "welkom bij CLIC",
+      "tekst": "Fijn dat je er bent. Wij maken sieraden van licht aluminium, met de magneetsluiting in het sieraad zelf. Elk stuk maken we met de hand in ons eigen atelier.",
+      "punten": [
+        "Onzichtbare magneetsluiting",
+        "Licht aluminium",
+        "Nikkelvrij en kleurvast"
+      ]
+    },
+    {
+      "node": "2334:258",
+      "type": "Merkverhaal",
+      "onderwerp": "Met de hand gemaakt, sinds 2002",
+      "kop": "met de hand gemaakt",
+      "tekst": "Suzanne en haar team maken elk CLIC-sieraad zelf, in hun eigen atelier. Met een uitgelichte ketting BELLE: twee bogen en één magneetsluiting, in acht kleuren.",
+      "punten": [
+        "Handgemaakt in eigen atelier",
+        "Magneetsluiting in het ontwerp",
+        "Ketting BELLE in acht kleuren"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

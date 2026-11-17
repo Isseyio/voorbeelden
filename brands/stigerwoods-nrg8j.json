@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "stigerwoods-nrg8j",
+  "merk": "Stigerwoods",
+  "domein": "stigerwoods.com",
+  "lead_id": "2026-11-17-stigerwoods.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#25221d",
+  "kop": "Kunst van alledaagse dingen, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Stigerwoods, ik heb dit gemaakt omdat een kreeft of een citroen op gerecycled hout precies het soort werk is dat mensen tijdens het scrollen laat stoppen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2337:2",
+      "titel": "Hang deze niet op",
+      "waarom": "Een knipoog in de kop laat mensen stoppen met scrollen, en de oester en drie echte kenmerken doen de rest."
+    },
+    {
+      "node": "2337:24",
+      "titel": "King Lemon, van foto tot paneel",
+      "waarom": "Laten zien waar een werk van gemaakt is maakt de prijs logisch en geeft het handwerk een gezicht."
+    },
+    {
+      "node": "2336:46",
+      "titel": "Vanaf €150 aan je keukenmuur",
+      "waarom": "Een echte prijs bij een sfeerfoto neemt de drempel weg voor mensen die denken dat kunst onbetaalbaar is."
+    }
+  ],
+  "waarom": {
+    "niche": "interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken nieuwe wandkunst niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat geïnteresseerden terugkomen als ze er klaar voor zijn.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft IXXI nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2338:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Stigerwoods",
+      "kop": "Welkom bij Stigerwoods",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie Martijn is, waar elk werk van gemaakt is en hoe je een paneel ophangt.",
+      "punten": [
+        "Fotografie, gerecycled hout en epoxy in drie stappen uitgelegd",
+        "Ophangen met twee schroeven, zonder zware pluggen",
+        "Rustige donkere herokaart met de Europese kreeft"
+      ]
+    },
+    {
+      "node": "2338:48",
+      "type": "Merkverhaal",
+      "onderwerp": "Gemaakt in Amsterdam, tegel voor tegel",
+      "kop": "Gemaakt in Amsterdam, tegel voor tegel.",
+      "tekst": "Het verhaal achter de studio sinds 2013, met de gerookte makrelen als voorbeeld en tips over waar een werk het mooist hangt.",
+      "punten": [
+        "Martijn aan het werk in de studio als openingsbeeld",
+        "Wat een paneel is: foto, hout, epoxy en 3 cm dik",
+        "Waar hij past, en waar liever niet"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17",
+  "nieuwsbrief": {
+    "node": "2338:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Stigerwoods",
+    "kop": "Welkom bij Stigerwoods",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie Martijn is, waar elk werk van gemaakt is en hoe je een paneel ophangt.",
+    "punten": [
+      "Fotografie, gerecycled hout en epoxy in drie stappen uitgelegd",
+      "Ophangen met twee schroeven, zonder zware pluggen",
+      "Rustige donkere herokaart met de Europese kreeft"
+    ]
+  }
+}

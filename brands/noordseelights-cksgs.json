@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "noordseelights-cksgs",
+  "merk": "Noord see Lights",
+  "domein": "noordseelights.nl",
+  "lead_id": "2026-11-17-noordseelights.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1D2E36",
+  "kop": "Lampen uit Amsterdam Noord, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Noord see Lights, ik heb dit gemaakt omdat je bij jullie zelf de vorm, het patroon en de kleur van een lamp kiest, en dat zie je nog weinig terug in advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2340:3",
+      "titel": "Kenmerken in de hand",
+      "waarom": "De Wulk in een hand laat meteen de maat en de textuur zien, met de zes redenen om te kopen er direct omheen."
+    },
+    {
+      "node": "2340:22",
+      "titel": "Welke kleur past?",
+      "waarom": "Twee kleuren naast elkaar maken van scrollen een keuze, en de configurator geeft wie twijfelt een volgende stap."
+    },
+    {
+      "node": "2340:42",
+      "titel": "Licht voor elk moment",
+      "waarom": "Een herkenbare dagroutine laat zien wanneer je de Mist gebruikt, zonder dat het als reclame voelt."
+    }
+  ],
+  "waarom": {
+    "niche": "interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw lampenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Lampenlicht.nl nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2342:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Noord see Lights",
+    "kop": "Welkom bij Noord see Lights",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, dat elke lamp op bestelling in Amsterdam Noord wordt geprint, en een directe uitnodiging om zelf een lamp te ontwerpen.",
+    "punten": [
+      "Plantaardig en gerecycled materiaal",
+      "Ontworpen en geprint in Amsterdam Noord",
+      "Binnen 7 dagen thuis, 30 dagen retour",
+      "Tweede blok: ontwerp je eigen lamp"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2342:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Noord see Lights",
+      "kop": "Welkom bij Noord see Lights",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, dat elke lamp op bestelling in Amsterdam Noord wordt geprint, en een directe uitnodiging om zelf een lamp te ontwerpen.",
+      "punten": [
+        "Plantaardig en gerecycled materiaal",
+        "Ontworpen en geprint in Amsterdam Noord",
+        "Binnen 7 dagen thuis, 30 dagen retour",
+        "Tweede blok: ontwerp je eigen lamp"
+      ]
+    },
+    {
+      "node": "2342:37",
+      "type": "Productspotlight",
+      "onderwerp": "Wulk of Mist?",
+      "kop": "Wulk of Mist?",
+      "tekst": "Een vergelijkingsmail die de Wulk en de Mist naast elkaar zet, zodat lezers sneller kiezen. Afsluitend blok met Dauw voor wie meer licht zoekt.",
+      "punten": [
+        "Tafellamp of hanglamp in één oogopslag",
+        "Maten, kleuren, licht en prijs naast elkaar",
+        "Dauw als set van drie voor boven de eettafel"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
