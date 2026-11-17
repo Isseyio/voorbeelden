@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "eddys-nwar7",
+  "merk": "Eddy's Coffee",
+  "domein": "eddyscoffee.com",
+  "lead_id": "2026-11-17-eddyscoffee.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#F0562D",
+  "kop": "Kneiterverse koffie, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Eddy's Coffee, ik heb dit gemaakt omdat jullie de bonen pas branden nadat iemand bestelt, en dat is een belofte die je goed kunt laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2407:4",
+      "titel": "Vers gebrand in drie dagen",
+      "waarom": "Vandaag, morgen en overmorgen naast elkaar maken in één oogopslag duidelijk hoe vers de koffie bij iemand thuis aankomt."
+    },
+    {
+      "node": "2407:28",
+      "titel": "Kneitervers",
+      "waarom": "Jullie eigen woord als reuzenkop met een zoekbalk sluit aan bij wat mensen zelf intypen als ze verse koffiebonen zoeken."
+    },
+    {
+      "node": "2407:46",
+      "titel": "Je verse koffie belt",
+      "waarom": "Een speels belscherm valt op tussen gewone productfoto's en zet de levering van verse bonen centraal."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw koffiemerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als de bonen op zijn.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Simon Lévelt nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2407:59",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Eddy's Coffee",
+    "kop": "Welkom bij Eddy's Coffee",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers op de nieuwsbrief: waarom jullie bonen pas na de bestelling gebrand worden, de vaste 5% korting vanaf 2 kilo en twee favorieten om mee te beginnen.",
+    "punten": [
+      "Vers branden na bestelling als belofte bovenaan",
+      "Vaste 5% korting vanaf 2 kilo als reden om meer te bestellen",
+      "WhatsApp naar Edwin voor vragen over bonen en maling"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2407:59",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Eddy's Coffee",
+      "kop": "Welkom bij Eddy's Coffee",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers op de nieuwsbrief: waarom jullie bonen pas na de bestelling gebrand worden, de vaste 5% korting vanaf 2 kilo en twee favorieten om mee te beginnen.",
+      "punten": [
+        "Vers branden na bestelling als belofte bovenaan",
+        "Vaste 5% korting vanaf 2 kilo als reden om meer te bestellen",
+        "WhatsApp naar Edwin voor vragen over bonen en maling"
+      ]
+    },
+    {
+      "node": "2407:97",
+      "type": "Productvergelijking",
+      "onderwerp": "Colombia Supremo of Ethiopië Sidamo?",
+      "kop": "Twee origins, één brander",
+      "tekst": "Een mail die twee single origins naast elkaar zet, met smaak, body, hoogte en prijs in één tabel, zodat lezers makkelijk een tweede soort proberen.",
+      "punten": [
+        "Smaaknotities van Ethiopië Sidamo als korte labels rond de zak",
+        "Vergelijkingstabel met echte gegevens van jullie productpagina's",
+        "Afsluiter die uitnodigt om het verschil te proeven"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}

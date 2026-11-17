@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "happybylies-vpw38",
+  "merk": "Happy by Lies",
+  "domein": "happybylies.com",
+  "lead_id": "2026-11-17-happybylies.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A88A6F",
+  "kop": "Speenkoorden met naam, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Happy by Lies, ik heb dit gemaakt omdat een speenkoord met de naam van een kindje precies het soort cadeau is dat ouders en vriendinnen op Instagram ontdekken en doorsturen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2411:4",
+      "titel": "De naam in de kop",
+      "waarom": "De naam van het kindje zit letterlijk tussen de woorden, met jullie eigen foto's van het borduursel en de letterkralen, zodat in één seconde duidelijk is wat jullie maken."
+    },
+    {
+      "node": "2411:26",
+      "titel": "Geborduurd of kralen",
+      "waarom": "Twee varianten naast elkaar laten kiezen werkt goed bij cadeaus: de kijker denkt meteen na over welke het wordt in plaats van óf het wordt."
+    },
+    {
+      "node": "2411:54",
+      "titel": "Kraamcadeau vanaf €12,95",
+      "waarom": "Een echte prijs bovenaan en een baby met speenkoord eronder spreekt de grootste groep kopers aan: mensen die een kraamcadeau zoeken."
+    }
+  ],
+  "waarom": {
+    "niche": "kids en baby",
+    "kop": "Zo groeien kids- en babymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw babymerk niet via Google, maar tijdens het scrollen, vaak als ze een kraamcadeau zoeken. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die ouders terugkomen voor een bijtring, wagenspanner of het volgende kraamcadeau.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids- en babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25+",
+        "label": "advertenties heeft Little NIK nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2411:64",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Happy by Lies",
+    "kop": "Welkom bij Happy by Lies",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers (nu staat er nog geen aanmeldformulier op de site): wat jullie maken, dat het met de hand gebeurt en hoe je zelf een speenkoord ontwerpt.",
+    "punten": [
+      "Herokaart met de giftset in jullie warme taupe",
+      "Drie redenen: met naam, met de hand gemaakt door Annelies sinds 2013, voor 13.00 besteld vandaag verzonden",
+      "Tweede kaart over Jouw eigen ontwerp met de Lukas-set"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2411:64",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Happy by Lies",
+      "kop": "Welkom bij Happy by Lies",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers (nu staat er nog geen aanmeldformulier op de site): wat jullie maken, dat het met de hand gebeurt en hoe je zelf een speenkoord ontwerpt.",
+      "punten": [
+        "Herokaart met de giftset in jullie warme taupe",
+        "Drie redenen: met naam, met de hand gemaakt door Annelies sinds 2013, voor 13.00 besteld vandaag verzonden",
+        "Tweede kaart over Jouw eigen ontwerp met de Lukas-set"
+      ]
+    },
+    {
+      "node": "2411:119",
+      "type": "Merkverhaal",
+      "onderwerp": "Het verhaal achter Happy by Lies",
+      "kop": "Met de hand gemaakt, met jouw naam.",
+      "tekst": "Een merkverhaalmail: van het gehaakte nijlpaardje in 2013 tot de speenkoorden, bijtringen en wagenspanners van nu, met de giftset uitgelicht.",
+      "punten": [
+        "Hero met de wagenspanner Fenne",
+        "Giftset met labels: wagenspanner, speenkoord, bijtring, alle drie voor €49,99",
+        "Afsluiter in donkerbruin: speenkoord met naam vanaf €12,95 als kraamcadeau"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
