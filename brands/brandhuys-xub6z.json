@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "brandhuys-xub6z",
+  "merk": "Het Brandhuys",
+  "domein": "hetbrandhuys.nl",
+  "lead_id": "2026-11-17-hetbrandhuys.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#33424D",
+  "kop": "Vers gebrande koffie uit Geertruidenberg, op Instagram en in de mailbox.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi David, ik heb dit gemaakt omdat je elke week op bestelling brandt en elk zakje met de hand verzegelt, en dat verhaal verdient meer kijkers. Alles is gemaakt met je eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2448:3",
+      "titel": "Drie koffies, drie smaken",
+      "waarom": "Het proefpakket haalt de drempel weg voor wie je koffie nog nooit heeft geproefd."
+    },
+    {
+      "node": "2448:23",
+      "titel": "Ethiopië Bombe van dichtbij",
+      "waarom": "Herkomst, verwerking en smaak in één beeld laten zien waarom specialty koffie meer is dan een zak bonen."
+    },
+    {
+      "node": "2448:48",
+      "titel": "Vers gebrand, vanaf €8,50",
+      "waarom": "Een duidelijke prijs naast de brander zelf maakt ambacht concreet en betaalbaar."
+    }
+  ],
+  "waarom": {
+    "niche": "koffie",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe koffiebrander niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een nieuwe zak.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij koffiemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "80+",
+        "label": "advertenties heeft Wakuli nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2450:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Het Brandhuys",
+      "kop": "Welkom bij Het Brandhuys",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie David is, waar de koffie gebrand wordt en waarom elk zakje met de hand wordt verzegeld.",
+      "punten": [
+        "Specialty Coffee, Direct Trade en Vers gebrand als drie vaste beloftes",
+        "Het zegellak-verhaal als herkenbaar detail",
+        "Doorverwijzing naar het proefpakket als eerste aankoop"
+      ]
+    },
+    {
+      "node": "2450:29",
+      "type": "Merkverhaal",
+      "onderwerp": "Van tuinhuis naar Dongecentrale",
+      "kop": "Van tuinhuis naar Dongecentrale",
+      "tekst": "Het verhaal van de branderij, van de achtertuin in 2019 naar het pand op de Dongecentrale, met India Monsooned Malabar uitgelicht.",
+      "punten": [
+        "Merkverhaal met eigen foto's van David en de brander",
+        "Productblok met regio, verwerking, smaaktonen en ras",
+        "Afsluiting met het proefpakket Medium voor €23,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17",
+  "nieuwsbrief": {
+    "node": "2450:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Het Brandhuys",
+    "kop": "Welkom bij Het Brandhuys",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie David is, waar de koffie gebrand wordt en waarom elk zakje met de hand wordt verzegeld.",
+    "punten": [
+      "Specialty Coffee, Direct Trade en Vers gebrand als drie vaste beloftes",
+      "Het zegellak-verhaal als herkenbaar detail",
+      "Doorverwijzing naar het proefpakket als eerste aankoop"
+    ]
+  }
+}

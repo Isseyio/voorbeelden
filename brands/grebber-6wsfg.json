@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "grebber-6wsfg",
+  "merk": "Frans de Grebber Coffee Roasters",
+  "domein": "fransdegrebber.nl",
+  "lead_id": "2026-11-17-fransdegrebber.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1B1410",
+  "kop": "Vers gebrande koffie uit Meppel, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Frans de Grebber, ik heb dit gemaakt omdat jullie genummerde zwarte zakken en de foto's van de plantage van Don Alexis precies het soort beeld zijn dat op Instagram opvalt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2452:3",
+      "titel": "Van plantage tot kopje",
+      "waarom": "Jullie eigen foto's van de oogst, het drogen en de boeren vertellen in één beeld waar Don Alexis vandaan komt en waarom hij anders smaakt."
+    },
+    {
+      "node": "2452:27",
+      "titel": "Wat zet jij straks?",
+      "waarom": "Twee blends naast elkaar met prijs helpen iemand die twijfelt meteen kiezen tussen koffie met melk en espresso of filter."
+    },
+    {
+      "node": "2452:50",
+      "titel": "Espresso Deal",
+      "waarom": "Eén groot woord en jullie bestaande deal van vijf espresso's met gratis verzending geven een duidelijke reden om nu te bestellen."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe branderij niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als de zak leeg is.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "80+",
+        "label": "advertenties heeft Wakuli nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 17-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2454:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Frans de Grebber",
+    "kop": "Welkom bij Frans de Grebber",
+    "tekst": "De eerste mail na inschrijving op de nieuwsbrief: wie jullie zijn, dat jullie zelf branden in Meppel, en de Latte Blend als koffie om mee te beginnen.",
+    "punten": [
+      "Vers gebrand in de eigen branderij in Meppel",
+      "Bonen van uitzonderlijke kwaliteit, met zorg gekozen",
+      "Latte Blend uitgelicht: 250 gram voor €8,00"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2454:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Frans de Grebber",
+      "kop": "Welkom bij Frans de Grebber",
+      "tekst": "De eerste mail na inschrijving op de nieuwsbrief: wie jullie zijn, dat jullie zelf branden in Meppel, en de Latte Blend als koffie om mee te beginnen.",
+      "punten": [
+        "Vers gebrand in de eigen branderij in Meppel",
+        "Bonen van uitzonderlijke kwaliteit, met zorg gekozen",
+        "Latte Blend uitgelicht: 250 gram voor €8,00"
+      ]
+    },
+    {
+      "node": "2454:38",
+      "type": "Merkverhaal",
+      "onderwerp": "Van de plantage tot in Meppel",
+      "kop": "Van de plantage tot in Meppel",
+      "tekst": "Het verhaal achter Don Alexis uit Costa Rica, met jullie eigen foto's van de oogst, het drogen en de boeren, en daarna de zak met smaak en kenmerken.",
+      "punten": [
+        "Jullie eigen foto's van de plantage",
+        "№ 42 Don Alexis met tonen van koekjesdeeg, sinaasappel en amandel",
+        "Afsluiting met een foto van de brander in Meppel"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-17"
+}
