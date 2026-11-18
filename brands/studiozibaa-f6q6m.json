@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "studiozibaa-f6q6m",
+  "merk": "STUDIO ZIBAA",
+  "domein": "studiozibaa.nl",
+  "lead_id": "2026-11-18-studiozibaa.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#BAAEA6",
+  "kop": "Handgeschilderde Japandi-kunst uit Leiden, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Studio Zibaa, ik heb dit gemaakt omdat de foto van de kwast boven een half geschilderd doek precies laat zien wat jullie werk anders maakt dan een gewone poster. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2617:4",
+      "titel": "Met de hand geschilderd",
+      "waarom": "De kwast boven het doek laat in één beeld zien dat elk werk handwerk is, en de zes korte labels vertellen waarom dat de prijs waard is."
+    },
+    {
+      "node": "2617:24",
+      "titel": "Wit of taupe?",
+      "waarom": "Twee 3D-reliëfs naast elkaar met maat en prijs maken kiezen makkelijk, en een keuzevraag laat mensen langer kijken."
+    },
+    {
+      "node": "2617:43",
+      "titel": "Koop geen gewone poster",
+      "waarom": "Een kop die het tegenovergestelde zegt laat mensen stoppen met scrollen, en de drie vinkjes met €14,95 maken de eco poster een laagdrempelige eerste aankoop."
+    }
+  ],
+  "waarom": {
+    "niche": "posters en wandkunst",
+    "kop": "Zo groeien merken in wandkunst op Instagram.",
+    "tekst": "De meeste mensen ontdekken nieuwe kunst voor aan de muur niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende werk.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij merken in posters en wandkunst vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Desenio nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2618:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Studio Zibaa",
+    "kop": "Welkom bij Studio Zibaa",
+    "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: wie er achter Studio Zibaa zit, hoe elk werk in Leiden met de hand ontstaat en meteen de weg naar de collectie. Nu is er op de site nog geen inschrijving, dus dit is de eerste stap.",
+    "punten": [
+      "Herokaart in de taupe van het logo, met een eigen foto van een groot doek",
+      "Drie korte redenen: handgeschilderd, duurzaam materiaal, kleine oplages",
+      "Tweede blok over LAB PAINT en doeken op bestelling"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2618:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Studio Zibaa",
+      "kop": "Welkom bij Studio Zibaa",
+      "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: wie er achter Studio Zibaa zit, hoe elk werk in Leiden met de hand ontstaat en meteen de weg naar de collectie. Nu is er op de site nog geen inschrijving, dus dit is de eerste stap.",
+      "punten": [
+        "Herokaart in de taupe van het logo, met een eigen foto van een groot doek",
+        "Drie korte redenen: handgeschilderd, duurzaam materiaal, kleine oplages",
+        "Tweede blok over LAB PAINT en doeken op bestelling"
+      ]
+    },
+    {
+      "node": "2618:34",
+      "type": "Merkverhaal",
+      "onderwerp": "Hoe een doek van Studio Zibaa ontstaat",
+      "kop": "Kunst die rust brengt in huis",
+      "tekst": "Een merkverhaal dat de werken in een echt interieur laat zien, vertelt wie ze maakt en daarna de Palma Abstracta eco poster uitlicht. Zo krijgen nieuwe lezers eerst het verhaal en daarna een makkelijke eerste aankoop van €14,95.",
+      "punten": [
+        "Opening met het grote Japandi-doek aan de donkere muur",
+        "Palma Abstracta met vier labels: Ecovezel-papier, 30×40 cm, ontworpen in Leiden, gedrukt in NL",
+        "Afsluiting met de eco posters en de collectie met LOFT"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
