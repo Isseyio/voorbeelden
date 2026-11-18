@@ -6,38 +6,38 @@
   "lead_id": "2026-11-18-ikwilbreien.nl",
   "figma": "7BXGFt6UvrdktTqFa8JFbs",
   "accent": "#E0899B",
-  "kop": "Drie advertenties voor breiwerk dat slaagt",
+  "kop": "Drie nieuwe advertenties voor breiwerk dat slaagt",
   "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
-  "noot": "Hoi Dominique, ik heb dit gemaakt omdat je bij elk patroon zelf een video maakt, zodat ook beginners het redden. Alles is gemaakt met je eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "noot": "Hoi Dominique, ik heb dit gemaakt omdat bij elk van je patronen een video zit, zodat beginnen bijna niet kan mislukken. Dat laat zich goed zien in een advertentie. Alles is gemaakt met je eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
   "advertenties": [
     {
-      "node": "2544:2",
-      "titel": "Je eerste vest vanaf €40,25",
-      "waarom": "Een duidelijke prijs met jou in het vest maakt de stap naar een eerste project klein."
+      "node": "2545:4",
+      "titel": "Je eerste vest met video",
+      "waarom": "Een grote, vrolijke kop met je eigen vestfoto's spreekt beginners aan die denken dat een vest te moeilijk is."
     },
     {
-      "node": "2544:12",
-      "titel": "Alles in één pakket",
-      "waarom": "Garen, patroon en video in één beeld haalt de grootste twijfel van beginners weg."
+      "node": "2545:18",
+      "titel": "Wat zit er in de starterset",
+      "waarom": "Alles wat in het pakket zit op een rij haalt de twijfel weg bij mensen die nog nooit hebben gebreid."
     },
     {
-      "node": "2544:34",
-      "titel": "Welke kleur wordt het?",
-      "waarom": "Kleuren kiezen laat mensen al meedoen voordat ze klikken, en dat werkt goed bij cadeaus voor een baby."
+      "node": "2545:41",
+      "titel": "Garen + patroon + video",
+      "waarom": "Drie onderdelen in één pakket maken in één oogopslag duidelijk waarom dit makkelijker is dan los garen kopen."
     }
   ],
   "waarom": {
-    "niche": "breien en textiel",
-    "kop": "Zo groeien textielmerken op Instagram.",
-    "tekst": "De meeste mensen ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe: dezelfde mensen zien hem steeds weer en klikken minder. Wie elke week nieuwe varianten test, houdt de kosten per aankoop laag, en een vaste nieuwsbrief zorgt dat kopers terugkomen voor hun volgende project.",
+    "niche": "hobby & breien",
+    "kop": "Zo groeien hobbymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw breiproject niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe: dezelfde mensen zien hem steeds weer en klikken minder. Wie elke week nieuwe varianten test, houdt de kosten per aankoop laag, en een welkomstmail zorgt dat nieuwe inschrijvers ook echt hun eerste pakket bestellen.",
     "stats": [
       {
         "getal": "20–30%",
-        "label": "van de online omzet komt bij textielmerken vaak via Instagram en Facebook"
+        "label": "van de online omzet komt bij hobby- en cadeaumerken vaak via Instagram en Facebook"
       },
       {
-        "getal": "Honderden",
-        "label": "advertenties heeft Hobbii nu tegelijk live"
+        "getal": "10+",
+        "label": "advertenties heeft Knotten nu tegelijk live"
       },
       {
         "getal": "1× per week",
@@ -47,40 +47,40 @@
     "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
   },
   "nieuwsbrief": {
-    "node": "2545:65",
+    "node": "2546:14",
     "type": "Welkomstmail",
     "onderwerp": "Welkom bij Ikwilbreien",
     "kop": "Welkom bij Ikwilbreien",
-    "tekst": "Een welkomstmail die nieuwe inschrijvers meteen laat zien hoe het werkt: bij elk patroon een video, alles in één pakket en 30 dagen garantie. Daarna de Starterset als eerste stap.",
+    "tekst": "Fijn dat je er bent. Ik ben Dominique en ik help je stap voor stap met breiwerk dat slaagt, met een video bij ieder patroon.",
     "punten": [
       "Video bij elk patroon",
-      "Alles in één pakket: garen, patroon en video",
-      "Starterset Leren breien (€25,70) als eerste stap"
+      "Succesgarantie: lukt het niet, dan help ik je",
+      "Nog nooit gebreid? Begin met de Starterset voor €25,70"
     ]
   },
   "nieuwsbrieven": [
     {
-      "node": "2545:65",
+      "node": "2546:14",
       "type": "Welkomstmail",
       "onderwerp": "Welkom bij Ikwilbreien",
       "kop": "Welkom bij Ikwilbreien",
-      "tekst": "Een welkomstmail die nieuwe inschrijvers meteen laat zien hoe het werkt: bij elk patroon een video, alles in één pakket en 30 dagen garantie. Daarna de Starterset als eerste stap.",
+      "tekst": "Fijn dat je er bent. Ik ben Dominique en ik help je stap voor stap met breiwerk dat slaagt, met een video bij ieder patroon.",
       "punten": [
         "Video bij elk patroon",
-        "Alles in één pakket: garen, patroon en video",
-        "Starterset Leren breien (€25,70) als eerste stap"
+        "Succesgarantie: lukt het niet, dan help ik je",
+        "Nog nooit gebreid? Begin met de Starterset voor €25,70"
       ]
     },
     {
-      "node": "2545:97",
-      "type": "Productspotlight",
-      "onderwerp": "Een babydeken, schuin gebreid",
-      "kop": "Een babydeken, schuin gebreid",
-      "tekst": "Een spotlight op de babydeken van organisch katoen, met jouw missie als merkverhaal en het oversized vest als volgend project.",
+      "node": "2546:49",
+      "type": "Assortiment",
+      "onderwerp": "Jouw volgende breiproject",
+      "kop": "Jouw volgende breiproject",
+      "tekst": "Vier pakketten op een rij, van de Starterset Leren breien tot sokken vanaf de teen omhoog, elk met garen, patroon en video.",
       "punten": [
-        "Merkverhaal: breien zonder hulp van een ervaren moeder",
-        "Wat zit erin: 12 bollen Scheepjes Organicon, 80 × 110 cm, video",
-        "Volgend project: het makkelijke oversized vest"
+        "Starterset Leren breien €25,70",
+        "Makkelijk oversized vest vanaf €40,25",
+        "Damestrui met ronde hals vanaf €27,50"
       ]
     }
   ],

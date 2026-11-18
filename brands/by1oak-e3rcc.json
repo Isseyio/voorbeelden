@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "by1oak-e3rcc",
+  "merk": "BY1OAK",
+  "domein": "by1oak.com",
+  "lead_id": "2026-11-18-by1oak.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8A7D70",
+  "kop": "Drie advertenties voor sieraden uit het atelier aan de Prinsengracht",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team BY1OAK, ik heb dit gemaakt omdat jullie sieraden in Amsterdam ontwerpen, op Bali laten maken en zelf afwerken in het atelier aan de Prinsengracht. Dat verhaal zie je in een advertentie meteen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2549:4",
+      "titel": "I'm bright van dichtbij",
+      "waarom": "Een close-up met twee labels laat in één blik zien waarom deze ring €155 waard is: smokey quartz, 925 zilver en handwerk."
+    },
+    {
+      "node": "2549:22",
+      "titel": "Vanaf €49, met initiaal",
+      "waarom": "Een duidelijke instapprijs met jullie naam groot in beeld trekt nieuwe kopers die BY1OAK nog niet kennen."
+    },
+    {
+      "node": "2549:31",
+      "titel": "Amsterdam en Bali",
+      "waarom": "Jullie werkwijze als kop, met echte beelden uit de winkel, maakt het verschil met massaproductie meteen duidelijk."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, online en in de winkel.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2549:49",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij BY1OAK, hier is je 10%",
+    "kop": "Welkom bij BY1OAK",
+    "tekst": "Wie zich inschrijft krijgt meteen een warme eerste mail: de 10% korting die jullie al beloven, hoe een sieraad van ontwerp in Amsterdam via Bali terug naar het atelier gaat, en een uitnodiging om langs te komen aan de Prinsengracht.",
+    "punten": [
+      "De 10% uit jullie inschrijfblok direct in de eerste mail",
+      "Ontworpen, handgemaakt, afgewerkt: jullie werkwijze in drie stappen",
+      "Uitnodiging voor de winkel met atelier aan de Prinsengracht 134"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2549:49",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij BY1OAK, hier is je 10%",
+      "kop": "Welkom bij BY1OAK",
+      "tekst": "Wie zich inschrijft krijgt meteen een warme eerste mail: de 10% korting die jullie al beloven, hoe een sieraad van ontwerp in Amsterdam via Bali terug naar het atelier gaat, en een uitnodiging om langs te komen aan de Prinsengracht.",
+      "punten": [
+        "De 10% uit jullie inschrijfblok direct in de eerste mail",
+        "Ontworpen, handgemaakt, afgewerkt: jullie werkwijze in drie stappen",
+        "Uitnodiging voor de winkel met atelier aan de Prinsengracht 134"
+      ]
+    },
+    {
+      "node": "2549:78",
+      "type": "Merkverhaal",
+      "onderwerp": "Van New York naar de Prinsengracht",
+      "kop": "Ontworpen in Amsterdam, gedragen door jou",
+      "tekst": "Een nieuwsbrief over het verhaal achter BY1OAK: gestart in 2009 in New York door Chrissie en Rachelle, nu ontworpen in Amsterdam. Met de I'm bright ring uitgelicht en een uitnodiging voor de winkel.",
+      "punten": [
+        "Het verhaal van Chrissie en Rachelle",
+        "I'm bright in zilver (€155) of verguld (€195) met labels",
+        "Openingstijden en route naar de winkel"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
