@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "sango-v58wf",
+  "merk": "Sango Specialty Coffee",
+  "domein": "sangoamsterdam.com",
+  "lead_id": "2026-11-18-sangoamsterdam.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E8604C",
+  "kop": "Specialty coffee van de Stromarkt, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Sango, ik heb dit gemaakt omdat de tekeningen op jullie koffie precies het soort beeld zijn waar mensen op Instagram voor stoppen met scrollen. Alles is gemaakt met jullie eigen beelden en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2643:4",
+      "titel": "Sango betekent koraal",
+      "waarom": "Een groot woord, een zoekbalk en drie tekeningen vertellen in één beeld wie jullie zijn, en de San Gabriel-tekening met koraal maakt de naam meteen duidelijk."
+    },
+    {
+      "node": "2643:20",
+      "titel": "Colombia of Kenia?",
+      "waarom": "Twee koffies naast elkaar met prijs maken kiezen makkelijk, en een keuzevraag laat mensen langer kijken."
+    },
+    {
+      "node": "2643:40",
+      "titel": "Gratis verzending",
+      "waarom": "Jullie echte drempel van €50 bovenaan, het logo groot over de baristafoto: een direct aanbod voor mensen die de winkel al kennen."
+    }
+  ],
+  "waarom": {
+    "niche": "koffie",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe branderij niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief bij elke nieuwe koffie zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Wakuli nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2643:50",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij sango",
+    "kop": "Welkom bij sango",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: Kaho en Mitchell voor de winkel aan de Stromarkt, hoe jullie branden en inkopen, en de workshops als tweede stap. Nu staat er op de site nog geen inschrijving, dus dit is ook een reden om die toe te voegen.",
+    "punten": [
+      "Herokaart met jullie eigen foto voor de winkel",
+      "Drie korte punten: licht tot medium gebrand, direct ingekocht, kleine batches op de IMF-brander",
+      "Tweede blok over de workshops (vanaf €180) met jullie eigen workshopfoto"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2643:50",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij sango",
+      "kop": "Welkom bij sango",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: Kaho en Mitchell voor de winkel aan de Stromarkt, hoe jullie branden en inkopen, en de workshops als tweede stap. Nu staat er op de site nog geen inschrijving, dus dit is ook een reden om die toe te voegen.",
+      "punten": [
+        "Herokaart met jullie eigen foto voor de winkel",
+        "Drie korte punten: licht tot medium gebrand, direct ingekocht, kleine batches op de IMF-brander",
+        "Tweede blok over de workshops (vanaf €180) met jullie eigen workshopfoto"
+      ]
+    },
+    {
+      "node": "2643:76",
+      "type": "Assortimentsmail",
+      "onderwerp": "Nieuw in de lineup",
+      "kop": "Nieuw in de lineup",
+      "tekst": "Een mail voor als er nieuwe koffie binnen is: de tekeningen van El Vergel, Acacia Hills, Raro en Kerinci naast elkaar, elk met herkomst, prijs en een knop, en een uitnodiging om in de winkel te komen proeven.",
+      "punten": [
+        "Hero met de baristafoto van jullie about-pagina",
+        "Vier koffies met de eigen tekening, herkomst en prijs",
+        "Afsluiting met de winkel aan de Stromarkt 15"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

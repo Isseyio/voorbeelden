@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "woolytoons-smk8g",
+  "merk": "Woolytoons",
+  "domein": "woolytoons.com",
+  "lead_id": "2026-11-18-woolytoons.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C26969",
+  "kop": "Eén bol, één knuffel: Woolytoons op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Woolytoons, ik heb dit gemaakt omdat de One Cake Wonders zo'n leuk idee zijn: een hele knuffel uit één bol garen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2638:3",
+      "titel": "Eén bol, één schaap",
+      "waarom": "Laat in één oogopslag zien wat je nodig hebt, zodat haakliefhebbers meteen weten dat het een snel project is."
+    },
+    {
+      "node": "2640:2",
+      "titel": "Zoveel kleuren",
+      "waarom": "Twee kleuren naast elkaar maken nieuwsgierig naar de eigen cake en nodigen uit om te kiezen."
+    },
+    {
+      "node": "2640:21",
+      "titel": "Het dekentje belt",
+      "waarom": "Een speels, herkenbaar beeld valt op tussen de gewone posts en laat het knuffeldekentje groot zien."
+    }
+  ],
+  "waarom": {
+    "niche": "hobby en haken",
+    "kop": "Zo groeien hobby- en haakmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw patroon niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe haakliefhebbers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die mensen terugkomen voor het volgende patroon.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij hobby- en haakmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "Honderden",
+        "label": "advertenties heeft Hobbii nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2641:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Woolytoons, met een cadeautje",
+    "kop": "Welkom bij Woolytoons",
+    "tekst": "Met liefde ontworpen, fantasierijke haakpatronen voor jou. Als welkom krijg je het patroon van Jip de Uil gratis, al meer dan 100.000 keer gedownload.",
+    "punten": [
+      "Jip de Uil als gratis welkomstpatroon",
+      "Duidelijke patronen sinds 2005, als PDF in NL en DE",
+      "Tessa stelt zich voor, met een link naar haar verhaal"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2641:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Woolytoons, met een cadeautje",
+      "kop": "Welkom bij Woolytoons",
+      "tekst": "Met liefde ontworpen, fantasierijke haakpatronen voor jou. Als welkom krijg je het patroon van Jip de Uil gratis, al meer dan 100.000 keer gedownload.",
+      "punten": [
+        "Jip de Uil als gratis welkomstpatroon",
+        "Duidelijke patronen sinds 2005, als PDF in NL en DE",
+        "Tessa stelt zich voor, met een link naar haar verhaal"
+      ]
+    },
+    {
+      "node": "2642:2",
+      "type": "Productspotlight",
+      "onderwerp": "Haak je met 1 bol",
+      "kop": "Haak je met 1 bol",
+      "tekst": "De One Cake Wonders in de schijnwerpers: een schaap, eend of cupcake uit één bol Scheepjes Big Darling en haaknaald 8.",
+      "punten": [
+        "Wat een One Cake Wonder is, in twee zinnen",
+        "Het schaap met vier labels: garen, naald, maat en PDF",
+        "Afsluiter met alle drie de patronen"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

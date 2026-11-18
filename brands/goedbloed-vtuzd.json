@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "goedbloed-vtuzd",
+  "merk": "Goudsmederij Goedbloed",
+  "domein": "goudsmederijgoedbloed.nl",
+  "lead_id": "2026-11-18-goudsmederijgoedbloed.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A8844A",
+  "kop": "Handgesmede sieraden uit Schoonhoven, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Goudsmederij Goedbloed, ik heb dit gemaakt omdat de foto van de Honey-ring aan de hand in één beeld laat zien wat maatwerk van een goudsmid anders maakt dan een ring uit de vitrine. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2637:18",
+      "titel": "Met de hand gesmeed",
+      "waarom": "De Honey-ring aan een echte hand met zes korte feiten laat meteen zien wat iemand koopt, en dat het op maat wordt gemaakt."
+    },
+    {
+      "node": "2637:36",
+      "titel": "Eén unieke steen",
+      "waarom": "Twee callouts bij de toermalijn en de smeedring maken een ring van €2.395 begrijpelijk, en 'uniek' geeft een reden om nu te kijken."
+    },
+    {
+      "node": "2637:58",
+      "titel": "Collecties uit de natuur",
+      "waarom": "Vier collecties naast elkaar met waar ze vandaan komen vertellen het merkverhaal en laten zien hoe breed het atelier is."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, bijvoorbeeld voor trouwringen of een cadeau.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2637:78",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Goudsmederij Goedbloed",
+    "kop": "Welkom bij Goudsmederij Goedbloed",
+    "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers op de nieuwsbrief: wie er achter het atelier zit, waarom jullie met gerecycled edelmetaal en conflictvrije edelstenen werken en de uitnodiging om met een eigen ontwerp langs te komen.",
+    "punten": [
+      "Herokaart met de foto van Inge aan de werkbank",
+      "Drie korte redenen: gerecycled edelmetaal, conflictvrije edelstenen, op bestelling gemaakt",
+      "Tweede blok 'Uw eigen ontwerp?' met de toermalijnring en een afspraakknop"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2637:78",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Goudsmederij Goedbloed",
+      "kop": "Welkom bij Goudsmederij Goedbloed",
+      "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers op de nieuwsbrief: wie er achter het atelier zit, waarom jullie met gerecycled edelmetaal en conflictvrije edelstenen werken en de uitnodiging om met een eigen ontwerp langs te komen.",
+      "punten": [
+        "Herokaart met de foto van Inge aan de werkbank",
+        "Drie korte redenen: gerecycled edelmetaal, conflictvrije edelstenen, op bestelling gemaakt",
+        "Tweede blok 'Uw eigen ontwerp?' met de toermalijnring en een afspraakknop"
+      ]
+    },
+    {
+      "node": "2637:107",
+      "type": "Merkverhaal",
+      "onderwerp": "Het verhaal achter Honey",
+      "kop": "Wat de natuur vormt, smeden wij in goud.",
+      "tekst": "Een nieuwsbrief rond één collectie: de inspiratie uit de natuur, de Honey-ring met zijn zeshoekige gele diamant uitgelicht met labels, en een afsluiting over maatwerk en gratis verzending.",
+      "punten": [
+        "Hero met de IJslandse natuurfoto van jullie site",
+        "Honey-ring met vier labels: 14 karaat geelgoud, gele diamant 1,38 ct, roosgeslepen, levertijd",
+        "Afsluiting 'Gemaakt in uw maat' met prijs en de foto aan de hand"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "blijeegel-wtm9b",
+  "merk": "De Blije Egel",
+  "domein": "deblijeegel.nl",
+  "lead_id": "2026-11-18-deblijeegel.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#7A894F",
+  "kop": "Een veilig egelhuis, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team De Blije Egel, ik heb dit gemaakt omdat een egelhuis met een sedumdak, gemaakt na een bezoek aan de egelopvang, precies het soort verhaal is dat mensen op Instagram willen zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2635:18",
+      "titel": "Wat klanten zeggen",
+      "waarom": "Echte reviews van jullie klanten op een foto van het egelhuis in de tuin geven nieuwe kopers meteen vertrouwen."
+    },
+    {
+      "node": "2636:2",
+      "titel": "Waar het van gemaakt is",
+      "waarom": "Douglas-hout, sedumdak, slaapruimte en handwerk uit Nieuwegein laten in één beeld zien waarom dit huisje meer kost dan een gewoon egelhuisje."
+    },
+    {
+      "node": "2637:2",
+      "titel": "Een egel uit jouw tuin belt",
+      "waarom": "Een speelse invalshoek die precies het moment noemt waarop mensen een egelhuis zoeken: als de egel een plek voor de winter nodig heeft."
+    }
+  ],
+  "waarom": {
+    "niche": "huis en tuin",
+    "kop": "Zo groeien tuinmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk voor in de tuin niet via Google, maar tijdens het scrollen, vaak precies als de egels in de herfst een plek zoeken of de vogels in het voorjaar gaan nestelen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor het volgende huisje.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij merken voor huis en tuin vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Rootsum nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2637:142",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij De Blije Egel",
+    "kop": "Welkom bij De Blije Egel",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn, waarom jullie huisjes anders zijn en meteen het egelslaaphuis als eerste stap.",
+    "punten": [
+      "Handgemaakt in Nederland",
+      "Veilige afmetingen en ventilatie",
+      "100% onbehandeld Douglas-hout"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2637:142",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij De Blije Egel",
+      "kop": "Welkom bij De Blije Egel",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn, waarom jullie huisjes anders zijn en meteen het egelslaaphuis als eerste stap.",
+      "punten": [
+        "Handgemaakt in Nederland",
+        "Veilige afmetingen en ventilatie",
+        "100% onbehandeld Douglas-hout"
+      ]
+    },
+    {
+      "node": "2637:183",
+      "type": "Merkverhaal",
+      "onderwerp": "Hoe De Blije Egel begon",
+      "kop": "Het begon bij de egelopvang",
+      "tekst": "Het verhaal achter De Blije Egel, met jullie eigen foto, wat er in het Blije Egelhuis zit en een afsluiting met het egelvoederhuis.",
+      "punten": [
+        "Bezoek aan Egelopvang Midden Nederland",
+        "Sedumdak, Douglas-hout, tunnelingang en slaapruimte van 40 × 40 cm",
+        "Egelvoederhuis voor €59"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
