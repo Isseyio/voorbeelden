@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "meuq-gdvby",
+  "merk": "Meuq Design",
+  "domein": "meuqdesign.nl",
+  "lead_id": "2026-11-18-meuqdesign.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1B512F",
+  "kop": "Schaak je eigen stad, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Meuq Design, ik heb dit gemaakt omdat een schaakspel met de Euromast als koning precies het soort cadeau is dat mensen op Instagram doorsturen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2610:3",
+      "titel": "Schaak je stad",
+      "waarom": "Eén groot woord en een zoekbalk spelen in op hoe mensen een cadeau zoeken: een schaakspel van hun eigen stad."
+    },
+    {
+      "node": "2610:18",
+      "titel": "De Euromast is je koning",
+      "waarom": "Labels bij de stukken laten in één oogopslag zien wat dit spel anders maakt dan een gewoon schaakbord."
+    },
+    {
+      "node": "2610:48",
+      "titel": "Je stad belt je op",
+      "waarom": "Een speels belscherm valt op tussen gewone productfoto's en houdt de duim even stil."
+    }
+  ],
+  "waarom": {
+    "niche": "cadeau",
+    "kop": "Zo groeien cadeaumerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw cadeau niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, bijvoorbeeld voor de volgende stad.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Printworks nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2612:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Meuq, hier is je 5% korting",
+    "kop": "Welkom bij Meuq",
+    "tekst": "Een rustige welkomstmail die direct na de inschrijving vertrekt: wie Meuq is, de 5% korting die jullie al beloven, en meteen een tweede productgroep (de kattenhuisjes) zodat nieuwe inschrijvers het hele assortiment zien.",
+    "punten": [
+      "Koppelt de 5%-inschrijving in de footer aan een echte eerste mail",
+      "Drie korte redenen: restmateriaal, gemaakt in Nederland, 2 jaar garantie",
+      "Tweede blok met de kattenhuisjes van gerecycled PET-vilt"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2612:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Meuq, hier is je 5% korting",
+      "kop": "Welkom bij Meuq",
+      "tekst": "Een rustige welkomstmail die direct na de inschrijving vertrekt: wie Meuq is, de 5% korting die jullie al beloven, en meteen een tweede productgroep (de kattenhuisjes) zodat nieuwe inschrijvers het hele assortiment zien.",
+      "punten": [
+        "Koppelt de 5%-inschrijving in de footer aan een echte eerste mail",
+        "Drie korte redenen: restmateriaal, gemaakt in Nederland, 2 jaar garantie",
+        "Tweede blok met de kattenhuisjes van gerecycled PET-vilt"
+      ]
+    },
+    {
+      "node": "2612:43",
+      "type": "Merkverhaal",
+      "onderwerp": "Van restjes hout naar iets wat je houdt",
+      "kop": "Van restjes hout naar iets wat je houdt.",
+      "tekst": "Ties en Silvan vertellen waarom ze met restmateriaal werken, met de Arcus tafellamp als voorbeeld en de telefoonhouders als tweede product. Zo'n verhaal maakt het verschil tussen een leuk cadeau en een merk dat mensen onthouden.",
+      "punten": [
+        "Foto van Ties en Silvan als opening",
+        "Arcus tafellamp met vier labels: kap, stang, hoogte en fitting",
+        "Afsluiting met de telefoonhouders van restjes hout"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
