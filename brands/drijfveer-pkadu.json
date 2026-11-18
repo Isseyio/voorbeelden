@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "drijfveer-pkadu",
+  "merk": "Studio Drijfveer",
+  "domein": "studiodrijfveer.com",
+  "lead_id": "2026-11-18-studiodrijfveer.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B8895B",
+  "kop": "Een idee voor de Paper Roller en de Poster Display",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Studio Drijfveer, ik heb dit gemaakt omdat jullie alles zelf ontwerpen, printen en verpakken in jullie eigen werkplaats, en dat verhaal vind ik het vertellen waard. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2573:23",
+      "titel": "Schrijf het op de muur",
+      "waarom": "Een kop die meteen laat zien wat je ermee doet, met jullie eigen foto's tussen de woorden, zodat iemand stopt met scrollen."
+    },
+    {
+      "node": "2573:36",
+      "titel": "Poster Display in detail",
+      "waarom": "Callouts op jullie eigen foto tonen de eikenhouten latten en de magneten, precies de details die de prijs uitleggen."
+    },
+    {
+      "node": "2573:55",
+      "titel": "Kraft of wit",
+      "waarom": "Twee varianten naast elkaar maken de keuze makkelijk en laten zien dat de rol in elke ruimte past."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw interieurmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Peppermint Products nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2573:74",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Studio Drijfveer",
+    "kop": "Welkom bij Studio Drijfveer",
+    "tekst": "Een welkomstmail die de 5% korting uit jullie inschrijfblok waarmaakt en meteen laat zien hoe jullie werken.",
+    "punten": [
+      "Herokaart met de Paper Roller en de welkomstkorting",
+      "Drie punten: zelf ontworpen, gemaakt in Nederland, kleine oplages",
+      "Bestsellerblok met prijs en gratis verzending in Nederland"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2573:74",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Studio Drijfveer",
+      "kop": "Welkom bij Studio Drijfveer",
+      "tekst": "Een welkomstmail die de 5% korting uit jullie inschrijfblok waarmaakt en meteen laat zien hoe jullie werken.",
+      "punten": [
+        "Herokaart met de Paper Roller en de welkomstkorting",
+        "Drie punten: zelf ontworpen, gemaakt in Nederland, kleine oplages",
+        "Bestsellerblok met prijs en gratis verzending in Nederland"
+      ]
+    },
+    {
+      "node": "2573:102",
+      "type": "Merkverhaal",
+      "onderwerp": "Alles maken we zelf",
+      "kop": "Alles maken we zelf",
+      "tekst": "Thimo en Renate vertellen over hun werkplaats, met wat er in de doos van de Paper Roller zit.",
+      "punten": [
+        "Oprichtersfoto met een kort verhaal",
+        "Onderdelen van de Paper Roller met labels",
+        "Afsluiting rond de kinderkamer met een knop naar de shop"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "marieke-gesa6",
+  "merk": "Marieke loves to Draw",
+  "domein": "mariekelovestodraw.com",
+  "lead_id": "2026-11-18-mariekelovestodraw.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E43471",
+  "kop": "Drie nieuwe invalshoeken voor Marieke loves to Draw.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Marieke, ik heb dit gemaakt omdat je lezers al zoveel lieve dingen over je boeken schrijven, en die verdienen een plek in je advertenties. Alles is gemaakt met je eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2574:15",
+      "titel": "Lezers aan het woord",
+      "waarom": "Echte reviews naast een foto van jou met het boek geven vertrouwen aan mensen die je nog niet kennen."
+    },
+    {
+      "node": "2574:41",
+      "titel": "Nieuw boek uitgelicht",
+      "waarom": "Kaartjes bij de open pagina's laten in één oogopslag zien wat er in het boek staat."
+    },
+    {
+      "node": "2574:70",
+      "titel": "Kadotip met prijs",
+      "waarom": "Een duidelijke prijs en het woord kadotip werken goed in de weken voor de feestdagen."
+    }
+  ],
+  "waarom": {
+    "niche": "stationery & cadeaus",
+    "kop": "Zo groeien stationerymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw boek of kado niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij stationery- en cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "200+",
+        "label": "advertenties heeft Notebook Therapy nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2574:82",
+    "type": "Welkomstmail",
+    "onderwerp": "Fijn dat je er bent",
+    "kop": "Fijn dat je er bent",
+    "tekst": "Ik ben Marieke. Ik maak handgetekende boeken, kaarten en kalenders vol lichtjes, liefde en hoop. In deze mails hoor je als eerste wanneer de volgende pop-up opengaat.",
+    "punten": [
+      "Alles met de hand getekend",
+      "547 lieve reviews",
+      "Gratis verzending vanaf €29,95",
+      "Het Grote Depri Doe-Boek, €29,95"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2574:82",
+      "type": "Welkomstmail",
+      "onderwerp": "Fijn dat je er bent",
+      "kop": "Fijn dat je er bent",
+      "tekst": "Ik ben Marieke. Ik maak handgetekende boeken, kaarten en kalenders vol lichtjes, liefde en hoop. In deze mails hoor je als eerste wanneer de volgende pop-up opengaat.",
+      "punten": [
+        "Alles met de hand getekend",
+        "547 lieve reviews",
+        "Gratis verzending vanaf €29,95",
+        "Het Grote Depri Doe-Boek, €29,95"
+      ]
+    },
+    {
+      "node": "2574:109",
+      "type": "Kadomail",
+      "onderwerp": "Lieve kado's voor de feestdagen",
+      "kop": "Lieve kado's voor de feestdagen",
+      "tekst": "Vier kado's voor jezelf of iemand die je liefhebt, met een echte review erbij.",
+      "punten": [
+        "Het Belachelijk Fijne Boek voor Bange Dagen, €24,95",
+        "De liefste 2027 kalender, vanaf €16,95",
+        "Liefste Kerstkaarten, €14,99",
+        "Liefs in je broekzak, €6,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
