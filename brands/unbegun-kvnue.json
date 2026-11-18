@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "unbegun-kvnue",
+  "merk": "Unbegun",
+  "domein": "unbegun.nl",
+  "lead_id": "2026-11-18-unbegun.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#111111",
+  "kop": "Oud zeil, nieuwe kopers op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Unbegun, ik heb dit gemaakt omdat jullie van een oud aanhangerzeil een laptophoes maken die nergens anders zo bestaat. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2690:3",
+      "titel": "Van oud zeil",
+      "waarom": "Het verhaal van het materiaal in één kop, met de hoes groot in beeld: zo snap je in een seconde waarom deze sleeve anders is."
+    },
+    {
+      "node": "2690:23",
+      "titel": "Zelfde sleeve, ander zeil",
+      "waarom": "Twee uitvoeringen naast elkaar laten mensen meteen kiezen, en het laat zien dat geen twee hoezen hetzelfde zijn."
+    },
+    {
+      "node": "2691:2",
+      "titel": "Van buiten tot binnen",
+      "waarom": "De labels beantwoorden de vraag die bij €149 opkomt: waarom is deze hoes het waard?"
+    }
+  ],
+  "waarom": {
+    "niche": "tassen",
+    "kop": "Zo groeien tassenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw tassenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende tas.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij tassen- en accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "300+",
+        "label": "advertenties heeft Kapten & Son nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2692:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Unbegun",
+    "kop": "Welkom bij Unbegun",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wat jullie maken, hoe het gemaakt wordt en een eerste hoes om mee te beginnen.",
+    "punten": [
+      "Van oud markt-, festival- en vrachtwagenzeil",
+      "Met de hand gemaakt in Amsterdam",
+      "Laptop sleeve vanaf €65, met handvat €149"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2692:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Unbegun",
+      "kop": "Welkom bij Unbegun",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wat jullie maken, hoe het gemaakt wordt en een eerste hoes om mee te beginnen.",
+      "punten": [
+        "Van oud markt-, festival- en vrachtwagenzeil",
+        "Met de hand gemaakt in Amsterdam",
+        "Laptop sleeve vanaf €65, met handvat €149"
+      ]
+    },
+    {
+      "node": "2693:2",
+      "type": "Merkverhaal",
+      "onderwerp": "Van aanhangerzeil tot laptophoes",
+      "kop": "Maartje knipt en naait alles zelf",
+      "tekst": "Het verhaal achter Unbegun: Maartje in het atelier, wat er in een laptophoes zit en de set van Boedelbak-zeil als afsluiter.",
+      "punten": [
+        "Maartje, ex-theaterkostuumontwerper, maakt alles met de hand",
+        "Buitenkant van vrachtwagenzeil, voering van gerecyclede flessen, gerecycled schuim, YKK-ritsen",
+        "Set van geel Boedelbak-zeil, heuptas €36"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

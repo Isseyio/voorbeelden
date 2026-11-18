@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "leannes-sddfq",
+  "merk": "Leanne's Bakery",
+  "domein": "leannesbakery.nl",
+  "lead_id": "2026-11-18-leannesbakery.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#9A6A50",
+  "kop": "Kraakverse granola, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Leanne's Bakery, ik heb dit gemaakt omdat jullie granola pas gebakken wordt als iemand bestelt, en dat verhaal zie je bijna nergens. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2688:3",
+      "titel": "Gebakken in Kralingen",
+      "waarom": "Leanne zelf met de zakjes laat meteen zien dat dit een echte bakkerij is en geen fabrieksgranola."
+    },
+    {
+      "node": "2688:16",
+      "titel": "Elke ochtend een andere smaak",
+      "waarom": "Vijf smaken in een weekritme maakt van één zak granola een gewoonte en nodigt uit om meer smaken te proberen."
+    },
+    {
+      "node": "2688:47",
+      "titel": "Granola die nog kraakt",
+      "waarom": "Een grote, eenvoudige kop over versheid valt op tussen het scrollen en de Naturel Granola laat precies zien wat erin zit."
+    }
+  ],
+  "waarom": {
+    "niche": "food",
+    "kop": "Zo groeien foodmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw granolamerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun zak leeg is.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Oot nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2689:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Leanne's Bakery, hier is je 10% korting",
+    "kop": "Welkom bij Leanne's Bakery",
+    "tekst": "Een rustige welkomstmail voor iedereen die zich via het 10%-formulier inschrijft: wie Leanne is, hoe de granola gebakken wordt en een eerste productkeuze.",
+    "punten": [
+      "Leanne met de pot granola als eerste beeld",
+      "Drie redenen: met de hand gebakken, alleen honing of dadelsiroop, minimaal 10 weken vers",
+      "Chocolade Granola als makkelijke eerste keuze"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2689:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Leanne's Bakery, hier is je 10% korting",
+      "kop": "Welkom bij Leanne's Bakery",
+      "tekst": "Een rustige welkomstmail voor iedereen die zich via het 10%-formulier inschrijft: wie Leanne is, hoe de granola gebakken wordt en een eerste productkeuze.",
+      "punten": [
+        "Leanne met de pot granola als eerste beeld",
+        "Drie redenen: met de hand gebakken, alleen honing of dadelsiroop, minimaal 10 weken vers",
+        "Chocolade Granola als makkelijke eerste keuze"
+      ]
+    },
+    {
+      "node": "2689:38",
+      "type": "Merkverhaal",
+      "onderwerp": "Hoe één pot granola een eigen bakkerij werd",
+      "kop": "Van één pot granola naar een eigen bakkerij",
+      "tekst": "Het verhaal van Leanne in drie stappen, van 60 kilo in één week thuis tot de bakkerij in Kralingen, met daarna wat er in de Naturel Granola zit.",
+      "punten": [
+        "Tijdlijn 2020, 2022 en nu",
+        "Naturel Granola met vier ingrediënten uitgelicht",
+        "Afsluiting met de drie verpakkingen: 250 gram, 500 gram of 1 kilo"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
