@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "meijlis-552kg",
+  "merk": "Meijlis",
+  "domein": "meijlis.com",
+  "lead_id": "2026-11-18-meijlis.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#D1AA44",
+  "kop": "Van oud goud naar een nieuw sieraad, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Meijlis, ik heb dit gemaakt omdat jullie werk in opdracht, zoals die ring van een vintage hanger, precies het soort verhaal is dat op Instagram goed werkt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2607:4",
+      "titel": "Van oud goud",
+      "waarom": "Laat in één beeld zien hoe oud goud in jullie atelier een nieuw sieraad wordt, het verhaal dat jullie onderscheidt van een gewone juwelier."
+    },
+    {
+      "node": "2607:23",
+      "titel": "Gemaakt in opdracht",
+      "waarom": "Een detailfoto met korte uitleg maakt het vakmanschap zichtbaar en nodigt uit om zelf een idee te bespreken."
+    },
+    {
+      "node": "2607:45",
+      "titel": "IJsmat of hoogglans",
+      "waarom": "Een keuzevraag laat mensen meedenken en zet de gouden manchetknopen in de schijnwerpers."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft A Beautiful Story nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2608:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Atelier Meijlis",
+    "kop": "Welkom bij Atelier Meijlis",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Richard en Lotte zijn, wat er in het atelier gemaakt wordt en een uitnodiging om langs te komen.",
+    "punten": [
+      "Persoonlijke kennismaking met de twee goudsmeden",
+      "Reparaties, sieraden vermaken en eigen ontwerp in één oogopslag",
+      "Uitnodiging voor een afspraak in Boven-Leeuwen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2608:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Atelier Meijlis",
+      "kop": "Welkom bij Atelier Meijlis",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Richard en Lotte zijn, wat er in het atelier gemaakt wordt en een uitnodiging om langs te komen.",
+      "punten": [
+        "Persoonlijke kennismaking met de twee goudsmeden",
+        "Reparaties, sieraden vermaken en eigen ontwerp in één oogopslag",
+        "Uitnodiging voor een afspraak in Boven-Leeuwen"
+      ]
+    },
+    {
+      "node": "2608:34",
+      "type": "Merkverhaal",
+      "onderwerp": "Twee goudsmeden, één atelier",
+      "kop": "Twee goudsmeden, één atelier",
+      "tekst": "Het verhaal achter Meijlis: de Vakschool in Schoonhoven, het nieuwe atelier en de gouden manchetknopen, met een oproep om oud goud een nieuw leven te geven.",
+      "punten": [
+        "Merkverhaal met Richard en Lotte",
+        "Gouden manchetknopen met de belangrijkste kenmerken",
+        "Afsluiting: van oud goud een nieuw sieraad"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
