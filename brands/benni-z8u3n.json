@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "benni-z8u3n",
+  "merk": "Benni & Ninni",
+  "domein": "benni-en-ninni.com",
+  "lead_id": "2026-11-18-benni-en-ninni.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#73391B",
+  "kop": "Drie nieuwe advertenties voor de Teddy Collectie",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Benni & Ninni, ik heb dit gemaakt omdat jullie Teddy Collectie in cream en bruin zo mooi bij elkaar past, en de foto's van de babykamer dat goed laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2526:4",
+      "titel": "Cream of bruin",
+      "waarom": "Twee kleuren naast elkaar helpen ouders kiezen, in plaats van alleen te kijken."
+    },
+    {
+      "node": "2526:28",
+      "titel": "Eén organizer",
+      "waarom": "Een product van €29,99 met drie duidelijke kenmerken is een makkelijke eerste aankoop voor nieuwe klanten."
+    },
+    {
+      "node": "2526:47",
+      "titel": "Alles in één set",
+      "waarom": "De Newborn Set laat in één beeld zien wat een babykamer nodig heeft, en verhoogt zo het bedrag per bestelling."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien babymerken op Instagram.",
+    "tekst": "Aanstaande ouders zoeken hun babyspullen vooral tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe: dezelfde mensen zien hem steeds weer en klikken minder. Merken die elke week nieuwe varianten testen, houden hun kosten per aankoop laag, en een welkomstmail zorgt dat nieuwe inschrijvers ook echt bestellen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Kraam-cadeau.nl nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2528:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Benni & Ninni",
+    "kop": "Welkom bij Benni & Ninni",
+    "tekst": "Fijn dat je er bent. Als welkom krijg je 5% korting op je eerste bestelling, voor alles van zachte teddystof.",
+    "punten": [
+      "Teddystof, OekoTex-gecertificeerd",
+      "De hoes gaat zo de wasmachine in op 30°",
+      "Begin met de crib organizer voor €29,99"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2528:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Benni & Ninni",
+      "kop": "Welkom bij Benni & Ninni",
+      "tekst": "Fijn dat je er bent. Als welkom krijg je 5% korting op je eerste bestelling, voor alles van zachte teddystof.",
+      "punten": [
+        "Teddystof, OekoTex-gecertificeerd",
+        "De hoes gaat zo de wasmachine in op 30°",
+        "Begin met de crib organizer voor €29,99"
+      ]
+    },
+    {
+      "node": "2528:45",
+      "type": "Merkverhaal",
+      "onderwerp": "Begonnen aan de keukentafel",
+      "kop": "Begonnen aan de keukentafel",
+      "tekst": "Het verhaal van Bente en Mieke, daarna het Teddy Babynest met zijn uitneembare rand en wasbare hoes, en tot slot de Teddy Newborn Set.",
+      "punten": [
+        "Zelf ontworpen door twee zussen uit Oldenzaal",
+        "Babynest ca. 34 × 67 cm, rand en matras uitneembaar",
+        "Newborn Set met vijf items, in cream of bruin"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
