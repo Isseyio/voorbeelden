@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "inbetween-qcwjd",
+  "merk": "In Between Jewelry",
+  "domein": "inbetweenjewelry.nl",
+  "lead_id": "2026-11-18-inbetweenjewelry.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#717085",
+  "kop": "Echte edelstenen, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team In Between, ik heb dit gemaakt omdat Merel elk sieraad met de hand maakt, met een echte edelsteen, en dat zie je op jullie foto's op marmer meteen terug. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2531:2",
+      "titel": "Eén steen, kracht en moed",
+      "waarom": "De Granaat heren ketting groot in beeld met drie korte kenmerken laat in een paar seconden zien wat je koopt en waarom het €99 waard is."
+    },
+    {
+      "node": "2531:24",
+      "titel": "Voor haar of voor hem?",
+      "waarom": "Dames in goud naast heren in zilver, met de prijs erbij, laat mensen meteen kiezen voor wie ze kijken, ook als cadeau."
+    },
+    {
+      "node": "2531:47",
+      "titel": "Zo is de Smaragd gemaakt",
+      "waarom": "Vier ronde detailbeelden van steen, schakel, sluiting en handwerk geven een reden om voor een handgemaakte ketting te kiezen in plaats van een goedkoop alternatief."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, bijvoorbeeld voor een geboortesteen voor iemand anders.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft A Beautiful Story nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2533:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij In Between",
+    "kop": "Welkom bij In Between",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waarom een sieraad van In Between anders is en een eerste stap naar de geboortestenen.",
+    "punten": [
+      "Jullie eigen marmerfoto met gouden edelsteenkettingen als welkom",
+      "Echte edelstenen, handgemaakt in Helenaveen en gratis verzending in drie korte blokken",
+      "Vind jouw steen: de geboortestenen met kettingen vanaf €89"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2533:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij In Between",
+      "kop": "Welkom bij In Between",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waarom een sieraad van In Between anders is en een eerste stap naar de geboortestenen.",
+      "punten": [
+        "Jullie eigen marmerfoto met gouden edelsteenkettingen als welkom",
+        "Echte edelstenen, handgemaakt in Helenaveen en gratis verzending in drie korte blokken",
+        "Vind jouw steen: de geboortestenen met kettingen vanaf €89"
+      ]
+    },
+    {
+      "node": "2533:33",
+      "type": "Merkverhaal",
+      "onderwerp": "Draag je steen altijd dicht bij je",
+      "kop": "Draag je steen altijd dicht bij je.",
+      "tekst": "Een merkverhaal over het handwerk: Merel als edelsmid, hoe een ketting is opgebouwd en een afsluiting voor de momenten waarvoor mensen een steen kiezen.",
+      "punten": [
+        "Merel en Reno in een eigen blok, met de productietijd van 1 tot 3 werkdagen",
+        "De Smaragd heren ketting met vier labels: steen, ribkraal, zilveren schakel en lengte",
+        "Voor elk moment: zwangerschap, geboorte of iets voor jezelf, dameskettingen vanaf €89"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
