@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "kleikunstig-e6ceh",
+  "merk": "Kleikunstig",
+  "domein": "kleikunstig.nl",
+  "lead_id": "2026-11-18-kleikunstig.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6E4329",
+  "kop": "Handgemaakte keramiek, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Kleikunstig, ik heb dit gemaakt omdat Esther haar glazuren zelf maakt, van ruwe grondstoffen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2676:4",
+      "titel": "Zo maken we hem",
+      "waarom": "Laat in één beeld zien wat een handgemaakte mok anders maakt: gedraaid, eigen glazuur en geschikt voor elke dag."
+    },
+    {
+      "node": "2676:22",
+      "titel": "Welke kleur past?",
+      "waarom": "Twee glazuren naast elkaar: mensen kiezen sneller als ze kunnen vergelijken, en het laat zien dat elk stuk anders is."
+    },
+    {
+      "node": "2676:41",
+      "titel": "Mooie momenten aan tafel",
+      "waarom": "Jullie eigen sfeerfoto's van een gedekte tafel verkopen de schalen en plateaus beter dan een los productbeeld."
+    }
+  ],
+  "waarom": {
+    "niche": "keramiek",
+    "kop": "Zo groeien keramiekmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw keramiekmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een tweede mok of een cadeau.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij wonen- en keukenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25+",
+        "label": "advertenties heeft Motel a Miio nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2677:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Kleikunstig",
+    "kop": "Welkom bij Kleikunstig",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Esther en Julia zijn, wat jullie keramiek bijzonder maakt en de Bubble Mok als eerste stap.",
+    "punten": [
+      "Handgemaakte keramiek door moeder en dochter",
+      "Met de hand gemaakt, eigen glazuren, dagelijks te gebruiken",
+      "De Bubble Mok Crispy Caramel als eerste aankoop"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2677:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Kleikunstig",
+      "kop": "Welkom bij Kleikunstig",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Esther en Julia zijn, wat jullie keramiek bijzonder maakt en de Bubble Mok als eerste stap.",
+      "punten": [
+        "Handgemaakte keramiek door moeder en dochter",
+        "Met de hand gemaakt, eigen glazuren, dagelijks te gebruiken",
+        "De Bubble Mok Crispy Caramel als eerste aankoop"
+      ]
+    },
+    {
+      "node": "2677:37",
+      "type": "Merkverhaal",
+      "onderwerp": "Ontmoet de makers",
+      "kop": "Ontmoet de makers",
+      "tekst": "Het verhaal achter Kleikunstig, de Kan Crispy Caramel uitgelicht met wat hem anders maakt, en een afsluiter richting vazen en kannen.",
+      "punten": [
+        "Kleine oplages, soms maar één of twee van iets",
+        "Glazuren zelf gemaakt van ruwe grondstoffen",
+        "Geschikt voor vaatwasser, magnetron en oven"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

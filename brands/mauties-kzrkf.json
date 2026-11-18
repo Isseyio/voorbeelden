@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "mauties-kzrkf",
+  "merk": "Mauties Mama",
+  "domein": "mautiesmama.nl",
+  "lead_id": "2026-11-18-mautiesmama.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C8786E",
+  "kop": "De salopettes van Mauties Mama, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Mauties Mama, ik heb dit gemaakt omdat jullie babykleding met de hand wordt gemaakt in sociale werkplaatsen en in jullie eigen atelier, en dat verhaal verdient een groter publiek. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2675:3",
+      "titel": "Kleine momenten",
+      "waarom": "Jullie eigen zin 'gemaakt voor kleine momenten' met foto's tussen de woorden valt op en vertelt meteen waar het merk voor staat."
+    },
+    {
+      "node": "2675:23",
+      "titel": "Welke print wordt het?",
+      "waarom": "Twee prints naast elkaar laten ouders en kraamvisite kiezen, en dat maakt het makkelijk om door te klikken."
+    },
+    {
+      "node": "2675:44",
+      "titel": "Vanaf €21,95",
+      "waarom": "Een duidelijke prijs en gratis verzending bovenaan, met een warme foto eronder, geven twijfelaars een reden om nu te kijken."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien babymerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw babymerk niet via Google, maar tijdens het scrollen op Instagram, vaak tijdens de zwangerschap of als ze een kraamcadeau zoeken. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die ouders terugkomen als hun baby groeit.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Kraam-cadeau.nl nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2675:64",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Mauties Mama",
+    "kop": "Welkom bij Mauties Mama",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waar en hoe alles gemaakt wordt, en een kijkje in het atelier in Sappemeer.",
+    "punten": [
+      "Herokaart met de salopette Willy en een korte welkomsttekst",
+      "Drie zekerheden: handgemaakt in Nederland, OEKO-TEX® katoen, gratis verzending vanaf €50",
+      "Kaart uit het atelier met de mogelijkheid om een naam te laten borduren of printen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2675:64",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Mauties Mama",
+      "kop": "Welkom bij Mauties Mama",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waar en hoe alles gemaakt wordt, en een kijkje in het atelier in Sappemeer.",
+      "punten": [
+        "Herokaart met de salopette Willy en een korte welkomsttekst",
+        "Drie zekerheden: handgemaakt in Nederland, OEKO-TEX® katoen, gratis verzending vanaf €50",
+        "Kaart uit het atelier met de mogelijkheid om een naam te laten borduren of printen"
+      ]
+    },
+    {
+      "node": "2675:101",
+      "type": "Assortimentsmail",
+      "onderwerp": "Een salopette voor elk klein moment",
+      "kop": "Een salopette voor elk klein moment",
+      "tekst": "Een nieuwsbrief die de salopettecollectie laat zien, met vier prints naast elkaar en de optie om een naam toe te voegen.",
+      "punten": [
+        "Grote foto van een baby in de salopette Willy",
+        "Vier salopettes (Leo, Willy, Annabel, Toby) met prijs, maten en een knop",
+        "Afsluiting over personaliseren met naam, voor €7,50 extra"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

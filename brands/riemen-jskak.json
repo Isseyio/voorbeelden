@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "riemen-jskak",
+  "merk": "Riemen.nl",
+  "domein": "riemen.nl",
+  "lead_id": "2026-11-18-riemen.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6E4428",
+  "kop": "Leren riemen en sleutelhangers uit Dongen, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Eric, ik heb dit gemaakt omdat een leren sleutelhanger met een naam erop een mooi cadeau is, juist richting december. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2675:151",
+      "titel": "Met jouw naam",
+      "waarom": "Begint bij wat mensen echt intypen en laat direct zien dat de sleutelhanger persoonlijk te maken is."
+    },
+    {
+      "node": "2675:164",
+      "titel": "Waar hij van gemaakt is",
+      "waarom": "Leer, garen en ring van dichtbij maken de prijs logisch en het handwerk zichtbaar."
+    },
+    {
+      "node": "2675:184",
+      "titel": "Riemen vanaf €11,95",
+      "waarom": "Een echte prijs en het grote aanbod in één beeld, voor mensen die gewoon een goede riem zoeken."
+    }
+  ],
+  "waarom": {
+    "niche": "accessoires",
+    "kop": "Zo groeien accessoiremerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe riem of een cadeau niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Storebay.nl nu tegelijk live, ook voor leren riemen"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2675:194",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Riemen.nl",
+    "kop": "Welkom bij Riemen.nl",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, dat het grootste deel uit eigen productie in Dongen komt, en hoe bestellen werkt.",
+    "punten": [
+      "Eigen productie in Dongen als openingsverhaal",
+      "Gratis verzending vanaf €50, voor 16:00 besteld dezelfde werkdag verzonden, 60 dagen retour",
+      "Riemen van 55 tot 200 cm als tweede blok"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2675:194",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Riemen.nl",
+      "kop": "Welkom bij Riemen.nl",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, dat het grootste deel uit eigen productie in Dongen komt, en hoe bestellen werkt.",
+      "punten": [
+        "Eigen productie in Dongen als openingsverhaal",
+        "Gratis verzending vanaf €50, voor 16:00 besteld dezelfde werkdag verzonden, 60 dagen retour",
+        "Riemen van 55 tot 200 cm als tweede blok"
+      ]
+    },
+    {
+      "node": "2675:220",
+      "type": "Productspotlight",
+      "onderwerp": "Een cadeau met een naam erop",
+      "kop": "Een cadeau met een naam erop",
+      "tekst": "Een mail rond de leren sleutelhanger met initialen, voornaam of logo, met de vijf kleuren en de belangrijkste kenmerken op een rij.",
+      "punten": [
+        "Leren sleutelhanger als persoonlijk cadeau",
+        "Vijf kleuren, 100% rundleer, nikkelvrije ring",
+        "Afsluiter: voor 16:00 besteld, dezelfde dag verzonden"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

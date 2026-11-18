@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "boavista-uvf8e",
+  "merk": "Boavista Circular",
+  "domein": "boavistacircular.nl",
+  "lead_id": "2026-11-18-boavistacircular.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5B6B3E",
+  "kop": "Afwaszeep van frituurolie, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Boavista Circular, ik heb dit gemaakt omdat afwaszeep van oude frituurolie een verhaal is dat mensen meteen willen doorvertellen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2672:4",
+      "titel": "Afwassen met frituurolie",
+      "waarom": "De hand met de JAR en vier korte kenmerken laten in één blik zien wat het is en waarom het anders is."
+    },
+    {
+      "node": "2672:22",
+      "titel": "Blok of schaal",
+      "waarom": "Twee varianten naast elkaar met prijs helpen twijfelaars kiezen in plaats van doorscrollen."
+    },
+    {
+      "node": "2672:47",
+      "titel": "Gooi het niet weg",
+      "waarom": "Een kop die even tegendraads klinkt laat mensen stoppen met scrollen, en het product geeft meteen het antwoord."
+    }
+  ],
+  "waarom": {
+    "niche": "keuken en huishouden",
+    "kop": "Zo groeien merken voor keuken en huishouden op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Een duurzaam product met een verhaal valt daar op, zeker als je elke week een nieuwe invalshoek test. Een vaste nieuwsbrief zorgt dat kopers terugkomen als hun zeep op is.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij merken voor keuken en huishouden vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "3",
+        "label": "advertenties heeft Seepje nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2674:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Boavista Circular (en je 10% korting)",
+    "kop": "Welkom bij Boavista Circular",
+    "tekst": "Een welkomstmail die meteen vertelt waar de zeep van gemaakt is, de 10% korting voor de eerste bestelling laat zien en uitlegt hoe je het blok gebruikt.",
+    "punten": [
+      "Het verhaal in twee zinnen: afwaszeep van frituurolie, sponzen van visnetten",
+      "De 10% korting voor de eerste bestelling direct in beeld",
+      "Korte uitleg: borstel nat, over het blok, afwassen (en de rasp-tip)"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2674:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Boavista Circular (en je 10% korting)",
+      "kop": "Welkom bij Boavista Circular",
+      "tekst": "Een welkomstmail die meteen vertelt waar de zeep van gemaakt is, de 10% korting voor de eerste bestelling laat zien en uitlegt hoe je het blok gebruikt.",
+      "punten": [
+        "Het verhaal in twee zinnen: afwaszeep van frituurolie, sponzen van visnetten",
+        "De 10% korting voor de eerste bestelling direct in beeld",
+        "Korte uitleg: borstel nat, over het blok, afwassen (en de rasp-tip)"
+      ]
+    },
+    {
+      "node": "2674:52",
+      "type": "Merkverhaal",
+      "onderwerp": "Het recept van Flavia's moeder",
+      "kop": "Afval is pas afval als je het weggooit.",
+      "tekst": "Een merkverhaal over Flavia en het recept van haar moeder uit Joinville, met daarna de JAR en wat erin zit.",
+      "punten": [
+        "Het verhaal van Joinville naar Amsterdam",
+        "De ingrediënten van de JAR met korte labels",
+        "Afsluiter met de JAR (€8,95) en de refill (€6,50)"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
