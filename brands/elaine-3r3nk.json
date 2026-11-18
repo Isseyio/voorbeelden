@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "elaine-3r3nk",
+  "merk": "Elaine van der Made Art",
+  "domein": "elainevandermade.com",
+  "lead_id": "2026-11-18-elainevandermade.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B0185E",
+  "kop": "Drie advertenties voor kunst uit Hoorn",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Elaine van der Made, ik heb dit gemaakt omdat de handgeschilderde borrelplanken en canvas prints echte cadeaus zijn, en de foto's van Elaine bij haar werk daar heel goed bij passen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2519:4",
+      "titel": "Kies je borrelplank",
+      "waarom": "Vier ontwerpen naast elkaar laten zien hoe uniek elke handgeschilderde plank is en helpen mensen kiezen."
+    },
+    {
+      "node": "2519:26",
+      "titel": "Origineel of canvas",
+      "waarom": "Wie een origineel te groot vindt, ziet meteen dat hetzelfde werk ook als canvas print vanaf €79 kan."
+    },
+    {
+      "node": "2519:47",
+      "titel": "Kunst van Elaine",
+      "waarom": "Een lage instapprijs met Elaine zelf in beeld maakt het persoonlijk: mensen kopen kunst van iemand die ze kunnen zien."
+    }
+  ],
+  "waarom": {
+    "niche": "kunst & interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken nieuwe kunst niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een welkomstmail en een vaste nieuwsbrief zorgen dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Desenio nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2519:56",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Elaine van der Made Art",
+    "kop": "Welkom bij Elaine van der Made",
+    "tekst": "Fijn dat je er bent. Hier vind je originele schilderijen, canvas prints en handgeschilderde borrelplanken, allemaal gemaakt door Elaine in Hoorn.",
+    "punten": [
+      "Origineel werk uit Hoorn",
+      "Canvas prints vanaf €49",
+      "Met je aanmelding doe je mee aan de kerstwinactie van een handgeschilderde borrelplank"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2519:56",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Elaine van der Made Art",
+      "kop": "Welkom bij Elaine van der Made",
+      "tekst": "Fijn dat je er bent. Hier vind je originele schilderijen, canvas prints en handgeschilderde borrelplanken, allemaal gemaakt door Elaine in Hoorn.",
+      "punten": [
+        "Origineel werk uit Hoorn",
+        "Canvas prints vanaf €49",
+        "Met je aanmelding doe je mee aan de kerstwinactie van een handgeschilderde borrelplank"
+      ]
+    },
+    {
+      "node": "2519:81",
+      "type": "Merkverhaal",
+      "onderwerp": "Waar mijn licht jouw moment raakt",
+      "kop": "Waar mijn licht jouw moment raakt",
+      "tekst": "Elaine vertelt over haar stijl tussen abstract realisme, urban en expressionisme. Daarna 'Emerging Goddess' in drie canvasformaten en een afsluiting met de handgeschilderde borrelplanken.",
+      "punten": [
+        "Mastery-opleiding aan het Milan Art Institute",
+        "Canvas print van 40×50 tot 60×80 cm, €79 tot €119",
+        "Borrelplanken voor €119, of zelf schilderen bij Paint & Sip in Hoorn"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
