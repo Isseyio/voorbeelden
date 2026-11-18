@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "mykrissie-6fuqa",
+  "merk": "MyKrissieDolls",
+  "domein": "mykrissiedolls.nl",
+  "lead_id": "2026-11-18-mykrissiedolls.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C9416F",
+  "kop": "Jullie knuffels, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team MyKrissieDolls, ik heb dit gemaakt omdat de knuffels van Kristel, van de feestvarkentjes tot de kerstelfjes, precies het soort project zijn waar mensen tijdens het scrollen op Instagram voor stoppen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2656:85",
+      "titel": "Haak je eigen knuffel",
+      "waarom": "Een grote kop met jullie eendjes, varkentjes en kikkers tussen de woorden laat in één blik zien wat je met een patroon van €5,95 kunt maken."
+    },
+    {
+      "node": "2656:97",
+      "titel": "Glitter of Glamour",
+      "waarom": "Twee kleurversies naast elkaar laten zien dat één patroon meerdere knuffels oplevert, met garen en haaknaald er direct bij."
+    },
+    {
+      "node": "2656:115",
+      "titel": "Alva en Lumi bellen",
+      "waarom": "Een speelse inkomende oproep van de kerstelfjes valt op tussen gewone posts en past precies bij de weken voor kerst."
+    }
+  ],
+  "waarom": {
+    "niche": "hobby en cadeaus",
+    "kop": "Zo groeien hobbymerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw haakpatroon niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe haaksters en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die haaksters terugkomen voor hun volgende project.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij cadeau- en hobbymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Huisje van Katoen nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2658:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij MyKrissieDolls",
+    "kop": "Welkom bij MyKrissieDolls.",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie Kristel is, hoe een patroon direct als PDF in je mailbox komt en de haakpakketten voor wie meteen wil beginnen.",
+    "punten": [
+      "Eigen ontwerpen, elk patroon €5,95",
+      "PDF direct na betaling in je mailbox",
+      "Haakpakketten met het juiste garen erbij"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2658:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij MyKrissieDolls",
+      "kop": "Welkom bij MyKrissieDolls.",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie Kristel is, hoe een patroon direct als PDF in je mailbox komt en de haakpakketten voor wie meteen wil beginnen.",
+      "punten": [
+        "Eigen ontwerpen, elk patroon €5,95",
+        "PDF direct na betaling in je mailbox",
+        "Haakpakketten met het juiste garen erbij"
+      ]
+    },
+    {
+      "node": "2658:43",
+      "type": "Productspotlight",
+      "onderwerp": "Nieuwe projecten voor de feestdagen",
+      "kop": "Nieuwe projecten voor de feestdagen.",
+      "tekst": "Een mail met vier patronen om voor de feestdagen te haken, van de kerstelfjes Alva en Lumi tot Rendiertje Mia, afgesloten met de Feestvarkentjes van het tienjarig bestaan.",
+      "punten": [
+        "Kerstelfjes Alva en Lumi",
+        "Rendiertje Mia en Mijn Krissie Beer",
+        "Feestvarkentjes Glitter en Glamour"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "werfzeep-p4ch9",
+  "merk": "Werfzeep",
+  "domein": "werfzeep.nl",
+  "lead_id": "2026-11-18-werfzeep.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4F6B3A",
+  "kop": "Handgemaakte zeep, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Werfzeep, ik heb dit gemaakt omdat zeep met calendula, hop en borage uit een atelier aan de Westerkade precies het soort verhaal is dat mensen op Instagram willen zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2654:4",
+      "titel": "Waar het van gemaakt is",
+      "waarom": "De kruidenshampoo met de planten erin in ronde foto's laat in één beeld zien waarom een blok van jullie anders is dan een shampoo uit de drogist."
+    },
+    {
+      "node": "2654:27",
+      "titel": "Koop deze zeep niet",
+      "waarom": "Een omgekeerde kop zorgt dat mensen blijven hangen, en de zin eronder geeft meteen de echte reden om de lavendelzeep te proberen."
+    },
+    {
+      "node": "2654:47",
+      "titel": "Zeepsets als cadeau",
+      "waarom": "Een groot woord, een zoekbalk en drie sets naast elkaar sluiten aan op het moment dat mensen een cadeau zonder plastic zoeken."
+    }
+  ],
+  "waarom": {
+    "niche": "verzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw zeepmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen wanneer hun blok op is.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "2656:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Werfzeep",
+    "kop": "Welkom bij Werfzeep",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn, wat er in een blok zit en de maandelijkse kortingscode als reden om te blijven lezen.",
+    "punten": [
+      "Handgemaakt in Utrecht sinds 2009",
+      "Plantaardig, palmolievrij en zonder plastic",
+      "Elke maand een eigen kortingscode"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2656:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Werfzeep",
+      "kop": "Welkom bij Werfzeep",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wie jullie zijn, wat er in een blok zit en de maandelijkse kortingscode als reden om te blijven lezen.",
+      "punten": [
+        "Handgemaakt in Utrecht sinds 2009",
+        "Plantaardig, palmolievrij en zonder plastic",
+        "Elke maand een eigen kortingscode"
+      ]
+    },
+    {
+      "node": "2656:39",
+      "type": "Merkverhaal",
+      "onderwerp": "Zo maken wij onze zeep",
+      "kop": "Zo maken wij onze zeep.",
+      "tekst": "Het verhaal vanaf de kelder aan de Oudegracht tot het atelier aan de Westerkade, met de lavendelzeep uitgelegd en de koude procesmethode als afsluiting.",
+      "punten": [
+        "Begonnen in 2009 in een kelder aan de Oudegracht",
+        "Olijfolie, cacaoboter, arganolie en échte lavendel",
+        "Koude procesmethode in eigen atelier"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

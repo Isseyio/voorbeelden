@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "imkerijtgooi-nwwg2",
+  "merk": "Imkerij 't Gooi",
+  "domein": "imkerijtgooi.nl",
+  "lead_id": "2026-11-18-imkerijtgooi.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#D08A26",
+  "kop": "Rauwe honing uit ’t Gooi, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Imkerij ’t Gooi, ik heb dit gemaakt omdat honing die je rechtstreeks van de imker koopt een verhaal heeft dat goed werkt op Instagram, zeker richting de feestdagen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2651:3",
+      "titel": "Vier honingen",
+      "waarom": "Vier smaken met foto, korte uitleg en prijs laten in één beeld zien hoeveel keuze er is en maken nieuwsgierig naar de heidehoning."
+    },
+    {
+      "node": "2651:27",
+      "titel": "Van de kast naar je pot",
+      "waarom": "De imker en de pot naast elkaar vertellen het verschil met supermarkthoning zonder lange uitleg."
+    },
+    {
+      "node": "2651:50",
+      "titel": "De grote pot voor de winter",
+      "waarom": "Eén duidelijke prijs en een grote foto van de pot geven een concrete reden om nu te bestellen."
+    }
+  ],
+  "waarom": {
+    "niche": "food",
+    "kop": "Zo groeien foodmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een lokale imker niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als de nieuwe oogst er is.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25+",
+        "label": "advertenties heeft Humelie nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2652:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de imker",
+    "kop": "Welkom bij de imker",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie de imker is, hoe de honing koud wordt geslingerd en dat er altijd direct contact is met de imker zelf.",
+    "punten": [
+      "Herokaart met de pot bloemenhoning van 900 gram",
+      "Drie kenmerken: koud geslingerd, lokaal uit ’t Gooi, zonder tussenhandel",
+      "Tweede kaart met de imker bij de kast en een knop om een bericht te sturen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2652:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de imker",
+      "kop": "Welkom bij de imker",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie de imker is, hoe de honing koud wordt geslingerd en dat er altijd direct contact is met de imker zelf.",
+      "punten": [
+        "Herokaart met de pot bloemenhoning van 900 gram",
+        "Drie kenmerken: koud geslingerd, lokaal uit ’t Gooi, zonder tussenhandel",
+        "Tweede kaart met de imker bij de kast en een knop om een bericht te sturen"
+      ]
+    },
+    {
+      "node": "2652:34",
+      "type": "Merkverhaal",
+      "onderwerp": "Van onze kasten naar jouw tafel",
+      "kop": "Van onze kasten naar jouw tafel",
+      "tekst": "Een nieuwsbrief over waarom de honing koud wordt geslingerd, met de bloemenhoning in beeld en een seizoensblok met de kerstboomkaarsjes van bijenwas.",
+      "punten": [
+        "Hero met de imker bij een raam vol honing",
+        "Bloemenhoning met vier labels: koud, onverhit, lokaal, 450 gram voor €8,50",
+        "Afsluiting met de kerstboomkaars van 100% bijenwas voor €2,50"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
