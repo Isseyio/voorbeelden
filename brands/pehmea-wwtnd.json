@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "pehmea-wwtnd",
+  "merk": "Pehmea",
+  "domein": "pehmea.nl",
+  "lead_id": "2026-11-18-pehmea.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1C1C1A",
+  "kop": "Merino voor op de motor, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Pehmea, ik heb dit gemaakt omdat jullie op de motorpagina heel duidelijk uitleggen waarom merino werkt, en dat verhaal past goed in een advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2628:3",
+      "titel": "Was dit niet",
+      "waarom": "Een kop die doet stoppen met scrollen en meteen het voordeel uitlegt dat mensen niet van een thermoshirt verwachten: het neemt geur op."
+    },
+    {
+      "node": "2628:23",
+      "titel": "Twee shirts naast elkaar",
+      "waarom": "Ronde hals of ritskraag, heren of dames: twee varianten met prijs maken de keuze makkelijk."
+    },
+    {
+      "node": "2628:49",
+      "titel": "Koel in de zomer, warm in de winter",
+      "waarom": "Jullie eigen belofte op een sfeerbeeld van een motorrit, met de prijs erbij, voor mensen die jullie nog niet kennen."
+    }
+  ],
+  "waarom": {
+    "niche": "sport en outdoor",
+    "kop": "Zo groeien outdoormerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingmerk voor buiten niet via Google, maar tijdens het scrollen, vaak precies als het kouder of warmer wordt. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende laag.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij outdoormerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Outdoors Nordic nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2630:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Pehmea",
+    "kop": "Fijn dat je er bent.",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: wat Pehmea is, waarom merinowol werkt en meteen de weg naar de motorcollectie.",
+    "punten": [
+      "Eerlijke kleding van 100% merinowol",
+      "Ademend, temperatuurregulerend en geurneutraliserend",
+      "Getest door testrijders van Motorblog.nl"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2630:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Pehmea",
+      "kop": "Fijn dat je er bent.",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: wat Pehmea is, waarom merinowol werkt en meteen de weg naar de motorcollectie.",
+      "punten": [
+        "Eerlijke kleding van 100% merinowol",
+        "Ademend, temperatuurregulerend en geurneutraliserend",
+        "Getest door testrijders van Motorblog.nl"
+      ]
+    },
+    {
+      "node": "2630:33",
+      "type": "Productspotlight",
+      "onderwerp": "Is merinowol geschikt voor de motor?",
+      "kop": "Is merinowol geschikt voor de motor?",
+      "tekst": "De uitleg van jullie motorpagina als mail: hoe merino isoleert en vocht afvoert, wat er in een WoolTech 200 shirt zit en de hele motorcollectie.",
+      "punten": [
+        "35 procent vochtopname, tegenover 20 procent bij katoen",
+        "18,5 micron, 200 gram double jersey rib",
+        "Gratis verzending vanaf €100"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

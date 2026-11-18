@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "quint-8yg58",
+  "merk": "Quint Patisserie",
+  "domein": "quintpatisserie.nl",
+  "lead_id": "2026-11-18-quintpatisserie.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#421C45",
+  "kop": "Handgemaakte bonbons uit eigen atelier, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Quint, ik heb dit gemaakt omdat jullie bonbons met hun kleuren en spikkels op een foto al bijna een advertentie zijn. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2632:4",
+      "titel": "Truffels of macarons?",
+      "waarom": "Twee producten van dezelfde prijs naast elkaar met een keuzevraag laten mensen kiezen in plaats van doorscrollen."
+    },
+    {
+      "node": "2632:24",
+      "titel": "Eet ze niet allemaal tegelijk",
+      "waarom": "Een kop die het tegenovergestelde zegt laat mensen stoppen, en de drie vinkjes vertellen in één oogopslag wat er in de doos zit."
+    },
+    {
+      "node": "2632:44",
+      "titel": "Proeverij bonbons",
+      "waarom": "De glanzende bonbons groot in beeld met korte labels en een prijs vanaf €6,95 maken de proeverij een makkelijke eerste aankoop."
+    }
+  ],
+  "waarom": {
+    "niche": "food en drinks",
+    "kop": "Zo groeien foodmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe chocolatier niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers, zeker richting de feestdagen. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende doos.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij foodmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "2632:68",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Quint Patisserie",
+    "kop": "Welkom bij Quint Patisserie",
+    "tekst": "Een welkomstmail voor iedereen die zich inschrijft via het nieuwsbriefformulier op de site: wat jullie maken, hoe verzenden en afhalen werkt, en meteen een eerste product om te proberen.",
+    "punten": [
+      "Herokaart in jullie paars met de foto van de rijen macarons",
+      "Drie korte punten: handgemaakt volgens eigen recept, binnen 2 dagen verzonden, afhalen in het atelier",
+      "Uitgelicht: truffels gemengd, 12 stuks voor €9,95"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2632:68",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Quint Patisserie",
+      "kop": "Welkom bij Quint Patisserie",
+      "tekst": "Een welkomstmail voor iedereen die zich inschrijft via het nieuwsbriefformulier op de site: wat jullie maken, hoe verzenden en afhalen werkt, en meteen een eerste product om te proberen.",
+      "punten": [
+        "Herokaart in jullie paars met de foto van de rijen macarons",
+        "Drie korte punten: handgemaakt volgens eigen recept, binnen 2 dagen verzonden, afhalen in het atelier",
+        "Uitgelicht: truffels gemengd, 12 stuks voor €9,95"
+      ]
+    },
+    {
+      "node": "2632:109",
+      "type": "Merkverhaal",
+      "onderwerp": "Hoe Quint Patisserie begon",
+      "kop": "Ontstaan in de lockdown van 2020",
+      "tekst": "Een merkverhaal over de start in 2020 en de ervaring uit de sterrenkeuken, met daarna de proeverij van 25 bonbons en een afsluiting met de macarons. Zo leren nieuwe lezers eerst wie de bonbons maakt.",
+      "punten": [
+        "Opening met jullie foto uit het atelier en het citaat van Quint over de sterrenrestaurants",
+        "Proeverij 25 bonbons met vier labels: 20 smaken, satijnen lint voor €1,25, €32,50, duurzame chocolade",
+        "Afsluiting met 'Zeg je macarons, dan zeg je Quint.' en de zes smaken"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

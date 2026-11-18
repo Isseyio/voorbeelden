@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "kussoo-sp3mf",
+  "merk": "Kussoo",
+  "domein": "kussoo.nl",
+  "lead_id": "2026-11-18-kussoo.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1A97A1",
+  "kop": "Kussens in alle kleuren, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Kussoo, ik heb dit gemaakt omdat jullie zoveel kussens in verschillende stoffen, kleuren en sets hebben dat ze zich makkelijk laten vergelijken in een advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2622:5",
+      "titel": "Roze of groen?",
+      "waarom": "Twee sets naast elkaar met een keuzevraag laten mensen even stilstaan, en de prijs van €59 per set staat er meteen bij."
+    },
+    {
+      "node": "2622:27",
+      "titel": "Vier stoffen",
+      "waarom": "De detailfoto's laten zien wat je op een foto vaak mist: hoe de stof eruitziet en voelt, en dat er voor elke bank een passende stof is."
+    },
+    {
+      "node": "2622:49",
+      "titel": "Je bank belt",
+      "waarom": "Een herkenbaar telefoonscherm met een knipoog valt op tussen gewone posts, terwijl het kussen zelf groot in beeld blijft."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en interieur",
+    "kop": "Zo groeien woonmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kussen of plaid niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende kleur.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woonmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Sierkussen.nl nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2624:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Kussoo",
+    "kop": "Welkom bij Kussoo",
+    "tekst": "Een welkomstmail voor iedereen die zich aanmeldt via het nieuwsbriefblok op de site: kort wie Kussoo is, hoe bestellen werkt en meteen een kussen om te bekijken.",
+    "punten": [
+      "Herokaart in de teal van het logo, met jullie foto van de Lecce-set op het rotan bankje",
+      "Drie korte punten: gratis verzending vanaf €50, verzonden binnen 1–2 werkdagen, veel kleuren",
+      "Uitgelicht: sierkussen Juna roze met materiaal, maat en prijs"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2624:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Kussoo",
+      "kop": "Welkom bij Kussoo",
+      "tekst": "Een welkomstmail voor iedereen die zich aanmeldt via het nieuwsbriefblok op de site: kort wie Kussoo is, hoe bestellen werkt en meteen een kussen om te bekijken.",
+      "punten": [
+        "Herokaart in de teal van het logo, met jullie foto van de Lecce-set op het rotan bankje",
+        "Drie korte punten: gratis verzending vanaf €50, verzonden binnen 1–2 werkdagen, veel kleuren",
+        "Uitgelicht: sierkussen Juna roze met materiaal, maat en prijs"
+      ]
+    },
+    {
+      "node": "2624:45",
+      "type": "Merkverhaal",
+      "onderwerp": "Het verhaal achter Kussoo",
+      "kop": "Een eigen woonmerk, sinds 2017",
+      "tekst": "Een merkverhaal over Michelle en Kussoo, gevolgd door één kussen met vier labels en een afsluiting met warme cognactinten. Zo leren nieuwe lezers eerst het merk kennen en zien ze daarna wat ze kunnen kopen.",
+      "punten": [
+        "Opening met jullie sfeerfoto en het citaat van Michelle over de start in 2017",
+        "Gulia groen met vier labels: grof geweven, jadegroen en salie, 50×50 cm voor €34,95, uitneembaar binnenkussen",
+        "Afsluiting met Nova, Ofelia en Gulia in cognac"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
