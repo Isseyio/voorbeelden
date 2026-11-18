@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "dhana-znjjz",
+  "merk": "Dhana Chocolate",
+  "domein": "dhanachocolate.com",
+  "lead_id": "2026-11-18-dhanachocolate.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#EF7D00",
+  "kop": "Rauwe bonbons uit Zuidhorn, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Danielle, ik heb dit gemaakt omdat bonbons met rode biet, kardemom en dadels echt anders zijn dan wat je in de winkel ziet. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2570:3",
+      "titel": "Rauw & puur",
+      "waarom": "Eén groot woord en een zoekbalk spreken mensen aan die al zoeken naar chocolade zonder geraffineerde suiker."
+    },
+    {
+      "node": "2570:25",
+      "titel": "Gemaakt met",
+      "waarom": "De echte ingrediënten per product laten zien dat dit eerlijke, handgemaakte chocolade is."
+    },
+    {
+      "node": "2570:49",
+      "titel": "Een cadeau",
+      "waarom": "Richting de feestdagen werkt een cadeau met een duidelijke prijs goed om nieuwe kopers te bereiken."
+    }
+  ],
+  "waarom": {
+    "niche": "chocolade",
+    "kop": "Zo groeien chocolademerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw chocolademerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en chocolademerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Tony's Chocolonely nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2571:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Dhana Chocolate",
+    "kop": "Welkom bij Dhana Chocolate",
+    "tekst": "Fijn dat je er bent. Wij maken rauwe, plantaardige bonbons en repen met de hand, in Zuidhorn.",
+    "punten": [
+      "Biologisch sinds 2020",
+      "Plantaardig en zuivelvrij",
+      "Geen geraffineerde suiker",
+      "Workshops in Zuidhorn"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2571:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Dhana Chocolate",
+      "kop": "Welkom bij Dhana Chocolate",
+      "tekst": "Fijn dat je er bent. Wij maken rauwe, plantaardige bonbons en repen met de hand, in Zuidhorn.",
+      "punten": [
+        "Biologisch sinds 2020",
+        "Plantaardig en zuivelvrij",
+        "Geen geraffineerde suiker",
+        "Workshops in Zuidhorn"
+      ]
+    },
+    {
+      "node": "2571:29",
+      "type": "Merkverhaal",
+      "onderwerp": "Van de markt naar jouw brievenbus",
+      "kop": "Van de markt naar jouw brievenbus",
+      "tekst": "Danielle begon in 2012 op de Ommelander markt in Groningen. Uitgelicht: de Hazelnut Ganache Bar, gezoet met kokosbloesemsuiker.",
+      "punten": [
+        "Biologische cacao uit Peru, 72 uur gemalen",
+        "Gezoet met kokosbloesemsuiker",
+        "68 gram, €5,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
