@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "skot-z8n4f",
+  "merk": "SKOT Fashion",
+  "domein": "skotfashion.com",
+  "lead_id": "2026-11-18-skotfashion.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2B2B2B",
+  "kop": "Basics die blijven, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team SKOT, ik heb dit gemaakt omdat jullie 2-packs van biologisch katoen precies het soort basic zijn dat mensen steeds opnieuw kopen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2521:3",
+      "titel": "Goed gemaakt, lang gedragen",
+      "waarom": "Een grote typografische kop met kleine fotocapsules van jullie modellen vertelt in vier woorden waar SKOT voor staat, met de 2-pack eronder."
+    },
+    {
+      "node": "2521:21",
+      "titel": "Ronde hals of V-hals?",
+      "waarom": "Een simpele keuzevraag met twee foto's naast elkaar laat mensen meteen hun favoriete hals kiezen, en dat maakt de stap naar de winkel klein."
+    },
+    {
+      "node": "2521:43",
+      "titel": "2 T-shirts voor € 35,95",
+      "waarom": "De echte prijs per 2-pack groot bovenaan en een modelfoto eronder werkt goed voor mensen die al weten wat ze zoeken."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor hun volgende 2-pack.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Bamigo nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2523:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom, Skotty",
+    "kop": "Welkom, Skotty!",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: jullie eigen #Makeadifference-korting groot in beeld, gevolgd door drie T-shirts om mee te beginnen.",
+    "punten": [
+      "#Makeadifference voor 10% korting meteen zichtbaar, als code om te kopiëren",
+      "Wit Ronde Hals, Zwart V-Hals en Onzichtbaar Diepe V-Hals als eerste kennismaking, met prijs per 2-pack",
+      "Dezelfde dag verzonden en het verhaal achter SKOT als geruststelling"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2523:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom, Skotty",
+      "kop": "Welkom, Skotty!",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: jullie eigen #Makeadifference-korting groot in beeld, gevolgd door drie T-shirts om mee te beginnen.",
+      "punten": [
+        "#Makeadifference voor 10% korting meteen zichtbaar, als code om te kopiëren",
+        "Wit Ronde Hals, Zwart V-Hals en Onzichtbaar Diepe V-Hals als eerste kennismaking, met prijs per 2-pack",
+        "Dezelfde dag verzonden en het verhaal achter SKOT als geruststelling"
+      ]
+    },
+    {
+      "node": "2523:57",
+      "type": "Assortimentsmail",
+      "onderwerp": "Meer dan een T-shirt",
+      "kop": "Meer dan een T-shirt",
+      "tekst": "Een mail voor wie al een 2-pack heeft: longsleeves, polo's en Earth T-shirts in dezelfde rustige stijl, afgesloten met jullie Kiyoh-score.",
+      "punten": [
+        "Vier categorieën met elk een eigen foto en één korte zin",
+        "De Earth T-shirts met 100% GOTS-gecertificeerd katoen",
+        "Kiyoh 9,3 uit meer dan 600 beoordelingen als bewijs"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
