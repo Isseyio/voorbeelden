@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "myfleury-e6vxr",
+  "merk": "MyFleury",
+  "domein": "myfleury.com",
+  "lead_id": "2026-11-18-myfleury.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#47704C",
+  "kop": "Menstruatieondergoed, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team MyFleury, ik heb dit gemaakt omdat jullie per model met druppeltjes laten zien hoeveel het opvangt, en dat is precies wat iemand wil weten voor ze een eerste broekje koopt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2551:3",
+      "titel": "Elke dag geregeld",
+      "waarom": "Een weekstrip laat zien welk model bij welke dag van je menstruatie past, zodat de keuze tussen drie modellen makkelijk wordt."
+    },
+    {
+      "node": "2551:36",
+      "titel": "Gemaakt met",
+      "waarom": "Vier kenmerken met elk een eigen foto (2 mm dun kruis, meerdere lagen, gerecycled, door vrouwen) beantwoorden de twijfel of het echt werkt."
+    },
+    {
+      "node": "2551:59",
+      "titel": "Tot 15% bij drie",
+      "waarom": "De echte bundelkorting groot bovenaan, met jullie naam over een sterke modelfoto, zet mensen aan om meteen een hele cyclus te bestellen."
+    }
+  ],
+  "waarom": {
+    "niche": "menstruatieondergoed",
+    "kop": "Zo groeien ondergoedmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Bij menstruatieondergoed moet iemand eerst zien hoe het werkt, en dat lukt goed met advertenties die elke week een andere vraag beantwoorden. Een welkomstmail zorgt dat nieuwe inschrijvers ook echt hun eerste broekje bestellen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij ondergoedmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Moodies Undies nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2555:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij je happy period",
+    "kop": "Welkom bij je happy period",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wat MyFleury is, hoe het werkt en hoe je met drie broekjes begint. Nu staat er bij de inschrijving nog geen welkomstcadeau of vervolg.",
+    "punten": [
+      "8 tot 12 uur lekvrij, 2 mm dun kruis, gaat 2 tot 5 jaar mee",
+      "Begin met drie broekjes: 10% korting bij 2, 15% vanaf 3",
+      "Jullie eigen modelfoto's"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2555:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij je happy period",
+      "kop": "Welkom bij je happy period",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wat MyFleury is, hoe het werkt en hoe je met drie broekjes begint. Nu staat er bij de inschrijving nog geen welkomstcadeau of vervolg.",
+      "punten": [
+        "8 tot 12 uur lekvrij, 2 mm dun kruis, gaat 2 tot 5 jaar mee",
+        "Begin met drie broekjes: 10% korting bij 2, 15% vanaf 3",
+        "Jullie eigen modelfoto's"
+      ]
+    },
+    {
+      "node": "2555:36",
+      "type": "Productvergelijking",
+      "onderwerp": "Welk broekje past bij jouw dag?",
+      "kop": "Welk broekje past bij jouw dag?",
+      "tekst": "Een rustige mail die de Bikini, Classic en High Waist naast elkaar zet, zodat iemand in één keer ziet welk model bij welke dag past.",
+      "punten": [
+        "Vergelijkingstabel: flow, hoeveel het opvangt, draagtijd",
+        "De tip dat de Bikini klein valt",
+        "Afsluiten met de bundelkorting"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
