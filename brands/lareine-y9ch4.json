@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "lareine-y9ch4",
+  "merk": "Imkerij La Reine",
+  "domein": "shop.lareine.eu",
+  "lead_id": "2026-11-18-shop.lareine.eu",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#F2A33A",
+  "kop": "Honing uit de eigen bijentuin, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team La Reine, ik heb dit gemaakt omdat crèmes die jullie zelf met de hand vullen, met honing van jullie eigen bijen, een verhaal hebben dat op Instagram goed werkt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2614:3",
+      "titel": "Koop deze crème niet",
+      "waarom": "Een omgekeerde kop laat mensen stoppen met scrollen, en de drie vinkjes vertellen in een paar seconden waarom de voetcrème werkt."
+    },
+    {
+      "node": "2614:22",
+      "titel": "Gemaakt met",
+      "waarom": "De ingrediënten met eigen foto's uit de bijentuin maken zichtbaar wat er in de tube zit en waar het vandaan komt."
+    },
+    {
+      "node": "2614:42",
+      "titel": "Cadeaupakket voor €43",
+      "waarom": "Een duidelijke prijs en de imker in beeld maken het pakket een makkelijk cadeau, juist richting de feestdagen."
+    }
+  ],
+  "waarom": {
+    "niche": "verzorging",
+    "kop": "Zo groeien verzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw verzorgingsmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als de tube op is.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Kneipp nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2615:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij La Reine",
+    "kop": "Welkom bij La Reine",
+    "tekst": "Een warme welkomstmail die direct na de 'Mis niets meer'-inschrijving vertrekt: de drie crèmes, het voordeel voor de eerste bestelling en meteen het verhaal van Dorien en Jeroen.",
+    "punten": [
+      "Koppelt de bestaande inschrijving aan een echte eerste mail",
+      "Drie korte redenen: eigen bijentuin, met de hand gevuld, zonder parabenen",
+      "Tweede blok over de imkers achter La Reine"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2615:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij La Reine",
+      "kop": "Welkom bij La Reine",
+      "tekst": "Een warme welkomstmail die direct na de 'Mis niets meer'-inschrijving vertrekt: de drie crèmes, het voordeel voor de eerste bestelling en meteen het verhaal van Dorien en Jeroen.",
+      "punten": [
+        "Koppelt de bestaande inschrijving aan een echte eerste mail",
+        "Drie korte redenen: eigen bijentuin, met de hand gevuld, zonder parabenen",
+        "Tweede blok over de imkers achter La Reine"
+      ]
+    },
+    {
+      "node": "2615:43",
+      "type": "Assortiment",
+      "onderwerp": "Welke crème past bij jou?",
+      "kop": "Welke crème past bij jou?",
+      "tekst": "Een rustige keuzemail die de handcrème, voetcrème, propoliscrème en het cadeaupakket naast elkaar zet, elk met één zin waarvoor hij is. Zo vinden nieuwe klanten sneller hun tweede product.",
+      "punten": [
+        "Opening met de imker en de raten",
+        "Vier producten met prijs en knop",
+        "Afsluiting met de reviews en de bijentuin"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
