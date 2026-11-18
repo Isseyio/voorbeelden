@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "lempi-yk9w5",
+  "merk": "Lempi",
+  "domein": "lempi.nl",
+  "lead_id": "2026-11-18-lempi.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1E2A4A",
+  "kop": "Jullie datum, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Lempi, ik heb dit gemaakt omdat een hoodie met jullie datum en een initiaal met hartje precies het soort cadeau is dat mensen op Instagram ontdekken. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2647:4",
+      "titel": "Wat klanten zeggen",
+      "waarom": "Echte reviews van jullie klanten op een foto van twee mouwen met initialen geven nieuwe kopers meteen vertrouwen in een cadeau op maat."
+    },
+    {
+      "node": "2647:63",
+      "titel": "Met de hand geborduurd",
+      "waarom": "Het borduurraam in jullie eigen atelier laat zien dat elk stuk op bestelling wordt gemaakt, en legt meteen uit wat je kunt kiezen."
+    },
+    {
+      "node": "2647:85",
+      "titel": "Jullie datum, jullie initialen",
+      "waarom": "Een grote typografische kop met foto's van het borduurwerk tussen de woorden vertelt in een paar seconden wat de hoodieset zo persoonlijk maakt."
+    }
+  ],
+  "waarom": {
+    "niche": "mode en cadeaus",
+    "kop": "Zo groeien cadeaumerken op Instagram.",
+    "tekst": "De meeste mensen vinden een cadeau op maat niet via Google, maar tijdens het scrollen, vaak in de weken voor een verjaardag, Valentijnsdag of de feestdagen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor het volgende cadeau.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Pet Printed nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2648:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Lempi",
+    "kop": "Welkom bij Lempi. Fijn dat je er bent.",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: de code WELCOME, een cadeau dat blijft en jullie favorieten op een rij, van hoodieset tot icon pouch.",
+    "punten": [
+      "Code WELCOME voor de eerste bestelling",
+      "Hoodieset met datum en initiaal",
+      "Hoodie met eigen tekst, icon pouch en pet"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2648:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Lempi",
+      "kop": "Welkom bij Lempi. Fijn dat je er bent.",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: de code WELCOME, een cadeau dat blijft en jullie favorieten op een rij, van hoodieset tot icon pouch.",
+      "punten": [
+        "Code WELCOME voor de eerste bestelling",
+        "Hoodieset met datum en initiaal",
+        "Hoodie met eigen tekst, icon pouch en pet"
+      ]
+    },
+    {
+      "node": "2648:53",
+      "type": "Merkverhaal",
+      "onderwerp": "Wat Lempi betekent",
+      "kop": "Lempi betekent liefde.",
+      "tekst": "Het verhaal achter de naam, jullie eigen atelier in Amsterdam en de hoodie met alle details uitgelegd, afgesloten met de hoodieset als cadeau.",
+      "punten": [
+        "Fins woord voor liefde, genegenheid of favoriet",
+        "Alles gemaakt in het eigen atelier in Amsterdam",
+        "Datum, initiaal met hartje en 12 kleuren"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

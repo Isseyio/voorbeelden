@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "mybuckethat-9d7cd",
+  "merk": "mybuckethat",
+  "domein": "mybuckethat.nl",
+  "lead_id": "2026-11-18-mybuckethat.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4E9C95",
+  "kop": "Festivalhumor op je hoofd: mybuckethat op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team mybuckethat, ik heb dit gemaakt omdat hoedjes als Linksvoor en Rechtsvoor precies het soort grap zijn dat mensen op Instagram doorsturen naar hun festivalgroep. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2646:3",
+      "titel": "Ga je lekker? belt",
+      "waarom": "Een inkomende oproep valt op tussen gewone posts en zet de bekendste festivalvraag groot in beeld."
+    },
+    {
+      "node": "2646:18",
+      "titel": "Linksvoor of rechtsvoor",
+      "waarom": "Twee kanten naast elkaar leggen het idee in één blik uit en geven een reden om de hoed samen met vrienden te kopen."
+    },
+    {
+      "node": "2646:41",
+      "titel": "Bucket hats gezocht",
+      "waarom": "Een zoekbalk met drie hoeden sluit aan op waar mensen al naar zoeken en laat meteen zien hoe breed de collectie is."
+    }
+  ],
+  "waarom": {
+    "niche": "accessoires",
+    "kop": "Zo groeien accessoiremerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw hoedje niet via Google, maar tijdens het scrollen op Instagram, vaak vlak voor het festivalseizoen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende hoed.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "Honderden",
+        "label": "advertenties heeft CAPS Apparel nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2646:62",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij mybuckethat",
+    "kop": "Welkom bij mybuckethat",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers op de nieuwsbrief: festivalcultuur vertaald in bucket hats, waarom een hoedje van jullie anders is en wie erachter zit.",
+    "punten": [
+      "Herokaart met de Ga je lekker?-hoedjes en een knop naar de collectie",
+      "Drie redenen: omkeerbaar, geborduurd aan beide kanten, 30 dagen om te ruilen",
+      "Tweede kaart met de panda-hoedjes buiten en het verhaal van Luc en Ingo"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2646:62",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij mybuckethat",
+      "kop": "Welkom bij mybuckethat",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers op de nieuwsbrief: festivalcultuur vertaald in bucket hats, waarom een hoedje van jullie anders is en wie erachter zit.",
+      "punten": [
+        "Herokaart met de Ga je lekker?-hoedjes en een knop naar de collectie",
+        "Drie redenen: omkeerbaar, geborduurd aan beide kanten, 30 dagen om te ruilen",
+        "Tweede kaart met de panda-hoedjes buiten en het verhaal van Luc en Ingo"
+      ]
+    },
+    {
+      "node": "2646:93",
+      "type": "Productspotlight",
+      "onderwerp": "Welk hoedje past bij jouw festival?",
+      "kop": "Welk hoedje past bij jouw festival?",
+      "tekst": "Vier favorieten naast elkaar, elk met een korte regel en een knop: Ga je lekker?, Lolly's, Zachte panda's en Linksvoor of rechtsvoor?.",
+      "punten": [
+        "Modelfoto als opening",
+        "Vier hoeden met prijs en knop, allemaal op voorraad",
+        "Reviewblok met de 174 beoordelingen van de site"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
