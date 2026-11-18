@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "cornelissen-3h25k",
+  "merk": "Cornelissen Coffeeroasters",
+  "domein": "cornelissencoffeeroasters.com",
+  "lead_id": "2026-11-18-cornelissencoffeeroasters.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C76638",
+  "kop": "Vers gebrande specialty koffie uit Veghel, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Cornelissen, ik heb dit gemaakt omdat jullie elke week op bestelling branden en direct bij de boer inkopen, en dat verhaal past goed bij Instagram. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2599:424",
+      "titel": "Van boer tot kopje",
+      "waarom": "Vier echte foto's van plantage tot kopje laten in één beeld zien waarom deze koffie anders is dan bonen uit de supermarkt."
+    },
+    {
+      "node": "2599:450",
+      "titel": "Licht of donker",
+      "waarom": "Twee smaken naast elkaar helpen nieuwe kopers snel kiezen, zonder dat ze eerst de hele shop hoeven door te klikken."
+    },
+    {
+      "node": "2599:479",
+      "titel": "Vers gebrand",
+      "waarom": "Het weekritme van bestellen tot verzenden maakt versheid concreet, en daar wint specialty koffie op."
+    }
+  ],
+  "waarom": {
+    "niche": "koffie",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe koffiebranderij niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als hun bonen op zijn.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en koffiemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Wakuli nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2600:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Cornelissen Coffeeroasters",
+    "kop": "Welkom bij Cornelissen",
+    "tekst": "Fijn dat je er bent. Wij branden specialty koffie elke week op bestelling, in onze eigen branderij in Veghel.",
+    "punten": [
+      "Direct ingekocht bij de boer",
+      "Vers gebrand in onze ambachtelijke branderij",
+      "Top kwaliteit specialty koffie",
+      "Uitgelicht: de Winning Team Blend, met chocolade, caramel en amandel"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2600:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Cornelissen Coffeeroasters",
+      "kop": "Welkom bij Cornelissen",
+      "tekst": "Fijn dat je er bent. Wij branden specialty koffie elke week op bestelling, in onze eigen branderij in Veghel.",
+      "punten": [
+        "Direct ingekocht bij de boer",
+        "Vers gebrand in onze ambachtelijke branderij",
+        "Top kwaliteit specialty koffie",
+        "Uitgelicht: de Winning Team Blend, met chocolade, caramel en amandel"
+      ]
+    },
+    {
+      "node": "2600:28",
+      "type": "Merkverhaal",
+      "onderwerp": "Van de boer naar jouw kopje",
+      "kop": "Van de boer naar jouw kopje",
+      "tekst": "Pieter en Cerès Cornelissen selecteren hun koffie zelf en kopen direct bij de boer in. Uitgelicht: de Colombia Single Origin, zoet en fris fruitig.",
+      "punten": [
+        "Specialty koffie met een cuppingscore van 80 of hoger",
+        "Elke week vers gebrand op bestelling",
+        "4 zakken van 500 gram, €56"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

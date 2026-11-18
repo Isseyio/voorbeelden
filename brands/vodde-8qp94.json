@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "vodde-8qp94",
+  "merk": "Vodde",
+  "domein": "vodde.nl",
+  "lead_id": "2026-11-18-vodde.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1C1AB1",
+  "kop": "Een idee voor de sokken van Vodde",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Vodde, ik heb dit gemaakt omdat jullie sokken breien van oude vodden, PET-flessen en visnetten, gewoon in Tilburg, en dat verhaal zie je nu nog nergens in een advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2598:3",
+      "titel": "Waar je sok van is gemaakt",
+      "waarom": "Drie ronde foto's laten in één oogopslag zien waar de Outback Walker van is gemaakt: vodden, PET-flessen en visnetten, gebreid in Tilburg."
+    },
+    {
+      "node": "2598:73",
+      "titel": "VODDEN",
+      "waarom": "Eén groot woord en een zoekbalk maken nieuwsgierig, met drie echte packshots en prijzen eronder."
+    },
+    {
+      "node": "2598:147",
+      "titel": "Je oude kleding belt",
+      "waarom": "Een speelse belscherm-advertentie valt op tussen gewone posts en vertelt het verhaal in één zin."
+    }
+  ],
+  "waarom": {
+    "niche": "sokken en basics",
+    "kop": "Zo groeien sokkenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sokkenmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen, en sokken koop je vaker dan één keer.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sokken- en basicsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Happy Socks nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2599:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Vodde, hier is je 10%",
+    "kop": "Welkom bij Vodde. Hier is je 10%.",
+    "tekst": "Jullie beloven 10% korting bij aanmelding. Deze welkomstmail maakt die belofte meteen waar en laat de best verkochte sokken zien.",
+    "punten": [
+      "Welkom met de 10% korting op de eerste bestelling",
+      "Shop van de besten: Outback Walker, Invisible en Argyle met prijs",
+      "Blok met de gerecyclede cadeaudoos voor de feestdagen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2599:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Vodde, hier is je 10%",
+      "kop": "Welkom bij Vodde. Hier is je 10%.",
+      "tekst": "Jullie beloven 10% korting bij aanmelding. Deze welkomstmail maakt die belofte meteen waar en laat de best verkochte sokken zien.",
+      "punten": [
+        "Welkom met de 10% korting op de eerste bestelling",
+        "Shop van de besten: Outback Walker, Invisible en Argyle met prijs",
+        "Blok met de gerecyclede cadeaudoos voor de feestdagen"
+      ]
+    },
+    {
+      "node": "2599:145",
+      "type": "Merkverhaal",
+      "onderwerp": "Van oude vodden tot nieuwe sokken",
+      "kop": "No talking, just knitting",
+      "tekst": "Het verhaal van de breierij in Tilburg: Patrick, de breiers en hoe textielafval weer een sok wordt.",
+      "punten": [
+        "Foto uit de breierij met een kaart over het ontstaan van Vodde",
+        "Outback Walker met labels: 48% upcycled katoen, 45% upcycled polyester, versterkte hiel, badstof voet",
+        "Afsluiting met de 16.000 paar sokken uit duizend kilo textielafval"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

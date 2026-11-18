@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "lantara-6qc2z",
+  "merk": "LANTARA",
+  "domein": "lantara.nl",
+  "lead_id": "2026-11-18-lantara.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B85D46",
+  "kop": "Mediterrane hamamdoeken en plaids, zichtbaar op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Lantara, ik heb dit gemaakt omdat die gele hamamdoek tegen de terracotta muur eigenlijk al een advertentie is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2599:287",
+      "titel": "Van strand naar bank",
+      "waarom": "Foto's tussen de woorden laten in één zin zien dat jullie doeken zowel mee op reis gaan als thuis liggen."
+    },
+    {
+      "node": "2599:302",
+      "titel": "Op reis en thuis",
+      "waarom": "Twee echte foto's naast elkaar met prijs maken de collectie concreet zonder veel tekst."
+    },
+    {
+      "node": "2599:321",
+      "titel": "Vanaf €24,95",
+      "waarom": "Een duidelijke vanaf-prijs boven een rustige strandfoto haalt de drempel weg om te kijken."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen & textiel",
+    "kop": "Zo groeien woon- en textielmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk voor hamamdoeken of plaids niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een welkomstmail achter jullie 5%-pop-up zorgt dat die kopers ook echt bestellen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij woon- en textielmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "15+",
+        "label": "advertenties heeft handdoek.nl nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2599:331",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Lantara, je 5% korting staat klaar",
+    "kop": "Welkom bij Lantara, fijn dat je er bent.",
+    "tekst": "Een welkomstmail achter de bestaande 5%-pop-up: wie Lantara is, de korting voor de eerste bestelling en drie favorieten uit de collectie.",
+    "punten": [
+      "5% korting op je eerste bestelling",
+      "Ontworpen in Nederland, gemaakt in Tunesië",
+      "Plaid Athene Taupe, €58,00",
+      "Hamamdoek Amalfi Geel, €29,95"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2599:331",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Lantara, je 5% korting staat klaar",
+      "kop": "Welkom bij Lantara, fijn dat je er bent.",
+      "tekst": "Een welkomstmail achter de bestaande 5%-pop-up: wie Lantara is, de korting voor de eerste bestelling en drie favorieten uit de collectie.",
+      "punten": [
+        "5% korting op je eerste bestelling",
+        "Ontworpen in Nederland, gemaakt in Tunesië",
+        "Plaid Athene Taupe, €58,00",
+        "Hamamdoek Amalfi Geel, €29,95"
+      ]
+    },
+    {
+      "node": "2599:362",
+      "type": "Merkverhaal",
+      "onderwerp": "Uit liefde voor Tunesië",
+      "kop": "Uit liefde voor Tunesië",
+      "tekst": "Het verhaal van Angélique en de kleine familiebedrijven in Tunesië, met de hamamdoek uitgelicht en een afsluiter over tafellinnen en plaids voor thuis.",
+      "punten": [
+        "Gemaakt met oude ambachten",
+        "Waar het kan gerecycled katoen",
+        "Hamamdoeken vanaf €24,95",
+        "Gratis verzending binnen NL"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
