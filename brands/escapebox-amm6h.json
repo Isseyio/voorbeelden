@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "escapebox-amm6h",
+  "merk": "De Escapebox",
+  "domein": "deescapebox.nl",
+  "lead_id": "2026-11-18-deescapebox.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2946BF",
+  "kop": "Eén kaart, en de hele tafel praat mee.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team De Escapebox, ik heb dit gemaakt omdat jullie Mostly True-kaartspellen zo'n duidelijk eigen gezicht hebben: vier edities, elk met een eigen kleur. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2708:3",
+      "titel": "Eén vraag",
+      "waarom": "Grote woorden met jullie eigen foto's ertussen laten in één oogopslag zien wat Mostly True doet: een gesprek op gang brengen."
+    },
+    {
+      "node": "2708:25",
+      "titel": "Eerlijk zijn?",
+      "waarom": "Eén grote vraag en alle vier edities naast elkaar: wie scrolt, ziet meteen dat er voor elke groep een versie is."
+    },
+    {
+      "node": "2708:45",
+      "titel": "De vriendengroep belt",
+      "waarom": "Een speels concept dat opvalt tussen gewone advertenties en de Vrienden-editie groot in beeld zet."
+    }
+  ],
+  "waarom": {
+    "niche": "spellen en cadeaus",
+    "kop": "Zo groeien merken in spellen en cadeaus op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw spel niet via Google, maar tijdens het scrollen, zeker in de weken voor Sinterklaas en kerst. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe spelers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die spelers terugkomen voor de volgende editie.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Vertellis nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2709:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij De Escapebox",
+    "kop": "Welkom bij De Escapebox",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers met de 10% korting op het eerste spel, waarom spelers terugkomen en het verhaal van Solenn.",
+    "punten": [
+      "10% korting op je eerste spel",
+      "Start in 5 minuten, geen voorbereiding",
+      "Begonnen in 2021 met één escapebox"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2709:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij De Escapebox",
+      "kop": "Welkom bij De Escapebox",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers met de 10% korting op het eerste spel, waarom spelers terugkomen en het verhaal van Solenn.",
+      "punten": [
+        "10% korting op je eerste spel",
+        "Start in 5 minuten, geen voorbereiding",
+        "Begonnen in 2021 met één escapebox"
+      ]
+    },
+    {
+      "node": "2709:42",
+      "type": "Assortimentsmail",
+      "onderwerp": "Welke Mostly True past bij jouw tafel?",
+      "kop": "Welke Mostly True past bij jouw tafel?",
+      "tekst": "De vier edities op een rij, elk met voor wie hij bedoeld is, en de 4.8/5 van meer dan 1.500 spelers.",
+      "punten": [
+        "Vrienden, Relatie, Familie en Date",
+        "59 vragen per editie, €19,95",
+        "Binnen 1 minuut speelbaar"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
