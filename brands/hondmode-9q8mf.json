@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "hondmode-9q8mf",
+  "merk": "Hondmode",
+  "domein": "hondmode.nl",
+  "lead_id": "2026-11-18-hondmode.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8C4A2B",
+  "kop": "Drie advertenties voor leren halsbanden met het Hondmode-stempel",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Hondmode, ik heb dit gemaakt omdat jullie halsbanden van 4 mm echt leer met antiek messing precies het soort product zijn dat je in een advertentie van dichtbij wilt laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2560:3",
+      "titel": "Gemaakt van echt leer",
+      "waarom": "Drie close-ups van het leer, het messing en de stelgaten laten zien waarom deze halsband €39,95 waard is."
+    },
+    {
+      "node": "2560:24",
+      "titel": "Donkerbruin of lichtbruin",
+      "waarom": "Twee kleuren naast elkaar maken de keuze makkelijk en laten zien dat de kwaliteit hetzelfde blijft."
+    },
+    {
+      "node": "2560:43",
+      "titel": "10% en jullie naam groot",
+      "waarom": "Jullie echte inschrijfkorting bovenaan en de merknaam groot in beeld trekken nieuwe hondenbaasjes die Hondmode nog niet kennen."
+    }
+  ],
+  "waarom": {
+    "niche": "huisdieren",
+    "kop": "Zo groeien huisdierenmerken op Instagram.",
+    "tekst": "De meeste hondenbaasjes ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de lijn of het tuig.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdierenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Dog with a Mission nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2560:52",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Hondmode, hier is je 10%",
+    "kop": "Welkom bij Hondmode",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: de 10% korting die jullie al beloven, wat Hondmode anders maakt en een eerste product om mee te beginnen.",
+    "punten": [
+      "De 10% inschrijfkorting meteen bovenaan",
+      "Drie redenen: 4 mm echt leer, antiek messing, maten S tot XL",
+      "Doorklik naar de halsband als eerste aankoop"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2560:52",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Hondmode, hier is je 10%",
+      "kop": "Welkom bij Hondmode",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: de 10% korting die jullie al beloven, wat Hondmode anders maakt en een eerste product om mee te beginnen.",
+      "punten": [
+        "De 10% inschrijfkorting meteen bovenaan",
+        "Drie redenen: 4 mm echt leer, antiek messing, maten S tot XL",
+        "Doorklik naar de halsband als eerste aankoop"
+      ]
+    },
+    {
+      "node": "2560:77",
+      "type": "Assortimentsmail",
+      "onderwerp": "Alles voor de wandeling, in één stijl",
+      "kop": "Alles voor de wandeling, in één stijl",
+      "tekst": "Halsband, tuig, lijn en zakjeshouder in één mail, zodat iemand die een halsband kocht ook de bijpassende lijn en zakjeshouder ziet.",
+      "punten": [
+        "Vier producten met prijs en een korte regel",
+        "Laat zien dat alles bij elkaar past",
+        "Afsluiter met jullie Trustpilot-score"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
