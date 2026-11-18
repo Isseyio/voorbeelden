@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "velvetbaby-sgeuy",
+  "merk": "Velvetbaby",
+  "domein": "velvetbaby.nl",
+  "lead_id": "2026-11-18-velvetbaby.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8A7564",
+  "kop": "Gebreide newborn-outfits van Velvetbaby, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Velvetbaby, ik heb dit gemaakt omdat jullie gebreide pakjes met die geschulpte kraagjes en strikjes precies het soort beeld zijn waar ouders op Instagram voor stoppen met scrollen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2662:3",
+      "titel": "De complete geboorteset",
+      "waarom": "Alle vier de delen met een eigen foto en korte uitleg laten zien wat je voor €133 krijgt, en dat helpt bij een cadeau of de babyuitzet."
+    },
+    {
+      "node": "2662:29",
+      "titel": "Kijk naar de details",
+      "waarom": "Een close-up met het kraagje, het strikje en het breiwerk laat de kwaliteit zien die je op een kleine productfoto mist."
+    },
+    {
+      "node": "2662:58",
+      "titel": "20% korting",
+      "waarom": "Een groot, echt aanbod met het logo en een sfeerfoto geeft twijfelaars een concrete reden om nu te bestellen."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien babymerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw babymerk niet via Google, maar tijdens het scrollen op Instagram, vaak al tijdens de zwangerschap of als ze een kraamcadeau zoeken. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die ouders terugkomen als hun baby groeit.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Konges Sløjd nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2663:8",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Velvetbaby",
+    "kop": "Welkom bij Velvetbaby",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% korting op de eerste bestelling, waar Velvetbaby voor staat en het verhaal van oprichter Kaoutar.",
+    "punten": [
+      "Herokaart met het Petit pointelle dream boxpakje en de 10%-korting",
+      "Drie beloftes: 100% katoen, eigen ontwerp, newborn tot 6 maanden",
+      "Kaart met het verhaal van Kaoutar en een link naar ‘Over ons’"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2663:8",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Velvetbaby",
+      "kop": "Welkom bij Velvetbaby",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: de 10% korting op de eerste bestelling, waar Velvetbaby voor staat en het verhaal van oprichter Kaoutar.",
+      "punten": [
+        "Herokaart met het Petit pointelle dream boxpakje en de 10%-korting",
+        "Drie beloftes: 100% katoen, eigen ontwerp, newborn tot 6 maanden",
+        "Kaart met het verhaal van Kaoutar en een link naar ‘Over ons’"
+      ]
+    },
+    {
+      "node": "2663:48",
+      "type": "Vergelijking",
+      "onderwerp": "Welk boxpakje wordt het?",
+      "kop": "Welk boxpakje wordt het?",
+      "tekst": "Een nieuwsbrief die twee gebreide favorieten naast elkaar zet, zodat ouders en kraamvisite makkelijk kiezen voor de eerste foto of de thuiskomst.",
+      "punten": [
+        "Grote foto van een baby in de Petit heirloom knit",
+        "Blushy bow en Petit heirloom knit naast elkaar: sluiting, details, materiaal, maten en prijs",
+        "Afsluiting met de Early Black Friday-korting van 20%"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

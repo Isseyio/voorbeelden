@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "cosykids-qhtez",
+  "merk": "Natural Cosy Kids",
+  "domein": "naturalcosykids.nl",
+  "lead_id": "2026-11-18-naturalcosykids.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#3F3128",
+  "kop": "Het Warmtemaantje, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Natural Cosy Kids, ik heb dit gemaakt omdat het Warmtemaantje jullie eigen ontwerp is en jullie foto's van slapende baby's met hun maantje precies laten zien waarom ouders het willen hebben. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2660:4",
+      "titel": "Wat zit erin?",
+      "waarom": "Vier ronde detailfoto's met korte uitleg beantwoorden in één keer de vragen die ouders hebben voordat ze een Warmtemaantje kopen."
+    },
+    {
+      "node": "2660:23",
+      "titel": "Een eigen ontwerp",
+      "waarom": "Callouts op jullie eigen foto wijzen precies aan wat het maantje anders maakt: de vorm, de kersenpitten en de wollen hoes."
+    },
+    {
+      "node": "2660:46",
+      "titel": "10% en huid op huid",
+      "waarom": "Jullie echte welkomstkorting bovenaan en een warme foto met de buideltop maken van een eerste klik een inschrijving."
+    }
+  ],
+  "waarom": {
+    "niche": "kids en baby",
+    "kop": "Zo groeien babymerken op Instagram.",
+    "tekst": "De meeste ouders ontdekken een nieuw babymerk niet via Google, maar tijdens het scrollen, vaak in de weken voor de geboorte of als kraamcadeau. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe ouders en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die ouders terugkomen als hun kindje groeit.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids- en babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "80+",
+        "label": "advertenties heeft Baby Natura nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2662:69",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Natural Cosy Kids",
+    "kop": "Welkom bij Natural Cosy Kids.",
+    "tekst": "Een eerste mail voor nieuwe inschrijvers: de 10% korting op de eerste bestelling, waarom ouders voor natuurlijke materialen kiezen en de buideltop voor huid-op-huidcontact.",
+    "punten": [
+      "10% korting op de eerste bestelling",
+      "Natuurlijk, warm zonder oververhitting",
+      "Buideltop van merinowol"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2662:69",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Natural Cosy Kids",
+      "kop": "Welkom bij Natural Cosy Kids.",
+      "tekst": "Een eerste mail voor nieuwe inschrijvers: de 10% korting op de eerste bestelling, waarom ouders voor natuurlijke materialen kiezen en de buideltop voor huid-op-huidcontact.",
+      "punten": [
+        "10% korting op de eerste bestelling",
+        "Natuurlijk, warm zonder oververhitting",
+        "Buideltop van merinowol"
+      ]
+    },
+    {
+      "node": "2662:127",
+      "type": "Merkverhaal",
+      "onderwerp": "Waarom we het Warmtemaantje ontwierpen",
+      "kop": "Vanuit jaren zorg voor de kleinsten.",
+      "tekst": "Het verhaal van Marieke en haar jaren in de kinderverpleegkundige zorg, het Warmtemaantje uitgelegd in vier punten en de cocoon van merinowol voor een rustige nacht.",
+      "punten": [
+        "Met aandacht gemaakt in kleine oplages",
+        "Het Warmtemaantje: kersenpitten in maanvorm",
+        "Cocoon van merinowol, €42,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
