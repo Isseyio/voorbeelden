@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "bonsjans-2h53h",
+  "merk": "BONSJANS Beachwear",
+  "domein": "bonsjansbeachwear.com",
+  "lead_id": "2026-11-18-bonsjansbeachwear.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#402525",
+  "kop": "Drie advertenties voor de push-up die jij kiest",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team BONSJANS, ik heb dit gemaakt omdat jullie uitneembare pads iets laten zien wat je in een advertentie meteen snapt: natural of spicy, je kiest het zelf. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2536:4",
+      "titel": "Een set vanaf €205",
+      "waarom": "Een sterke campagnefoto met één duidelijke prijs laat meteen zien wat een complete set kost."
+    },
+    {
+      "node": "2536:13",
+      "titel": "Natural of spicy",
+      "waarom": "Twee standen naast elkaar leggen het push-up systeem in één oogopslag uit, zonder lange tekst."
+    },
+    {
+      "node": "2536:37",
+      "titel": "De zomer belt al",
+      "waarom": "Een speels belscherm valt op tussen gewone posts en zet de JOANNA top groot in beeld, ook buiten het seizoen."
+    }
+  ],
+  "waarom": {
+    "niche": "badmode",
+    "kop": "Zo groeien badmodemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw bikinimerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een welkomstmail zorgt dat nieuwe inschrijvers ook echt hun eerste set bestellen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25+",
+        "label": "advertenties heeft CYELL nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2537:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij BONSJANS",
+    "kop": "Welkom bij BONSJANS",
+    "tekst": "Fijn dat je er bent. Bij je eerste bestelling krijg je van ons BONBONS cadeau.",
+    "punten": [
+      "Vier standen, van natural tot spicy",
+      "Pads per kant instelbaar",
+      "Gemaakt in een familieatelier in Portugal"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2537:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij BONSJANS",
+      "kop": "Welkom bij BONSJANS",
+      "tekst": "Fijn dat je er bent. Bij je eerste bestelling krijg je van ons BONBONS cadeau.",
+      "punten": [
+        "Vier standen, van natural tot spicy",
+        "Pads per kant instelbaar",
+        "Gemaakt in een familieatelier in Portugal"
+      ]
+    },
+    {
+      "node": "2537:37",
+      "type": "Merkverhaal",
+      "onderwerp": "Begonnen met een pad in de zee",
+      "kop": "Begonnen met een pad in de zee",
+      "tekst": "Het verhaal van Janske en de pad die in Griekenland de zee in dreef, daarna de JOANNA top met zijn kenmerken en tot slot de keuze uit vier standen.",
+      "punten": [
+        "Uitneembare pads die blijven zitten, ook na het zwemmen",
+        "Verstelbare bandjes aan beide kanten",
+        "JOANNA top €120, COCO broekje €85"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

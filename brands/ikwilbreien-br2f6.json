@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "ikwilbreien-br2f6",
+  "merk": "Ikwilbreien",
+  "domein": "ikwilbreien.nl",
+  "lead_id": "2026-11-18-ikwilbreien.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E0899B",
+  "kop": "Drie advertenties voor breiwerk dat slaagt",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Dominique, ik heb dit gemaakt omdat je bij elk patroon zelf een video maakt, zodat ook beginners het redden. Alles is gemaakt met je eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2544:2",
+      "titel": "Je eerste vest vanaf €40,25",
+      "waarom": "Een duidelijke prijs met jou in het vest maakt de stap naar een eerste project klein."
+    },
+    {
+      "node": "2544:12",
+      "titel": "Alles in één pakket",
+      "waarom": "Garen, patroon en video in één beeld haalt de grootste twijfel van beginners weg."
+    },
+    {
+      "node": "2544:34",
+      "titel": "Welke kleur wordt het?",
+      "waarom": "Kleuren kiezen laat mensen al meedoen voordat ze klikken, en dat werkt goed bij cadeaus voor een baby."
+    }
+  ],
+  "waarom": {
+    "niche": "breien en textiel",
+    "kop": "Zo groeien textielmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw merk niet via Google, maar tijdens het scrollen op Instagram. Een advertentie wordt na een paar weken moe: dezelfde mensen zien hem steeds weer en klikken minder. Wie elke week nieuwe varianten test, houdt de kosten per aankoop laag, en een vaste nieuwsbrief zorgt dat kopers terugkomen voor hun volgende project.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij textielmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "Honderden",
+        "label": "advertenties heeft Hobbii nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2545:65",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Ikwilbreien",
+    "kop": "Welkom bij Ikwilbreien",
+    "tekst": "Een welkomstmail die nieuwe inschrijvers meteen laat zien hoe het werkt: bij elk patroon een video, alles in één pakket en 30 dagen garantie. Daarna de Starterset als eerste stap.",
+    "punten": [
+      "Video bij elk patroon",
+      "Alles in één pakket: garen, patroon en video",
+      "Starterset Leren breien (€25,70) als eerste stap"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2545:65",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Ikwilbreien",
+      "kop": "Welkom bij Ikwilbreien",
+      "tekst": "Een welkomstmail die nieuwe inschrijvers meteen laat zien hoe het werkt: bij elk patroon een video, alles in één pakket en 30 dagen garantie. Daarna de Starterset als eerste stap.",
+      "punten": [
+        "Video bij elk patroon",
+        "Alles in één pakket: garen, patroon en video",
+        "Starterset Leren breien (€25,70) als eerste stap"
+      ]
+    },
+    {
+      "node": "2545:97",
+      "type": "Productspotlight",
+      "onderwerp": "Een babydeken, schuin gebreid",
+      "kop": "Een babydeken, schuin gebreid",
+      "tekst": "Een spotlight op de babydeken van organisch katoen, met jouw missie als merkverhaal en het oversized vest als volgend project.",
+      "punten": [
+        "Merkverhaal: breien zonder hulp van een ervaren moeder",
+        "Wat zit erin: 12 bollen Scheepjes Organicon, 80 × 110 cm, video",
+        "Volgend project: het makkelijke oversized vest"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

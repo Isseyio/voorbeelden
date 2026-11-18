@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "supadupa-jw5ef",
+  "merk": "Supa Dupa Goods",
+  "domein": "supadupagoods.com",
+  "lead_id": "2026-11-18-supadupagoods.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#B11A23",
+  "kop": "Hiphopsokken, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Supa Dupa Goods, ik heb dit gemaakt omdat jullie hiphop subtiel op een sok krijgen, met een geborduurde boombox in plaats van een grote print. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2541:2",
+      "titel": "Geborduurd, niet geprint",
+      "waarom": "Een macrofoto van het borduursel met twee korte labels laat in één oogopslag de kwaliteit zien, en dat verklaart de prijs van €14,95."
+    },
+    {
+      "node": "2541:21",
+      "titel": "Boombox of The World Is Yours?",
+      "waarom": "Twee paar naast elkaar met een keuzevraag laat mensen meteen kiezen in plaats van twijfelen."
+    },
+    {
+      "node": "2541:40",
+      "titel": "Nu €9,50",
+      "waarom": "De echte actieprijs groot bovenaan, met de merknaam als reuzenwoord over een sterke lifestylefoto, werkt goed voor mensen die het merk al eens zagen."
+    }
+  ],
+  "waarom": {
+    "niche": "sokken",
+    "kop": "Zo groeien sokkenmerken op Instagram.",
+    "tekst": "Sokken koop je zelden na een zoekopdracht, maar wel als je een leuk paar voorbij ziet komen tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat kopers terugkomen voor een tweede paar.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sokkenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Happy Socks nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2542:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de club",
+    "kop": "Welkom bij de club.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, hoe de sokken gemaakt worden en één paar om mee te beginnen. Nu krijgt een nieuwe inschrijver nog geen mail.",
+    "punten": [
+      "Getekend in Amsterdam, gemaakt in Portugal",
+      "Gratis verzending vanaf €59 meteen in beeld",
+      "De Boombox Socks als eerste paar"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2542:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de club",
+      "kop": "Welkom bij de club.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, hoe de sokken gemaakt worden en één paar om mee te beginnen. Nu krijgt een nieuwe inschrijver nog geen mail.",
+      "punten": [
+        "Getekend in Amsterdam, gemaakt in Portugal",
+        "Gratis verzending vanaf €59 meteen in beeld",
+        "De Boombox Socks als eerste paar"
+      ]
+    },
+    {
+      "node": "2542:37",
+      "type": "Assortimentsmail",
+      "onderwerp": "Vier paar om mee te beginnen",
+      "kop": "Vier paar om mee te beginnen.",
+      "tekst": "Een rustige productmail met vier paar uit de collectie, elk met één zin uitleg, de prijs en een knop.",
+      "punten": [
+        "Boombox, The World Is Yours, Hip-Hop en Café De Duivel",
+        "The World Is Yours met de echte actieprijs",
+        "Eén lifestylefoto als binnenkomer"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
