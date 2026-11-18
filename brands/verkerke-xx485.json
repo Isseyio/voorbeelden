@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "verkerke-xx485",
+  "merk": "Verkerke Living",
+  "domein": "verkerkeliving.nl",
+  "lead_id": "2026-11-18-verkerkeliving.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A9743F",
+  "kop": "Houten meubels op maat, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Verkerke Living, ik heb dit gemaakt omdat jullie elk meubel zelf op maat maken in Zeeland, en dat verhaal nog weinig terugkomt in jullie advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2562:21",
+      "titel": "Op maat gemaakt in Zeeland",
+      "waarom": "Een grote kop met foto's uit de werkplaats tussen de woorden vertelt in één beeld dat elk meubel bij jullie met de hand en op maat ontstaat."
+    },
+    {
+      "node": "2562:33",
+      "titel": "Jouw meubel, jouw houtsoort",
+      "waarom": "Een rij houtsoorten naast Kees en een echt meubel laat zien dat de koper zelf kiest, en dat is precies wat maatwerk onderscheidt van een meubelzaak."
+    },
+    {
+      "node": "2562:54",
+      "titel": "Vanaf €425",
+      "waarom": "Een duidelijke vanafprijs boven een groot beeld van het badmeubel haalt de drempel weg voor mensen die denken dat maatwerk onbetaalbaar is."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw meubelmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, blijven in beeld tijdens de weken of maanden dat iemand over een nieuw meubel nadenkt. Een vaste nieuwsbrief zorgt dat die mensen de weg naar de showroom terugvinden.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Table du Sud nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2563:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Verkerke Living",
+    "kop": "Welkom bij Verkerke Living",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Kees is, wat maatwerk bij jullie betekent en een uitnodiging voor de showroom. Nu krijgt een nieuwe inschrijver nog geen welkomstmail.",
+    "punten": [
+      "100% maatwerk, handgemaakt in Zeeland",
+      "Persoonlijk advies in de showroom in Sint-Maartensdijk",
+      "Elke maand wooninspiratie en de korting van de maand"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2563:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Verkerke Living",
+      "kop": "Welkom bij Verkerke Living",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Kees is, wat maatwerk bij jullie betekent en een uitnodiging voor de showroom. Nu krijgt een nieuwe inschrijver nog geen welkomstmail.",
+      "punten": [
+        "100% maatwerk, handgemaakt in Zeeland",
+        "Persoonlijk advies in de showroom in Sint-Maartensdijk",
+        "Elke maand wooninspiratie en de korting van de maand"
+      ]
+    },
+    {
+      "node": "2563:41",
+      "type": "Merkverhaal",
+      "onderwerp": "Van ruwe plank tot jouw meubel",
+      "kop": "Van ruwe plank tot jouw meubel",
+      "tekst": "Een mail over hoe een meubel bij jullie ontstaat: het verhaal van Kees, één meubel uit de werkplaats uitgelicht en de vier stappen van advies tot montage.",
+      "punten": [
+        "Badkamermeubel Zoutelande van oud eiken wagonhout, vanaf €2.345",
+        "Van kennismaking tot levering en montage",
+        "Uitnodiging voor een showroombezoek"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
