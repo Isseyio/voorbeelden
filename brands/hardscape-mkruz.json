@@ -1,0 +1,90 @@
+{
+  "v": 6,
+  "slug": "hardscape-mkruz",
+  "merk": "Hardscape.nl",
+  "domein": "hardscape.nl",
+  "lead_id": "2026-11-18-hardscape.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#0099CC",
+  "kop": "Handgemaakte bonsai trees, in beeld voor scapers.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Hardscape.nl, ik heb dit gemaakt omdat jullie elk stuk hout en steen apart fotograferen, en dat zie je bijna nergens. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2685:4",
+      "titel": "Aqua naast Forest",
+      "waarom": "Twee bomen naast elkaar laten in één beeld zien dat elk exemplaar handwerk is en anders oogt."
+    },
+    {
+      "node": "2685:27",
+      "titel": "Bonsai trees",
+      "waarom": "Eén groot woord en een zoekbalk sluiten aan op waar scapers naar zoeken: een middelpunt voor hun bak."
+    },
+    {
+      "node": "2685:42",
+      "titel": "Je bonsai belt",
+      "waarom": "Een speels beeld valt op tussen de vele productfoto's in de feed en zet de boom groot in het midden."
+    }
+  ],
+  "waarom": {
+    "niche": "aquascaping",
+    "kop": "Zo groeien aquascapingmerken op Instagram.",
+    "tekst": "Scapers ontdekken nieuwe winkels vooral tijdens het scrollen langs andermans aquascapes. Wie daar elke week nieuwe advertenties test, bereikt steeds nieuwe hobbyisten en houdt de kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat ze terugkomen voor hun volgende scape.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij huisdier- en aquariumwebshops vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "4",
+        "label": "advertenties heeft Aquaforest nu tegelijk live in Nederland"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2685:52",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Hardscape.nl: zien wat je koopt",
+    "kop": "Welkom bij Hardscape.nl",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers op Het laatste scape nieuws: wat jullie anders doen (per stuk gefotografeerd, niet per kilo), het gratis e-book als eerste stap, en het verhaal van hobby naar bedrijf sinds 2019.",
+    "punten": [
+      "Elk stuk apart gefotografeerd",
+      "Gratis e-book over aquascapen als eerste stap",
+      "Van hobby naar bedrijf sinds 2019"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2685:52",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Hardscape.nl: zien wat je koopt",
+      "kop": "Welkom bij Hardscape.nl",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers op Het laatste scape nieuws: wat jullie anders doen (per stuk gefotografeerd, niet per kilo), het gratis e-book als eerste stap, en het verhaal van hobby naar bedrijf sinds 2019.",
+      "punten": [
+        "Elk stuk apart gefotografeerd",
+        "Gratis e-book over aquascapen als eerste stap",
+        "Van hobby naar bedrijf sinds 2019"
+      ]
+    },
+    {
+      "node": "2685:82",
+      "type": "Productspotlight",
+      "onderwerp": "Een middelpunt voor jouw aquascape",
+      "kop": "Een middelpunt voor jouw aquascape",
+      "tekst": "Een assortimentsmail rond de handgemaakte bonsai trees: Aqua, Forest, Claw en de Layout Cave, elk met maat, prijs en een knop naar het product.",
+      "punten": [
+        "Aqua Bonsai tree €39,99",
+        "Forest Bonsai tree vanaf €49,99",
+        "Claw Bonsai tree €69,99",
+        "Layout Cave small €199,99"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

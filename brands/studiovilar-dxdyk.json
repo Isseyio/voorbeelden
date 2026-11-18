@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "studiovilar-dxdyk",
+  "merk": "Studio Vilar",
+  "domein": "studiovilar.nl",
+  "lead_id": "2026-11-18-studiovilar.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#5E6B55",
+  "kop": "Wandkleden van wolvilt, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Studio Vilar, ik heb dit gemaakt omdat elk wandkleed een persoonlijk certificaat van echtheid krijgt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2680:4",
+      "titel": "Van wol tot wandkleed",
+      "waarom": "Een close-up van het vilt met drie korte uitleggen: zo zien mensen meteen waarom een handgemaakt wandkleed zijn prijs waard is."
+    },
+    {
+      "node": "2680:29",
+      "titel": "Rust",
+      "waarom": "Eén groot woord en jullie eigen interieurfoto's: iemand die door Instagram scrolt snapt in een seconde wat een wandkleed met een kamer doet."
+    },
+    {
+      "node": "2680:44",
+      "titel": "DIY Viltpakket",
+      "waarom": "Een duidelijke prijs van €27,50 als instap: mensen die nog twijfelen over een groot wandkleed leren jullie zo eerst kennen."
+    }
+  ],
+  "waarom": {
+    "niche": "wanddecoratie",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw interieurmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat geïnteresseerden terugkomen als ze klaar zijn voor een wandkleed.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij wonen- en interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "25+",
+        "label": "advertenties heeft Print Your Moment nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2681:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Studio Vilar",
+    "kop": "Welkom bij Studio Vilar",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Klarie en Jaap zijn, hoe een wandkleed gemaakt wordt en het DIY Viltpakket als laagdrempelige eerste aankoop.",
+    "punten": [
+      "Twee generaties, één passie: moeder Klarie en zoon Jaap",
+      "Met de hand gemaakt, Europese wol, inclusief houten baklijst",
+      "DIY Viltpakket van €27,50 als eerste stap"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2681:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Studio Vilar",
+      "kop": "Welkom bij Studio Vilar",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie Klarie en Jaap zijn, hoe een wandkleed gemaakt wordt en het DIY Viltpakket als laagdrempelige eerste aankoop.",
+      "punten": [
+        "Twee generaties, één passie: moeder Klarie en zoon Jaap",
+        "Met de hand gemaakt, Europese wol, inclusief houten baklijst",
+        "DIY Viltpakket van €27,50 als eerste stap"
+      ]
+    },
+    {
+      "node": "2681:39",
+      "type": "Collectie",
+      "onderwerp": "Breng de natuur in huis",
+      "kop": "Breng de natuur in huis",
+      "tekst": "Een collectiemail met vier stukken naast elkaar, elk met een korte uitleg, prijs en knop, en een echte klantreactie als afsluiter.",
+      "punten": [
+        "Leafs 07, Roots 03 en It's warm in July 01 uitgelicht",
+        "DIY Viltpakket voor wie zelf wil vilten",
+        "Klantreactie: rustgevende sfeer in huis"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
