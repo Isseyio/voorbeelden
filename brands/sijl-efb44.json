@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "sijl-efb44",
+  "merk": "SIJL",
+  "domein": "sijl.nl",
+  "lead_id": "2026-11-18-sijl.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#CF6114",
+  "kop": "Koffie en bonbons uit Assen, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team SIJL, ik heb dit gemaakt omdat jullie zelf branden én elke bonbon met de hand maken, en die combinatie zie ik nog niet terug in advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2567:4",
+      "titel": "BONBONS",
+      "waarom": "Eén groot woord met een zoekbalk en vier van jullie bonbons laat in een seconde zien wat je bij SIJL koopt, voor mensen die een cadeau zoeken."
+    },
+    {
+      "node": "2567:22",
+      "titel": "De bonbon van de dag belt",
+      "waarom": "Een speels beeld van een inkomend gesprek met de bonbon van de dag valt op tussen gewone posts en maakt nieuwsgierig naar de andere smaken."
+    },
+    {
+      "node": "2567:39",
+      "titel": "Verzonden op wo en vr",
+      "waarom": "Een weekstrip met jullie twee verzenddagen maakt vers branden concreet en geeft koffiedrinkers een reden om op tijd te bestellen."
+    }
+  ],
+  "waarom": {
+    "niche": "food & drinks",
+    "kop": "Zo groeien koffie- en chocolademerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe branderij of chocolatier niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers buiten hun eigen stad. Een vaste nieuwsbrief zorgt dat die kopers terugkomen als de zak bonen leeg is.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "4",
+        "label": "advertenties hebben Bocca Coffee Roasters en Puccini Bomboni nu elk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2568:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij SIJL",
+    "kop": "Welkom bij SIJL",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, wat jullie zelf branden en maken, en een uitnodiging voor het SIJL spel. Nu krijgt een nieuwe inschrijver nog geen welkomstmail.",
+    "punten": [
+      "Zelf gebrand op de elektrische Bellwether",
+      "Handgemaakte bonbons met Cacao Barry chocolade",
+      "Gratis verzending in Nederland vanaf €49"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2568:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij SIJL",
+      "kop": "Welkom bij SIJL",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, wat jullie zelf branden en maken, en een uitnodiging voor het SIJL spel. Nu krijgt een nieuwe inschrijver nog geen welkomstmail.",
+      "punten": [
+        "Zelf gebrand op de elektrische Bellwether",
+        "Handgemaakte bonbons met Cacao Barry chocolade",
+        "Gratis verzending in Nederland vanaf €49"
+      ]
+    },
+    {
+      "node": "2568:43",
+      "type": "Assortimentsmail",
+      "onderwerp": "Kies je bonbonbox",
+      "kop": "Kies je bonbonbox",
+      "tekst": "Een rustige mail met de vier bonbonboxen naast elkaar, van 10 tot 35 stuks, met prijs en een knop per box, afgesloten met de 4,9 op Google en de award.",
+      "punten": [
+        "Bonbonbox van 10 stuks voor €16,95, past door de brievenbus",
+        "Formaten tot 35 stuks",
+        "Winnaar European Coffee Trip Awards 2026"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
