@@ -1,0 +1,91 @@
+{
+  "v": 6,
+  "slug": "bymegs-5dphz",
+  "merk": "By Megs",
+  "domein": "by-megs.com",
+  "lead_id": "2026-11-18-by-megs.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#E0789F",
+  "kop": "Scrunchies en strikken voor motorsportfans, in beeld.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team By Megs, ik heb dit gemaakt omdat jullie racing bows met die ruitjesprint precies laten zien voor wie By Megs is. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2701:35",
+      "titel": "Racen met een strik",
+      "waarom": "Een grote kop met jullie eigen foto's tussen de woorden valt op in de feed en vertelt in één keer wat By Megs maakt."
+    },
+    {
+      "node": "2701:53",
+      "titel": "Koop deze strik niet",
+      "waarom": "Een kop die het omgekeerde zegt laat mensen stoppen met scrollen, en de rode racing bow doet de rest."
+    },
+    {
+      "node": "2701:126",
+      "titel": "Zes kleuren racing bows",
+      "waarom": "Vier kleuren naast elkaar met één duidelijke prijs maakt kiezen makkelijk en past bij mensen die al zoeken."
+    }
+  ],
+  "waarom": {
+    "niche": "haaraccessoires",
+    "kop": "Zo groeien accessoiremerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw accessoiremerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende strik.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij accessoiremerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Kitsch nu tegelijk live in Nederland"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2702:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij By Megs",
+    "kop": "Welkom bij By Megs",
+    "tekst": "Leuk dat je er bent. Elke scrunchie en strik wordt in Amsterdam ontworpen en met de hand gemaakt, voor iedereen die van motorsport houdt en daarbij graag een beetje sparkle draagt.",
+    "punten": [
+      "Ontworpen en handgemaakt in Amsterdam",
+      "Strikken op bestelling gemaakt, dus minder afval",
+      "Meer dan 60 racing scrunchies",
+      "Begin met een racing bow: zes kleuren, clip of scrunchie, €16,95"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2702:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij By Megs",
+      "kop": "Welkom bij By Megs",
+      "tekst": "Leuk dat je er bent. Elke scrunchie en strik wordt in Amsterdam ontworpen en met de hand gemaakt, voor iedereen die van motorsport houdt en daarbij graag een beetje sparkle draagt.",
+      "punten": [
+        "Ontworpen en handgemaakt in Amsterdam",
+        "Strikken op bestelling gemaakt, dus minder afval",
+        "Meer dan 60 racing scrunchies",
+        "Begin met een racing bow: zes kleuren, clip of scrunchie, €16,95"
+      ]
+    },
+    {
+      "node": "2702:38",
+      "type": "Merkverhaal",
+      "onderwerp": "Hoe By Megs begon",
+      "kop": "Gemaakt door en voor motorsportfans",
+      "tekst": "Sinds 2018 maakt Megs haaraccessoires, sinds 2021 ook de racing collectie: scrunchies, strikken en tassen voor vrouwen die van motorsport houden, zonder hun sparkle in te leveren.",
+      "punten": [
+        "Het verhaal van Megs sinds 2018",
+        "De racing bow uitgelicht: satijn, ruitjesprint, clip of scrunchie, zes kleuren",
+        "Afsluiter richting het volgende raceweekend, scrunchies vanaf €11,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
