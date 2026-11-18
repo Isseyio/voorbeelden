@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "kiliaan-4mmvx",
+  "merk": "Kiliaan Jewelry",
+  "domein": "kiliaanjewelry.nl",
+  "lead_id": "2026-11-18-kiliaanjewelry.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A88428",
+  "kop": "Edelstenen met een verhaal, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Kiliaan Jewelry, ik heb dit gemaakt omdat bij jullie elke steen door een gemoloog wordt gekozen en getest, en dat is een mooi verhaal om te laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2666:87",
+      "titel": "Labradoriet in de hand",
+      "waarom": "Jullie eigen foto van de ketting in de hand laat zien hoe de steen in het echt glanst, met korte labels en de prijs erbij."
+    },
+    {
+      "node": "2666:107",
+      "titel": "Waar hij van gemaakt is",
+      "waarom": "Barokparel, amethist, zilverwerk uit Bali en de gemoloog in vier ronde beelden geven een reden om €95 te betalen in plaats van iets goedkoops."
+    },
+    {
+      "node": "2666:130",
+      "titel": "Bloem of egel?",
+      "waarom": "Twee varianten naast elkaar laten mensen kiezen in plaats van doorscrollen, en allebei kosten ze €80."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2667:8",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Kiliaan Jewelry",
+    "kop": "Welkom bij Kiliaan Jewelry",
+    "tekst": "Op de site staat nog geen inschrijving voor een nieuwsbrief. Dit is de eerste mail die nieuwe inschrijvers dan krijgen: wie jullie zijn, waarom elke steen telt en een eerste ring om mee te beginnen.",
+    "punten": [
+      "Jullie eigen Botswana agaat oorbellen als opening",
+      "Drie redenen in beeld: gemoloog, zilverwerk uit Bali, gratis verzending vanaf €50",
+      "Jullie handfoto met stapelringen, vanaf €55"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2667:8",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Kiliaan Jewelry",
+      "kop": "Welkom bij Kiliaan Jewelry",
+      "tekst": "Op de site staat nog geen inschrijving voor een nieuwsbrief. Dit is de eerste mail die nieuwe inschrijvers dan krijgen: wie jullie zijn, waarom elke steen telt en een eerste ring om mee te beginnen.",
+      "punten": [
+        "Jullie eigen Botswana agaat oorbellen als opening",
+        "Drie redenen in beeld: gemoloog, zilverwerk uit Bali, gratis verzending vanaf €50",
+        "Jullie handfoto met stapelringen, vanaf €55"
+      ]
+    },
+    {
+      "node": "2667:33",
+      "type": "Merkverhaal",
+      "onderwerp": "De tweeling achter Kiliaan Jewelry",
+      "kop": "De tweeling achter Kiliaan Jewelry",
+      "tekst": "Een mail over Laetitia en Miranda: de gemoloog die elke steen kiest, de ontwerper die met de zilversmid op Bali werkt, en een merk vernoemd naar hun moeder.",
+      "punten": [
+        "Jullie eigen foto van de tweeling als opening",
+        "De labradoriet ketting met aquamarijn van dichtbij, met vier korte labels",
+        "Afsluiting over de parelopleiding van Laetitia, met een foto van de parelkwekerij"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

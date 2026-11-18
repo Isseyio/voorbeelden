@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "muisjes-rna58",
+  "merk": "De Muisjes",
+  "domein": "demuisjes.nl",
+  "lead_id": "2026-11-18-demuisjes.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2F456E",
+  "kop": "Handgedompelde bijenwaskaarsen, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team De Muisjes, ik heb dit gemaakt omdat jullie kaarsen nog echt met de hand gedompeld worden in Nijmegen, en dat zie je op jullie foto's. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2665:148",
+      "titel": "Waar het van gemaakt is",
+      "waarom": "Bijenwas, handwerk en de Grimm's-ring in één beeld: precies wat iemand wil weten voordat hij kaarsjes koopt."
+    },
+    {
+      "node": "2665:172",
+      "titel": "Twee kaarsen naast elkaar",
+      "waarom": "Laat in één advertentie zien dat jullie iets hebben voor de kersttafel én voor de verjaardags- of kerstboomring."
+    },
+    {
+      "node": "2665:193",
+      "titel": "Koop deze kaars niet",
+      "waarom": "Een kop die het scrollen stopt en daarna rustig uitlegt waarom deze kaars anders is."
+    }
+  ],
+  "waarom": {
+    "niche": "geur & kaarsen",
+    "kop": "Zo groeien kaarsenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw kaarsenmerk niet via Google, maar tijdens het scrollen, zeker richting de feestdagen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kaarsenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft JUNO nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2666:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij De Muisjes",
+      "kop": "Welkom bij De Muisjes",
+      "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waarom bijenwas, en meteen de dinerkaarsen als eerste stap.",
+      "punten": [
+        "Handgedompeld in Nijmegen, van 100% bijenwas",
+        "Tijdelijk gratis verzending binnen NL vanaf €40",
+        "Dineren bij kaarslicht als eerste product"
+      ]
+    },
+    {
+      "node": "2666:40",
+      "type": "Productspotlight",
+      "onderwerp": "Klaar voor de kersttafel",
+      "kop": "De handgedompelde dinerkaars",
+      "tekst": "Het verhaal van Elsiena, Bart en Marianne, gevolgd door de dinerkaars met wat hem bijzonder maakt en een afsluiter richting de kersttafel.",
+      "punten": [
+        "Merkverhaal: sinds 2018, alles zelf gemaakt",
+        "Dinerkaars uitgelicht: bijenwas, eco lont, 3 lengtes, 6 kleuren",
+        "Afsluiter met kerstsfeer en één duidelijke knop"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18",
+  "nieuwsbrief": {
+    "node": "2666:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij De Muisjes",
+    "kop": "Welkom bij De Muisjes",
+    "tekst": "Een rustige welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waarom bijenwas, en meteen de dinerkaarsen als eerste stap.",
+    "punten": [
+      "Handgedompeld in Nijmegen, van 100% bijenwas",
+      "Tijdelijk gratis verzending binnen NL vanaf €40",
+      "Dineren bij kaarslicht als eerste product"
+    ]
+  }
+}

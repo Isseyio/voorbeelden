@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "tripadel-kkm3c",
+  "merk": "Tri-padel",
+  "domein": "tri-padel.com",
+  "lead_id": "2026-11-18-tri-padel.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1E4FD8",
+  "kop": "De Tri-padel Rebounder, op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Tri-padel, ik heb dit gemaakt omdat een rebounder waarmee je thuis je vibora en volleys traint precies het soort product is waar padelspelers op Instagram voor stoppen met scrollen. Alles is gemaakt met jullie eigen foto's en videobeelden en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2665:3",
+      "titel": "Padel thuis",
+      "waarom": "Een groot woord en een zoekbalk met 'padel trainen zonder partner' spreken precies de vraag aan die veel padelspelers hebben."
+    },
+    {
+      "node": "2665:20",
+      "titel": "In je tuin, op de baan",
+      "waarom": "Twee echte situaties naast elkaar laten in één beeld zien dat de rebounder overal werkt."
+    },
+    {
+      "node": "2665:43",
+      "titel": "Je trainingspartner belt",
+      "waarom": "Een speels concept met een duidelijke prijs valt op tussen gewone productfoto's en maakt nieuwsgierig."
+    }
+  ],
+  "waarom": {
+    "niche": "sport & outdoor",
+    "kop": "Zo groeien sportmerken op Instagram.",
+    "tekst": "De meeste padelspelers ontdekken nieuw materiaal niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die spelers terugkomen voor onderdelen en nieuwe producten.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sportmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft PadelShop.com nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2665:73",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij de Tri-padelclub",
+    "kop": "Welkom bij de Tri-padelclub",
+    "tekst": "Een welkomstmail voor nieuwe leden van de Tri-padelclub: de rebounder in beeld, hoe bestellen werkt en het verhaal van de winkel in Den Bosch.",
+    "punten": [
+      "Herokaart met de Tri-padel Rebounder en de belofte van de nieuwsbrief: nieuwe producten, aanbiedingen en restocks",
+      "Drie zekerheden: voor 16:00 besteld morgen in huis, gratis verzending vanaf €75, onderdelen 5 jaar leverbaar",
+      "Kaart over Spaendonck Sport, al meer dan 30 jaar in de sportbranche, met een link naar de demo-video's"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2665:73",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij de Tri-padelclub",
+      "kop": "Welkom bij de Tri-padelclub",
+      "tekst": "Een welkomstmail voor nieuwe leden van de Tri-padelclub: de rebounder in beeld, hoe bestellen werkt en het verhaal van de winkel in Den Bosch.",
+      "punten": [
+        "Herokaart met de Tri-padel Rebounder en de belofte van de nieuwsbrief: nieuwe producten, aanbiedingen en restocks",
+        "Drie zekerheden: voor 16:00 besteld morgen in huis, gratis verzending vanaf €75, onderdelen 5 jaar leverbaar",
+        "Kaart over Spaendonck Sport, al meer dan 30 jaar in de sportbranche, met een link naar de demo-video's"
+      ]
+    },
+    {
+      "node": "2665:111",
+      "type": "Productspotlight",
+      "onderwerp": "Een padelwand voor je club of school",
+      "kop": "Een padelwand voor je club of school",
+      "tekst": "Een nieuwsbrief voor clubs, scholen en verenigingen over de XL en XXL padel walls, met de belangrijkste cijfers en de prijs.",
+      "punten": [
+        "Hero met kinderen die tegen de Tri-padel wall spelen",
+        "Vier cijfers: 2,30 m hoog, 1,80 m breed (XXL 2,30 m), 45 kg, 2 jaar fabrieksgarantie",
+        "Afsluiting met XL vanaf €1.248 en XXL vanaf €1.498"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
