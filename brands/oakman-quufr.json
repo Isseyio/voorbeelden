@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "oakman-quufr",
+  "merk": "OakMan Objects",
+  "domein": "oakmanobjects.nl",
+  "lead_id": "2026-11-18-oakmanobjects.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#1B2A5C",
+  "kop": "Jouw stad op tafel, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team OakMan Objects, ik heb dit gemaakt omdat een borrelplank met de plattegrond van je eigen dorp precies het soort cadeau is dat mensen op Instagram willen delen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2620:3",
+      "titel": "Jouw stad",
+      "waarom": "Meer dan 500 steden en dorpen voelt als een zoekbalk: iedereen zoekt meteen zijn eigen plaats op."
+    },
+    {
+      "node": "2620:20",
+      "titel": "Gegraveerd in Druten",
+      "waarom": "Laat van dichtbij zien wat de plank bijzonder maakt: de gravure, de coördinaten en het beukenhout."
+    },
+    {
+      "node": "2620:44",
+      "titel": "Het housewarmingcadeau belt aan",
+      "waarom": "Een speelse invalshoek die het moment noemt waarop mensen een cadeau zoeken, in plaats van alleen het product."
+    }
+  ],
+  "waarom": {
+    "niche": "cadeau",
+    "kop": "Zo groeien cadeaumerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw cadeaumerk niet via Google, maar tijdens het scrollen, vaak vlak voor een verjaardag, housewarming of de feestdagen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij cadeaumerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft Woodwidecities nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2621:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij OakMan Objects",
+    "kop": "Fijn dat je er bent.",
+    "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, hoe het werkt met de digitale proef en meteen de borrelplank met jouw stad.",
+    "punten": [
+      "Digitale proef vooraf",
+      "Binnen 1 werkdag verzonden",
+      "Gepersonaliseerd vanaf 1 stuk"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2621:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij OakMan Objects",
+      "kop": "Fijn dat je er bent.",
+      "tekst": "Een rustige eerste mail voor nieuwe inschrijvers: wie jullie zijn, hoe het werkt met de digitale proef en meteen de borrelplank met jouw stad.",
+      "punten": [
+        "Digitale proef vooraf",
+        "Binnen 1 werkdag verzonden",
+        "Gepersonaliseerd vanaf 1 stuk"
+      ]
+    },
+    {
+      "node": "2621:34",
+      "type": "Merkverhaal",
+      "onderwerp": "Twee vrienden en een lasergraveermachine",
+      "kop": "Twee vrienden, één lasergraveermachine.",
+      "tekst": "Het verhaal achter OakMan Objects uit Druten, wat er precies op een plank staat en een blok voor bedrijven die met hun logo willen bestellen.",
+      "punten": [
+        "300+ tevreden klanten",
+        "Wat erop staat: plattegrond, naam, coördinaten",
+        "Ook voor bedrijven, met staffelkorting vanaf 10 stuks"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
