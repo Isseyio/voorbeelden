@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "ifdenim-qvzfh",
+  "merk": "IF DENIM",
+  "domein": "ifdenim.com",
+  "lead_id": "2026-11-18-ifdenim.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#030935",
+  "kop": "Een idee voor de Patchwork Bodyvest",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team IF DENIM, ik heb dit gemaakt omdat jullie van afgedankte jeans stukken maken die maar één keer bestaan, en dat laat zich goed zien in een advertentie. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2588:4",
+      "titel": "Koop geen nieuwe denim",
+      "waarom": "Een kop die eerst tegenspreekt en dan uitlegt, met de bodywarmer erdoorheen, laat iemand stoppen met scrollen."
+    },
+    {
+      "node": "2588:24",
+      "titel": "Je oude jeans belt",
+      "waarom": "Een herkenbaar telefoonscherm maakt van het upcycle-verhaal een speelse advertentie die opvalt tussen gewone kledingadvertenties."
+    },
+    {
+      "node": "2588:36",
+      "titel": "Eén stuk, in detail",
+      "waarom": "Labels op de detailfoto laten zien waarom de bodywarmer €350 kost: handwerk, oude broekzakken en geen twee hetzelfde."
+    }
+  ],
+  "waarom": {
+    "niche": "mode",
+    "kop": "Zo groeien modemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw modemerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20+",
+        "label": "advertenties heeft MUD Jeans nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2589:13",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij IF DENIM",
+    "kop": "Welkom bij IF DENIM",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, hoe jullie werken en wat er gebeurt als een favoriet uitverkocht is.",
+    "punten": [
+      "Herokaart met de Patchwork Bodyvest en 'Old denim. New stories.'",
+      "Drie punten: handgemaakt in Rotterdam, van oude jeans, elk stuk uniek",
+      "Blok over op bestelling maken met de patchwork schort"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2589:13",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij IF DENIM",
+      "kop": "Welkom bij IF DENIM",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, hoe jullie werken en wat er gebeurt als een favoriet uitverkocht is.",
+      "punten": [
+        "Herokaart met de Patchwork Bodyvest en 'Old denim. New stories.'",
+        "Drie punten: handgemaakt in Rotterdam, van oude jeans, elk stuk uniek",
+        "Blok over op bestelling maken met de patchwork schort"
+      ]
+    },
+    {
+      "node": "2589:40",
+      "type": "Merkverhaal",
+      "onderwerp": "Een kijkje in onze studio",
+      "kop": "Van Sharifah en Yanto",
+      "tekst": "Een merkverhaal vanuit de studio aan de Lijnbaan, met de Patchwork Bodyvest in detail.",
+      "punten": [
+        "Foto van de studio aan de Lijnbaan",
+        "Kaart met het verhaal van Sharifah en Yanto",
+        "Bodyvest met labels en een uitnodiging voor de studio"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

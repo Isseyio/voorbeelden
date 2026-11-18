@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "vouxx-jkc5v",
+  "merk": "VOUXX",
+  "domein": "vouxx.nl",
+  "lead_id": "2026-11-18-vouxx.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#6B4A32",
+  "kop": "Draagzakken die ouders zelf aanraden.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team VOUXX, ik heb dit gemaakt omdat jullie 130 reviews met vijf sterren hebben en die nu nog nergens in een advertentie staan. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2586:3",
+      "titel": "Ouders aan het woord",
+      "waarom": "Echte reviews naast een gezin met de draagzak geven vertrouwen aan ouders die VOUXX nog niet kennen."
+    },
+    {
+      "node": "2586:41",
+      "titel": "Vier kleuren, één draagzak",
+      "waarom": "Packshots naast elkaar laten in één oogopslag zien hoeveel keuze er is, met de prijs erbij."
+    },
+    {
+      "node": "2586:68",
+      "titel": "De bundeldeal",
+      "waarom": "Een echte actie met een duidelijk bedrag geeft ouders die twijfelen een reden om nu te kiezen."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien babymerken op Instagram.",
+    "tekst": "Aanstaande ouders zoeken veel, maar ontdekken een nieuw merk meestal tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe ouders en houden hun kosten per aankoop laag. Een welkomstmail na de inschrijving zorgt dat die 5% korting ook echt gebruikt wordt.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij kids- en babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Ergobaby nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2586:79",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in de VOUXX community",
+    "kop": "Welkom in de VOUXX community",
+    "tekst": "Fijn dat je er bent. Onze draagzakken worden met de hand gemaakt in Nederland, van zachte, natuurlijke stoffen. Als welkom krijg je 5% korting op je eerste bestelling.",
+    "punten": [
+      "5% korting op je eerste bestelling",
+      "Velvet Toffee, €219",
+      "Leopard Snow, €189",
+      "Bundel: €50 korting op draagzak + luiertas"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2586:79",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in de VOUXX community",
+      "kop": "Welkom in de VOUXX community",
+      "tekst": "Fijn dat je er bent. Onze draagzakken worden met de hand gemaakt in Nederland, van zachte, natuurlijke stoffen. Als welkom krijg je 5% korting op je eerste bestelling.",
+      "punten": [
+        "5% korting op je eerste bestelling",
+        "Velvet Toffee, €219",
+        "Leopard Snow, €189",
+        "Bundel: €50 korting op draagzak + luiertas"
+      ]
+    },
+    {
+      "node": "2586:126",
+      "type": "Merkverhaal",
+      "onderwerp": "Gemaakt met liefde, zachtheid en vertrouwen",
+      "kop": "Met de hand gemaakt in Nederland",
+      "tekst": "Het verhaal achter de draagzak, de vier details die ouders merken en waarom het ook een fijn kraamcadeau is.",
+      "punten": [
+        "Zachte schouderbanden",
+        "Keizersnede vriendelijk ontwerp",
+        "100% natuurlijk katoen",
+        "Van 3,5 tot 16 kg"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

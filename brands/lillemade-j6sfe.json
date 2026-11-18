@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "lillemade-j6sfe",
+  "merk": "Lille Made",
+  "domein": "lillemade.nl",
+  "lead_id": "2026-11-18-lillemade.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#84CBC5",
+  "kop": "Een idee voor de lampenkappen van Lille Made",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Lille Made, ik heb dit gemaakt omdat elke lampenkap op bestelling en in je eigen maat wordt gemaakt, en stoffen als La Mer en Winter Berry zie je niet vaak. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2590:3",
+      "titel": "Nieuw: La Mer",
+      "waarom": "Een close-up van de stof met twee korte uitleglabels laat zien wat je koopt: hoogwaardige stof, op bestelling gemaakt."
+    },
+    {
+      "node": "2590:26",
+      "titel": "Wit of goud van binnen",
+      "waarom": "Twee foto's naast elkaar maken de keuze voor de gouden binnenkant meteen duidelijk, met de prijs erbij."
+    },
+    {
+      "node": "2590:46",
+      "titel": "Vanaf €20,95",
+      "waarom": "Een duidelijke prijs boven een warme sfeerfoto werkt goed in het cadeauseizoen en laat de bijpassende kussens zien."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw interieurmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "90+",
+        "label": "advertenties heeft Vintlux nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2591:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Lille Made",
+    "kop": "Welkom bij Lille Made",
+    "tekst": "Er is nu nog geen nieuwsbrief op de site. Deze welkomstmail stelt Caroline voor en legt uit hoe bestellen bij Lille Made werkt: elke kap op bestelling, in je eigen maat.",
+    "punten": [
+      "Herokaart met de lampenkap en het kussen Geometrisch Blad",
+      "Drie stappen: stof en maat kiezen, Caroline maakt hem, binnen enkele dagen thuis",
+      "Kaart met Caroline aan het werk: van workshop tot webshop"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2591:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Lille Made",
+      "kop": "Welkom bij Lille Made",
+      "tekst": "Er is nu nog geen nieuwsbrief op de site. Deze welkomstmail stelt Caroline voor en legt uit hoe bestellen bij Lille Made werkt: elke kap op bestelling, in je eigen maat.",
+      "punten": [
+        "Herokaart met de lampenkap en het kussen Geometrisch Blad",
+        "Drie stappen: stof en maat kiezen, Caroline maakt hem, binnen enkele dagen thuis",
+        "Kaart met Caroline aan het werk: van workshop tot webshop"
+      ]
+    },
+    {
+      "node": "2591:37",
+      "type": "Productspotlight",
+      "onderwerp": "Een lampenkap die bij jouw winter past",
+      "kop": "Lampenkap Winter Berry",
+      "tekst": "Een productspotlight voor Winter Berry in het cadeauseizoen, met de bijpassende kussens en het tafelkleed in dezelfde stof.",
+      "punten": [
+        "Sfeerfoto van de collectie met een kaart over Winter Berry",
+        "Product met labels: linnenlook stof, rode winterbessen, witte lampenkapfolie, staand of hangend",
+        "Afsluiting: maak er een geheel van met kussen en tafelkleed, vanaf €20,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
