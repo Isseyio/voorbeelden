@@ -1,0 +1,88 @@
+{
+  "v": 6,
+  "slug": "chilicatesse-3xu2k",
+  "merk": "Chilicatesse",
+  "domein": "chilicatesse.nl",
+  "lead_id": "2026-11-18-chilicatesse.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#A8431E",
+  "kop": "Chocolade met pit, van balkon tot kas.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Chilicatesse, ik heb dit gemaakt omdat jullie verhaal van 50 peperplanten op een balkon tot een eigen kas in Limburg mooi is om te laten zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2705:2",
+      "titel": "Gemaakt met",
+      "waarom": "Laat in één beeld zien waar de reep van gemaakt is, met jullie eigen kas als bewijs."
+    },
+    {
+      "node": "2705:36",
+      "titel": "Origineel of extra pittig",
+      "waarom": "Twee versies naast elkaar maken kiezen makkelijk en nodigen uit om allebei te proberen."
+    },
+    {
+      "node": "2705:126",
+      "titel": "Cadeau vanaf €15,25",
+      "waarom": "Een duidelijke prijs voor een cadeaupakket werkt goed in de weken voor de feestdagen."
+    }
+  ],
+  "waarom": {
+    "niche": "food",
+    "kop": "Zo groeien foodmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw foodmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende reep.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij foodmerken vaak uit e-mail"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ]
+  },
+  "nieuwsbrief": {
+    "node": "2706:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Leuk dat je er bent",
+    "kop": "Leuk dat je er bent!",
+    "tekst": "Welkom bij Chilicatesse. We kweken een groot deel van onze pepers zelf en maken er chocolade, karamel, snoep en kruidenmixen van, altijd met net een beetje extra pit.",
+    "punten": [
+      "Het verhaal van balkon tot kas",
+      "Favorieten: chocoladerepen €7,50, karamelrepen €6,50, kruidenmixen vanaf €3,50, marshmallows",
+      "Cadeaupakketjes vanaf €15,25 met een gratis kaartje"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2706:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Leuk dat je er bent",
+      "kop": "Leuk dat je er bent!",
+      "tekst": "Welkom bij Chilicatesse. We kweken een groot deel van onze pepers zelf en maken er chocolade, karamel, snoep en kruidenmixen van, altijd met net een beetje extra pit.",
+      "punten": [
+        "Het verhaal van balkon tot kas",
+        "Favorieten: chocoladerepen €7,50, karamelrepen €6,50, kruidenmixen vanaf €3,50, marshmallows",
+        "Cadeaupakketjes vanaf €15,25 met een gratis kaartje"
+      ]
+    },
+    {
+      "node": "2706:68",
+      "type": "Merkverhaal",
+      "onderwerp": "Van balkon tot kas",
+      "kop": "Van balkon tot kas",
+      "tekst": "Het begon op een balkon in Utrecht, met 50 peperplanten en zin in echt Mexicaans eten. Nu staat er een grote kas in Limburg.",
+      "punten": [
+        "Het verhaal van Tiuri en Anne",
+        "De reep uitgelicht: puur, sinaasappel en cayenne",
+        "Alles met de hand gemaakt, ook in extra pittig"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

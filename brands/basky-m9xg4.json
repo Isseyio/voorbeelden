@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "basky-m9xg4",
+  "merk": "The Basky Company",
+  "domein": "thebaskycompany.com",
+  "lead_id": "2026-11-18-thebaskycompany.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2EBFF5",
+  "kop": "Eén klik, en je fiets heeft een mand.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team The Basky Company, ik heb dit gemaakt omdat jullie manden van gerecycled plastic in Nederland worden gemaakt en met één klik op de fiets zitten. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2701:76",
+      "titel": "Klik eraan",
+      "waarom": "Eén groot woord en meerdere ontwerpen naast elkaar: in een seconde zie je wat het is en dat er keuze is."
+    },
+    {
+      "node": "2701:99",
+      "titel": "Voorop of achterop",
+      "waarom": "Beantwoordt de eerste vraag die iemand heeft, namelijk of de mand op zijn fiets past, met jullie eigen beelden van voor en achter."
+    },
+    {
+      "node": "2701:142",
+      "titel": "Je boodschappen bellen",
+      "waarom": "Een speels concept dat opvalt tussen gewone advertenties en het product groot in beeld zet."
+    }
+  ],
+  "waarom": {
+    "niche": "fietsaccessoires",
+    "kop": "Zo groeien merken in fietsaccessoires op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe fietsmand niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een krat, een regenhoes of een tweede mand.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij sport- en outdoormerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "30+",
+        "label": "advertenties heeft Hollandbikeshop nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2702:83",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Basky",
+    "kop": "Fijn dat je er bent.",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wat een Basky is, waarom hij van gerecycled plastic is en hoe het klik-en-slot werkt.",
+    "punten": [
+      "Gemaakt van gerecycled plastic, in Nederland",
+      "Past op voor- en bagagedragers van 7 tot 18 cm",
+      "Klikt vast op de adapter en gaat op slot"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2702:83",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Basky",
+      "kop": "Fijn dat je er bent.",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wat een Basky is, waarom hij van gerecycled plastic is en hoe het klik-en-slot werkt.",
+      "punten": [
+        "Gemaakt van gerecycled plastic, in Nederland",
+        "Past op voor- en bagagedragers van 7 tot 18 cm",
+        "Klikt vast op de adapter en gaat op slot"
+      ]
+    },
+    {
+      "node": "2702:128",
+      "type": "Assortimentsmail",
+      "onderwerp": "Welke Basky past bij jou?",
+      "kop": "Welke Basky past bij jou?",
+      "tekst": "Vier ontwerpen op een rij met hun eigen karakter, en een blok voor wie liever een eigen ontwerp op de mand wil.",
+      "punten": [
+        "De Nachtwacht, Into the Wild, Coffee Roast en Black",
+        "Allemaal inclusief bevestigingsset",
+        "Eigen ontwerp vanaf €84,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
