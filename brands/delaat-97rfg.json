@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "delaat-97rfg",
+  "merk": "De Laat Coffee",
+  "domein": "delaatcoffee.nl",
+  "lead_id": "2026-11-18-delaatcoffee.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#C9532D",
+  "kop": "Langzaam gebrande koffie, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team De Laat Coffee, ik heb dit gemaakt omdat jullie op biomassa branden in plaats van op gas. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2669:4",
+      "titel": "Zo branden we",
+      "waarom": "Laat in één beeld zien waarom jullie bonen anders zijn: selectie, biomassa, langzaam branden en vers geleverd."
+    },
+    {
+      "node": "2669:28",
+      "titel": "Vers",
+      "waarom": "Één groot woord en het proefpakket: duidelijk voor iemand die nog nooit van jullie heeft gehoord."
+    },
+    {
+      "node": "2669:39",
+      "titel": "Gratis verzending",
+      "waarom": "Een echt aanbod bovenaan en Rob en Tom in beeld: mensen kopen sneller bij een familiebedrijf met een gezicht."
+    }
+  ],
+  "waarom": {
+    "niche": "koffie",
+    "kop": "Zo groeien koffiemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuwe koffiebrander niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers op tijd nieuwe bonen bestellen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Wakuli nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2669:50",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij De Laat Coffee",
+    "kop": "Welkom bij De Laat Coffee",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waarom de bonen anders smaken en het proefpakket als eerste stap.",
+    "punten": [
+      "Langzaam gebrand op biomassa, in Nieuwkuijk",
+      "Premium selectie, 16 tot 23 minuten branden",
+      "Proefpakket als eerste bestelling"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2669:50",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij De Laat Coffee",
+      "kop": "Welkom bij De Laat Coffee",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, waarom de bonen anders smaken en het proefpakket als eerste stap.",
+      "punten": [
+        "Langzaam gebrand op biomassa, in Nieuwkuijk",
+        "Premium selectie, 16 tot 23 minuten branden",
+        "Proefpakket als eerste bestelling"
+      ]
+    },
+    {
+      "node": "2669:86",
+      "type": "Merkverhaal",
+      "onderwerp": "Langzaam gebrand. Groots van smaak.",
+      "kop": "Rob & Tom de Laat",
+      "tekst": "Het verhaal van vader en zoon, de Espresso Italiano uitgelicht met wat hem anders maakt, en een afsluiter richting het proefpakket.",
+      "punten": [
+        "Familiebedrijf: ruim veertig jaar koffie-ervaring",
+        "Espresso Italiano: langzaam gebrand, op biomassa, luchtgekoeld, aromaventiel",
+        "Proefpakket met alle vijf de melanges"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
