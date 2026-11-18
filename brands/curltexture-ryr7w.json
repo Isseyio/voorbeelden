@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "curltexture-ryr7w",
+  "merk": "Curl Texture",
+  "domein": "curltexture.nl",
+  "lead_id": "2026-11-18-curltexture.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2F7FB5",
+  "kop": "Krullenverzorging, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Curl Texture, ik heb dit gemaakt omdat jullie als krullenkappers een eigen lijn voor thuis hebben, en dat vertrouwen merk je nog weinig in jullie advertenties. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2558:30",
+      "titel": "Het styling duo",
+      "waarom": "Jullie eigen foto met twee handen en twee korte labels laat in één beeld zien welke stap welk product is."
+    },
+    {
+      "node": "2558:44",
+      "titel": "Routine in drie stappen",
+      "waarom": "Een routinekaart met de momenten na het wassen, direct daarna en voor het slapen maakt van losse producten een vaste gewoonte."
+    },
+    {
+      "node": "2558:66",
+      "titel": "CG proof",
+      "waarom": "Eén groot woord dat krullenliefhebbers direct herkennen, met de drie producten eronder, spreekt mensen aan die de CG-methode al volgen."
+    }
+  ],
+  "waarom": {
+    "niche": "haarverzorging",
+    "kop": "Zo groeien haarverzorgingsmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw krullenproduct niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat kopers terugkomen als hun fles leeg is.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij haarverzorgingsmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "100+",
+        "label": "advertenties heeft Eve Curls nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2558:136",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Curl Texture",
+    "kop": "Welkom bij Curl Texture",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, de routine in drie stappen en een uitnodiging voor de salon. Nu krijgt een nieuwe inschrijver nog geen welkomstmail.",
+    "punten": [
+      "Leave-in, styling gel en bonnet als vaste routine",
+      "Advies van de krullenkapper in Voorburg en Goes",
+      "De Mini Duo van €19,95 als instap"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2558:136",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Curl Texture",
+      "kop": "Welkom bij Curl Texture",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wie jullie zijn, de routine in drie stappen en een uitnodiging voor de salon. Nu krijgt een nieuwe inschrijver nog geen welkomstmail.",
+      "punten": [
+        "Leave-in, styling gel en bonnet als vaste routine",
+        "Advies van de krullenkapper in Voorburg en Goes",
+        "De Mini Duo van €19,95 als instap"
+      ]
+    },
+    {
+      "node": "2558:168",
+      "type": "Assortimentsmail",
+      "onderwerp": "Alles voor je krullen, op een rij",
+      "kop": "Alles voor je krullen, op een rij",
+      "tekst": "Een rustige productmail met vier producten uit de lijn, elk met één zin uitleg, de prijs en een knop, en jullie 4,7 uit 5 als afsluiter.",
+      "punten": [
+        "Moisturize My Curl, styling gel, scalp scrub en bonnet",
+        "Jullie eigen modelfoto als binnenkomer",
+        "4,7 / 5 en meer dan 10.000 tevreden klanten"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
