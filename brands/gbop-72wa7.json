@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "gbop-72wa7",
+  "merk": "gbop",
+  "domein": "gbop.nl",
+  "lead_id": "2026-11-18-gbop.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4E5A2C",
+  "kop": "Massief goud, op Instagram",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team gbop, ik heb dit gemaakt omdat jullie foto's, zoals de vintage hangers op die oude schelpenprent, al zo'n eigen sfeer hebben. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2515:35",
+      "titel": "Eén ring is nooit genoeg",
+      "waarom": "Een hand vol gestapelde ringen met korte kenmerken laat zien hoe de Twist Stacker Ring bij de rest past, en nodigt uit om er een bij te kopen."
+    },
+    {
+      "node": "2515:52",
+      "titel": "Alleen echt goud",
+      "waarom": "Een zoekbalk met 'massief gouden sieraden' sluit aan op waar mensen naar zoeken, met drie echte producten en prijzen eronder."
+    },
+    {
+      "node": "2515:75",
+      "titel": "Closed Forever in 23 kleuren",
+      "waarom": "Drie ronde detailbeelden leggen kleur, goud en maat uit, zodat mensen al een kleur kiezen voordat ze klikken."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2516:66",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom in de club",
+    "kop": "Welkom in de club",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers van 'Join the club': jullie code WELCOME10 groot in beeld, drie favorieten om mee te beginnen en jullie services.",
+    "punten": [
+      "WELCOME10 voor €10 korting meteen zichtbaar, niet alleen op de site",
+      "Baby Pearl Pendant, Twist Stacker Ring en Baby Paperclip Chain als eerste kennismaking",
+      "Gratis verzending vanaf €150, verzekerd verzenden en resizen als geruststelling"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2516:66",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom in de club",
+      "kop": "Welkom in de club",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers van 'Join the club': jullie code WELCOME10 groot in beeld, drie favorieten om mee te beginnen en jullie services.",
+      "punten": [
+        "WELCOME10 voor €10 korting meteen zichtbaar, niet alleen op de site",
+        "Baby Pearl Pendant, Twist Stacker Ring en Baby Paperclip Chain als eerste kennismaking",
+        "Gratis verzending vanaf €150, verzekerd verzenden en resizen als geruststelling"
+      ]
+    },
+    {
+      "node": "2516:123",
+      "type": "Merkverhaal",
+      "onderwerp": "New nostalgia",
+      "kop": "New nostalgia",
+      "tekst": "Een mail over het verhaal achter gbop: Bente's liefde voor oude sieraden, de vintage stukken en de eigen collectie, met de Baby Paperclip Chain als voorbeeld.",
+      "punten": [
+        "Jullie eigen schelpenfoto met vintage hangers als opening",
+        "De Baby Paperclip Chain met vier concrete kenmerken",
+        "Afsluiting over massief goud en de goudsmid in Nederland"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

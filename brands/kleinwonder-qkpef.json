@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "kleinwonder-qkpef",
+  "merk": "Klein Wonder Handgemaakt",
+  "domein": "kleinwonderhandgemaakt.nl",
+  "lead_id": "2026-11-18-kleinwonderhandgemaakt.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#9C8570",
+  "kop": "Drie advertenties voor handgemaakt babybeddengoed",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Klein Wonder, ik heb dit gemaakt omdat jullie lakens met naam een kraamcadeau zijn waar mensen naar zoeken, en jullie foto's daar heel rustig en mooi bij passen. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2516:3",
+      "titel": "Zacht voor jouw kleine wonder",
+      "waarom": "Een grote, rustige kop met jullie eigen stoffen ertussen laat in één blik zien wat Klein Wonder maakt."
+    },
+    {
+      "node": "2516:22",
+      "titel": "Kies je stof",
+      "waarom": "Vier stoffen naast elkaar helpen ouders kiezen en laten zien hoeveel zorg er in elke deken zit."
+    },
+    {
+      "node": "2516:46",
+      "titel": "Kraamcadeau met naam",
+      "waarom": "Een laken met naam is een cadeau dat mensen actief zoeken, en de geborduurde naam maakt het meteen persoonlijk."
+    }
+  ],
+  "waarom": {
+    "niche": "kids & baby",
+    "kop": "Zo groeien babymerken op Instagram.",
+    "tekst": "Aanstaande ouders en mensen die een kraamcadeau zoeken, ontdekken nieuwe merken vooral tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een welkomstmail en een vaste nieuwsbrief zorgen dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "70+",
+        "label": "advertenties heeft Kraam-cadeau.nl nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2517:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Klein Wonder",
+    "kop": "Welkom bij Klein Wonder",
+    "tekst": "Fijn dat je er bent. Hier vind je handgemaakt beddengoed en accessoires voor de babykamer, in rustige en natuurlijke kleuren.",
+    "punten": [
+      "Handgemaakt: alles maakt en verpakt Lisanne zelf",
+      "Op voorraad: binnen 3 werkdagen verzonden",
+      "Gratis verzending vanaf €50 in Nederland"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2517:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Klein Wonder",
+      "kop": "Welkom bij Klein Wonder",
+      "tekst": "Fijn dat je er bent. Hier vind je handgemaakt beddengoed en accessoires voor de babykamer, in rustige en natuurlijke kleuren.",
+      "punten": [
+        "Handgemaakt: alles maakt en verpakt Lisanne zelf",
+        "Op voorraad: binnen 3 werkdagen verzonden",
+        "Gratis verzending vanaf €50 in Nederland"
+      ]
+    },
+    {
+      "node": "2517:42",
+      "type": "Merkverhaal",
+      "onderwerp": "Hoe Klein Wonder begon",
+      "kop": "Hoe Klein Wonder begon",
+      "tekst": "Lisanne vertelt hoe ze tijdens haar zwangerschap zelf de babyuitzet naaide, daarna de gebreide deken Licht Beige uitgelicht en een afsluiting rond het laken met naam.",
+      "punten": [
+        "Sinds januari 2021 alles met de hand gemaakt",
+        "Gebreide deken vanaf €24,95",
+        "Laken met naam vanaf €19,95"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
