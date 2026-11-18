@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "soek-6at6m",
+  "merk": "Soek. Atelier",
+  "domein": "soek-atelier.nl",
+  "lead_id": "2026-11-18-soek-atelier.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#592023",
+  "kop": "Handgemaakt in Hapert, ook op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Soek. Atelier, ik heb dit gemaakt omdat Kiki ieder sieraad zelf buigt, vijlt en poetst, en dat verhaal verdient meer dan één advertentie tegelijk. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2695:3",
+      "titel": "Ik buig, vijl en poets",
+      "waarom": "De ring aan een echte hand met de materialen eromheen laat in één oogopslag zien wat je koopt en waarom het meer is dan een sieraad uit de winkel."
+    },
+    {
+      "node": "2695:24",
+      "titel": "Klein detail, groot verschil",
+      "waarom": "Een close-up van de Oorbel Arc aan het oor met uitlegkaders maakt het gouden detail zichtbaar dat je op een kleine productfoto mist."
+    },
+    {
+      "node": "2695:43",
+      "titel": "Gratis Dottie oorbelsetje",
+      "waarom": "Jullie eigen actie boven een groot logo en een portret van Kiki: herkenbaar merk, echte maker en een duidelijke reden om nu te bestellen."
+    }
+  ],
+  "waarom": {
+    "niche": "sieraden",
+    "kop": "Zo groeien sieradenmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw sieradenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "25–35%",
+        "label": "van de online omzet komt bij sieradenmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "40+",
+        "label": "advertenties heeft Lucardi nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2695:74",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Soek. Fijn dat je er bent",
+    "kop": "Welkom bij Soek.",
+    "tekst": "Een persoonlijke welkomstmail van Kiki voor iedereen die zich inschrijft: wie ze is, wat je kunt verwachten en hoe ze een sieraad maakt.",
+    "punten": [
+      "Kiki zelf als eerste beeld",
+      "Drie beloftes: eigen ontwerp, met de hand gemaakt, plasticvrij verpakt",
+      "De vier stappen van ontwerp tot handgeschreven kaartje"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2695:74",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Soek. Fijn dat je er bent",
+      "kop": "Welkom bij Soek.",
+      "tekst": "Een persoonlijke welkomstmail van Kiki voor iedereen die zich inschrijft: wie ze is, wat je kunt verwachten en hoe ze een sieraad maakt.",
+      "punten": [
+        "Kiki zelf als eerste beeld",
+        "Drie beloftes: eigen ontwerp, met de hand gemaakt, plasticvrij verpakt",
+        "De vier stappen van ontwerp tot handgeschreven kaartje"
+      ]
+    },
+    {
+      "node": "2695:110",
+      "type": "Productspotlight",
+      "onderwerp": "De ring die je elke dag draagt",
+      "kop": "Klein detail, elke dag",
+      "tekst": "Eén product in de hoofdrol: de Ring Drip aan de hand, met daaronder waarom een ring uit het atelier lang meegaat.",
+      "punten": [
+        "Ring Drip, zilver 925, €84,95",
+        "Zilver 925, nikkelvrij, 1 tot 1,5 mm draad",
+        "Gratis verzending vanaf €100 in Nederland en België"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

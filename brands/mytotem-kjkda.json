@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "mytotem-kjkda",
+  "merk": "MyTotem",
+  "domein": "mytotem.nl",
+  "lead_id": "2026-11-18-mytotem.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#2B2118",
+  "kop": "Vijf Totems, elke dag een nieuwe kop.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi Lennart, ik heb dit gemaakt omdat je bewust geen theezakjes gebruikt en elke blend zelf samenstelt. Alles is gemaakt met je eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2696:3",
+      "titel": "Elke dag een andere Totem",
+      "waarom": "Laat in één beeld alle vijf de blends zien en geeft mensen een reden om meer dan één koker te kiezen."
+    },
+    {
+      "node": "2696:32",
+      "titel": "Cinnamon Glow",
+      "waarom": "Één blend uitgelicht met wat erin zit en hoe je hem zet: precies wat iemand wil weten voordat hij losse thee probeert."
+    },
+    {
+      "node": "2698:2",
+      "titel": "Gratis verzending",
+      "waarom": "Een echt aanbod bovenaan en een warme latte in beeld: dat werkt goed in het najaar."
+    }
+  ],
+  "waarom": {
+    "niche": "thee",
+    "kop": "Zo groeien theemerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw theemerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers op tijd een nieuwe koker bestellen.",
+    "stats": [
+      {
+        "getal": "15–25%",
+        "label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "80+",
+        "label": "advertenties heeft Simon Lévelt nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2699:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij MyTotem",
+    "kop": "Welkom bij MyTotem",
+    "tekst": "Een welkomstmail voor nieuwe inschrijvers: wat een Totem is, hoe je de perfecte kop zet en wie de blends samenstelt.",
+    "punten": [
+      "Losse thee en infusies, zonder theezakjes",
+      "95°C, 4 tot 6 minuten, 1 tot 2 theelepels",
+      "Lennart stelt elke blend zelf samen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2699:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij MyTotem",
+      "kop": "Welkom bij MyTotem",
+      "tekst": "Een welkomstmail voor nieuwe inschrijvers: wat een Totem is, hoe je de perfecte kop zet en wie de blends samenstelt.",
+      "punten": [
+        "Losse thee en infusies, zonder theezakjes",
+        "95°C, 4 tot 6 minuten, 1 tot 2 theelepels",
+        "Lennart stelt elke blend zelf samen"
+      ]
+    },
+    {
+      "node": "2700:2",
+      "type": "Assortimentsmail",
+      "onderwerp": "Welke Totem past bij jou?",
+      "kop": "Welke Totem past bij jou?",
+      "tekst": "Alle vijf de blends op een rij met hun eigen moment, en een latte-tip van Lennart als afsluiter.",
+      "punten": [
+        "Minty Moment, Cinnamon Glow, Floral Delight, Sunset Marigold, Relaxing Rooibos",
+        "Twee cafeïnevrije infusies",
+        "Elke koker €8,99"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
