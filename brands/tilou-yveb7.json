@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "tilou-yveb7",
+  "merk": "Atelier Tilou",
+  "domein": "ateliertilou.nl",
+  "lead_id": "2026-11-18-ateliertilou.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#8A735F",
+  "kop": "Een idee voor jullie geborduurde babystukken",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Atelier Tilou, ik heb dit gemaakt omdat jullie elk stuk met een naam erop borduren in jullie eigen atelier, en dat laat zich mooi zien. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2577:3",
+      "titel": "Koop geen babypakje",
+      "waarom": "Een kop met een knipoog die doet stoppen met scrollen, en daarna meteen laat zien wat jullie anders maakt: de naam erop."
+    },
+    {
+      "node": "2577:23",
+      "titel": "Geboorteschilderij in detail",
+      "waarom": "Callouts op jullie eigen foto tonen wat je zelf kiest, zodat het cadeau al in het hoofd van de koper ontstaat."
+    },
+    {
+      "node": "2577:43",
+      "titel": "Jouw naam, onze steek",
+      "waarom": "Drie stappen in beeld nemen de drempel weg om iets te personaliseren, met een duidelijke prijs en levertijd."
+    }
+  ],
+  "waarom": {
+    "niche": "kids en baby",
+    "kop": "Zo groeien babymerken op Instagram.",
+    "tekst": "Ouders en kraamvisite ontdekken een nieuw babymerk zelden via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor het volgende cadeau.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij babymerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "10+",
+        "label": "advertenties heeft Jollein nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2577:62",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Atelier Tilou",
+    "kop": "Welkom bij Atelier Tilou",
+    "tekst": "Een welkomstmail die meteen laat zien hoe personaliseren werkt: item kiezen, naam en garenkleur, en jullie borduren het.",
+    "punten": [
+      "Hero met de geborduurde polo romper",
+      "Drie punten: eigen atelier, naam naar keuze, gratis verzending vanaf €99",
+      "Kraamcadeaublok met badcape en levertijd"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2577:62",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Atelier Tilou",
+      "kop": "Welkom bij Atelier Tilou",
+      "tekst": "Een welkomstmail die meteen laat zien hoe personaliseren werkt: item kiezen, naam en garenkleur, en jullie borduren het.",
+      "punten": [
+        "Hero met de geborduurde polo romper",
+        "Drie punten: eigen atelier, naam naar keuze, gratis verzending vanaf €99",
+        "Kraamcadeaublok met badcape en levertijd"
+      ]
+    },
+    {
+      "node": "2577:90",
+      "type": "Assortiment",
+      "onderwerp": "Klaar voor de winter",
+      "kop": "Klaar voor de winter",
+      "tekst": "Vier eigen stukken uit de Wintercollectie '26 op een rij, elk met prijs en een knop.",
+      "punten": [
+        "Babypakje Milan als hero",
+        "Sweater, merino slofjes en geboorteschilderij met prijs",
+        "Afsluiting met de zin van Laura over familie"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

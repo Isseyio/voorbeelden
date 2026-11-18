@@ -1,0 +1,89 @@
+{
+  "v": 6,
+  "slug": "cohoso-eptha",
+  "merk": "COHOSO",
+  "domein": "cohoso.nl",
+  "lead_id": "2026-11-18-cohoso.nl",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#4D614D",
+  "kop": "Een idee voor de FLAIR- en SEMMI-kussens",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team COHOSO, ik heb dit gemaakt omdat jullie elk kussen in Nederland laten maken, samen met sociale werkplaatsen, en dat verhaal vind ik het vertellen waard. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2583:4",
+      "titel": "Zacht thuis",
+      "waarom": "Eén groot woord en jullie echte packshots met prijs laten in een seconde zien wat COHOSO verkoopt."
+    },
+    {
+      "node": "2583:20",
+      "titel": "Zo maken we een nekkussen",
+      "waarom": "Ronde foto's per onderdeel leggen uit waarom het nekkussen €77 kost: velours, contragewicht, los binnenkussen en gemaakt in Nederland."
+    },
+    {
+      "node": "2583:43",
+      "titel": "Velours of teddy",
+      "waarom": "Twee stoffen naast elkaar met prijs maken de keuze makkelijk, met jullie eigen sfeerfoto's."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen en textiel",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw interieurmerk niet via Google, maar tijdens het scrollen op Instagram. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Zusss nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2585:2",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij COHOSO, hier is je 10%",
+    "kop": "Welkom bij COHOSO",
+    "tekst": "Een welkomstmail die de 10% korting uit jullie inschrijfblok meteen waarmaakt en laat zien waar COHOSO voor staat.",
+    "punten": [
+      "Herokaart met de SEMMI-kussens en de welkomstkorting",
+      "Drie punten: Made in Holland, sociale werkplaatsen, gratis verzending",
+      "Tweede blok over stofstalen: eerst voelen, dan kiezen"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2585:2",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij COHOSO, hier is je 10%",
+      "kop": "Welkom bij COHOSO",
+      "tekst": "Een welkomstmail die de 10% korting uit jullie inschrijfblok meteen waarmaakt en laat zien waar COHOSO voor staat.",
+      "punten": [
+        "Herokaart met de SEMMI-kussens en de welkomstkorting",
+        "Drie punten: Made in Holland, sociale werkplaatsen, gratis verzending",
+        "Tweede blok over stofstalen: eerst voelen, dan kiezen"
+      ]
+    },
+    {
+      "node": "2585:27",
+      "type": "Merkverhaal",
+      "onderwerp": "Gemaakt in Holland, met liefde",
+      "kop": "Het verhaal van Kim",
+      "tekst": "Kim vertelt hoe COHOSO sinds 2018 alles in Nederland maakt, samen met lokale partners en sociale werkplaatsen.",
+      "punten": [
+        "Sfeerfoto met het nekkussen FLAIR",
+        "Kaart met het verhaal van Kim en de werkplaatsen",
+        "Nekkussen met labels en een afsluiting met knop naar de shop"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}

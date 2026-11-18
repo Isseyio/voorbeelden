@@ -1,0 +1,92 @@
+{
+  "v": 6,
+  "slug": "arp-g57vr",
+  "merk": "Arp design",
+  "domein": "arpdesign.com",
+  "lead_id": "2026-11-18-arpdesign.com",
+  "figma": "7BXGFt6UvrdktTqFa8JFbs",
+  "accent": "#9A7350",
+  "kop": "Tafels voor het leven, zichtbaar op Instagram.",
+  "intro": "Drie advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+  "noot": "Hoi team Arp design, ik heb dit gemaakt omdat een tafel als de Longlegs een verhaal heeft dat je in één foto niet helemaal kwijt kunt. Alles is gemaakt met jullie eigen foto's en niets is gepubliceerd. Past het niet, zeg het gerust.",
+  "advertenties": [
+    {
+      "node": "2580:3",
+      "titel": "Wat erin zit",
+      "waarom": "De kruispoot, het brandmerk en de werkplaats laten in één beeld zien waarom deze tafel zijn prijs waard is."
+    },
+    {
+      "node": "2580:27",
+      "titel": "Dezelfde tafel, jouw kleur",
+      "waarom": "Twee afwerkingen naast elkaar laten direct zien dat kleur en formaat naar wens zijn."
+    },
+    {
+      "node": "2580:50",
+      "titel": "Een tafel belt je op",
+      "waarom": "Een speels beeld valt op tussen alle interieurfoto's en blijft daardoor beter hangen."
+    }
+  ],
+  "waarom": {
+    "niche": "wonen & interieur",
+    "kop": "Zo groeien interieurmerken op Instagram.",
+    "tekst": "De meeste mensen ontdekken een nieuw meubelmerk niet via Google, maar tijdens het scrollen. Bij een tafel voor het leven duurt de keuze vaak weken, dus het helpt als je merk in die tijd steeds opnieuw langskomt met een nieuw beeld. Een vaste nieuwsbrief houdt mensen die al kijken op de hoogte tot ze langskomen in de winkel.",
+    "stats": [
+      {
+        "getal": "20–30%",
+        "label": "van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"
+      },
+      {
+        "getal": "50+",
+        "label": "advertenties heeft Studio HENK nu tegelijk live"
+      },
+      {
+        "getal": "1× per week",
+        "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+      }
+    ],
+    "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 18-11-2026."
+  },
+  "nieuwsbrief": {
+    "node": "2580:64",
+    "type": "Welkomstmail",
+    "onderwerp": "Welkom bij Arp",
+    "kop": "Welkom bij Arp",
+    "tekst": "Tafels en kasten op maat, ontworpen en gemaakt in Haarlem door Sarah Trenité. In deze mails laten we zien wat er in de werkplaats gebeurt.",
+    "punten": [
+      "Ontworpen door Sarah Trenité, sinds 2004",
+      "Gemaakt in eigen werkplaats in Haarlem",
+      "Kleur en formaat naar wens",
+      "Vraag een gratis staaltje aan"
+    ]
+  },
+  "nieuwsbrieven": [
+    {
+      "node": "2580:64",
+      "type": "Welkomstmail",
+      "onderwerp": "Welkom bij Arp",
+      "kop": "Welkom bij Arp",
+      "tekst": "Tafels en kasten op maat, ontworpen en gemaakt in Haarlem door Sarah Trenité. In deze mails laten we zien wat er in de werkplaats gebeurt.",
+      "punten": [
+        "Ontworpen door Sarah Trenité, sinds 2004",
+        "Gemaakt in eigen werkplaats in Haarlem",
+        "Kleur en formaat naar wens",
+        "Vraag een gratis staaltje aan"
+      ]
+    },
+    {
+      "node": "2580:90",
+      "type": "Merkverhaal",
+      "onderwerp": "Een tafel koop je voor je leven",
+      "kop": "Longlegs, de klassieker van Arp",
+      "tekst": "Het verhaal achter de Longlegs, met de vier details die hem herkenbaar maken, en een uitnodiging om hem in de winkel in Haarlem te zien.",
+      "punten": [
+        "Massief Europees eiken",
+        "Ovaal blad van 160 tot 300 cm",
+        "Kruispoot: vorm volgt constructie",
+        "Vanaf €4.550, inclusief levering en montage"
+      ]
+    }
+  ],
+  "ai_sfeer": false,
+  "gemaakt": "2026-11-18"
+}
