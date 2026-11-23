@@ -1,0 +1,21 @@
+{"v":7,"slug":"redbag-9nrac","merk":"REDBAG","domein":"redbag.nl","lead_id":"2026-11-23-redbag.nl","accent":"#C8261E",
+"kop":"Vijf invalshoeken voor REDBAG, van de brandweerkazerne tot jouw schouder.",
+"intro":"Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+"noot":"Hoi team REDBAG, ik zag dat jullie afgeschreven brandweerslangen omtoveren tot tassen en riemen, en dat elk stuk daardoor anders is. Met jullie eigen foto's heb ik vijf advertenties en twee nieuwsbrieven gemaakt. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+"product_zin":"Dezelfde messenger bag",
+"product":{"naam":"Messenger Bag M","tekst":"Dezelfde messenger bag, vijf verschillende redenen om hem te kopen. Elke reden wordt een eigen advertentie."},
+"fan":[2,1,5],
+"funnel_obs":"Wat ik zag: in de advertentiebibliotheek van Meta staan nu twee advertenties van REDBAG, allebei over een tas of cadeau met een verhaal. Dat is een sterke kennismaking. Wat nog ontbreekt zijn advertenties die overtuigen en de koop afronden: waar de tas van gemaakt is, wat klanten zeggen en de levenslange garantie op de riemen.",
+"advertenties":[
+{"fase":"TOF","ref":"N01","titel":"Die vriendin met een verhaal","invalshoek":"iemand zoals ik","vraag":"Wat is dat voor tas die zij draagt?","waarom":"Een echte foto van iemand met de rode rugtas in de stad. Mensen herkennen zichzelf of een vriendin en willen weten waar die tas vandaan komt."},
+{"fase":"TOF","ref":"N02","titel":"Brandweer & jouw tas","invalshoek":"het gevoel","vraag":"Wat maakt deze tas anders dan andere tassen?","waarom":"Twee foto's vertellen het hele verhaal in één oogopslag: jarenlang bij de brandweer, nu een tas om je schouder. Dat gevoel van recycled heroism blijft hangen."},
+{"fase":"MOF","ref":"N09","titel":"Waar je tas van gemaakt is","invalshoek":"transparantie","vraag":"Is dit wel stevig, en wat zit erin?","waarom":"Brandweerslang, dekzeil, autogordel en een naamtag van een sociale onderneming, laag voor laag uitgelegd. Dat verklaart de prijs en neemt twijfel weg."},
+{"fase":"MOF","ref":"N12","titel":"Meer dan alleen een tas","invalshoek":"bewijs","vraag":"Wat vinden andere kopers ervan?","waarom":"Een echte review van huisarts Alexander over zijn DocBag. Een klant die het zegt overtuigt meer dan het merk zelf."},
+{"fase":"BOF","ref":"N17","titel":"Levenslang garantie","invalshoek":"zekerheid · seizoen/cadeau","vraag":"Is een riem van €45 het waard als cadeau?","waarom":"Levenslang garantie en 14 dagen retour zijn echte zekerheden. Gekoppeld aan jullie eigen tip ‘geef dit jaar een riem’ is het het laatste duwtje voor de feestdagen."}],
+"waarom":{"niche":"tassen & accessoires","kop":"Zo groeien tassenmerken op Instagram.","tekst":"De meeste mensen ontdekken een nieuw tassenmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week een nieuwe invalshoek testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een welkomstmail zorgt dat nieuwe volgers ook echt kopen.",
+"stats":[{"getal":"25–35%","label":"van de online omzet komt bij tassen- en accessoiremerken vaak via Instagram en Facebook"},{"getal":"9","label":"advertenties heeft FREITAG nu tegelijk live in Nederland"},{"getal":"1× per week","label":"nieuwe advertenties testen houdt de kosten per aankoop laag"}],
+"bron":"Aantal advertenties: Meta Advertentiebibliotheek, 23-11-2026."},
+"nieuwsbrieven":[
+{"ref":"RE07","type":"Welkomstmail","onderwerp":"Welkom bij REDBAG","kop":"Welkom bij REDBAG","tekst":"Op de site zag ik een nieuwsbriefblok in de footer, zonder pop-up of welkomstmail. Deze mail vertelt meteen het verhaal en laat de vier bestsellers zien om mee te beginnen.","punten":["De rugtas in de stad als openingsbeeld","Messenger Bag M en XL, rugtas en REDBELT met prijs","De naamtag van Draad & Daad om hem eigen te maken"]},
+{"ref":"RE01","type":"Merkverhaal","onderwerp":"Het verhaal achter je tas","kop":"Van brandweerslang tot tas","tekst":"Een mail over wat REDBAG bijzonder maakt: de afgeschreven slang, het handwerk in Nederland en de tas die je ermee krijgt, met jullie eigen foto's.","punten":["De slang, het maken en jouw tas in drie stappen","Recycled heroism als rode draad","Een blok voor korpsen die een tas van hun eigen slangen willen"]}],
+"ai_sfeer":false,"gemaakt":"2026-11-23"}
