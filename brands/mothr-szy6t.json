@@ -1,0 +1,23 @@
+{"v":7,"slug":"mothr-szy6t","merk":"MOTHR EARTH PROOF","domein":"mothrearthproof.com","lead_id":"2026-11-23-mothrearthproof.com","accent":"#8A7D6F",
+"kop":"Vijf invalshoeken voor MOTHR EARTH PROOF, van het ritueel in vier stappen tot de complete set.",
+"intro":"Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+"noot":"Hoi team MOTHR EARTH PROOF, ik zag dat jullie sinds 2021 natuurlijke huidverzorging maken, inmiddels in jullie eigen lab, met vier stappen die samen één ritueel vormen. Jullie foto's zijn zo rustig en echt dat ik er vijf advertenties en twee nieuwsbrieven van heb gemaakt. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+"product_zin":"Dezelfde vier stappen",
+"product":{"naam":"Het ritueel in vier stappen","tekst":"Dezelfde vier stappen, vijf verschillende redenen om ze te kopen. Elke reden wordt een eigen advertentie."},
+"fan":[1,4,5],
+"funnel_obs":"Wat ik zag: in de advertentiebibliotheek van Meta staan nu twee advertenties van jullie live, voor de gratis Mooie huid 50+ gids en de probeerset. Bionera heeft er op dit moment meer dan 130 tegelijk live. Met elke week een nieuwe invalshoek bereik je ook vrouwen die jullie nog niet kennen, en help je twijfelaars over de streep.",
+"advertenties":[
+{"fase":"TOF","ref":"N02","titel":"Vier stappen & één ritueel","invalshoek":"het gevoel","vraag":"Hoe zou het voelen om elke dag even rustig voor mijn huid te zorgen?","waarom":"Twee echte foto's laten het moment zien in plaats van het potje. Zo valt de advertentie op tussen alle productfoto's en past hij bij jullie rustige stijl."},
+{"fase":"TOF","ref":"N03","titel":"Droge huid boven de 50?","invalshoek":"probleem → oplossing","vraag":"Mijn huid wordt droger, wat helpt daar eigenlijk bij?","waarom":"Wie zichzelf herkent in de vraag, stopt met scrollen. Daarna zie je meteen twee stappen uit jullie routine, met de woorden die jullie zelf op de site gebruiken."},
+{"fase":"MOF","ref":"N10","titel":"Alles in één druppel","invalshoek":"alles-in-één","vraag":"Wat zit er nu echt in zo'n flesje?","waarom":"Twijfelaars willen weten wat ze kopen. De Elixir in de hand en de vitamines op een rij beantwoorden die vraag in één oogopslag."},
+{"fase":"MOF","ref":"N15","titel":"Zo werkt het ritueel","invalshoek":"hoe het werkt","vraag":"Vier stappen, is dat niet ingewikkeld?","waarom":"Een routine in vier stappen klinkt als werk. Elke stap in één zin uitgelegd laat zien dat het eenvoudig is en waarom de stappen bij elkaar horen."},
+{"fase":"BOF","ref":"N18","titel":"Alle vier in één set","invalshoek":"een goede deal","vraag":"Koop ik los of in één keer de hele routine?","waarom":"De Ultimate Glow & Repair Set bestaat echt en scheelt €10,85, met gratis verzending erbij. Dat is het laatste duwtje voor wie de stappen al kent."}
+],
+"waarom":{"niche":"natuurlijke huidverzorging","kop":"Zo groeien huidverzorgingsmerken op Instagram.","tekst":"De meeste vrouwen ontdekken een nieuw verzorgingsmerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe invalshoeken testen, vinden steeds nieuwe klanten en houden hun kosten per aankoop laag. Een nieuwsbrief zorgt daarna dat die klanten terugkomen als hun potje leeg is.",
+"stats":[{"getal":"25–35%","label":"van de online omzet komt bij verzorgingsmerken vaak via Instagram en Facebook"},{"getal":"130+","label":"advertenties heeft Bionera nu tegelijk live in Nederland"},{"getal":"40+","label":"advertenties heeft RainPharma nu tegelijk live in Nederland"}],
+"bron":"Aantal advertenties: Meta Advertentiebibliotheek, 23-11-2026."},
+"nieuwsbrieven":[
+{"ref":"RE05","type":"Welkomstmail","onderwerp":"Fijn dat je er bent","kop":"Welkom bij MOTHR EARTH PROOF","tekst":"Een rustige welkomstmail voor iedereen die zich inschrijft of de huidtest doet. Hij vertelt in een paar zinnen het verhaal van Andrea en het eigen lab, en stuurt door naar de huidtest.","punten":["Het verhaal sinds 2021 en het eigen lab","100% natuurlijk, kleine batches, in glas","Eén knop naar de huidtest"]},
+{"ref":"RE04","type":"Assortimentsmail","onderwerp":"Een set voor elke huid","kop":"Sets voor jouw huidtype","tekst":"Een mail die vier sets naast elkaar zet, elk met huidtype en prijs. Zo kiest een lezer zelf welke set bij haar past, met de 4,9 van 5 sterren als bewijs.","punten":["Vier sets met huidtype en echte prijzen","Een echte klantreactie van de site","Gratis verzending vanaf €120"]}
+],
+"ai_sfeer":false,"gemaakt":"2026-11-23"}
