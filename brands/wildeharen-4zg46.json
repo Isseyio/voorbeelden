@@ -1,0 +1,112 @@
+{
+ "v": 7,
+ "slug": "wildeharen-4zg46",
+ "merk": "Uitgeverij Wilde Haren",
+ "domein": "uitgeverijwildeharen.nl",
+ "lead_id": "2026-11-23-uitgeverijwildeharen.nl",
+ "accent": "#1D3688",
+ "kop": "Vijf invalshoeken voor Wilde Haren, van Aya in het zwembad tot de cadeaubox voor pakjesavond.",
+ "intro": "Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+ "noot": "Hoi team Wilde Haren, ik zag dat jullie sinds 2020 kinderboeken maken waarin kinderen van kleur de hoofdrol spelen, en dat er nu cadeauboxen met drie boeken zijn. De illustraties uit Plons! en jullie eigen covers vond ik zo sterk dat ik er vijf advertenties en twee nieuwsbrieven van heb gemaakt. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+ "product_zin": "Dezelfde boeken",
+ "product": {
+  "naam": "Kinderboeken van Wilde Haren",
+  "tekst": "Dezelfde boeken, vijf verschillende redenen om ze te kopen. Elke reden wordt een eigen advertentie."
+ },
+ "fan": [
+  1,
+  2,
+  5
+ ],
+ "funnel_obs": "Wat ik zag: in de advertentiebibliotheek van Meta staat nu één advertentie van jullie live, over gratis verzending. Kinderboeken.nl heeft er op dit moment meer dan 100 tegelijk live. Met elke week een nieuwe invalshoek bereik je ouders, opa's en oma's en leerkrachten die jullie nog niet kennen.",
+ "advertenties": [
+  {
+   "fase": "TOF",
+   "ref": "N01",
+   "titel": "Zij speelt de hoofdrol",
+   "invalshoek": "iemand zoals ik",
+   "vraag": "Waarom ziet mijn kind nooit iemand zoals zij in een boek?",
+   "waarom": "Ouders herkennen dit gemis meteen. De echte illustratie uit Plons! laat in één beeld zien wat jullie anders doen."
+  },
+  {
+   "fase": "TOF",
+   "ref": "N05",
+   "titel": "De zoekopdracht",
+   "invalshoek": "zoekvraag → antwoord",
+   "vraag": "Bestaat er een kinderboek waarin mijn kind zichzelf ziet?",
+   "waarom": "Veel ouders zoeken precies hiernaar. De advertentie stelt hun vraag en geeft meteen het antwoord, met drie echte covers en de prijs."
+  },
+  {
+   "fase": "MOF",
+   "ref": "N12",
+   "titel": "Een illustrator en een juf",
+   "invalshoek": "het verhaal erachter",
+   "vraag": "Wie maakt deze boeken eigenlijk?",
+   "waarom": "Mensen kopen liever bij makers die ze kennen. De oprichters en jullie missie maken van een onbekende uitgeverij een merk met een gezicht."
+  },
+  {
+   "fase": "MOF",
+   "ref": "N09",
+   "titel": "Waar gaat je €19,99 heen?",
+   "invalshoek": "transparantie",
+   "vraag": "Waarom zou ik niet gewoon bij een grote webwinkel bestellen?",
+   "waarom": "Het boek kost overal hetzelfde. Laten zien dat er bij jullie meer naar de makers en nieuwe verhalen gaat, geeft een reden om direct te bestellen."
+  },
+  {
+   "fase": "BOF",
+   "ref": "N16",
+   "titel": "Drie boeken in één box",
+   "invalshoek": "een goede deal",
+   "vraag": "Wat geef ik op pakjesavond?",
+   "waarom": "De cadeaubox bestaat echt en scheelt €18,02. Met de besteldatum voor pakjesavond erbij is dit het laatste duwtje voor wie al twijfelt."
+  }
+ ],
+ "waarom": {
+  "niche": "kinderboeken",
+  "kop": "Zo groeien kinderboekenmerken op Instagram.",
+  "tekst": "Ouders, opa's en oma's ontdekken een nieuw kinderboek vaak niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe invalshoeken testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een nieuwsbrief zorgt dat die kopers terugkomen bij een nieuwe titel of rond pakjesavond.",
+  "stats": [
+   {
+    "getal": "20–30%",
+    "label": "van de online omzet komt bij merken voor kinderen vaak via Instagram en Facebook"
+   },
+   {
+    "getal": "100+",
+    "label": "advertenties heeft Kinderboeken.nl nu tegelijk live in Nederland"
+   },
+   {
+    "getal": "1× per week",
+    "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+   }
+  ],
+  "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 23-11-2026."
+ },
+ "nieuwsbrieven": [
+  {
+   "ref": "RE07",
+   "type": "Welkomstmail",
+   "onderwerp": "Fijn dat je er bent",
+   "kop": "Hier speelt elk kind de hoofdrol",
+   "tekst": "Op de site staat een aanmelding, maar nog geen welkomstmail of pop-up. Deze mail stelt de oprichters voor en laat drie boeken zien, zodat een nieuwe abonnee meteen weet waar jullie voor staan.",
+   "punten": [
+    "Een illustratie uit Plons! als openingsbeeld",
+    "D'Avellonne en Loulou stellen zich voor",
+    "Gratis verzending, steun voor de makers en nieuwe titels als eerste"
+   ]
+  },
+  {
+   "ref": "RE01",
+   "type": "Cadeaugids",
+   "onderwerp": "Drie verhalen in één box",
+   "kop": "Cadeauboxen voor pakjesavond",
+   "tekst": "Een mail over de nieuwe cadeauboxen, op het moment dat mensen een cadeau zoeken. Twee boxen met prijs, de besteldatum voor pakjesavond en één duidelijke knop.",
+   "punten": [
+    "Mijn eigen stem en Iedereen hoort erbij, met losse prijs erbij",
+    "Bestel vóór 2 december voor pakjesavond",
+    "De boeken zijn apart ingepakt"
+   ]
+  }
+ ],
+ "ai_sfeer": false,
+ "gemaakt": "2026-11-23"
+}
