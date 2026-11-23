@@ -1,0 +1,112 @@
+{
+ "v": 7,
+ "slug": "originalmocros-brr7b",
+ "merk": "Original Mocros",
+ "domein": "originalmocros.com",
+ "lead_id": "2026-11-23-originalmocros.com",
+ "accent": "#EC523E",
+ "kop": "Vijf invalshoeken voor Original Mocros, van de souk tot de tweede muts.",
+ "intro": "Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+ "noot": "Hoi team Original Mocros, ik zag dat Aaliyah sinds 2012 elk jaar samen met Marokkaanse moeders een nieuwe collectie mutsen ontwerpt, van plantaardig geverfd katoen. Jullie foto's van het verven en de mutsen tegen die groene muur vond ik zo sterk dat ik er vijf advertenties en twee nieuwsbrieven van heb gemaakt. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+ "product_zin": "Dezelfde muts",
+ "product": {
+  "naam": "Lange muts Diamond",
+  "tekst": "Dezelfde muts, vijf verschillende redenen om hem te kopen. Elke reden wordt een eigen advertentie."
+ },
+ "fan": [
+  1,
+  2,
+  5
+ ],
+ "funnel_obs": "Wat ik zag: in de advertentiebibliotheek van Meta vond ik geen advertenties van Original Mocros. CAPS Apparel heeft er op dit moment meer dan 1.000 live in Nederland, BARTS Amsterdam tien. Met elke week een nieuwe invalshoek kom je juist in het mutsenseizoen tussen die merken te staan.",
+ "advertenties": [
+  {
+   "fase": "TOF",
+   "ref": "N02",
+   "titel": "Nederland & Marokko",
+   "invalshoek": "het gevoel",
+   "vraag": "Waarom zou ik een muts van een merk kopen dat ik niet ken?",
+   "waarom": "Twee echte foto's vertellen in één oogopslag het hele verhaal: ontworpen in Nederland, gemaakt in Marokko. Dat maakt nieuwsgierig."
+  },
+  {
+   "fase": "TOF",
+   "ref": "N07",
+   "titel": "Kies je kleur",
+   "invalshoek": "varianten",
+   "vraag": "Welke kleur past bij mij?",
+   "waarom": "Drie echte mutsen naast elkaar laten zien hoeveel keus er is. Iedereen ziet meteen zijn eigen favoriet."
+  },
+  {
+   "fase": "MOF",
+   "ref": "N15",
+   "titel": "Van katoen tot muts",
+   "invalshoek": "hoe het werkt",
+   "vraag": "Hoe worden deze mutsen eigenlijk gemaakt?",
+   "waarom": "Drie stappen met jullie eigen foto's uit Marokko maken het verschil met een fabrieksmuts zichtbaar, en verklaren de prijs."
+  },
+  {
+   "fase": "MOF",
+   "ref": "N14",
+   "titel": "Een muts die gewoon past",
+   "invalshoek": "kenmerken-checklist",
+   "vraag": "Past hij wel en blijft hij mooi?",
+   "waarom": "De drie grootste twijfels bij online een muts kopen, maat, materiaal en wassen, worden met drie vinkjes beantwoord."
+  },
+  {
+   "fase": "BOF",
+   "ref": "N17",
+   "titel": "Twee mutsen, gratis verzending",
+   "invalshoek": "een goed aanbod",
+   "vraag": "Moet ik nog verzendkosten betalen?",
+   "waarom": "Gratis verzending vanaf twee mutsen bestaat echt. Het is het laatste duwtje, en mensen nemen er vaak meteen een cadeau bij."
+  }
+ ],
+ "waarom": {
+  "niche": "mode en accessoires",
+  "kop": "Zo groeien modemerken op Instagram.",
+  "tekst": "De meeste mensen ontdekken een nieuw modemerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe invalshoeken testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een nieuwsbrief zorgt dat die kopers terugkomen als de nieuwe collectie er is.",
+  "stats": [
+   {
+    "getal": "25–35%",
+    "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+   },
+   {
+    "getal": "1.000+",
+    "label": "advertenties heeft CAPS Apparel nu tegelijk live in Nederland"
+   },
+   {
+    "getal": "1× per week",
+    "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+   }
+  ],
+  "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 23-11-2026."
+ },
+ "nieuwsbrieven": [
+  {
+   "ref": "RE05",
+   "type": "Welkomstmail",
+   "onderwerp": "Welkom bij Original Mocros",
+   "kop": "Jouw muts is straks echt uniek",
+   "tekst": "Op de site kun je je aanmelden, maar er is nog geen welkomstmail. Deze mail vertelt meteen wat een Mocros bijzonder maakt en laat drie mutsen zien, ondertekend door Aaliyah.",
+   "punten": [
+    "Twee echte modellen tegen de groene muur als openingsbeeld",
+    "Uniek, one size 54-62 cm en gratis verzending bij twee mutsen",
+    "Liefs, Aaliyah, zoals op de site"
+   ]
+  },
+  {
+   "ref": "RE04",
+   "type": "Merkverhaal",
+   "onderwerp": "De mama's achter jouw muts",
+   "kop": "Het verhaal achter Original Mocros",
+   "tekst": "Een mail over hoe de mutsen gemaakt worden: de moeders in Marokko, de Fair Trade vergoeding en het verven met planten, met jullie eigen foto's van het proces.",
+   "punten": [
+    "Aaliyah en het begin in 2012",
+    "Verven, drogen en kleuren kiezen in drie foto's",
+    "Eén knop naar de collectie"
+   ]
+  }
+ ],
+ "ai_sfeer": false,
+ "gemaakt": "2026-11-23"
+}
