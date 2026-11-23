@@ -1,0 +1,21 @@
+{"v":7,"slug":"duval-t6eqj","merk":"Duval Horse Products","domein":"duvalhorseproducts.com","lead_id":"2026-11-23-duvalhorseproducts.com","accent":"#167D85",
+"kop":"Vijf invalshoeken voor Duval, van de Oosterschelde tot de stal.",
+"intro":"Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+"noot":"Hoi team Duval, ik las het verhaal van Nathalie: een scriptie over paardensupplementen, een familie die al sinds 1920 in de haven van Yerseke werkt, en alles in eigen productie. Daar zitten meer redenen in om bij jullie te kopen dan nu in de advertenties staan. Ik heb er vijf uitgewerkt, met jullie eigen foto's. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+"product_zin":"Dezelfde emmer supplement",
+"product":{"naam":"MultiMix","tekst":"Dezelfde emmer, vijf verschillende redenen om hem te kopen. Elke reden wordt een eigen advertentie."},
+"fan":[2,1,4],
+"funnel_obs":"Wat ik zag: van de zes advertenties die nu live staan, gaan er drie over Nerve Less en meer rust, en twee laten het hele assortiment zien. Het verhaal uit Yerseke, de reviews en de pakketten komen nog niet terug. Daar zitten nieuwe invalshoeken.",
+"advertenties":[
+{"fase":"TOF","ref":"N02","titel":"De zee en je paard","invalshoek":"het gevoel","vraag":"Wat is dit voor merk?","waarom":"Twee echte foto's, de Oosterschelde en Nathalie met haar paard, vertellen in één blik waar Duval vandaan komt en voor wie het is."},
+{"fase":"TOF","ref":"N01","titel":"Die ruiter die weet wat er in de emmer zit","invalshoek":"iemand zoals ik","vraag":"Is dit iets voor iemand zoals ik?","waarom":"Ruiters herkennen zichzelf in iemand die bewust voert. Dan wil je weten wat zij gebruikt."},
+{"fase":"MOF","ref":"N13","titel":"Wat je niet in de emmer wilt","invalshoek":"vergelijken","vraag":"Waarom zou ik niet gewoon het supplement van de ruitersportzaak nemen?","waarom":"Nathalie begon Duval omdat ze vulstoffen en suiker tegenkwam. Naast elkaar zie je meteen waar het verschil zit."},
+{"fase":"MOF","ref":"N12","titel":"171 reviews van ruiters","invalshoek":"bewijs","vraag":"Hebben andere ruiters er ervaring mee?","waarom":"Een echt aantal en een echte review van Marleen halen de twijfel weg, beter dan wat jullie zelf over het product zeggen."},
+{"fase":"BOF","ref":"N18","titel":"TendiFlex en Multibone samen","invalshoek":"een goede deal","vraag":"Ik twijfel nog, en verzending kost ook geld.","waarom":"Jullie pakket is voordeliger dan los kopen en valt boven de grens voor gratis verzending. Dat is het laatste duwtje."}],
+"waarom":{"niche":"paardensupplementen","kop":"Zo groeien supplementmerken op Instagram.","tekst":"Ruiters ontdekken een nieuw supplement vaak niet via Google, maar tijdens het scrollen, bij een stalgenote of een ruiter die ze volgen. Merken die daar elke week nieuwe invalshoeken testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende emmer.",
+"stats":[{"getal":"25–35%","label":"van de online omzet komt bij supplementmerken vaak via Instagram en Facebook"},{"getal":"80+","label":"advertenties heeft Paardendierenarts Iris van Gulik nu tegelijk live"},{"getal":"1× per week","label":"nieuwe advertenties testen houdt de kosten per aankoop laag"}],
+"bron":"Aantal advertenties: Meta Advertentiebibliotheek, 23-11-2026."},
+"nieuwsbrieven":[
+{"ref":"RE07","type":"Welkomstmail","onderwerp":"Welkom bij de VIP's van Duval","kop":"Welkom bij de VIP's van Duval","tekst":"Jullie nieuwsbrief belooft VIP-voordelen, maar wie zich inschrijft krijgt nu nog geen welkomstmail. Deze mail kan de eerste zijn.","punten":["De drie VIP-voordelen die jullie al noemen: eerder bij acties, tips en producttester worden","Drie startpunten: Multipower, de productpakketten en TendiFlex","Gratis verzending vanaf €125 in de footer"]},
+{"ref":"RE01","type":"Merkverhaal","onderwerp":"Van de haven van Yerseke naar jouw stal","kop":"Van de haven van Yerseke naar jouw stal","tekst":"Een mail die het verhaal van Nathalie en de familie vertelt, met de oude foto van Yerseke uit 1925.","punten":["1920, 1973 en nu: drie generaties in één tijdlijn","Wat er wel en niet in de emmer zit","Een uitnodiging om via WhatsApp advies te vragen"]}],
+"ai_sfeer":false,"gemaakt":"2026-11-23"}
