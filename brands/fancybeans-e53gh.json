@@ -1,0 +1,21 @@
+{"v":7,"slug":"fancybeans-e53gh","merk":"Fancy Beans","domein":"fancybeans.nl","lead_id":"2026-11-23-fancybeans.nl","accent":"#E4087E",
+"kop":"Vijf invalshoeken voor Fancy Beans, van eerste slok tot bestelling.",
+"intro":"Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+"noot":"Hoi team Fancy Beans, ik zag dat jullie zakken een heel eigen gezicht hebben, met de herkomst en de smaak er gewoon op. Daar zit genoeg in voor meer dan één reden om te bestellen. Daarom heb ik er vijf uitgewerkt, met jullie eigen foto's. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+"product_zin":"Dezelfde zak koffiebonen",
+"product":{"naam":"Chocolate Bomb","tekst":"Dezelfde zak koffie, vijf verschillende redenen om hem te kopen. Elke reden wordt een eigen advertentie."},
+"fan":[2,1,5],
+"funnel_obs":"Wat ik zag: in de advertentiebibliotheek van Meta vond ik geen advertenties van Fancy Beans. Dan begin je met de hele funnel tegelijk: kennismaken, overtuigen en de koop afronden.",
+"advertenties":[
+{"fase":"TOF","ref":"N05","titel":"Koffiebonen die naar chocolade smaken","alt":"De zoekopdracht","invalshoek":"zoekvraag → antwoord","vraag":"Bestaat er koffie die echt naar chocolade smaakt?","waarom":"Mensen zoeken op smaak, niet op een merknaam. Deze advertentie geeft meteen het antwoord: jullie Chocolate Bomb."},
+{"fase":"TOF","ref":"N01","titel":"Het begon met één espresso in Bali","invalshoek":"het verhaal van de maker","vraag":"Wie zit er achter dit merk?","waarom":"Stefans eigen verhaal en een echte foto maken nieuwsgierig. Mensen kopen sneller bij iemand die ze een beetje kennen."},
+{"fase":"MOF","ref":"N09","titel":"Je weet precies waar je koffie vandaan komt","invalshoek":"transparantie","vraag":"Is dit echt beter dan de koffie uit de supermarkt?","waarom":"Herkomst, hoogte, verwerking en score in één beeld. Wie twijfelt, ziet meteen waar het verschil zit."},
+{"fase":"MOF","ref":"N15","titel":"Zo ontstaat een blend van Stefan","invalshoek":"hoe het werkt","vraag":"Waarom kost deze koffie meer?","waarom":"Twintig koffies proeven, er vier tot acht kiezen en minstens 60 uur werk. Zo begrijp je waar je voor betaalt."},
+{"fase":"BOF","ref":"N16","titel":"Vier koffies, tote bag erbij","invalshoek":"een goede deal","vraag":"Ik weet niet welke ik moet kiezen.","waarom":"Jullie pakketdeal haalt de keuzestress weg: vier smaken proeven in één bestelling, met een tas erbij."}],
+"waarom":{"niche":"koffie","kop":"Zo groeien koffiemerken op Instagram.","tekst":"De meeste mensen ontdekken een nieuw koffiemerk niet via Google, maar tijdens het scrollen. Merken die daar elke week nieuwe invalshoeken testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een vaste nieuwsbrief zorgt dat die kopers terugkomen voor een nieuwe zak.",
+"stats":[{"getal":"15–25%","label":"van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"},{"getal":"70+","label":"advertenties heeft De Koffiejongens nu tegelijk live"},{"getal":"1× per week","label":"nieuwe advertenties testen houdt de kosten per aankoop laag"}],
+"bron":"Aantal advertenties: Meta Advertentiebibliotheek, 23-11-2026."},
+"nieuwsbrieven":[
+{"ref":"RE02","type":"Welkomstmail","onderwerp":"Welkom bij Fancy Beans","kop":"Welkom bij Fancy Beans","tekst":"Jullie nieuwsbrief heeft nu nog geen welkomstmail met een verhaal. Dit is de eerste mail voor nieuwe inschrijvers: Stefan vertelt hoe het begon.","punten":["Het verhaal van de espresso in Bali, in Stefans eigen woorden","Echte foto's van Stefan bij de koffieboeren","Drie beloftes: specialty, Direct Trade en minstens 60 uur per blend"]},
+{"ref":"RE03","type":"Productspotlight","onderwerp":"Welke koffie past bij jou?","kop":"Welke koffie past bij jou?","tekst":"Een mail die helpt kiezen tussen jullie bonen, op smaak en op zetmethode.","punten":["Chocolate Bomb, Golden Standard en Dark Desire naast elkaar","Per zak voor wie hij is, in één regel","Eén knop naar de webshop"]}],
+"ai_sfeer":false,"gemaakt":"2026-11-23"}
