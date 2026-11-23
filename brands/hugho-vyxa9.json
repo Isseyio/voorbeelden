@@ -1,0 +1,21 @@
+{"v":7,"slug":"hugho-vyxa9","merk":"HugHo","domein":"hugho.nl","lead_id":"2026-11-23-hugho.nl","accent":"#1D5DA4",
+"kop":"Vijf invalshoeken voor HugHo, van de stal van Gé tot de wedstrijdring.",
+"intro":"Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+"noot":"Hoi team HugHo, ik las hoe Gé op zoek ging naar natuurlijk, onbewerkt voer en uiteindelijk zijn eigen productiemethode ontwikkelde. Op de site staan 32 kruiden, een duidelijk voeradvies en ruiters die al meer dan tien jaar met HugHo werken. Daar heb ik vijf advertenties en twee nieuwsbrieven van gemaakt, met jullie eigen foto's. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+"product_zin":"Dezelfde zak voer",
+"product":{"naam":"HugHo Kruidenmix","tekst":"Dezelfde zak voer, vijf verschillende redenen om hem te kopen. Elke reden wordt een eigen advertentie."},
+"fan":[2,1,5],
+"funnel_obs":"Wat ik zag: HugHo heeft vier eigen advertenties in de advertentiebibliotheek van Meta, de laatste van mei, en nu staat er niets live. Met elke week een nieuwe invalshoek blijf je zichtbaar voor ruiters die nu aan het scrollen zijn.",
+"advertenties":[
+{"fase":"TOF","ref":"N02","titel":"Dressuur en springen","invalshoek":"het gevoel","vraag":"Is dit voer voor een paard zoals het mijne?","waarom":"Twee echte foto's van jullie ruiters laten in één blik zien dat het voer past bij paarden die werken, welke discipline ook."},
+{"fase":"TOF","ref":"N06","titel":"Gé maakte het zelf","invalshoek":"het verhaal van de maker","vraag":"Wie zit er achter dit merk?","waarom":"Een oprichter met een eigen productiemethode is een reden om te stoppen met scrollen. De kenmerken op de zak vertellen meteen wat hem anders maakt."},
+{"fase":"MOF","ref":"N09","titel":"Dit zit erin, meer niet","invalshoek":"transparantie","vraag":"Wat zit er eigenlijk in, en zit er melasse in?","waarom":"Ruiters lezen etiketten. Alle ingrediënten in één raster, plus wat er niet in zit, beantwoordt de belangrijkste twijfel."},
+{"fase":"MOF","ref":"N10","titel":"Hoeveel per dag?","invalshoek":"hoe het werkt","vraag":"Hoeveel moet ik geven, en kom ik dan uit met een zak?","waarom":"Jullie voeradvies per werkniveau maakt overstappen makkelijk. Gratis advies erbij haalt de drempel weg."},
+{"fase":"BOF","ref":"N16","titel":"€36,99, verzending inbegrepen","invalshoek":"een goede deal","vraag":"Wat kost het nou echt, met verzenden erbij?","waarom":"De aanbieding en de all-in prijs zijn het laatste duwtje, en de review van Stal Keysershof laat zien dat ruiters blijven."}],
+"waarom":{"niche":"paardenvoer","kop":"Zo groeien paardenvoermerken op Instagram.","tekst":"Ruiters ontdekken nieuw voer vaak niet via Google, maar tijdens het scrollen, bij een stalgenoot of een ruiter die ze volgen. Merken die daar elke week nieuwe invalshoeken testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Voer is een terugkerende aankoop, dus een vaste nieuwsbrief zorgt dat die kopers terugkomen voor de volgende zak.",
+"stats":[{"getal":"20–30%","label":"van de online omzet komt bij dierenmerken vaak via Instagram en Facebook"},{"getal":"10+","label":"advertenties heeft Pavo nu tegelijk live in Nederland"},{"getal":"1× per week","label":"nieuwe advertenties testen houdt de kosten per aankoop laag"}],
+"bron":"Aantal advertenties: Meta Advertentiebibliotheek, 23-11-2026."},
+"nieuwsbrieven":[
+{"ref":"RE01","type":"Merkverhaal","onderwerp":"Waarom Gé zijn eigen paardenvoer ging maken","kop":"Waarom Gé zijn eigen paardenvoer ging maken","tekst":"Op de site is nog geen nieuwsbriefaanmelding. Deze mail kan de eerste zijn die nieuwe klanten krijgen: het verhaal van Gé, wat er in de zak zit en een uitnodiging voor gratis voeradvies.","punten":["Het verhaal van Gé en de eigen productiemethode","Drie kenmerken: natuurlijke ingrediënten, lage productietemperatuur, 32 kruiden en planten","Afsluiting met gratis voeradvies"]},
+{"ref":"RE06","type":"Actie","onderwerp":"25 zakken Kruidenmix, in één keer op stal","kop":"25 zakken Kruidenmix, in één keer op stal","tekst":"Een mail rond jullie echte pallet actie, voor klanten met meerdere paarden.","punten":["€509,50 in plaats van €727,50 voor 25 zakken","All-in prijs, verzending inbegrepen","Bestellen kan ook telefonisch"]}],
+"ai_sfeer":false,"gemaakt":"2026-11-23"}
