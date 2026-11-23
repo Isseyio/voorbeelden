@@ -1,0 +1,21 @@
+{"v":7,"slug":"roostr-ftb7v","merk":"Roostr","domein":"roostr.nl","lead_id":"2026-11-23-roostr.nl","accent":"#1D1D1B",
+"kop":"Vijf invalshoeken voor Roostr, van eerste blik tot studiobezoek.",
+"intro":"Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+"noot":"Hoi team Roostr, ik zag hoe sterk jullie projectfoto's zijn: een Allure onder een overkapping in de herfst, een Wave op een dakterras in Amsterdam. Bij een keuken van een paar duizend euro twijfelen mensen lang, dus je hebt meer nodig dan één reden. Ik heb er vijf uitgewerkt, met jullie eigen foto's. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+"product_zin":"Dezelfde buitenkeuken",
+"product":{"naam":"Rubix","tekst":"Dezelfde buitenkeuken, vijf verschillende redenen om hem te kopen. Elke reden wordt een eigen advertentie."},
+"fan":[2,1,5],
+"funnel_obs":"Wat ik zag: de vier advertenties die nu live staan vragen allemaal hetzelfde: download de brochure. Dat is één stap in de funnel. Voor mensen die Roostr nog niet kennen, en voor mensen die al twijfelen tussen modellen, staat er nu niets.",
+"advertenties":[
+{"fase":"TOF","ref":"N07","titel":"Drie buitenkeukens, één voor jouw tuin","invalshoek":"kiezen uit varianten","vraag":"Wat kost zo'n buitenkeuken eigenlijk?","waarom":"Drie modellen met hun vanafprijs maken meteen duidelijk wat er kan. Wie scrolt, weet in één blik waar hij begint."},
+{"fase":"TOF","ref":"N03","titel":"Een buitenkeuken die gewoon buiten blijft staan","invalshoek":"probleem → oplossing","vraag":"Moet zo'n keuken in de winter niet naar binnen?","waarom":"De grootste twijfel bij een buitenkeuken is het weer. Een echte projectfoto in de herfst laat zien dat dat bij Roostr geen probleem is."},
+{"fase":"MOF","ref":"N14","titel":"Gemaakt om 20 jaar buiten te staan","invalshoek":"kenmerken op een rij","vraag":"Is dit het geld waard?","waarom":"Garantie, hittebestendige werkbladen en je eigen kamado: drie concrete redenen naast elkaar helpen bij een grote aankoop."},
+{"fase":"MOF","ref":"N15","titel":"Eerst in 3D in jouw tuin","invalshoek":"hoe het werkt","vraag":"Hoe weet ik of hij past?","waarom":"De configurator en de 3D-tekening halen het risico weg. Je ziet je keuken al staan voordat je iets beslist."},
+{"fase":"BOF","ref":"N17","titel":"9,7 uit 44 reviews","invalshoek":"zekerheid","vraag":"Kan ik Roostr vertrouwen met zo'n bedrag?","waarom":"Echte reviews, tien jaar garantie en een studio om langs te gaan. Dat is het laatste duwtje voor een afspraak."}],
+"waarom":{"niche":"buitenkeukens","kop":"Zo groeien woonmerken op Instagram.","tekst":"De meeste mensen ontdekken een buitenkeuken niet via Google, maar tijdens het scrollen, bij een foto van een mooie tuin. Merken die daar elke week nieuwe invalshoeken testen, vinden steeds nieuwe kopers. Bij een grote aankoop helpt een vaste nieuwsbrief mensen in de maanden dat ze nog twijfelen.",
+"stats":[{"getal":"20–30%","label":"van de online omzet komt bij woonmerken vaak via Instagram en Facebook"},{"getal":"40+","label":"advertenties heeft Chique Buiten Leven nu tegelijk live"},{"getal":"1× per week","label":"nieuwe advertenties testen houdt de kosten per aankoop laag"}],
+"bron":"Aantal advertenties: Meta Advertentiebibliotheek, 23-11-2026."},
+"nieuwsbrieven":[
+{"ref":"RE05","type":"Welkomstmail","onderwerp":"Welkom bij Roostr","kop":"Welkom bij Roostr. Buiten smaakt beter.","tekst":"Wie zich inschrijft via 'Stay informed' krijgt nu nog geen mail. Deze welkomstmail kan de eerste zijn.","punten":["Jullie eigen motto en een echte projectfoto bovenaan","Drie redenen: 365 dagen buiten, eigen fabriek, modulair","Een knop naar de 3D-configurator en de studio"]},
+{"ref":"RE04","type":"Assortimentsmail","onderwerp":"Welke Roostr past bij jouw tuin?","kop":"Welke Roostr past bij jouw tuin?","tekst":"Een mail die helpt kiezen tussen Rubix, Allure en Wave, met prijzen en een echte review.","punten":["Drie modellen met vanafprijs en waar ze in uitblinken","Een blok voor maatwerk met 3D-tekening","Jullie 9,7 uit 44 reviews met de woorden van een klant"]}],
+"ai_sfeer":false,"gemaakt":"2026-11-23"}
