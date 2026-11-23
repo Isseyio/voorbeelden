@@ -1,0 +1,21 @@
+{"v":7,"slug":"joab-fstwp","merk":"JOAB Houten meubels","domein":"joabhoutenmeubels.nl","lead_id":"2026-11-23-joabhoutenmeubels.nl","accent":"#A19985",
+"kop":"Vijf invalshoeken voor JOAB, van de kinderkamer tot de werkplaats op Urk.",
+"intro":"Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+"noot":"Hoi team JOAB, ik zag dat jullie sinds 2014 stapelbedden tot vier personen maken in jullie werkplaats op Urk, met levenslange garantie op de constructie. De foto's van jullie bedden in echte kinderkamers vond ik sterk, dus daar heb ik vijf advertenties en twee nieuwsbrieven van gemaakt. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+"product_zin":"Hetzelfde stapelbed",
+"product":{"naam":"3 pers. stapelbed","tekst":"Hetzelfde stapelbed, vijf verschillende redenen om het te kopen. Elke reden wordt een eigen advertentie."},
+"fan":[1,2,5],
+"funnel_obs":"Wat ik zag: in de advertentiebibliotheek van Meta vond ik geen advertenties van JOAB. Ouders die een stapelbed zoeken, scrollen nu langs merken als PETIT PUK. Met elke week een nieuwe invalshoek kom je daar tussen te staan.",
+"advertenties":[
+{"fase":"TOF","ref":"N03","titel":"Drie kinderen, één kamer","invalshoek":"probleem → oplossing","vraag":"Hoe krijg ik drie kinderen op één kamer?","waarom":"Ouders met een kleine kamer herkennen het probleem meteen. Het antwoord en de prijs staan er direct bij, met een echte foto van het bed."},
+{"fase":"TOF","ref":"N07","titel":"Hetzelfde bed, jouw kleur","invalshoek":"varianten","vraag":"Past dat bed wel bij onze kamer?","waarom":"Drie echte bedden naast elkaar laten zien dat je kiest: onbewerkt, dekkend wit of een RAL-kleur. Zo ziet iedereen zijn eigen kamer al voor zich."},
+{"fase":"MOF","ref":"N14","titel":"Een stapelbed dat het volhoudt","invalshoek":"kenmerken-checklist","vraag":"Is het stevig genoeg voor kinderen die erop klimmen?","waarom":"Drie vinkjes beantwoorden de grootste zorg van ouders: massief hout zonder splinters, levenslange garantie en verstevigen tot 160 kg."},
+{"fase":"MOF","ref":"N15","titel":"Zo komt jouw bed thuis","invalshoek":"hoe het werkt","vraag":"Hoe werkt dat, bestellen bij een werkplaats?","waarom":"Maatwerk voelt ingewikkeld. Vier simpele stappen, van kiezen tot montage op locatie, halen die drempel weg."},
+{"fase":"BOF","ref":"N17","titel":"Levenslang garantie","invalshoek":"zekerheid","vraag":"Wat als er na een paar jaar iets mis is?","waarom":"Zonder korting te geven is levenslange garantie op de constructie het sterkste laatste duwtje. Het laat zien dat jullie achter je bedden staan."}],
+"waarom":{"niche":"wonen en interieur","kop":"Zo groeien interieurmerken op Instagram.","tekst":"Ouders zoeken een stapelbed vaak niet via Google, maar zien het voorbijkomen tijdens het scrollen. Merken die daar elke week nieuwe invalshoeken testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een nieuwsbrief zorgt dat mensen die nog twijfelen terugkomen als de kinderen groter worden.",
+"stats":[{"getal":"20–30%","label":"van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"},{"getal":"40+","label":"advertenties heeft PETIT PUK nu tegelijk live in Nederland"},{"getal":"1× per week","label":"nieuwe advertenties testen houdt de kosten per aankoop laag"}],
+"bron":"Aantal advertenties: Meta Advertentiebibliotheek, 23-11-2026."},
+"nieuwsbrieven":[
+{"ref":"RE03","type":"Vergelijking","onderwerp":"Twee of drie kinderen op één kamer?","kop":"Twee of drie kinderen op één kamer?","tekst":"Op de site is nog geen nieuwsbriefaanmelding. Met een eenvoudige aanmelding kan deze mail ouders helpen kiezen tussen het stapelbed voor twee en voor drie, met een vergelijkingstabel.","punten":["Een echte kinderkamer als openingsfoto","2 pers. en 3 pers. stapelbed naast elkaar, met prijs","Tabel met hout, kleur, verstevigen en garantie"]},
+{"ref":"RE02","type":"Productspotlight","onderwerp":"Slapen boven, huiswerk eronder","kop":"Hoogslaper met bureau en boekenplank","tekst":"Een mail over één product: de hoogslaper met bureau. Groot beeld, één duidelijke knop en daaronder de maten en opties.","punten":["Claim: slapen en studeren in één","Groot beeld van het bed in een echte kamer","Maten, kleuren, verstevigen en garantie"]}],
+"ai_sfeer":false,"gemaakt":"2026-11-23"}
