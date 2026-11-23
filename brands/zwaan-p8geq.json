@@ -1,0 +1,21 @@
+{"v":7,"slug":"zwaan-p8geq","merk":"ZWAAN","domein":"lzwaan.com","lead_id":"2026-11-23-lzwaan.com","accent":"#5E6B45",
+"kop":"Vijf invalshoeken voor ZWAAN, van een trui die pas bestaat als je hem bestelt tot een giftcard voor de feestdagen.",
+"intro":"Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+"noot":"Hoi Lara, ik zag dat je bij ZWAAN alles zelf ontwerpt en naait, en dat er niets op voorraad ligt tot iemand iets bestelt. Met je eigen foto's heb ik vijf advertenties en twee nieuwsbrieven gemaakt. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+"product_zin":"Dezelfde coltrui",
+"product":{"naam":"Turtleneck Miles merino","tekst":"Dezelfde coltrui, vijf verschillende redenen om hem te kopen. Elke reden wordt een eigen advertentie."},
+"fan":[1,2,5],
+"funnel_obs":"Wat ik zag: in de advertentiebibliotheek van Meta vond ik geen advertenties van ZWAAN. Het verhaal dat de site zo sterk maakt, één maker, alles op bestelling en de eigen winkel in Middelburg, komt nu dus nog niet in beeld bij mensen die ZWAAN niet kennen.",
+"advertenties":[
+{"fase":"TOF","ref":"N01","titel":"Die vriendin","invalshoek":"iemand zoals ik","vraag":"Wat draagt zij toch altijd?","waarom":"Mensen herkennen zich in een vriendin met een eigen stijl. De kop vertelt meteen het bijzondere: haar trui werd pas genaaid toen zij hem bestelde."},
+{"fase":"TOF","ref":"N08","titel":"Niets op voorraad","invalshoek":"product in gebruik","vraag":"Wat bedoelen ze met made to order?","waarom":"Je eigen zin 'Niets op voorraad. Alles voor jou.' werkt als kop. Met de coltrui in beeld en de prijs erbij weet iemand meteen wat hij kan kopen."},
+{"fase":"MOF","ref":"N15","titel":"Zo komt jouw stuk tot stand","invalshoek":"hoe het werkt","vraag":"Hoe werkt bestellen als het nog gemaakt moet worden?","waarom":"Je vier stappen van de site, met een foto uit het atelier. Wie twijfelt over op bestelling kopen, ziet dat het gewoon vier simpele stappen zijn."},
+{"fase":"MOF","ref":"N12","titel":"Eén maker, sinds 2018","invalshoek":"bewijs","vraag":"Is dit wel een serieus label?","waarom":"Een tijdlijn met echte feiten, van de start in 2018 tot PhotoVOGUE en de eigen winkel, plus de 5,0 op Google. Dat geeft vertrouwen zonder grote woorden."},
+{"fase":"BOF","ref":"N16","titel":"Giftcard vanaf €10","invalshoek":"seizoen/cadeau","vraag":"Wat geef ik als ik haar maat niet weet?","waarom":"De giftcard bestaat echt en lost de grootste twijfel bij kleding als cadeau op: de maat. Precies het goede duwtje richting de feestdagen."}],
+"waarom":{"niche":"mode","kop":"Zo groeien modemerken op Instagram.","tekst":"De meeste mensen ontdekken een nieuw modelabel niet via Google, maar tijdens het scrollen. Juist een label met een eigen verhaal valt daar op. Merken die elke week een nieuwe invalshoek testen, vinden steeds nieuwe kopers, en een welkomstmail zorgt dat wie zich aanmeldt voor de atelierbrief ook iets bestelt.",
+"stats":[{"getal":"25–35%","label":"van de online omzet komt bij modemerken vaak via Instagram en Facebook"},{"getal":"20+","label":"advertenties heeft MUD Jeans nu tegelijk live in Nederland"},{"getal":"1× per week","label":"nieuwe advertenties testen houdt de kosten per aankoop laag"}],
+"bron":"Aantal advertenties: Meta Advertentiebibliotheek, 23-11-2026."},
+"nieuwsbrieven":[
+{"ref":"RE05","type":"Welkomstmail","onderwerp":"Welkom bij de atelierbrief","kop":"Welkom bij de atelierbrief","tekst":"Op de site kun je je aanmelden voor de atelierbrief, maar ik zag geen welkomstmail. Deze mail stelt Lara voor, legt in vier stappen uit hoe made to order werkt en laat drie stukken uit de collectie zien.","punten":["Een foto van Lara aan de naaimachine","De vier stappen van bestelling tot dragen","Drie stukken met prijs en Lara's eigen zin over de seizoenen"]},
+{"ref":"RE01","type":"Productspotlight","onderwerp":"Er is er altijd maar één","kop":"Er is er altijd maar één","tekst":"Een mail over de one of a kind-stukken van restlapjes en oude kledingstukken. Omdat elk stuk maar één keer bestaat, geeft dat een eerlijke reden om niet te lang te wachten.","punten":["De remix-jurk op het strand als grote foto","Drie unieke stukken met prijs","Eén knop naar de hele one of a kind-collectie"]}],
+"ai_sfeer":false,"gemaakt":"2026-11-23"}
