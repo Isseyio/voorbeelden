@@ -1,0 +1,21 @@
+{"v":7,"slug":"vanhammel-mbgs3","merk":"Van Hammel","domein":"vanhammel.nl","lead_id":"2026-11-23-vanhammel.nl","accent":"#8C8074",
+"kop":"Vijf invalshoeken voor Van Hammel, van de zoekbalk tot de kraamvisite.",
+"intro":"Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+"noot":"Hoi team Van Hammel, ik zag dat Christa alles zelf ontwerpt en dat Henry het inpakt, en dat klanten jullie een 9,7 geven. Met jullie eigen foto's van de geboorteposters heb ik vijf advertenties en twee nieuwsbrieven gemaakt. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+"product_zin":"Dezelfde geboorteposter",
+"product":{"naam":"Geboorteposter met geboortedetails","tekst":"Dezelfde geboorteposter, vijf verschillende redenen om hem te kopen. Elke reden wordt een eigen advertentie."},
+"fan":[2,1,5],
+"funnel_obs":"Wat ik zag: in de advertentiebibliotheek van Meta staan nu twee advertenties van Van Hammel, allebei met Fijne Feestdagen. Made for Moments heeft er op dit moment meer dan 70 live in Nederland. Met een vaste set van kennismaken, overtuigen en kopen staan de geboorteposters het hele jaar tussen die merken, niet alleen rond de feestdagen.",
+"advertenties":[
+{"fase":"TOF","ref":"N05","titel":"De zoekopdracht","invalshoek":"zoekvraag → antwoord","vraag":"Wat geef ik als kraamcadeau dat niet in de kast verdwijnt?","waarom":"Iedereen die op kraamvisite gaat, stelt zich die vraag. De advertentie geeft meteen het antwoord, met de walvisposter in een echte babykamer."},
+{"fase":"TOF","ref":"N04","titel":"Lieve kraamvisite","invalshoek":"humor","vraag":"Nog een knuffel? Die hebben ze vast al.","waarom":"Een knipoog naar de stapel knuffels laat mensen glimlachen en stoppen met scrollen. Drie echte ontwerpen eronder laten zien wat wel past."},
+{"fase":"MOF","ref":"N10","titel":"Alles op één poster","invalshoek":"alles-in-één","vraag":"Wat komt er eigenlijk allemaal op?","waarom":"Naam, tijd, gewicht, lengte, plaats, ouders en sterrenbeeld in één lijst. Wie twijfelt ziet in één oogopslag hoe persoonlijk het is, voor €11,95."},
+{"fase":"MOF","ref":"N13","titel":"Bloemen of een poster?","invalshoek":"vergelijken","vraag":"Is een bos bloemen niet makkelijker?","waarom":"Bloemen zijn na een week weg, een poster hangt er over tien jaar nog. Die vergelijking maakt de keuze voor de twijfelaar makkelijk."},
+{"fase":"BOF","ref":"N16","titel":"Een 9,7 van klanten","invalshoek":"zekerheid","vraag":"Komt het wel goed en op tijd aan?","waarom":"De 9,7, een echte review, Christa en Henry zelf en gratis inpakken geven het laatste duwtje zonder dat er een korting nodig is."}],
+"waarom":{"niche":"kids & baby","kop":"Zo groeien babymerken op Instagram.","tekst":"Aanstaande ouders en kraamvisite ontdekken cadeaus vooral tijdens het scrollen. Merken die daar elke week een nieuwe invalshoek testen, vinden steeds nieuwe kopers en houden hun kosten per aankoop laag. Een welkomstmail zorgt dat wie nu kijkt, terugkomt als het kindje er is.",
+"stats":[{"getal":"20–30%","label":"van de online omzet komt bij babymerken vaak via Instagram en Facebook"},{"getal":"70+","label":"advertenties heeft Made for Moments nu tegelijk live in Nederland"},{"getal":"1× per week","label":"nieuwe advertenties testen houdt de kosten per aankoop laag"}],
+"bron":"Aantal advertenties: Meta Advertentiebibliotheek, 23-11-2026."},
+"nieuwsbrieven":[
+{"ref":"RE02","type":"Welkomstmail","onderwerp":"Fijn dat je er bent","kop":"Welkom bij Van Hammel","tekst":"Op de site zag ik nog geen aanmeldformulier. Met een formulier en deze welkomstmail stellen Henry en Christa zich voor en zetten ze meteen de geboorteposter met alle details in de spotlight.","punten":["Henry en Christa stellen zichzelf voor","De geboortedetailsposter met het sterrenbeeld dat jullie er zelf op zetten","A4 of A3, FSC-papier, gratis ingepakt en de 9,7 van klanten"]},
+{"ref":"RE03","type":"Vergelijking","onderwerp":"Welke geboorteposter past bij jullie kleintje?","kop":"Twee ontwerpen naast elkaar","tekst":"Een mail die twee geboorteposters vergelijkt, zodat twijfelaars sneller kiezen, met een knop naar alle acht ontwerpen.","punten":["Geboortedetails en Regenboog naast elkaar","Een tabel met wat er op elk ontwerp staat","Eén knop naar alle geboorteposters"]}],
+"ai_sfeer":false,"gemaakt":"2026-11-23"}
