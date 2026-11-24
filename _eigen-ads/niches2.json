@@ -208,5 +208,47 @@
    "ma_review": "Eindelijk een routine die ik volhoud.",
    "ma_static": "Nieuw: de avondroutine"
   }
+ },
+ "vitaminen": {
+  "label": "vitaminemerk",
+  "shop": "vitaminewebshop",
+  "pill": "Voor vitamine- en supplementenmerken",
+  "mock": {
+   "brand": "ORVELA",
+   "product": "Vitamine D3 + K2",
+   "price": 24,
+   "color": "#3E6B4F",
+   "img": "vitaminen",
+   "em_welkom": "direct, met uitleg per vitamine",
+   "em_naaankoop": "dag 7: zo neem je D3 + K2 in",
+   "em_winback": "dag 50: je potje is bijna leeg",
+   "em_subject": "Welkom bij ORVELA. Je 10% staat klaar",
+   "em_kop": "Welkom bij ORVELA",
+   "em_tekst": "Eerlijke vitaminen, helder uitgelegd. Hier is 10% op je eerste bestelling.",
+   "ma_hook": "Wat zit er in jouw potje?",
+   "ma_review": "Fijn dat ik eindelijk snap wat ik slik.",
+   "ma_static": "Elke 2 maanden vanzelf in huis"
+  }
+ },
+ "keramiek": {
+  "label": "keramiekmerk",
+  "shop": "keramiekwebshop",
+  "pill": "Voor interieur- en keramiekmerken",
+  "mock": {
+   "brand": "MIRREN",
+   "product": "Steengoed Mok Zand",
+   "price": 34,
+   "color": "#9A6A4F",
+   "img": "keramiek",
+   "em_welkom": "direct, met het verhaal van de studio",
+   "em_naaankoop": "dag 4: zo blijft je steengoed mooi",
+   "em_winback": "dag 60: de nieuwe serie is er",
+   "em_subject": "Welkom bij MIRREN. Je 10% staat klaar",
+   "em_kop": "Welkom bij MIRREN",
+   "em_tekst": "Handgemaakt in kleine series. Hier is 10% op je eerste bestelling.",
+   "ma_hook": "Zo maak ik één mok.",
+   "ma_review": "Nog mooier dan op de foto.",
+   "ma_static": "Nieuwe serie: Zand"
+  }
  }
 }
