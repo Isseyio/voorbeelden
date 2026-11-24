@@ -1,0 +1,21 @@
+{"v":7,"slug":"mirella-u9ar5","merk":"Mirella Home","domein":"mirellahome.nl","lead_id":"2026-11-24-mirellahome.nl","accent":"#8A7360",
+"kop":"Vijf redenen om een eetkamerbank op maat van Mirella te kiezen.",
+"intro":"Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+"noot":"Hoi team Mirella Home, ik zag de vele eethoeken op jullie inspiratiepagina en dacht: die foto's verdienen het om vaker gezien te worden. Met jullie eigen foto's heb ik vijf advertenties en twee nieuwsbrieven gemaakt. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+"product_zin":"Dezelfde eetkamerbank",
+"product":{"naam":"Eetkamerbank op maat","tekst":"Dezelfde eetkamerbank, vijf verschillende redenen om hem te kopen. Elke reden wordt een eigen advertentie."},
+"fan":[1,3,4],
+"funnel_obs":"Wat ik zag: in de advertentiebibliotheek van Meta staat nu één advertentie van Mirella actief, terwijl jullie tientallen echte foto's van eethoeken bij klanten hebben. Met een paar invalshoeken naast elkaar zie je snel welke het beste werkt.",
+"advertenties":[
+{"fase":"TOF","ref":"N01","titel":"De vriendin met de eetbank","invalshoek":"iemand zoals ik","vraag":"Waarom is het bij haar altijd zo gezellig aan tafel?","waarom":"Mensen kopen geen bank, ze kopen het gevoel van lang natafelen. Een echte eethoek van een klant laat dat zien zonder uitleg."},
+{"fase":"TOF","ref":"N03","titel":"Past precies in jouw eethoek","invalshoek":"probleem → oplossing","vraag":"Waarom is elke bank net te lang of te kort voor mijn nis?","waarom":"Dit is het probleem waar mensen tegenaan lopen bij een standaard bank. Lengtes van 160 tot 380 cm lossen het in één zin op."},
+{"fase":"MOF","ref":"N13","titel":"Standaard of op maat?","invalshoek":"vergelijken","vraag":"Is maatwerk het extra geld wel waard?","waarom":"Wie twijfelt, vergelijkt. Naast elkaar zie je meteen wat je bij Mirella extra krijgt: jouw maat, keuze uit 26 stoffen en kunstleer, een stopcontact in de bank en later opnieuw stofferen."},
+{"fase":"MOF","ref":"N15","titel":"Zo komt jouw bank tot stand","invalshoek":"hoe het werkt","vraag":"Hoe werkt dat eigenlijk, een bank laten maken?","waarom":"Maatwerk voelt ingewikkeld. Jullie eigen vier stappen, van design tot montage, en de productietijd van 4 tot 8 weken halen die drempel weg."},
+{"fase":"BOF","ref":"N17","titel":"Voel de stof eerst","invalshoek":"zekerheid","vraag":"En als de stof in het echt tegenvalt?","waarom":"Bij een bank van ruim duizend euro is de stof de laatste twijfel. Een staal voor €1, gratis afhalen in Vlaardingen en een bank die je later kunt herstofferen geven zekerheid zonder korting."}],
+"waarom":{"niche":"wonen en interieur","kop":"Zo groeien interieurmerken op Instagram.","tekst":"De meeste mensen vinden hun nieuwe eethoek niet via Google, maar tijdens het scrollen, op zoek naar inspiratie. Merken die daar elke week een nieuwe invalshoek testen, komen steeds bij nieuwe mensen in beeld. Bij een aankoop waar mensen lang over nadenken, zorgt een nieuwsbrief dat ze jullie niet vergeten.",
+"stats":[{"getal":"20–30%","label":"van de online omzet komt bij interieurmerken vaak via Instagram en Facebook"},{"getal":"100+","label":"advertenties heeft Plein 5 nu tegelijk live"},{"getal":"1× per week","label":"nieuwe advertenties testen houdt de kosten per aankoop laag"}],
+"bron":"Aantal advertenties: Meta Advertentiebibliotheek, 24-11-2026."},
+"nieuwsbrieven":[
+{"ref":"RE01","type":"Welkomstmail","onderwerp":"Welkom bij Mirella","kop":"Welkom bij Mirella","tekst":"Volgens mij kun je je op jullie site nog niet inschrijven voor een nieuwsbrief. Dit is de eerste mail die nieuwe inschrijvers dan krijgen: het verhaal van het atelier en wat maatwerk betekent.","punten":["Een echte eethoek als hero, met 15 jaar maatwerk","Een bank met vier labels: lengte, hoogte, stof en productietijd","Afsluiting met een afspraak in het atelier of advies aan huis"]},
+{"ref":"RE04","type":"Assortiment","onderwerp":"Vier banken, elk op jouw maat","kop":"Vier banken, elk op jouw maat","tekst":"Voor wie al twijfelt: vier eetkamerbanken naast elkaar, elk met een korte omschrijving, de vanafprijs en een knop.","punten":["Napoli, Como, Toscana en Marco onderbak met vanafprijs","Echte foto's van banken bij klanten","Afsluiting met een stofstaal voor €1"]}],
+"ai_sfeer":false,"gemaakt":"2026-11-24"}
