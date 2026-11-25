@@ -1,0 +1,21 @@
+{"v":7,"slug":"sprout-qdft9","merk":"Sprout Coffee Roasters","domein":"sproutcoffeeroasters.art","lead_id":"2026-11-25-sproutcoffeeroasters.art","accent":"#111111",
+"kop":"Vijf redenen om Cool Cat te proberen.",
+"intro":"Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+"noot":"Hoi team Sprout, jullie zakken met de zwarte figuren herken je overal, en een koffie die naar aardbei smaakt is een verhaal op zich. Daarmee heb ik vijf advertenties en twee nieuwsbrieven gemaakt, met jullie eigen foto's en productbeelden. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+"product_zin":"Dezelfde zak koffie",
+"product":{"naam":"Cool Cat","tekst":"Dezelfde zak koffie, vijf verschillende redenen om hem te kopen. Elke reden wordt een eigen advertentie."},
+"fan":[1,3,5],
+"funnel_obs":"Wat ik zag: Sprout heeft in Nederland nu geen advertenties live. Wakuli heeft er meer dan 70 tegelijk live, Koffie Kenner meer dan 40. Deze set begint met de smaak (koffie die naar aardbei smaakt) en de mensen achter de bar, legt daarna het verschil tussen jullie twee dagelijkse koffies en het proeven en branden uit, en eindigt met iets wat jullie al bieden: gratis verzending vanaf €50.",
+"advertenties":[
+{"fase":"TOF","ref":"N05","titel":"Koffie die naar aardbei smaakt","invalshoek":"zoekvraag → antwoord","vraag":"Bestaat dat echt, koffie die naar fruit smaakt?","waarom":"Mensen zoeken naar een smaak, niet naar een merk. Een zoekbalk met een verrassende vraag en Cool Cat als antwoord laat meteen zien wat Sprout anders maakt."},
+{"fase":"TOF","ref":"N01","titel":"Die collega met goede koffie","invalshoek":"iemand zoals ik","vraag":"Is dit koffie voor mensen zoals ik?","waarom":"Iedereen kent iemand die altijd net betere koffie zet. Een echte foto achter de bar maakt dat herkenbaar en koppelt het gevoel aan de naam Sprout."},
+{"fase":"MOF","ref":"N13","titel":"New school of old school","invalshoek":"vergelijken","vraag":"Welke van de twee moet ik nemen?","waarom":"Twee koffies naast elkaar met wat ze delen en waarin ze verschillen maken de keuze makkelijk. Wie twijfelt, kiest er meteen een."},
+{"fase":"MOF","ref":"N15","titel":"Proeven, branden, opnieuw proeven","invalshoek":"hoe het werkt","vraag":"Waarom is dit beter dan koffie uit de supermarkt?","waarom":"Drie korte stappen met een echte foto van het proeven laten zien hoeveel werk er in een zak zit. Dat maakt de prijs logisch."},
+{"fase":"BOF","ref":"N17","titel":"Gratis verzonden vanaf €50","invalshoek":"een goede deal","vraag":"Wat kost de verzending?","waarom":"Er is geen korting nodig. Gratis verzending vanaf €50 bestaat al en vier echte zakken met prijs laten zien hoe snel je daar bent."}],
+"waarom":{"niche":"koffie","kop":"Zo groeien koffiemerken op Instagram.","tekst":"De meeste mensen ontdekken een nieuwe koffiebrander niet via Google, maar tijdens het scrollen. Wie daar elke week nieuwe advertenties test, vindt steeds nieuwe thuisdrinkers. Een nieuwsbrief zorgt dat ze terugkomen als de zak leeg is.",
+"stats":[{"getal":"15–25%","label":"van de online omzet komt bij food- en drinkmerken vaak via Instagram en Facebook"},{"getal":"70+","label":"advertenties heeft Wakuli nu tegelijk live in Nederland"},{"getal":"1× per week","label":"nieuwe advertenties testen houdt de kosten per aankoop laag"}],
+"bron":"Aantal advertenties: Meta Advertentiebibliotheek, 25-11-2026."},
+"nieuwsbrieven":[
+{"ref":"RE07","type":"Welkomstmail","onderwerp":"Welkom bij Sprout","kop":"Koffie hoort je te verrassen.","tekst":"Er staat nu alleen een kleine link 'Email sign up' in de footer, zonder welkomstmail erachter. Deze mail vertelt wat Sprout zoekt in een koffie en geeft drie smaken om mee te beginnen.","punten":["Het verhaal in twee zinnen","Drie startkoffies met smaak en prijs","Gratis verzending vanaf €50 en ophalen bij de branderij"]},
+{"ref":"RE03","type":"Vergelijking","onderwerp":"Espresso, filter of omni?","kop":"Welke koffie past bij jouw manier van zetten?","tekst":"Een mail die in tien seconden uitlegt welke koffie bij welk zetmiddel hoort, met één koffie per profiel. Zo kiezen nieuwe klanten makkelijker hun tweede zak.","punten":["Espresso: Cool Cat","Filter: Papayo My Guy-O","Omni: Banana Pirate Rum"]}],
+"ai_sfeer":false,"gemaakt":"2026-11-25"}
