@@ -1,0 +1,21 @@
+{"v":7,"slug":"tkboilies-nkyru","merk":"TKBoilies","domein":"tkboilies.nl","lead_id":"2026-11-25-tkboilies.nl","accent":"#D2621C",
+"kop":"Vijf redenen om juist deze boilies op je stek te gooien.",
+"intro":"Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+"noot":"Hoi team TKBoilies, jullie foto's van zes smaken boilies in twee handen laten in één oogopslag het verschil zien. Daarmee heb ik vijf advertenties en twee nieuwsbrieven gemaakt, rond de readymades en de kilootjes. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+"product_zin":"Dezelfde zak boilies",
+"product":{"naam":"Readymades, 5 kg","tekst":"Dezelfde zak boilies, vijf verschillende redenen om hem te kopen. Elke reden wordt een eigen advertentie."},
+"fan":[2,1,5],
+"funnel_obs":"Wat ik zag: TKBoilies heeft in Nederland nu geen advertenties live. Cuyten Boilies en Originals hebben er samen meer dan 20, bijna allemaal met Black Friday-korting. Deze set doet het zonder korting: eerst nieuwsgierig maken met zes smaken en een grap, dan uitleggen wat erin zit en hoe het gemaakt wordt, en tot slot een kleine eerste aankoop met een kilootje.",
+"advertenties":[
+{"fase":"TOF","ref":"N07","titel":"Zes smaken","invalshoek":"varianten","vraag":"Welke boilie past bij mijn water?","waarom":"Zes kleuren in dezelfde twee handen laten in één seconde zien hoeveel keus er is. Karpervissers stoppen met scrollen omdat ze meteen hun eigen smaak zoeken."},
+{"fase":"TOF","ref":"N04","titel":"Sorry, karpers","invalshoek":"humor","vraag":"Wie is dit merk eigenlijk?","waarom":"Een knipoog valt op tussen alle kortingsadvertenties. Een excuusbrief aan de karpers zegt zonder opscheppen dat de boilie werkt, en de prijs staat er gewoon onder."},
+{"fase":"MOF","ref":"N10","titel":"Dit zit erin","invalshoek":"transparantie","vraag":"Wat zit er nou precies in die boilie?","waarom":"Ervaren vissers vergelijken op eiwit en ingrediënten. Black Hunter met 21,8% ruw eiwit en een korte lijst van wat erin zit beantwoordt die vraag voordat ze hem stellen."},
+{"fase":"MOF","ref":"N15","titel":"Zo komt het bij jou","invalshoek":"hoe het werkt","vraag":"Liggen deze boilies al maanden in een magazijn?","waarom":"TKBoilies maakt pas na de bestelling, in kleine volumes. In drie stappen uitgelegd wordt dat een reden om te kiezen voor een klein merk in plaats van een grote zak uit de winkel."},
+{"fase":"BOF","ref":"N17","titel":"Begin met een kilootje","invalshoek":"zekerheid","vraag":"Wat als de karpers er niet op aanslaan?","waarom":"Er is geen korting nodig. Een kilootje vanaf €7,00 maakt de eerste aankoop klein: eerst testen op je eigen water, daarna de zak van 5 kg."}],
+"waarom":{"niche":"hengelsport","kop":"Zo groeien hengelsportmerken op Instagram.","tekst":"De meeste vissers ontdekken een nieuw aasmerk niet via Google, maar tijdens het scrollen op Instagram en Facebook. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe vissers en houden hun kosten per aankoop laag. Een nieuwsbrief zorgt daarna dat ze vóór het volgende seizoen terugkomen.",
+"stats":[{"getal":"20–30%","label":"van de online omzet komt bij sport- en outdoormerken vaak via Instagram en Facebook"},{"getal":"10+","label":"advertenties heeft Cuyten Boilies nu tegelijk live in Nederland"},{"getal":"1× per week","label":"nieuwe advertenties testen houdt de kosten per aankoop laag"}],
+"bron":"Aantal advertenties: Meta Advertentiebibliotheek, 25-11-2026."},
+"nieuwsbrieven":[
+{"ref":"RE02","type":"Productspotlight","onderwerp":"Red Mani Spy: spice, cocos en amandel","kop":"Eén boilie, goed uitgelegd.","tekst":"Een mail over één smaak: wat erin zit, hoe hij gemaakt wordt en wat je krijgt, met de foto in de hand als blikvanger.","punten":["Met de originele Robin Red","Boilie of dumbel, van 14 tot 24 mm","Of eerst een kilootje om te testen"]},
+{"ref":"RE04","type":"Assortiment","onderwerp":"Welke smaak past bij jouw water?","kop":"Zes smaken, vier om mee te beginnen.","tekst":"Een overzichtsmail die vier readymades naast elkaar zet met prijs en één zin, zodat iemand zonder te zoeken zijn smaak kiest.","punten":["Orange Trouble, Pink Creamer, Brown Tasty en Black Hunter","Prijs en smaak per boilie","Kilootje als makkelijke start"]}],
+"ai_sfeer":false,"gemaakt":"2026-11-25"}
