@@ -1,0 +1,21 @@
+{"v":7,"slug":"hippers-j6xvm","merk":"Hippers","domein":"hippers.nl","lead_id":"2026-11-25-hippers.nl","accent":"#7A3F17",
+"kop":"Vijf redenen om je tas thuis te laten.",
+"intro":"Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+"noot":"Hoi team Hippers, jullie foto's bij het groene busje op de markt vertellen in één keer waar een Hipper voor is. Daarmee heb ik vijf advertenties en twee nieuwsbrieven gemaakt, met jullie eigen foto's uit het atelier en van de markt. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+"product_zin":"Dezelfde Hipper",
+"product":{"naam":"Hipper, heuptasje aan je riem","tekst":"Dezelfde Hipper, vijf verschillende redenen om hem te kopen. Elke reden wordt een eigen advertentie."},
+"fan":[1,4,5],
+"funnel_obs":"Wat ik zag: Hippers heeft in Nederland nu geen advertenties live; de nieuwste startte op 6 oktober. La Luna Bags heeft er meer dan 70 tegelijk live, bijna allemaal met korting. Deze set laat eerst zien wie een Hipper draagt en wie hem maakt, legt daarna uit wat erin past en waarom je handen vrij zijn, en eindigt met wat Hippers echt bijzonder maakt: elke Hipper is uniek.",
+"advertenties":[
+{"fase":"TOF","ref":"N01","titel":"Die vriendin op de markt","invalshoek":"iemand zoals ik","vraag":"Is dat niet iets voor mij?","waarom":"Iedereen kent iemand die altijd met haar handen vrij over de markt loopt. Een echte foto bij het busje maakt het herkenbaar, en de naam Hipper blijft hangen."},
+{"fase":"TOF","ref":"N06","titel":"Met de hand gemaakt","invalshoek":"de maker","vraag":"Wie maakt dit eigenlijk?","waarom":"Een gezicht achter de naaimachine maakt van een tasje een verhaal. Met drie korte kenmerken ziet iemand meteen wat hij krijgt."},
+{"fase":"MOF","ref":"N14","titel":"Alles bij je, handen vrij","invalshoek":"kenmerken-checklist","vraag":"Past mijn telefoon er wel in?","waarom":"Drie vinkjes beantwoorden de vragen die mensen hebben voordat ze kopen: wat past erin, hoe draag je hem en hoe groot is hij."},
+{"fase":"MOF","ref":"N11","titel":"Je tas vasthouden: 0%","invalshoek":"humor","vraag":"Waarom zou ik een heuptas willen?","waarom":"Een grappig taartdiagram laat het voordeel voelen zonder het uit te leggen. Mensen delen het, en onthouden waarom je handen vrij wilt hebben."},
+{"fase":"BOF","ref":"N16","titel":"Elke Hipper is uniek","invalshoek":"zekerheid","vraag":"Moet ik nu kiezen of kan het later ook?","waarom":"Er is geen korting nodig. Op = op, 14 dagen bedenktijd en 4,9 uit 28 reviews geven het laatste duwtje, en wie te laat is kan een verzoek sturen."}],
+"waarom":{"niche":"tassen","kop":"Zo groeien tassenmerken op Instagram.","tekst":"De meeste mensen ontdekken een nieuw tassenmerk niet via Google, maar tijdens het scrollen op Instagram. Echte foto's van mensen die het tasje dragen werken daar het best. Een nieuwsbrief zorgt daarna dat ze terugkomen als er nieuwe exemplaren klaarliggen.",
+"stats":[{"getal":"25–35%","label":"van de online omzet komt bij tassen- en accessoiremerken vaak via Instagram en Facebook"},{"getal":"70+","label":"advertenties heeft La Luna Bags nu tegelijk live in Nederland"},{"getal":"1× per week","label":"nieuwe advertenties testen houdt de kosten per aankoop laag"}],
+"bron":"Aantal advertenties: Meta Advertentiebibliotheek, 25-11-2026."},
+"nieuwsbrieven":[
+{"ref":"RE05","type":"Welkomstmail","onderwerp":"Welkom bij de Hippers","kop":"Fijn dat je er bent.","tekst":"Er is nu nog geen aanmelding voor een nieuwsbrief. Met een welkomstmail krijgt elke nieuwe aanmelder het verhaal, de drie kenmerken en een knop naar de Hippers die nu klaarliggen.","punten":["Meer dan 500 andere Hippers","Handgemaakt, spatwaterdicht, 14 dagen bedenktijd","Het verhaal van de keukentafel"]},
+{"ref":"RE01","type":"Merkverhaal","onderwerp":"Geen fabriek. Een atelier.","kop":"Daarom is elke Hipper anders.","tekst":"Een mail over het atelier: met de hand gemaakt, in kleine aantallen, vaak van gerecycled materiaal. Afgesloten met de markten waar je Hippers tegenkomt.","punten":["Het atelier in beeld","Een uniek exemplaar uitgelicht","Hippers op de markt"]}],
+"ai_sfeer":false,"gemaakt":"2026-11-25"}
