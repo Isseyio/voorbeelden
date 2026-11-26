@@ -1,0 +1,112 @@
+{
+ "v": 7,
+ "slug": "sientje-q3289",
+ "merk": "Atelier Sientje",
+ "domein": "ateliersientje.nl",
+ "lead_id": "2026-11-26-ateliersientje.nl",
+ "accent": "#E2462A",
+ "kop": "Vijf redenen om niet in het beige te komen.",
+ "intro": "Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+ "noot": "Hoi Sientje, je Scheveningse jakjes, de rework van stropdassen en die foto met de haring vallen meteen op. Daar heb ik vijf advertenties en twee nieuwsbrieven omheen gemaakt, met je eigen foto's. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+ "product_zin": "Hetzelfde jakje",
+ "product": {
+  "naam": "Schevenings jakje in panterprint",
+  "tekst": "Hetzelfde jakje, vijf verschillende redenen om het te kopen. Elke reden wordt een eigen advertentie."
+ },
+ "fan": [
+  2,
+  1,
+  4
+ ],
+ "funnel_obs": "Wat ik zag: in de advertentiebibliotheek van Meta vond ik twee eerdere advertenties van Atelier Sientje, de laatste uit mei, en nu geen enkele die live staat. Er is dus nog geen vaste stroom van kennismaken naar kopen, terwijl jullie met maatwerk en gratis verzending vanaf €150 al een sterk laatste duwtje hebben.",
+ "advertenties": [
+  {
+   "fase": "TOF",
+   "ref": "N01",
+   "titel": "Die vriendin die nooit in het beige komt",
+   "invalshoek": "iemand zoals ik",
+   "vraag": "Wie draagt zoiets eigenlijk?",
+   "waarom": "Mensen kopen kleding die past bij wie ze willen zijn. Deze advertentie laat jullie klant zien in plaats van het kledingstuk, met jullie eigen zin over beige als haakje."
+  },
+  {
+   "fase": "TOF",
+   "ref": "N02",
+   "titel": "Scheveningen & lef",
+   "invalshoek": "het gevoel",
+   "vraag": "Wat is dit voor merk?",
+   "waarom": "Twee foto's en één woord ertussen vertellen in een seconde waar Atelier Sientje voor staat: erfgoed uit Scheveningen, maar dan met lef."
+  },
+  {
+   "fase": "MOF",
+   "ref": "N13",
+   "titel": "Liever opvallen dan opgaan",
+   "invalshoek": "vergelijken",
+   "vraag": "Waarom zou ik meer betalen dan in de winkelstraat?",
+   "waarom": "Twee cirkels naast elkaar maken het verschil met gewone winkelkleding zichtbaar: one-of-a-kind, op maat te maken en met vakmanschap gemaakt."
+  },
+  {
+   "fase": "MOF",
+   "ref": "N09",
+   "titel": "Waar een REWORK van gemaakt is",
+   "invalshoek": "transparantie",
+   "vraag": "Wat is rework eigenlijk, en waarom kost het dit?",
+   "waarom": "Laten zien wat er in een stuk zit, zoals oude stropdassen in een gevoerde jas, maakt de prijs logisch en het verhaal onvergetelijk."
+  },
+  {
+   "fase": "BOF",
+   "ref": "N16",
+   "titel": "Gratis verzending vanaf €150, en anders op maat",
+   "invalshoek": "zekerheid",
+   "vraag": "Wat als het niet past?",
+   "waarom": "Bij unieke kleding twijfel je vooral over de maat. Maatwerk, gratis verzending vanaf €150 en dezelfde dag verzonden nemen die twijfel weg, zonder korting te geven."
+  }
+ ],
+ "waarom": {
+  "niche": "mode",
+  "kop": "Zo groeien modemerken op Instagram.",
+  "tekst": "De meeste mensen ontdekken een nieuw kledingmerk niet via Google, maar tijdens het scrollen op Instagram. Voor unieke stukken werkt dat extra goed: wie jullie jakje een paar keer voorbij ziet komen, onthoudt het. Advertenties voor elke stap en een welkomstmail na de inschrijving zorgen dat die aandacht een bestelling wordt.",
+  "stats": [
+   {
+    "getal": "25–35%",
+    "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"
+   },
+   {
+    "getal": "16",
+    "label": "advertenties heeft BOAS, een vintagewebshop, nu tegelijk live"
+   },
+   {
+    "getal": "1× per week",
+    "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+   }
+  ],
+  "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 26-11-2026."
+ },
+ "nieuwsbrieven": [
+  {
+   "ref": "RE05",
+   "type": "Welkomstmail",
+   "onderwerp": "Welkom bij het atelier. Hier is geen beige.",
+   "kop": "Fijn dat je er bent. Hier is geen beige.",
+   "tekst": "Wie zich nu inschrijft voor de nieuwsbrief krijgt niets terug. Deze welkomstmail vertelt meteen wie Sientje is, wat er in het atelier gebeurt en waar de collecties over gaan.",
+   "punten": [
+    "Donkere kaart in de kleur van jullie logo met de winkel aan de Herenstraat als foto",
+    "Drie iconen: twee collecties per jaar, elk stuk uniek, ook op maat",
+    "Tweede kaart met de haringfoto en een knop naar de collecties"
+   ]
+  },
+  {
+   "ref": "RE04",
+   "type": "Assortimentsmail",
+   "onderwerp": "Vier stukken die je nergens anders ziet",
+   "kop": "Vier stukken die je nergens anders ziet.",
+   "tekst": "Een mail met vier echte stukken uit de shop onder elkaar, elk met prijs en knop. Zo zie je in één mail de breedte van het atelier: klederdracht, denim, rework en een statement-top.",
+   "punten": [
+    "Hero met jullie modelfoto van het paarse jakje",
+    "Panterjakje €250, denim rok met handen €195, stropdassenjas €1.250 en corsettop €195",
+    "Afsluiting met jullie eigen zin over tijd, liefde en vakmanschap"
+   ]
+  }
+ ],
+ "ai_sfeer": false,
+ "gemaakt": "2026-11-26"
+}
