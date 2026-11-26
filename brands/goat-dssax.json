@@ -1,0 +1,112 @@
+{
+ "v": 7,
+ "slug": "goat-dssax",
+ "merk": "GOAT Hockey",
+ "domein": "goathockey.com",
+ "lead_id": "2026-11-26-goathockey.com",
+ "accent": "#FF1616",
+ "kop": "Vijf redenen om met een GOAT de zaal in te gaan.",
+ "intro": "Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+ "noot": "Hoi team GOAT Hockey, een stickmerk van een oud-speler en coach, met carbon en bow per spelerstype, is een sterk verhaal. Daar heb ik vijf advertenties en twee nieuwsbrieven omheen gemaakt, met jullie eigen foto's. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+ "product_zin": "Dezelfde stick",
+ "product": {
+  "naam": "GOAT® INDOOR PRO STAR",
+  "tekst": "Dezelfde stick, vijf verschillende redenen om hem te kopen. Elke reden wordt een eigen advertentie."
+ },
+ "fan": [
+  2,
+  1,
+  5
+ ],
+ "funnel_obs": "Wat ik zag: in de advertentiebibliotheek van Meta vond ik twee eerdere advertenties van GOAT Hockey, de laatste uit juni, en nu geen enkele die live staat. Midden in het zaalseizoen is er dus geen stroom van kennismaken naar kopen, terwijl jullie met 20% korting voor nieuwe inschrijvers al een sterk laatste duwtje hebben.",
+ "advertenties": [
+  {
+   "fase": "TOF",
+   "ref": "N08",
+   "titel": "Greatest. Of. All. Times.",
+   "invalshoek": "nieuw/lancering",
+   "vraag": "Wat is GOAT eigenlijk?",
+   "waarom": "Een echte foto van jullie stick op het veld en jullie eigen merkzin vallen op tussen de grote merken. Het label 'net binnen' geeft een reden om nu te kijken."
+  },
+  {
+   "fase": "TOF",
+   "ref": "N07",
+   "titel": "Kies je stick voor de zaal",
+   "invalshoek": "varianten",
+   "vraag": "Hebben ze ook een stick in mijn kleur?",
+   "waarom": "Vier echte indoor sticks naast elkaar met prijs. Hockeyers kiezen ook op kleur, en zo zie je in één blik dat er een stick vanaf €135 is."
+  },
+  {
+   "fase": "MOF",
+   "ref": "N15",
+   "titel": "Carbon en bow, simpel uitgelegd",
+   "invalshoek": "hoe het werkt",
+   "vraag": "Welke stick past eigenlijk bij mij?",
+   "waarom": "Carbon, bow en lengte zijn verwarrend. Drie kaartjes met jullie eigen uitleg nemen die twijfel weg en laten zien dat GOAT meedenkt."
+  },
+  {
+   "fase": "MOF",
+   "ref": "N06",
+   "titel": "Bedacht door een coach",
+   "invalshoek": "transparantie",
+   "vraag": "Wie zit er achter dit merk?",
+   "waarom": "Een nieuw stickmerk moet je eerst vertrouwen. Het verhaal van Michel, van speler naar coach naar eigen merk, maakt het merk menselijk en geloofwaardig."
+  },
+  {
+   "fase": "BOF",
+   "ref": "N16",
+   "titel": "20% korting op je eerste bestelling",
+   "invalshoek": "een goede deal",
+   "vraag": "Is er een reden om nu te bestellen?",
+   "waarom": "De 20% voor nieuwe inschrijvers staat echt op jullie site. Groot in beeld is het een makkelijk laatste duwtje, en jullie krijgen er meteen een e-mailadres bij."
+  }
+ ],
+ "waarom": {
+  "niche": "sport",
+  "kop": "Zo groeien sportmerken op Instagram.",
+  "tekst": "De meeste hockeyers ontdekken een nieuw stickmerk niet via Google, maar tijdens het scrollen. Wie in het zaalseizoen een paar keer een GOAT voorbij ziet komen, kent het merk als hij een nieuwe stick zoekt. Advertenties voor elke stap en een welkomstmail met de 20% maken van die aandacht een bestelling.",
+  "stats": [
+   {
+    "getal": "20–30%",
+    "label": "van de online omzet komt bij sportmerken vaak via Instagram en Facebook"
+   },
+   {
+    "getal": "30+",
+    "label": "advertenties heeft Brabo Hockey nu tegelijk live"
+   },
+   {
+    "getal": "1× per week",
+    "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+   }
+  ],
+  "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 26-11-2026."
+ },
+ "nieuwsbrieven": [
+  {
+   "ref": "RE07",
+   "type": "Welkomstmail",
+   "onderwerp": "Welkom in de GOAT family: hier is je 20%",
+   "kop": "Hier is je 20% korting.",
+   "tekst": "Wie zich inschrijft krijgt 20% beloofd. Deze welkomstmail levert die korting meteen en zet de nieuwe indoor sticks erbij, zodat de eerste bestelling vanzelf volgt.",
+   "punten": [
+    "Rode kaart met de 20% en een vak voor de kortingscode",
+    "Drie indoor sticks met prijs: XTRM, PRO STAR en XLB Green/Pink",
+    "Blok met PRO GRIP Tape vanaf €5,95 en het menu onderaan"
+   ]
+  },
+  {
+   "ref": "RE01",
+   "type": "Merkverhaal",
+   "onderwerp": "Van speler en coach naar eigen stickmerk",
+   "kop": "Van speler en coach naar eigen stickmerk.",
+   "tekst": "Een mail over het verhaal achter GOAT: Michel, zijn tijd als speler en coach, en waarom hij sticks met verschillende carbon en bows maakt. Daarna de PROBOW als voorbeeld.",
+   "punten": [
+    "Hero met jullie foto van Michel en een witte kaart met zijn verhaal",
+    "PROBOW met drie echte kenmerken: allround, bow 23 mm, 95% of 100% carbon",
+    "Donkere afsluiting met 'Greatest. Of. All. Times.' en een knop naar de sticks"
+   ]
+  }
+ ],
+ "ai_sfeer": false,
+ "gemaakt": "2026-11-26"
+}
