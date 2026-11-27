@@ -13,29 +13,99 @@
   "naam": "ZandGlas",
   "tekst": "Hetzelfde ZandGlas, vijf verschillende redenen om het te kopen. Elke reden wordt een eigen advertentie."
  },
- "fan": [2, 1, 5],
+ "fan": [
+  2,
+  1,
+  5
+ ],
  "funnel_obs": "Wat ik zag: in de advertentiebibliotheek van Meta vond ik geen advertenties van Atelier NL, en op de webshop staat alleen een 'Keep me updated'-veld. Jullie hebben wel al sterk bewijs: de Dezeen Awards van 2018 en tentoonstellingen in grote musea.",
  "advertenties": [
-  {"fase": "TOF", "ref": "N08", "titel": "Een tafel vol Nederlandse grond", "invalshoek": "product in gebruik", "vraag": "Wat is dit voor mooi servies?", "waarom": "Een gedekte tafel laat in één beeld zien hoe het servies en het glas thuis staan. Dat maakt nieuwsgierig voordat iemand weet wie erachter zit."},
-  {"fase": "TOF", "ref": "N06", "titel": "Twee ontwerpers die de grond in gaan", "invalshoek": "de makers", "vraag": "Wie maakt dit eigenlijk?", "waarom": "Mensen kopen graag van mensen. Jullie portret met vier korte feiten maakt van een glas een verhaal over twee ontwerpers met een missie."},
-  {"fase": "MOF", "ref": "N14", "titel": "Glas van zand van één plek", "invalshoek": "kenmerken", "vraag": "Wat maakt dit glas anders dan een gewoon glas?", "waarom": "Wie twijfelt, wil het verschil snel snappen. Drie vinkjes leggen uit waarom ZandGlas groen is en waarom elke editie een plaatsnaam heeft."},
-  {"fase": "MOF", "ref": "N12", "titel": "Wat de jury zei", "invalshoek": "bewijs", "vraag": "Is dit het geld waard?", "waarom": "Een echte juryquote van de Dezeen Awards en drie mijlpalen laten zien dat dit werk door kenners wordt gewaardeerd, zonder dat jullie het zelf hoeven te zeggen."},
-  {"fase": "BOF", "ref": "N16", "titel": "ClayService voor €28", "invalshoek": "instapprijs · zekerheid", "vraag": "Waar begin ik als ik iets wil proberen?", "waarom": "Een laatste duwtje zonder korting te verzinnen: een bord van €28 is een laagdrempelige eerste aankoop, en jullie versturen op verzoek dezelfde dag."}
+  {
+   "fase": "TOF",
+   "ref": "N08",
+   "titel": "Een tafel vol Nederlandse grond",
+   "invalshoek": "product in gebruik",
+   "vraag": "Wat is dit voor mooi servies?",
+   "waarom": "Een gedekte tafel laat in één beeld zien hoe het servies en het glas thuis staan. Dat maakt nieuwsgierig voordat iemand weet wie erachter zit."
+  },
+  {
+   "fase": "TOF",
+   "ref": "N06",
+   "titel": "Twee ontwerpers die de grond in gaan",
+   "invalshoek": "de makers",
+   "vraag": "Wie maakt dit eigenlijk?",
+   "waarom": "Mensen kopen graag van mensen. Jullie portret met vier korte feiten maakt van een glas een verhaal over twee ontwerpers met een missie."
+  },
+  {
+   "fase": "MOF",
+   "ref": "N14",
+   "titel": "Glas van zand van één plek",
+   "invalshoek": "kenmerken",
+   "vraag": "Wat maakt dit glas anders dan een gewoon glas?",
+   "waarom": "Wie twijfelt, wil het verschil snel snappen. Drie vinkjes leggen uit waarom ZandGlas groen is en waarom elke editie een plaatsnaam heeft."
+  },
+  {
+   "fase": "MOF",
+   "ref": "N12",
+   "titel": "Wat de jury zei",
+   "invalshoek": "bewijs",
+   "vraag": "Is dit het geld waard?",
+   "waarom": "Een echte juryquote van de Dezeen Awards en drie mijlpalen laten zien dat dit werk door kenners wordt gewaardeerd, zonder dat jullie het zelf hoeven te zeggen."
+  },
+  {
+   "fase": "BOF",
+   "ref": "N16",
+   "titel": "ClayService vanaf €28",
+   "invalshoek": "instapprijs · zekerheid",
+   "vraag": "Waar begin ik als ik iets wil proberen?",
+   "waarom": "Een laatste duwtje zonder korting te verzinnen: servies vanaf €28 is een laagdrempelige eerste aankoop, en jullie versturen op verzoek dezelfde dag."
+  }
  ],
  "waarom": {
   "niche": "wonen",
   "kop": "Zo groeien woonmerken op Instagram.",
   "tekst": "De meeste mensen ontdekken een nieuw servies niet via Google, maar tijdens het scrollen. Ze zien het een paar keer voorbijkomen, leren het verhaal kennen en kopen dan. Advertenties voor elke stap en een welkomstmail zorgen dat ze bij die beslissing aan Atelier NL denken.",
   "stats": [
-   {"getal": "20–30%", "label": "van de online omzet komt bij woonmerken vaak via Instagram en Facebook"},
-   {"getal": "100+", "label": "advertenties heeft Serax nu tegelijk live in Nederland"},
-   {"getal": "1× per week", "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"}
+   {
+    "getal": "20–30%",
+    "label": "van de online omzet komt bij woonmerken vaak via Instagram en Facebook"
+   },
+   {
+    "getal": "100+",
+    "label": "advertenties heeft Serax nu tegelijk live in Nederland"
+   },
+   {
+    "getal": "1× per week",
+    "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+   }
   ],
   "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 27-11-2026."
  },
  "nieuwsbrieven": [
-  {"ref": "RE05", "type": "Welkomstmail", "onderwerp": "Welkom bij Atelier NL", "kop": "Welkom bij Atelier NL.", "tekst": "Nu staat er alleen een 'Keep me updated'-veld op de webshop. Deze welkomstmail is wat een nieuwe aanmelder als eerste krijgt: de gedekte tafel, de drie lijnen met echte prijzen en Nadine en Lonny.", "punten": ["Hero met jullie foto van de gedekte tafel", "ClayService €28, ZandGlas en Clay Sample €75", "Blok met het portret van Nadine en Lonny"]},
-  {"ref": "RE02", "type": "Merkverhaal", "onderwerp": "Van zandkorrel tot glas", "kop": "Van zandkorrel tot glas op tafel.", "tekst": "Een mail die in drie stappen uitlegt hoe ZandGlas ontstaat, van het zand op één plek tot het glas met de naam van die plek.", "punten": ["Hero met jullie foto van de ZandGlas-set", "Drie stappen: zand halen, smelten, plaatsnaam", "Knop naar de ZandGlas-edities"]}
+  {
+   "ref": "RE05",
+   "type": "Welkomstmail",
+   "onderwerp": "Welkom bij Atelier NL",
+   "kop": "Welkom bij Atelier NL.",
+   "tekst": "Nu staat er alleen een 'Keep me updated'-veld op de webshop. Deze welkomstmail is wat een nieuwe aanmelder als eerste krijgt: de gedekte tafel, de drie lijnen met echte prijzen en Nadine en Lonny.",
+   "punten": [
+    "Hero met jullie foto van de gedekte tafel",
+    "ClayService vanaf €28, ZandGlas en Clay Sample €75",
+    "Blok met het portret van Nadine en Lonny"
+   ]
+  },
+  {
+   "ref": "RE02",
+   "type": "Merkverhaal",
+   "onderwerp": "Van zandkorrel tot glas",
+   "kop": "Van zandkorrel tot glas op tafel.",
+   "tekst": "Een mail die in drie stappen uitlegt hoe ZandGlas ontstaat, van het zand op één plek tot het glas met de naam van die plek.",
+   "punten": [
+    "Hero met jullie foto van de ZandGlas-set",
+    "Drie stappen: zand halen, smelten, plaatsnaam",
+    "Knop naar de ZandGlas-edities"
+   ]
+  }
  ],
  "ai_sfeer": false,
  "gemaakt": "2026-11-27"
