@@ -1,0 +1,112 @@
+{
+"v": 7,
+"slug": "herbalcacao-vp97h",
+"merk": "Herbal Cacao",
+"domein": "herbalcacao.com",
+"lead_id": "2026-11-27-herbalcacao.com",
+"accent": "#C28702",
+"kop": "Vijf redenen om een kop Herbal Cacao te proberen.",
+"intro": "Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+"noot": "Hoi team Herbal Cacao, de foto's van de families in Belize en Guatemala vertellen jullie verhaal beter dan welke tekst ook. Daar heb ik vijf advertenties en twee nieuwsbrieven omheen gemaakt, met jullie eigen beeld. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+"product_zin": "Dezelfde cacao",
+"product": {
+"naam": "Signature Blend",
+"tekst": "Dezelfde cacao, vijf verschillende redenen om hem te kopen. Elke reden wordt een eigen advertentie."
+},
+"fan": [
+1,
+3,
+5
+],
+"funnel_obs": "Wat ik zag: in de advertentiebibliotheek van Meta vond ik geen advertenties van Herbal Cacao zelf. Jullie herkomst, het ritueel en de Ritual Trio zijn sterke verhalen die nu nog niemand op Instagram tegenkomt.",
+"advertenties": [
+{
+"fase": "TOF",
+"ref": "N01",
+"titel": "Die vriendin met haar kop cacao",
+"invalshoek": "iemand zoals ik",
+"vraag": "Wat drinkt zij daar eigenlijk elke ochtend?",
+"waarom": "Mensen kijken eerst naar mensen. Jullie eigen foto van iemand met een kop cacao laat zien hoe het ritueel voelt, nog voordat iemand weet wat ceremoniële cacao is."
+},
+{
+"fase": "TOF",
+"ref": "N07",
+"titel": "Welke cacao past bij jou?",
+"invalshoek": "varianten",
+"vraag": "Wat hebben ze allemaal?",
+"waarom": "Vier blends naast elkaar met naam, smaak en prijs laten in één blik zien hoeveel keus er is, zodat iemand er meteen eentje kiest om mee te beginnen."
+},
+{
+"fase": "MOF",
+"ref": "N-herkomst",
+"titel": "Drie plekken, één kop",
+"invalshoek": "transparantie",
+"vraag": "Waar komt die cacao eigenlijk vandaan?",
+"waarom": "Wie twijfelt, wil weten wat hij koopt. De echte families uit Maya Mountain, Alta Verapaz en Lachuá maken jullie herkomst concreet en onderscheiden jullie van gewone cacaopoeder."
+},
+{
+"fase": "MOF",
+"ref": "N-ritueel",
+"titel": "Zo maak je jouw kop",
+"invalshoek": "hoe het werkt",
+"vraag": "Is het niet ingewikkeld om te maken?",
+"waarom": "Ceremoniële cacao is nieuw voor veel mensen. Vier simpele stappen uit jullie eigen uitleg (10 gram, 75 tot 80 graden, opkloppen) halen die drempel weg."
+},
+{
+"fase": "BOF",
+"ref": "N16",
+"titel": "Ritual Trio voor €49",
+"invalshoek": "een goede deal",
+"vraag": "Waar begin ik het best mee?",
+"waarom": "Een laatste duwtje met de trio die al op de site staat (€49 in plaats van €56,85): drie blends in één keer proberen, met gratis verzending in Nederland vanaf €65."
+}
+],
+"waarom": {
+"niche": "food & drinks",
+"kop": "Zo groeien food- en drinksmerken op Instagram.",
+"tekst": "De meeste mensen ontdekken een nieuw drankje niet via Google, maar tijdens het scrollen. Ze zien jullie een paar keer voorbijkomen, worden nieuwsgierig en bestellen dan een eerste schijf. Advertenties voor elke stap en een welkomstmail na het gratis ritueel zorgen dat ze terugkomen.",
+"stats": [
+{
+"getal": "15–25%",
+"label": "van de online omzet komt bij food- en drinksmerken vaak via Instagram en Facebook"
+},
+{
+"getal": "10+",
+"label": "advertenties hebben The Cocoa Circle en Abundance Ceremonial Cacao nu elk live"
+},
+{
+"getal": "1× per week",
+"label": "nieuwe advertenties testen houdt de kosten per aankoop laag"
+}
+],
+"bron": "Aantal advertenties: Meta Advertentiebibliotheek, 27-11-2026."
+},
+"nieuwsbrieven": [
+{
+"ref": "RE07",
+"type": "Welkomstmail",
+"onderwerp": "Je gratis cacaoritueel staat klaar",
+"kop": "Je gratis ritueel staat klaar.",
+"tekst": "Wie zich aanmeldt voor het gratis begeleide ritueel van Sharon, krijgt nu nog geen echte welkomstreeks. Deze mail levert het ritueel, legt uit hoe je je eerste kop maakt en laat de Ritual Trio zien voor wie nog geen cacao in huis heeft.",
+"punten": [
+"Hero met jullie foto van iemand met een kop cacao",
+"Drie stapjes: 10 gram, 75–80°C, opkloppen",
+"Afsluiter: Ritual Trio voor €49 (was €56,85)"
+]
+},
+{
+"ref": "RE02",
+"type": "Productspotlight",
+"onderwerp": "Pittig, vol en aards: de Signature Blend",
+"kop": "Pittig, vol en aards.",
+"tekst": "Een mail die één blend groot neerzet: de Signature Blend met cayenne, Ceylon-kaneel en vanille, waar de cacao vandaan komt en welk formaat bij je past.",
+"punten": [
+"Hero met jullie flatlay van de Signature Blend",
+"Vier ingrediënten met herkomst",
+"Twee formaten: schijf €15,95 of blok €58,95 (bespaar 26%)"
+]
+}
+],
+"ai_sfeer": false,
+"gemaakt": "2026-11-27"
+}
