@@ -1,0 +1,42 @@
+{
+ "v": 7,
+ "slug": "emmasbookshop-d8u2u",
+ "merk": "Emma's Bookshop",
+ "domein": "emmasbookshop.nl",
+ "lead_id": "2026-11-27-emmasbookshop.nl",
+ "accent": "#4A1C2A",
+ "kop": "Vijf redenen om The Book Journal te kopen.",
+ "intro": "Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+ "noot": "Hoi team Emma's Bookshop, een leesdagboek dat Emma zelf heeft bedacht, met trackers, challenges en een boekbingo: dat is precies het soort product dat lezers op Instagram willen bewaren. Daar heb ik vijf advertenties en twee nieuwsbrieven omheen gemaakt, met jullie eigen foto's. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+ "product_zin": "Hetzelfde leesdagboek",
+ "product": {
+  "naam": "The Book Journal",
+  "tekst": "Hetzelfde leesdagboek, vijf verschillende redenen om het te kopen. Elke reden wordt een eigen advertentie."
+ },
+ "fan": [2, 1, 5],
+ "funnel_obs": "Wat ik zag: in de advertentiebibliotheek van Meta staat van Emma's Bookshop één advertentie uit februari, en nu geen enkele. Jullie hebben wel al een wekelijkse nieuwsbrief, maar zonder welkomstmail die nieuwe lezers meteen laat zien wat Emma heeft ontworpen.",
+ "advertenties": [
+  {"fase": "TOF", "ref": "N02", "titel": "Jouw boeken & jouw leesjaar", "invalshoek": "het gevoel", "vraag": "Hoe hou ik eigenlijk bij wat ik dit jaar allemaal lees?", "waarom": "Twee echte foto's, de cover en de reading log, laten in één blik het gevoel zien van een leesjaar op papier, nog voordat iemand de prijs kent."},
+  {"fase": "TOF", "ref": "N04", "titel": "Lieve notitie-app", "invalshoek": "humor", "vraag": "Waarom zou ik een journal kopen als ik een app heb?", "waarom": "Een knipoog laat mensen stoppen met scrollen. Het nep-afscheidsbriefje aan de notitie-app noemt ondertussen gewoon de echte kenmerken en de drie kleuren."},
+  {"fase": "MOF", "ref": "N09", "titel": "Wat zit erin?", "invalshoek": "transparantie", "vraag": "Wat staat er precies in, is het niet gewoon een leeg schrift?", "waarom": "Wie twijfelt, wil binnenin kijken. Zes vakjes met echte pagina's (reading log, A tot Z-challenge, boekbingo) beantwoorden die vraag zonder uitleg."},
+  {"fase": "MOF", "ref": "N13", "titel": "Twee manieren om bij te houden", "invalshoek": "vergelijken", "vraag": "Is een lijstje op mijn telefoon niet genoeg?", "waarom": "Een eerlijke vergelijking met wat mensen nu al doen maakt het verschil duidelijk: allebei houden ze bij wat je las, maar alleen de journal blader je later nog eens door."},
+  {"fase": "BOF", "ref": "N16", "titel": "€29,95 voor een heel leesjaar", "invalshoek": "zekerheid", "vraag": "Wat kost het en hoe krijg ik het?", "waarom": "Een laatste duwtje zonder korting te verzinnen: de echte prijs, ontworpen door Emma, gratis verzending vanaf €75 en gratis afhalen in de winkel in Rotterdam bestaan al."}
+ ],
+ "waarom": {
+  "niche": "stationery",
+  "kop": "Zo groeien stationerymerken op Instagram.",
+  "tekst": "De meeste mensen ontdekken een nieuw stationerymerk niet via Google, maar tijdens het scrollen. Een journal of stickervel ziet er op Instagram meteen goed uit, en wie het een paar keer voorbij ziet komen, bestelt bij het volgende cadeau of het nieuwe leesjaar. Een welkomstmail zorgt dat nieuwe inschrijvers die eerste bestelling ook doen.",
+  "stats": [
+   {"getal": "20–30%", "label": "van de online omzet komt bij cadeau- en stationerymerken vaak via Instagram en Facebook"},
+   {"getal": "200+", "label": "advertenties heeft Notebook Therapy nu tegelijk live in Nederland"},
+   {"getal": "1× per week", "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"}
+  ],
+  "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 27-11-2026."
+ },
+ "nieuwsbrieven": [
+  {"ref": "NE-briefje", "type": "Welkomstmail", "onderwerp": "Welkom bij de club", "kop": "Welkom bij de club.", "tekst": "Jullie sturen elke week een nieuwsbrief, maar nieuwe inschrijvers krijgen nog geen welkomstmail. Deze mail is een briefje in jullie eigen toon: wat ze kunnen verwachten, dat alle stationery door Emma is ontworpen, drie producten en een uitnodiging voor de winkel in Rotterdam.", "punten": ["Crème briefje 'Welkom bij de club' met handgeschreven afsluiting", "Drie tegels: The Book Journal €29,95, het Stickerboek €19,99 en soft yellow", "Petrol blok met het adres, de openingstijden en gratis afhalen"]},
+  {"ref": "RE03", "type": "Vergelijking", "onderwerp": "Mulberry of soft yellow?", "kop": "Mulberry of soft yellow?", "tekst": "Een mail die twijfelaars helpt kiezen: dezelfde Book Journal in twee kleuren naast elkaar, met een kleine tabel die laat zien dat de binnenkant hetzelfde is.", "punten": ["Hero met de 'start of the year'-pagina", "Twee kleuren naast elkaar met jullie eigen foto's", "Vergelijkingstabel en twee knoppen, één per kleur"]}
+ ],
+ "ai_sfeer": false,
+ "gemaakt": "2026-11-27"
+}
