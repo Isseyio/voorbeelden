@@ -1,0 +1,42 @@
+{
+ "v": 7,
+ "slug": "imkerij-ma7xv",
+ "merk": "Imkerij Oud Welgelegen",
+ "domein": "imkerijoudwelgelegen.nl",
+ "lead_id": "2026-11-27-imkerijoudwelgelegen.nl",
+ "accent": "#8F003A",
+ "kop": "Vijf redenen om honing van Oud Welgelegen te kopen.",
+ "intro": "Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+ "noot": "Hoi team Imkerij Oud Welgelegen, een imkerij in het Westland met drie generaties passie voor bijen, eigen honing met een handgeschreven label en nieuwe cadeaupakketten: dat verhaal werkt goed op Instagram. Daar heb ik vijf advertenties en twee nieuwsbrieven omheen gemaakt, met jullie eigen foto's. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+ "product_zin": "Dezelfde pot honing",
+ "product": {
+  "naam": "Westlandse puur natuur honing",
+  "tekst": "Dezelfde pot honing, vijf verschillende redenen om hem te kopen. Elke reden wordt een eigen advertentie."
+ },
+ "fan": [2, 1, 5],
+ "funnel_obs": "Wat ik zag: in de advertentiebibliotheek van Meta vond ik geen advertenties van Imkerij Oud Welgelegen. Er staat wel een mooie inschrijving met 5% korting op de site, maar zonder advertenties komen daar weinig nieuwe mensen langs. Jullie hebben al twee sterke laatste duwtjes: gratis verzending vanaf €60 en afhalen op vrijdag.",
+ "advertenties": [
+  {"fase": "TOF", "ref": "N05", "titel": "Honing van een imker uit de buurt", "invalshoek": "zoekvraag → antwoord", "vraag": "Waar koop ik eigenlijk echte honing uit de buurt?", "waarom": "Veel mensen zoeken honing van een imker in de buurt. Deze advertentie stelt die vraag hardop en geeft meteen het antwoord: jullie honing uit het Westland."},
+  {"fase": "TOF", "ref": "N06", "titel": "De cadeaupakketten zijn er", "invalshoek": "nieuw · seizoen/cadeau", "vraag": "Wat geef ik dit jaar met de feestdagen?", "waarom": "Iets nieuws valt op tijdens het scrollen, zeker vlak voor de feestdagen. De nieuwe cadeaupakketten geven mensen die jullie nog niet kennen een makkelijke eerste reden om te kijken."},
+  {"fase": "MOF", "ref": "N15", "titel": "Van de bijenkast naar uw tafel", "invalshoek": "hoe het werkt", "vraag": "Waar komt deze honing nou echt vandaan?", "waarom": "Wie twijfelt, wil weten wat er achter een pot zit. Drie stappen met een echte foto bij de bijenkast laten zien dat het om een imkerij gaat, niet om een fabriek."},
+  {"fase": "MOF", "ref": "N14", "titel": "Waarom honing van de imker?", "invalshoek": "kenmerken", "vraag": "Waarom niet gewoon een pot uit de supermarkt?", "waarom": "Drie vinkjes beantwoorden die vraag in één blik: puur en ambachtelijk, uit het Westland en drie generaties ervaring."},
+  {"fase": "BOF", "ref": "N17", "titel": "Gratis verzending vanaf €60", "invalshoek": "zekerheid", "vraag": "Wat kost het verzenden, en kan ik het ook ophalen?", "waarom": "Een laatste duwtje zonder korting te verzinnen: gratis verzending vanaf €60, afhalen op vrijdag en 5% korting via de nieuwsbrief bestaan al echt."}
+ ],
+ "waarom": {
+  "niche": "food",
+  "kop": "Zo groeien foodmerken op Instagram.",
+  "tekst": "De meeste mensen ontdekken een nieuw foodmerk niet via Google, maar tijdens het scrollen. Wie een paar keer jullie honing voorbij ziet komen, denkt bij het volgende cadeau of de volgende lege pot aan Oud Welgelegen. Advertenties voor elke stap en een welkomstmail maken van die aandacht een bestelling.",
+  "stats": [
+   {"getal": "15–25%", "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"},
+   {"getal": "15+", "label": "advertenties heeft Humelie, dat ook Nederlandse honing verkoopt, nu tegelijk live"},
+   {"getal": "1× per week", "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"}
+  ],
+  "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 27-11-2026."
+ },
+ "nieuwsbrieven": [
+  {"ref": "RE07", "type": "Welkomstmail", "onderwerp": "Welkom bij de imkerij, hier is uw 5%", "kop": "Welkom bij de imkerij.", "tekst": "Jullie geven nieuwe inschrijvers al 5% korting. Deze welkomstmail bezorgt die korting meteen, laat drie soorten honing zien en wijst op de nieuwe cadeaupakketten.", "punten": ["Crème hero met het welkomstcadeau: 5% op de eerste bestelling", "Drie honingsoorten met prijs: Westlandse, heide en woud", "Blok over de cadeaupakketten en een footer met verzenden en afhalen"]},
+  {"ref": "RE01", "type": "Merkverhaal", "onderwerp": "Drie generaties bijen aan de Monsterseweg", "kop": "Drie generaties bijen en natuur.", "tekst": "Een mail over waar de honing vandaan komt: de eeuwenoude bijenkorf, de kwekerij met drie generaties bijen en de Westlandse honing met het handgeschreven label. Onderaan een uitnodiging om langs te komen.", "punten": ["Hero met jullie foto van de bijenkorf en een kaart met de kop", "Westlandse honing met drie labels: Westlands, puur, €5,75", "Donker blok: kom langs op vrijdag of op afspraak"]}
+ ],
+ "ai_sfeer": false,
+ "gemaakt": "2026-11-27"
+}
