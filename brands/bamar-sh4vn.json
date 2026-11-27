@@ -1,0 +1,42 @@
+{
+ "v": 7,
+ "slug": "bamar-sh4vn",
+ "merk": "Bamar Fashion",
+ "domein": "bamar.fashion",
+ "lead_id": "2026-11-27-bamar.fashion",
+ "accent": "#1B2C82",
+ "kop": "Vijf redenen om een Happi Coat van Bamar te dragen.",
+ "intro": "Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+ "noot": "Hoi team Bamar Fashion, Happi Coats die met de hand in Duiven worden gemaakt, in kleine oplages en met stoffen uit Japan en Frankrijk: dat is een verhaal dat op Instagram goed werkt. Daar heb ik vijf advertenties en twee nieuwsbrieven omheen gemaakt, met jullie eigen foto's. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+ "product_zin": "Hetzelfde jasje",
+ "product": {
+  "naam": "Happi Coat",
+  "tekst": "Hetzelfde jasje, vijf verschillende redenen om het te kopen. Elke reden wordt een eigen advertentie."
+ },
+ "fan": [2, 1, 5],
+ "funnel_obs": "Wat ik zag: in de advertentiebibliotheek van Meta vond ik geen advertenties van Bamar Fashion, en op de site nog geen inschrijving voor een nieuwsbrief. Mensen die jullie op een beurs of op Instagram tegenkomen, krijgen daarna dus geen tweede zetje. Jullie hebben al een sterk laatste duwtje: met één jasje van €60 is de verzending gratis.",
+ "advertenties": [
+  {"fase": "TOF", "ref": "N01", "titel": "Het jasje waar iedereen naar vraagt", "invalshoek": "iemand zoals ik", "vraag": "Hoe kom ik aan zo'n bijzonder jasje?", "waarom": "Mensen kopen wat ze bij iemand zoals zij zien. Een echte foto van een Happi Coat in het dagelijks leven laat zien dat het jasje gewoon te dragen is, niet alleen op een con."},
+  {"fase": "TOF", "ref": "N02", "titel": "Naar het festival en de stad in", "invalshoek": "het gevoel", "vraag": "Draag ik dit wel vaak genoeg?", "waarom": "Twee echte foto's naast elkaar, op het festival en gewoon buiten, laten in één blik zien dat het één jasje voor allebei is."},
+  {"fase": "MOF", "ref": "N09", "titel": "Waar komt jouw Happi Coat vandaan?", "invalshoek": "transparantie", "vraag": "Is dit niet gewoon een jasje uit een fabriek?", "waarom": "Stof uit Japan en van Franse markten, 100% katoen en met de hand genaaid in Duiven: wie dat ziet, snapt waarom het jasje €60 kost."},
+  {"fase": "MOF", "ref": "N13", "titel": "Overal te koop, dit niet", "invalshoek": "vergelijken", "vraag": "Waarom niet een goedkoop kimono-jasje online?", "waarom": "Kimono-jasjes zijn overal te koop. Een simpele vergelijking laat zien wat Bamar anders maakt: handwerk, kleine oplage en katoen."},
+  {"fase": "BOF", "ref": "N18", "titel": "€60 en de verzending is gratis", "invalshoek": "zekerheid", "vraag": "Komt er nog verzending bij?", "waarom": "Een Happi Coat kost €60, precies het bedrag voor gratis verzending. Samen met 'voor 15:00 besteld, dezelfde dag verzonden' en 14 dagen retour is dat een eerlijk laatste duwtje zonder korting."}
+ ],
+ "waarom": {
+  "niche": "mode",
+  "kop": "Zo groeien modemerken op Instagram.",
+  "tekst": "De meeste mensen ontdekken een nieuw modemerk niet via Google, maar tijdens het scrollen. Wie een paar keer een Happi Coat voorbij ziet komen, herkent Bamar op de volgende beurs of in de webshop. Advertenties voor elke stap en een welkomstmail zorgen dat die aandacht een bestelling wordt.",
+  "stats": [
+   {"getal": "25–35%", "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"},
+   {"getal": "50+", "label": "advertenties heeft Two Sisters, dat ook kimono's verkoopt, nu tegelijk live"},
+   {"getal": "1× per week", "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"}
+  ],
+  "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 27-11-2026."
+ },
+ "nieuwsbrieven": [
+  {"ref": "RE05", "type": "Welkomstmail", "onderwerp": "Welkom bij Bamar, fijn dat je er bent", "kop": "Welkom bij Bamar. Fijn dat je er bent.", "tekst": "Op de site kun je je nu nog nergens inschrijven. Met een inschrijfveld en deze welkomstmail vertel je nieuwe volgers meteen wat Bamar bijzonder maakt: handwerk uit Duiven, katoen uit Japan en Frankrijk, en snel verzonden.", "punten": ["Blauwe herokaart met jullie groepsfoto en een knop naar de collectie", "Drie blokjes: Duiven, 100% katoen en 'voor 15:00 besteld, dezelfde dag verzonden'", "Tweede kaart over dragen op het festival of gewoon in de stad"]},
+  {"ref": "RE04", "type": "Productspotlight", "onderwerp": "Vier prints om dit seizoen te dragen", "kop": "Vier prints om dit seizoen te dragen.", "tekst": "Een mail met vier Happi Coats onder elkaar, elk met een korte tekst, prijs en knop. Onderaan een uitnodiging voor het atelier in Duiven, waar de koffie klaarstaat.", "punten": ["Hero met jullie foto van een duo in Happi Coats", "Beijing, Crane blue, Neko blue en Gingko Rainbow met prijs", "Blauw blok: kom langs in het atelier in Duiven"]}
+ ],
+ "ai_sfeer": false,
+ "gemaakt": "2026-11-27"
+}
