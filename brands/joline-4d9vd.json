@@ -1,0 +1,42 @@
+{
+ "v": 7,
+ "slug": "joline-4d9vd",
+ "merk": "Joline Jolink",
+ "domein": "jolinejolink.com",
+ "lead_id": "2026-11-27-jolinejolink.com",
+ "accent": "#6E2A20",
+ "kop": "Vijf redenen om een Joline Jolink te dragen.",
+ "intro": "Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+ "noot": "Hoi team Joline Jolink, een vest van Nederlands mohair dat in Baambrugge wordt gebreid, in een oplage van 25 stuks: zo'n verhaal is precies wat op Instagram blijft hangen. Daar heb ik vijf advertenties en twee nieuwsbrieven omheen gemaakt, met jullie eigen foto's. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+ "product_zin": "Hetzelfde vest",
+ "product": {
+  "naam": "Nora vest",
+  "tekst": "Hetzelfde vest, vijf verschillende redenen om het te kopen. Elke reden wordt een eigen advertentie."
+ },
+ "fan": [2, 1, 5],
+ "funnel_obs": "Wat ik zag: in mei liepen er veel advertenties van Joline Jolink, sinds juni staan er geen meer live. De nieuwsbrief ('Volg ons ritme') staat onderaan de site, zonder pop-up of welkomstmail die ik kon vinden. Jullie hebben al sterke laatste duwtjes: gratis verzending vanaf €100, zelf je leverdatum kiezen en gratis ruilen voor een andere maat.",
+ "advertenties": [
+  {"fase": "TOF", "ref": "N01", "titel": "Die vriendin die er altijd mooi uitziet", "invalshoek": "iemand zoals ik", "vraag": "Waar heeft zij dat mooie vest vandaan?", "waarom": "Mensen kopen wat ze bij iemand zoals zij zien. Een echte foto van de Nora in een gewone pose laat zien hoe het vest valt, zonder dat het een reclame lijkt."},
+  {"fase": "TOF", "ref": "N08", "titel": "Maar 25 stuks gemaakt", "invalshoek": "beperkte oplage", "vraag": "Wat maakt dit vest bijzonder?", "waarom": "Een oplage van 25 stuks valt op tussen alle massa-mode. Het geeft nieuwe mensen meteen een reden om te kijken, en om niet te lang te wachten."},
+  {"fase": "MOF", "ref": "N09", "titel": "Waar komt jouw vest vandaan?", "invalshoek": "transparantie", "vraag": "Waarom kost een vest €498?", "waarom": "Wie de geiten, de breisters en de samenstelling ziet, snapt de prijs. Transparantie is jullie sterkste argument, dus laat het ook in een advertentie zien."},
+  {"fase": "MOF", "ref": "N11", "titel": "Waar de Wasp Eco bij past", "invalshoek": "humor", "vraag": "Kan ik die broek wel vaak dragen?", "waarom": "Een knipoog werkt goed bij twijfel. De taart laat met jullie eigen styling-tip (basic top, big shirt of trui) zien dat de broek bij bijna alles past."},
+  {"fase": "BOF", "ref": "N16", "titel": "Kies zelf je leverdatum", "invalshoek": "zekerheid", "vraag": "Wat als de maat niet past?", "waarom": "Zonder korting te verzinnen: zelf je leverdatum kiezen, gratis verzending vanaf €100 en gratis ruilen voor een andere maat nemen de laatste twijfel weg."}
+ ],
+ "waarom": {
+  "niche": "mode",
+  "kop": "Zo groeien modemerken op Instagram.",
+  "tekst": "De meeste mensen ontdekken een nieuw modemerk niet via Google, maar tijdens het scrollen. Wie een paar keer een Nora of een Wasp voorbij ziet komen, kijkt bij de volgende aankoop eerst bij Joline Jolink. Advertenties voor elke stap en een welkomstmail zorgen dat die aandacht een bestelling wordt.",
+  "stats": [
+   {"getal": "25–35%", "label": "van de online omzet komt bij modemerken vaak via Instagram en Facebook"},
+   {"getal": "15+", "label": "advertenties heeft MUD Jeans, ook een duurzaam Nederlands merk, nu tegelijk live"},
+   {"getal": "1× per week", "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"}
+  ],
+  "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 27-11-2026."
+ },
+ "nieuwsbrieven": [
+  {"ref": "NE-ritme", "type": "Welkomstmail", "onderwerp": "Welkom, fijn dat je ons ritme volgt", "kop": "Welkom. Fijn dat je ons ritme volgt.", "tekst": "Wie zich inschrijft via 'Volg ons ritme', krijgt nu nog geen welkomstmail. Deze mail vertelt meteen waar Joline Jolink voor staat en laat twee stuks uit de winkel zien.", "punten": ["Rustige hero met jullie foto van de Nora", "Drie zekerheden: kleine oplages, zelf je leverdatum, gratis ruilen", "Blok over de Fashion Farm met een open dag als uitnodiging"]},
+  {"ref": "RE02", "type": "Productspotlight", "onderwerp": "Maar 25 stuks: het Nora vest", "kop": "Zacht, licht en uit Baambrugge.", "tekst": "Een mail over één stuk: het Nora vest. Een close-up met handen, het verhaal van The Knitwit Stable en de details van het vest rond een foto.", "punten": ["Kastanjebruine rand en crème kaart met een close-up", "Label 'maar 25 stuks gemaakt' en knop met de prijs", "Details: V-hals, raglanmouwen, metalen knopen en brede zoom"]}
+ ],
+ "ai_sfeer": false,
+ "gemaakt": "2026-11-27"
+}
