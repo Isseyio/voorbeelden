@@ -1,0 +1,99 @@
+{
+ "v": 7,
+ "slug": "rosetulips-z72a3",
+ "merk": "RoseTulips",
+ "domein": "rosetulips.com",
+ "lead_id": "2026-11-27-rosetulips.com",
+ "accent": "#B05F68",
+ "kop": "Vijf redenen om een kop RoseTulips te zetten.",
+ "intro": "Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+ "noot": "Hoi Yana, jouw verhaal over de kruiden van je oma in de Bulgaarse bergen en de blends die je nu in Amsterdam mengt, is precies het soort verhaal dat op Instagram werkt. Daar heb ik vijf advertenties en twee nieuwsbrieven omheen gemaakt, met jullie eigen foto's. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+ "product_zin": "Dezelfde pot thee",
+ "product": {
+  "naam": "Pink Label",
+  "tekst": "Dezelfde pot thee, vijf verschillende redenen om hem te kopen. Elke reden wordt een eigen advertentie."
+ },
+ "fan": [1, 3, 5],
+ "funnel_obs": "Wat ik zag: in de advertentiebibliotheek van Meta vond ik geen advertenties van RoseTulips zelf, terwijl jullie GIFT50-actie tot 6 december loopt. Het gevoel, het cadeaumoment, de ingrediënten en jouw verhaal zijn invalshoeken die nu nog niemand op Instagram van jullie tegenkomt.",
+ "advertenties": [
+  {
+   "fase": "TOF",
+   "ref": "N02",
+   "titel": "Thee & tien minuten voor jezelf",
+   "invalshoek": "het gevoel",
+   "vraag": "Dat wil ik ook: even tien minuten voor mezelf.",
+   "waarom": "Twee eigen foto's met een groot & ertussen verkopen geen thee maar een moment, met de woorden van een echte klant van jullie site. Wie het merk niet kent, herkent eerst het gevoel."
+  },
+  {
+   "fase": "TOF",
+   "ref": "N-cadeau",
+   "titel": "Voor wie alles al heeft",
+   "invalshoek": "seizoen/cadeau",
+   "vraag": "Wat geef ik iemand die alles al heeft?",
+   "waarom": "In december zoekt bijna iedereen een cadeau. Jullie eigen cadeaudoos met strik en de echte prijzen (Mini Tea Vial €4,89, Pink Label €20,99) beantwoorden die vraag meteen."
+  },
+  {
+   "fase": "MOF",
+   "ref": "N09",
+   "titel": "Dit zit erin",
+   "invalshoek": "transparantie",
+   "vraag": "Wat zit er eigenlijk in, en smaakt het wel?",
+   "waarom": "Wie twijfelt, wil weten wat hij koopt. De negen ingrediënten van Pink Label met jullie eigen ingrediëntbeelden en het zetadvies (1 theelepel, 95°C, 5–7 minuten) maken de pot concreet."
+  },
+  {
+   "fase": "MOF",
+   "ref": "N-briefje",
+   "titel": "Liefs, Yana",
+   "invalshoek": "het verhaal",
+   "vraag": "Wie zit er achter dit merk?",
+   "waarom": "Een kort briefje in Yana's eigen woorden (van Bulgarije naar Amsterdam, echte kruiden, geen shortcuts) geeft een gezicht aan het merk. Mensen kopen liever bij iemand dan bij een webshop."
+  },
+  {
+   "fase": "BOF",
+   "ref": "N17",
+   "titel": "50% met GIFT50",
+   "invalshoek": "een goede deal",
+   "vraag": "Is dit het moment om te bestellen?",
+   "waarom": "Jullie echte Black Friday-actie (50% op geselecteerde theeën met code GIFT50, tot en met 6 december) met de drie potten op een rij geeft wie al twijfelt het laatste duwtje."
+  }
+ ],
+ "waarom": {
+  "niche": "thee",
+  "kop": "Zo groeien theemerken op Instagram.",
+  "tekst": "De meeste mensen ontdekken een nieuw theemerk niet via Google, maar tijdens het scrollen, en zeker als ze een cadeau zoeken. Merken die daar elke week nieuwe advertenties testen, vinden steeds nieuwe kopers. Een welkomstmail en een actiemail zorgen dat die kopers terugkomen.",
+  "stats": [
+   {"getal": "15–25%", "label": "van de online omzet komt bij food- en drinkmerken vaak via Instagram en Facebook"},
+   {"getal": "40+", "label": "advertenties heeft Simon Lévelt nu tegelijk live"},
+   {"getal": "1× per week", "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"}
+  ],
+  "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 27-11-2026."
+ },
+ "nieuwsbrieven": [
+  {
+   "ref": "RE05",
+   "type": "Welkomstmail",
+   "onderwerp": "Fijn dat je er bent. Zet je water maar op.",
+   "kop": "Fijn dat je er bent. Zet je water maar op.",
+   "tekst": "Op jullie site staat het aanmeldblok \"Join the Ritual\". Deze welkomstmail gaat direct na de aanmelding uit: Yana stelt zich voor, vertelt waar RoseTulips begon en helpt bij de eerste keuze.",
+   "punten": [
+    "Hero met jullie eigen foto van een kop Pink Label",
+    "Yana's verhaal: van de Bulgaarse bergen naar Amsterdam",
+    "Drie blends om mee te beginnen, plus het zetadvies"
+   ]
+  },
+  {
+   "ref": "RE06",
+   "type": "Actiemail",
+   "onderwerp": "Iets zeldzaams: 50% met GIFT50",
+   "kop": "Schenk iets zeldzaams dit seizoen.",
+   "tekst": "Een mail voor jullie echte Black Friday-actie: 50% op geselecteerde theeën met code GIFT50, tot en met 6 december. Met drie blends, een echte review van jullie site en een duidelijke knop.",
+   "punten": [
+    "De actie bovenaan: 50%, code GIFT50, einddatum",
+    "Drie blends met hun ingrediënten",
+    "Echte review van Greta over Yoga Label als cadeau"
+   ]
+  }
+ ],
+ "ai_sfeer": false,
+ "gemaakt": "2026-11-27"
+}
