@@ -1,0 +1,42 @@
+{
+ "v": 7,
+ "slug": "ruimzicht-x8ccw",
+ "merk": "Boerderij Ruimzicht",
+ "domein": "boerderijruimzicht.nl",
+ "lead_id": "2026-11-27-boerderijruimzicht.nl",
+ "accent": "#273A58",
+ "kop": "Vijf redenen om kaas van Ruimzicht te proeven.",
+ "intro": "Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+ "noot": "Hoi team Boerderij Ruimzicht, kalfjes die bij hun moeder blijven en kaas van de eigen rauwe melk: dat verhaal laat zich goed vertellen op Instagram. Ik zag dat jullie advertenties sinds het voorjaar stilliggen, dus ik heb vijf advertenties en twee nieuwsbrieven gemaakt met jullie eigen foto's, met de kerstpakketten erbij. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+ "product_zin": "Dezelfde bergkaas",
+ "product": {
+  "naam": "Achterhoekse Bergkaas",
+  "tekst": "Dezelfde bergkaas, vijf verschillende redenen om hem te kopen. Elke reden wordt een eigen advertentie."
+ },
+ "fan": [2, 1, 5],
+ "funnel_obs": "Wat ik zag: van december tot eind mei draaiden jullie advertenties rond kerst, kaas en rundvlees, maar nu staat er in de advertentiebibliotheek van Meta niets live. De bouwstenen voor een laatste duwtje zijn er al: echte reviews op de webshop en kerstpakketten vanaf €20.",
+ "advertenties": [
+  {"fase": "TOF", "ref": "N01", "titel": "Die vriendin met kaas van de boer", "invalshoek": "iemand zoals ik", "vraag": "Waar haalt zij toch altijd die lekkere kaas vandaan?", "waarom": "Mensen kopen eerder iets als ze zichzelf of een vriendin in de advertentie herkennen. Jullie foto van een plankje kaas in de wei met de koeien erachter maakt dat meteen echt."},
+  {"fase": "TOF", "ref": "N05", "titel": "Kaas die je niet in de supermarkt koopt", "invalshoek": "zoekvraag → antwoord", "vraag": "Waar vind ik kaas die anders smaakt dan uit de supermarkt?", "waarom": "De zoekvraag komt bijna letterlijk uit een review van jullie klant. Zo herkent iemand die naar echte boerenkaas zoekt zijn eigen vraag, met de bergkaas als antwoord."},
+  {"fase": "MOF", "ref": "N09", "titel": "Van gras tot kaas", "invalshoek": "transparantie", "vraag": "Is dit echt anders dan gewone biologische kaas?", "waarom": "Wie twijfelt, wil zien waar de kaas vandaan komt. Vier echte foto's van het erf (koeien buiten, kalfjes bij hun moeder, Gerjo en Jara, het land) laten het verschil zien zonder grote woorden."},
+  {"fase": "MOF", "ref": "N12", "titel": "Wat klanten erover zeggen", "invalshoek": "bewijs", "vraag": "Is die kaas het geld en de verzendkosten wel waard?", "waarom": "Echte reviews van jullie eigen webshop overtuigen beter dan alles wat een merk zelf zegt. Twee korte quotes van Marry en Lidy naast de kaas zelf maken het concreet."},
+  {"fase": "BOF", "ref": "N18", "titel": "Kerstpakket vanaf €20", "invalshoek": "seizoen · cadeau", "vraag": "Wat geef ik dit jaar met kerst?", "waarom": "Een laatste duwtje zonder korting te verzinnen: de kerstpakketten met de echte prijzen bestaan al, zijn vanaf 1 december verkrijgbaar en kunnen nu alvast besteld worden."}
+ ],
+ "waarom": {
+  "niche": "food",
+  "kop": "Zo groeien foodmerken op Instagram.",
+  "tekst": "De meeste mensen ontdekken een nieuwe boerderij of kaasmaker niet via Google, maar tijdens het scrollen. Ze zien jullie een paar keer voorbijkomen, worden nieuwsgierig en bestellen dan, vaak rond een moment als kerst. Advertenties voor elke stap en een welkomstmail zorgen dat ze bij die beslissing aan Ruimzicht denken.",
+  "stats": [
+   {"getal": "15–25%", "label": "van de online omzet komt bij foodmerken vaak via Instagram en Facebook"},
+   {"getal": "15+", "label": "advertenties heeft kaasmaker Nieuwerwets nu tegelijk live"},
+   {"getal": "1× per week", "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"}
+  ],
+  "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 27-11-2026."
+ },
+ "nieuwsbrieven": [
+  {"ref": "RE07", "type": "Welkomstmail", "onderwerp": "Welkom op het erf", "kop": "Welkom op het erf, fijn dat je er bent.", "tekst": "Jullie hebben al een aanmelding voor het nieuws van het erf. Deze welkomstmail is wat een nieuwe aanmelder als eerste krijgt: Gerjo en Jara tussen de koeien, waarom de kaas anders is en drie kazen om mee te beginnen.", "punten": ["Hero met jullie foto van Gerjo en Jara in de wei", "Drie blokjes: koeien buiten, kalfjes bij hun moeder, harde kaas met PostNL voor €6,95", "Bergkaas Jong, Jong-Belegen en Oud met de echte vanaf-prijzen"]},
+  {"ref": "RE06", "type": "Lancering kerstpakketten", "onderwerp": "De kerstpakketten zijn er", "kop": "De kerstpakketten van eigen erf zijn er.", "tekst": "Een mail voor de start van de kerstpakketten op 1 december: de koe in de sneeuw als hero, twee pakketten met de echte prijs en de cadeaubonnen voor wie liever iets samen doet.", "punten": ["Hero met jullie winterfoto van het erf", "Kaasproeverij €20 en Van Eigen Erf €40", "Cadeaubon Kaasworkshop (€85) of Boer'nTafelen (€30)"]}
+ ],
+ "ai_sfeer": false,
+ "gemaakt": "2026-11-27"
+}
