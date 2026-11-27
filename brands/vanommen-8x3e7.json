@@ -1,0 +1,42 @@
+{
+ "v": 7,
+ "slug": "vanommen-8x3e7",
+ "merk": "Meubelmakerij van Ommen",
+ "domein": "steigerhoutenmeubelwinkel.nl",
+ "lead_id": "2026-11-27-steigerhoutenmeubelwinkel.nl",
+ "accent": "#0F6500",
+ "kop": "Vijf redenen om een bed van Van Ommen te kiezen.",
+ "intro": "Vijf advertenties en twee nieuwsbrieven, gemaakt met jullie eigen foto's en productinformatie.",
+ "noot": "Hoi team Meubelmakerij van Ommen, een vader en zoon die elk bed zelf op maat maken in Hattemerbroek, met een 9,6 uit meer dan 750 beoordelingen: dat verhaal werkt goed op Instagram. Daar heb ik vijf advertenties en twee nieuwsbrieven omheen gemaakt, met jullie eigen foto's. Niets is gepubliceerd. Past het niet, zeg het gerust.",
+ "product_zin": "Hetzelfde steigerhouten bed",
+ "product": {
+  "naam": "Steigerhouten tweepersoonsbed met fruitkistjes",
+  "tekst": "Hetzelfde steigerhouten bed, vijf verschillende redenen om het te kopen. Elke reden wordt een eigen advertentie."
+ },
+ "fan": [2, 1, 5],
+ "funnel_obs": "Wat ik zag: in de advertentiebibliotheek van Meta vond ik geen advertenties van Meubelmakerij van Ommen, en op de site is nog geen nieuwsbrief. Jullie hebben wel al sterke laatste duwtjes: een 9,6 uit meer dan 750 beoordelingen en gratis levering en montage vanaf €499.",
+ "advertenties": [
+  {"fase": "TOF", "ref": "N07", "titel": "Hetzelfde bed, vijf keer anders", "invalshoek": "varianten", "vraag": "Past steigerhout eigenlijk wel bij mijn slaapkamer?", "waarom": "Vijf echte houtbehandelingen naast elkaar laten in één blik zien dat er voor elke slaapkamer een kleur is, van blackwash tot onbehandeld."},
+  {"fase": "TOF", "ref": "N03", "titel": "Een bed dat precies past", "invalshoek": "probleem → oplossing", "vraag": "Waar vind ik een bed dat in mijn kleine of schuine slaapkamer past?", "waarom": "Veel mensen lopen tegen standaardmaten aan. Deze advertentie noemt dat probleem en geeft meteen het antwoord: elke maat van 120 tot 200 breed en 180 tot 220 lang."},
+  {"fase": "MOF", "ref": "N15", "titel": "Zo komt jouw bed bij je thuis", "invalshoek": "hoe het werkt", "vraag": "Hoe werkt dat eigenlijk, een bed op maat bestellen?", "waarom": "Wie twijfelt, wil weten wat er gebeurt na het bestellen. Drie stappen met een echte foto uit jullie werkplaats maken het overzichtelijk en laten zien dat hier mensen aan werken, geen fabriek."},
+  {"fase": "MOF", "ref": "N10", "titel": "Alles in één bed met fruitkistjes", "invalshoek": "alles-in-één", "vraag": "Wat krijg ik precies voor dat geld?", "waarom": "Een rijtje met alles wat erbij zit (kistjes, maat, behandeling, hoofdbord) en de echte vanaf-prijs van €449 beantwoordt die vraag zonder dat iemand hoeft te zoeken."},
+  {"fase": "BOF", "ref": "N16", "titel": "Een 9,6 uit 750+ beoordelingen", "invalshoek": "zekerheid · bewijs", "vraag": "Kan ik deze makerij wel vertrouwen met zo'n grote aankoop?", "waarom": "Een laatste duwtje zonder korting te verzinnen: het echte cijfer van WebwinkelKeur, gratis levering en montage vanaf €499 en het Webwinkel Keurmerk bestaan al."}
+ ],
+ "waarom": {
+  "niche": "wonen",
+  "kop": "Zo groeien woonmerken op Instagram.",
+  "tekst": "De meeste mensen ontdekken een nieuwe meubelmaker niet via Google, maar tijdens het scrollen. Een bed koop je niet in één keer: mensen zien het een paar keer voorbij komen, vergelijken en beslissen dan. Advertenties voor elke stap en een welkomstmail zorgen dat ze bij die beslissing aan Van Ommen denken.",
+  "stats": [
+   {"getal": "20–30%", "label": "van de online omzet komt bij woonmerken vaak via Instagram en Facebook"},
+   {"getal": "70+", "label": "advertenties heeft Kas20meubels nu tegelijk live"},
+   {"getal": "1× per week", "label": "nieuwe advertenties testen houdt de kosten per aankoop laag"}
+  ],
+  "bron": "Aantal advertenties: Meta Advertentiebibliotheek, 27-11-2026."
+ },
+ "nieuwsbrieven": [
+  {"ref": "RE05", "type": "Welkomstmail", "onderwerp": "Welkom bij Meubelmakerij van Ommen", "kop": "Welkom bij Meubelmakerij van Ommen.", "tekst": "Er staat nog geen nieuwsbrief op de site. Deze welkomstmail is de eerste stap: een rustige groene herokaart met het bed met fruitkistjes, drie redenen in iconen en een kaart over Sjaak en Henk en de werkplaats.", "punten": ["Groene herokaart met jullie foto van het bed met fruitkistjes", "Drie iconen: op maat, handgemaakt in Nederland, gratis levering en montage vanaf €499", "Kaart 'Vader en zoon, sinds 2019' met een foto uit de werkplaats"]},
+  {"ref": "RE04", "type": "Assortimentsmail", "onderwerp": "Vier bedden, allemaal op jouw maat", "kop": "Vier bedden, allemaal op jouw maat.", "tekst": "Een mail voor wie nog twijfelt welk bed het wordt: vier modellen onder elkaar met een korte zin, de echte vanaf-prijs en een knop, en onderaan het cijfer van jullie klanten.", "punten": ["Hero met bed Hennie en de belofte: kies breedte, lengte en behandeling", "Gerjanne €299, Jasmijn €339, fruitkistjes €449, Hennie €469", "Groen blok met de 9,6 uit meer dan 750 beoordelingen"]}
+ ],
+ "ai_sfeer": false,
+ "gemaakt": "2026-11-27"
+}
